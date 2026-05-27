@@ -1,0 +1,30 @@
+name: Generate Monthly Puzzles
+
+on:
+  schedule:
+    - cron: "0 0 5 * *"   # Runs monthly on the 5th
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Install deps
+        run: npm install
+      - name: Run generator
+        run: npx ts-node scripts/autoGenerate.ts
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      - name: Commit results
+        run: |
+          git config user.name "Github Actions"
+          git config user.email "bot@github.com"
+          git add .
+          git commit -m "Montly puzzle + lexicon update" || echo "No changes"
+          git push

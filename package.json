@@ -1,0 +1,25 @@
+{
+  "name": "connected-cards-be",
+  "version": "1.0.0",
+  "description": "CI/CD backend for Connected Cards application",
+  "main": "index.js",
+  "scripts": {
+    "generate": "ts-node scripts/devGenerate.ts",
+    "repair": "ts-node scripts/devRepair.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^4.3.0",
+    "fs-extra": "^11.3.5",
+    "openai": "^6.39.0",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^11.0.4",
+    "@types/node": "^25.9.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.3"
+  }
+}
