@@ -1,52 +1,27 @@
 import fs from "fs-extra";
+import { zodTextFormat } from "openai/helpers/zod";
 import { client } from "./utils";
-
-const GENERATION_MODEL = "gpt-4.1-mini";
-
-const prompt = (words: string[]) => `
-You are an expert English dictionary generator.
-
-For EACH word:
-- Include ALL parts of speech (noun, verb, adj, adv)
-- Provide clear ESL-friendly definitions
-- Include synonyms
-- Include example sentences
-
-STRICT JSON FORMAT:
-
-{
-    "word1": [
-        {
-            "part_of_speech": "noun | verb | adjective | adverb",
-            "definition: "string",
-            "synonyms": ["string"],
-            "examples": ["string"]
-        }
-    ],
-    ...
-}
-
-Words:
-${words.join(",")}
-
-Return ONLY JSON.
-`
+import { generationGPTModel, lexiconPrompt } from "./prompts";
+import { LexiconResponseSchema } from "./schema";
 
 export async function generateLexicon(words: string[]) {
-    const response = await client.responses.create({
-        model: GENERATION_MODEL,
-        input: prompt(words),
+    const response = await client.responses.parse({
+        model: generationGPTModel,
+        input: lexiconPrompt(words),
+        text: {
+            format: zodTextFormat(LexiconResponseSchema, "lexicon_response"),
+        }
     });
 
-    const data = JSON.parse(response.output_text);
-    for (const word of Object.keys(data)) {
-        const letter = word[0].toLowerCase();
+    const output = response.output_parsed ?? { data: [] };
+    for (const entry of output.data) {
+        const letter = entry.word[0].toLowerCase();
         const file = `lexicon/${letter}.json`;
 
         // Add lexicon to file
         let existing: Record<string, any> = {};
         if (fs.existsSync(file)) existing = fs.readJSONSync(file);
-        existing[word] = data[word];
+        existing[entry.word] = entry.definitions;
         fs.writeJSONSync(file, existing, { spaces: 4 });
     }
 }

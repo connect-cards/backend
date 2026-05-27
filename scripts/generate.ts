@@ -15,8 +15,33 @@ function getNextMonth() {
 }
 
 async function main() {
-    const { year, month } = getNextMonth();
+    // STEP 1: Get year and month
+    let year = Number(process.argv[2]);
+    let month = Number(process.argv[3]);
+
+    if (!year || !month) {
+        console.log(`Either year (2nd arg) or month (3rd arg) not specified. Using default values instead!\n\n\
+            ------------\n\
+            Usage: npm run generate [year] [month] \n\
+            Example: npm run generate 2026 6`);
+        
+        const date = getNextMonth();
+        year = date.year;
+        month = date.month;
+    }
+
+    // STEP 2: Generate puzzles
+
+    console.log(`Generating puzzles for ${year}/${month}...`);
+
     await generateMonthlyPuzzles(year, month);
+
+    console.log(`Puzzles generated: /puzzles/${year}/${month}`);
+
+    // STEP 3: Generate lexicon
+
+    console.log('Generating lexicon...')
+
     const words = new Set<string>();
     const folder = `puzzles/${year}/${String(month).padStart(2, '0')}`;
     const puzzleFiles = fs.readdirSync(folder);
@@ -42,6 +67,8 @@ async function main() {
         return !Object.prototype.hasOwnProperty.call(existing, word);
     });
     if (newWords.length > 0) await generateLexicon(newWords);
+
+    console.log('Lexicon generated:', newWords.join(', '));
 }
 
 main();

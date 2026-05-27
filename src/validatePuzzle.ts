@@ -1,8 +1,8 @@
-import { puzzleSchema } from "./schema";
+import { PuzzleSchema } from "./schema";
 
 export function validatePuzzle(json: any) {
     // Check schema
-    const result = puzzleSchema.safeParse(json);
+    const result = PuzzleSchema.safeParse(json);
     if (!result.success) throw new Error("Schema invalid");
 
     // Check duplicates

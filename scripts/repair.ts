@@ -16,7 +16,7 @@ async function main() {
 
     const fixed = await repairPuzzle(badJson);
 
-    fs.writeFileSync(filePath, fixed);
+    fs.writeFileSync(filePath, JSON.stringify(fixed, null, 2));
 
     console.log("Puzzle repaired:", filePath);
 }

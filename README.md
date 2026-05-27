@@ -15,17 +15,17 @@ connected-cards-be/
 │   └── ...
 │
 ├── scripts/
-│   ├── autoGenerate.ts
-│   ├── devGenerate.ts
-│   ├── devRepair.ts
+│   ├── generate.ts
+│   ├── repair.ts
 │
 ├── src/
 │   ├── generatePuzzles.ts
 │   ├── generateLexicon.ts
-│   ├── validatePuzzle.ts
 │   ├── repairPuzzle.ts
-│   └── utils.ts
+│   ├── validatePuzzle.ts
+│   └── prompts.ts
 │   └── schema.ts
+│   └── utils.ts
 │
 ├── .github/workflows/
 │   └── monthly-generation.yml
