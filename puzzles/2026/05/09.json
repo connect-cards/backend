@@ -1,0 +1,60 @@
+{
+  "date": "2026-05-09",
+  "version": 4,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "G1",
+      "type": "category",
+      "difficulty": 1,
+      "title": "Weather phenomena",
+      "words": [
+        "rain",
+        "snow",
+        "hail",
+        "thunder"
+      ]
+    },
+    {
+      "id": "G2",
+      "type": "category",
+      "difficulty": 2,
+      "title": "Professions",
+      "words": [
+        "teacher",
+        "engineer",
+        "nurse",
+        "lawyer"
+      ]
+    },
+    {
+      "id": "G3",
+      "type": "category",
+      "difficulty": 3,
+      "title": "Silent-letter words",
+      "words": [
+        "hour",
+        "honest",
+        "knight",
+        "gnome"
+      ]
+    },
+    {
+      "id": "G4",
+      "type": "category",
+      "difficulty": 4,
+      "title": "Liturgical vestments",
+      "words": [
+        "amice",
+        "alb",
+        "cope",
+        "dalmatic"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "date": "2026-05-01",
+  "version": 2,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "impossible"
+  ],
+  "groups": [
+    {
+      "id": "g_easy2",
+      "type": "easy",
+      "difficulty": 1,
+      "title": "Common household objects",
+      "words": [
+        "chair",
+        "table",
+        "lamp",
+        "rug"
+      ]
+    },
+    {
+      "id": "g_medium2",
+      "type": "medium",
+      "difficulty": 2,
+      "title": "Humor styles",
+      "words": [
+        "droll",
+        "wry",
+        "facetious",
+        "satirical"
+      ]
+    },
+    {
+      "id": "g_hard2",
+      "type": "hard",
+      "difficulty": 3,
+      "title": "Acute intelligence terms",
+      "words": [
+        "erudite",
+        "sagacious",
+        "astute",
+        "perspicacious"
+      ]
+    },
+    {
+      "id": "g_vhard2",
+      "type": "very-hard",
+      "difficulty": 4,
+      "title": "Obscure sensory terms",
+      "words": [
+        "apricity",
+        "petrichor",
+        "susurrus",
+        "sough"
+      ]
+    }
+  ]
+}

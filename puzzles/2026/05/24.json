@@ -1,0 +1,60 @@
+{
+  "date": "2026-05-24",
+  "version": 1,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "G1",
+      "type": "physical_trait",
+      "difficulty": 1,
+      "title": "appearance",
+      "words": [
+        "short",
+        "tall",
+        "round",
+        "slim"
+      ]
+    },
+    {
+      "id": "G2",
+      "type": "informal_register",
+      "difficulty": 2,
+      "title": "informal",
+      "words": [
+        "guy",
+        "fella",
+        "bloke",
+        "buddy"
+      ]
+    },
+    {
+      "id": "G3",
+      "type": "etymological_relation",
+      "difficulty": 3,
+      "title": "etymology",
+      "words": [
+        "describe",
+        "inscribe",
+        "manuscript",
+        "scribble"
+      ]
+    },
+    {
+      "id": "G4",
+      "type": "emotional_tone",
+      "difficulty": 4,
+      "title": "tone",
+      "words": [
+        "lugubrious",
+        "ebullient",
+        "saturnine",
+        "effusive"
+      ]
+    }
+  ]
+}

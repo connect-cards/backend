@@ -1,0 +1,398 @@
+{
+    "tradition": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a belief, custom, or way of doing something that is passed down through generations.",
+            "synonyms": [
+                "custom",
+                "heritage",
+                "practice"
+            ],
+            "examples": [
+                "Tradition says we share a meal on holidays."
+            ]
+        }
+    ],
+    "tablet": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a thin, flat device with a screen used for computing or reading.",
+            "synonyms": [
+                "pad",
+                "slate",
+                "tablet computer"
+            ],
+            "examples": [
+                "He read the article on a tablet."
+            ]
+        }
+    ],
+    "tiny": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very small in size.",
+            "synonyms": [
+                "small",
+                "miniature",
+                "minute"
+            ],
+            "examples": [
+                "She eats tiny portions."
+            ]
+        }
+    ],
+    "teach": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to help someone learn or know something through instruction.",
+            "synonyms": [
+                "instruct",
+                "educate",
+                "train"
+            ],
+            "examples": [
+                "It is important to teach children kindness."
+            ]
+        }
+    ],
+    "teacher": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who teaches, especially in a school.",
+            "synonyms": [
+                "instructor",
+                "educator",
+                "tutor"
+            ],
+            "examples": [
+                "The teacher gave us extra practice."
+            ]
+        }
+    ],
+    "teaching": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the act or process of guiding learning.",
+            "synonyms": [
+                "instruction",
+                "education",
+                "pedagogy"
+            ],
+            "examples": [
+                "Her teaching style is very effective."
+            ]
+        }
+    ],
+    "teachable": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "able and willing to learn new things.",
+            "synonyms": [
+                "trainable",
+                "learnable",
+                "receptive"
+            ],
+            "examples": [
+                "The child is teachable and curious."
+            ]
+        }
+    ],
+    "travel": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to go from one place to another; to journey.",
+            "synonyms": [
+                "journey",
+                "go",
+                "move"
+            ],
+            "examples": [
+                "We like to travel during holidays."
+            ]
+        }
+    ],
+    "trip": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a short journey or excursion.",
+            "synonyms": [
+                "excursion",
+                "journey",
+                "outing"
+            ],
+            "examples": [
+                "We went on a weekend trip."
+            ]
+        }
+    ],
+    "train": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a connected set of vehicles that runs on rails and is used for transporting people or goods.",
+            "synonyms": [
+                "locomotive",
+                "railcar"
+            ],
+            "examples": [
+                "She travels by train to work."
+            ]
+        }
+    ],
+    "thrilled": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "extremely excited or pleased.",
+            "synonyms": [
+                "excited",
+                "delighted",
+                "overjoyed"
+            ],
+            "examples": [
+                "The crowd was thrilled by the performance."
+            ]
+        }
+    ],
+    "tough": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "difficult to do or endure; strong.",
+            "synonyms": [
+                "difficult",
+                "hard",
+                "sturdy"
+            ],
+            "examples": [
+                "The exam was tough this year."
+            ]
+        }
+    ],
+    "tasty": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having a good taste; flavorful.",
+            "synonyms": [
+                "delicious",
+                "yummy",
+                "savory"
+            ],
+            "examples": [
+                "We had a tasty dinner."
+            ]
+        }
+    ],
+    "tricky": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "difficult or troublesome; requiring care.",
+            "synonyms": [
+                "difficult",
+                "difficult",
+                "complicated"
+            ],
+            "examples": [
+                "A tricky situation occurred at work."
+            ]
+        }
+    ],
+    "theater": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a place where plays, movies, or performances are shown.",
+            "synonyms": [
+                "cinema",
+                "playhouse"
+            ],
+            "examples": [
+                "The theater was crowded."
+            ]
+        }
+    ],
+    "table": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a flat surface with legs used for eating or working.",
+            "synonyms": [
+                "desk",
+                "board"
+            ],
+            "examples": [
+                "Put your books on the table."
+            ]
+        }
+    ],
+    "tea": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a hot drink made by infusing leaves in water.",
+            "synonyms": [
+                "tEA",
+                "brew"
+            ],
+            "examples": [
+                "Would you like a cup of tea?"
+            ]
+        }
+    ],
+    "traveler": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who is traveling or who travels often.",
+            "synonyms": [
+                "tourist",
+                "wayfarer"
+            ],
+            "examples": [
+                "The traveler checked the map."
+            ]
+        }
+    ],
+    "traveling": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "in the process of traveling; moving from place to place.",
+            "synonyms": [
+                "roaming",
+                "journeying"
+            ],
+            "examples": [
+                "We are traveling through Europe."
+            ]
+        }
+    ],
+    "travelled": [
+        {
+            "part_of_speech": "verb",
+            "definition": "the past tense of travel; went from one place to another.",
+            "synonyms": [
+                "traveled",
+                "went",
+                "journeyed"
+            ],
+            "examples": [
+                "We travelled yesterday."
+            ]
+        }
+    ],
+    "terrified": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "extremely frightened.",
+            "synonyms": [
+                "petrified",
+                "aghast",
+                "scared"
+            ],
+            "examples": [
+                "She was terrified to hear the loud bang."
+            ]
+        }
+    ],
+    "tv": [
+        {
+            "part_of_speech": "noun",
+            "definition": "short for television; a device or program.",
+            "synonyms": [
+                "television"
+            ],
+            "examples": [
+                "The TV is on in the living room."
+            ]
+        }
+    ],
+    "thriller": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a book or film with exciting and suspenseful moments.",
+            "synonyms": [
+                "suspense",
+                "exciting story"
+            ],
+            "examples": [
+                "The thriller ends with a twist."
+            ]
+        }
+    ],
+    "tint": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To color something slightly or give it a shade of a color.",
+            "synonyms": [
+                "color",
+                "colorize",
+                "hue"
+            ],
+            "examples": [
+                "Her cheeks were tinted pink from the cold."
+            ]
+        }
+    ],
+    "terse": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Brief and to the point; using few words.",
+            "synonyms": [
+                "concise",
+                "succinct",
+                "curt"
+            ],
+            "examples": [
+                "The report was terse but informative."
+            ]
+        }
+    ],
+    "tercet": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A group of three lines of verse forming a unit.",
+            "synonyms": [
+                "triplet",
+                "triple",
+                "trio"
+            ],
+            "examples": [
+                "The poem ends with a tercet that sums up the theme."
+            ]
+        }
+    ],
+    "terzetto": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A short piece of opera for three singers; a trio.",
+            "synonyms": [
+                "trio",
+                "triple"
+            ],
+            "examples": [
+                "The terzetto showcased the three leads."
+            ]
+        }
+    ],
+    "ternion": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A group or set of three; a triad.",
+            "synonyms": [
+                "trio",
+                "triad",
+                "three"
+            ],
+            "examples": [
+                "A ternion of explorers set out at dawn."
+            ]
+        }
+    ],
+    "trine": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A group or set of three; a triad; in astrology a favorable aspect to the earth.",
+            "synonyms": [
+                "trio",
+                "triad",
+                "three"
+            ],
+            "examples": [
+                "The magnetism formed a trine with the compass needle."
+            ]
+        }
+    ]
+}

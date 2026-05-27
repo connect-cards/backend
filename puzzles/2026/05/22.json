@@ -1,0 +1,60 @@
+{
+  "date": "2026-05-22",
+  "version": 4,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "g4e",
+      "type": "easy",
+      "difficulty": 1,
+      "title": "Fruits",
+      "words": [
+        "apple",
+        "banana",
+        "grape",
+        "orange"
+      ]
+    },
+    {
+      "id": "g4m",
+      "type": "medium",
+      "difficulty": 2,
+      "title": "Observe/Look",
+      "words": [
+        "watch",
+        "peer",
+        "gaze",
+        "ogle"
+      ]
+    },
+    {
+      "id": "g4h",
+      "type": "hard",
+      "difficulty": 3,
+      "title": "Justice/Equity Terms",
+      "words": [
+        "equity",
+        "parity",
+        "impartiality",
+        "fairness"
+      ]
+    },
+    {
+      "id": "g4vh",
+      "type": "very-hard",
+      "difficulty": 4,
+      "title": "Rare Lexical Items",
+      "words": [
+        "zephyr",
+        "susurrus",
+        "petrichor",
+        "exeunt"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "date": "2026-05-15",
+  "version": 3,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "D3G1",
+      "type": "easy",
+      "difficulty": 1,
+      "title": "Domestic animals",
+      "words": [
+        "cat",
+        "dog",
+        "pig",
+        "hen"
+      ]
+    },
+    {
+      "id": "D3G2",
+      "type": "medium",
+      "difficulty": 2,
+      "title": "Music notation terms",
+      "words": [
+        "tempo",
+        "clef",
+        "note",
+        "rest"
+      ]
+    },
+    {
+      "id": "D3G3",
+      "type": "hard",
+      "difficulty": 3,
+      "title": "Clever descriptors",
+      "words": [
+        "astute",
+        "shrewd",
+        "adroit",
+        "dexterous"
+      ]
+    },
+    {
+      "id": "D3G4",
+      "type": "very-hard",
+      "difficulty": 4,
+      "title": "Obscure words",
+      "words": [
+        "defenestrate",
+        "petrichor",
+        "sesquipedalian",
+        "quixotic"
+      ]
+    }
+  ]
+}

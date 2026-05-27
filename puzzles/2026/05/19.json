@@ -1,0 +1,60 @@
+{
+  "date": "2026-05-19",
+  "version": 3,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "emotional_tone",
+      "difficulty": 1,
+      "title": "Emotional tones",
+      "words": [
+        "happy",
+        "sad",
+        "anxious",
+        "calm"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "morphological_family",
+      "difficulty": 2,
+      "title": "Aqua- words",
+      "words": [
+        "aquatic",
+        "aquifer",
+        "aquarium",
+        "aqueous"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "literary_register",
+      "difficulty": 3,
+      "title": "Poetic forms",
+      "words": [
+        "ode",
+        "elegy",
+        "sonnet",
+        "ballad"
+      ]
+    },
+    {
+      "id": "g4",
+      "type": "physical_trait",
+      "difficulty": 4,
+      "title": "Physique descriptors (advanced)",
+      "words": [
+        "sinewy",
+        "brawny",
+        "slender",
+        "portly"
+      ]
+    }
+  ]
+}

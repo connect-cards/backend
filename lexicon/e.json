@@ -1,0 +1,308 @@
+{
+    "educate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to teach or train someone; to provide education.",
+            "synonyms": [
+                "teach",
+                "instruct",
+                "train"
+            ],
+            "examples": [
+                "Educators aim to educate every student equally."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the process of learning and teaching; the knowledge and skills gained.",
+            "synonyms": [
+                "instruction",
+                "learning",
+                " schooling"
+            ],
+            "examples": [
+                "She values a good education."
+            ]
+        }
+    ],
+    "educator": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who teaches or provides education.",
+            "synonyms": [
+                "teacher",
+                "instructor",
+                "mentor"
+            ],
+            "examples": [
+                "The educator explained the lesson clearly."
+            ]
+        }
+    ],
+    "educational": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "related to education or learning.",
+            "synonyms": [
+                "instructional",
+                "educationally informative",
+                "informative"
+            ],
+            "examples": [
+                "This is an educational video for kids."
+            ]
+        }
+    ],
+    "enormous": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "extremely large in size or amount.",
+            "synonyms": [
+                "vast",
+                "immense",
+                "giant"
+            ],
+            "examples": [
+                "An enormous crowd gathered at the stadium."
+            ]
+        }
+    ],
+    "enjoyment": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the feeling of taking pleasure or satisfaction in something.",
+            "synonyms": [
+                "pleasure",
+                "delight",
+                "satisfaction"
+            ],
+            "examples": [
+                "Spending time with friends brings enjoyment."
+            ]
+        }
+    ],
+    "excited": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very enthusiastic or eager.",
+            "synonyms": [
+                "thrilled",
+                "enthusiastic",
+                "stoked"
+            ],
+            "examples": [
+                "He looked excited to start the project."
+            ]
+        }
+    ],
+    "eager": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very interested and wanting something to happen soon.",
+            "synonyms": [
+                "anxious",
+                "keen",
+                "enthusiastic"
+            ],
+            "examples": [
+                "The children were eager for recess."
+            ]
+        }
+    ],
+    "elated": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very happy or proud; feeling great joy.",
+            "synonyms": [
+                "overjoyed",
+                "delighted",
+                "joyful"
+            ],
+            "examples": [
+                "She felt elated after the win."
+            ]
+        }
+    ],
+    "eat": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to take food into the mouth and swallow it.",
+            "synonyms": [
+                "consume",
+                "ingest",
+                "chew"
+            ],
+            "examples": [
+                "Children eat slowly when they are sick."
+            ]
+        }
+    ],
+    "eater": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person or animal that eats.",
+            "synonyms": [
+                "consumer",
+                "eater"
+            ],
+            "examples": [
+                "The picky eater refused the vegetables."
+            ]
+        }
+    ],
+    "eating": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the act of consuming food.",
+            "synonyms": [
+                "consumption",
+                "mealtime"
+            ],
+            "examples": [
+                "Eating together is a family tradition."
+            ]
+        }
+    ],
+    "eaten": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having been eaten; consumed.",
+            "synonyms": [
+                "consumed",
+                "gone"
+            ],
+            "examples": [
+                "The cookies are eaten today."
+            ]
+        }
+    ],
+    "elderly": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "older in age; not young.",
+            "synonyms": [
+                "old",
+                "aged",
+                "senior"
+            ],
+            "examples": [
+                "The elderly use more comfortable seats."
+            ]
+        }
+    ],
+    "easy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "not difficult; simple or not hard to do.",
+            "synonyms": [
+                "simple",
+                "effortless",
+                "straightforward"
+            ],
+            "examples": [
+                "Take the easy route this time."
+            ]
+        }
+    ],
+    "effortless": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "requiring little or no effort; easy.",
+            "synonyms": [
+                "easy",
+                "smooth",
+                "natural"
+            ],
+            "examples": [
+                "Her performance looked effortless."
+            ]
+        }
+    ],
+    "erudite": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Having or showing extensive knowledge gained from studying.",
+            "synonyms": [
+                "learned",
+                "scholarly",
+                "well-read",
+                "cultured"
+            ],
+            "examples": [
+                "The erudite professor gave a thorough lecture on ancient philosophy."
+            ]
+        }
+    ],
+    "eldritch": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Strange or uncanny in a spooky way.",
+            "synonyms": [
+                "eerie",
+                "uncanny",
+                "weird"
+            ],
+            "examples": [
+                "The old house had an eldritch atmosphere."
+            ]
+        }
+    ],
+    "emerald": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Green in color, like the gemstone emerald.",
+            "synonyms": [
+                "green",
+                "verdant",
+                "jade"
+            ],
+            "examples": [
+                "Emerald forests covered the hills."
+            ]
+        }
+    ],
+    "engineering": [
+        {
+            "part_of_speech": "noun",
+            "definition": "The branch of science and technology concerned with designing, building, and using engines, machines, and structures.",
+            "synonyms": [
+                "tech",
+                "construction",
+                "design"
+            ],
+            "examples": [
+                "She works in mechanical engineering."
+            ]
+        }
+    ],
+    "epistolary": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Relating to or consisting of letters; written as letters.",
+            "synonyms": [
+                "letter",
+                "correspondence",
+                "alphabetical"
+            ],
+            "examples": [
+                "The novel is written in an epistolary style."
+            ]
+        }
+    ],
+    "elegiac": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "In the style of an elegy; mournful or reflective in tone.",
+            "synonyms": [
+                "melancholic",
+                "lamenting",
+                "mournful"
+            ],
+            "examples": [
+                "The poem has an elegiac mood."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "yummy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "informal for tasty or delicious.",
+            "synonyms": [
+                "delicious",
+                "tasty",
+                "scrumptious"
+            ],
+            "examples": [
+                "The cookies are yummy."
+            ]
+        }
+    ]
+}

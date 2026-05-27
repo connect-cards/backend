@@ -1,0 +1,15 @@
+{
+    "knife": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a utensil used for cutting; a blade with a handle.",
+            "synonyms": [
+                "blade",
+                "cutlery"
+            ],
+            "examples": [
+                "Careful with the knife."
+            ]
+        }
+    ]
+}

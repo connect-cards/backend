@@ -1,0 +1,60 @@
+{
+  "date": "2026-05-14",
+  "version": 2,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "D2G1",
+      "type": "easy",
+      "difficulty": 1,
+      "title": "Literary objects",
+      "words": [
+        "book",
+        "page",
+        "chapter",
+        "novel"
+      ]
+    },
+    {
+      "id": "D2G2",
+      "type": "medium",
+      "difficulty": 2,
+      "title": "Short reports/ tidbits",
+      "words": [
+        "tidbit",
+        "anecdote",
+        "gossip",
+        "rumor"
+      ]
+    },
+    {
+      "id": "D2G3",
+      "type": "hard",
+      "difficulty": 3,
+      "title": "Wise descriptors",
+      "words": [
+        "perspicacious",
+        "sagacious",
+        "erudite",
+        "learned"
+      ]
+    },
+    {
+      "id": "D2G4",
+      "type": "very-hard",
+      "difficulty": 4,
+      "title": "Esoteric terms",
+      "words": [
+        "recondite",
+        "arcane",
+        "esoteric",
+        "hermetic"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,510 @@
+{
+    "cheerful": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "happy and optimistic; showing cheer.",
+            "synonyms": [
+                "cordial",
+                "joyful",
+                "bright"
+            ],
+            "examples": [
+                "The room looked cheerful with colorful balloons."
+            ]
+        }
+    ],
+    "ceremony": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a formal event performed to mark an occasion.",
+            "synonyms": [
+                "ritual",
+                "ritual",
+                "formality"
+            ],
+            "examples": [
+                "The ceremony began at dawn."
+            ]
+        }
+    ],
+    "compact": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "closely packed together; small but efficient.",
+            "synonyms": [
+                "dense",
+                "concise",
+                "tight"
+            ],
+            "examples": [
+                "They bought a compact apartment in the city."
+            ]
+        }
+    ],
+    "car": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a road vehicle with four wheels used for carrying passengers.",
+            "synonyms": [
+                "automobile",
+                "vehicle",
+                "auto"
+            ],
+            "examples": [
+                "The car stopped at the red light."
+            ]
+        }
+    ],
+    "create": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make something new; to bring something into existence.",
+            "synonyms": [
+                "make",
+                "produce",
+                "generate"
+            ],
+            "examples": [
+                "She likes to create stories for children."
+            ]
+        }
+    ],
+    "creation": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the act of creating something new; something that has been created.",
+            "synonyms": [
+                "production",
+                "generation",
+                "invention"
+            ],
+            "examples": [
+                "The creation of this painting surprised everyone."
+            ]
+        }
+    ],
+    "creative": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having the ability to create or think of new ideas.",
+            "synonyms": [
+                "inventive",
+                "imaginative",
+                "original"
+            ],
+            "examples": [
+                "A creative solution helped the team."
+            ]
+        }
+    ],
+    "creativity": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the use of imagination or original ideas to create something; originality.",
+            "synonyms": [
+                "imagination",
+                "originality"
+            ],
+            "examples": [
+                "Creativity can solve complex problems."
+            ]
+        }
+    ],
+    "cycling": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the activity of riding a bicycle; the sport of cycling.",
+            "synonyms": [
+                "biking",
+                "bicycling"
+            ],
+            "examples": [
+                "Cycling is good cardio exercise."
+            ]
+        }
+    ],
+    "challenging": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "difficult but interesting and stimulating.",
+            "synonyms": [
+                "demanding",
+                "testing",
+                "requiring effort"
+            ],
+            "examples": [
+                "The job offers a challenging task."
+            ]
+        }
+    ],
+    "children": [
+        {
+            "part_of_speech": "noun",
+            "definition": "plural of child; young human beings.",
+            "synonyms": [
+                "kids",
+                "sons and daughters"
+            ],
+            "examples": [
+                "Children learn quickly."
+            ]
+        }
+    ],
+    "classical": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "related to ancient Greek or Roman music, or a traditional form of music with harmony.",
+            "synonyms": [
+                "traditional",
+                "orthodox",
+                "serious"
+            ],
+            "examples": [
+                "Classical music played softly in the background."
+            ]
+        }
+    ],
+    "commence": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to begin; to start.",
+            "synonyms": [
+                "begin",
+                "start",
+                "initiate"
+            ],
+            "examples": [
+                "They commenced work after lunch."
+            ]
+        }
+    ],
+    "celebration": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the act of marking an important event with enjoyment.",
+            "synonyms": [
+                "festivity",
+                "rejoicing",
+                "commemoration"
+            ],
+            "examples": [
+                "National independence day is a celebration."
+            ]
+        }
+    ],
+    "clever": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "quick to understand, learn, or devise; smart.",
+            "synonyms": [
+                "smart",
+                "bright",
+                "ingenious"
+            ],
+            "examples": [
+                "He is a clever thinker."
+            ]
+        }
+    ],
+    "calm": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "not showing or feeling nervousness, anger, or other strong feelings; peaceful.",
+            "synonyms": [
+                "peaceful",
+                "tranquil",
+                "serene"
+            ],
+            "examples": [
+                "Take a deep breath and stay calm."
+            ]
+        }
+    ],
+    "chair": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a seat for one person, usually with a back.",
+            "synonyms": [
+                "seat",
+                "armchair"
+            ],
+            "examples": [
+                "The chair is comfortable."
+            ]
+        }
+    ],
+    "construct": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to build or form by putting together parts.",
+            "synonyms": [
+                "build",
+                "create",
+                "assemble"
+            ],
+            "examples": [
+                "We will construct a model of the city."
+            ]
+        }
+    ],
+    "construction": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the process of building something or the built structure itself.",
+            "synonyms": [
+                "building",
+                "erection",
+                "creation"
+            ],
+            "examples": [
+                "The construction site is busy."
+            ]
+        }
+    ],
+    "constructive": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having a useful and helpful purpose; building up.",
+            "synonyms": [
+                "productive",
+                "positive",
+                "useful"
+            ],
+            "examples": [
+                "Her comments were constructive."
+            ]
+        }
+    ],
+    "constructed": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "built or formed by combining parts.",
+            "synonyms": [
+                "built",
+                "made",
+                "assembled"
+            ],
+            "examples": [
+                "The building is well constructed."
+            ]
+        }
+    ],
+    "coat": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an outer garment worn outdoors; a layer of covering.",
+            "synonyms": [
+                "jacket",
+                "overcoat"
+            ],
+            "examples": [
+                "The coat kept him warm."
+            ]
+        }
+    ],
+    "cool": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "moderately cold in temperature or fashionable; calm.",
+            "synonyms": [
+                "cold",
+                "refreshing",
+                "calm"
+            ],
+            "examples": [
+                "She wears a cool hat."
+            ]
+        }
+    ],
+    "chilly": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "uncomfortably or unpleasantly cold.",
+            "synonyms": [
+                "cold",
+                "cool",
+                "frosty"
+            ],
+            "examples": [
+                "It was chilly in the morning."
+            ]
+        }
+    ],
+    "cousins": [
+        {
+            "part_of_speech": "noun",
+            "definition": "plural of cousin; the children of aunt or uncle.",
+            "synonyms": [
+                "relatives",
+                "kin"
+            ],
+            "examples": [
+                "Cousins gathered for the family reunion."
+            ]
+        }
+    ],
+    "computer": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an electronic device for storing and processing data.",
+            "synonyms": [
+                "pc",
+                "computer system"
+            ],
+            "examples": [
+                "She uses a computer at school."
+            ]
+        }
+    ],
+    "cloud": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a visible mass of condensed water vapor in the sky; also storage on the internet.",
+            "synonyms": [
+                "sky",
+                "mist"
+            ],
+            "examples": [
+                "Clouds cover the sky today."
+            ]
+        }
+    ],
+    "cook": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to prepare food by heating it.",
+            "synonyms": [
+                "prepare",
+                "cookery",
+                "fry"
+            ],
+            "examples": [
+                "They cook together on weekends."
+            ]
+        }
+    ],
+    "cookbook": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a book containing recipes and instructions for cooking.",
+            "synonyms": [
+                "recipes",
+                "cookery book"
+            ],
+            "examples": [
+                "I bought a new cookbook."
+            ]
+        }
+    ],
+    "cooking": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the practice or skill of preparing food by heating it.",
+            "synonyms": [
+                "cuisine",
+                "cookery"
+            ],
+            "examples": [
+                "Cooking helps us eat better."
+            ]
+        }
+    ],
+    "cooked": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "prepared by heating; not raw.",
+            "synonyms": [
+                "prepared",
+                "done",
+                "ready"
+            ],
+            "examples": [
+                "The egg is cooked."
+            ]
+        }
+    ],
+    "cookery": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the art or practice of cooking; cookery books.",
+            "synonyms": [
+                "cookery",
+                "cuisine"
+            ],
+            "examples": [
+                "They studied cookery at culinary school."
+            ]
+        }
+    ],
+    "comedy": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a type of humorous entertainment; a funny story or movie.",
+            "synonyms": [
+                "humor",
+                "humour",
+                "farce"
+            ],
+            "examples": [
+                "They enjoyed the comedy together."
+            ]
+        }
+    ],
+    "cousin": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A child of your aunt or uncle; a relative.",
+            "synonyms": [
+                "relative",
+                "kin",
+                "family member"
+            ],
+            "examples": [
+                "Her cousin lives in Ireland.",
+                "I'm visiting my cousin next month."
+            ]
+        }
+    ],
+    "chap": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A man; a fellow; a guy (informal).",
+            "synonyms": [
+                "guy",
+                "fellow",
+                "man"
+            ],
+            "examples": [
+                "He is a nice chap to work with."
+            ]
+        }
+    ],
+    "curt": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Rudely short or abrupt in speech or manner.",
+            "synonyms": [
+                "brusque",
+                "taciturn",
+                "brief"
+            ],
+            "examples": [
+                "The clerk gave a curt answer and walked away."
+            ]
+        }
+    ],
+    "crimson": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Having a deep red color.",
+            "synonyms": [
+                "red",
+                "vermilion",
+                "scarlet"
+            ],
+            "examples": [
+                "Crimson leaves filled the ground in autumn."
+            ]
+        }
+    ]
+}

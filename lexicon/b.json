@@ -1,0 +1,387 @@
+{
+    "brother": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a brother is a male sibling.",
+            "synonyms": [
+                "sibling",
+                "bro"
+            ],
+            "examples": [
+                "Her brother helped with the car."
+            ]
+        }
+    ],
+    "bus": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a large road vehicle designed to carry many passengers.",
+            "synonyms": [
+                "coach",
+                "minibus"
+            ],
+            "examples": [
+                "We took the bus to the city."
+            ]
+        }
+    ],
+    "begin": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to come or go into existence or to start.",
+            "synonyms": [
+                "start",
+                "commence",
+                "initiate"
+            ],
+            "examples": [
+                "They will begin soon."
+            ]
+        }
+    ],
+    "bread": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a staple food made from flour and water that is baked.",
+            "synonyms": [
+                "loaf",
+                "breadloaf"
+            ],
+            "examples": [
+                "Fresh bread smells wonderful."
+            ]
+        }
+    ],
+    "build": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make something by putting parts together; to construct.",
+            "synonyms": [
+                "construct",
+                "make",
+                "assemble"
+            ],
+            "examples": [
+                "We will build shelves for the room."
+            ]
+        }
+    ],
+    "builder": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who builds things; a constructor.",
+            "synonyms": [
+                "constructor",
+                "craftsman",
+                "carpenter"
+            ],
+            "examples": [
+                "A skilled builder works on the project."
+            ]
+        }
+    ],
+    "building": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the act or the structure of something being built.",
+            "synonyms": [
+                "structure",
+                "edifice",
+                "construction"
+            ],
+            "examples": [
+                "The building looks new."
+            ]
+        }
+    ],
+    "built": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "constructed; created.",
+            "synonyms": [
+                "constructed",
+                "made",
+                "formed"
+            ],
+            "examples": [
+                "The built house stands strong."
+            ]
+        }
+    ],
+    "bright": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "full of light; intelligent or quick-witted.",
+            "synonyms": [
+                "smart",
+                "clever",
+                "luminous"
+            ],
+            "examples": [
+                "The sun is bright today."
+            ]
+        }
+    ],
+    "boil": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to heat a liquid until it becomes hot and bubbles appear.",
+            "synonyms": [
+                "simmer",
+                "cook"
+            ],
+            "examples": [
+                "Boil the eggs for 8 minutes."
+            ]
+        }
+    ],
+    "bake": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to cook by dry heat, usually in an oven.",
+            "synonyms": [
+                "cook",
+                "roast"
+            ],
+            "examples": [
+                "We bake cookies every Christmas."
+            ]
+        }
+    ],
+    "big": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "of considerable size.",
+            "synonyms": [
+                "large",
+                "huge",
+                "giant"
+            ],
+            "examples": [
+                "He lives in a big city."
+            ]
+        }
+    ],
+    "ball": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a round object used in sports and games.",
+            "synonyms": [
+                "sphere",
+                "orb"
+            ],
+            "examples": [
+                "They kicked the ball across the field."
+            ]
+        }
+    ],
+    "bat": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a smooth wooden stick used in sports to hit the ball.",
+            "synonyms": [
+                "club",
+                "wooden bat"
+            ],
+            "examples": [
+                "The bat broke after the hit."
+            ]
+        }
+    ],
+    "brook": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To tolerate or allow without objection.",
+            "synonyms": [
+                "tolerate",
+                "endure",
+                "allow",
+                "permit"
+            ],
+            "examples": [
+                "She will not brook interference in her plans."
+            ]
+        }
+    ],
+    "bros": [
+        {
+            "part_of_speech": "noun",
+            "definition": "Plural form of bro; informal for brothers or close male friends.",
+            "synonyms": [
+                "brothers",
+                "mates",
+                "bros"
+            ],
+            "examples": [
+                "The bros met up after class."
+            ]
+        }
+    ],
+    "bro": [
+        {
+            "part_of_speech": "noun",
+            "definition": "An informal term for a male friend or brother.",
+            "synonyms": [
+                "dude",
+                "man",
+                "pal"
+            ],
+            "examples": [
+                "Hey bro, want to grab a coffee?"
+            ]
+        }
+    ],
+    "bud": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A young shoot or bud of a plant; a friend in informal speech.",
+            "synonyms": [
+                "sprout",
+                "sprig",
+                "friend"
+            ],
+            "examples": [
+                "A new bud appeared on the branch."
+            ]
+        }
+    ],
+    "benevolent": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Kind and helpful toward others; showing goodwill.",
+            "synonyms": [
+                "kind",
+                "charitable",
+                "kindly",
+                "altruistic"
+            ],
+            "examples": [
+                "A benevolent donor funded the school."
+            ]
+        }
+    ],
+    "benefactor": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A person who gives help or financial aid to another person or organization.",
+            "synonyms": [
+                "donor",
+                "patron",
+                "sponsor"
+            ],
+            "examples": [
+                "Several benefactors supported the arts program."
+            ]
+        }
+    ],
+    "benefit": [
+        {
+            "part_of_speech": "noun",
+            "definition": "An advantage, improvement, or help gained from something.",
+            "synonyms": [
+                "advantage",
+                "profit",
+                "gain"
+            ],
+            "examples": [
+                "The new law provides several benefits."
+            ]
+        }
+    ],
+    "benison": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A blessing; an expression of good wishes.",
+            "synonyms": [
+                "blessing",
+                "benediction",
+                "gift"
+            ],
+            "examples": [
+                "The priest offered a benison at the ceremony."
+            ]
+        }
+    ],
+    "boot": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To kick something with the foot; to start a computer or system.",
+            "synonyms": [
+                "kick",
+                "launch",
+                "activate"
+            ],
+            "examples": [
+                "Boot up the computer before you begin."
+            ]
+        }
+    ],
+    "bloke": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A man; a male person (informal).",
+            "synonyms": [
+                "man",
+                "guy",
+                "chap"
+            ],
+            "examples": [
+                "That friendly bloke is our guide for the tour."
+            ]
+        }
+    ],
+    "brusque": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Abrupt and ungracious in speech or manner.",
+            "synonyms": [
+                "abrupt",
+                "curt",
+                "blunt"
+            ],
+            "examples": [
+                "His brusque response offended several people."
+            ]
+        }
+    ],
+    "blade": [
+        {
+            "part_of_speech": "noun",
+            "definition": "The flat cutting part of a tool or weapon, such as a knife, sword, or saw.",
+            "synonyms": [
+                "sharpened edge",
+                "cutting edge"
+            ],
+            "examples": [
+                "The blade of the knife gleamed in the light."
+            ]
+        }
+    ],
+    "biology": [
+        {
+            "part_of_speech": "noun",
+            "definition": "The science that studies living organisms.",
+            "synonyms": [
+                "life science",
+                "bioscience"
+            ],
+            "examples": [
+                "He wants to become a biology teacher."
+            ]
+        }
+    ],
+    "bardic": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Relating to a bard; characteristic of a poet or minstrel.",
+            "synonyms": [
+                "poetic",
+                "poetical",
+                "lyrical"
+            ],
+            "examples": [
+                "The festival featured bardic performances."
+            ]
+        }
+    ]
+}

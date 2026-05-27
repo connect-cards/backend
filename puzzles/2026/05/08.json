@@ -1,0 +1,60 @@
+{
+  "date": "2026-05-08",
+  "version": 4,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "p4_easy",
+      "type": "easy",
+      "difficulty": 1,
+      "title": "WEATHER",
+      "words": [
+        "rain",
+        "wind",
+        "sun",
+        "cloud"
+      ]
+    },
+    {
+      "id": "p4_medium",
+      "type": "medium",
+      "difficulty": 2,
+      "title": "INFORMAL_REG",
+      "words": [
+        "cool",
+        "awesome",
+        "chill",
+        "hangout"
+      ]
+    },
+    {
+      "id": "p4_hard",
+      "type": "hard",
+      "difficulty": 3,
+      "title": "PHYSICAL_TRAITS",
+      "words": [
+        "tall",
+        "slender",
+        "robust",
+        "lanky"
+      ]
+    },
+    {
+      "id": "p4_veryhard",
+      "type": "very-hard",
+      "difficulty": 4,
+      "title": "PORTS",
+      "words": [
+        "import",
+        "export",
+        "portal",
+        "portfolio"
+      ]
+    }
+  ]
+}

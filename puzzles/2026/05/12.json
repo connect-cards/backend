@@ -1,0 +1,60 @@
+{
+  "date": "2026-05-12",
+  "version": 3,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "g3e",
+      "type": "easy",
+      "difficulty": 1,
+      "title": "Cardinal Directions",
+      "words": [
+        "north",
+        "east",
+        "south",
+        "west"
+      ]
+    },
+    {
+      "id": "g3m",
+      "type": "medium",
+      "difficulty": 2,
+      "title": "Cold-Synonym Cluster",
+      "words": [
+        "chilly",
+        "frigid",
+        "icy",
+        "cool"
+      ]
+    },
+    {
+      "id": "g3h",
+      "type": "hard",
+      "difficulty": 3,
+      "title": "Generous/Beneficent Expressions",
+      "words": [
+        "benevolent",
+        "altruistic",
+        "philanthropic",
+        "magnanimous"
+      ]
+    },
+    {
+      "id": "g3vh",
+      "type": "very-hard",
+      "difficulty": 4,
+      "title": "Dark/Eerie Descriptors",
+      "words": [
+        "eldritch",
+        "tenebrous",
+        "nocturnal",
+        "occult"
+      ]
+    }
+  ]
+}

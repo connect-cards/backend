@@ -1,0 +1,59 @@
+{
+    "unhappy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "not happy; sad or disappointed.",
+            "synonyms": [
+                "sad",
+                "miserable",
+                "discontent"
+            ],
+            "examples": [
+                "He looked unhappy with the result."
+            ]
+        }
+    ],
+    "uncle": [
+        {
+            "part_of_speech": "noun",
+            "definition": "The brother of one of your parents; a male relative.",
+            "synonyms": [
+                "maternal uncle",
+                "paternal uncle",
+                "brother of a parent"
+            ],
+            "examples": [
+                "My uncle told funny stories.",
+                "We stayed with my paternal uncle during vacation."
+            ]
+        }
+    ],
+    "uncanny": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Strange or mysterious in a way that seems beyond understanding.",
+            "synonyms": [
+                "eerie",
+                "unusual",
+                "extraordinary"
+            ],
+            "examples": [
+                "She had an uncanny ability to predict the weather."
+            ]
+        }
+    ],
+    "unearthly": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Very strange or unnatural; not fitting in this world.",
+            "synonyms": [
+                "eerie",
+                "otherworldly",
+                "supernatural"
+            ],
+            "examples": [
+                "The glow in the cave gave it an unearthly look."
+            ]
+        }
+    ]
+}

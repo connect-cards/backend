@@ -1,0 +1,44 @@
+{
+    "notebook": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a book of blank or ruled pages used for writing.",
+            "synonyms": [
+                "journal",
+                "exercise book"
+            ],
+            "examples": [
+                "Write your notes in the notebook."
+            ]
+        }
+    ],
+    "niece": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the daughter of one’s brother or sister; a female nephew.",
+            "synonyms": [
+                "grandniece",
+                "offspring"
+            ],
+            "examples": [
+                "Her niece visited last summer."
+            ]
+        }
+    ],
+    "nephew": [
+        {
+            "part_of_speech": "noun",
+            "definition": "The son of your brother or sister.",
+            "synonyms": [
+                "sibling's son",
+                "brother's son",
+                "sister's son",
+                "relative"
+            ],
+            "examples": [
+                "Her nephew learned to ride a bike.",
+                "We invited my nephew to the game."
+            ]
+        }
+    ]
+}

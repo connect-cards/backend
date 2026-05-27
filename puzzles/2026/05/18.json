@@ -1,0 +1,60 @@
+{
+  "date": "2026-05-18",
+  "version": 2,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "informal_register",
+      "difficulty": 1,
+      "title": "Casual address terms",
+      "words": [
+        "dude",
+        "mate",
+        "pal",
+        "bro"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "synonym",
+      "difficulty": 2,
+      "title": "Synonyms for happiness",
+      "words": [
+        "glad",
+        "joyful",
+        "merry",
+        "elated"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "thematic_association",
+      "difficulty": 3,
+      "title": "Times of day",
+      "words": [
+        "dawn",
+        "noon",
+        "dusk",
+        "midnight"
+      ]
+    },
+    {
+      "id": "g4",
+      "type": "physical_trait",
+      "difficulty": 4,
+      "title": "Distinctive physiques (rare terms)",
+      "words": [
+        "gaunt",
+        "haggard",
+        "waifish",
+        "lank"
+      ]
+    }
+  ]
+}

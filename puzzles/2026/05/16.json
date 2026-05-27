@@ -1,0 +1,60 @@
+{
+  "date": "2026-05-16",
+  "version": 4,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "D4G1",
+      "type": "easy",
+      "difficulty": 1,
+      "title": "Mood synonyms",
+      "words": [
+        "happy",
+        "merry",
+        "joyous",
+        "elated"
+      ]
+    },
+    {
+      "id": "D4G2",
+      "type": "medium",
+      "difficulty": 2,
+      "title": "Professions",
+      "words": [
+        "carpenter",
+        "baker",
+        "physician",
+        "artist"
+      ]
+    },
+    {
+      "id": "D4G3",
+      "type": "hard",
+      "difficulty": 3,
+      "title": "Emotional tone descriptors",
+      "words": [
+        "melancholy",
+        "somber",
+        "wistful",
+        "tense"
+      ]
+    },
+    {
+      "id": "D4G4",
+      "type": "very-hard",
+      "difficulty": 4,
+      "title": "Aud-root etymology",
+      "words": [
+        "audible",
+        "audience",
+        "auditory",
+        "auditor"
+      ]
+    }
+  ]
+}

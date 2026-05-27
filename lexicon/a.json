@@ -1,0 +1,228 @@
+{
+    "amusement": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the feeling of being entertained or amused.",
+            "synonyms": [
+                "entertainment",
+                "enjoyment",
+                "delight"
+            ],
+            "examples": [
+                "Her stories brought amusement to the group."
+            ]
+        }
+    ],
+    "arduous": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very difficult and needing a lot of effort.",
+            "synonyms": [
+                "strenuous",
+                "difficult",
+                "laborious"
+            ],
+            "examples": [
+                "The hike was arduous but rewarding."
+            ]
+        }
+    ],
+    "ancient": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very old; from a long time ago.",
+            "synonyms": [
+                "old",
+                "aged",
+                "timeworn"
+            ],
+            "examples": [
+                "Ancient ruins attract many visitors."
+            ]
+        }
+    ],
+    "aged": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having lived for a specified number of years; old.",
+            "synonyms": [
+                "elderly",
+                "old",
+                "mature"
+            ],
+            "examples": [
+                "Aged trees stood tall."
+            ]
+        }
+    ],
+    "afraid": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "feeling fear or anxiety; frightened.",
+            "synonyms": [
+                "scared",
+                "frightened",
+                "fearful"
+            ],
+            "examples": [
+                "Are you afraid to try new things?"
+            ]
+        }
+    ],
+    "aunt": [
+        {
+            "part_of_speech": "noun",
+            "definition": "The sister of one of your parents; a female relative.",
+            "synonyms": [
+                "auntie",
+                "maternal aunt",
+                "paternal aunt"
+            ],
+            "examples": [
+                "My aunt sent me a birthday card.",
+                "Aunt Maria is visiting us this weekend."
+            ]
+        }
+    ],
+    "astute": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Having or showing sharp intelligence and good judgement.",
+            "synonyms": [
+                "shrewd",
+                "keen",
+                "clever",
+                "perceptive"
+            ],
+            "examples": [
+                "An astute investor will diversify holdings for safety."
+            ]
+        }
+    ],
+    "apricity": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A warmth or sunlight in winter that is pleasant or comforting.",
+            "synonyms": [
+                "sunshine",
+                "sun warmth",
+                "solace"
+            ],
+            "examples": [
+                "We enjoyed apricity on the park bench during the cold day."
+            ]
+        }
+    ],
+    "angry": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Feeling or showing strong displeasure or hostility.",
+            "synonyms": [
+                "irate",
+                "mad",
+                "furious",
+                "annoyed"
+            ],
+            "examples": [
+                "He was angry about the delay in the project."
+            ]
+        }
+    ],
+    "act": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To take action or behave in a specified way.",
+            "synonyms": [
+                "behave",
+                "perform",
+                "do"
+            ],
+            "examples": [
+                "We must act quickly to fix the problem."
+            ]
+        }
+    ],
+    "action": [
+        {
+            "part_of_speech": "noun",
+            "definition": "The fact or process of doing something to achieve a result.",
+            "synonyms": [
+                "deed",
+                "move",
+                "operation"
+            ],
+            "examples": [
+                "The plan requires swift action."
+            ]
+        }
+    ],
+    "active": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Engaged in a task or in movement; not passive.",
+            "synonyms": [
+                "engaged",
+                "operational",
+                "dynamic"
+            ],
+            "examples": [
+                "She stays physically active with regular workouts."
+            ]
+        }
+    ],
+    "activate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To make something start working or effective; to set in motion.",
+            "synonyms": [
+                "trigger",
+                "start",
+                "energize"
+            ],
+            "examples": [
+                "Press the button to activate the device."
+            ]
+        }
+    ],
+    "altar": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A raised place used for offering or presenting religious offerings.",
+            "synonyms": [
+                "shrine",
+                "table",
+                "dais"
+            ],
+            "examples": [
+                "The wedding took place at the altar."
+            ]
+        }
+    ],
+    "azure": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Sky-blue in color.",
+            "synonyms": [
+                "blue",
+                "cerulean",
+                "sky-blue"
+            ],
+            "examples": [
+                "Azure waters stretched to the horizon."
+            ]
+        }
+    ],
+    "anthropology": [
+        {
+            "part_of_speech": "noun",
+            "definition": "The study of humans, past and present, including cultures and societies.",
+            "synonyms": [
+                "human science",
+                "cultural anthropology"
+            ],
+            "examples": [
+                "Her major is anthropology."
+            ]
+        }
+    ]
+}

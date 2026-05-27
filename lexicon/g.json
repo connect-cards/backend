@@ -1,0 +1,268 @@
+{
+    "glad": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "pleased and happy about something.",
+            "synonyms": [
+                "pleased",
+                "delighted",
+                "joyful"
+            ],
+            "examples": [
+                "I am glad you came to the party."
+            ]
+        }
+    ],
+    "grandfather": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the father of one’s father or mother; a male ancestor.",
+            "synonyms": [
+                "grandpa",
+                "ancestor"
+            ],
+            "examples": [
+                "Grandfather grew up in the countryside."
+            ]
+        }
+    ],
+    "grandmother": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the mother of one’s father or mother; a female ancestor.",
+            "synonyms": [
+                "grandma",
+                "ancestor"
+            ],
+            "examples": [
+                "Grandmother remembers the old days."
+            ]
+        }
+    ],
+    "gardening": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the activity of tending and cultivating a garden.",
+            "synonyms": [
+                "horticulture",
+                "cultivation"
+            ],
+            "examples": [
+                "We spent the afternoon gardening."
+            ]
+        }
+    ],
+    "grandparents": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the parents of one’s parents; the older generation.",
+            "synonyms": [
+                "grandmom and granddad",
+                "ancestors",
+                "elderly relatives"
+            ],
+            "examples": [
+                "We visited my grandparents last weekend."
+            ]
+        }
+    ],
+    "grandparent": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the parent of one’s parent; a grandparent.",
+            "synonyms": [
+                "grandma",
+                "grandpa",
+                "ancestor"
+            ],
+            "examples": [
+                "Grandparent visits are fun."
+            ]
+        }
+    ],
+    "guitar": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a stringed musical instrument played by plucking or strumming.",
+            "synonyms": [
+                "cordophone",
+                "string instrument"
+            ],
+            "examples": [
+                "She learned three chords on the guitar."
+            ]
+        }
+    ],
+    "grill": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a portable metal framework used to cook food over a fire or heat source.",
+            "synonyms": [
+                "barbecue",
+                "griller"
+            ],
+            "examples": [
+                "The grill is hot."
+            ]
+        }
+    ],
+    "grandma": [
+        {
+            "part_of_speech": "noun",
+            "definition": "informal term for grandmother.",
+            "synonyms": [
+                "grandmother",
+                "granny"
+            ],
+            "examples": [
+                "Grandma bakes cookies every Sunday."
+            ]
+        }
+    ],
+    "grandpa": [
+        {
+            "part_of_speech": "noun",
+            "definition": "informal term for grandfather.",
+            "synonyms": [
+                "grandfather",
+                "gramps"
+            ],
+            "examples": [
+                "Grandpa fixed the fence."
+            ]
+        }
+    ],
+    "great-grandma": [
+        {
+            "part_of_speech": "noun",
+            "definition": "great-grandmother; grandmother of one’s parent.",
+            "synonyms": [
+                "great grandmother",
+                "great granny"
+            ],
+            "examples": [
+                "We learned stories from great-grandma."
+            ]
+        }
+    ],
+    "great-grandpa": [
+        {
+            "part_of_speech": "noun",
+            "definition": "great-grandfather; grandfather of one’s parent.",
+            "synonyms": [
+                "great-grandfather",
+                "great granddad"
+            ],
+            "examples": [
+                "Great-grandpa shared old photos."
+            ]
+        }
+    ],
+    "gleeful": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "showing gleeful delight; very happy.",
+            "synonyms": [
+                "delighted",
+                "joyful",
+                "merry"
+            ],
+            "examples": [
+                "A gleeful chorus sang along."
+            ]
+        }
+    ],
+    "gorgeous": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very beautiful or impressive.",
+            "synonyms": [
+                "stunning",
+                "beautiful",
+                "radiant"
+            ],
+            "examples": [
+                "The sunset looked gorgeous."
+            ]
+        }
+    ],
+    "grandchild": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a child of one’s child; a grandchild.",
+            "synonyms": [
+                "grandson",
+                "granddaughter",
+                "offspring"
+            ],
+            "examples": [
+                "Her grandchild brings her joy."
+            ]
+        }
+    ],
+    "glove": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a covering for the hand worn to keep it warm or to protect it.",
+            "synonyms": [
+                "mitten",
+                "handwear"
+            ],
+            "examples": [
+                "She bought a pair of gloves."
+            ]
+        }
+    ],
+    "grandson": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the grandson of someone; a son of one’s child.",
+            "synonyms": [
+                "grandchild",
+                "grandson"
+            ],
+            "examples": [
+                "The grandfather loves his grandson."
+            ]
+        }
+    ],
+    "granddaughter": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the daughter of one’s child; a female grandchild.",
+            "synonyms": [
+                "grandchild",
+                "grand-daughter"
+            ],
+            "examples": [
+                "Her granddaughter drew a picture."
+            ]
+        }
+    ],
+    "grain": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the small, hard seeds of a cereal plant like wheat or corn; also a unit of weight for measuring.",
+            "synonyms": [
+                "cereal",
+                "seed"
+            ],
+            "examples": [
+                "Rice is a type of grain."
+            ]
+        }
+    ],
+    "geology": [
+        {
+            "part_of_speech": "noun",
+            "definition": "The science dealing with the Earth's physical structure and substance, its history, and the processes that act on it.",
+            "synonyms": [
+                "earth science",
+                "geoscience"
+            ],
+            "examples": [
+                "Geology explains how mountains were formed."
+            ]
+        }
+    ]
+}

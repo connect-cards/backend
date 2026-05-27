@@ -1,0 +1,287 @@
+{
+    "delighted": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very pleased or happy about something.",
+            "synonyms": [
+                "pleased",
+                "thrilled",
+                "joyful"
+            ],
+            "examples": [
+                "She was delighted to win the prize."
+            ]
+        }
+    ],
+    "design": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to create a plan or drawing for something to be made.",
+            "synonyms": [
+                "create",
+                "plan",
+                "originate"
+            ],
+            "examples": [
+                "They design computer chips for phones."
+            ]
+        }
+    ],
+    "designer": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who creates plans or drawings for something to be made, especially clothing or furniture.",
+            "synonyms": [
+                "creator",
+                "architect",
+                "maker"
+            ],
+            "examples": [
+                "The designer showed their latest collection."
+            ]
+        }
+    ],
+    "daughter": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a female child in relation to her parents.",
+            "synonyms": [
+                "girl",
+                "offspring"
+            ],
+            "examples": [
+                "Her daughter helped bake cookies."
+            ]
+        }
+    ],
+    "delicious": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "highly pleasant tasting; very tasty.",
+            "synonyms": [
+                "tasty",
+                "flavorful",
+                "savory"
+            ],
+            "examples": [
+                "Dessert was delicious."
+            ]
+        }
+    ],
+    "dejected": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "depressed or dispirited; sad.",
+            "synonyms": [
+                "discouraged",
+                "downcast",
+                "despondent"
+            ],
+            "examples": [
+                "She was dejected but kept trying."
+            ]
+        }
+    ],
+    "difficult": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "not easy to do or understand.",
+            "synonyms": [
+                "hard",
+                "tricky",
+                "complex"
+            ],
+            "examples": [
+                "This problem is difficult."
+            ]
+        }
+    ],
+    "drum": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a musical instrument that makes sound when struck with hands or sticks.",
+            "synonyms": [
+                "percussion",
+                "tabor"
+            ],
+            "examples": [
+                "The drum is loud in this band."
+            ]
+        }
+    ],
+    "desk": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a piece of furniture with a flat surface for writing or reading.",
+            "synonyms": [
+                "table",
+                "workstation"
+            ],
+            "examples": [
+                "Her desk is tidy."
+            ]
+        }
+    ],
+    "dress": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a one-piece garment for women or girls; clothing in general.",
+            "synonyms": [
+                "gown",
+                "attire",
+                "garment"
+            ],
+            "examples": [
+                "Her dress is very pretty."
+            ]
+        }
+    ],
+    "dangerous": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "able to cause harm or injury; not safe.",
+            "synonyms": [
+                "unsafe",
+                "perilous",
+                "hazardous"
+            ],
+            "examples": [
+                "The road is dangerous at night."
+            ]
+        }
+    ],
+    "drama": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a play for theater, television, or film; a real-life event that is dramatic.",
+            "synonyms": [
+                "play",
+                "theater",
+                "tragedy"
+            ],
+            "examples": [
+                "We watched a dramatic drama."
+            ]
+        }
+    ],
+    "designing": [
+        {
+            "part_of_speech": "noun",
+            "definition": "The act of planning and creating something, especially a plan or drawings.",
+            "synonyms": [
+                "planning",
+                "drafting",
+                "creation",
+                "making"
+            ],
+            "examples": [
+                "The designing of the bridge took several years.",
+                "The designing of the software started last year."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "To plan and create the form, structure, or appearance of something.",
+            "synonyms": [
+                "plan",
+                "draft",
+                "devise",
+                "craft",
+                "create"
+            ],
+            "examples": [
+                "She is designing a new app.",
+                "They are designing a house."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "Describing something that involves planning and creating; used to describe processes or activities related to planning.",
+            "synonyms": [
+                "planning-related",
+                "preparatory",
+                "conceptual",
+                "preliminary"
+            ],
+            "examples": [
+                "The designing phase lasts several months.",
+                "We discussed the designing process."
+            ]
+        }
+    ],
+    "designed": [
+        {
+            "part_of_speech": "verb",
+            "definition": "Past tense of the verb meaning to plan and create something.",
+            "synonyms": [
+                "planned",
+                "crafted",
+                "created",
+                "developed"
+            ],
+            "examples": [
+                "She designed a new logo for the company.",
+                "The building was designed to be energy efficient."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "Made or created according to a plan or specification; intended.",
+            "synonyms": [
+                "engineered",
+                "crafted",
+                "custom-made",
+                "made-to-order"
+            ],
+            "examples": [
+                "The designed brochure looks professional.",
+                "The product has a designed-in safety feature."
+            ]
+        }
+    ],
+    "design-ing": [
+        {
+            "part_of_speech": "noun",
+            "definition": "The act of planning and creating something, especially a plan or drawings.",
+            "synonyms": [
+                "planning",
+                "drafting",
+                "creation",
+                "making"
+            ],
+            "examples": [
+                "The design-ing of the product took two years."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "To plan and create the form, structure, or appearance of something.",
+            "synonyms": [
+                "plan",
+                "draft",
+                "devise",
+                "craft",
+                "create"
+            ],
+            "examples": [
+                "They are design-ing a new app."
+            ]
+        }
+    ],
+    "droll": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Amusing in a dry or odd way; pleasantly humorous.",
+            "synonyms": [
+                "amusing",
+                "funny",
+                "humorous",
+                "whimsical"
+            ],
+            "examples": [
+                "His droll comments lightened the mood in the meeting.",
+                "The play had a droll sense of humor that eased the tension."
+            ]
+        }
+    ]
+}

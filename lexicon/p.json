@@ -1,0 +1,427 @@
+{
+    "phone": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a device used for talking to other people over a distance.",
+            "synonyms": [
+                "telephone",
+                "cellphone",
+                "mobile"
+            ],
+            "examples": [
+                "Please answer the phone."
+            ]
+        }
+    ],
+    "play": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a form of activities for enjoyment or for a performance; a game.",
+            "synonyms": [
+                "game",
+                "childrens theater",
+                "sport"
+            ],
+            "examples": [
+                "We watched a play at the theater."
+            ]
+        }
+    ],
+    "player": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who plays a game or instrument; a participant in a sport.",
+            "synonyms": [
+                "performer",
+                "participant",
+                "competitor"
+            ],
+            "examples": [
+                "The pianist is a skilled player."
+            ]
+        }
+    ],
+    "playing": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the action of taking part in a game or activity.",
+            "synonyms": [
+                "gaming",
+                "recreation"
+            ],
+            "examples": [
+                "Playing with friends helps social skills."
+            ]
+        }
+    ],
+    "playful": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "full of fun and playful; fond of games.",
+            "synonyms": [
+                "frisky",
+                "mischievous",
+                "joyful"
+            ],
+            "examples": [
+                "The kitten is playful this afternoon."
+            ]
+        }
+    ],
+    "parade": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a public procession to celebrate or honor something.",
+            "synonyms": [
+                "march",
+                "procession",
+                "spectacle"
+            ],
+            "examples": [
+                "They watched the parade from the sidewalk."
+            ]
+        }
+    ],
+    "plane": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a powered flying vehicle with wings.",
+            "synonyms": [
+                "aircraft",
+                "airplane"
+            ],
+            "examples": [
+                "They flew on a plane to Paris."
+            ]
+        }
+    ],
+    "pleased": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "liked what happened or what one received; satisfied.",
+            "synonyms": [
+                "satisfied",
+                "gratified",
+                "delighted"
+            ],
+            "examples": [
+                "We are pleased with your effort."
+            ]
+        }
+    ],
+    "painting": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the act or art of making pictures with paint; the picture itself.",
+            "synonyms": [
+                "artwork",
+                "illustration"
+            ],
+            "examples": [
+                "She finished the painting yesterday."
+            ]
+        }
+    ],
+    "parents": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the people who have given birth to or raised a child.",
+            "synonyms": [
+                "guardians",
+                "family"
+            ],
+            "examples": [
+                "My parents watched my game."
+            ]
+        }
+    ],
+    "pop": [
+        {
+            "part_of_speech": "noun",
+            "definition": "short for popular music; a light, upbeat genre.",
+            "synonyms": [
+                "pop music",
+                "popular music"
+            ],
+            "examples": [
+                "She danced to pop on the radio."
+            ]
+        }
+    ],
+    "perform": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to carry out, accomplish, or enact; to present a form of entertainment.",
+            "synonyms": [
+                "execute",
+                "do",
+                "present"
+            ],
+            "examples": [
+                "They perform in a theater group."
+            ]
+        }
+    ],
+    "performer": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who performs, especially in front of an audience.",
+            "synonyms": [
+                "artist",
+                "entertainer",
+                "musician"
+            ],
+            "examples": [
+                "The performer sang beautifully."
+            ]
+        }
+    ],
+    "performance": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the act of performing or presenting something; how well something works.",
+            "synonyms": [
+                "execution",
+                "presentation",
+                "achievement"
+            ],
+            "examples": [
+                "Her performance earned praise."
+            ]
+        }
+    ],
+    "performing": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the act of performing; currently in progress.",
+            "synonyms": [
+                "acting",
+                "execution"
+            ],
+            "examples": [
+                "Performing requires confidence."
+            ]
+        }
+    ],
+    "party": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a group of people gathered for a particular purpose; a social gathering.",
+            "synonyms": [
+                "celebration",
+                "gathering",
+                "event"
+            ],
+            "examples": [
+                "We attended a party last night."
+            ]
+        }
+    ],
+    "pasta": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a type of Italian noodle food made from wheat flour and water.",
+            "synonyms": [
+                "noodles",
+                "spaghetti"
+            ],
+            "examples": [
+                "We had pasta for lunch."
+            ]
+        }
+    ],
+    "piano": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a keyboard musical instrument that makes sound when strings are struck by hammers.",
+            "synonyms": [
+                "keyboard",
+                "instrument"
+            ],
+            "examples": [
+                "He learned to play the piano."
+            ]
+        }
+    ],
+    "park": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a large public area of land for relaxation and recreation; trees and grass.",
+            "synonyms": [
+                "green",
+                "playground",
+                "public garden"
+            ],
+            "examples": [
+                "The park is crowded on weekends."
+            ]
+        }
+    ],
+    "pants": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a piece of clothing worn on the lower body; typically covering the legs.",
+            "synonyms": [
+                "trousers",
+                "slacks"
+            ],
+            "examples": [
+                "Pants are drying on the line."
+            ]
+        }
+    ],
+    "petrified": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "so frightened that one is unable to move; terrified.",
+            "synonyms": [
+                "terrified",
+                "frozen",
+                "panic-stricken"
+            ],
+            "examples": [
+                "They stood petrified at the edge of the cliff."
+            ]
+        }
+    ],
+    "pliers": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small tool used for bending and cutting wire.",
+            "synonyms": [
+                "pliers",
+                "tongs"
+            ],
+            "examples": [
+                "The electrician used pliers carefully."
+            ]
+        }
+    ],
+    "pretty": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "attractive or pleasing in appearance.",
+            "synonyms": [
+                "attractive",
+                "beautiful",
+                "lovely"
+            ],
+            "examples": [
+                "That is a pretty necklace."
+            ]
+        }
+    ],
+    "perilous": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "full of danger; risking harm.",
+            "synonyms": [
+                "hazardous",
+                "dangerous",
+                "risky"
+            ],
+            "examples": [
+                "The expedition faced perilous weather."
+            ]
+        }
+    ],
+    "powerful": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having great power or influence.",
+            "synonyms": [
+                "strong",
+                "mighty",
+                "potent"
+            ],
+            "examples": [
+                "She is a powerful speaker."
+            ]
+        }
+    ],
+    "perspicacious": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Having a ready insight into and understanding of things; very perceptive.",
+            "synonyms": [
+                "perceptive",
+                "astute",
+                "shrewd",
+                "insightful"
+            ],
+            "examples": [
+                "A perspicacious reader notices details others miss."
+            ]
+        }
+    ],
+    "petrichor": [
+        {
+            "part_of_speech": "noun",
+            "definition": "The pleasant smell that accompanies the first rain after a dry spell.",
+            "synonyms": [
+                "earth scent",
+                "rain smell"
+            ],
+            "examples": [
+                "The petrichor after the storm filled the air."
+            ]
+        }
+    ],
+    "pigment": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To color or tint with pigment.",
+            "synonyms": [
+                "color",
+                "colorize",
+                "dye"
+            ],
+            "examples": [
+                "The cloth was pigmented with natural colors."
+            ]
+        }
+    ],
+    "placid": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Calm and peaceful; not easily upset.",
+            "synonyms": [
+                "calm",
+                "tranquil",
+                "serene",
+                "gentle"
+            ],
+            "examples": [
+                "The lake looked placid at dawn."
+            ]
+        }
+    ],
+    "psalm": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A sacred hymn or song used in worship.",
+            "synonyms": [
+                "hymn",
+                "verse",
+                "chant"
+            ],
+            "examples": [
+                "They sang a psalm during the service."
+            ]
+        }
+    ],
+    "psychology": [
+        {
+            "part_of_speech": "noun",
+            "definition": "The scientific study of the mind and behavior.",
+            "synonyms": [
+                "mind science",
+                "psychiatry",
+                "behavioral science"
+            ],
+            "examples": [
+                "She studied psychology to understand human behavior."
+            ]
+        }
+    ]
+}

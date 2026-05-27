@@ -1,0 +1,60 @@
+{
+  "date": "2026-05-04",
+  "version": 1,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "impossible"
+  ],
+  "groups": [
+    {
+      "id": "g_easy",
+      "type": "easy",
+      "difficulty": 1,
+      "title": "Common apparel",
+      "words": [
+        "hat",
+        "coat",
+        "sock",
+        "boot"
+      ]
+    },
+    {
+      "id": "g_medium",
+      "type": "medium",
+      "difficulty": 2,
+      "title": "Informal terms for a male person",
+      "words": [
+        "bloke",
+        "chap",
+        "lad",
+        "fella"
+      ]
+    },
+    {
+      "id": "g_hard",
+      "type": "hard",
+      "difficulty": 3,
+      "title": "Concise synonyms for brevity",
+      "words": [
+        "laconic",
+        "curt",
+        "terse",
+        "brusque"
+      ]
+    },
+    {
+      "id": "g_vhard",
+      "type": "very-hard",
+      "difficulty": 4,
+      "title": "Triadic word-set (three-set terms)",
+      "words": [
+        "tercet",
+        "terzetto",
+        "ternion",
+        "trine"
+      ]
+    }
+  ]
+}

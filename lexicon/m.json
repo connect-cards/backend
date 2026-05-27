@@ -1,0 +1,222 @@
+{
+    "mother": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a female parent; a woman who gives birth to and cares for a child.",
+            "synonyms": [
+                "mom",
+                "mommy",
+                "parent"
+            ],
+            "examples": [
+                "Her mother helped with the homework."
+            ]
+        }
+    ],
+    "massive": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very large and heavy in size or importance.",
+            "synonyms": [
+                "huge",
+                "giant",
+                "considerable"
+            ],
+            "examples": [
+                "The statue is a massive work of art."
+            ]
+        }
+    ],
+    "minute": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very small; tiny.",
+            "synonyms": [
+                "tiny",
+                "minuscule",
+                "immense"
+            ],
+            "examples": [
+                "She spotted a minute flaw in the painting."
+            ]
+        }
+    ],
+    "move": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to change position or place; to go from one place to another.",
+            "synonyms": [
+                "shift",
+                "relocate",
+                "transfer"
+            ],
+            "examples": [
+                "We will move to a new house soon."
+            ]
+        }
+    ],
+    "mover": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person or thing that moves something from one place to another.",
+            "synonyms": [
+                "transport",
+                "carrier",
+                "shifter"
+            ],
+            "examples": [
+                "The movers packed all our boxes."
+            ]
+        }
+    ],
+    "moving": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "causing movement; emotionally affecting.",
+            "synonyms": [
+                "emotional",
+                "touching",
+                "stirring"
+            ],
+            "examples": [
+                "It was a moving performance."
+            ]
+        }
+    ],
+    "moved": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having changed position or location; not in the original place.",
+            "synonyms": [
+                "shifting",
+                "displaced",
+                "relocated"
+            ],
+            "examples": [
+                "The moved chairs scattered around the room."
+            ]
+        }
+    ],
+    "mournful": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "feeling or showing sadness or grief.",
+            "synonyms": [
+                "sorrowful",
+                "grievous",
+                "bleak"
+            ],
+            "examples": [
+                "A mournful song played softly."
+            ]
+        }
+    ],
+    "meat": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the edible flesh of animals used as food.",
+            "synonyms": [
+                "flesh",
+                "protein"
+            ],
+            "examples": [
+                "Beef meat is tender when cooked slowly."
+            ]
+        }
+    ],
+    "muted": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "not loud; toned down.",
+            "synonyms": [
+                "soft",
+                "toned-down",
+                "low"
+            ],
+            "examples": [
+                "Her voice was muted in the distance."
+            ]
+        }
+    ],
+    "museum": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a building where objects of historical, scientific, or artistic interest are kept and shown to the public.",
+            "synonyms": [
+                "gallery",
+                "exhibition"
+            ],
+            "examples": [
+                "The museum has a new exhibit."
+            ]
+        }
+    ],
+    "milk": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a white liquid produced by mammals; a drink and food.",
+            "synonyms": [
+                "dairy",
+                "cream"
+            ],
+            "examples": [
+                "She adds milk to her coffee."
+            ]
+        }
+    ],
+    "minuscule": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "extremely small; tiny.",
+            "synonyms": [
+                "tiny",
+                "minute",
+                "microscopic"
+            ],
+            "examples": [
+                "The error is minuscule but important."
+            ]
+        }
+    ],
+    "math": [
+        {
+            "part_of_speech": "noun",
+            "definition": "short for mathematics; the study of numbers, shapes, and patterns.",
+            "synonyms": [
+                "mathematics",
+                "arithmetic"
+            ],
+            "examples": [
+                "She enjoys math class."
+            ]
+        }
+    ],
+    "mate": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A friend or companion; also a spouse or partner in some contexts.",
+            "synonyms": [
+                "friend",
+                "partner",
+                "companion"
+            ],
+            "examples": [
+                "The captain greeted his mate at the dock."
+            ]
+        }
+    ],
+    "medicine": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A substance used for treating illness or relieving pain; the field of study dealing with health and healing.",
+            "synonyms": [
+                "remedy",
+                "drug",
+                "therapy"
+            ],
+            "examples": [
+                "She studied medicine to become a doctor."
+            ]
+        }
+    ]
+}

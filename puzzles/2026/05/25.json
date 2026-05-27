@@ -1,0 +1,60 @@
+{
+  "date": "2026-05-25",
+  "version": 1,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "group_easy_1c",
+      "type": "group",
+      "difficulty": 1,
+      "title": "Easy: Edged Weapons (3)",
+      "words": [
+        "blade",
+        "knife",
+        "sword",
+        "axe"
+      ]
+    },
+    {
+      "id": "group_medium_1c",
+      "type": "group",
+      "difficulty": 2,
+      "title": "Medium: Gloom Synonyms (3)",
+      "words": [
+        "dreary",
+        "somber",
+        "murky",
+        "dingy"
+      ]
+    },
+    {
+      "id": "group_hard_1c",
+      "type": "group",
+      "difficulty": 3,
+      "title": "Hard: Sparkling Synonyms (3)",
+      "words": [
+        "scintillating",
+        "glittering",
+        "sparkling",
+        "glittery"
+      ]
+    },
+    {
+      "id": "group_veryhard_1c",
+      "type": "group",
+      "difficulty": 4,
+      "title": "Very hard: Darkness Terms (3)",
+      "words": [
+        "eldritch",
+        "tenebrous",
+        "caliginous",
+        "crepuscular"
+      ]
+    }
+  ]
+}

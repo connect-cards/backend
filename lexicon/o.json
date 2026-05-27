@@ -1,0 +1,15 @@
+{
+    "ocean": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A large body of salt water that covers most of the Earth's surface.",
+            "synonyms": [
+                "sea",
+                "main"
+            ],
+            "examples": [
+                "The ocean stretched to the horizon."
+            ]
+        }
+    ]
+}

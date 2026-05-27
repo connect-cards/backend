@@ -1,0 +1,60 @@
+{
+  "date": "2026-05-31",
+  "version": 1,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "G1",
+      "type": "informal_register",
+      "difficulty": 1,
+      "title": "slang",
+      "words": [
+        "yo",
+        "bro",
+        "dawg",
+        "sup"
+      ]
+    },
+    {
+      "id": "G2",
+      "type": "profession_domain",
+      "difficulty": 2,
+      "title": "professions",
+      "words": [
+        "doctor",
+        "teacher",
+        "plumber",
+        "writer"
+      ]
+    },
+    {
+      "id": "G3",
+      "type": "thematic_association",
+      "difficulty": 3,
+      "title": "birds",
+      "words": [
+        "raven",
+        "crow",
+        "sparrow",
+        "owl"
+      ]
+    },
+    {
+      "id": "G4",
+      "type": "synonym",
+      "difficulty": 4,
+      "title": "anger",
+      "words": [
+        "irate",
+        "livid",
+        "furious",
+        "wrathful"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+    "father": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a male parent; a man who raises or supports a child.",
+            "synonyms": [
+                "dad",
+                "daddy",
+                "parent"
+            ],
+            "examples": [
+                "My father works in a factory."
+            ]
+        }
+    ],
+    "festival": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a special event or celebration often with music, food, and activities.",
+            "synonyms": [
+                "celebration",
+                "carnival",
+                "gathering"
+            ],
+            "examples": [
+                "We attended a music festival last weekend."
+            ]
+        }
+    ],
+    "fun": [
+        {
+            "part_of_speech": "noun",
+            "definition": "enjoyment or amusement; something that is entertaining.",
+            "synonyms": [
+                "enjoyment",
+                "amusement",
+                "play"
+            ],
+            "examples": [
+                "Playing games is fun."
+            ]
+        }
+    ],
+    "fast": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "moving or capable of moving quickly; also firm in belief or support.",
+            "synonyms": [
+                "quick",
+                "rapid",
+                "swift"
+            ],
+            "examples": [
+                "The rabbit is fast."
+            ]
+        }
+    ],
+    "fry": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to cook in hot fat or oil.",
+            "synonyms": [
+                "fry up",
+                "pan-fry"
+            ],
+            "examples": [
+                "Fry the eggs quickly."
+            ]
+        }
+    ],
+    "frigid": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very cold; lacking warmth.",
+            "synonyms": [
+                "icy",
+                "cold",
+                "frozen"
+            ],
+            "examples": [
+                "The air in the cave felt frigid."
+            ]
+        }
+    ],
+    "frosty": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "covered with frost or very cold; unfriendly in attitude.",
+            "synonyms": [
+                "icy",
+                "cold",
+                "cool"
+            ],
+            "examples": [
+                "They had a frosty reception."
+            ]
+        }
+    ],
+    "fork": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a utensil with two or more prongs used for eating or serving.",
+            "synonyms": [
+                "utensil",
+                "cutlery"
+            ],
+            "examples": [
+                "She handed him a fork pretending to be fancy."
+            ]
+        }
+    ],
+    "fruit": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the sweet and sometimes edible product of a plant; often contains seeds.",
+            "synonyms": [
+                "produce",
+                "fruitage"
+            ],
+            "examples": [
+                "We eat fruit every day."
+            ]
+        }
+    ],
+    "facetious": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Treating serious issues with deliberately inappropriate humor.",
+            "synonyms": [
+                "flippant",
+                "joking",
+                "humorous",
+                "bantering"
+            ],
+            "examples": [
+                "His facetious remarks during the brief were not well received."
+            ]
+        }
+    ],
+    "fella": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A man; a fellow (informal).",
+            "synonyms": [
+                "guy",
+                "chap",
+                "dude"
+            ],
+            "examples": [
+                "That fella over there is a talented musician."
+            ]
+        }
+    ]
+}

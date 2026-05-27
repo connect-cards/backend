@@ -1,0 +1,60 @@
+{
+  "date": "2026-05-06",
+  "version": 2,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "p2_easy",
+      "type": "easy",
+      "difficulty": 1,
+      "title": "COLORS",
+      "words": [
+        "crimson",
+        "azure",
+        "emerald",
+        "violet"
+      ]
+    },
+    {
+      "id": "p2_medium",
+      "type": "medium",
+      "difficulty": 2,
+      "title": "OLOGY",
+      "words": [
+        "psychology",
+        "biology",
+        "geology",
+        "anthropology"
+      ]
+    },
+    {
+      "id": "p2_hard",
+      "type": "hard",
+      "difficulty": 3,
+      "title": "DOMAINS",
+      "words": [
+        "medicine",
+        "law",
+        "engineering",
+        "education"
+      ]
+    },
+    {
+      "id": "p2_veryhard",
+      "type": "very-hard",
+      "difficulty": 4,
+      "title": "LITERARY",
+      "words": [
+        "epistolary",
+        "bardic",
+        "elegiac",
+        "lyrical"
+      ]
+    }
+  ]
+}

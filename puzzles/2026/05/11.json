@@ -1,0 +1,60 @@
+{
+  "date": "2026-05-11",
+  "version": 2,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "g2e",
+      "type": "easy",
+      "difficulty": 1,
+      "title": "Household Items",
+      "words": [
+        "chair",
+        "table",
+        "lamp",
+        "sofa"
+      ]
+    },
+    {
+      "id": "g2m",
+      "type": "medium",
+      "difficulty": 2,
+      "title": "Silent Letters",
+      "words": [
+        "knight",
+        "gnome",
+        "hour",
+        "psychology"
+      ]
+    },
+    {
+      "id": "g2h",
+      "type": "hard",
+      "difficulty": 3,
+      "title": "Polysemous/Multiple Meanings",
+      "words": [
+        "bank",
+        "spring",
+        "bat",
+        "bass"
+      ]
+    },
+    {
+      "id": "g2vh",
+      "type": "very-hard",
+      "difficulty": 4,
+      "title": "Groups of Three",
+      "words": [
+        "triple",
+        "triad",
+        "troika",
+        "trinity"
+      ]
+    }
+  ]
+}

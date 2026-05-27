@@ -1,0 +1,152 @@
+{
+    "happy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "feeling or showing pleasure, content, or joy.",
+            "synonyms": [
+                "joyful",
+                "glad",
+                "cheerful"
+            ],
+            "examples": [
+                "She feels happy when she spends time with friends."
+            ]
+        }
+    ],
+    "huge": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "extremely large in size.",
+            "synonyms": [
+                "gigantic",
+                "massive",
+                "enormous"
+            ],
+            "examples": [
+                "We saw a huge statue in the park."
+            ]
+        }
+    ],
+    "hard": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "not easy; requiring effort; strong or solid.",
+            "synonyms": [
+                "difficult",
+                "tough",
+                "solid"
+            ],
+            "examples": [
+                "The rock is hard."
+            ]
+        }
+    ],
+    "hushed": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having been quieted or silenced.",
+            "synonyms": [
+                "silent",
+                "quiet",
+                "muted"
+            ],
+            "examples": [
+                "The crowd was hushed before the announcement."
+            ]
+        }
+    ],
+    "history": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the study of past events; the record of what happened in the past.",
+            "synonyms": [
+                "chronicle",
+                "past",
+                "annals"
+            ],
+            "examples": [
+                "He likes ancient history."
+            ]
+        }
+    ],
+    "hammer": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a heavy tool with a handle and a head used to drive nails.",
+            "synonyms": [
+                "mallet",
+                "gavel"
+            ],
+            "examples": [
+                "He used a hammer to fix the shelf."
+            ]
+        }
+    ],
+    "hat": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a covering for the head worn for fashion or protection.",
+            "synonyms": [
+                "cap",
+                "headwear"
+            ],
+            "examples": [
+                "She put on a hat."
+            ]
+        }
+    ],
+    "hazardous": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "dangerous or risky; likely to cause harm.",
+            "synonyms": [
+                "dangerous",
+                "risky",
+                "unsafe"
+            ],
+            "examples": [
+                "Hazardous weather forced them indoors."
+            ]
+        }
+    ],
+    "horror": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a genre of fiction or film intended to scare; a feeling of great fear.",
+            "synonyms": [
+                "terror",
+                "fright",
+                "scare"
+            ],
+            "examples": [
+                "The horror scene was intense."
+            ]
+        }
+    ],
+    "hue": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To color or tint something.",
+            "synonyms": [
+                "color",
+                "tint",
+                "dye"
+            ],
+            "examples": [
+                "Factories hue fabrics in vivid tones."
+            ]
+        }
+    ],
+    "hello": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "An archaic or variant spelling; not standard in modern usage.",
+            "synonyms": [
+                "greeting"
+            ],
+            "examples": [
+                "Hello is used as a greeting."
+            ]
+        }
+    ]
+}

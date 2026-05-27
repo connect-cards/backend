@@ -1,0 +1,60 @@
+{
+  "date": "2026-05-07",
+  "version": 3,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "p3_easy",
+      "type": "easy",
+      "difficulty": 1,
+      "title": "GREETINGS",
+      "words": [
+        "hello",
+        "hi",
+        "hey",
+        "yo"
+      ]
+    },
+    {
+      "id": "p3_medium",
+      "type": "medium",
+      "difficulty": 2,
+      "title": "ACT_ROOT",
+      "words": [
+        "actor",
+        "action",
+        "active",
+        "activate"
+      ]
+    },
+    {
+      "id": "p3_hard",
+      "type": "hard",
+      "difficulty": 3,
+      "title": "EMOTIONAL_TONE",
+      "words": [
+        "melancholic",
+        "solemn",
+        "cheerful",
+        "ironic"
+      ]
+    },
+    {
+      "id": "p3_veryhard",
+      "type": "very-hard",
+      "difficulty": 4,
+      "title": "ONOMATOPOEIA",
+      "words": [
+        "clang",
+        "hum",
+        "chirp",
+        "buzz"
+      ]
+    }
+  ]
+}

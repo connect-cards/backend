@@ -1,0 +1,60 @@
+{
+  "date": "2026-05-30",
+  "version": 1,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "G1",
+      "type": "emotional_tone",
+      "difficulty": 1,
+      "title": "tone",
+      "words": [
+        "calm",
+        "cheerful",
+        "anxious",
+        "tense"
+      ]
+    },
+    {
+      "id": "G2",
+      "type": "semantic_field",
+      "difficulty": 2,
+      "title": "field",
+      "words": [
+        "iris",
+        "lilac",
+        "poppy",
+        "tulip"
+      ]
+    },
+    {
+      "id": "G3",
+      "type": "morphological_family",
+      "difficulty": 3,
+      "title": "morphology",
+      "words": [
+        "import",
+        "export",
+        "portable",
+        "porter"
+      ]
+    },
+    {
+      "id": "G4",
+      "type": "synonym",
+      "difficulty": 4,
+      "title": "synonym",
+      "words": [
+        "guffaw",
+        "chortle",
+        "snicker",
+        "giggle"
+      ]
+    }
+  ]
+}

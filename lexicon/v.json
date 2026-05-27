@@ -1,0 +1,85 @@
+{
+    "vast": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very large in size or extent.",
+            "synonyms": [
+                "huge",
+                "immense",
+                "extensive"
+            ],
+            "examples": [
+                "They explored a vast forest."
+            ]
+        }
+    ],
+    "voyage": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a long journey by sea or in space.",
+            "synonyms": [
+                "journey",
+                "cruise",
+                "expedition"
+            ],
+            "examples": [
+                "The voyage across the ocean was stormy."
+            ]
+        }
+    ],
+    "violin": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a string instrument played with a bow; has four strings.",
+            "synonyms": [
+                "fiddle",
+                "string instrument"
+            ],
+            "examples": [
+                "She plays the violin in the orchestra."
+            ]
+        }
+    ],
+    "venerable": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "worthy of respect because of age, wisdom, or character.",
+            "synonyms": [
+                "esteemed",
+                "respected",
+                "revered"
+            ],
+            "examples": [
+                "The venerable tradition continued for centuries."
+            ]
+        }
+    ],
+    "vegetable": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a plant or part of a plant used as food, such as carrot or spinach.",
+            "synonyms": [
+                "produce",
+                "greens",
+                "veg"
+            ],
+            "examples": [
+                "We cooked vegetables with rice."
+            ]
+        }
+    ],
+    "violet": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Having a color that is a shade between blue and purple.",
+            "synonyms": [
+                "purple",
+                "lavender",
+                "indigo"
+            ],
+            "examples": [
+                "The flowers were bright violet."
+            ]
+        }
+    ]
+}

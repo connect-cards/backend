@@ -1,0 +1,60 @@
+{
+  "date": "2026-05-17",
+  "version": 1,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "thematic_association",
+      "difficulty": 1,
+      "title": "Colors of the spectrum",
+      "words": [
+        "red",
+        "blue",
+        "green",
+        "amber"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "physical_trait",
+      "difficulty": 2,
+      "title": "Body-descriptor adjectives",
+      "words": [
+        "tall",
+        "short",
+        "stout",
+        "lean"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "literary_register",
+      "difficulty": 3,
+      "title": "Fleeting synonyms",
+      "words": [
+        "ephemeral",
+        "evanescent",
+        "transient",
+        "transitory"
+      ]
+    },
+    {
+      "id": "g4",
+      "type": "morphological_family",
+      "difficulty": 4,
+      "title": "scribe-derivatives",
+      "words": [
+        "describe",
+        "prescribe",
+        "transcribe",
+        "ascribe"
+      ]
+    }
+  ]
+}

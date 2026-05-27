@@ -1,0 +1,100 @@
+{
+    "intelligent": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having or showing good thinking and understanding.",
+            "synonyms": [
+                "clever",
+                "brilliant",
+                "smart"
+            ],
+            "examples": [
+                "She is an intelligent student."
+            ]
+        }
+    ],
+    "ingenious": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very clever and inventive.",
+            "synonyms": [
+                "clever",
+                "inventive",
+                "creative"
+            ],
+            "examples": [
+                "They came up with an ingenious plan."
+            ]
+        }
+    ],
+    "inform": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to give information or knowledge to someone.",
+            "synonyms": [
+                "tell",
+                "let know",
+                "notify"
+            ],
+            "examples": [
+                "Inform the team of the change."
+            ]
+        }
+    ],
+    "information": [
+        {
+            "part_of_speech": "noun",
+            "definition": "facts provided or learned about something or someone.",
+            "synonyms": [
+                "data",
+                "facts",
+                "details"
+            ],
+            "examples": [
+                "We need more information."
+            ]
+        }
+    ],
+    "informative": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "providing useful information; educational.",
+            "synonyms": [
+                "educational",
+                "useful",
+                "helpful"
+            ],
+            "examples": [
+                "She wrote an informative article."
+            ]
+        }
+    ],
+    "informant": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who gives information, often to authorities or researchers.",
+            "synonyms": [
+                "source",
+                "tipster",
+                "witness"
+            ],
+            "examples": [
+                "An informant spoke to the police."
+            ]
+        }
+    ],
+    "irate": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Feeling or showing extreme anger; furious.",
+            "synonyms": [
+                "angry",
+                "furious",
+                "enraged"
+            ],
+            "examples": [
+                "He became irate after the long delay."
+            ]
+        }
+    ]
+}

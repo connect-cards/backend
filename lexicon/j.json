@@ -1,0 +1,57 @@
+{
+    "journey": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an act of traveling from one place to another; a trip.",
+            "synonyms": [
+                "trip",
+                "voyage",
+                "tour"
+            ],
+            "examples": [
+                "The journey began at dawn."
+            ]
+        }
+    ],
+    "jazz": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a music genre characterized by improvisation and swing.",
+            "synonyms": [
+                "swing",
+                "improv",
+                "blues"
+            ],
+            "examples": [
+                "The concert featured classic jazz."
+            ]
+        }
+    ],
+    "juice": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a liquid drink made from fruit or vegetables.",
+            "synonyms": [
+                "drink",
+                "nectar"
+            ],
+            "examples": [
+                "She drinks apple juice at lunch."
+            ]
+        }
+    ],
+    "joyful": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very happy; full of joy.",
+            "synonyms": [
+                "gleeful",
+                "delighted",
+                "elated"
+            ],
+            "examples": [
+                "Her joyful smile brightened the room."
+            ]
+        }
+    ]
+}

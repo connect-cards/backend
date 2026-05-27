@@ -1,0 +1,262 @@
+{
+    "ritual": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a set of actions performed as part of a ceremony or habit.",
+            "synonyms": [
+                "ceremony",
+                "custom",
+                "practice"
+            ],
+            "examples": [
+                "The morning ritual helped her wake up."
+            ]
+        }
+    ],
+    "rapid": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "happening in a short time or with great speed.",
+            "synonyms": [
+                "fast",
+                "quick",
+                "swift"
+            ],
+            "examples": [
+                "There was a rapid change in the weather."
+            ]
+        }
+    ],
+    "rain": [
+        {
+            "part_of_speech": "noun",
+            "definition": "water that falls from clouds as droplets.",
+            "synonyms": [
+                "precipitation",
+                "shower"
+            ],
+            "examples": [
+                "It started to rain heavily."
+            ]
+        }
+    ],
+    "recreation": [
+        {
+            "part_of_speech": "noun",
+            "definition": "activities done for enjoyment when one is not working.",
+            "synonyms": [
+                "pastime",
+                "leisure",
+                "amusement"
+            ],
+            "examples": [
+                "They found recreation in painting."
+            ]
+        }
+    ],
+    "reading": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the action of looking at and understanding written language.",
+            "synonyms": [
+                "perusing",
+                "studying"
+            ],
+            "examples": [
+                "Her reading improves every week."
+            ]
+        }
+    ],
+    "relatives": [
+        {
+            "part_of_speech": "noun",
+            "definition": "people connected by blood or marriage; family members.",
+            "synonyms": [
+                "kin",
+                "family",
+                "relation"
+            ],
+            "examples": [
+                "We saw our relatives at the gathering."
+            ]
+        }
+    ],
+    "rock": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a solid mineral material forming part of the earth’s surface; a genre of music.",
+            "synonyms": [
+                "stone",
+                "stone material",
+                "rock music"
+            ],
+            "examples": [
+                "The rock glowed in the sunlight."
+            ]
+        }
+    ],
+    "rice": [
+        {
+            "part_of_speech": "noun",
+            "definition": "small white grains that come from a plant; a staple food.",
+            "synonyms": [
+                "grain",
+                "cereal"
+            ],
+            "examples": [
+                "We cooked rice for dinner."
+            ]
+        }
+    ],
+    "read": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to look at and understand written words.",
+            "synonyms": [
+                "peruse",
+                "study",
+                "scan"
+            ],
+            "examples": [
+                "She loves to read novels."
+            ]
+        }
+    ],
+    "reader": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who reads; a book or media that provides information for readers.",
+            "synonyms": [
+                "literary audience",
+                "viewer"
+            ],
+            "examples": [
+                "The reader enjoyed the article."
+            ]
+        }
+    ],
+    "readable": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "easy to read or understand; clearly written.",
+            "synonyms": [
+                "legible",
+                "comprehensible",
+                "understandable"
+            ],
+            "examples": [
+                "The guide is readable for beginners."
+            ]
+        }
+    ],
+    "rigid": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very stiff; not able to bend easily.",
+            "synonyms": [
+                "stiff",
+                "unyielding",
+                "inflexible"
+            ],
+            "examples": [
+                "The rules are rigid."
+            ]
+        }
+    ],
+    "risky": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "dependent on chance; dangerous.",
+            "synonyms": [
+                "dangerous",
+                "hazardous",
+                "uncertain"
+            ],
+            "examples": [
+                "It is risky to leap without looking."
+            ]
+        }
+    ],
+    "racket": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a sports implement used in tennis or badminton; a loud noise or commotion.",
+            "synonyms": [
+                "racquet",
+                "tennis racket",
+                "noise"
+            ],
+            "examples": [
+                "The racket in the stadium was loud."
+            ]
+        }
+    ],
+    "robust": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "strong and healthy; able to withstand tough conditions.",
+            "synonyms": [
+                "strong",
+                "sturdy",
+                "vigorous"
+            ],
+            "examples": [
+                "The plant is robust and returns every year."
+            ]
+        }
+    ],
+    "rewrite": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to write something again, often with changes.",
+            "synonyms": [
+                "revise",
+                "rework",
+                "redraft"
+            ],
+            "examples": [
+                "They rewrote the draft for clarity."
+            ]
+        }
+    ],
+    "radio": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a device that receives or transmits audio signals; a program broadcast.",
+            "synonyms": [
+                "broadcast",
+                "airwave"
+            ],
+            "examples": [
+                "She listens to the radio in the car."
+            ]
+        }
+    ],
+    "rug": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To cover a surface with a rug or carpet.",
+            "synonyms": [
+                "carpet",
+                "floor"
+            ],
+            "examples": [
+                "She decided to rug the living room for the winter."
+            ]
+        }
+    ],
+    "river": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A large natural stream of water flowing in a channel to the sea, a lake, or another stream.",
+            "synonyms": [
+                "watercourse",
+                "stream",
+                "flow"
+            ],
+            "examples": [
+                "The river winds through the valley before reaching the coast."
+            ]
+        }
+    ]
+}

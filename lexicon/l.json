@@ -1,0 +1,155 @@
+{
+    "laptop": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a portable computer that can be used on a lap.",
+            "synonyms": [
+                "notebook computer",
+                "portable computer"
+            ],
+            "examples": [
+                "She bought a new laptop for school."
+            ]
+        }
+    ],
+    "launch": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to start or set in motion; to release or start something like a project.",
+            "synonyms": [
+                "start",
+                "inaugurate",
+                "introduce"
+            ],
+            "examples": [
+                "The company launched the new app yesterday."
+            ]
+        }
+    ],
+    "library": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a place where books, magazines, and other materials are kept for public use.",
+            "synonyms": [
+                "book collection",
+                "archive"
+            ],
+            "examples": [
+                "I borrowed a book from the library."
+            ]
+        }
+    ],
+    "large": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "of considerable size or extent.",
+            "synonyms": [
+                "big",
+                "huge",
+                "massive"
+            ],
+            "examples": [
+                "She bought a large bottle of juice."
+            ]
+        }
+    ],
+    "literature": [
+        {
+            "part_of_speech": "noun",
+            "definition": "written works, especially those considered to have artistic value.",
+            "synonyms": [
+                "prose",
+                "fiction",
+                "poetry"
+            ],
+            "examples": [
+                "We read classical literature in class."
+            ]
+        }
+    ],
+    "lovely": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "delightful or charming in appearance or manner.",
+            "synonyms": [
+                "beautiful",
+                "attractive",
+                "pleasant"
+            ],
+            "examples": [
+                "She wore a lovely scarf."
+            ]
+        }
+    ],
+    "lamp": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A device that emits light to illuminate a room or area.",
+            "synonyms": [
+                "light",
+                "lantern",
+                "fixture"
+            ],
+            "examples": [
+                "The lamp on the desk brightened the workspace.",
+                "She added a warm glow with a small bedside lamp."
+            ]
+        }
+    ],
+    "lad": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A boy or young man; a male youth.",
+            "synonyms": [
+                "boy",
+                "son",
+                "youth"
+            ],
+            "examples": [
+                "The lad helped his grandfather in the garden."
+            ]
+        }
+    ],
+    "laconic": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Using very few words; concise to the point of seeming rude.",
+            "synonyms": [
+                "brief",
+                "terse",
+                "succinct"
+            ],
+            "examples": [
+                "Her laconic reply ended the discussion quickly."
+            ]
+        }
+    ],
+    "law": [
+        {
+            "part_of_speech": "noun",
+            "definition": "The system of rules that governs behavior and enforces penalties.",
+            "synonyms": [
+                "rule",
+                "legislation",
+                "regulation"
+            ],
+            "examples": [
+                "He studied law to become a lawyer."
+            ]
+        }
+    ],
+    "lyrical": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Expressing the writer's emotions in a beautiful, musical way; poetic.",
+            "synonyms": [
+                "poetic",
+                "melodic",
+                "expressive"
+            ],
+            "examples": [
+                "Her lyrics are lyrical and moving."
+            ]
+        }
+    ]
+}

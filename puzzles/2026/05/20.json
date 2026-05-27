@@ -1,0 +1,60 @@
+{
+  "date": "2026-05-20",
+  "version": 4,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "informal_register",
+      "difficulty": 1,
+      "title": "Slang terms of approval",
+      "words": [
+        "cool",
+        "awesome",
+        "dope",
+        "rad"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "thematic_association",
+      "difficulty": 2,
+      "title": "Classical elements",
+      "words": [
+        "earth",
+        "air",
+        "fire",
+        "water"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "synonym",
+      "difficulty": 3,
+      "title": "Synonyms for quickness",
+      "words": [
+        "rapid",
+        "swift",
+        "speedy",
+        "brisk"
+      ]
+    },
+    {
+      "id": "g4",
+      "type": "sound_association",
+      "difficulty": 4,
+      "title": "Onomatopoeic sounds",
+      "words": [
+        "clang",
+        "whirr",
+        "hum",
+        "tinkle"
+      ]
+    }
+  ]
+}

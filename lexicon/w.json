@@ -1,0 +1,180 @@
+{
+    "wind": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the natural movement of air outside; a breeze.",
+            "synonyms": [
+                "breeze",
+                "gale"
+            ],
+            "examples": [
+                "The wind is strong today."
+            ]
+        }
+    ],
+    "write": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to form letters or words on a surface with a pen or pencil; to compose text.",
+            "synonyms": [
+                "compose",
+                "pen",
+                "scribe"
+            ],
+            "examples": [
+                "She likes to write poems."
+            ]
+        }
+    ],
+    "writer": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who writes; someone who composes text.",
+            "synonyms": [
+                "author",
+                "novelist",
+                "scribe"
+            ],
+            "examples": [
+                "The writer spoke about his book."
+            ]
+        }
+    ],
+    "writing": [
+        {
+            "part_of_speech": "noun",
+            "definition": "words that have been written down; the act of composing text.",
+            "synonyms": [
+                "composing",
+                "penning",
+                "drafting"
+            ],
+            "examples": [
+                "Her writing is clear and concise."
+            ]
+        }
+    ],
+    "written": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "produced or written in letters on paper or another surface.",
+            "synonyms": [
+                "recorded",
+                "documented"
+            ],
+            "examples": [
+                "Please bring the written notes."
+            ]
+        }
+    ],
+    "work": [
+        {
+            "part_of_speech": "noun",
+            "definition": "activity involving mental or physical effort done to achieve a result.",
+            "synonyms": [
+                "labor",
+                "employment",
+                "job"
+            ],
+            "examples": [
+                "She enjoys her work."
+            ]
+        }
+    ],
+    "worker": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who works; a laborer.",
+            "synonyms": [
+                "laborer",
+                "employee",
+                "worker"
+            ],
+            "examples": [
+                "The workers met the deadline."
+            ]
+        }
+    ],
+    "working": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "doing work; active.",
+            "synonyms": [
+                "operational",
+                "functional",
+                "active"
+            ],
+            "examples": [
+                "The factory is working at full capacity."
+            ]
+        }
+    ],
+    "worked": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "completed or exhausted from effort.",
+            "synonyms": [
+                "completed",
+                "exhausted"
+            ],
+            "examples": [
+                "A well worked plan."
+            ]
+        }
+    ],
+    "water": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a clear liquid essential for most forms of life.",
+            "synonyms": [
+                "aqua",
+                "H2O"
+            ],
+            "examples": [
+                "Drink water every day."
+            ]
+        }
+    ],
+    "wrench": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a tool used to grip and turn objects such as bolts.",
+            "synonyms": [
+                "spanner",
+                "pliers"
+            ],
+            "examples": [
+                "He used a wrench to loosen the pipe joint."
+            ]
+        }
+    ],
+    "wry": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Containing or showing a dry, especially mocking, humor.",
+            "synonyms": [
+                "dry",
+                "ironic",
+                "satirical",
+                "sarcastic"
+            ],
+            "examples": [
+                "She gave a wry smile after the joke fell flat."
+            ]
+        }
+    ],
+    "weird": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Very strange or unusual; unsettling.",
+            "synonyms": [
+                "strange",
+                "odd",
+                "peculiar"
+            ],
+            "examples": [
+                "The meeting took a weird turn after the announcement."
+            ]
+        }
+    ]
+}

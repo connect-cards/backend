@@ -1,0 +1,60 @@
+{
+  "date": "2026-05-03",
+  "version": 4,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "impossible"
+  ],
+  "groups": [
+    {
+      "id": "g_easy4",
+      "type": "easy",
+      "difficulty": 1,
+      "title": "Emotional tones",
+      "words": [
+        "elated",
+        "mournful",
+        "irate",
+        "placid"
+      ]
+    },
+    {
+      "id": "g_medium4",
+      "type": "medium",
+      "difficulty": 2,
+      "title": "Religious terms",
+      "words": [
+        "altar",
+        "psalm",
+        "ritual",
+        "shrine"
+      ]
+    },
+    {
+      "id": "g_hard4",
+      "type": "hard",
+      "difficulty": 3,
+      "title": "Slang for friends",
+      "words": [
+        "bros",
+        "bro",
+        "bud",
+        "mate"
+      ]
+    },
+    {
+      "id": "g_vhard4",
+      "type": "very-hard",
+      "difficulty": 4,
+      "title": "Etymological family of bene-",
+      "words": [
+        "benevolent",
+        "benefactor",
+        "benefit",
+        "benison"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,633 @@
+{
+    "sister": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a sister is a female sibling.",
+            "synonyms": [
+                "sibling",
+                "sis"
+            ],
+            "examples": [
+                "My sister and I share a room."
+            ]
+        }
+    ],
+    "small": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "not large in size.",
+            "synonyms": [
+                "little",
+                "compact",
+                "miniature"
+            ],
+            "examples": [
+                "They live in a small house near the park."
+            ]
+        }
+    ],
+    "son": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a male child in relation to his parents.",
+            "synonyms": [
+                "boy",
+                "offspring"
+            ],
+            "examples": [
+                "Her son plays soccer every weekend."
+            ]
+        }
+    ],
+    "swift": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "happening quickly; fast.",
+            "synonyms": [
+                "fast",
+                "rapid",
+                "quick"
+            ],
+            "examples": [
+                "A swift decision helped us finish early."
+            ]
+        }
+    ],
+    "speedy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "done or occurring quickly; swift.",
+            "synonyms": [
+                "fast",
+                "rapid",
+                "prompt"
+            ],
+            "examples": [
+                "We took a speedy train to the city."
+            ]
+        }
+    ],
+    "sun": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the star at the center of our solar system that provides light and heat.",
+            "synonyms": [
+                "star",
+                "sol"
+            ],
+            "examples": [
+                "The sun is bright today."
+            ]
+        }
+    ],
+    "snow": [
+        {
+            "part_of_speech": "noun",
+            "definition": "soft white ice crystals that fall as precipitation.",
+            "synonyms": [
+                "snowfall",
+                "flakes"
+            ],
+            "examples": [
+                "Children enjoy playing in the snow."
+            ]
+        }
+    ],
+    "start": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to move or begin to operate; to set off.",
+            "synonyms": [
+                "begin",
+                "launch",
+                "commence"
+            ],
+            "examples": [
+                "We start at eight o clock."
+            ]
+        }
+    ],
+    "savory": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having a pleasant taste or smell; not sweet.",
+            "synonyms": [
+                "tasty",
+                "flavorful",
+                "delicious"
+            ],
+            "examples": [
+                "The dish had a savory sauce."
+            ]
+        }
+    ],
+    "sad": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "feeling or showing sorrow; not happy.",
+            "synonyms": [
+                "unhappy",
+                "melancholy",
+                "downcast"
+            ],
+            "examples": [
+                "She felt sad after the movie."
+            ]
+        }
+    ],
+    "see": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to perceive with the eyes; to observe.",
+            "synonyms": [
+                "perceive",
+                "watch",
+                "look"
+            ],
+            "examples": [
+                "Can you see the birds in the tree?"
+            ]
+        }
+    ],
+    "seeing": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the act of perceiving with the eyes; the sense of sight.",
+            "synonyms": [
+                "vision",
+                "eyesight"
+            ],
+            "examples": [
+                "Her seeing improved after therapy."
+            ]
+        }
+    ],
+    "saw": [
+        {
+            "part_of_speech": "verb",
+            "definition": "past tense of see; to have seen.",
+            "synonyms": [
+                "viewed",
+                "observed",
+                "noticed"
+            ],
+            "examples": [
+                "She saw the movie last night."
+            ]
+        }
+    ],
+    "seen": [
+        {
+            "part_of_speech": "verb",
+            "definition": "past participle of see; having perceived.",
+            "synonyms": [
+                "witnessed",
+                "observed",
+                "noticed"
+            ],
+            "examples": [
+                "The problem has been seen by the team."
+            ]
+        }
+    ],
+    "silent": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "not making or accompanied by any sound; quiet.",
+            "synonyms": [
+                "quiet",
+                "hushed",
+                "mute"
+            ],
+            "examples": [
+                "Please be silent during the presentation."
+            ]
+        }
+    ],
+    "siblings": [
+        {
+            "part_of_speech": "noun",
+            "definition": "brothers and sisters; people who share at least one parent.",
+            "synonyms": [
+                "brothers and sisters",
+                "brood"
+            ],
+            "examples": [
+                "They are siblings who get along well."
+            ]
+        }
+    ],
+    "sofa": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a long, comfortable seat for several people.",
+            "synonyms": [
+                "couch",
+                "settee"
+            ],
+            "examples": [
+                "They sat together on the sofa."
+            ]
+        }
+    ],
+    "shirt": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an item of clothing worn on the upper body; usually has sleeves and a collar.",
+            "synonyms": [
+                "top",
+                "blouse"
+            ],
+            "examples": [
+                "She bought a new shirt."
+            ]
+        }
+    ],
+    "stiff": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "not easily bent; firm; strict.",
+            "synonyms": [
+                "rigid",
+                "firm",
+                "hard"
+            ],
+            "examples": [
+                "Her posture was stiff after the workout."
+            ]
+        }
+    ],
+    "spoon": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small, shallow utensil used for eating or stirring.",
+            "synonyms": [
+                "scoop",
+                "ladle"
+            ],
+            "examples": [
+                "Please pass me the spoon."
+            ]
+        }
+    ],
+    "spatula": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a flat, blunt-edged tool used for mixing or spreading food.",
+            "synonyms": [
+                "turner",
+                "flipper"
+            ],
+            "examples": [
+                "The spatula is flexible and easy to clean."
+            ]
+        }
+    ],
+    "smartphone": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a mobile phone with advanced features like a touchscreen and internet access.",
+            "synonyms": [
+                "cellphone",
+                "mobile"
+            ],
+            "examples": [
+                "He bought a new smartphone."
+            ]
+        }
+    ],
+    "scared": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "frightened or worried about something.",
+            "synonyms": [
+                "fearful",
+                "afraid",
+                "terrified"
+            ],
+            "examples": [
+                "The child was scared of the dark."
+            ]
+        }
+    ],
+    "speak": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to say words; to convey information, a message, etc.",
+            "synonyms": [
+                "talk",
+                "utter",
+                "converse"
+            ],
+            "examples": [
+                "He will speak about the project tomorrow."
+            ]
+        }
+    ],
+    "speaker": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who speaks or a device that converts electrical energy to sound.",
+            "synonyms": [
+                "orator",
+                "talker",
+                "presenter"
+            ],
+            "examples": [
+                "We listened to the speaker with interest."
+            ]
+        }
+    ],
+    "speaking": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the act of giving a talk or voice; expressing in speech.",
+            "synonyms": [
+                "talking",
+                "oratory"
+            ],
+            "examples": [
+                "Her speaking impressed the audience."
+            ]
+        }
+    ],
+    "spoken": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "expressed or communicated through speech.",
+            "synonyms": [
+                "verbal",
+                "orally expressed"
+            ],
+            "examples": [
+                "The spoken language differs from the written form."
+            ]
+        }
+    ],
+    "science": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the study of the natural world through observation and experiment.",
+            "synonyms": [
+                "biology",
+                "physics",
+                "chemistry"
+            ],
+            "examples": [
+                "Science class is interesting."
+            ]
+        }
+    ],
+    "screwdriver": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a tool used for driving screws; has a handle and a shaped tip.",
+            "synonyms": [
+                "driver",
+                "tool"
+            ],
+            "examples": [
+                "The screwdriver stopped the loose screws."
+            ]
+        }
+    ],
+    "stunning": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "extremely beautiful or surprising; remarkable.",
+            "synonyms": [
+                "remarkable",
+                "gorgeous",
+                "breathtaking"
+            ],
+            "examples": [
+                "The dress was stunning."
+            ]
+        }
+    ],
+    "strong": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having power, strength, or great ability.",
+            "synonyms": [
+                "powerful",
+                "robust",
+                "sturdy"
+            ],
+            "examples": [
+                "A strong person lifted the box."
+            ]
+        }
+    ],
+    "sturdy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "strong and solid; able to resist pressure.",
+            "synonyms": [
+                "strong",
+                "durable",
+                "hardy"
+            ],
+            "examples": [
+                "The table is sturdy and stable."
+            ]
+        }
+    ],
+    "sibling": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a brother or sister.",
+            "synonyms": [
+                "brother",
+                "sister",
+                "kin"
+            ],
+            "examples": [
+                "Her siblings played together."
+            ]
+        }
+    ],
+    "smart": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "fully awake or intelligent; stylish.",
+            "synonyms": [
+                "clever",
+                "intelligent",
+                "stylish"
+            ],
+            "examples": [
+                "He wore a smart suit."
+            ]
+        }
+    ],
+    "simple": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "easily understood or done; not complex.",
+            "synonyms": [
+                "easy",
+                "plain",
+                "uncomplicated"
+            ],
+            "examples": [
+                "The instructions are simple to follow."
+            ]
+        }
+    ],
+    "straightforward": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "easy to understand or do; direct.",
+            "synonyms": [
+                "clear",
+                "simple",
+                "unambiguous"
+            ],
+            "examples": [
+                "The instructions are straightforward."
+            ]
+        }
+    ],
+    "satirical": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Using humor, irony, or exaggeration to critique or expose folly or vice.",
+            "synonyms": [
+                "ironic",
+                "parodic",
+                "mocking",
+                "ridiculing"
+            ],
+            "examples": [
+                "The article offered a sharp satirical look at modern politics."
+            ]
+        }
+    ],
+    "sagacious": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Having or showing keen judgement; wise and perceptive.",
+            "synonyms": [
+                "wise",
+                "astute",
+                "clever",
+                "shrewd"
+            ],
+            "examples": [
+                "Her sagacious decisions saved the company from collapse."
+            ]
+        }
+    ],
+    "susurrus": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A soft, whispering or rustling sound.",
+            "synonyms": [
+                "whisper",
+                "murmur",
+                "rustle"
+            ],
+            "examples": [
+                "A susurrus of leaves accompanied the breeze."
+            ]
+        }
+    ],
+    "sough": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To make a sighing or moaning sound; to rustle softly.",
+            "synonyms": [
+                "murmur",
+                "rustle",
+                "sigh"
+            ],
+            "examples": [
+                "Wind soughing through the trees filled the night."
+            ]
+        }
+    ],
+    "stream": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To move or flow in a continuous current in a specified direction.",
+            "synonyms": [
+                "flow",
+                "drain",
+                "pour"
+            ],
+            "examples": [
+                "Water streams from the faucet after use."
+            ]
+        }
+    ],
+    "shade": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To protect from direct light or to color by shading with a pencil or brush.",
+            "synonyms": [
+                "shadow",
+                "darken"
+            ],
+            "examples": [
+                "She shade the edges of the drawing to create depth."
+            ]
+        }
+    ],
+    "shrine": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A place considered holy or sacred, often containing relics.",
+            "synonyms": [
+                "sanctuary",
+                "temple",
+                "altar"
+            ],
+            "examples": [
+                "The shrine attracts visitors from many countries."
+            ]
+        }
+    ],
+    "sock": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To strike with a strong, quick blow, usually with the hand.",
+            "synonyms": [
+                "hit",
+                "punch",
+                "smack"
+            ],
+            "examples": [
+                "He socked the ball out of the park."
+            ]
+        }
+    ],
+    "sword": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A weapon with a long metal blade and a handle.",
+            "synonyms": [
+                "sabers",
+                "blade",
+                "weapon"
+            ],
+            "examples": [
+                "The knight drew his sword from its scabbard."
+            ]
+        }
+    ],
+    "succinct": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Expressed clearly in a few words; concise.",
+            "synonyms": [
+                "concise",
+                "terse",
+                "compact"
+            ],
+            "examples": [
+                "Her succinct answer settled the issue."
+            ]
+        }
+    ]
+}
