@@ -55,7 +55,7 @@ OBJECTIVE: Create a challenging word-grouping puzzle with:
 
 STRICT REQUIREMENTS:
 - EXACTLY 16 UNIQUE words
-- EXACTLY 4 groups corresponding to 4 DIFFICULTY LEVELS (easy, medium, hard, impossible)
+- EXACTLY 4 groups corresponding to 4 DIFFICULTY LEVELS (easy, medium, hard, very-hard)
 - EACH group has EXACTLY 4 words
 - EXACTLY ONE valid grouping solution
 - NO word overlaps between groups
@@ -76,10 +76,8 @@ TARGER VOCABULARY LEVEL:
 - Suitable for IELTS band 7-9, GRE verbal, CEFR level C1-C2
 - At least 4 words should be uncommon for average native speakers
 
-SUGGESTED GROUP TYPES for EACH DAY (use as inspiration -- not label):
-${dates.forEach((date: string) => `
-- Date ${date}: ${pickTypes(types).join(", ")}
-`)}
+PUZZLES' DATES AND SUGGESTED GROUP TYPES for EACH DAY (use as inspiration -- not label):
+${dates.map((date: string) => `- Date ${date}: ${pickTypes(types).join(", ")}`).join("\n")}
 
 Return ONLY JSON.
 `

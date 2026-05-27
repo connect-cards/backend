@@ -1,9 +1,9 @@
-import { generateMonthlyPuzzles } from "./generatePuzzles";
+import { generatePuzzles } from "./generatePuzzles";
 import { generateLexicon } from "./generateLexicon";
 import { repairPuzzle } from "./repairPuzzle";
 
 export { 
-    generateMonthlyPuzzles, 
+    generatePuzzles, 
     generateLexicon,
     repairPuzzle
 };

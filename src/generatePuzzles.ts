@@ -5,7 +5,6 @@ import { client } from "./utils";
 import { puzzlesPrompt, generationGPTModel } from "./prompts";
 import { PuzzlesResponseSchema } from "./schema";
 
-const DAYS_TO_GENERATE = 30;
 const TYPES = [
     "synonym",
     "morphological_family",
@@ -20,13 +19,7 @@ const TYPES = [
     "thematic_association",
 ];
 
-export async function generateMonthlyPuzzles(year: number, month: number) {
-    const mm = String(month).padStart(2, "0");
-    const dates = Array.from(
-        { length: DAYS_TO_GENERATE },
-        (_, i) => `${year}-${mm}-${String(i + 1).padStart(2, "0")}`
-    );
-
+export async function generatePuzzles(dates: string[]) {
     const response = await client.responses.parse({
         model: generationGPTModel,
         input: [{

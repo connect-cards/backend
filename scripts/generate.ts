@@ -1,5 +1,5 @@
 import fs from "fs-extra";
-import { generateMonthlyPuzzles, generateLexicon } from "../src";
+import { generatePuzzles, generateLexicon } from "../src";
 
 function getNextMonth() {
     const now = new Date();
@@ -12,6 +12,11 @@ function getNextMonth() {
     }
 
     return { year, month };
+}
+
+function getDaysInMonth(year: number, month: number) {
+    const numDays = new Date(year, month, 0).getDate();
+    return numDays;
 }
 
 async function main() {
@@ -31,15 +36,24 @@ async function main() {
     }
 
     // STEP 2: Generate puzzles
-
     console.log(`Generating puzzles for ${year}/${month}...`);
 
-    await generateMonthlyPuzzles(year, month);
+    const mm = String(month).padStart(2, "0");
+    const numDays = getDaysInMonth(year, month);
+    const batches = [];
+    const DAYS_PER_BATCH = 4;
+    for (let i = 1; i <= numDays; i += DAYS_PER_BATCH) {
+        const dates = Array.from(
+            { length: Math.min(DAYS_PER_BATCH, numDays - i + 1) },
+            (_, j) => `${year}-${mm}-${String(i + j).padStart(2, "0")}`
+        );
+        batches.push(generatePuzzles(dates));
+    }
+    await Promise.all(batches);
 
     console.log(`Puzzles generated: /puzzles/${year}/${month}`);
 
     // STEP 3: Generate lexicon
-
     console.log('Generating lexicon...')
 
     const words = new Set<string>();
