@@ -5,7 +5,9 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "generate": "tsx scripts/generate.ts",
+    "create": "tsx scripts/createAll.ts",
+    "create:puzzles": "tsx scripts/createPuzzlesOnly.ts",
+    "create:lexicon": "tsx scripts/createLexiconOnly.ts",
     "repair": "tsx scripts/repair.ts"
   },
   "keywords": [],

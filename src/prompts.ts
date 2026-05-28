@@ -1,5 +1,5 @@
-export const generationGPTModel = "gpt-5-nano";
-export const validationGPTModel = "gpt-5.4-nano";
+export const generationGPTModel = "gpt-5.4-nano";
+export const validationGPTModel = "gpt-5.4-mini";
 
 const pickTypes = (types: string[]) => types.sort(() => 0.5 - Math.random()).slice(0, 4);
 
@@ -7,7 +7,7 @@ export const lexiconPrompt = (words: string[]) => `
 You are an expert English lexicographer and ESL dictionary generator.
 
 Generate high-quality dictionary entries for the following English words:
-${words.join(",")}
+${words.join(", ")}
 
 CORE REQUIREMENTS: For EACH word:
 - Include ALL parts of speech actually used in modern English (noun, verb, adj, adv)
@@ -31,7 +31,7 @@ Regarding SYNONYMS:
 - Synonyms should match the same part of speech, match the meaning closely, and avoid fabricated or extremely obscure words.
 
 Regarding EXAMPLES:
-- Include 1-3 natural example sentences per meaning.
+- Include 1-2 natural example sentences per meaning.
 - Example should use proper grammar, clearly demonstrate the meaning, varying sentence structure, and avoid overly poetic or artificial phrasing.
 - Good: "Her cheerful attitude improved the atmosphere." vs Bad: "The cheerful sun cheerfully cheered the cheerful village"
 

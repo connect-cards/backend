@@ -1,5 +1,5 @@
 import fs from "fs-extra";
-import { generatePuzzles, generateLexicon } from "../src";
+import { generatePuzzles, generateLexicon, checkLexicon } from "../src";
 
 function getNextMonth() {
     const now = new Date();
@@ -25,10 +25,10 @@ async function main() {
     let month = Number(process.argv[3]);
 
     if (!year || !month) {
-        console.log(`Either year (2nd arg) or month (3rd arg) not specified. Using default values instead!\n\n\
+        console.log(`Either year (2nd arg) or month (3rd arg) not specified. Using default values (next month) instead!\n\n\
             ------------\n\
-            Usage: npm run generate [year] [month] \n\
-            Example: npm run generate 2026 6`);
+            Usage: npm run create -- [year] [month] \n\
+            Example: npm run create -- 2026 6`);
         
         const date = getNextMonth();
         year = date.year;
@@ -59,8 +59,6 @@ async function main() {
     const words = new Set<string>();
     const folder = `puzzles/${year}/${String(month).padStart(2, '0')}`;
     const puzzleFiles = fs.readdirSync(folder);
-    const lexiconCache = new Map<string, Record<string, any>>();
-
     // Get words from new puzzles
     for (const file of puzzleFiles) {
         const puzzle = fs.readJSONSync(`${folder}/${file}`);
@@ -68,21 +66,14 @@ async function main() {
     }
 
     // Generate lexicon for new words only
-    const newWords = [...words].filter((word) => {
-        const letter = word[0].toLowerCase();
-        const file = `lexicon/${letter}.json`;
-
-        if (!lexiconCache.has(letter)) {
-            const existing = fs.existsSync(file) ? fs.readJSONSync(file) : {};
-            lexiconCache.set(letter, existing);
-        }
-
-        const existing = lexiconCache.get(letter) ?? {};
-        return !Object.prototype.hasOwnProperty.call(existing, word);
-    });
+    const { missing: newWords } = checkLexicon([...words]);
     if (newWords.length > 0) await generateLexicon(newWords);
 
-    console.log('Lexicon generated:', newWords.join(', '));
+    // Check which lexicon entries were created and which are still missing
+    const { existing: generatedNow, missing: missingNow } = checkLexicon(newWords);
+
+    console.log(`Lexicon generated (${generatedNow.length}): ${generatedNow.join(' ')}`);
+    console.log(`Lexicon missing (${missingNow.length}): ${missingNow.join(' ')}`);
 }
 
 main();
