@@ -1,14 +1,24 @@
+import { zodTextFormat } from "openai/helpers/zod.mjs";
+import { validationGPTModel, repairPrompt } from "./prompts";
+import { client } from "./utils";
 import { PuzzleSchema } from "./schema";
 
 export function validatePuzzle(json: any) {
-    // Check schema
-    const result = PuzzleSchema.safeParse(json);
-    if (!result.success) throw new Error("Schema invalid");
-
     // Check duplicates
     const words = json.groups.flatMap((g: any) => g.words);
     const unique = new Set(words);
-    if (unique.size !== 16) throw new Error("Duplicate words detected");
-
+    if (unique.size !== 16) return false;
     return true;
+}
+
+export async function repairPuzzle(json: string) {
+    const response = await client.responses.parse({
+        model: validationGPTModel,
+        input: repairPrompt(json),
+        text: {
+            format: zodTextFormat(PuzzleSchema, 'puzzle'),
+        }
+    });
+
+    return response.output_parsed;
 }

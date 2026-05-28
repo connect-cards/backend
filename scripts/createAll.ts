@@ -1,5 +1,5 @@
 import fs from "fs-extra";
-import { generatePuzzles, generateLexicon, checkLexicon } from "../src";
+import { generatePuzzles, generateLexicon, checkLexicon, validatePuzzle } from "../src";
 
 function getNextMonth() {
     const now = new Date();
@@ -49,9 +49,12 @@ async function main() {
         );
         batches.push(generatePuzzles(dates));
     }
-    await Promise.all(batches);
+    const generatedBatches = await Promise.all(batches);
+    const generatedPuzzles = generatedBatches.flat();
+    const invalidPuzzles = generatedPuzzles.filter((puzzle: any) => validatePuzzle(puzzle));
 
     console.log(`Puzzles generated: /puzzles/${year}/${month}`);
+    if (invalidPuzzles.length > 0) console.log("Invalid puzzle date(s):", invalidPuzzles.map((puzzle: any) => puzzle.date ?? "unknown").join(", "));
 
     // STEP 3: Generate lexicon
     console.log('Generating lexicon...')

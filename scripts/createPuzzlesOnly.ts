@@ -1,4 +1,4 @@
-import { generatePuzzles } from "../src";
+import { generatePuzzles, validatePuzzle } from "../src";
 
 function printUsage() {
     console.error("Usage: npm run create:puzzles -- <YYYY-MM-DD> [YYYY-MM-DD ...]");
@@ -58,8 +58,14 @@ async function main() {
     }
 
     console.log(`Generating puzzles for ${validDates.length} date(s): ${validDates.join(", ")}`);
-    await generatePuzzles(validDates);
+    const puzzles = await generatePuzzles(validDates);
+    const invalidPuzzles = puzzles.filter((puzzle: any) => validatePuzzle(puzzle));
+
     console.log("Puzzles generated for requested date(s).");
+    if (invalidPuzzles.length > 0) console.log("Invalid puzzle date(s):", invalidPuzzles.map((puzzle: any) => puzzle.date ?? "unknown").join(", "));
+
+    const generatedWords = [...new Set(puzzles.flatMap((puzzle: any) => puzzle.groups.flatMap((group: any) => group.words)))];
+    console.log(`Generated words (${generatedWords.length}): ${generatedWords.join(" ")}`);
 }
 
 main().catch((error) => {

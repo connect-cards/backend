@@ -39,4 +39,6 @@ export async function generatePuzzles(dates: string[]) {
         fs.ensureFileSync(filePath);
         fs.writeFileSync(filePath, JSON.stringify(puzzle, null, 2));
     });
+
+    return output.data;
 }
