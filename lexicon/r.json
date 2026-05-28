@@ -1087,5 +1087,21 @@
                 "The recital featured classical pieces."
             ]
         }
+    ],
+    "roamer": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person or animal that moves around and travels without a fixed place",
+            "synonyms": [
+                "wanderer",
+                "traveler",
+                "nomad",
+                "drifter"
+            ],
+            "examples": [
+                "A roamer with a small bag searched for the trail.",
+                "Street dogs are often roamed by the city."
+            ]
+        }
     ]
 }

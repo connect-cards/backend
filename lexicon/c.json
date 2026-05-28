@@ -1716,5 +1716,79 @@
                 "The panel held a colloquy with the audience."
             ]
         }
+    ],
+    "caw": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the loud cry of a crow",
+            "synonyms": [
+                "cry",
+                "call",
+                "squawk"
+            ],
+            "examples": [
+                "I heard a caw from the tree outside.",
+                "The caw woke me up early."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a loud sound like a crow",
+            "synonyms": [
+                "cry",
+                "call",
+                "squawk"
+            ],
+            "examples": [
+                "A crow cawed from the roof.",
+                "Birds began to caw before sunrise."
+            ]
+        }
+    ],
+    "chime": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a pleasant sound made by a bell or a set of bells",
+            "synonyms": [
+                "ring",
+                "toll",
+                "jingle",
+                "bell sound"
+            ],
+            "examples": [
+                "The chime marked the hour.",
+                "I could hear a soft chime in the hallway."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a ringing or bell-like sound",
+            "synonyms": [
+                "ring",
+                "toll",
+                "jingle",
+                "resound"
+            ],
+            "examples": [
+                "The clock chimed at nine.",
+                "Her phone chimed when the message arrived."
+            ]
+        }
+    ],
+    "comply": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to do what you are asked or required to do",
+            "synonyms": [
+                "follow",
+                "obey",
+                "adhere",
+                "conform"
+            ],
+            "examples": [
+                "All employees must comply with the safety rules.",
+                "He refused to comply with the request."
+            ]
+        }
     ]
 }

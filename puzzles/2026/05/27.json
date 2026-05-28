@@ -1,0 +1,60 @@
+{
+  "date": "2026-05-27",
+  "version": 1,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "thematic_association",
+      "difficulty": 1,
+      "title": "Types of travelers",
+      "words": [
+        "roamer",
+        "stroller",
+        "pilgrim",
+        "wayfarer"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "emotional_tone",
+      "difficulty": 2,
+      "title": "A gloomy emotional cast",
+      "words": [
+        "melancholy",
+        "despair",
+        "dismay",
+        "foreboding"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "synonym",
+      "difficulty": 3,
+      "title": "To look sharply, briefly",
+      "words": [
+        "glance",
+        "peek",
+        "glimpse",
+        "stare"
+      ]
+    },
+    {
+      "id": "g4",
+      "type": "physical_trait",
+      "difficulty": 4,
+      "title": "Signs of age or wear (subtle)",
+      "words": [
+        "wrinkle",
+        "scar",
+        "mottled",
+        "weathered"
+      ]
+    }
+  ]
+}

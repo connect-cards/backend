@@ -26,5 +26,21 @@
                 "The story features a brave knight."
             ]
         }
+    ],
+    "knocker": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a device or person that knocks on a door or surface",
+            "synonyms": [
+                "knocker",
+                "door knocker",
+                "striker",
+                "tapper"
+            ],
+            "examples": [
+                "The door has a brass knocker shaped like a lion.",
+                "He acted as the knocker during the ceremony."
+            ]
+        }
     ]
 }

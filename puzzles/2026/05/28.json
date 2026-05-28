@@ -1,0 +1,60 @@
+{
+  "date": "2026-05-28",
+  "version": 1,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "thematic_association",
+      "difficulty": 1,
+      "title": "Courtly actions",
+      "words": [
+        "defer",
+        "beseech",
+        "comply",
+        "entreat"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "morphological_family",
+      "difficulty": 2,
+      "title": "Adjectives from the same root meaning “to see”",
+      "words": [
+        "visionary",
+        "invisible",
+        "spectral",
+        "perceptive"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "sound_association",
+      "difficulty": 3,
+      "title": "Faint knocks and similar noises",
+      "words": [
+        "tapper",
+        "knocker",
+        "rattle",
+        "murmur"
+      ]
+    },
+    {
+      "id": "g4",
+      "type": "physical_trait",
+      "difficulty": 4,
+      "title": "Archaic descriptions of complexion",
+      "words": [
+        "sallow",
+        "swarthy",
+        "pallid",
+        "wan"
+      ]
+    }
+  ]
+}

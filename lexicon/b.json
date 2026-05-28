@@ -1057,5 +1057,21 @@
                 "The friends bantered about sports."
             ]
         }
+    ],
+    "beseech": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to ask someone for something in an urgent or emotional way",
+            "synonyms": [
+                "beg",
+                "implore",
+                "entreat",
+                "plead"
+            ],
+            "examples": [
+                "She beseeched him to stay.",
+                "They beseeched the court for help."
+            ]
+        }
     ]
 }

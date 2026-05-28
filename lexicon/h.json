@@ -647,5 +647,35 @@
                 "H e agreed to call henceforth."
             ]
         }
+    ],
+    "hoot": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a loud call made especially by an owl or by people in mockery",
+            "synonyms": [
+                "howl",
+                "call",
+                "cry",
+                "screech"
+            ],
+            "examples": [
+                "The owl let out a soft hoot at midnight.",
+                "The crowd’s hoots made the speaker nervous."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a loud call, especially like an owl, or to shout loudly in disapproval",
+            "synonyms": [
+                "howl",
+                "call",
+                "cry",
+                "boo"
+            ],
+            "examples": [
+                "Owls hoot at night.",
+                "They hooted at the referee after the decision."
+            ]
+        }
     ]
 }

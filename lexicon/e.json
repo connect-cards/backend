@@ -749,5 +749,21 @@
                 "The email was evasive about the real schedule."
             ]
         }
+    ],
+    "entreat": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to ask someone for something earnestly, often repeatedly",
+            "synonyms": [
+                "beg",
+                "implore",
+                "plead",
+                "beseech"
+            ],
+            "examples": [
+                "She entreatied him to reconsider his decision.",
+                "They entreat the government to respond quickly."
+            ]
+        }
     ]
 }

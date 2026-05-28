@@ -651,5 +651,67 @@
                 "They restored the wrought iron gate carefully."
             ]
         }
+    ],
+    "wrinkle": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small fold or line in skin or fabric",
+            "synonyms": [
+                "crease",
+                "fold",
+                "line",
+                "rumple"
+            ],
+            "examples": [
+                "There was a wrinkle on the back of his shirt.",
+                "She smoothed the wrinkle from the paper."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make small folds or lines, or to become folded and lined",
+            "synonyms": [
+                "crease",
+                "fold",
+                "rumple",
+                "crumple"
+            ],
+            "examples": [
+                "The heat wrinkled the plastic cover.",
+                "His forehead wrinkled when he read the form."
+            ]
+        }
+    ],
+    "weathered": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "changed by long exposure to weather, especially becoming rough or faded",
+            "synonyms": [
+                "worn",
+                "aged",
+                "faded",
+                "eroded"
+            ],
+            "examples": [
+                "The house had a weathered wooden fence.",
+                "His face looked weathered by years of outdoor work."
+            ]
+        }
+    ],
+    "wan": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "looking pale and unhealthy, often because of illness, tiredness, or lack of light",
+            "synonyms": [
+                "pale",
+                "sickly",
+                "pallid",
+                "colorless"
+            ],
+            "examples": [
+                "He felt tired and his face looked wan.",
+                "The light made her skin seem wan."
+            ]
+        }
     ]
 }

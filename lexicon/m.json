@@ -660,5 +660,21 @@
                 "The fog murked the street and reduced visibility."
             ]
         }
+    ],
+    "mottled": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having spots or patches of different colors or shades",
+            "synonyms": [
+                "spotted",
+                "speckled",
+                "patchy",
+                "marbled"
+            ],
+            "examples": [
+                "The cat had a mottled coat.",
+                "The wall was mottled with stains."
+            ]
+        }
     ]
 }

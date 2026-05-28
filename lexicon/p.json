@@ -1255,5 +1255,67 @@
                 "The thief picked the lock and stole a wallet."
             ]
         }
+    ],
+    "peek": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a quick look, often hidden or brief",
+            "synonyms": [
+                "glimpse",
+                "glance",
+                "look",
+                "peek-a-boo look"
+            ],
+            "examples": [
+                "Just a peek was enough to see what was inside.",
+                "I got a peek at the ending."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to look quickly, often in a secretive or brief way",
+            "synonyms": [
+                "glance",
+                "glimpse",
+                "peep",
+                "look"
+            ],
+            "examples": [
+                "She peeked into the room before entering.",
+                "Don’t peek at my notes."
+            ]
+        }
+    ],
+    "perceptive": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "good at noticing things and understanding what is really happening",
+            "synonyms": [
+                "insightful",
+                "observant",
+                "sharp",
+                "astute"
+            ],
+            "examples": [
+                "She is perceptive enough to notice small changes.",
+                "His comments were perceptive and helpful."
+            ]
+        }
+    ],
+    "pallid": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "pale, with less color than usual, often because of illness or fear",
+            "synonyms": [
+                "pale",
+                "wan",
+                "colorless",
+                "sickly"
+            ],
+            "examples": [
+                "She looked pallid after being in the cold for hours.",
+                "His pallid face showed that he was nervous."
+            ]
+        }
     ]
 }

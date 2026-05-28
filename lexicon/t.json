@@ -1218,5 +1218,21 @@
                 "There was trepidation before the results were announced."
             ]
         }
+    ],
+    "tapper": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who knocks or taps something repeatedly, or a person who records signals by tapping",
+            "synonyms": [
+                "knocker",
+                "tapper",
+                "striker",
+                "drummer"
+            ],
+            "examples": [
+                "A tapper outside the door signaled that someone had arrived.",
+                "The tapper used the handle to send a signal."
+            ]
+        }
     ]
 }

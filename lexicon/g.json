@@ -668,5 +668,65 @@
                 "Her eyes glimmered with excitement."
             ]
         }
+    ],
+    "glance": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a quick look",
+            "synonyms": [
+                "look",
+                "peek",
+                "glimpse",
+                "stare"
+            ],
+            "examples": [
+                "She took a glance at her phone and smiled.",
+                "From the window, I caught a glance of the street."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to look quickly",
+            "synonyms": [
+                "look",
+                "peek",
+                "glimpse",
+                "scan"
+            ],
+            "examples": [
+                "He glanced at the clock and hurried out.",
+                "I glanced through the report to find the main point."
+            ]
+        }
+    ],
+    "glimpse": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a brief and partial view",
+            "synonyms": [
+                "glance",
+                "look",
+                "view",
+                "peek"
+            ],
+            "examples": [
+                "I caught a glimpse of her in the crowd.",
+                "The movie gave me a glimpse of life in the 1800s."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to see something for a short time or only partly",
+            "synonyms": [
+                "glance",
+                "catch sight of",
+                "see briefly",
+                "peep"
+            ],
+            "examples": [
+                "From the train window, we glimpsed the mountains.",
+                "He glimpsed a shadow moving behind the door."
+            ]
+        }
     ]
 }

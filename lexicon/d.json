@@ -1029,5 +1029,67 @@
                 "The dialogue in the movie was well written."
             ]
         }
+    ],
+    "despair": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a feeling that there is no hope or that things will never improve",
+            "synonyms": [
+                "hopelessness",
+                "despondency",
+                "anguish",
+                "desperation"
+            ],
+            "examples": [
+                "After the bad news, she felt despair for several days.",
+                "He tried to hide his despair."
+            ]
+        }
+    ],
+    "dismay": [
+        {
+            "part_of_speech": "noun",
+            "definition": "sad and worried disappointment when something unexpected happens",
+            "synonyms": [
+                "alarm",
+                "concern",
+                "distress",
+                "unease"
+            ],
+            "examples": [
+                "There was dismay when the store closed early.",
+                "She felt dismay after missing the train."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make someone feel worried and disappointed",
+            "synonyms": [
+                "upset",
+                "alarm",
+                "distress",
+                "dishearten"
+            ],
+            "examples": [
+                "The delay dismayed the customers.",
+                "I was dismayed by the sudden change."
+            ]
+        }
+    ],
+    "defer": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to postpone something to a later time",
+            "synonyms": [
+                "postpone",
+                "delay",
+                "hold off",
+                "reschedule"
+            ],
+            "examples": [
+                "They decided to defer the meeting until next week.",
+                "The doctor deferred the appointment because of an emergency."
+            ]
+        }
     ]
 }

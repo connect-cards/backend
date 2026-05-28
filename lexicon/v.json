@@ -286,5 +286,35 @@
                 "The company’s vision focuses on sustainable growth."
             ]
         }
+    ],
+    "visionary": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "good at imagining new possibilities and planning for the future",
+            "synonyms": [
+                "innovative",
+                "forward-looking",
+                "imaginative",
+                "creative"
+            ],
+            "examples": [
+                "Her visionary plan helped the team move faster.",
+                "The company hired a visionary designer."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who imagines new ideas and may bring big change",
+            "synonyms": [
+                "innovator",
+                "dreamer",
+                "reformer",
+                "trailblazer"
+            ],
+            "examples": [
+                "He is a visionary who invests in clean energy.",
+                "The visionary behind the project built it from scratch."
+            ]
+        }
     ]
 }

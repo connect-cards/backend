@@ -2296,5 +2296,82 @@
                 "Steelwork was completed before the building was enclosed."
             ]
         }
+    ],
+    "stroller": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a device with wheels used to carry a baby for walking",
+            "synonyms": [
+                "pram",
+                "baby carriage",
+                "pushchair"
+            ],
+            "examples": [
+                "We bought a stroller for our trip.",
+                "The baby fell asleep in the stroller."
+            ]
+        }
+    ],
+    "stare": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a long, direct look",
+            "synonyms": [
+                "look",
+                "gaze",
+                "watch",
+                "glance"
+            ],
+            "examples": [
+                "He gave me a strange stare.",
+                "I felt uncomfortable under their stares."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to look at someone or something for a long time, often without moving your eyes",
+            "synonyms": [
+                "gaze",
+                "watch",
+                "look",
+                "ogle"
+            ],
+            "examples": [
+                "Stop staring at the screen and blink.",
+                "She stared at the letter in silence."
+            ]
+        }
+    ],
+    "spectral": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "looking like a ghost or appearing thin, pale, and strange",
+            "synonyms": [
+                "ghostly",
+                "eerie",
+                "pale",
+                "unearthly"
+            ],
+            "examples": [
+                "A spectral figure appeared in the old doorway.",
+                "The streetlights gave the fog a spectral glow."
+            ]
+        }
+    ],
+    "swarthy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having a dark complexion or dark skin tone",
+            "synonyms": [
+                "dark",
+                "tanned",
+                "dusky",
+                "brown-skinned"
+            ],
+            "examples": [
+                "He has a swarthy look that stands out in winter light.",
+                "The swarthy sailor wore a sun hat."
+            ]
+        }
     ]
 }
