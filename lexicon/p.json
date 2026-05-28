@@ -760,5 +760,500 @@
                 "We called a plumber after the sink clogged."
             ]
         }
+    ],
+    "pursue": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To follow or chase in order to catch or reach someone or something",
+            "synonyms": [
+                "chase",
+                "track",
+                "seek",
+                "hound",
+                "go after"
+            ],
+            "examples": [
+                "The police pursued the suspect through the streets.",
+                "She pursued a career in medicine for many years."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "To try to achieve a goal or interest over a period of time",
+            "synonyms": [
+                "seek",
+                "pursuit",
+                "pursue",
+                "strive for",
+                "work toward"
+            ],
+            "examples": [
+                "He pursued his research with great patience.",
+                "They pursued new ideas for the project."
+            ]
+        }
+    ],
+    "pathologist": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A doctor who studies diseases by examining samples such as tissue or blood",
+            "synonyms": [
+                "medical pathologist",
+                "disease specialist",
+                "lab doctor",
+                "clinical pathologist"
+            ],
+            "examples": [
+                "The pathologist reviewed the biopsy results.",
+                "She works as a pathologist in the hospital laboratory."
+            ]
+        }
+    ],
+    "prevaricate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To speak unclearly or use misleading statements to avoid telling the truth",
+            "synonyms": [
+                "waver",
+                "beat around the bush",
+                "evade",
+                "dodge",
+                "equivocate"
+            ],
+            "examples": [
+                "When asked directly, she prevaricated and changed the topic.",
+                "He prevaricated about his role in the project."
+            ]
+        }
+    ],
+    "pilgrim": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A person who travels to a holy place for religious reasons",
+            "synonyms": [
+                "traveler",
+                "pilgrimage traveler",
+                "devotee",
+                "worshiper",
+                "religious traveler"
+            ],
+            "examples": [
+                "Thousands of pilgrims visited the shrine each year.",
+                "She joined a group of pilgrims for the journey."
+            ]
+        }
+    ],
+    "printer": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A machine or person that prints text or images",
+            "synonyms": [
+                "printing machine",
+                "print device",
+                "publisher (person)",
+                "printer"
+            ],
+            "examples": [
+                "The printer stopped working after the ink ran out.",
+                "He works as a printer in a small publishing shop."
+            ]
+        }
+    ],
+    "perceive": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To notice or understand something using your senses or mind",
+            "synonyms": [
+                "see",
+                "observe",
+                "notice",
+                "detect",
+                "recognize"
+            ],
+            "examples": [
+                "I perceived a change in his tone.",
+                "Do you perceive any problems with the plan?"
+            ]
+        }
+    ],
+    "preserve": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To keep something safe from harm, decay, or loss",
+            "synonyms": [
+                "protect",
+                "save",
+                "maintain",
+                "keep",
+                "guard"
+            ],
+            "examples": [
+                "Salt helps preserve food.",
+                "They preserved the old documents in a safe."
+            ]
+        }
+    ],
+    "paramedic": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A trained healthcare worker who gives emergency medical help before a patient reaches the hospital",
+            "synonyms": [
+                "emergency medical technician",
+                "EMT",
+                "ambulance medic",
+                "first responder",
+                "medic"
+            ],
+            "examples": [
+                "A paramedic treated her at the scene.",
+                "The ambulance arrived, and paramedics took over."
+            ]
+        }
+    ],
+    "pharmacist": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A healthcare professional who prepares and dispenses medicines",
+            "synonyms": [
+                "chemist (UK)",
+                "drugstore worker (general)",
+                "dispensing professional",
+                "medication specialist"
+            ],
+            "examples": [
+                "The pharmacist explained how to take the medicine safely.",
+                "She works as a pharmacist in a local pharmacy."
+            ]
+        }
+    ],
+    "phobia": [
+        {
+            "part_of_speech": "noun",
+            "definition": "An extreme fear of something specific",
+            "synonyms": [
+                "fear",
+                "anxiety disorder (general)",
+                "irrational fear",
+                "panic (related)",
+                "specific fear"
+            ],
+            "examples": [
+                "He has a phobia of flying.",
+                "Her phobia makes elevators very difficult for her."
+            ]
+        }
+    ],
+    "panic": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A sudden strong fear that makes people act without thinking",
+            "synonyms": [
+                "terror",
+                "alarm",
+                "panic attack",
+                "fright",
+                "hysteria"
+            ],
+            "examples": [
+                "A panic broke out when the fire alarm sounded.",
+                "The news caused panic in the market."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "To become very afraid suddenly and act in an uncontrolled way",
+            "synonyms": [
+                "freak out",
+                "lose control",
+                "become alarmed",
+                "terrify (intransitive)",
+                "panic",
+                "panic"
+            ],
+            "examples": [
+                "Don’t panic; help is on the way.",
+                "People panicked when they saw the smoke."
+            ]
+        }
+    ],
+    "patch": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To repair a small area, often temporarily",
+            "synonyms": [
+                "repair",
+                "mend",
+                "fix",
+                "cover (a hole)",
+                "patch up"
+            ],
+            "examples": [
+                "They patched the hole in the roof.",
+                "I will patch the page and print a new copy later."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "A small piece of material used to cover or repair a damaged area",
+            "synonyms": [
+                "piece",
+                "cover",
+                "repair patch",
+                "patch (material)",
+                "patch"
+            ],
+            "examples": [
+                "She put a patch on the torn jacket.",
+                "The patch covered the crack until it could be repaired properly."
+            ]
+        }
+    ],
+    "perchance": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "Perhaps; maybe, used to show uncertainty",
+            "synonyms": [
+                "perhaps",
+                "maybe",
+                "possibly",
+                "by chance (similar)",
+                "might"
+            ],
+            "examples": [
+                "Perchance we will meet again next year.",
+                "Perchance the plan could work, if we try it carefully."
+            ]
+        }
+    ],
+    "prosecutor": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A lawyer who brings a criminal case against someone in court",
+            "synonyms": [
+                "public prosecutor",
+                "attorney for the state",
+                "legal representative (for prosecution)",
+                "government lawyer"
+            ],
+            "examples": [
+                "The prosecutor presented the evidence to the jury.",
+                "A prosecutor argued that the act was intentional."
+            ]
+        }
+    ],
+    "preternatural": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Beyond what is normal or expected, often described as seeming supernatural but not exactly that",
+            "synonyms": [
+                "unnatural",
+                "abnormal",
+                "extraordinary",
+                "beyond normal",
+                "supernatural-like"
+            ],
+            "examples": [
+                "The movie showed preternatural powers.",
+                "He described a preternatural calm before the storm."
+            ]
+        }
+    ],
+    "precipitate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To cause something to happen suddenly, often something negative",
+            "synonyms": [
+                "trigger",
+                "cause",
+                "bring about",
+                "set off",
+                "hasten"
+            ],
+            "examples": [
+                "The conflict precipitated a change in leadership.",
+                "Bad weather precipitated the delay."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "Happening too quickly or suddenly",
+            "synonyms": [
+                "sudden",
+                "rapid",
+                "immediate",
+                "hasty",
+                "rushed"
+            ],
+            "examples": [
+                "The decision was precipitate and led to problems.",
+                "They made a precipitate choice without planning."
+            ]
+        }
+    ],
+    "proofread": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To read a text again to correct spelling, grammar, or mistakes",
+            "synonyms": [
+                "review",
+                "check",
+                "edit",
+                "revise",
+                "spell-check"
+            ],
+            "examples": [
+                "Please proofread your essay before submitting it.",
+                "He proofread the document for errors."
+            ]
+        }
+    ],
+    "porthole": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A round window on a ship or submarine",
+            "synonyms": [
+                "port window",
+                "round window",
+                "ship window",
+                "porthole"
+            ],
+            "examples": [
+                "The porthole showed the waves outside.",
+                "She looked through the porthole during the storm."
+            ]
+        }
+    ],
+    "pale": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Having a light or weak color, often because of lack of blood or fear",
+            "synonyms": [
+                "colorless",
+                "light",
+                "ashen",
+                "washed-out",
+                "faint"
+            ],
+            "examples": [
+                "She went pale when she heard the news.",
+                "His face became pale after the fever."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "To become less colorful or less intense",
+            "synonyms": [
+                "fade",
+                "grow weaker",
+                "dim",
+                "lose intensity",
+                "pale (away)"
+            ],
+            "examples": [
+                "The sunset pale d as evening arrived.",
+                "His anger paled after a while."
+            ]
+        }
+    ],
+    "plaintiff": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A person who brings a lawsuit against someone in court",
+            "synonyms": [
+                "complainant",
+                "claimant",
+                "lawsuit starter",
+                "person suing"
+            ],
+            "examples": [
+                "The plaintiff argued that the contract was unfair.",
+                "The plaintiff presented evidence to support the claim."
+            ]
+        }
+    ],
+    "pick": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to choose something from a group",
+            "synonyms": [
+                "choose",
+                "select",
+                "opt for",
+                "pick out",
+                "decide"
+            ],
+            "examples": [
+                "Please pick one book for your report.",
+                "I picked the blue one because it matched my shoes."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to take something up with your hand or by lifting",
+            "synonyms": [
+                "lift",
+                "raise",
+                "take",
+                "grab",
+                "pick up"
+            ],
+            "examples": [
+                "He picked up the keys from the table.",
+                "Pick the paper up and throw it away."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a small piece used to play or test a stringed instrument",
+            "synonyms": [
+                "plectrum",
+                "guitar pick",
+                "strum tool"
+            ],
+            "examples": [
+                "I lost my pick, so I used a spare one.",
+                "This pick feels too thick for fast songs."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to remove a small amount bit by bit",
+            "synonyms": [
+                "gather",
+                "collect",
+                "pluck",
+                "pick at"
+            ],
+            "examples": [
+                "She picked at the label until it came off.",
+                "He picked the scab carefully, and it started bleeding."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a choice or selection made by someone",
+            "synonyms": [
+                "choice",
+                "selection",
+                "option"
+            ],
+            "examples": [
+                "My pick for best movie is the first one.",
+                "They made their pick after comparing the prices."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to open something by using pressure or small movements to break it",
+            "synonyms": [
+                "break in",
+                "force",
+                "tamper with"
+            ],
+            "examples": [
+                "Someone tried to pick the lock on the front door.",
+                "The thief picked the lock and stole a wallet."
+            ]
+        }
     ]
 }

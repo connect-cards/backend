@@ -1,0 +1,60 @@
+{
+  "date": "2026-04-06",
+  "version": 1,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "etymological_relation",
+      "difficulty": 1,
+      "title": "Latin-root verbs meaning to keep",
+      "words": [
+        "retain",
+        "preserve",
+        "maintain",
+        "sustain"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "synonym",
+      "difficulty": 2,
+      "title": "Unwelcoming places or moods",
+      "words": [
+        "inhospitable",
+        "unwelcoming",
+        "hostile",
+        "bleak"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "literary_register",
+      "difficulty": 3,
+      "title": "Elevated ways to say 'look'",
+      "words": [
+        "regard",
+        "behold",
+        "contemplate",
+        "regale"
+      ]
+    },
+    {
+      "id": "g4",
+      "type": "sound_association",
+      "difficulty": 4,
+      "title": "Near-homophones in meaning: to flee",
+      "words": [
+        "scamper",
+        "sprint",
+        "bolter",
+        "dash"
+      ]
+    }
+  ]
+}

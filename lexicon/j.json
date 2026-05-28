@@ -69,5 +69,137 @@
                 "It was a joyous day for the family."
             ]
         }
+    ],
+    "judgment": [
+        {
+            "part_of_speech": "noun",
+            "definition": "An opinion or decision made after thinking about something carefully",
+            "synonyms": [
+                "decision",
+                "opinion",
+                "verdict",
+                "assessment",
+                "consideration"
+            ],
+            "examples": [
+                "Her judgment helped the team choose the safest option.",
+                "The judge’s judgment was final."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "The ability to make sensible decisions",
+            "synonyms": [
+                "discernment",
+                "wisdom",
+                "sense",
+                "good judgment",
+                "reasoning"
+            ],
+            "examples": [
+                "Using good judgment is important in emergencies.",
+                "He has poor judgment when he drives at night."
+            ]
+        }
+    ],
+    "jostle": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To push or bump into someone because of crowding or movement",
+            "synonyms": [
+                "bump",
+                "push",
+                "shove",
+                "jostle",
+                "elbow"
+            ],
+            "examples": [
+                "People jostled in the crowd as the train arrived.",
+                "She jostled past the other passengers."
+            ]
+        }
+    ],
+    "jittery": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Nervous and unable to relax",
+            "synonyms": [
+                "nervous",
+                "anxious",
+                "restless",
+                "shaky",
+                "agitated"
+            ],
+            "examples": [
+                "He felt jittery after too much coffee.",
+                "The jittery driver slowed down suddenly."
+            ]
+        }
+    ],
+    "juror": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A member of a jury who listens to a case and helps decide the verdict",
+            "synonyms": [
+                "jury member",
+                "judge (not)",
+                "juror",
+                "trial participant"
+            ],
+            "examples": [
+                "One juror asked for clarification of the evidence.",
+                "The jurors reached a decision after two days."
+            ]
+        }
+    ],
+    "jurist": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A person who studies or practices law",
+            "synonyms": [
+                "lawyer",
+                "legal scholar",
+                "legal expert",
+                "jurist"
+            ],
+            "examples": [
+                "A jurist wrote the legal opinion for the court.",
+                "The jurist explained the new legislation."
+            ]
+        }
+    ],
+    "judicious": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Showing good judgment; wise and careful",
+            "synonyms": [
+                "wise",
+                "sensible",
+                "careful",
+                "prudent",
+                "discreet"
+            ],
+            "examples": [
+                "It was a judicious decision to wait before responding.",
+                "She made a judicious choice."
+            ]
+        }
+    ],
+    "jurisdiction": [
+        {
+            "part_of_speech": "noun",
+            "definition": "The legal authority to make decisions and enforce laws in a specific area",
+            "synonyms": [
+                "authority",
+                "legal power",
+                "legal scope",
+                "legal region",
+                "court authority"
+            ],
+            "examples": [
+                "The case fell under federal jurisdiction.",
+                "The court lacked jurisdiction to try the matter."
+            ]
+        }
     ]
 }

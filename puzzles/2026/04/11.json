@@ -1,0 +1,60 @@
+{
+  "date": "2026-04-11",
+  "version": 1,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "d3-easy",
+      "type": "profession_domain",
+      "difficulty": 1,
+      "title": "Drafting tools",
+      "words": [
+        "compass",
+        "scale",
+        "template",
+        "blueprint"
+      ]
+    },
+    {
+      "id": "d3-medium",
+      "type": "informal_register",
+      "difficulty": 2,
+      "title": "To handle roughly",
+      "words": [
+        "manhandle",
+        "thump",
+        "tackle",
+        "jostle"
+      ]
+    },
+    {
+      "id": "d3-hard",
+      "type": "sound_association",
+      "difficulty": 3,
+      "title": "Vibrations and impacts",
+      "words": [
+        "clatter",
+        "rumble",
+        "thunder",
+        "rattle"
+      ]
+    },
+    {
+      "id": "d3-vhard",
+      "type": "emotional_tone",
+      "difficulty": 4,
+      "title": "Overtly pleasing, faintly menacing",
+      "words": [
+        "seductive",
+        "luring",
+        "beguiling",
+        "alluring"
+      ]
+    }
+  ]
+}

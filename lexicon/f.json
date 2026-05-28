@@ -209,5 +209,261 @@
                 "They became furious at the unfair decision."
             ]
         }
+    ],
+    "forged": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Made in a dishonest way to look real, especially for documents or money",
+            "synonyms": [
+                "fake",
+                "counterfeit",
+                "fabricated",
+                "fraudulent",
+                "imitation"
+            ],
+            "examples": [
+                "The bank refused the forged check.",
+                "She was accused of using forged papers."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "To create something false in order to deceive people",
+            "synonyms": [
+                "forge",
+                "fake",
+                "fabricate",
+                "counterfeit",
+                "produce illegally"
+            ],
+            "examples": [
+                "Someone forged the signature on the contract.",
+                "They were caught after they forged documents."
+            ]
+        }
+    ],
+    "fictitious": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Invented, not real, often used for stories or names",
+            "synonyms": [
+                "imaginary",
+                "made-up",
+                "invented",
+                "illusory",
+                "nonexistent"
+            ],
+            "examples": [
+                "The character has a fictitious name.",
+                "Some of the details were fictitious, not factual."
+            ]
+        }
+    ],
+    "fumble": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To handle something clumsily, or to fail to do something because you are nervous or unprepared",
+            "synonyms": [
+                "botch",
+                "mishandle",
+                "fumbl",
+                "scramble",
+                "miss"
+            ],
+            "examples": [
+                "He fumbled the keys and dropped them.",
+                "She fumbled her speech when she forgot the first sentence."
+            ]
+        }
+    ],
+    "flaky": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Breaking easily into small pieces; also, not reliable",
+            "synonyms": [
+                "crumbly",
+                "fragile",
+                "unreliable",
+                "unstable",
+                "fickle"
+            ],
+            "examples": [
+                "The paint is flaky, so we need to sand it first.",
+                "I can’t trust that flaky plan."
+            ]
+        }
+    ],
+    "fetter": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To restrict someone’s freedom or ability to act",
+            "synonyms": [
+                "restrain",
+                "bind",
+                "restrict",
+                "hamper",
+                "limit"
+            ],
+            "examples": [
+                "Fear can fetter people and stop them from trying.",
+                "The rule fettered movement across the area."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "A chain or device used to restrain someone",
+            "synonyms": [
+                "chain",
+                "restraint",
+                "shackle",
+                "bond"
+            ],
+            "examples": [
+                "The prisoner wore fetters on his ankles.",
+                "They removed the fetters to free him."
+            ]
+        }
+    ],
+    "feathery": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Like feathers; very light and soft, or looking light and delicate",
+            "synonyms": [
+                "light",
+                "soft",
+                "airy",
+                "downy",
+                "feather-like"
+            ],
+            "examples": [
+                "A feathery cloud covered the sun.",
+                "He wore a feathery scarf in winter."
+            ]
+        }
+    ],
+    "foreboding": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A feeling that something unpleasant may happen in the future",
+            "synonyms": [
+                "dread",
+                "unease",
+                "anxiety",
+                "apprehension",
+                "warning sense"
+            ],
+            "examples": [
+                "She felt foreboding about the trip.",
+                "A sense of foreboding filled the room."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "Making you feel that something bad may happen",
+            "synonyms": [
+                "ominous",
+                "threatening",
+                "unsettling",
+                "dark",
+                "foreboding (context)"
+            ],
+            "examples": [
+                "There was a foreboding silence before the news."
+            ]
+        }
+    ],
+    "forbear": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To hold back from doing something, especially out of restraint",
+            "synonyms": [
+                "refrain",
+                "avoid",
+                "stop",
+                "hold back",
+                "restrain"
+            ],
+            "examples": [
+                "I will forbear from making any comments right now.",
+                "She forbore from arguing because she was tired."
+            ]
+        }
+    ],
+    "freckle": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A small brown or red spot on the skin",
+            "synonyms": [
+                "spot",
+                "mark",
+                "freckle"
+            ],
+            "examples": [
+                "She has freckles across her nose.",
+                "The child’s cheeks are covered with freckles."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "To develop small brown or red spots on the skin, often from sunlight",
+            "synonyms": [
+                "spot",
+                "develop spots (skin)",
+                "freckle (up)"
+            ],
+            "examples": [
+                "He freckles easily in summer.",
+                "The face freckled after weeks outside."
+            ]
+        }
+    ],
+    "frostbite": [
+        {
+            "part_of_speech": "noun",
+            "definition": "Injury to the skin and tissues caused by freezing cold",
+            "synonyms": [
+                "cold injury",
+                "freezing injury",
+                "skin freeze"
+            ],
+            "examples": [
+                "Frostbite can damage fingers and toes.",
+                "He was treated quickly to prevent frostbite."
+            ]
+        }
+    ],
+    "fret": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To worry or be annoyed repeatedly about something",
+            "synonyms": [
+                "worry",
+                "wince",
+                "grumble",
+                "nag",
+                "be concerned"
+            ],
+            "examples": [
+                "Stop fretting and focus on what you can control.",
+                "She fretted about the missing files all morning."
+            ]
+        }
+    ],
+    "framework": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A basic structure that supports something or gives it organization",
+            "synonyms": [
+                "structure",
+                "skeleton",
+                "frame",
+                "system",
+                "foundation"
+            ],
+            "examples": [
+                "The framework makes it easier to organize the code.",
+                "They built a framework for the report."
+            ]
+        }
     ]
 }

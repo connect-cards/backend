@@ -1,0 +1,60 @@
+{
+  "date": "2026-04-04",
+  "version": 1,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "profession_domain",
+      "difficulty": 1,
+      "title": "MARITIME NAVIGATION",
+      "words": [
+        "navigator",
+        "navigator's",
+        "seamanship",
+        "cartology"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "sound_association",
+      "difficulty": 2,
+      "title": "SUDDEN COLLAPSE SOUNDS",
+      "words": [
+        "crash",
+        "splinter",
+        "collapse",
+        "carom"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "physical_trait",
+      "difficulty": 3,
+      "title": "MARKED BY CRUST OR FLAKE",
+      "words": [
+        "scaly",
+        "callused",
+        "crusted",
+        "flaky"
+      ]
+    },
+    {
+      "id": "g4",
+      "type": "literary_register",
+      "difficulty": 4,
+      "title": "ARCHEIC STEALTHY TONE",
+      "words": [
+        "eldritch",
+        "uncanny",
+        "unearthly",
+        "chthonic"
+      ]
+    }
+  ]
+}

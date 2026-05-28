@@ -727,5 +727,496 @@
                 "The tulips are blooming now."
             ]
         }
+    ],
+    "topographer": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A person who studies and describes the features of land, such as hills and valleys",
+            "synonyms": [
+                "geographer",
+                "land describer",
+                "terrain specialist",
+                "cartographer"
+            ],
+            "examples": [
+                "The topographer created a detailed map of the mountain area.",
+                "A topographer uses field data to describe changes in land shape."
+            ]
+        }
+    ],
+    "track": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A path or route made for walking, vehicles, or racing",
+            "synonyms": [
+                "trail",
+                "route",
+                "path",
+                "course",
+                "lane"
+            ],
+            "examples": [
+                "The runner stayed on the track during practice.",
+                "A dirt track led to the village."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "To follow someone or something to find them or learn where they are",
+            "synonyms": [
+                "follow",
+                "monitor",
+                "trail",
+                "track down",
+                "observe"
+            ],
+            "examples": [
+                "They tracked the missing cat through the neighborhood.",
+                "The app can track your steps."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "A line of sound recording or playback on audio or video",
+            "synonyms": [
+                "audio track",
+                "recording track",
+                "channel",
+                "track"
+            ],
+            "examples": [
+                "The vocal track sounds clearer after the remix.",
+                "She muted the guitar track for the lesson."
+            ]
+        }
+    ],
+    "triage": [
+        {
+            "part_of_speech": "noun",
+            "definition": "The process of sorting patients based on how urgent their medical needs are",
+            "synonyms": [
+                "sorting",
+                "prioritization",
+                "assessment",
+                "urgency ranking",
+                "emergency triage"
+            ],
+            "examples": [
+                "In the emergency room, triage happens within minutes.",
+                "They used triage to decide who needed care first."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "To sort patients to decide the order of treatment based on urgency",
+            "synonyms": [
+                "prioritize",
+                "sort",
+                "assess",
+                "screen",
+                "rank"
+            ],
+            "examples": [
+                "The nurse triaged the injured people quickly.",
+                "Staff triage patients when the hospital is busy."
+            ]
+        }
+    ],
+    "terror": [
+        {
+            "part_of_speech": "noun",
+            "definition": "Great fear or intense feeling of being afraid",
+            "synonyms": [
+                "fear",
+                "dread",
+                "panic",
+                "horror",
+                "alarm"
+            ],
+            "examples": [
+                "The storm filled everyone with terror.",
+                "He spoke in terror after the incident."
+            ]
+        }
+    ],
+    "template": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A pre-made form or design that helps you create something in the same way",
+            "synonyms": [
+                "model",
+                "pattern",
+                "form",
+                "worksheet",
+                "guide"
+            ],
+            "examples": [
+                "Use a template to format the document.",
+                "She created a template for the monthly report."
+            ]
+        }
+    ],
+    "thump": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To hit something heavily and make a loud sound",
+            "synonyms": [
+                "bang",
+                "thud",
+                "slam",
+                "knock",
+                "bump"
+            ],
+            "examples": [
+                "I heard someone thump on the door.",
+                "The rain thumped against the roof."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "A loud heavy hit or sound",
+            "synonyms": [
+                "thud",
+                "bang",
+                "knock",
+                "slam",
+                "bump"
+            ],
+            "examples": [
+                "There was a thump in the hallway.",
+                "The thump woke the baby."
+            ]
+        }
+    ],
+    "tackle": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To deal with a problem or task, usually using effort",
+            "synonyms": [
+                "deal with",
+                "address",
+                "handle",
+                "work on",
+                "take on"
+            ],
+            "examples": [
+                "We need to tackle the issue quickly.",
+                "She tackled the difficult questions calmly."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "A set of equipment used in fishing or climbing, or in sports equipment used to stop an opponent",
+            "synonyms": [
+                "equipment",
+                "gear",
+                "sport tackle",
+                "fishing gear"
+            ],
+            "examples": [
+                "He checked the tackle before going out fishing.",
+                "In soccer, the referee watched for dangerous tackles."
+            ]
+        }
+    ],
+    "tidal": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Relating to tides, especially the rise and fall of sea water",
+            "synonyms": [
+                "related to tides",
+                "coastal",
+                "sea-driven",
+                "tide-related"
+            ],
+            "examples": [
+                "The tidal range is highest in the summer.",
+                "They planned the trip around the tidal schedule."
+            ]
+        }
+    ],
+    "tide": [
+        {
+            "part_of_speech": "noun",
+            "definition": "The regular rise and fall of sea level caused by the Moon’s gravity",
+            "synonyms": [
+                "sea level change",
+                "tide",
+                "ebb and flow"
+            ],
+            "examples": [
+                "The tide was high when we arrived.",
+                "Watch the tide to avoid getting stuck."
+            ]
+        }
+    ],
+    "tideway": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A channel or route along which tidal currents flow",
+            "synonyms": [
+                "tidal channel",
+                "waterway",
+                "channel",
+                "tide channel"
+            ],
+            "examples": [
+                "Ships avoided the tideway during strong currents.",
+                "The tideway carries fast-moving water at certain times."
+            ]
+        }
+    ],
+    "tie": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A piece of clothing worn around the neck, usually under a collar",
+            "synonyms": [
+                "necktie",
+                "bow (tie)",
+                "neck accessory",
+                "tie (neckwear)"
+            ],
+            "examples": [
+                "He wore a blue tie to the interview.",
+                "My tie is too tight."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "An equal result in a competition or game",
+            "synonyms": [
+                "draw",
+                "dead heat",
+                "equality",
+                "tie"
+            ],
+            "examples": [
+                "The match ended in a tie.",
+                "They agreed on a tie-breaking rule."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "To fasten something with rope, string, or a knot",
+            "synonyms": [
+                "fasten",
+                "secure",
+                "bind",
+                "knot",
+                "secure with a tie"
+            ],
+            "examples": [
+                "Tie the box with string before shipping it.",
+                "She tied her shoes quickly."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "To end with an equal result",
+            "synonyms": [
+                "draw",
+                "match",
+                "equal",
+                "end level"
+            ],
+            "examples": [
+                "The team tied 2-2 with their rivals.",
+                "They tied the game in the final minutes."
+            ]
+        }
+    ],
+    "thereunto": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "To that purpose or for that reason; to it",
+            "synonyms": [
+                "for that",
+                "to that",
+                "thereby (similar)"
+            ],
+            "examples": [
+                "He agreed thereunto under the stated conditions."
+            ]
+        }
+    ],
+    "tactile": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Related to touch and the sense of touch",
+            "synonyms": [
+                "touch-related",
+                "hand-feel (informal)",
+                "sense of touch",
+                "touch-sensitive"
+            ],
+            "examples": [
+                "The tactile feeling of the fabric was very soft.",
+                "He gave the instructions using tactile guidance."
+            ]
+        }
+    ],
+    "tenuous": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Weak or not strongly supported; not certain",
+            "synonyms": [
+                "weak",
+                "slight",
+                "fragile",
+                "unconvincing",
+                "uncertain"
+            ],
+            "examples": [
+                "The evidence is tenuous, so we need more information.",
+                "She has a tenuous connection to the case."
+            ]
+        }
+    ],
+    "tremulous": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Shaking slightly, often because of fear, emotion, or weakness",
+            "synonyms": [
+                "shaky",
+                "shivering",
+                "nervous",
+                "trembling",
+                "quivering"
+            ],
+            "examples": [
+                "His voice was tremulous during the interview.",
+                "She looked tremulous after the bad news."
+            ]
+        }
+    ],
+    "threnody": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A song or speech that expresses deep sorrow, especially for someone who has died",
+            "synonyms": [
+                "lament",
+                "elegy",
+                "dirge",
+                "mourning song",
+                "funeral song"
+            ],
+            "examples": [
+                "They sang a threnody during the memorial service.",
+                "The poem was a threnody for the victims."
+            ]
+        }
+    ],
+    "testimony": [
+        {
+            "part_of_speech": "noun",
+            "definition": "Statements made in court about what someone saw, heard, or believes",
+            "synonyms": [
+                "evidence",
+                "statement",
+                "witness account",
+                "deposition",
+                "testimony"
+            ],
+            "examples": [
+                "The testimony helped the jury understand what happened.",
+                "Her testimony was questioned by the defense."
+            ]
+        }
+    ],
+    "tussle": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A short fight or struggle, especially with pushing and grabbing",
+            "synonyms": [
+                "scuffle",
+                "struggle",
+                "fight",
+                "scrap",
+                "tussle"
+            ],
+            "examples": [
+                "A tussle broke out between two fans.",
+                "The police separated them after a quick tussle."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "To struggle or fight briefly, often with pushing",
+            "synonyms": [
+                "scuffle",
+                "struggle",
+                "fight",
+                "scrap",
+                "wrestle"
+            ],
+            "examples": [
+                "The children tussled in the yard until an adult stopped them.",
+                "They tussled over the phone for a moment."
+            ]
+        }
+    ],
+    "tacet": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "To be silent or stop speaking, especially in a musical or performance context",
+            "synonyms": [
+                "silent (performance)",
+                "remain quiet",
+                "stop (speaking)",
+                "no voice"
+            ],
+            "examples": [
+                "At that part, the choir is tacet."
+            ]
+        }
+    ],
+    "trespasser": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A person who enters land or property without permission",
+            "synonyms": [
+                "intruder",
+                "poacher (context)",
+                "infringer",
+                "intruder (general)",
+                "trespasser"
+            ],
+            "examples": [
+                "The homeowner called the police about a trespasser.",
+                "A trespasser was caught near the fence."
+            ]
+        }
+    ],
+    "therein": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "In that place or in that document; inside it",
+            "synonyms": [
+                "in it",
+                "within that",
+                "in the document (context)"
+            ],
+            "examples": [
+                "Look at the instructions therein before you start.",
+                "The meaning is explained therein."
+            ]
+        }
+    ],
+    "trepidation": [
+        {
+            "part_of_speech": "noun",
+            "definition": "Fear or anxious worry about something that may happen",
+            "synonyms": [
+                "anxiety",
+                "dread",
+                "apprehension",
+                "unease",
+                "nervousness"
+            ],
+            "examples": [
+                "He walked into the room with trepidation.",
+                "There was trepidation before the results were announced."
+            ]
+        }
     ]
 }

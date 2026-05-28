@@ -1,0 +1,60 @@
+{
+  "date": "2026-04-22",
+  "version": 1,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "physical_trait",
+      "difficulty": 1,
+      "title": "Facial features and impressions",
+      "words": [
+        "sallow",
+        "freckle",
+        "scar",
+        "moustache"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "profession_domain",
+      "difficulty": 2,
+      "title": "Fields connected to legal judgement",
+      "words": [
+        "jurist",
+        "plaintiff",
+        "testimony",
+        "verdict"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "thematic_association",
+      "difficulty": 3,
+      "title": "Cold weather and winter travel",
+      "words": [
+        "blizzard",
+        "avalanche",
+        "frostbite",
+        "sleet"
+      ]
+    },
+    {
+      "id": "g4",
+      "type": "literary_register",
+      "difficulty": 4,
+      "title": "Formality for talking about refusal",
+      "words": [
+        "repudiate",
+        "rebuff",
+        "withstand",
+        "resist"
+      ]
+    }
+  ]
+}

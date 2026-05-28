@@ -592,5 +592,436 @@
                 "The company axed several jobs."
             ]
         }
+    ],
+    "atonement": [
+        {
+            "part_of_speech": "noun",
+            "definition": "Something done to make up for a wrongdoing and repair a relationship",
+            "synonyms": [
+                "repayment",
+                "making amends",
+                "reparation",
+                "reconciliation",
+                "amends"
+            ],
+            "examples": [
+                "He tried to offer atonement after he hurt her feelings.",
+                "They held a ceremony for atonement."
+            ]
+        }
+    ],
+    "architect": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A person who designs buildings and oversees their construction",
+            "synonyms": [
+                "designer",
+                "building designer",
+                "drafter",
+                "construction designer"
+            ],
+            "examples": [
+                "The architect designed the new school building.",
+                "She worked with an architect to plan the renovation."
+            ]
+        }
+    ],
+    "annoyed": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Slightly angry or upset because of something unpleasant",
+            "synonyms": [
+                "irritated",
+                "bothered",
+                "frustrated",
+                "displeased",
+                "exasperated"
+            ],
+            "examples": [
+                "She was annoyed that the meeting started late.",
+                "I’m annoyed about the delay in the delivery."
+            ]
+        }
+    ],
+    "anesthetist": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A doctor or specialist who gives anesthesia and manages a patient’s pain during surgery",
+            "synonyms": [
+                "anesthesiologist",
+                "anaesthesia specialist",
+                "pain-control doctor",
+                "surgery anesthesia doctor"
+            ],
+            "examples": [
+                "The anesthetist checked her medical history before surgery.",
+                "An anesthetist monitored her throughout the operation."
+            ]
+        }
+    ],
+    "audit": [
+        {
+            "part_of_speech": "noun",
+            "definition": "An official check of financial records, usually to confirm accuracy and compliance",
+            "synonyms": [
+                "examination",
+                "review",
+                "financial review",
+                "accounting check",
+                "inspection"
+            ],
+            "examples": [
+                "The company hired an external audit firm.",
+                "The audit found a few accounting errors."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "To officially check financial records to confirm accuracy and compliance",
+            "synonyms": [
+                "examine",
+                "review",
+                "inspect",
+                "check",
+                "verify"
+            ],
+            "examples": [
+                "They will audit the accounts next month.",
+                "The auditors audit the company’s financial statements every year."
+            ]
+        }
+    ],
+    "auditable": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Possible to audit, meaning records can be checked and verified",
+            "synonyms": [
+                "verifiable",
+                "checkable",
+                "reviewable",
+                "auditable (common usage)"
+            ],
+            "examples": [
+                "The system stores data in an auditable format.",
+                "Our logs are auditable, so they can be reviewed later."
+            ]
+        }
+    ],
+    "auditing": [
+        {
+            "part_of_speech": "noun",
+            "definition": "The activity of performing an audit to check financial records or processes",
+            "synonyms": [
+                "auditing (activity)",
+                "audit work",
+                "audit process",
+                "accounting audit",
+                "reviewing"
+            ],
+            "examples": [
+                "Auditing helps ensure accurate reporting.",
+                "Auditing will begin after the financial year ends."
+            ]
+        }
+    ],
+    "allusion": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A brief and indirect reference to a person, event, or idea",
+            "synonyms": [
+                "reference",
+                "mention",
+                "hint",
+                "indirect mention",
+                "echo"
+            ],
+            "examples": [
+                "The movie includes an allusion to a classic novel.",
+                "Her joke was an allusion to last year’s incident."
+            ]
+        }
+    ],
+    "allegory": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A story or message that has a hidden meaning, often teaching a moral or idea",
+            "synonyms": [
+                "symbolic story",
+                "parable",
+                "fable (close)",
+                "hidden meaning story",
+                "symbolic narrative"
+            ],
+            "examples": [
+                "The book is an allegory about power and responsibility.",
+                "Her speech was an allegory for the situation at work."
+            ]
+        }
+    ],
+    "alluring": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Very attractive and tempting",
+            "synonyms": [
+                "seductive",
+                "tempting",
+                "attractive",
+                "captivating",
+                "enticing"
+            ],
+            "examples": [
+                "The view from the balcony was very alluring.",
+                "They found the job offer alluring at first."
+            ]
+        }
+    ],
+    "apprehensive": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Worried or nervous about something that might happen",
+            "synonyms": [
+                "anxious",
+                "uneasy",
+                "worried",
+                "nervous",
+                "fearful"
+            ],
+            "examples": [
+                "She felt apprehensive before the interview.",
+                "He was apprehensive about traveling alone at night."
+            ]
+        }
+    ],
+    "apothecary": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A person or small shop that sells medicines and makes herbal or medicinal preparations",
+            "synonyms": [
+                "pharmacy (historical)",
+                "chemist (historical)",
+                "drug seller",
+                "medicine shop"
+            ],
+            "examples": [
+                "In the story, the apothecary prepared herbal remedies.",
+                "The apothecary sold tinctures and tablets."
+            ]
+        }
+    ],
+    "advocate": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A person who speaks in support of an idea, cause, or person",
+            "synonyms": [
+                "supporter",
+                "champion",
+                "proponent",
+                "lawyer (in some uses)",
+                "campaigner"
+            ],
+            "examples": [
+                "She is a strong advocate for education reform.",
+                "The advocate spoke on behalf of the victims."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "To publicly support a plan, idea, or cause",
+            "synonyms": [
+                "support",
+                "promote",
+                "argue for",
+                "champion",
+                "recommend"
+            ],
+            "examples": [
+                "He advocates stricter safety rules.",
+                "They advocate for equal opportunities."
+            ]
+        }
+    ],
+    "arbiter": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A person or group that decides disputes in a fair way",
+            "synonyms": [
+                "judge",
+                "mediator (sometimes)",
+                "referee",
+                "decision-maker",
+                "umpire"
+            ],
+            "examples": [
+                "The arbiter made a final ruling.",
+                "They appointed an arbiter to resolve the conflict."
+            ]
+        }
+    ],
+    "airy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Light, not heavy; also, open and not crowded",
+            "synonyms": [
+                "light",
+                "spacious",
+                "open",
+                "delicate",
+                "unconfined"
+            ],
+            "examples": [
+                "The room felt airy because the windows were large.",
+                "She wore an airy dress."
+            ]
+        }
+    ],
+    "acerbic": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Sharp, sarcastic, and critical in tone",
+            "synonyms": [
+                "bitter",
+                "sharp",
+                "scathing",
+                "caustic",
+                "sarcastic"
+            ],
+            "examples": [
+                "He gave an acerbic reply to the question.",
+                "Her acerbic humor made some people uncomfortable."
+            ]
+        }
+    ],
+    "annotate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To add notes or comments to a text to explain or highlight information",
+            "synonyms": [
+                "comment on",
+                "note",
+                "add remarks",
+                "mark up",
+                "explain"
+            ],
+            "examples": [
+                "She annotated the article with key definitions.",
+                "They annotated the map to show important locations."
+            ]
+        }
+    ],
+    "abrasion": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A scrape or injury to the skin caused by rubbing",
+            "synonyms": [
+                "scrape",
+                "scratching injury",
+                "grazing",
+                "skin abrasion",
+                "abrasion"
+            ],
+            "examples": [
+                "He cleaned the abrasion and covered it with a bandage.",
+                "The bicycle accident caused a painful abrasion on her knee."
+            ]
+        }
+    ],
+    "abstain": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To choose not to do something, especially a harmful activity or to avoid voting",
+            "synonyms": [
+                "avoid",
+                "refuse",
+                "hold back",
+                "refrain",
+                "choose not to"
+            ],
+            "examples": [
+                "He abstained from alcohol during the program.",
+                "Many members abstained when the vote was taken."
+            ]
+        }
+    ],
+    "avalanche": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A large amount of snow, ice, and rock that falls down a mountain slope",
+            "synonyms": [
+                "snow slide",
+                "snowfall slide",
+                "slide",
+                "mountain slide"
+            ],
+            "examples": [
+                "An avalanche buried the road after midnight.",
+                "Rescuers searched for survivors after the avalanche."
+            ]
+        }
+    ],
+    "affidavit": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A written statement of facts sworn to be true, signed in front of an authorized person",
+            "synonyms": [
+                "sworn statement",
+                "declaration",
+                "statement under oath",
+                "sworn testimony"
+            ],
+            "examples": [
+                "The court accepted the affidavit as evidence.",
+                "He provided an affidavit to support his claim."
+            ]
+        }
+    ],
+    "apprehension": [
+        {
+            "part_of_speech": "noun",
+            "definition": "An anxious feeling that something unpleasant might happen",
+            "synonyms": [
+                "fear",
+                "dread",
+                "anxiety",
+                "worry",
+                "unease"
+            ],
+            "examples": [
+                "He tried to hide his apprehension before the exam.",
+                "Apprehension grew as the deadline approached."
+            ]
+        }
+    ],
+    "anesthesia": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A medicine or treatment used to prevent pain during medical procedures, often by making a patient unconscious or numb",
+            "synonyms": [
+                "anaesthetic (UK)",
+                "numbing (medical)",
+                "sleep (medical)",
+                "anesthetic treatment"
+            ],
+            "examples": [
+                "Anesthesia kept her from feeling pain during surgery.",
+                "The anesthesiologist planned the anesthesia carefully."
+            ]
+        }
+    ],
+    "abrupt": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Sudden and unexpected; happening with little warning",
+            "synonyms": [
+                "sudden",
+                "quick",
+                "unexpected",
+                "sharp",
+                "drastic"
+            ],
+            "examples": [
+                "There was an abrupt stop in the traffic.",
+                "He gave an abrupt answer and left."
+            ]
+        }
     ]
 }

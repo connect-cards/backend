@@ -1,0 +1,60 @@
+{
+  "date": "2026-04-25",
+  "version": 1,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "thematic_association",
+      "difficulty": 1,
+      "title": "Rooks in the Library",
+      "words": [
+        "shelf",
+        "catalog",
+        "volume",
+        "reading"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "etymological_relation",
+      "difficulty": 2,
+      "title": "Words with a Latin Root: scribere",
+      "words": [
+        "inscribe",
+        "manuscript",
+        "transcribe",
+        "script"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "literary_register",
+      "difficulty": 3,
+      "title": "Poetic Launchpad",
+      "words": [
+        "stanza",
+        "metre",
+        "tacet",
+        "verse"
+      ]
+    },
+    {
+      "id": "g4",
+      "type": "profession_domain",
+      "difficulty": 4,
+      "title": "Courtroom Proof",
+      "words": [
+        "affidavit",
+        "testimony",
+        "jurisdiction",
+        "plaintiff"
+      ]
+    }
+  ]
+}

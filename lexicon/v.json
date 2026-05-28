@@ -96,5 +96,195 @@
                 "Her lipstick was vermilion."
             ]
         }
+    ],
+    "vacillate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To keep changing your mind between different options",
+            "synonyms": [
+                "waver",
+                "hesitate",
+                "dither",
+                "fluctuate",
+                "oscillate"
+            ],
+            "examples": [
+                "She vacillated between two choices for hours.",
+                "He vacillated and could not decide what to do."
+            ]
+        }
+    ],
+    "vagrant": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A person who has no home or regular job and often lives by moving from place to place",
+            "synonyms": [
+                "homeless person",
+                "drifter",
+                "wanderer",
+                "tramp",
+                "street person"
+            ],
+            "examples": [
+                "A vagrant asked for food near the station.",
+                "They helped the vagrant find temporary shelter."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "Wandering or not having a fixed home or place",
+            "synonyms": [
+                "wandering",
+                "nomadic",
+                "drifting",
+                "roaming",
+                "unfixed"
+            ],
+            "examples": [
+                "A vagrant lifestyle made it hard to keep a job.",
+                "He lived a vagrant life for several years."
+            ]
+        }
+    ],
+    "vitriolic": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Extremely bitter and angry in speech or writing",
+            "synonyms": [
+                "bitter",
+                "angry",
+                "scathing",
+                "venomous",
+                "harsh"
+            ],
+            "examples": [
+                "The vitriolic attack on social media went too far.",
+                "His vitriolic comments damaged his reputation."
+            ]
+        }
+    ],
+    "vail": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To move down or give way, especially in a dramatic way; also to lower or cover with something",
+            "synonyms": [
+                "withdraw",
+                "lower",
+                "retreat",
+                "sink",
+                "fall (literary)"
+            ],
+            "examples": [
+                "The flag v ailed over the stage during the scene.",
+                "He paused as the crowd’s noise v ailed away."
+            ]
+        }
+    ],
+    "verdict": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A decision made by a judge or jury at the end of a trial",
+            "synonyms": [
+                "decision",
+                "judgment",
+                "ruling",
+                "finding",
+                "verdict"
+            ],
+            "examples": [
+                "The verdict was announced after two hours.",
+                "The jury reached a verdict that surprised many people."
+            ]
+        }
+    ],
+    "volume": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A book, especially one of several books in a series",
+            "synonyms": [
+                "book",
+                "part",
+                "tome",
+                "edition (sometimes)",
+                "work (part)"
+            ],
+            "examples": [
+                "This is volume three of the series.",
+                "I need to find volume one."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "The amount of space something takes up, or the size of that amount",
+            "synonyms": [
+                "size",
+                "space",
+                "capacity",
+                "amount (physical)"
+            ],
+            "examples": [
+                "The volume of the tank is two liters.",
+                "We calculated the volume of the room."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "The loudness of sound",
+            "synonyms": [
+                "loudness",
+                "sound level",
+                "volume"
+            ],
+            "examples": [
+                "Turn down the volume, please.",
+                "The volume is too high for this class."
+            ]
+        }
+    ],
+    "verse": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A line or a set of lines in poetry, often arranged into stanzas",
+            "synonyms": [
+                "poem section",
+                "poetry",
+                "stanza (general)",
+                "lines",
+                "verse"
+            ],
+            "examples": [
+                "The song has several verses.",
+                "A new verse begins after the chorus."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "A part of a song with lyrics separate from the chorus",
+            "synonyms": [
+                "song section",
+                "lyric section",
+                "verse (song)"
+            ],
+            "examples": [
+                "She sang the verse more quietly than the chorus."
+            ]
+        }
+    ],
+    "vision": [
+        {
+            "part_of_speech": "noun",
+            "definition": "The ability to see, or the power to imagine future ideas",
+            "synonyms": [
+                "sight",
+                "understanding",
+                "imagination",
+                "mental picture",
+                "goal"
+            ],
+            "examples": [
+                "Good vision helps you read small text.",
+                "The company’s vision focuses on sustainable growth."
+            ]
+        }
     ]
 }

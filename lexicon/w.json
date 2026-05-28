@@ -342,5 +342,314 @@
                 "A wrathful voice made everyone quiet."
             ]
         }
+    ],
+    "wrath": [
+        {
+            "part_of_speech": "noun",
+            "definition": "Strong anger, especially when it lasts for a long time",
+            "synonyms": [
+                "anger",
+                "rage",
+                "fury",
+                "indignation",
+                "irritation"
+            ],
+            "examples": [
+                "She left in wrath after the unfair decision.",
+                "The speech threatened the crowd with wrath."
+            ]
+        }
+    ],
+    "waver": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To change your mind or become less certain; to hesitate",
+            "synonyms": [
+                "hesitate",
+                "vacillate",
+                "fluctuate",
+                "stumble",
+                "falter"
+            ],
+            "examples": [
+                "He wavered before agreeing to the plan.",
+                "The candidate wavered when asked about his past work."
+            ]
+        }
+    ],
+    "wayfarer": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A person traveling on foot, especially for a long distance",
+            "synonyms": [
+                "traveler",
+                "walker",
+                "wanderer",
+                "pilgrim",
+                "road traveler"
+            ],
+            "examples": [
+                "The wayfarer asked for directions at the crossroads.",
+                "A lone wayfarer reached the town by nightfall."
+            ]
+        }
+    ],
+    "whisper": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To speak very quietly, usually so that only a person nearby can hear",
+            "synonyms": [
+                "speak softly",
+                "murmur",
+                "hush",
+                "utter",
+                "mutter"
+            ],
+            "examples": [
+                "She whispered his name into my ear.",
+                "Don’t whisper in class."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "Soft speech or a quiet sound made by speaking quietly",
+            "synonyms": [
+                "hush",
+                "murmur",
+                "soft speech",
+                "whisper",
+                "murmured sound"
+            ],
+            "examples": [
+                "I heard a whisper behind me.",
+                "There was a whisper of wind through the trees."
+            ]
+        }
+    ],
+    "warp": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To twist or change shape out of normal form, often slowly or due to heat or pressure",
+            "synonyms": [
+                "bend",
+                "twist",
+                "distort",
+                "misform",
+                "warp"
+            ],
+            "examples": [
+                "The hot sun can warp plastic.",
+                "The wood warped after it got wet."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "A distortion or change in shape, especially caused by heat or pressure",
+            "synonyms": [
+                "distortion",
+                "twist",
+                "deformation",
+                "bending",
+                "warping"
+            ],
+            "examples": [
+                "There was a warp in the door frame.",
+                "The test showed a slight warp in the metal."
+            ]
+        }
+    ],
+    "wane": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To gradually become less strong or less common",
+            "synonyms": [
+                "diminish",
+                "decline",
+                "diminish",
+                "reduce",
+                "recede"
+            ],
+            "examples": [
+                "Interest in the project began to wane.",
+                "The storm finally wane d at dawn."
+            ]
+        }
+    ],
+    "wretched": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Very unhappy, uncomfortable, or of poor quality",
+            "synonyms": [
+                "miserable",
+                "terrible",
+                "awful",
+                "miserable",
+                "pitiful"
+            ],
+            "examples": [
+                "He felt wretched after losing his wallet.",
+                "The hotel room was wretched and dirty."
+            ]
+        }
+    ],
+    "whence": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "From what place or origin",
+            "synonyms": [
+                "from where",
+                "from which place",
+                "where",
+                "whence (formal)"
+            ],
+            "examples": [
+                "Whence did the rumor begin?",
+                "She asked whence he had received the information."
+            ]
+        }
+    ],
+    "whereby": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "By means of which; in the way that leads to a result",
+            "synonyms": [
+                "thereby",
+                "by which",
+                "through which",
+                "as a result (similar)",
+                "with the result that"
+            ],
+            "examples": [
+                "The guide explains how to submit the form, whereby you can receive confirmation.",
+                "She improved the system whereby errors were reduced."
+            ]
+        }
+    ],
+    "whilst": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "During the time that; at the same time as",
+            "synonyms": [
+                "while",
+                "as",
+                "during the time that"
+            ],
+            "examples": [
+                "I read a book whilst waiting for the train.",
+                "She listened to music whilst studying."
+            ]
+        }
+    ],
+    "worsen": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To become worse",
+            "synonyms": [
+                "deteriorate",
+                "decline",
+                "get worse",
+                "worsen (again)",
+                "increase (badness)"
+            ],
+            "examples": [
+                "The situation worsened after the argument.",
+                "His back pain worsened at night."
+            ]
+        }
+    ],
+    "withhold": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To keep something back or not give it to someone",
+            "synonyms": [
+                "hold back",
+                "refuse",
+                "deny",
+                "stop",
+                "withhold"
+            ],
+            "examples": [
+                "She withheld the information until it was confirmed.",
+                "They withheld the report pending review."
+            ]
+        }
+    ],
+    "withstand": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To resist something and not be harmed or affected by it",
+            "synonyms": [
+                "resist",
+                "endure",
+                "hold out",
+                "survive",
+                "stand up to"
+            ],
+            "examples": [
+                "The building is designed to withstand strong winds.",
+                "She withstood pressure from the other team."
+            ]
+        }
+    ],
+    "wherein": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "In which; in the place, part, or condition mentioned",
+            "synonyms": [
+                "in which",
+                "in the part that",
+                "within which"
+            ],
+            "examples": [
+                "The document explains the rules wherein the plan applies."
+            ]
+        }
+    ],
+    "whereas": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "Used to introduce a contrast or explanation, especially in legal or formal writing",
+            "synonyms": [
+                "while (formal contrast)",
+                "although (context)",
+                "considering that",
+                "in contrast"
+            ],
+            "examples": [
+                "Whereas the defendant denies the claim, the evidence suggests otherwise.",
+                "The policy was updated, whereas the older version is now out of date."
+            ]
+        }
+    ],
+    "watchful": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Carefully observing to notice possible danger or problems",
+            "synonyms": [
+                "alert",
+                "careful",
+                "vigilant",
+                "alert (general)",
+                "attentive"
+            ],
+            "examples": [
+                "The watchful guard noticed the suspicious activity.",
+                "Stay watchful when you cross the street."
+            ]
+        }
+    ],
+    "wroughtiron": [
+        {
+            "part_of_speech": "noun",
+            "definition": "Iron that has been worked and shaped, often used for fences or decorative structures",
+            "synonyms": [
+                "wrought iron",
+                "metal (iron)"
+            ],
+            "examples": [
+                "The railing was made of wrought iron.",
+                "They restored the wrought iron gate carefully."
+            ]
+        }
     ]
 }

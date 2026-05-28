@@ -1,0 +1,60 @@
+{
+  "date": "2026-04-12",
+  "version": 1,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "d4-easy",
+      "type": "synonym",
+      "difficulty": 1,
+      "title": "A sudden, sharp decline",
+      "words": [
+        "recede",
+        "diminish",
+        "wane",
+        "decline"
+      ]
+    },
+    {
+      "id": "d4-medium",
+      "type": "emotional_tone",
+      "difficulty": 2,
+      "title": "Strained and uneasy",
+      "words": [
+        "apprehensive",
+        "uneasy",
+        "restive",
+        "jittery"
+      ]
+    },
+    {
+      "id": "d4-hard",
+      "type": "semantic_field",
+      "difficulty": 3,
+      "title": "Instruments for judging",
+      "words": [
+        "criteria",
+        "metrics",
+        "yardstick",
+        "benchmark"
+      ]
+    },
+    {
+      "id": "d4-vhard",
+      "type": "profession_domain",
+      "difficulty": 4,
+      "title": "Scholarly, rarely used terms",
+      "words": [
+        "tercet",
+        "terzetto",
+        "ternion",
+        "trine"
+      ]
+    }
+  ]
+}

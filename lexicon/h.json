@@ -173,7 +173,7 @@
             ],
             "examples": [
                 "She hummed her favorite song while cooking dinner.",
-                "The refrigerator hums quietly in the background."      
+                "The refrigerator hums quietly in the background."
             ]
         }
     ],
@@ -370,6 +370,281 @@
             "examples": [
                 "We could see mountains on the horizon.",
                 "The sun sets below the horizon."
+            ]
+        }
+    ],
+    "hazy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Not clear because of mist, or not easy to understand",
+            "synonyms": [
+                "foggy",
+                "unclear",
+                "blurred",
+                "misty",
+                "dim"
+            ],
+            "examples": [
+                "The view was hazy because of the smoke.",
+                "I have a hazy memory of that day."
+            ]
+        }
+    ],
+    "hesitate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To pause before doing something because you feel unsure or nervous",
+            "synonyms": [
+                "pause",
+                "stop",
+                "stall",
+                "waver",
+                "doubt"
+            ],
+            "examples": [
+                "Don’t hesitate to ask if you need help.",
+                "He hesitated before answering the question."
+            ]
+        }
+    ],
+    "hush": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To make someone or a group become quiet",
+            "synonyms": [
+                "quiet",
+                "silence",
+                "shush",
+                "calm",
+                "stop talking"
+            ],
+            "examples": [
+                "The teacher hushed the class before the test.",
+                "He tried to hush the baby."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "A quiet moment or a state of silence",
+            "synonyms": [
+                "silence",
+                "quiet",
+                "stillness",
+                "hush",
+                "quietness"
+            ],
+            "examples": [
+                "There was a hush in the room as the results were read.",
+                "The hush after her speech felt long."
+            ]
+        }
+    ],
+    "hollow": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Having a space inside; not solid",
+            "synonyms": [
+                "empty",
+                "caved",
+                "cavity-filled",
+                "unfilled",
+                "hollow (inside)"
+            ],
+            "examples": [
+                "The statue is hollow, so it is very light.",
+                "The sound came from a hollow space under the floor."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "A depression or empty space in the ground",
+            "synonyms": [
+                "depression",
+                "valley",
+                "basin",
+                "hollow (place)"
+            ],
+            "examples": [
+                "They camped beside a hollow in the hills.",
+                "A hollow formed where the soil had washed away."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "To make something hollow by removing material",
+            "synonyms": [
+                "make empty",
+                "empty",
+                "excavate",
+                "bore out",
+                "carve out"
+            ],
+            "examples": [
+                "The wind hollowed out the rock over years.",
+                "Workers hollowed the area for the new pipes."
+            ]
+        }
+    ],
+    "hostile": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Angry, unfriendly, or showing strong opposition",
+            "synonyms": [
+                "aggressive",
+                "unfriendly",
+                "threatening",
+                "opposed",
+                "hostile"
+            ],
+            "examples": [
+                "They faced hostile questions from the committee.",
+                "The neighborhood became hostile after the rumor spread."
+            ]
+        }
+    ],
+    "hitherto": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "Up to now; until this point in time",
+            "synonyms": [
+                "until now",
+                "so far",
+                "up to now",
+                "before this",
+                "hitherto"
+            ],
+            "examples": [
+                "I have not seen these results hitherto.",
+                "The team had not faced such problems hitherto."
+            ]
+        }
+    ],
+    "hear": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To receive sound with your ears",
+            "synonyms": [
+                "listen",
+                "perceive (sound)",
+                "detect",
+                "notice",
+                "hear"
+            ],
+            "examples": [
+                "I can hear music from the next room.",
+                "Did you hear the announcement?"
+            ]
+        }
+    ],
+    "here": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "In this place; at this location",
+            "synonyms": [
+                "in this place",
+                "at this spot",
+                "this location"
+            ],
+            "examples": [
+                "Please sit here while I check.",
+                "Is your phone here or at home?"
+            ]
+        }
+    ],
+    "hence": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "For this reason; as a result of something that was just said",
+            "synonyms": [
+                "therefore",
+                "as a result",
+                "thus",
+                "consequently",
+                "for that reason"
+            ],
+            "examples": [
+                "The train was late; hence the meeting started late.",
+                "He missed the flight, hence his problem."
+            ]
+        }
+    ],
+    "harmonic": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Related to harmony or sound waves that fit together well",
+            "synonyms": [
+                "harmonious",
+                "melodic",
+                "musical (general)",
+                "in tune",
+                "related to harmonics"
+            ],
+            "examples": [
+                "The harmonic overtones made the tone richer.",
+                "He used harmonic patterns in the music."
+            ]
+        }
+    ],
+    "hale": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Healthy and strong, especially in older age",
+            "synonyms": [
+                "healthy",
+                "fit",
+                "sound",
+                "robust",
+                "vigorous"
+            ],
+            "examples": [
+                "He stayed hale and active even at seventy.",
+                "She is still hale after years of hard work."
+            ]
+        }
+    ],
+    "haze": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A misty layer in the air that reduces clarity",
+            "synonyms": [
+                "mist",
+                "fog",
+                "haze"
+            ],
+            "examples": [
+                "A haze covered the city in the morning.",
+                "The lights looked blurry through the haze."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "To make the air misty or unclear",
+            "synonyms": [
+                "mist",
+                "cloud",
+                "blur",
+                "dim",
+                "haze"
+            ],
+            "examples": [
+                "Smoke hazed the sky after the fire.",
+                "The temperature change hazed the view."
+            ]
+        }
+    ],
+    "henceforth": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "From this time onward",
+            "synonyms": [
+                "from now on",
+                "thereafter",
+                "from this point",
+                "futurely (rare)"
+            ],
+            "examples": [
+                "H e must attend meetings henceforth.",
+                "H e agreed to call henceforth."
             ]
         }
     ]

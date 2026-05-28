@@ -55,5 +55,226 @@
                 "The glow in the cave gave it an unearthly look."
             ]
         }
+    ],
+    "unsaid": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Not spoken; kept private or not expressed",
+            "synonyms": [
+                "unspoken",
+                "unstated",
+                "unrevealed",
+                "kept back",
+                "unexpressed"
+            ],
+            "examples": [
+                "There was an unsaid tension between them.",
+                "Her unsaid concern showed in her silence."
+            ]
+        }
+    ],
+    "unspoken": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Not said, but understood or felt by people",
+            "synonyms": [
+                "unsaid",
+                "unstated",
+                "implicit",
+                "hidden",
+                "kept quiet"
+            ],
+            "examples": [
+                "Their unspoken agreement saved time.",
+                "There were many unspoken worries in the room."
+            ]
+        }
+    ],
+    "unwelcoming": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Not friendly or not ready to accept visitors",
+            "synonyms": [
+                "unfriendly",
+                "hostile",
+                "cold",
+                "rejecting",
+                "unaccommodating"
+            ],
+            "examples": [
+                "The store had an unwelcoming atmosphere.",
+                "He gave an unwelcoming response."
+            ]
+        }
+    ],
+    "unravel": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To become clear by solving parts of a complex situation, or to come apart gradually",
+            "synonyms": [
+                "resolve",
+                "clarify",
+                "unfold",
+                "work out",
+                "come apart"
+            ],
+            "examples": [
+                "Investigators worked to unravel the mystery.",
+                "The rope unraveled as we pulled it."
+            ]
+        }
+    ],
+    "unctionless": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Lacking warmth, sincerity, or spiritual meaning; sounding empty or unconvincing",
+            "synonyms": [
+                "insincere",
+                "empty",
+                "unconvincing",
+                "cold",
+                "lifeless"
+            ],
+            "examples": [
+                "His talk felt unctionless and failed to inspire the audience.",
+                "The speech was unctionless, with no real message."
+            ]
+        }
+    ],
+    "unseasoned": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Not experienced or not trained; also, not mixed or flavored with seasoning",
+            "synonyms": [
+                "inexperienced",
+                "raw",
+                "green",
+                "untrained",
+                "unskilled"
+            ],
+            "examples": [
+                "He sounded unseasoned during the interview.",
+                "An unseasoned soup needs salt and spices."
+            ]
+        }
+    ],
+    "unschooled": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Not taught formally; lacking school education",
+            "synonyms": [
+                "uneducated",
+                "untrained",
+                "self-taught",
+                "informal (education)",
+                "without schooling"
+            ],
+            "examples": [
+                "She was unschooled but learned through practice.",
+                "He is unschooled in advanced math concepts."
+            ]
+        }
+    ],
+    "unwonted": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Unusual or not typical; uncommon",
+            "synonyms": [
+                "unusual",
+                "rare",
+                "uncommon",
+                "strange",
+                "out of the ordinary"
+            ],
+            "examples": [
+                "The dog barked at the unwonted sound.",
+                "She noticed unwonted quiet in the house."
+            ]
+        }
+    ],
+    "unverifiable": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Impossible to confirm or prove because there is no reliable evidence",
+            "synonyms": [
+                "uncertain",
+                "unprovable",
+                "unconfirmable",
+                "unsubstantiated",
+                "not provable"
+            ],
+            "examples": [
+                "The claim is unverifiable, so we can’t include it.",
+                "Her story was unverifiable."
+            ]
+        }
+    ],
+    "uneasy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Slightly worried or uncomfortable; not at ease",
+            "synonyms": [
+                "worried",
+                "nervous",
+                "restless",
+                "uneasy",
+                "uncomfortable"
+            ],
+            "examples": [
+                "I felt uneasy about the last-minute changes.",
+                "The team looked uneasy after the warning."
+            ]
+        }
+    ],
+    "unrelenting": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Not stopping or becoming less strong; continuing without pause",
+            "synonyms": [
+                "relentless",
+                "constant",
+                "steady",
+                "persistent",
+                "unyielding"
+            ],
+            "examples": [
+                "They faced unrelenting criticism.",
+                "The unrelenting rain ruined the event."
+            ]
+        }
+    ],
+    "unease": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A feeling of worry or discomfort",
+            "synonyms": [
+                "anxiety",
+                "worry",
+                "discomfort",
+                "restlessness",
+                "uneasy feeling"
+            ],
+            "examples": [
+                "She felt unease when she saw the broken lock.",
+                "There was unease among the group after the incident."
+            ]
+        }
+    ],
+    "ungird": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To remove a belt or strap; also, to loosen or take away restraint",
+            "synonyms": [
+                "unfasten",
+                "remove",
+                "loosen",
+                "release (restraint)",
+                "unstrap"
+            ],
+            "examples": [
+                "He un gird ed his sword belt before sleeping.",
+                "She un gird ed herself from the old responsibilities."
+            ]
+        }
     ]
 }

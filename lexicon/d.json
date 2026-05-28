@@ -501,5 +501,533 @@
                 "I have an appointment with a doctor."
             ]
         }
+    ],
+    "doggedly": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "In a stubborn and determined way, even when it is difficult",
+            "synonyms": [
+                "persistently",
+                "stubbornly",
+                "tenaciously",
+                "relentlessly",
+                "with determination"
+            ],
+            "examples": [
+                "He kept asking doggedly until he got an answer.",
+                "She worked doggedly through the late evening to finish the report."
+            ]
+        }
+    ],
+    "dismal": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Very gloomy or depressing, or of poor quality",
+            "synonyms": [
+                "bleak",
+                "dreary",
+                "hopeless",
+                "grim",
+                "gloomy"
+            ],
+            "examples": [
+                "The weather was dismal all week.",
+                "His performance was dismal compared to last year."
+            ]
+        }
+    ],
+    "doubt": [
+        {
+            "part_of_speech": "noun",
+            "definition": "Uncertainty about whether something is true or right",
+            "synonyms": [
+                "uncertainty",
+                "suspicion",
+                "skepticism",
+                "question",
+                "misgiving"
+            ],
+            "examples": [
+                "There is some doubt about the accuracy of the report.",
+                "She has no doubt that she can do it."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "To feel uncertain or not believe something is true",
+            "synonyms": [
+                "suspect",
+                "question",
+                "believe",
+                "distrust",
+                "feel uncertain"
+            ],
+            "examples": [
+                "I doubt that he will be on time.",
+                "Many people doubt the results."
+            ]
+        }
+    ],
+    "dash": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To move quickly and suddenly",
+            "synonyms": [
+                "run",
+                "rush",
+                "hurry",
+                "race",
+                "dart"
+            ],
+            "examples": [
+                "She dashed to the door when the phone rang.",
+                "They dashed across the street to avoid the rain."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "A quick run or short burst of movement",
+            "synonyms": [
+                "rush",
+                "dash",
+                "burst",
+                "spurt",
+                "scurry"
+            ],
+            "examples": [
+                "He took a dash to the store before dinner.",
+                "We made a dash for the exit."
+            ]
+        }
+    ],
+    "decode": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To change coded information into a form that can be understood",
+            "synonyms": [
+                "decrypt",
+                "interpret",
+                "unencode",
+                "translate",
+                "read"
+            ],
+            "examples": [
+                "They decoded the message using a new key.",
+                "Can you decode this data format?"
+            ]
+        }
+    ],
+    "decipher": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To figure out the meaning of something that is difficult to understand",
+            "synonyms": [
+                "decode",
+                "interpret",
+                "uncover",
+                "solve",
+                "read"
+            ],
+            "examples": [
+                "She deciphered the handwriting after many attempts.",
+                "The scientist helped decipher the ancient text."
+            ]
+        }
+    ],
+    "dread": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A strong feeling of fear that something unpleasant will happen",
+            "synonyms": [
+                "fear",
+                "apprehension",
+                "worry",
+                "unease",
+                "foreboding"
+            ],
+            "examples": [
+                "She felt dread before the exam.",
+                "There was a sense of dread in the room."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "To feel afraid that something unpleasant will happen",
+            "synonyms": [
+                "fear",
+                "anticipate",
+                "apprehend",
+                "worry",
+                "recoil (figurative)"
+            ],
+            "examples": [
+                "He dreaded the meeting because of the criticism.",
+                "I dread having to call them."
+            ]
+        }
+    ],
+    "dimmed": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Made less bright or less clear",
+            "synonyms": [
+                "faded",
+                "darkened",
+                "lessened",
+                "blurred",
+                "weakened"
+            ],
+            "examples": [
+                "The lights were dimmed in the evening.",
+                "Her smile dimmed when the news arrived."
+            ]
+        }
+    ],
+    "doubtful": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Uncertain; likely not true or not expected",
+            "synonyms": [
+                "uncertain",
+                "skeptical",
+                "questionable",
+                "iffy",
+                "not sure"
+            ],
+            "examples": [
+                "I’m doubtful that we’ll finish on time.",
+                "The evidence is doubtful."
+            ]
+        }
+    ],
+    "diminish": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To become smaller or less intense",
+            "synonyms": [
+                "reduce",
+                "decrease",
+                "lessen",
+                "lower",
+                "wane"
+            ],
+            "examples": [
+                "The pain diminished after the medicine.",
+                "Traffic noise diminishes at night."
+            ]
+        }
+    ],
+    "decline": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To become less; to get worse or smaller over time",
+            "synonyms": [
+                "decrease",
+                "reduce",
+                "diminish",
+                "fall",
+                "drop"
+            ],
+            "examples": [
+                "Sales declined after the price increase.",
+                "Her health began to decline in winter."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "A decrease in something such as quality, quantity, or health",
+            "synonyms": [
+                "decrease",
+                "drop",
+                "fall",
+                "downturn",
+                "decline"
+            ],
+            "examples": [
+                "There was a decline in customer satisfaction.",
+                "The decline in costs improved profits."
+            ]
+        }
+    ],
+    "demand": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To ask for something strongly or officially",
+            "synonyms": [
+                "request",
+                "require",
+                "ask for",
+                "insist on",
+                "call for"
+            ],
+            "examples": [
+                "They demanded an explanation from the manager.",
+                "The law demands that vehicles stop at the sign."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "A strong need or request for something",
+            "synonyms": [
+                "need",
+                "request",
+                "requirement",
+                "call",
+                "market need"
+            ],
+            "examples": [
+                "There is high demand for skilled workers.",
+                "The demand for new housing has increased."
+            ]
+        }
+    ],
+    "desolate": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Empty, lonely, and without comfort or hope",
+            "synonyms": [
+                "lonely",
+                "forsaken",
+                "bleak",
+                "wretched",
+                "cheerless"
+            ],
+            "examples": [
+                "The street looked desolate after midnight.",
+                "They lived in a desolate area with few services."
+            ]
+        }
+    ],
+    "dodgy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Unreliable, suspicious, or of low quality",
+            "synonyms": [
+                "shady",
+                "questionable",
+                "unreliable",
+                "sketchy",
+                "unsafe"
+            ],
+            "examples": [
+                "That used car deal sounds dodgy.",
+                "Be careful with dodgy websites."
+            ]
+        }
+    ],
+    "dubious": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Not confident that something is true or good; doubtful",
+            "synonyms": [
+                "doubtful",
+                "skeptical",
+                "questionable",
+                "unreliable",
+                "suspect"
+            ],
+            "examples": [
+                "I’m dubious about the results because they lack evidence.",
+                "The website looks dubious."
+            ]
+        }
+    ],
+    "decay": [
+        {
+            "part_of_speech": "noun",
+            "definition": "The process of becoming worse or breaking down over time",
+            "synonyms": [
+                "deterioration",
+                "decline",
+                "rotting (literal)",
+                "degeneration",
+                "breakdown"
+            ],
+            "examples": [
+                "The decay of the building started after years without repairs.",
+                "Fungi can speed up decay."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "To break down or become worse over time",
+            "synonyms": [
+                "deteriorate",
+                "rot",
+                "degenerate",
+                "worsen",
+                "decompose"
+            ],
+            "examples": [
+                "The fruit began to decay in the heat.",
+                "The metal will decay if it is not protected."
+            ]
+        }
+    ],
+    "deteriorate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To become worse over time",
+            "synonyms": [
+                "worsen",
+                "decline",
+                "get worse",
+                "degrade",
+                "go down"
+            ],
+            "examples": [
+                "His health deteriorated rapidly.",
+                "The roads deteriorate after the winter season."
+            ]
+        }
+    ],
+    "didactic": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Teaching in a way that is meant to instruct or explain moral or learning lessons",
+            "synonyms": [
+                "instructive",
+                "educational",
+                "preachy (tone)",
+                "lesson-focused",
+                "informative"
+            ],
+            "examples": [
+                "The didactic style helped students understand the topic.",
+                "His speech became didactic and repetitive."
+            ]
+        }
+    ],
+    "discern": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To notice or understand something that is not obvious",
+            "synonyms": [
+                "detect",
+                "recognize",
+                "identify",
+                "notice",
+                "see"
+            ],
+            "examples": [
+                "I could discern a change in her voice.",
+                "The report helps you discern key trends."
+            ]
+        }
+    ],
+    "distinguish": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To recognize the difference between two things",
+            "synonyms": [
+                "tell apart",
+                "separate",
+                "differentiate",
+                "identify",
+                "recognize"
+            ],
+            "examples": [
+                "It’s hard to distinguish the two models.",
+                "The test helps distinguish between similar diseases."
+            ]
+        }
+    ],
+    "decide": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To make a choice after thinking about something",
+            "synonyms": [
+                "choose",
+                "determine",
+                "make up one’s mind",
+                "select",
+                "settle"
+            ],
+            "examples": [
+                "We need to decide by Friday.",
+                "She decided to study abroad."
+            ]
+        }
+    ],
+    "determine": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To find out or decide something after careful thinking or research",
+            "synonyms": [
+                "decide",
+                "settle",
+                "figure out",
+                "determine",
+                "establish"
+            ],
+            "examples": [
+                "The team determined the cause of the delay.",
+                "We must determine which option is best."
+            ]
+        }
+    ],
+    "debt": [
+        {
+            "part_of_speech": "noun",
+            "definition": "Money that one person or organization owes to another",
+            "synonyms": [
+                "owe money",
+                "liability",
+                "indebtedness",
+                "financial obligation"
+            ],
+            "examples": [
+                "He is trying to pay off his debt.",
+                "The company has a large debt."
+            ]
+        }
+    ],
+    "diagnosis": [
+        {
+            "part_of_speech": "noun",
+            "definition": "The process of identifying what illness or condition a person has",
+            "synonyms": [
+                "identification",
+                "finding",
+                "medical determination",
+                "assessment",
+                "diagnosis"
+            ],
+            "examples": [
+                "The diagnosis was made after several tests.",
+                "Her diagnosis came as a surprise to the family."
+            ]
+        }
+    ],
+    "dialogue": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A conversation between two or more people",
+            "synonyms": [
+                "conversation",
+                "talk",
+                "discussion",
+                "exchange",
+                "dialogue"
+            ],
+            "examples": [
+                "We need better dialogue between management and employees.",
+                "The book includes a dialogue between two characters."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "In writing, the spoken lines of characters",
+            "synonyms": [
+                "speech",
+                "lines",
+                "spoken part",
+                "dialogue"
+            ],
+            "examples": [
+                "The dialogue sounded natural.",
+                "The dialogue in the movie was well written."
+            ]
+        }
     ]
 }

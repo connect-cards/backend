@@ -1,0 +1,60 @@
+{
+  "date": "2026-04-08",
+  "version": 1,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "synonym",
+      "difficulty": 1,
+      "title": "To solve or decipher",
+      "words": [
+        "decode",
+        "unravel",
+        "interpret",
+        "decipher"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "etymological_relation",
+      "difficulty": 2,
+      "title": "Greek-root terms for 'fear' or 'dread'",
+      "words": [
+        "phobia",
+        "panic",
+        "terror",
+        "dread"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "thematic_association",
+      "difficulty": 3,
+      "title": "Literary criticism vocabulary",
+      "words": [
+        "allusion",
+        "metaphor",
+        "motif",
+        "allegory"
+      ]
+    },
+    {
+      "id": "g4",
+      "type": "morphological_family",
+      "difficulty": 4,
+      "title": "Archaic negation via 'un-' meaning lack",
+      "words": [
+        "unctionless",
+        "unseasoned",
+        "unschooled",
+        "unwonted"
+      ]
+    }
+  ]
+}

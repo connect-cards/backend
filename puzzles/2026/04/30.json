@@ -1,0 +1,60 @@
+{
+  "date": "2026-04-30",
+  "version": 1,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "semantic_field",
+      "difficulty": 1,
+      "title": "Talks and conversations",
+      "words": [
+        "banter",
+        "dialogue",
+        "recital",
+        "colloquy"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "informal_register",
+      "difficulty": 2,
+      "title": "Everyday people, not titles",
+      "words": [
+        "chap",
+        "fella",
+        "bloke",
+        "lad"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "synonym",
+      "difficulty": 3,
+      "title": "Saying little",
+      "words": [
+        "laconic",
+        "terse",
+        "curt",
+        "abrupt"
+      ]
+    },
+    {
+      "id": "g4",
+      "type": "literary_register",
+      "difficulty": 4,
+      "title": "A dark, uncanny chill",
+      "words": [
+        "eldritch",
+        "uncanny",
+        "unearthly",
+        "murk"
+      ]
+    }
+  ]
+}

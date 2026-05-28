@@ -1,0 +1,60 @@
+{
+  "date": "2026-04-13",
+  "version": 1,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "d1_easy",
+      "type": "easy",
+      "difficulty": 1,
+      "title": "Weapon material",
+      "words": [
+        "steel",
+        "blade",
+        "sword",
+        "brand"
+      ]
+    },
+    {
+      "id": "d1_medium",
+      "type": "medium",
+      "difficulty": 2,
+      "title": "Backstreet people",
+      "words": [
+        "bloke",
+        "fella",
+        "chap",
+        "lad"
+      ]
+    },
+    {
+      "id": "d1_hard",
+      "type": "hard",
+      "difficulty": 3,
+      "title": "Professional expertise",
+      "words": [
+        "carpenter",
+        "surveyor",
+        "librarian",
+        "apothecary"
+      ]
+    },
+    {
+      "id": "d1_veryhard",
+      "type": "very-hard",
+      "difficulty": 4,
+      "title": "Subtle physical cues",
+      "words": [
+        "scrawny",
+        "ruddy",
+        "slender",
+        "limp"
+      ]
+    }
+  ]
+}

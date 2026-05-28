@@ -1,0 +1,60 @@
+{
+  "date": "2026-04-28",
+  "version": 1,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "synonym",
+      "difficulty": 1,
+      "title": "Keep Watch",
+      "words": [
+        "monitor",
+        "observe",
+        "survey",
+        "watchful"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "etymological_relation",
+      "difficulty": 2,
+      "title": "From Latin videre: to see",
+      "words": [
+        "invisible",
+        "vision",
+        "evidence",
+        "evasive"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "emotional_tone",
+      "difficulty": 3,
+      "title": "Restless Anxiety",
+      "words": [
+        "unease",
+        "apprehension",
+        "fret",
+        "trepidation"
+      ]
+    },
+    {
+      "id": "g4",
+      "type": "thematic_association",
+      "difficulty": 4,
+      "title": "Rare Literary Negation",
+      "words": [
+        "ungird",
+        "unearthly",
+        "eldritch",
+        "unwonted"
+      ]
+    }
+  ]
+}

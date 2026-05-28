@@ -198,5 +198,48 @@
                 "The store closes at noon."
             ]
         }
+    ],
+    "navigator": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A person who plans and directs the route of a ship, aircraft, or spacecraft",
+            "synonyms": [
+                "pilot",
+                "route planner",
+                "flight navigator",
+                "ship navigator",
+                "guidance officer"
+            ],
+            "examples": [
+                "The navigator checked the weather before the flight.",
+                "A good navigator helps avoid dangerous areas."
+            ]
+        }
+    ],
+    "navigator's": [
+        {
+            "part_of_speech": "noun",
+            "definition": "Belonging to a navigator",
+            "synonyms": [],
+            "examples": [
+                "The navigator’s log recorded the course changes."
+            ]
+        }
+    ],
+    "nautical": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Related to ships, sailors, or navigation by sea",
+            "synonyms": [
+                "maritime",
+                "seafaring",
+                "ship-related",
+                "seagoing"
+            ],
+            "examples": [
+                "They studied nautical charts for the voyage.",
+                "The captain gave a nautical briefing."
+            ]
+        }
     ]
 }

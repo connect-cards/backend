@@ -1,0 +1,60 @@
+{
+  "date": "2026-04-21",
+  "version": 1,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "semantic_field",
+      "difficulty": 1,
+      "title": "Mariners and navigation (easy entry)",
+      "words": [
+        "compass",
+        "sextant",
+        "nautical",
+        "porthole"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "morphological_family",
+      "difficulty": 2,
+      "title": "Words from the root of “to draw back”",
+      "words": [
+        "recoil",
+        "recant",
+        "retract",
+        "refrain"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "sound_association",
+      "difficulty": 3,
+      "title": "Near-homophones that mislead",
+      "words": [
+        "hale",
+        "tailor",
+        "vail",
+        "pale"
+      ]
+    },
+    {
+      "id": "g4",
+      "type": "literary_register",
+      "difficulty": 4,
+      "title": "Archaic/poetic restraint and refusal",
+      "words": [
+        "withhold",
+        "abstain",
+        "forbear",
+        "decline"
+      ]
+    }
+  ]
+}

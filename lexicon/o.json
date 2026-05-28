@@ -122,5 +122,201 @@
                 "The owl hooted in the dark."
             ]
         }
+    ],
+    "orate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To speak formally or at length, especially in public",
+            "synonyms": [
+                "speak",
+                "deliver",
+                "address",
+                "talk",
+                "pronounce"
+            ],
+            "examples": [
+                "He orated for nearly an hour at the ceremony.",
+                "The mayor orated about community goals."
+            ]
+        }
+    ],
+    "oration": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A formal speech, often given for a special occasion",
+            "synonyms": [
+                "speech",
+                "address",
+                "discourse",
+                "lecture",
+                "public talk"
+            ],
+            "examples": [
+                "Her oration inspired many people in the audience.",
+                "The graduation oration was short but memorable."
+            ]
+        }
+    ],
+    "oratory": [
+        {
+            "part_of_speech": "noun",
+            "definition": "The skill or art of public speaking",
+            "synonyms": [
+                "eloquence",
+                "public speaking",
+                "rhetoric",
+                "speechmaking",
+                "art of speech"
+            ],
+            "examples": [
+                "He studied oratory to improve his presentations.",
+                "Good oratory can make ideas easier to understand."
+            ]
+        }
+    ],
+    "orator": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A person who speaks in public in an effective or persuasive way",
+            "synonyms": [
+                "speaker",
+                "eloquent speaker",
+                "public speaker",
+                "rhetorician",
+                "speechmaker"
+            ],
+            "examples": [
+                "The orator won the crowd with careful arguments.",
+                "They praised her as an outstanding orator."
+            ]
+        }
+    ],
+    "obviate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To remove the need for something or prevent a problem from happening",
+            "synonyms": [
+                "prevent",
+                "eliminate",
+                "avoid",
+                "remove",
+                "spare"
+            ],
+            "examples": [
+                "These changes obviate the need for extra approvals.",
+                "Good planning can obviate many delays."
+            ]
+        }
+    ],
+    "oops": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A short word used to show surprise or admitting a mistake",
+            "synonyms": [
+                "whoops",
+                "oops",
+                "my mistake",
+                "error"
+            ],
+            "examples": [
+                "Oops, I forgot my keys at home.",
+                "Oops, that was not the right button."
+            ]
+        },
+        {
+            "part_of_speech": "adverb",
+            "definition": "Used to show a small mistake or accidental action",
+            "synonyms": [
+                "whoops",
+                "oops",
+                "accidentally"
+            ],
+            "examples": [
+                "Oops, I spilled the water on the desk.",
+                "Oops, I pressed the wrong answer."
+            ]
+        }
+    ],
+    "observe": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To watch something carefully",
+            "synonyms": [
+                "watch",
+                "see",
+                "monitor",
+                "view",
+                "notice"
+            ],
+            "examples": [
+                "The scientist observed the birds for hours.",
+                "I observed that the traffic slowed near the bridge."
+            ]
+        }
+    ],
+    "obscure": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Not well known or hard to understand",
+            "synonyms": [
+                "unclear",
+                "vague",
+                "unknown",
+                "dim",
+                "little-known"
+            ],
+            "examples": [
+                "The meaning is obscure, so I need more context.",
+                "They chose an obscure author for the reading list."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "To make something unclear or less visible",
+            "synonyms": [
+                "cloud",
+                "hide",
+                "blur",
+                "dim",
+                "mask"
+            ],
+            "examples": [
+                "The smoke obscured the view.",
+                "His comments obscured the main point."
+            ]
+        }
+    ],
+    "olfactory": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Related to smell and the sense of smell",
+            "synonyms": [
+                "smell-related",
+                "scent-related",
+                "nose-related",
+                "sensory (smell)"
+            ],
+            "examples": [
+                "The olfactory system helps detect odors.",
+                "He described the smell using olfactory terms."
+            ]
+        }
+    ],
+    "ominous": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Giving the feeling that something bad might happen",
+            "synonyms": [
+                "threatening",
+                "foreboding",
+                "dangerous",
+                "bad-sign (informal)",
+                "alarming"
+            ],
+            "examples": [
+                "The sky looked ominous before the storm.",
+                "He made an ominous statement about the future."
+            ]
+        }
     ]
 }

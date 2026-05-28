@@ -1,0 +1,60 @@
+{
+  "date": "2026-04-14",
+  "version": 1,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "d2_easy",
+      "type": "easy",
+      "difficulty": 1,
+      "title": "Near-homophones: tide",
+      "words": [
+        "tidal",
+        "tide",
+        "tideway",
+        "tie"
+      ]
+    },
+    {
+      "id": "d2_medium",
+      "type": "medium",
+      "difficulty": 2,
+      "title": "Verb family: demand",
+      "words": [
+        "require",
+        "demand",
+        "insist",
+        "request"
+      ]
+    },
+    {
+      "id": "d2_hard",
+      "type": "hard",
+      "difficulty": 3,
+      "title": "Literary register: desolation",
+      "words": [
+        "desolate",
+        "wretched",
+        "mournful",
+        "squalid"
+      ]
+    },
+    {
+      "id": "d2_veryhard",
+      "type": "very-hard",
+      "difficulty": 4,
+      "title": "Archaic literary phrasing",
+      "words": [
+        "perchance",
+        "whence",
+        "hitherto",
+        "thereunto"
+      ]
+    }
+  ]
+}

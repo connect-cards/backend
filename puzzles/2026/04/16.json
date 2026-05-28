@@ -1,0 +1,60 @@
+{
+  "date": "2026-04-16",
+  "version": 1,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "d4_easy",
+      "type": "easy",
+      "difficulty": 1,
+      "title": "Thematic: movement (walking)",
+      "words": [
+        "stroll",
+        "wander",
+        "ramble",
+        "roam"
+      ]
+    },
+    {
+      "id": "d4_medium",
+      "type": "medium",
+      "difficulty": 2,
+      "title": "Synonym set: speech style",
+      "words": [
+        "laconic",
+        "terse",
+        "curt",
+        "brusque"
+      ]
+    },
+    {
+      "id": "d4_hard",
+      "type": "hard",
+      "difficulty": 3,
+      "title": "Sound association: spell",
+      "words": [
+        "censure",
+        "censor",
+        "sense",
+        "senseful"
+      ]
+    },
+    {
+      "id": "d4_veryhard",
+      "type": "very-hard",
+      "difficulty": 4,
+      "title": "Etymological relation: occult-like",
+      "words": [
+        "eldritch",
+        "uncanny",
+        "unearthly",
+        "preternatural"
+      ]
+    }
+  ]
+}

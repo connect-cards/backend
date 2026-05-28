@@ -1,0 +1,60 @@
+{
+  "date": "2026-04-29",
+  "version": 1,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "morphological_family",
+      "difficulty": 1,
+      "title": "Swords and their makers",
+      "words": [
+        "blade",
+        "swordsmith",
+        "cutlass",
+        "broadsword"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "profession_domain",
+      "difficulty": 2,
+      "title": "Medical instruments and practitioners",
+      "words": [
+        "stethoscope",
+        "surgeon",
+        "anesthesia",
+        "diagnosis"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "thematic_association",
+      "difficulty": 3,
+      "title": "Manufactured metal for structures",
+      "words": [
+        "steelwork",
+        "wroughtiron",
+        "beam",
+        "framework"
+      ]
+    },
+    {
+      "id": "g4",
+      "type": "sound_association",
+      "difficulty": 4,
+      "title": "Resonant, echoing speech",
+      "words": [
+        "resonant",
+        "cadence",
+        "reverberate",
+        "intonation"
+      ]
+    }
+  ]
+}

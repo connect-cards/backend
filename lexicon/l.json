@@ -323,5 +323,152 @@
                 "He looked livid when he saw the bill."
             ]
         }
+    ],
+    "luring": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Attracting or tempting someone, sometimes in an unfair or dangerous way",
+            "synonyms": [
+                "alluring",
+                "tempting",
+                "attractive",
+                "entic ing (modern)",
+                "seductive"
+            ],
+            "examples": [
+                "The luring advertisement brought many customers.",
+                "He warned me about the luring scam calls."
+            ]
+        }
+    ],
+    "librarian": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A person who works in a library and helps people find books and information",
+            "synonyms": [
+                "library worker",
+                "library staff member",
+                "information specialist",
+                "reference librarian"
+            ],
+            "examples": [
+                "The librarian helped me find a book on astronomy.",
+                "She works as a librarian at the university."
+            ]
+        }
+    ],
+    "limp": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A way of walking with difficulty due to pain in the leg or foot",
+            "synonyms": [
+                "lame walk",
+                "uneven walk",
+                "hobble",
+                "limp (walk)",
+                "stumble"
+            ],
+            "examples": [
+                "He was left with a limp after the accident.",
+                "The dog had a limp but still followed us."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "To walk with difficulty because of pain or weakness",
+            "synonyms": [
+                "hobble",
+                "limp along",
+                "walk unsteadily",
+                "stumble",
+                "gimp (informal)"
+            ],
+            "examples": [
+                "She limped to the car after twisting her ankle.",
+                "He limped home in the rain."
+            ]
+        }
+    ],
+    "lucid": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Clear and easy to understand",
+            "synonyms": [
+                "clear",
+                "understandable",
+                "coherent",
+                "logical",
+                "intelligible"
+            ],
+            "examples": [
+                "She gave a lucid explanation of the results.",
+                "The instructions are lucid and well organized."
+            ]
+        }
+    ],
+    "lucency": [
+        {
+            "part_of_speech": "noun",
+            "definition": "The quality of being clear and easy to understand, or the property of letting light pass through",
+            "synonyms": [
+                "clarity",
+                "transparency (light)",
+                "distinctness",
+                "brightness (context)"
+            ],
+            "examples": [
+                "The presentation improved in lucency after edits.",
+                "The material’s lucency made it glow softly."
+            ]
+        }
+    ],
+    "luster": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A shiny attractive quality, especially of something reflecting light",
+            "synonyms": [
+                "shine",
+                "brightness",
+                "glow",
+                "glamour (general)",
+                "luster"
+            ],
+            "examples": [
+                "The metal kept its luster after polishing.",
+                "The gem’s luster made it stand out."
+            ]
+        }
+    ],
+    "luminescence": [
+        {
+            "part_of_speech": "noun",
+            "definition": "The emission of light by a substance, without heat from burning",
+            "synonyms": [
+                "glow",
+                "light emission",
+                "bioluminescence (if living)",
+                "phosphorescence (type)"
+            ],
+            "examples": [
+                "Fireflies create luminescence in the dark.",
+                "Some minerals show luminescence under ultraviolet light."
+            ]
+        }
+    ],
+    "ledger": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A book or computer record that keeps financial accounts and transactions",
+            "synonyms": [
+                "account book",
+                "financial record",
+                "book of accounts",
+                "accounting ledger"
+            ],
+            "examples": [
+                "The accountant entered the transactions in the ledger.",
+                "Errors were found in the company’s ledger."
+            ]
+        }
     ]
 }

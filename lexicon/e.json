@@ -569,5 +569,185 @@
                 "His effusive greeting made me smile."
             ]
         }
+    ],
+    "evade": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To avoid something, especially responsibility or an answer",
+            "synonyms": [
+                "avoid",
+                "dodge",
+                "sidestep",
+                "escape",
+                "circumvent"
+            ],
+            "examples": [
+                "He tried to evade the question during the interview.",
+                "They evaded responsibility for the mistake."
+            ]
+        }
+    ],
+    "exasperated": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Very annoyed, often because something has happened repeatedly or is difficult to solve",
+            "synonyms": [
+                "frustrated",
+                "angry",
+                "irritated",
+                "fed up",
+                "at wit’s end"
+            ],
+            "examples": [
+                "The teacher was exasperated with the constant mistakes.",
+                "He grew exasperated when the system kept failing."
+            ]
+        }
+    ],
+    "entangle": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To trap or catch something so that it becomes difficult to separate or escape",
+            "synonyms": [
+                "trap",
+                "snare",
+                "entrap",
+                "twist up",
+                "knot"
+            ],
+            "examples": [
+                "The fishing line got entangled in the weeds.",
+                "Don’t entangle the cables; keep them organized."
+            ]
+        }
+    ],
+    "ear": [
+        {
+            "part_of_speech": "noun",
+            "definition": "The body part used for hearing",
+            "synonyms": [
+                "auditory organ",
+                "hearing organ"
+            ],
+            "examples": [
+                "My ear hurts after the concert.",
+                "Use your ear to listen carefully."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "A hanging part of grain, such as corn or wheat",
+            "synonyms": [
+                "grain head",
+                "kernel (related)",
+                "ear of corn (general)"
+            ],
+            "examples": [
+                "The farmer harvested the corn ear s at sunrise.",
+                "An ear of wheat is ready when it is dry."
+            ]
+        }
+    ],
+    "examine": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To look at something carefully or test it to find out more",
+            "synonyms": [
+                "inspect",
+                "check",
+                "study",
+                "review",
+                "investigate"
+            ],
+            "examples": [
+                "The doctor examined her after the accident.",
+                "Please examine the document for errors."
+            ]
+        }
+    ],
+    "equivocal": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Unclear and open to different interpretations, sometimes to avoid being honest",
+            "synonyms": [
+                "unclear",
+                "ambiguous",
+                "vague",
+                "two-sided",
+                "double-meaning"
+            ],
+            "examples": [
+                "His equivocal answer made everyone unsure.",
+                "The lawyer used equivocal language to avoid a clear promise."
+            ]
+        }
+    ],
+    "erosion": [
+        {
+            "part_of_speech": "noun",
+            "definition": "The gradual destruction of soil, rock, or land by wind or water",
+            "synonyms": [
+                "wearing away",
+                "degradation",
+                "washout",
+                "attrition",
+                "corrosion (literal context)"
+            ],
+            "examples": [
+                "The erosion of the riverbank threatened the road.",
+                "Plant roots can reduce erosion."
+            ]
+        }
+    ],
+    "emphatic": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Strongly expressed, clear, and focused",
+            "synonyms": [
+                "strong",
+                "certain",
+                "forceful",
+                "assertive",
+                "definite"
+            ],
+            "examples": [
+                "She gave an emphatic answer: no.",
+                "He was emphatic about the need for safety."
+            ]
+        }
+    ],
+    "evidence": [
+        {
+            "part_of_speech": "noun",
+            "definition": "Information or facts that support a belief or show whether something is true",
+            "synonyms": [
+                "proof",
+                "data",
+                "information",
+                "support",
+                "testimony"
+            ],
+            "examples": [
+                "There is strong evidence that the plan will work.",
+                "The report provided evidence of fraud."
+            ]
+        }
+    ],
+    "evasive": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Avoiding direct answers or details, often to hide the truth",
+            "synonyms": [
+                "unclear",
+                "dodging",
+                "vague",
+                "noncommittal",
+                "shifty"
+            ],
+            "examples": [
+                "He gave an evasive answer and changed the topic.",
+                "The email was evasive about the real schedule."
+            ]
+        }
     ]
 }

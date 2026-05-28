@@ -1,0 +1,60 @@
+{
+  "date": "2026-04-17",
+  "version": 1,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "literary_register",
+      "difficulty": 1,
+      "title": "Courtly diction (straightforward)",
+      "words": [
+        "beget",
+        "hence",
+        "whereby",
+        "whilst"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "thematic_association",
+      "difficulty": 2,
+      "title": "Chain of causation (subtle)",
+      "words": [
+        "precipitate",
+        "catalyst",
+        "consequence",
+        "corollary"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "morphological_family",
+      "difficulty": 3,
+      "title": "Reasoned argument (stem-play)",
+      "words": [
+        "ratiocinate",
+        "rationale",
+        "ratiocination",
+        "reasonable"
+      ]
+    },
+    {
+      "id": "g4",
+      "type": "etymological_relation",
+      "difficulty": 4,
+      "title": "Concerning vision and revelation (misdirection)",
+      "words": [
+        "lucid",
+        "illumined",
+        "lucency",
+        "reveal"
+      ]
+    }
+  ]
+}

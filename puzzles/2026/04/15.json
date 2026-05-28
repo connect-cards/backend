@@ -1,0 +1,60 @@
+{
+  "date": "2026-04-15",
+  "version": 1,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "d3_easy",
+      "type": "easy",
+      "difficulty": 1,
+      "title": "Sound-alike: hear",
+      "words": [
+        "hear",
+        "here",
+        "ear",
+        "year"
+      ]
+    },
+    {
+      "id": "d3_medium",
+      "type": "medium",
+      "difficulty": 2,
+      "title": "Profession domain: legal",
+      "words": [
+        "prosecutor",
+        "advocate",
+        "juror",
+        "arbiter"
+      ]
+    },
+    {
+      "id": "d3_hard",
+      "type": "hard",
+      "difficulty": 3,
+      "title": "Semantic field: scrutiny",
+      "words": [
+        "interrogate",
+        "examine",
+        "scrutinize",
+        "interpose"
+      ]
+    },
+    {
+      "id": "d3_veryhard",
+      "type": "very-hard",
+      "difficulty": 4,
+      "title": "Semantic field: the senses",
+      "words": [
+        "olfactory",
+        "tactile",
+        "auditory",
+        "gustatory"
+      ]
+    }
+  ]
+}

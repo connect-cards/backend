@@ -888,5 +888,833 @@
                 "The crow cawed loudly."
             ]
         }
+    ],
+    "cartographer": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A person who makes maps",
+            "synonyms": [
+                "mapmaker",
+                "geographer",
+                "mapper",
+                "chartmaker"
+            ],
+            "examples": [
+                "The cartographer updated the map after new roads were built.",
+                "Her job is to improve maps using accurate measurements."
+            ]
+        }
+    ],
+    "courser": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A horse, especially one used for running or racing",
+            "synonyms": [
+                "horse",
+                "steed",
+                "mount",
+                "racing horse"
+            ],
+            "examples": [
+                "The rider mounted a courser before the competition.",
+                "They rode their coursers across the field."
+            ]
+        }
+    ],
+    "coppery": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Having a taste or smell like copper, or showing a reddish-brown color",
+            "synonyms": [
+                "reddish-brown",
+                "metallic",
+                "brassy",
+                "copper-colored"
+            ],
+            "examples": [
+                "The water had a coppery taste.",
+                "The object turned coppery after being left outside."
+            ]
+        }
+    ],
+    "clinician": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A healthcare professional who treats patients, especially in a medical setting",
+            "synonyms": [
+                "doctor",
+                "medical practitioner",
+                "health professional",
+                "practitioner",
+                "care provider"
+            ],
+            "examples": [
+                "The clinician explained the treatment options clearly.",
+                "She is a clinician who works with chronic illness patients."
+            ]
+        }
+    ],
+    "cartology": [
+        {
+            "part_of_speech": "noun",
+            "definition": "The study or science of making maps",
+            "synonyms": [
+                "map science",
+                "cartography (general)",
+                "mapmaking study",
+                "mapping science"
+            ],
+            "examples": [
+                "Cartology helps explain how maps should be designed.",
+                "He became interested in cartology during his geography studies."
+            ]
+        }
+    ],
+    "crash": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A sudden accident, often involving vehicles, with a loud impact",
+            "synonyms": [
+                "collision",
+                "accident",
+                "wreck",
+                "car crash",
+                "impact"
+            ],
+            "examples": [
+                "The crash closed the highway for hours.",
+                "We heard a crash outside the building."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "To hit something suddenly and violently, causing an accident",
+            "synonyms": [
+                "collide",
+                "hit",
+                "smash",
+                "wreck",
+                "crash into"
+            ],
+            "examples": [
+                "The car crashed into a wall.",
+                "A drone crashed shortly after takeoff."
+            ]
+        }
+    ],
+    "collapse": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A sudden failure or falling down, or a sudden weakening of health",
+            "synonyms": [
+                "fall",
+                "breakdown",
+                "collapse (event)",
+                "failure",
+                "collapse"
+            ],
+            "examples": [
+                "The building’s collapse was caused by structural damage.",
+                "He suffered a collapse after running too fast."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "To fall down or give way suddenly",
+            "synonyms": [
+                "fall",
+                "give way",
+                "break down",
+                "crumple",
+                "topple"
+            ],
+            "examples": [
+                "The bridge collapsed during the storm.",
+                "Her legs collapsed under her after the long walk."
+            ]
+        }
+    ],
+    "carom": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To bounce off one object and change direction, especially in games like billiards",
+            "synonyms": [
+                "bounce",
+                "rebound",
+                "ricochet",
+                "deflect",
+                "swerve"
+            ],
+            "examples": [
+                "The ball caromed off the side wall.",
+                "His shot made the ball carom into the pocket."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "A rebound or bounce after a hit, especially in billiards",
+            "synonyms": [
+                "rebound",
+                "bounce",
+                "ricochet",
+                "deflection"
+            ],
+            "examples": [
+                "The carom sent the ball across the table.",
+                "She planned the carom to reach the corner pocket."
+            ]
+        }
+    ],
+    "callused": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Having thickened skin from repeated friction or pressure",
+            "synonyms": [
+                "toughened",
+                "thick-skinned",
+                "hardened",
+                "roughened",
+                "tough"
+            ],
+            "examples": [
+                "His callused hands showed he worked with tools.",
+                "After weeks of climbing, the palms became callused."
+            ]
+        }
+    ],
+    "crusted": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Covered with a hard dry layer, often formed as something dries or heals",
+            "synonyms": [
+                "covered",
+                "caked",
+                "scabbed",
+                "hardened",
+                "encrusted"
+            ],
+            "examples": [
+                "The bread was crusted with salt.",
+                "His wound became crusted as it healed."
+            ]
+        }
+    ],
+    "chthonic": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Related to the earth or the underworld, especially in ancient beliefs and literature",
+            "synonyms": [
+                "underworld-related",
+                "earth-related",
+                "infernal (literary)",
+                "subterranean"
+            ],
+            "examples": [
+                "The poem used chthonic images to suggest darkness.",
+                "They described the ritual in chthonic terms."
+            ]
+        }
+    ],
+    "contemplate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To think carefully about something, especially before deciding",
+            "synonyms": [
+                "consider",
+                "think about",
+                "ponder",
+                "reflect",
+                "deliberate"
+            ],
+            "examples": [
+                "She contemplated changing jobs.",
+                "He contemplated the proposal overnight."
+            ]
+        }
+    ],
+    "composed": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Calm and in control, especially in a difficult situation",
+            "synonyms": [
+                "calm",
+                "self-possessed",
+                "controlled",
+                "cool",
+                "collected"
+            ],
+            "examples": [
+                "She stayed composed during the emergency.",
+                "He spoke in a composed manner."
+            ]
+        }
+    ],
+    "contempt": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A strong feeling that someone or something is worthless or undeserving",
+            "synonyms": [
+                "disrespect",
+                "disdain",
+                "scorn",
+                "contempt",
+                "contempt"
+            ],
+            "examples": [
+                "She showed contempt for the unfair rules.",
+                "His contempt for criticism surprised me."
+            ]
+        }
+    ],
+    "contemptuous": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Showing contempt; feeling or expressing disrespect",
+            "synonyms": [
+                "disdainful",
+                "scornful",
+                "derisive",
+                "mocking",
+                "contemptuous"
+            ],
+            "examples": [
+                "He made a contemptuous remark about her plan.",
+                "She gave him a contemptuous look."
+            ]
+        }
+    ],
+    "construe": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To understand or interpret something in a particular way",
+            "synonyms": [
+                "interpret",
+                "understand",
+                "view",
+                "explain",
+                "read (meaning)"
+            ],
+            "examples": [
+                "I construe his silence as disagreement.",
+                "How should we construe these results?"
+            ]
+        }
+    ],
+    "compass": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A tool that shows direction, often using a magnetic needle",
+            "synonyms": [
+                "direction finder",
+                "nav instrument",
+                "bearings tool",
+                "compass"
+            ],
+            "examples": [
+                "The compass helped them find the north direction.",
+                "We used a compass to guide the hike."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "Confidence or courage to do something difficult",
+            "synonyms": [
+                "courage",
+                "heart",
+                "resolve",
+                "boldness",
+                "nerve"
+            ],
+            "examples": [
+                "She didn’t have the compass to speak up.",
+                "I found the compass to make the call."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "To manage or plan to achieve something despite difficulty",
+            "synonyms": [
+                "manage",
+                "arrange",
+                "pull off",
+                "achieve",
+                "manage"
+            ],
+            "examples": [
+                "They compassed the goal in only a few weeks.",
+                "She compassed her way through the problem."
+            ]
+        }
+    ],
+    "clatter": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To make a series of short loud sounds, like items hitting each other",
+            "synonyms": [
+                "rattle",
+                "bang",
+                "clank",
+                "make noise",
+                "crash (light)"
+            ],
+            "examples": [
+                "Keys clattered in his pocket as he moved.",
+                "The dishes clattered when she dropped the tray."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "A series of loud sounds like objects striking each other",
+            "synonyms": [
+                "rattle",
+                "clank",
+                "noise",
+                "jingling",
+                "clatter"
+            ],
+            "examples": [
+                "We heard a clatter from the kitchen.",
+                "The clatter of plates woke the neighbor."
+            ]
+        }
+    ],
+    "criteria": [
+        {
+            "part_of_speech": "noun",
+            "definition": "The rules or standards used to judge or decide something",
+            "synonyms": [
+                "standards",
+                "rules",
+                "benchmarks",
+                "measures",
+                "yardsticks"
+            ],
+            "examples": [
+                "We will use clear criteria to select the winners.",
+                "Your criteria for choosing should be specific."
+            ]
+        }
+    ],
+    "censure": [
+        {
+            "part_of_speech": "noun",
+            "definition": "Serious criticism, especially from an official group",
+            "synonyms": [
+                "criticism",
+                "condemnation",
+                "rebuke",
+                "reprimand",
+                "disapproval"
+            ],
+            "examples": [
+                "The council issued a censure for the misconduct.",
+                "Public censure followed the scandal."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "To criticize or strongly express disapproval officially",
+            "synonyms": [
+                "criticize",
+                "condemn",
+                "rebuke",
+                "reprimand",
+                "disapprove"
+            ],
+            "examples": [
+                "The committee censured the leader for lying.",
+                "They refused to censure the decision publicly."
+            ]
+        }
+    ],
+    "censor": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A person or organization that removes or blocks content deemed inappropriate or harmful",
+            "synonyms": [
+                "censorship official",
+                "restriction authority",
+                "reviewer (content)",
+                "censor"
+            ],
+            "examples": [
+                "The censor reviewed the film before release.",
+                "A censor may block certain words."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "To remove, forbid, or edit content because it is considered unacceptable",
+            "synonyms": [
+                "ban",
+                "block",
+                "forbid",
+                "restrict",
+                "edit out"
+            ],
+            "examples": [
+                "They censored the article to avoid sensitive information.",
+                "The government censored the news coverage."
+            ]
+        }
+    ],
+    "catalyst": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A person or thing that causes change or makes a process happen faster",
+            "synonyms": [
+                "trigger",
+                "stimulus",
+                "agent",
+                "facilitator",
+                "accelerator"
+            ],
+            "examples": [
+                "The new manager was a catalyst for improvement.",
+                "Her feedback acted as a catalyst for change."
+            ]
+        }
+    ],
+    "consequence": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A result or effect of an action or situation",
+            "synonyms": [
+                "result",
+                "effect",
+                "outcome",
+                "ramification",
+                "repercussion"
+            ],
+            "examples": [
+                "There are serious consequences to breaking the rule.",
+                "The accident had unexpected consequences."
+            ]
+        }
+    ],
+    "corollary": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A conclusion that follows naturally from another statement or result",
+            "synonyms": [
+                "result",
+                "conclusion",
+                "derivative (general)",
+                "inevitable outcome",
+                "follow-on"
+            ],
+            "examples": [
+                "One corollary of the policy is lower costs.",
+                "The study showed a corollary that improved safety."
+            ]
+        }
+    ],
+    "caustic": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Strongly critical in a harsh and cutting way",
+            "synonyms": [
+                "biting",
+                "harsh",
+                "scathing",
+                "acerbic",
+                "witty (sharp)"
+            ],
+            "examples": [
+                "Her caustic remarks upset the team.",
+                "The review was caustic but fair."
+            ]
+        }
+    ],
+    "crack": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A sudden sharp sound",
+            "synonyms": [
+                "snap",
+                "crack",
+                "pop",
+                "bang",
+                "burst"
+            ],
+            "examples": [
+                "There was a crack in the ice.",
+                "I heard a crack from the wall."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "To break suddenly with an irregular sound; also, to become damaged with a line",
+            "synonyms": [
+                "break",
+                "split",
+                "fracture",
+                "split",
+                "crack"
+            ],
+            "examples": [
+                "The phone cracked when it fell.",
+                "Don’t step on that; it might crack."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "To solve or understand something difficult",
+            "synonyms": [
+                "solve",
+                "figure out",
+                "work out",
+                "crack (code)",
+                "decipher"
+            ],
+            "examples": [
+                "They cracked the code in two days.",
+                "She cracked the math problem quickly."
+            ]
+        }
+    ],
+    "crisp": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Clear, sharp, and easy to understand; also, not soft or wet",
+            "synonyms": [
+                "clear",
+                "sharp",
+                "crisp (clear)",
+                "firm",
+                "fresh"
+            ],
+            "examples": [
+                "She gave a crisp summary of the plan.",
+                "The air felt crisp after the rain."
+            ]
+        }
+    ],
+    "catalog": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To arrange and record items in a list or system so they can be found later",
+            "synonyms": [
+                "index",
+                "list",
+                "record",
+                "classify",
+                "organize"
+            ],
+            "examples": [
+                "The library cataloged the new books by subject.",
+                "They cataloged the artifacts for the museum."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "A list or organized set of items, often with descriptions",
+            "synonyms": [
+                "list",
+                "index",
+                "inventory",
+                "reference book",
+                "catalog"
+            ],
+            "examples": [
+                "The store sent a catalog with prices.",
+                "I looked through the catalog for a new model."
+            ]
+        }
+    ],
+    "corrode": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To slowly damage metal or other materials by chemical reactions",
+            "synonyms": [
+                "erode",
+                "rust",
+                "eat away",
+                "damage",
+                "wear away"
+            ],
+            "examples": [
+                "Salt water can corrode steel.",
+                "The pipe corroded over time and started leaking."
+            ]
+        }
+    ],
+    "chafing": [
+        {
+            "part_of_speech": "noun",
+            "definition": "Irritation of skin caused by rubbing",
+            "synonyms": [
+                "irritation",
+                "scraping",
+                "rash from friction",
+                "friction burn"
+            ],
+            "examples": [
+                "Chafing can happen if your clothes rub the skin.",
+                "She applied cream to prevent chafing."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "To cause irritation by rubbing",
+            "synonyms": [
+                "rub",
+                "irritate",
+                "wrestle (no)",
+                "wear (down)"
+            ],
+            "examples": [
+                "The shoes chafed her heel after an hour."
+            ]
+        }
+    ],
+    "conjecture": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A guess or opinion based on incomplete information",
+            "synonyms": [
+                "guess",
+                "speculation",
+                "supposition",
+                "estimate",
+                "theory"
+            ],
+            "examples": [
+                "We made a conjecture about the cause of the problem.",
+                "His explanation was more conjecture than proof."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "To guess or speculate about something without complete evidence",
+            "synonyms": [
+                "guess",
+                "speculate",
+                "suppose",
+                "estimate",
+                "assume"
+            ],
+            "examples": [
+                "They conjectured that the delay was caused by weather.",
+                "I conjecture that she will resign soon."
+            ]
+        }
+    ],
+    "compel": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To force someone to do something, often by law or strong pressure",
+            "synonyms": [
+                "force",
+                "press",
+                "compel",
+                "drive",
+                "oblige"
+            ],
+            "examples": [
+                "The contract compels the company to pay on time.",
+                "They were compelled to leave due to safety rules."
+            ]
+        }
+    ],
+    "constrain": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To limit what someone can do; to force boundaries on action",
+            "synonyms": [
+                "restrict",
+                "limit",
+                "curb",
+                "restrain",
+                "impose limits"
+            ],
+            "examples": [
+                "The rules constrain how we can advertise.",
+                "Lack of time constrained their choices."
+            ]
+        }
+    ],
+    "coerce": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To force someone to do something by threats or pressure",
+            "synonyms": [
+                "force",
+                "threaten",
+                "compel",
+                "pressure",
+                "intimidate"
+            ],
+            "examples": [
+                "They coerced him into signing the papers.",
+                "The agreement was reached without coercion."
+            ]
+        }
+    ],
+    "choose": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To pick one option from a set of possibilities",
+            "synonyms": [
+                "select",
+                "pick",
+                "opt for",
+                "determine",
+                "decide"
+            ],
+            "examples": [
+                "I choose the red one because it’s cheaper.",
+                "They chose to walk instead of taking a taxi."
+            ]
+        }
+    ],
+    "cutlass": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A short heavy sword, often associated with sailors and pirates",
+            "synonyms": [
+                "short sword",
+                "naval sword (general)",
+                "blade"
+            ],
+            "examples": [
+                "The captain carried a cutlass at his side.",
+                "They drew the cutlass during the fight."
+            ]
+        }
+    ],
+    "cadence": [
+        {
+            "part_of_speech": "noun",
+            "definition": "The rhythm and pattern of sounds in speech or music",
+            "synonyms": [
+                "rhythm",
+                "beat (music)",
+                "flow",
+                "intonation (context)",
+                "meter"
+            ],
+            "examples": [
+                "Her speech had a steady cadence.",
+                "The poem’s cadence made it easy to follow."
+            ]
+        }
+    ],
+    "colloquy": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A formal conversation or discussion, especially between important people",
+            "synonyms": [
+                "discussion",
+                "conversation",
+                "talk",
+                "dialogue (formal)",
+                "meeting"
+            ],
+            "examples": [
+                "The colloquy lasted for two hours.",
+                "The panel held a colloquy with the audience."
+            ]
+        }
     ]
 }

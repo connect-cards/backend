@@ -1,0 +1,60 @@
+{
+  "date": "2026-04-24",
+  "version": 1,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "thematic_association",
+      "difficulty": 1,
+      "title": "Small kinds of conflict or disorder",
+      "words": [
+        "scuffle",
+        "tussle",
+        "skirmish",
+        "brawl"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "etymological_relation",
+      "difficulty": 2,
+      "title": "From the Latin for “to bind”",
+      "words": [
+        "implicate",
+        "compel",
+        "constrain",
+        "inhibit"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "literary_register",
+      "difficulty": 3,
+      "title": "Tidy, lawlike statements",
+      "words": [
+        "terse",
+        "laconic",
+        "judicious",
+        "sententious"
+      ]
+    },
+    {
+      "id": "g4",
+      "type": "synonym",
+      "difficulty": 4,
+      "title": "Ruthless or relentless (single best fit)",
+      "words": [
+        "merciless",
+        "implacable",
+        "stern",
+        "unrelenting"
+      ]
+    }
+  ]
+}

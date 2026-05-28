@@ -38,5 +38,37 @@
                 "She answered with a quick yo."
             ]
         }
+    ],
+    "yardstick": [
+        {
+            "part_of_speech": "noun",
+            "definition": "Something used as a standard for measuring or comparing",
+            "synonyms": [
+                "standard",
+                "benchmark",
+                "measure",
+                "basis",
+                "reference point"
+            ],
+            "examples": [
+                "Customer satisfaction is a yardstick for quality.",
+                "We used time as a yardstick to compare the teams."
+            ]
+        }
+    ],
+    "year": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A period of time equal to 12 months",
+            "synonyms": [
+                "annual period",
+                "twelve-month period",
+                "calendar year"
+            ],
+            "examples": [
+                "I started my job last year.",
+                "We meet every year at the festival."
+            ]
+        }
     ]
 }

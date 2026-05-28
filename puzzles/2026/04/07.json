@@ -1,0 +1,60 @@
+{
+  "date": "2026-04-07",
+  "version": 1,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "informal_register",
+      "difficulty": 1,
+      "title": "Folks, casually",
+      "words": [
+        "bloke",
+        "lad",
+        "fella",
+        "chap"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "profession_domain",
+      "difficulty": 2,
+      "title": "Medical staff roles",
+      "words": [
+        "paramedic",
+        "pharmacist",
+        "anesthetist",
+        "nurse"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "morphological_family",
+      "difficulty": 3,
+      "title": "Words built around 'audit'",
+      "words": [
+        "auditor",
+        "audit",
+        "auditable",
+        "auditing"
+      ]
+    },
+    {
+      "id": "g4",
+      "type": "emotional_tone",
+      "difficulty": 4,
+      "title": "Restraint, not anger",
+      "words": [
+        "stoic",
+        "composed",
+        "imperturbable",
+        "restrained"
+      ]
+    }
+  ]
+}

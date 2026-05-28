@@ -441,5 +441,651 @@
                 "In the story, the raven spoke."
             ]
         }
+    ],
+    "radiologist": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A doctor who diagnoses and treats disease using medical imaging, such as X-rays and scans",
+            "synonyms": [
+                "imaging doctor",
+                "medical imaging specialist",
+                "X-ray doctor",
+                "diagnostic radiologist"
+            ],
+            "examples": [
+                "The radiologist reported that the scan looked normal.",
+                "He is a radiologist at the local clinic."
+            ]
+        }
+    ],
+    "retribution": [
+        {
+            "part_of_speech": "noun",
+            "definition": "Punishment for wrongdoing, especially when it is meant to be deserved",
+            "synonyms": [
+                "punishment",
+                "vengeance",
+                "payback",
+                "satisfaction",
+                "just desserts"
+            ],
+            "examples": [
+                "The court ordered retribution for the crime.",
+                "She wanted retribution rather than forgiveness."
+            ]
+        }
+    ],
+    "resentful": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Feeling angry or bitter because you think you were treated unfairly",
+            "synonyms": [
+                "angry",
+                "bitter",
+                "hostile",
+                "resenting",
+                "grudging"
+            ],
+            "examples": [
+                "She is resentful about the way they ignored her ideas.",
+                "He felt resentful after losing the promotion."
+            ]
+        }
+    ],
+    "retain": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To keep something or continue to have something",
+            "synonyms": [
+                "keep",
+                "hold",
+                "maintain",
+                "preserve",
+                "save"
+            ],
+            "examples": [
+                "Try to retain the information by reviewing it daily.",
+                "The company retained its old customers."
+            ]
+        }
+    ],
+    "regard": [
+        {
+            "part_of_speech": "noun",
+            "definition": "Attention or respect shown to someone or something",
+            "synonyms": [
+                "respect",
+                "consideration",
+                "attention",
+                "esteem",
+                "regard"
+            ],
+            "examples": [
+                "The teacher has high regard for her students.",
+                "Give the plan careful regard before you decide."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "To see or consider someone or something in a particular way",
+            "synonyms": [
+                "consider",
+                "view",
+                "think",
+                "judge",
+                "treat"
+            ],
+            "examples": [
+                "I regard her as an excellent leader.",
+                "They regarded the offer as unfair."
+            ]
+        }
+    ],
+    "regale": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To entertain someone by telling stories or giving interesting information",
+            "synonyms": [
+                "entertain",
+                "delight",
+                "enthrall",
+                "charm",
+                "delight"
+            ],
+            "examples": [
+                "She regaled us with stories from her travels.",
+                "He regaled the group during dinner."
+            ]
+        }
+    ],
+    "restrained": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Controlled and not showing too much emotion",
+            "synonyms": [
+                "controlled",
+                "calm",
+                "subdued",
+                "reserved",
+                "muted"
+            ],
+            "examples": [
+                "Her voice was restrained during the argument.",
+                "He gave a restrained smile."
+            ]
+        }
+    ],
+    "repair": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To restore something to good condition after damage",
+            "synonyms": [
+                "fix",
+                "mend",
+                "restore",
+                "renew",
+                "service"
+            ],
+            "examples": [
+                "They repaired the broken window before the storm.",
+                "Can you repair the printer?"
+            ]
+        }
+    ],
+    "restore": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To bring something back to its original condition or state",
+            "synonyms": [
+                "rebuild",
+                "renew",
+                "reestablish",
+                "return",
+                "revive"
+            ],
+            "examples": [
+                "They restored the old painting carefully.",
+                "The team restored power after the outage."
+            ]
+        }
+    ],
+    "rumble": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To make a deep continuous sound, or to move heavily",
+            "synonyms": [
+                "growl",
+                "murmur (low)",
+                "roll",
+                "grumble",
+                "thunder (low)"
+            ],
+            "examples": [
+                "Thunder rumbled in the distance.",
+                "The truck rumbled down the road."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "A deep continuous sound, often from thunder or engines",
+            "synonyms": [
+                "growl",
+                "thunder (distant)",
+                "rolling sound",
+                "low sound"
+            ],
+            "examples": [
+                "There was a rumble above us before the storm."
+            ]
+        }
+    ],
+    "rattle": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To make a quick series of small hard sounds",
+            "synonyms": [
+                "clatter",
+                "jingle",
+                "shake",
+                "rattle",
+                "tumble"
+            ],
+            "examples": [
+                "The window rattled in the wind.",
+                "The motor rattle got worse."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "A series of short hard sounds",
+            "synonyms": [
+                "clatter",
+                "rattle",
+                "jingle",
+                "rapping"
+            ],
+            "examples": [
+                "The rattle in the car sounded like a loose part."
+            ]
+        }
+    ],
+    "recede": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To move back or become farther away",
+            "synonyms": [
+                "withdraw",
+                "move back",
+                "go back",
+                "retreat",
+                "diminish (gradually)"
+            ],
+            "examples": [
+                "The crowd began to recede as police arrived.",
+                "His anger receded after a few minutes."
+            ]
+        }
+    ],
+    "restive": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Unable to stay calm or still; restless",
+            "synonyms": [
+                "restless",
+                "impatient",
+                "fidgety",
+                "uneasy",
+                "agitated"
+            ],
+            "examples": [
+                "The restive student kept moving in his seat.",
+                "He became restive while waiting for the results."
+            ]
+        }
+    ],
+    "ruddy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Having a reddish or healthy rosy color, especially in the face",
+            "synonyms": [
+                "rosy",
+                "reddish",
+                "healthy-looking",
+                "red-cheeked",
+                "ruddy (red)"
+            ],
+            "examples": [
+                "She has a ruddy complexion.",
+                "He looked ruddy after being outside in the cold."
+            ]
+        }
+    ],
+    "require": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To need something or make something necessary",
+            "synonyms": [
+                "need",
+                "demand",
+                "requirement (need)",
+                "call for",
+                "necessitate"
+            ],
+            "examples": [
+                "This job requires patience and attention to detail.",
+                "The policy requires all employees to sign in."
+            ]
+        }
+    ],
+    "request": [
+        {
+            "part_of_speech": "noun",
+            "definition": "An official or polite asking for something",
+            "synonyms": [
+                "ask",
+                "plea",
+                "appeal",
+                "entreaty",
+                "request"
+            ],
+            "examples": [
+                "She made a request for more time.",
+                "I received a request for information."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "To ask for something politely or formally",
+            "synonyms": [
+                "ask",
+                "seek",
+                "plead",
+                "demand",
+                "call for"
+            ],
+            "examples": [
+                "They requested a meeting with the director.",
+                "Can you request a copy of the form?"
+            ]
+        }
+    ],
+    "ratiocinate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To reason in a logical way, often carefully and step by step",
+            "synonyms": [
+                "reason",
+                "argue",
+                "deduce",
+                "infer",
+                "logically work out"
+            ],
+            "examples": [
+                "She ratiocinated through the problem before answering.",
+                "The professor ratiocinated to show how the conclusion followed."
+            ]
+        }
+    ],
+    "rationale": [
+        {
+            "part_of_speech": "noun",
+            "definition": "The reason or justification for an action or decision",
+            "synonyms": [
+                "reasoning",
+                "justification",
+                "explanation",
+                "basis",
+                "logic"
+            ],
+            "examples": [
+                "The report included a rationale for the new policy.",
+                "We need a clear rationale before changing the plan."
+            ]
+        }
+    ],
+    "ratiocination": [
+        {
+            "part_of_speech": "noun",
+            "definition": "The process of reasoning logically to reach a conclusion",
+            "synonyms": [
+                "reasoning",
+                "logical thinking",
+                "argument",
+                "deduction",
+                "inference"
+            ],
+            "examples": [
+                "The ratiocination in her argument was easy to follow.",
+                "His ratiocination led to a strong conclusion."
+            ]
+        }
+    ],
+    "reasonable": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Fair, sensible, and not extreme",
+            "synonyms": [
+                "sensible",
+                "fair",
+                "logical",
+                "moderate",
+                "practical"
+            ],
+            "examples": [
+                "That is a reasonable request.",
+                "We have a reasonable plan for the project."
+            ]
+        }
+    ],
+    "reveal": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To make something known or visible that was hidden before",
+            "synonyms": [
+                "show",
+                "uncover",
+                "disclose",
+                "expose",
+                "display"
+            ],
+            "examples": [
+                "The report revealed several problems.",
+                "Her smile revealed how she felt."
+            ]
+        }
+    ],
+    "resolute": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Firm and determined; not giving up easily",
+            "synonyms": [
+                "determined",
+                "firm",
+                "unyielding",
+                "steadfast",
+                "decisive"
+            ],
+            "examples": [
+                "She remained resolute even under pressure.",
+                "He was resolute in his decision to leave."
+            ]
+        }
+    ],
+    "recoil": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To move back suddenly because of fear, pain, or disgust",
+            "synonyms": [
+                "back off",
+                "shrink",
+                "jerk back",
+                "flinch",
+                "retreat"
+            ],
+            "examples": [
+                "He recoiled when the snake appeared.",
+                "She recoiled from the smell."
+            ]
+        }
+    ],
+    "recant": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To withdraw a statement, especially an opinion or claim, because it was wrong",
+            "synonyms": [
+                "withdraw",
+                "take back",
+                "retract",
+                "renounce",
+                "abandon"
+            ],
+            "examples": [
+                "He recanted his earlier claim after new evidence appeared.",
+                "The witness recanted in court."
+            ]
+        }
+    ],
+    "retract": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To withdraw a statement or decision, saying it was not correct",
+            "synonyms": [
+                "withdraw",
+                "take back",
+                "recant",
+                "undo (decision)",
+                "rescind"
+            ],
+            "examples": [
+                "She retracted the accusation later.",
+                "The company retracted its statement."
+            ]
+        }
+    ],
+    "refrain": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To stop yourself from doing something; avoid doing it",
+            "synonyms": [
+                "avoid",
+                "stop",
+                "hold back",
+                "prevent (self)",
+                "resist"
+            ],
+            "examples": [
+                "I refrained from commenting during the meeting.",
+                "Try to refrain from using your phone while driving."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "A repeated line or phrase in a song",
+            "synonyms": [
+                "chorus",
+                "repeated line",
+                "refrain",
+                "hook"
+            ],
+            "examples": [
+                "The chorus includes a short refrain.",
+                "The refrain repeats after every verse."
+            ]
+        }
+    ],
+    "repudiate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To refuse to accept something, reject it, or deny responsibility",
+            "synonyms": [
+                "reject",
+                "refuse",
+                "deny",
+                "disown",
+                "abandon"
+            ],
+            "examples": [
+                "She repudiated the rumor and called it false.",
+                "The company repudiated any wrongdoing."
+            ]
+        }
+    ],
+    "rebuff": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To reject someone’s offer, attempt, or request in a forceful or unfriendly way",
+            "synonyms": [
+                "reject",
+                "refuse",
+                "turn down",
+                "dismiss",
+                "rebuff"
+            ],
+            "examples": [
+                "He tried to help, but she rebuffed him.",
+                "The committee rebuffed the proposal."
+            ]
+        }
+    ],
+    "resist": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To oppose something or prevent it from affecting you",
+            "synonyms": [
+                "withstand",
+                "oppose",
+                "fight",
+                "hinder",
+                "stop"
+            ],
+            "examples": [
+                "It’s hard to resist temptation.",
+                "The material resists water well."
+            ]
+        }
+    ],
+    "raider": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A person or group that attacks or steals from places",
+            "synonyms": [
+                "attacker",
+                "plunderer",
+                "assailant",
+                "raider",
+                "pillager"
+            ],
+            "examples": [
+                "The raider stole supplies from the village.",
+                "Coast guards searched for a raider on the ship."
+            ]
+        }
+    ],
+    "radiance": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A bright shining quality; strong and beautiful light",
+            "synonyms": [
+                "brightness",
+                "glow",
+                "splendor",
+                "illumination",
+                "radiance"
+            ],
+            "examples": [
+                "Her smile filled the room with radiance.",
+                "At sunset, the radiance of the sky was stunning."
+            ]
+        }
+    ],
+    "resonant": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Having a strong, clear sound or quality that carries well",
+            "synonyms": [
+                "echoing",
+                "sonorous",
+                "ringing",
+                "reverberant",
+                "harmonious (sound)"
+            ],
+            "examples": [
+                "The hall has a resonant sound for concerts.",
+                "His voice was resonant in the large room."
+            ]
+        }
+    ],
+    "reverberate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To continue ringing or echoing after the sound is made",
+            "synonyms": [
+                "echo",
+                "resound",
+                "ring",
+                "reverberate",
+                "sound on"
+            ],
+            "examples": [
+                "The applause reverberated through the hall.",
+                "Her footsteps reverberated in the empty corridor."
+            ]
+        }
+    ],
+    "recital": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A public performance of music or speech, usually by one person",
+            "synonyms": [
+                "performance",
+                "presentation",
+                "concert (small)",
+                "program (performance)"
+            ],
+            "examples": [
+                "She gave a piano recital at the school auditorium.",
+                "The recital featured classical pieces."
+            ]
+        }
     ]
 }

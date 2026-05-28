@@ -665,5 +665,397 @@
                 "We are good buddies."
             ]
         }
+    ],
+    "blunder": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A serious mistake caused by carelessness or poor judgment",
+            "synonyms": [
+                "mistake",
+                "error",
+                "faux pas",
+                "misstep",
+                "gaffe"
+            ],
+            "examples": [
+                "Leaving the door open was a blunder.",
+                "It was a blunder to sign without reading the terms."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "To make a serious mistake",
+            "synonyms": [
+                "mess up",
+                "mistake",
+                "err",
+                "misstep",
+                "fumble"
+            ],
+            "examples": [
+                "He blundered by sending the email to the wrong person.",
+                "I blundered and booked the wrong date."
+            ]
+        }
+    ],
+    "bungle": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To do something badly because you make mistakes",
+            "synonyms": [
+                "botch",
+                "mess up",
+                "fumble",
+                "blunder",
+                "bungle"
+            ],
+            "examples": [
+                "They bungled the task and had to start over.",
+                "I bungled the calculation and got the wrong answer."
+            ]
+        }
+    ],
+    "bleak": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Cold, empty, and unpleasant; also, offering little hope",
+            "synonyms": [
+                "dismal",
+                "gloomy",
+                "hopeless",
+                "grim",
+                "dreary"
+            ],
+            "examples": [
+                "The bleak landscape looked icy and silent.",
+                "She felt bleak about her chances."
+            ]
+        }
+    ],
+    "behold": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To see something, especially something impressive",
+            "synonyms": [
+                "see",
+                "watch",
+                "look at",
+                "observe",
+                "view"
+            ],
+            "examples": [
+                "Behold the view from the top of the hill.",
+                "The crowd stood still to behold the parade."
+            ]
+        }
+    ],
+    "bolter": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A person or animal that suddenly escapes or runs away",
+            "synonyms": [
+                "fugitive",
+                "escapee",
+                "runaway",
+                "deserter",
+                "bolt (person)"
+            ],
+            "examples": [
+                "The police caught the bolter near the station.",
+                "A bolter escaped from the yard."
+            ]
+        }
+    ],
+    "blunt": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Not sharp; having a dull edge or tip",
+            "synonyms": [
+                "dull",
+                "not sharp",
+                "rounded",
+                "unsharp",
+                "heavy (of knife)"
+            ],
+            "examples": [
+                "Be careful, the knife is blunt.",
+                "The blade is blunt, so it won’t cut well."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "Direct and not trying to be polite or soft",
+            "synonyms": [
+                "direct",
+                "frank",
+                "straight",
+                "candid",
+                "plainspoken"
+            ],
+            "examples": [
+                "He gave a blunt answer.",
+                "Her blunt criticism surprised everyone."
+            ]
+        }
+    ],
+    "blueprint": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A detailed plan or drawing for building a structure or doing a project",
+            "synonyms": [
+                "plan",
+                "schematic",
+                "design",
+                "blueprint (plan)",
+                "architectural drawing"
+            ],
+            "examples": [
+                "The engineers followed the blueprint for the bridge.",
+                "We reviewed the blueprint before starting work."
+            ]
+        }
+    ],
+    "beguiling": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Charming and attractive, sometimes in a way that tricks people",
+            "synonyms": [
+                "charming",
+                "alluring",
+                "captivating",
+                "tempting",
+                "seductive"
+            ],
+            "examples": [
+                "Her smile was beguiling, but her story didn’t add up.",
+                "He used beguiling words to avoid the truth."
+            ]
+        }
+    ],
+    "benchmark": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A standard or reference point used for comparison",
+            "synonyms": [
+                "standard",
+                "yardstick",
+                "reference point",
+                "target",
+                "baseline"
+            ],
+            "examples": [
+                "This score is our benchmark for improvement.",
+                "The team set a benchmark for response times."
+            ]
+        }
+    ],
+    "brand": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A particular company’s product name or identity, often with its own design and reputation",
+            "synonyms": [
+                "label",
+                "company brand",
+                "product line (general)",
+                "mark",
+                "trademark"
+            ],
+            "examples": [
+                "That brand is known for good quality.",
+                "We chose a new brand for the campaign."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "To mark or identify something by putting a name or symbol on it",
+            "synonyms": [
+                "label",
+                "identify",
+                "mark",
+                "stamp",
+                "name"
+            ],
+            "examples": [
+                "They branded the boxes with the delivery date.",
+                "The company brands its products with a logo."
+            ]
+        }
+    ],
+    "beget": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To cause something, especially an outcome such as a feeling or problem",
+            "synonyms": [
+                "cause",
+                "bring about",
+                "produce",
+                "generate",
+                "create"
+            ],
+            "examples": [
+                "The delay beget ed more confusion.",
+                "New rules can beget unexpected results."
+            ]
+        }
+    ],
+    "barbed": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Having sharp points; also, said in a sharp or insulting way",
+            "synonyms": [
+                "sharp",
+                "prickly",
+                "biting",
+                "hostile",
+                "hostile (words)"
+            ],
+            "examples": [
+                "A barbed wire fence surrounds the property.",
+                "He made a barbed comment about her accent."
+            ]
+        }
+    ],
+    "blizzard": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A severe snowstorm with strong winds and low visibility",
+            "synonyms": [
+                "snowstorm",
+                "snow blizzard",
+                "whiteout (context)",
+                "storm"
+            ],
+            "examples": [
+                "A blizzard forced the flight to cancel.",
+                "We stayed indoors during the blizzard."
+            ]
+        }
+    ],
+    "brawl": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A noisy, violent fight, often involving several people",
+            "synonyms": [
+                "fight",
+                "brawl",
+                "scuffle",
+                "street fight",
+                "scrap"
+            ],
+            "examples": [
+                "A brawl started outside the bar.",
+                "The brawl lasted only a few minutes."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "To fight in a noisy and violent way",
+            "synonyms": [
+                "fight",
+                "scuffle",
+                "scrap",
+                "brawl",
+                "riot"
+            ],
+            "examples": [
+                "Two groups brawled after the game.",
+                "They brawled over a misunderstanding."
+            ]
+        }
+    ],
+    "bicker": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To argue about small issues repeatedly",
+            "synonyms": [
+                "argue",
+                "quarrel",
+                "bicker",
+                "snap (informal)",
+                "row (informal)"
+            ],
+            "examples": [
+                "They bicker over money every month.",
+                "Stop bickering and focus on the task."
+            ]
+        }
+    ],
+    "broadsword": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A large sword with a wide blade",
+            "synonyms": [
+                "wide-bladed sword",
+                "large sword",
+                "blade"
+            ],
+            "examples": [
+                "The warrior held a broadsword in both hands.",
+                "A broadsword can be heavy and difficult to control."
+            ]
+        }
+    ],
+    "beam": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A long thick piece of metal or wood used to support a structure",
+            "synonyms": [
+                "girder",
+                "support beam",
+                "bar",
+                "support"
+            ],
+            "examples": [
+                "The roof collapsed because the main beam was damaged.",
+                "They installed a new beam in the ceiling."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "To send out light, radio signals, or energy in a direction",
+            "synonyms": [
+                "send",
+                "project",
+                "transmit",
+                "radiate",
+                "broadcast"
+            ],
+            "examples": [
+                "The satellite beams signals to Earth.",
+                "A spotlight beamed across the room."
+            ]
+        }
+    ],
+    "banter": [
+        {
+            "part_of_speech": "noun",
+            "definition": "Playful and friendly conversation, often with jokes",
+            "synonyms": [
+                "teasing",
+                "joking",
+                "chatter",
+                "banter",
+                "light talk"
+            ],
+            "examples": [
+                "They spent the evening in banter and laughter.",
+                "There was friendly banter between the two teams."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "To exchange playful remarks",
+            "synonyms": [
+                "joke",
+                "tease",
+                "chat",
+                "banter",
+                "jest"
+            ],
+            "examples": [
+                "They bantered while waiting for the train.",
+                "The friends bantered about sports."
+            ]
+        }
     ]
 }

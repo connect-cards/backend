@@ -384,5 +384,281 @@
                 "His explanation was murky."
             ]
         }
+    ],
+    "murmur": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To speak quietly or speak with soft, unclear sounds",
+            "synonyms": [
+                "whisper",
+                "mutter",
+                "speak softly",
+                "rumble",
+                "grumble"
+            ],
+            "examples": [
+                "The crowd murmured when they heard the news.",
+                "He murmured a quick apology."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "A soft continuous sound, often made by people speaking quietly",
+            "synonyms": [
+                "whisper",
+                "murmuring sound",
+                "low sound",
+                "hush (sound)",
+                "murmur"
+            ],
+            "examples": [
+                "We could hear a murmur in the hallway.",
+                "A murmur of voices filled the waiting room."
+            ]
+        }
+    ],
+    "maintain": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To continue having, keeping, or doing something",
+            "synonyms": [
+                "keep",
+                "sustain",
+                "preserve",
+                "continue",
+                "support"
+            ],
+            "examples": [
+                "You should maintain a healthy routine.",
+                "The staff maintain the building every month."
+            ]
+        }
+    ],
+    "metaphor": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A figure of speech that describes something by comparing it directly to something else",
+            "synonyms": [
+                "comparison (figurative)",
+                "symbol (figurative)",
+                "analogy (closer meaning)",
+                "figure of speech"
+            ],
+            "examples": [
+                "The author used a metaphor to describe time as a thief.",
+                "In that metaphor, the city becomes a living creature."
+            ]
+        }
+    ],
+    "motif": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A repeated idea, image, or theme in art, music, or writing",
+            "synonyms": [
+                "theme",
+                "recurring idea",
+                "pattern",
+                "refrain (in music)",
+                "leitmotif"
+            ],
+            "examples": [
+                "A motif of light appears throughout the novel.",
+                "The composer repeated the motif in several movements."
+            ]
+        }
+    ],
+    "mend": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To fix or repair something that is broken or damaged",
+            "synonyms": [
+                "repair",
+                "fix",
+                "restore",
+                "set right",
+                "patch"
+            ],
+            "examples": [
+                "They mended the torn page with tape.",
+                "The mechanic repaired the bike and made sure it was safe."
+            ]
+        }
+    ],
+    "manhandle": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To handle something roughly or forcefully, often causing damage",
+            "synonyms": [
+                "handle roughly",
+                "treat roughly",
+                "force",
+                "rough up",
+                "move roughly"
+            ],
+            "examples": [
+                "Don’t manhandle the equipment; carry it carefully.",
+                "He manhandled the box and broke the corner."
+            ]
+        }
+    ],
+    "metrics": [
+        {
+            "part_of_speech": "noun",
+            "definition": "Numbers or measurements used to track performance or results",
+            "synonyms": [
+                "measures",
+                "indicators",
+                "statistics",
+                "data points",
+                "KPIs"
+            ],
+            "examples": [
+                "The company uses metrics to monitor customer service.",
+                "We need better metrics for the new system."
+            ]
+        }
+    ],
+    "muffle": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To reduce the sound of something by covering it",
+            "synonyms": [
+                "soften",
+                "dampen",
+                "reduce",
+                "cover",
+                "muffle"
+            ],
+            "examples": [
+                "The thick curtain muffled the noise.",
+                "He muffled his voice to avoid waking others."
+            ]
+        }
+    ],
+    "melodious": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Pleasant to hear, with a musical quality",
+            "synonyms": [
+                "harmonious",
+                "sweet-sounding",
+                "tuneful",
+                "euphonious",
+                "music-like"
+            ],
+            "examples": [
+                "The singer gave a melodious performance.",
+                "The flute played a melodious melody."
+            ]
+        }
+    ],
+    "moustache": [
+        {
+            "part_of_speech": "noun",
+            "definition": "Hair grown above the upper lip",
+            "synonyms": [
+                "upper-lip hair",
+                "facial hair",
+                "mustache (US)"
+            ],
+            "examples": [
+                "He trimmed his moustache before the photo.",
+                "Her moustache looked neat and tidy."
+            ]
+        }
+    ],
+    "merciless": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Without mercy; extremely harsh and not kind",
+            "synonyms": [
+                "cruel",
+                "relentless",
+                "unforgiving",
+                "harsh",
+                "implacable"
+            ],
+            "examples": [
+                "The attack was merciless.",
+                "He faced merciless criticism from the press."
+            ]
+        }
+    ],
+    "metre": [
+        {
+            "part_of_speech": "noun",
+            "definition": "The pattern of beats and rhythm in poetry",
+            "synonyms": [
+                "meter",
+                "rhythm",
+                "poetic rhythm",
+                "beat pattern",
+                "verse structure"
+            ],
+            "examples": [
+                "The poem follows a regular metre.",
+                "Metre helps define the rhythm in the lines."
+            ]
+        }
+    ],
+    "monitor": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To watch or check something regularly to see how it changes",
+            "synonyms": [
+                "observe",
+                "check",
+                "track",
+                "supervise",
+                "keep an eye on"
+            ],
+            "examples": [
+                "They monitor the patient’s condition every hour.",
+                "The system monitors traffic in real time."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "A device used to display or track information, especially in hospitals or computers",
+            "synonyms": [
+                "display",
+                "screen",
+                "patient monitor",
+                "monitor"
+            ],
+            "examples": [
+                "The doctor looked at the monitor to check her heart rate."
+            ]
+        }
+    ],
+    "murk": [
+        {
+            "part_of_speech": "noun",
+            "definition": "Darkness or confusion, especially in the atmosphere or a difficult situation",
+            "synonyms": [
+                "darkness",
+                "gloom",
+                "shadow",
+                "murkiness",
+                "fog"
+            ],
+            "examples": [
+                "The path was hard to see in the murk.",
+                "Murk surrounded the building as the fog thickened."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "To make something dark or unclear",
+            "synonyms": [
+                "darken",
+                "blur",
+                "cloud",
+                "obscure"
+            ],
+            "examples": [
+                "The fog murked the street and reduced visibility."
+            ]
+        }
     ]
 }

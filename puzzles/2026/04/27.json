@@ -1,0 +1,60 @@
+{
+  "date": "2026-04-27",
+  "version": 1,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "informal_register",
+      "difficulty": 1,
+      "title": "Quick Decisions",
+      "words": [
+        "decide",
+        "choose",
+        "pick",
+        "determine"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "profession_domain",
+      "difficulty": 2,
+      "title": "Financial Street Talk (Legit)",
+      "words": [
+        "ledger",
+        "debt",
+        "interest",
+        "credit"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "morphological_family",
+      "difficulty": 3,
+      "title": "Relatives of -scrib- (writing)",
+      "words": [
+        "scribble",
+        "describe",
+        "prescribe",
+        "inscription"
+      ]
+    },
+    {
+      "id": "g4",
+      "type": "thematic_association",
+      "difficulty": 4,
+      "title": "Archaic Judgments",
+      "words": [
+        "wherein",
+        "henceforth",
+        "whereas",
+        "therein"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "date": "2026-04-09",
+  "version": 1,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "d1-easy",
+      "type": "informal_register",
+      "difficulty": 1,
+      "title": "Casual wanderers",
+      "words": [
+        "stroll",
+        "amble",
+        "ramble",
+        "roam"
+      ]
+    },
+    {
+      "id": "d1-medium",
+      "type": "semantic_field",
+      "difficulty": 2,
+      "title": "Signs of darkness",
+      "words": [
+        "murky",
+        "obscure",
+        "dimmed",
+        "hazy"
+      ]
+    },
+    {
+      "id": "d1-hard",
+      "type": "physical_trait",
+      "difficulty": 3,
+      "title": "Speech that cuts off",
+      "words": [
+        "laconic",
+        "terse",
+        "curt",
+        "blunt"
+      ]
+    },
+    {
+      "id": "d1-vhard",
+      "type": "etymological_relation",
+      "difficulty": 4,
+      "title": "Tangled threads of meaning",
+      "words": [
+        "weaver",
+        "warp",
+        "fetter",
+        "entangle"
+      ]
+    }
+  ]
+}

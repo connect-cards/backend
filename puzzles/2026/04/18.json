@@ -1,0 +1,60 @@
+{
+  "date": "2026-04-18",
+  "version": 1,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "physical_trait",
+      "difficulty": 1,
+      "title": "Texture of lightness",
+      "words": [
+        "silken",
+        "feathery",
+        "airy",
+        "gossamer"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "sound_association",
+      "difficulty": 2,
+      "title": "Low, muffled noises",
+      "words": [
+        "murmur",
+        "muffle",
+        "rumble",
+        "hush"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "informal_register",
+      "difficulty": 3,
+      "title": "Casual evaluation (not always flattering)",
+      "words": [
+        "dodgy",
+        "sketchy",
+        "shoddy",
+        "shabby"
+      ]
+    },
+    {
+      "id": "g4",
+      "type": "semantic_field",
+      "difficulty": 4,
+      "title": "Subtle suspicion about truth",
+      "words": [
+        "equivocal",
+        "tenuous",
+        "dubious",
+        "specious"
+      ]
+    }
+  ]
+}

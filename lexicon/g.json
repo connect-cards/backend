@@ -479,5 +479,194 @@
                 "There was a giggle in the room."
             ]
         }
+    ],
+    "geodesist": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A specialist in geodesy, the science of measuring and understanding the Earth’s shape and gravity",
+            "synonyms": [
+                "geodesist",
+                "geodesy scientist",
+                "earth-measurement specialist",
+                "geodetic scientist"
+            ],
+            "examples": [
+                "The geodesist worked on satellite data for national mapping.",
+                "Geodesists study how the Earth’s surface changes over time."
+            ]
+        }
+    ],
+    "gustatory": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Related to taste and the sense of taste",
+            "synonyms": [
+                "taste-related",
+                "taste-sensing",
+                "flavor-related",
+                "tongue-related"
+            ],
+            "examples": [
+                "Her gustatory sense helps her recognize different spices.",
+                "The test measured gustatory responses."
+            ]
+        }
+    ],
+    "gossamer": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Extremely light, delicate, and thin, often describing material or fabric",
+            "synonyms": [
+                "delicate",
+                "lightweight",
+                "feathery",
+                "thin",
+                "airy"
+            ],
+            "examples": [
+                "She wore a gossamer scarf that fluttered in the wind.",
+                "The light was filtered through a gossamer curtain."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "Very light, delicate fabric or material like fine webbing",
+            "synonyms": [
+                "delicate fabric",
+                "fine web",
+                "gauze (general)",
+                "light cloth"
+            ],
+            "examples": [
+                "The spider left strands of gossamer between the plants.",
+                "The morning dew created gossamer across the grass."
+            ]
+        }
+    ],
+    "glare": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To shine with an intense, harsh light; also to look at someone angrily",
+            "synonyms": [
+                "shine",
+                "beam",
+                "burn",
+                "stare angrily",
+                "look sharply"
+            ],
+            "examples": [
+                "The sun glare made it hard to see.",
+                "She glared at him when he interrupted."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "Harsh, intense light or an angry stare",
+            "synonyms": [
+                "harsh light",
+                "stare",
+                "glare"
+            ],
+            "examples": [
+                "Turn away from the glare.",
+                "His glare made her nervous."
+            ]
+        }
+    ],
+    "gloom": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A feeling or state of darkness and sadness",
+            "synonyms": [
+                "darkness",
+                "sadness",
+                "depression",
+                "gloom",
+                "gloominess"
+            ],
+            "examples": [
+                "The gloomy weather matched her mood.",
+                "The room filled with gloom after the news."
+            ]
+        }
+    ],
+    "grudge": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A feeling of resentment because of a past action or unfair treatment",
+            "synonyms": [
+                "resentment",
+                "bitterness",
+                "hostility",
+                "anger",
+                "ill feeling"
+            ],
+            "examples": [
+                "She held a grudge against him for years.",
+                "He finally let go of the grudge."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "To feel resentment toward someone about something they did",
+            "synonyms": [
+                "resent",
+                "harbor resentment",
+                "hold a grudge",
+                "feel bitter"
+            ],
+            "examples": [
+                "She still grudges him for missing her birthday."
+            ]
+        }
+    ],
+    "gatecrash": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To enter an event without being invited or having a ticket",
+            "synonyms": [
+                "crash",
+                "trespass (at event)",
+                "sneak in",
+                "enter uninvited",
+                "gatecrash"
+            ],
+            "examples": [
+                "They gatecrashed the party and got removed by security.",
+                "Someone gatecrashed the wedding and caused trouble."
+            ]
+        }
+    ],
+    "glimmer": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A faint or brief appearance of light or hope",
+            "synonyms": [
+                "sparkle",
+                "flash",
+                "hint",
+                "faint light",
+                "trace"
+            ],
+            "examples": [
+                "A glimmer of hope appeared after the announcement.",
+                "We saw a glimmer of the lighthouse in the fog."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "To shine faintly or appear briefly",
+            "synonyms": [
+                "flicker",
+                "sparkle",
+                "shine",
+                "twinkle",
+                "glimmer"
+            ],
+            "examples": [
+                "The candles glimmered in the dark room.",
+                "Her eyes glimmered with excitement."
+            ]
+        }
     ]
 }

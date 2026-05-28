@@ -247,5 +247,352 @@
                 "The garden has purple iris flowers."
             ]
         }
+    ],
+    "irritated": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Feeling annoyed because something is bothering you",
+            "synonyms": [
+                "annoyed",
+                "bothered",
+                "frustrated",
+                "irritated",
+                "miffed"
+            ],
+            "examples": [
+                "I was irritated by the constant noise.",
+                "He sounded irritated when the call was disconnected."
+            ]
+        }
+    ],
+    "inhospitable": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Not friendly or not welcoming; hard to live or travel in",
+            "synonyms": [
+                "unwelcoming",
+                "hostile",
+                "brutal",
+                "severe",
+                "unfriendly"
+            ],
+            "examples": [
+                "The climate is in hospitable during winter.",
+                "The locals were not in hospitable to strangers."
+            ]
+        }
+    ],
+    "imperturbable": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Not easily upset or disturbed; remaining calm under pressure",
+            "synonyms": [
+                "calm",
+                "unflappable",
+                "steady",
+                "unruffled",
+                "composed"
+            ],
+            "examples": [
+                "The manager stayed imperturbable despite the complaint.",
+                "He was imperturbable when things went wrong."
+            ]
+        }
+    ],
+    "interpret": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To explain the meaning of information or actions",
+            "synonyms": [
+                "explain",
+                "understand",
+                "decipher",
+                "read",
+                "translate"
+            ],
+            "examples": [
+                "Please interpret the results for the team.",
+                "I interpreted his silence as disagreement."
+            ]
+        }
+    ],
+    "insist": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To state firmly that something must happen or be true",
+            "synonyms": [
+                "insist",
+                "require",
+                "demand",
+                "assert",
+                "hold (firmly)"
+            ],
+            "examples": [
+                "She insisted that we leave early.",
+                "He insisted on paying for the meal."
+            ]
+        }
+    ],
+    "interrogate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To ask someone many questions, often in an official or forceful way",
+            "synonyms": [
+                "question",
+                "ask",
+                "inquire",
+                "cross-examine",
+                "interview (intense)"
+            ],
+            "examples": [
+                "The police interrogated him for hours.",
+                "She was interrogated about her travel plans."
+            ]
+        }
+    ],
+    "interpose": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To put something in between or to interrupt by inserting a statement or action",
+            "synonyms": [
+                "interrupt",
+                "insert",
+                "meddle (not exact)",
+                "place between",
+                "interfere (context)"
+            ],
+            "examples": [
+                "The lawyer interposed an objection.",
+                "She interposed herself between them."
+            ]
+        }
+    ],
+    "illumined": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Lightened or made brighter; also, made clear in understanding",
+            "synonyms": [
+                "lit",
+                "brightened",
+                "enlightened",
+                "clarified",
+                "illuminated"
+            ],
+            "examples": [
+                "The room was illumined by soft lights.",
+                "Her face looked illumined by good news."
+            ]
+        }
+    ],
+    "index": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A list of topics or names with the page numbers where they appear",
+            "synonyms": [
+                "contents list",
+                "reference list",
+                "index (book part)",
+                "lookup list"
+            ],
+            "examples": [
+                "Use the index to find the chapter you need.",
+                "The book’s index helped me locate the term quickly."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "To arrange information in an index or to link a value to another measure",
+            "synonyms": [
+                "list",
+                "index (record)",
+                "compile",
+                "reference",
+                "rate (context)"
+            ],
+            "examples": [
+                "The database indexes names for faster search.",
+                "They indexed the articles by date."
+            ]
+        }
+    ],
+    "implicate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To show or suggest that someone is involved in something wrong or illegal",
+            "synonyms": [
+                "involve",
+                "accuse",
+                "link",
+                "tie",
+                "entangle"
+            ],
+            "examples": [
+                "The evidence implicates him in the theft.",
+                "Her statement implicates several people in the fraud."
+            ]
+        }
+    ],
+    "inhibit": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To prevent something from happening or stop someone from acting",
+            "synonyms": [
+                "prevent",
+                "restrain",
+                "hinder",
+                "limit",
+                "check"
+            ],
+            "examples": [
+                "The fear of failure inhibited him from applying.",
+                "Poor data can inhibit good decisions."
+            ]
+        }
+    ],
+    "implacable": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Impossible to calm or stop; not willing to be softened",
+            "synonyms": [
+                "relentless",
+                "unyielding",
+                "unforgiving",
+                "merciless",
+                "steadfast"
+            ],
+            "examples": [
+                "Her anger seemed implacable.",
+                "They were met with implacable resistance."
+            ]
+        }
+    ],
+    "intruder": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A person who enters a place without permission",
+            "synonyms": [
+                "trespasser",
+                "invader",
+                "intruder",
+                "uninvited person",
+                "break-in person"
+            ],
+            "examples": [
+                "The intruder ran away before the police arrived.",
+                "An intruder entered the building through an unlocked door."
+            ]
+        }
+    ],
+    "importune": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To ask someone repeatedly in an annoying way",
+            "synonyms": [
+                "beg",
+                "plead",
+                "press",
+                "hound",
+                "importune"
+            ],
+            "examples": [
+                "He kept importuning her for money.",
+                "She importuned the manager to reconsider the decision."
+            ]
+        }
+    ],
+    "interest": [
+        {
+            "part_of_speech": "noun",
+            "definition": "Money paid for borrowing, usually expressed as a percentage",
+            "synonyms": [
+                "interest rate (related)",
+                "loan cost",
+                "charge for borrowing"
+            ],
+            "examples": [
+                "The bank charged interest on the loan.",
+                "Interest increases the total amount you repay."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "Feeling of caring or liking something",
+            "synonyms": [
+                "curiosity",
+                "involvement",
+                "concern",
+                "liking",
+                "attention"
+            ],
+            "examples": [
+                "She showed interest in the project.",
+                "I lost interest in the show after a few episodes."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "A benefit or share of ownership in an organization",
+            "synonyms": [
+                "stake",
+                "share (formal)",
+                "part (ownership)",
+                "interest"
+            ],
+            "examples": [
+                "He sold his interest in the company.",
+                "The agreement protects everyone’s interests."
+            ]
+        }
+    ],
+    "inscription": [
+        {
+            "part_of_speech": "noun",
+            "definition": "Writing or marks carved, painted, or engraved on a surface",
+            "synonyms": [
+                "engraving",
+                "carving",
+                "text",
+                "message",
+                "label"
+            ],
+            "examples": [
+                "The inscription on the stone commemorates a war veteran.",
+                "They found an inscription inside the building."
+            ]
+        }
+    ],
+    "invisible": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Not able to be seen",
+            "synonyms": [
+                "unseen",
+                "not visible",
+                "undetectable",
+                "hidden",
+                "invisible"
+            ],
+            "examples": [
+                "Some dust particles are invisible to the eye.",
+                "The writing is invisible until the right light is used."
+            ]
+        }
+    ],
+    "intonation": [
+        {
+            "part_of_speech": "noun",
+            "definition": "The way a person’s voice rises and falls when speaking",
+            "synonyms": [
+                "pitch (speech)",
+                "tone",
+                "vocal rhythm",
+                "accent (speech)",
+                "intonation"
+            ],
+            "examples": [
+                "Her intonation made the question sound friendly.",
+                "In English, intonation can change the meaning."
+            ]
+        }
     ]
 }
