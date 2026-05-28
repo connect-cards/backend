@@ -81,5 +81,20 @@
                 "The flowers were bright violet."
             ]
         }
+    ],
+    "vermilion": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "a bright red-orange color",
+            "synonyms": [
+                "red-orange",
+                "scarlet",
+                "cinnabar-red"
+            ],
+            "examples": [
+                "The flag had vermilion stripes.",
+                "Her lipstick was vermilion."
+            ]
+        }
     ]
 }

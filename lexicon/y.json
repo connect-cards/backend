@@ -12,5 +12,31 @@
                 "The cookies are yummy."
             ]
         }
+    ],
+    "yo": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "used as a casual greeting or to call to someone",
+            "synonyms": [
+                "hey",
+                "hi",
+                "hello"
+            ],
+            "examples": [
+                "Yo, listen to this!",
+                "Yo, where are you headed?"
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a casual greeting",
+            "synonyms": [
+                "hey",
+                "hi"
+            ],
+            "examples": [
+                "She answered with a quick yo."
+            ]
+        }
     ]
 }

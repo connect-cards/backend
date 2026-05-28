@@ -12,5 +12,21 @@
                 "Take a quick look at this."
             ]
         }
+    ],
+    "quixotic": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "unrealistic and overly idealistic, often in a way that ignores practical limits",
+            "synonyms": [
+                "unrealistic",
+                "idealistic",
+                "impractical",
+                "far-fetched"
+            ],
+            "examples": [
+                "His quixotic plan failed in the real world.",
+                "She tried a quixotic rescue attempt."
+            ]
+        }
     ]
 }

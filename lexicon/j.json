@@ -53,5 +53,21 @@
                 "Her joyful smile brightened the room."
             ]
         }
+    ],
+    "joyous": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very happy, showing strong joy",
+            "synonyms": [
+                "happy",
+                "delighted",
+                "elated",
+                "glad"
+            ],
+            "examples": [
+                "They were joyous when they won.",
+                "It was a joyous day for the family."
+            ]
+        }
     ]
 }

@@ -506,5 +506,366 @@
                 "Crimson leaves filled the ground in autumn."
             ]
         }
+    ],
+    "clang": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A loud, metallic sound.",
+            "synonyms": [
+                "clangor",
+                "clangour",
+                "ringing"
+            ],
+            "examples": []
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "To make a loud ringing sound by striking metal.",
+            "synonyms": [
+                "ring",
+                "resound",
+                "clash"
+            ],
+            "examples": []
+        }
+    ],
+    "chirp": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A short, sharp sound made by a small bird or insect.",
+            "synonyms": [
+                "tweet",
+                "peep",
+                "chirrup"
+            ],
+            "examples": []
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "To make a short, sharp sound like that of a small bird or insect.",
+            "synonyms": [
+                "chirrup",
+                "tweet",
+                "peep"
+            ],
+            "examples": []
+        }
+    ],
+    "chill": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A feeling of coldness or a cold sensation.",
+            "synonyms": [
+                "cold",
+                "coolness",
+                "frigidness"
+            ],
+            "examples": []
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "To make cold or cooler; to cool down.",
+            "synonyms": [
+                "cool",
+                "refrigerate"
+            ],
+            "examples": []
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "Relaxed or informal in mood or style; casual.",
+            "synonyms": [
+                "relaxed",
+                "casual",
+                "laid-back"
+            ],
+            "examples": []
+        }
+    ],
+    "cope": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to manage a difficult situation or deal with problems",
+            "synonyms": [
+                "handle",
+                "manage",
+                "deal with"
+            ],
+            "examples": [
+                "She copes well with stress.",
+                "I can cope with the new schedule."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a cloth or covering used in some religious or ceremonial contexts",
+            "synonyms": [
+                "cover",
+                "cloak"
+            ],
+            "examples": [
+                "The traditional cope is worn during special services."
+            ]
+        }
+    ],
+    "chapter": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a main section of a book",
+            "synonyms": [
+                "section",
+                "part",
+                "subdivision"
+            ],
+            "examples": [
+                "This chapter explains the rules.",
+                "I read two chapters before bed."
+            ]
+        }
+    ],
+    "cat": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a common pet animal with fur that is usually kept indoors",
+            "synonyms": [
+                "feline",
+                "tomcat",
+                "kitty"
+            ],
+            "examples": [
+                "My cat is sleeping on the sofa.",
+                "The kitten is very playful."
+            ]
+        }
+    ],
+    "clef": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a musical symbol at the start of a staff that shows the pitch of the notes",
+            "synonyms": [
+                "music symbol",
+                "staff sign"
+            ],
+            "examples": [
+                "The treble clef is used for higher notes.",
+                "You need to know the clef to read the music."
+            ]
+        }
+    ],
+    "carpenter": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who builds or repairs things made of wood",
+            "synonyms": [
+                "woodworker",
+                "joiner",
+                "builder"
+            ],
+            "examples": [
+                "The carpenter repaired the window frame.",
+                "A carpenter installed the shelves."
+            ]
+        }
+    ],
+    "credit": [
+        {
+            "part_of_speech": "noun",
+            "definition": "recognition for doing something well, or a good reputation for skill",
+            "synonyms": [
+                "recognition",
+                "crediting",
+                "praise"
+            ],
+            "examples": [
+                "Give her credit for the idea.",
+                "He deserves credit for helping."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "money that you borrow from a bank or company and pay back later",
+            "synonyms": [
+                "loans",
+                "credit account",
+                "debt"
+            ],
+            "examples": [
+                "I used my credit to buy the phone.",
+                "She pays her credit on time."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to say that someone caused or did something good",
+            "synonyms": [
+                "attribute",
+                "award",
+                "acknowledge"
+            ],
+            "examples": [
+                "I credit you with the success.",
+                "The report credits the team with great work."
+            ]
+        }
+    ],
+    "credible": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "believable and likely to be true",
+            "synonyms": [
+                "believable",
+                "trustworthy",
+                "plausible"
+            ],
+            "examples": [
+                "Her explanation sounded credible.",
+                "The source is credible."
+            ]
+        }
+    ],
+    "credence": [
+        {
+            "part_of_speech": "noun",
+            "definition": "belief that something is true or worth trusting",
+            "synonyms": [
+                "belief",
+                "trust",
+                "acceptance"
+            ],
+            "examples": [
+                "He gave the rumor no credence.",
+                "The report lost credence after new evidence appeared."
+            ]
+        }
+    ],
+    "credulous": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "too ready to believe things, especially without strong evidence",
+            "synonyms": [
+                "gullible",
+                "easily fooled",
+                "trusting"
+            ],
+            "examples": [
+                "He is credulous and believes almost anything.",
+                "Don’t be credulous about online scams."
+            ]
+        }
+    ],
+    "cerulean": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "a light blue color",
+            "synonyms": [
+                "sky-blue",
+                "blue",
+                "azure"
+            ],
+            "examples": [
+                "The sky was cerulean that morning.",
+                "She chose cerulean paint for the walls."
+            ]
+        }
+    ],
+    "complexion": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the color of someone’s skin",
+            "synonyms": [
+                "skin color",
+                "skin tone",
+                "color"
+            ],
+            "examples": [
+                "She has a warm complexion.",
+                "His complexion changed after the sun."
+            ]
+        }
+    ],
+    "countenance": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person’s face, especially the expression on it",
+            "synonyms": [
+                "face",
+                "expression",
+                "countenance"
+            ],
+            "examples": [
+                "His countenance looked serious.",
+                "She tried to keep a calm countenance."
+            ]
+        }
+    ],
+    "caliginous": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "dark, hazy, and thick with fog or shadow",
+            "synonyms": [
+                "hazy",
+                "dark",
+                "shadowy",
+                "murky"
+            ],
+            "examples": [
+                "A caliginous fog rolled in from the sea.",
+                "The street looked caliginous at night."
+            ]
+        }
+    ],
+    "crepuscular": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "active around dawn and dusk",
+            "synonyms": [
+                "twilight-active",
+                "dusk-and-dawn active"
+            ],
+            "examples": [
+                "Deer are often crepuscular animals.",
+                "Crepuscular animals may be seen near sunrise."
+            ]
+        }
+    ],
+    "chortle": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to laugh quietly in a pleased or amused way",
+            "synonyms": [
+                "chuckle",
+                "smirk-laugh",
+                "snicker"
+            ],
+            "examples": [
+                "She chortled when she saw his mistake.",
+                "I heard him chortle under his breath."
+            ]
+        }
+    ],
+    "crow": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a black bird found in many places, often called a corvid",
+            "synonyms": [
+                "blackbird",
+                "corvid"
+            ],
+            "examples": [
+                "A crow sat on the telephone wire.",
+                "Crows are smart animals."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make the loud sound of a crow",
+            "synonyms": [
+                "caw",
+                "call"
+            ],
+            "examples": [
+                "The crow cawed loudly."
+            ]
+        }
     ]
 }

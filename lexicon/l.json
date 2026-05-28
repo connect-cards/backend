@@ -151,5 +151,177 @@
                 "Her lyrics are lyrical and moving."
             ]
         }
+    ],
+    "lanky": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "tall and thin, often awkward in appearance",
+            "synonyms": [
+                "gangly",
+                "lean",
+                "awkwardly tall",
+                "long-limbed"
+            ],
+            "examples": [
+                "As a kid, he was lanky.",
+                "The lanky runner looked fast."
+            ]
+        }
+    ],
+    "lawyer": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who gives legal advice and represents people in court",
+            "synonyms": [
+                "attorney",
+                "counsel",
+                "legal professional"
+            ],
+            "examples": [
+                "The lawyer explained the contract.",
+                "She hired a lawyer for the case."
+            ]
+        }
+    ],
+    "lambent": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "glowing softly, usually in a gentle and calm way",
+            "synonyms": [
+                "gentle",
+                "glowing",
+                "softly shining"
+            ],
+            "examples": [
+                "The lambent light moved across the wall.",
+                "The lamp gave off a lambent glow."
+            ]
+        }
+    ],
+    "learned": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having a lot of knowledge or studying many subjects",
+            "synonyms": [
+                "educated",
+                "scholarly",
+                "knowledgeable",
+                "academic"
+            ],
+            "examples": [
+                "He is learned in history.",
+                "The learned professor gave a clear answer."
+            ]
+        }
+    ],
+    "lean": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "thin and not having much extra fat",
+            "synonyms": [
+                "slim",
+                "thin",
+                "trim"
+            ],
+            "examples": [
+                "She is lean and strong.",
+                "He looks lean after training."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to bend your body so you are not straight, often supported by something",
+            "synonyms": [
+                "recline",
+                "tilt",
+                "bend"
+            ],
+            "examples": [
+                "I leaned against the wall.",
+                "The car leaned to one side."
+            ]
+        }
+    ],
+    "lank": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to become longer and thinner, especially by growing quickly",
+            "synonyms": [
+                "grow long",
+                "lengthen",
+                "stretch"
+            ],
+            "examples": [
+                "The plant began to lank toward the light."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a long thin part of something, especially a stretched piece",
+            "synonyms": [
+                "strip",
+                "streak"
+            ],
+            "examples": [
+                "He tied the lank around the package."
+            ]
+        }
+    ],
+    "lugubrious": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very sad in a gloomy or exaggerated way",
+            "synonyms": [
+                "mournful",
+                "gloomy",
+                "sad",
+                "sorrowful"
+            ],
+            "examples": [
+                "His lugubrious voice annoyed everyone.",
+                "The movie had a lugubrious ending."
+            ]
+        }
+    ],
+    "lilac": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "a pale purple color",
+            "synonyms": [
+                "light purple",
+                "purple-pink"
+            ],
+            "examples": [
+                "The curtains are lilac.",
+                "She wore lilac nail polish."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a shrub with fragrant purple flowers, or the flowers themselves",
+            "synonyms": [
+                "lilac plant"
+            ],
+            "examples": [
+                "A lilac bush is in the front yard.",
+                "The lilacs smell sweet in spring."
+            ]
+        }
+    ],
+    "livid": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very angry",
+            "synonyms": [
+                "furious",
+                "enraged",
+                "seething",
+                "mad"
+            ],
+            "examples": [
+                "She was livid about the mistake.",
+                "He looked livid when he saw the bill."
+            ]
+        }
     ]
 }

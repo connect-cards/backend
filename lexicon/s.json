@@ -629,5 +629,481 @@
                 "Her succinct answer settled the issue."
             ]
         }
+    ],
+    "solemn": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Formal or serious in mood or appearance; not lighthearted.",
+            "synonyms": [
+                "serious",
+                "grave",
+                "stately",
+                "dignified"
+            ],
+            "examples": []
+        }
+    ],
+    "slender": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "thin in shape, especially in a way that looks attractive or graceful",
+            "synonyms": [
+                "thin",
+                "lean",
+                "svelte",
+                "graceful"
+            ],
+            "examples": [
+                "She has a slender waist.",
+                "The tree is slender but healthy."
+            ]
+        }
+    ],
+    "stroll": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to walk slowly in a relaxed way",
+            "synonyms": [
+                "walk",
+                "saunter",
+                "amble"
+            ],
+            "examples": [
+                "We strolled through the market.",
+                "She likes to stroll after dinner."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a slow relaxed walk",
+            "synonyms": [
+                "walk",
+                "amble",
+                "saunter"
+            ],
+            "examples": [
+                "We took a stroll by the river.",
+                "It was a short stroll to the café."
+            ]
+        }
+    ],
+    "saunter": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to walk slowly in a relaxed and casual way",
+            "synonyms": [
+                "stroll",
+                "amble",
+                "wander"
+            ],
+            "examples": [
+                "He sauntered into the room.",
+                "We sauntered through the park."
+            ]
+        }
+    ],
+    "scintillating": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very lively, interesting, and full of energy",
+            "synonyms": [
+                "sparkling",
+                "brilliant",
+                "lively",
+                "vivid"
+            ],
+            "examples": [
+                "Her scintillating conversation kept everyone engaged.",
+                "The movie had scintillating humor."
+            ]
+        }
+    ],
+    "spring": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a season between winter and summer",
+            "synonyms": [
+                "vernal season",
+                "springtime"
+            ],
+            "examples": [
+                "Spring starts in March in many countries.",
+                "The garden looks great in spring."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a natural source of fresh water that comes from the ground",
+            "synonyms": [
+                "water source",
+                "freshwater spring"
+            ],
+            "examples": [
+                "The trail follows a spring.",
+                "We filled our bottles from a spring."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a device that stores energy and returns to its original shape",
+            "synonyms": [
+                "coil",
+                "elastic device"
+            ],
+            "examples": [
+                "The door has a spring that closes it.",
+                "A spring inside the pen pushes the ink."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to jump up or appear suddenly",
+            "synonyms": [
+                "leap",
+                "jump",
+                "appear suddenly"
+            ],
+            "examples": [
+                "The ball sprang out of the box.",
+                "The idea sprang into my mind."
+            ]
+        }
+    ],
+    "south": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the direction opposite north",
+            "synonyms": [
+                "southern direction"
+            ],
+            "examples": [
+                "The beach is south of the town.",
+                "Look south."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "in or toward the south direction",
+            "synonyms": [
+                "southern"
+            ],
+            "examples": [
+                "They moved south after graduation."
+            ]
+        },
+        {
+            "part_of_speech": "adverb",
+            "definition": "toward the south direction",
+            "synonyms": [
+                "southward"
+            ],
+            "examples": [
+                "We walked south until it got dark."
+            ]
+        }
+    ],
+    "shrewd": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "smart and practical, especially in a way that helps you make good decisions",
+            "synonyms": [
+                "wise",
+                "cunning",
+                "sharp",
+                "streetwise"
+            ],
+            "examples": [
+                "He is shrewd about money.",
+                "Her shrewd business decisions helped the company."
+            ]
+        }
+    ],
+    "sesquipedalian": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "using long words that sound complicated",
+            "synonyms": [
+                "wordy",
+                "long-winded",
+                "overly complex"
+            ],
+            "examples": [
+                "His sesquipedalian style made the speech hard to follow.",
+                "The article is full of sesquipedalian terms."
+            ]
+        }
+    ],
+    "somber": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "serious and with a dark or sad mood",
+            "synonyms": [
+                "serious",
+                "mournful",
+                "gloomy",
+                "grave"
+            ],
+            "examples": [
+                "The funeral was somber.",
+                "He gave a somber speech."
+            ]
+        }
+    ],
+    "short": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "not long in distance, time, or height",
+            "synonyms": [
+                "brief",
+                "small",
+                "little",
+                "compact"
+            ],
+            "examples": [
+                "It’s a short walk to the station.",
+                "She has short hair."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "an electronic fault where electricity flows directly, often causing damage",
+            "synonyms": [
+                "short circuit",
+                "short"
+            ],
+            "examples": [
+                "The technician fixed a short in the wiring."
+            ]
+        }
+    ],
+    "stout": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "thick and strong in shape, or somewhat heavyset",
+            "synonyms": [
+                "stocky",
+                "solid",
+                "heavyset"
+            ],
+            "examples": [
+                "He is a stout man.",
+                "A stout chair is harder to break."
+            ]
+        }
+    ],
+    "sonnet": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a poem with a fixed structure, usually 14 lines",
+            "synonyms": [
+                "poem",
+                "verse"
+            ],
+            "examples": [
+                "Shakespeare wrote many sonnets.",
+                "She studied a sonnet in class."
+            ]
+        }
+    ],
+    "sinewy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "strong in a tough, flexible way, often with well-shaped muscles",
+            "synonyms": [
+                "muscular",
+                "tough",
+                "stringy",
+                "firm"
+            ],
+            "examples": [
+                "The horse had a sinewy body.",
+                "He looked sinewy and fast."
+            ]
+        }
+    ],
+    "scarlet": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "bright red in color",
+            "synonyms": [
+                "red",
+                "crimson",
+                "vermilion"
+            ],
+            "examples": [
+                "She wore a scarlet coat.",
+                "The warning sign is scarlet."
+            ]
+        }
+    ],
+    "solstice": [
+        {
+            "part_of_speech": "noun",
+            "definition": "one of two times each year when the sun is at its farthest distance north or south",
+            "synonyms": [
+                "summer solstice",
+                "winter solstice"
+            ],
+            "examples": [
+                "The summer solstice is the longest day.",
+                "In winter, the solstice brings the shortest day."
+            ]
+        }
+    ],
+    "stature": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person’s height or how tall they are",
+            "synonyms": [
+                "height",
+                "build",
+                "body size"
+            ],
+            "examples": [
+                "He is tall with good stature.",
+                "Her stature made her stand out."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a person’s importance or reputation",
+            "synonyms": [
+                "standing",
+                "reputation",
+                "status"
+            ],
+            "examples": [
+                "The scientist gained worldwide stature.",
+                "He holds a respected stature in the field."
+            ]
+        }
+    ],
+    "slim": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "thin and small in shape, often in a pleasing way",
+            "synonyms": [
+                "slender",
+                "lean",
+                "thin",
+                "trim"
+            ],
+            "examples": [
+                "She is slim and active.",
+                "I want a slim wallet."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a slim part or form of something, especially clothing size",
+            "synonyms": [
+                "size type"
+            ],
+            "examples": [
+                "They only had slim in black."
+            ]
+        }
+    ],
+    "scribble": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to write quickly in an untidy way",
+            "synonyms": [
+                "write quickly",
+                "jot down",
+                "doodle"
+            ],
+            "examples": [
+                "He scribbled the address on a receipt.",
+                "I scribbled a note and left it on the table."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "an untidy piece of writing or drawing",
+            "synonyms": [
+                "doodle",
+                "jot",
+                "rough note"
+            ],
+            "examples": [
+                "My handwriting turned into scribbles."
+            ]
+        }
+    ],
+    "saturnine": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "serious, gloomy, and not easily cheerful",
+            "synonyms": [
+                "gloomy",
+                "dark",
+                "sombre",
+                "moody"
+            ],
+            "examples": [
+                "He has a saturnine expression.",
+                "The saturnine mood of the meeting surprised me."
+            ]
+        }
+    ],
+    "sparkling": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "shining brightly with small flashes of light; full of energy or fun",
+            "synonyms": [
+                "shimmering",
+                "glittering",
+                "effervescent"
+            ],
+            "examples": [
+                "The river was sparkling in the sun.",
+                "She gave a sparkling smile."
+            ]
+        }
+    ],
+    "snicker": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to laugh quietly in a sneaky or mocking way",
+            "synonyms": [
+                "giggle",
+                "sniggle",
+                "chuckle"
+            ],
+            "examples": [
+                "They snickered when he walked by.",
+                "He snickered at the bad pun."
+            ]
+        }
+    ],
+    "sup": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "informal greeting meaning what’s up",
+            "synonyms": [
+                "hey",
+                "what’s up",
+                "hi"
+            ],
+            "examples": [
+                "Sup, man?",
+                "Sup? You coming to the game?"
+            ]
+        }
+    ],
+    "sparrow": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small brown or gray bird that often lives near people",
+            "synonyms": [
+                "small bird",
+                "bird"
+            ],
+            "examples": [
+                "A sparrow landed on the window.",
+                "Sparrows chirp early in the morning."
+            ]
+        }
     ]
 }

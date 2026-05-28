@@ -148,5 +148,223 @@
                 "Hello is used as a greeting."
             ]
         }
+    ],
+    "hum": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A low, continuous sound, such as from bees or machinery.",
+            "synonyms": [
+                "buzz",
+                "drone",
+                "murmur"
+            ],
+            "examples": []
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "To make a low continuous sound with the lips closed or nearly closed, or to sing without words.",
+            "synonyms": [
+                "buzz",
+                "drone",
+                "murmur"
+            ],
+            "examples": []
+        }
+    ],
+    "hi": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "used to greet someone in a friendly way",
+            "synonyms": [
+                "hello",
+                "hey"
+            ],
+            "examples": [
+                "Hi, how are you today?",
+                "I said hi to my neighbor."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a friendly greeting",
+            "synonyms": [
+                "hello",
+                "hey"
+            ],
+            "examples": [
+                "She waved and gave me a hi."
+            ]
+        }
+    ],
+    "hey": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "used to get someone’s attention or greet them casually",
+            "synonyms": [
+                "hi",
+                "hello",
+                "yo"
+            ],
+            "examples": [
+                "Hey! Are you coming with us?",
+                "Hey, what’s up?"
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a casual greeting or attention call",
+            "synonyms": [
+                "hi",
+                "hello"
+            ],
+            "examples": [
+                "He shouted hey from across the street."
+            ]
+        }
+    ],
+    "hangout": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a place where people usually meet to relax or socialize",
+            "synonyms": [
+                "hangout spot",
+                "gathering place",
+                "meeting spot"
+            ],
+            "examples": [
+                "This café is our usual hangout.",
+                "We met at a hangout near the park."
+            ]
+        }
+    ],
+    "hail": [
+        {
+            "part_of_speech": "noun",
+            "definition": "small pieces of ice that fall from the sky during storms",
+            "synonyms": [
+                "ice pellets",
+                "ice",
+                "hard rain"
+            ],
+            "examples": [
+                "The hail damaged the car.",
+                "We stayed inside when hail started."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to fall as small pieces of ice",
+            "synonyms": [
+                "ice",
+                "ice down",
+                "storm"
+            ],
+            "examples": [
+                "It began to hail during the afternoon.",
+                "The forecast says it will hail tonight."
+            ]
+        }
+    ],
+    "hour": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a unit of time equal to sixty minutes",
+            "synonyms": [
+                "60 minutes",
+                "time unit"
+            ],
+            "examples": [
+                "I will be there in an hour.",
+                "We studied for two hours."
+            ]
+        }
+    ],
+    "honest": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "truthful and not trying to steal or cheat",
+            "synonyms": [
+                "truthful",
+                "sincere",
+                "upright",
+                "fair"
+            ],
+            "examples": [
+                "Be honest with me.",
+                "An honest person tells the truth."
+            ]
+        }
+    ],
+    "hermetic": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "completely sealed off so that nothing can enter or leave",
+            "synonyms": [
+                "airtight",
+                "sealed",
+                "watertight"
+            ],
+            "examples": [
+                "The container was hermetic to keep out moisture.",
+                "The lab uses hermetic seals."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "closed and difficult for others to understand or enter",
+            "synonyms": [
+                "closed",
+                "exclusive",
+                "secret"
+            ],
+            "examples": [
+                "The organization can feel hermetic to outsiders."
+            ]
+        }
+    ],
+    "hen": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a female chicken raised for eggs or meat",
+            "synonyms": [
+                "female chicken",
+                "chicken"
+            ],
+            "examples": [
+                "The hen laid an egg this morning.",
+                "We saw a hen in the yard."
+            ]
+        }
+    ],
+    "haggard": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "looking tired and worn out, often due to stress or illness",
+            "synonyms": [
+                "worn",
+                "run-down",
+                "ravaged",
+                "gaunt"
+            ],
+            "examples": [
+                "She looked haggard after working all night.",
+                "His haggard appearance worried me."
+            ]
+        }
+    ],
+    "horizon": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the line where the earth and the sky seem to meet",
+            "synonyms": [
+                "skyline",
+                "visible boundary",
+                "horizonal line"
+            ],
+            "examples": [
+                "We could see mountains on the horizon.",
+                "The sun sets below the horizon."
+            ]
+        }
     ]
 }

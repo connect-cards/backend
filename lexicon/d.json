@@ -283,5 +283,223 @@
                 "The play had a droll sense of humor that eased the tension."
             ]
         }
+    ],
+    "dalmatic": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a long ceremonial vestment worn by clergy in some Christian traditions",
+            "synonyms": [
+                "liturgical vestment",
+                "robe"
+            ],
+            "examples": [
+                "The bishop wore a dalmatic during the ceremony."
+            ]
+        }
+    ],
+    "dog": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a common pet animal with fur that often barks",
+            "synonyms": [
+                "canine",
+                "puppy",
+                "pet dog"
+            ],
+            "examples": [
+                "Our dog loves walks.",
+                "The dog is friendly."
+            ]
+        }
+    ],
+    "dexterous": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "good at using your hands or moving skillfully, especially in tasks requiring skill",
+            "synonyms": [
+                "skillful",
+                "handy",
+                "agile",
+                "nimble"
+            ],
+            "examples": [
+                "The surgeon was dexterous.",
+                "He is dexterous with tools."
+            ]
+        }
+    ],
+    "defenestrate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to throw someone or something out of a window",
+            "synonyms": [
+                "throw out a window",
+                "throw from a window"
+            ],
+            "examples": [
+                "The story says they tried to defenestrate the prisoner."
+            ]
+        }
+    ],
+    "describe": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to explain or give details about something",
+            "synonyms": [
+                "explain",
+                "depict",
+                "characterize"
+            ],
+            "examples": [
+                "Can you describe what happened?",
+                "She described the house in detail."
+            ]
+        }
+    ],
+    "dude": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a man, often used in informal speech",
+            "synonyms": [
+                "guy",
+                "man",
+                "bro"
+            ],
+            "examples": [
+                "That dude over there is my cousin.",
+                "Hey dude, what’s going on?"
+            ]
+        }
+    ],
+    "dawn": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the time of day when the sun starts to rise",
+            "synonyms": [
+                "daybreak",
+                "sunrise",
+                "morning"
+            ],
+            "examples": [
+                "We left at dawn.",
+                "The sky turned orange at dawn."
+            ]
+        }
+    ],
+    "dusk": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the time in the evening when daylight is ending",
+            "synonyms": [
+                "evening",
+                "twilight",
+                "sunset time"
+            ],
+            "examples": [
+                "We arrived at dusk.",
+                "The birds went quiet at dusk."
+            ]
+        }
+    ],
+    "dope": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a drug that is illegal or harmful",
+            "synonyms": [
+                "illegal drug",
+                "narcotic"
+            ],
+            "examples": [
+                "The police arrested people for dope.",
+                "He was charged after they found dope."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to add drugs to something or to drug someone",
+            "synonyms": [
+                "drug",
+                "poison with drugs"
+            ],
+            "examples": [
+                "They tried to dope the drink."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "excellent or exciting in informal speech",
+            "synonyms": [
+                "cool",
+                "great",
+                "awesome",
+                "excellent"
+            ],
+            "examples": [
+                "That’s a dope idea!",
+                "The movie was dope."
+            ]
+        }
+    ],
+    "dreary": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "gray, dull, or depressing, making you feel unhappy",
+            "synonyms": [
+                "gloomy",
+                "boring",
+                "dismal",
+                "cheerless"
+            ],
+            "examples": [
+                "The weather was dreary all day.",
+                "The office felt dreary."
+            ]
+        }
+    ],
+    "dingy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "dirty or looking dull and not clean",
+            "synonyms": [
+                "dirty",
+                "grimy",
+                "dim",
+                "run-down"
+            ],
+            "examples": [
+                "The apartment looked dingy.",
+                "The hallway was dingy and quiet."
+            ]
+        }
+    ],
+    "dawg": [
+        {
+            "part_of_speech": "noun",
+            "definition": "informal slang for dog or for a friend, depending on context",
+            "synonyms": [
+                "dog",
+                "buddy",
+                "pal"
+            ],
+            "examples": [
+                "My dawg is outside.",
+                "That dawg can cook!"
+            ]
+        }
+    ],
+    "doctor": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who is trained to treat illnesses and injuries",
+            "synonyms": [
+                "physician",
+                "medical doctor",
+                "medic"
+            ],
+            "examples": [
+                "The doctor said it was not serious.",
+                "I have an appointment with a doctor."
+            ]
+        }
     ]
 }

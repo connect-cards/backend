@@ -176,5 +176,171 @@
                 "The meeting took a weird turn after the announcement."
             ]
         }
+    ],
+    "west": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the direction to the left when you face north",
+            "synonyms": [
+                "western direction"
+            ],
+            "examples": [
+                "The mountains are west of the city.",
+                "Go west for three blocks."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "in or toward the west direction",
+            "synonyms": [
+                "western"
+            ],
+            "examples": [
+                "They bought a house in west London."
+            ]
+        },
+        {
+            "part_of_speech": "adverb",
+            "definition": "toward the west direction",
+            "synonyms": [
+                "westward"
+            ],
+            "examples": [
+                "The plane flew west."
+            ]
+        }
+    ],
+    "wistful": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "feeling sad in a gentle way because you want something that is gone or difficult",
+            "synonyms": [
+                "yearning",
+                "sad",
+                "longing",
+                "thoughtful"
+            ],
+            "examples": [
+                "She became wistful when she talked about her childhood.",
+                "He had a wistful smile."
+            ]
+        }
+    ],
+    "waifish": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very thin in a fragile-looking way",
+            "synonyms": [
+                "slim",
+                "thin",
+                "fragile-looking",
+                "delicate"
+            ],
+            "examples": [
+                "The model had a waifish figure.",
+                "She looked waifish in the winter coat."
+            ]
+        }
+    ],
+    "whirr": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a continuous soft sound like the spinning of a motor",
+            "synonyms": [
+                "buzz",
+                "whizz",
+                "hum"
+            ],
+            "examples": [
+                "I heard a whirr from the fan.",
+                "The computer made a whirr."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a continuous soft spinning sound",
+            "synonyms": [
+                "buzz",
+                "whizz",
+                "hum"
+            ],
+            "examples": [
+                "The wheels whirred as the cart moved.",
+                "A motor whirred in the background."
+            ]
+        }
+    ],
+    "watch": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small device worn on the wrist to tell the time",
+            "synonyms": [
+                "timepiece",
+                "wristwatch"
+            ],
+            "examples": [
+                "My watch is fast.",
+                "He checked his watch."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to look at something over a period of time",
+            "synonyms": [
+                "view",
+                "observe",
+                "look at"
+            ],
+            "examples": [
+                "We watched the movie together.",
+                "She watched the kids play."
+            ]
+        }
+    ],
+    "weaver": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person or machine that makes fabric by weaving threads",
+            "synonyms": [
+                "textile worker",
+                "loom worker"
+            ],
+            "examples": [
+                "The weaver created a beautiful scarf.",
+                "My grandmother was a weaver."
+            ]
+        }
+    ],
+    "wander": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to walk or move around without a clear destination",
+            "synonyms": [
+                "roam",
+                "ramble",
+                "stroll",
+                "drift"
+            ],
+            "examples": [
+                "We wandered around the old town.",
+                "Don’t wander too far from the group."
+            ]
+        }
+    ],
+    "wrathful": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "showing intense anger or rage",
+            "synonyms": [
+                "angry",
+                "furious",
+                "enraged",
+                "hostile"
+            ],
+            "examples": [
+                "The character sounded wrathful in the final scene.",
+                "A wrathful voice made everyone quiet."
+            ]
+        }
     ]
 }

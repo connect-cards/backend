@@ -218,5 +218,168 @@
                 "She studied medicine to become a doctor."
             ]
         }
+    ],
+    "melancholic": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Feeling or expressing pensive sadness.",
+            "synonyms": [
+                "sad",
+                "mournful",
+                "sorrowful",
+                "gloomy"
+            ],
+            "examples": []
+        }
+    ],
+    "meander": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to move in a winding, slow way without a direct path",
+            "synonyms": [
+                "wind",
+                "wander",
+                "snake"
+            ],
+            "examples": [
+                "The river meandered through the valley.",
+                "The path meanders behind the houses."
+            ]
+        }
+    ],
+    "magnanimous": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very generous and forgiving toward others",
+            "synonyms": [
+                "generous",
+                "forgiving",
+                "noble",
+                "charitable"
+            ],
+            "examples": [
+                "He was magnanimous after losing the competition.",
+                "Her magnanimous response surprised everyone."
+            ]
+        }
+    ],
+    "merry": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "happy and playful, especially during celebrations",
+            "synonyms": [
+                "joyful",
+                "cheerful",
+                "jolly",
+                "fun"
+            ],
+            "examples": [
+                "We had a merry Christmas.",
+                "Her merry mood lifted the room."
+            ]
+        }
+    ],
+    "melancholy": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a feeling of sadness, often with a quiet or thoughtful mood",
+            "synonyms": [
+                "sadness",
+                "sorrow",
+                "depression",
+                "wistfulness"
+            ],
+            "examples": [
+                "A song can bring out melancholy.",
+                "He felt a sudden melancholy."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "sad and thoughtful",
+            "synonyms": [
+                "sad",
+                "thoughtful",
+                "downcast",
+                "pensive"
+            ],
+            "examples": [
+                "She looked melancholy after the news."
+            ]
+        }
+    ],
+    "midnight": [
+        {
+            "part_of_speech": "noun",
+            "definition": "12:00 a.m., the start of a new day",
+            "synonyms": [
+                "12 a.m.",
+                "the start of the day"
+            ],
+            "examples": [
+                "The movie starts at midnight.",
+                "She worked until midnight."
+            ]
+        }
+    ],
+    "man": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an adult male person",
+            "synonyms": [
+                "male",
+                "guy",
+                "human male"
+            ],
+            "examples": [
+                "The man at the door is waiting.",
+                "He is a good man."
+            ]
+        }
+    ],
+    "mason": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who builds or repairs walls and structures with stone or brick",
+            "synonyms": [
+                "bricklayer",
+                "stoneworker",
+                "builder"
+            ],
+            "examples": [
+                "The mason laid the new bricks.",
+                "A mason repaired the stone wall."
+            ]
+        }
+    ],
+    "manuscript": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a document written by hand or typed before it is published",
+            "synonyms": [
+                "draft",
+                "document",
+                "copy"
+            ],
+            "examples": [
+                "The author submitted the manuscript.",
+                "The manuscript was stored in a library."
+            ]
+        }
+    ],
+    "murky": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "dark and not clear, hard to see through",
+            "synonyms": [
+                "dark",
+                "dim",
+                "cloudy"
+            ],
+            "examples": [
+                "The water looked murky.",
+                "His explanation was murky."
+            ]
+        }
     ]
 }

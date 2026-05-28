@@ -11,5 +11,20 @@
                 "Careful with the knife."
             ]
         }
+    ],
+    "knight": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a man in the past who served a king or queen and fought in wars",
+            "synonyms": [
+                "warrior",
+                "soldier",
+                "cavalier"
+            ],
+            "examples": [
+                "A knight guarded the castle.",
+                "The story features a brave knight."
+            ]
+        }
     ]
 }

@@ -11,5 +11,116 @@
                 "The ocean stretched to the horizon."
             ]
         }
+    ],
+    "occult": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "connected with secret supernatural powers or practices",
+            "synonyms": [
+                "mysterious",
+                "supernatural",
+                "mystic"
+            ],
+            "examples": [
+                "They studied occult symbols.",
+                "The book mentions occult traditions."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "secret supernatural knowledge or practices",
+            "synonyms": [
+                "mysticism",
+                "magic",
+                "mystic practices"
+            ],
+            "examples": [
+                "He became interested in the occult."
+            ]
+        }
+    ],
+    "ode": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a poem that expresses serious or emotional thoughts about a person, event, or idea",
+            "synonyms": [
+                "poem",
+                "song of praise",
+                "verse"
+            ],
+            "examples": [
+                "She wrote an ode to friendship.",
+                "The book includes several odes."
+            ]
+        }
+    ],
+    "orange": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a round fruit with a thick skin, usually orange in color, and sweet juice",
+            "synonyms": [
+                "citrus fruit"
+            ],
+            "examples": [
+                "I drank orange juice.",
+                "She peeled an orange."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "having the color of an orange fruit",
+            "synonyms": [
+                "orange-colored",
+                "tangerine"
+            ],
+            "examples": [
+                "Her shirt is orange.",
+                "The sunset turned orange."
+            ]
+        }
+    ],
+    "ogle": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to look at someone in a way that shows you are sexually interested",
+            "synonyms": [
+                "stare",
+                "leer",
+                "stare at"
+            ],
+            "examples": [
+                "He was ogling her on the train.",
+                "Don’t ogle people in public."
+            ]
+        }
+    ],
+    "opalescent": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "showing shifting colors like opal, often with a soft glow",
+            "synonyms": [
+                "iridescent",
+                "opal-like",
+                "shimmering"
+            ],
+            "examples": [
+                "The opalescent glass changed color in the light.",
+                "Her scarf was opalescent."
+            ]
+        }
+    ],
+    "owl": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a bird that usually hunts at night and has strong hearing",
+            "synonyms": [
+                "night owl",
+                "raptor bird"
+            ],
+            "examples": [
+                "An owl flew across the field.",
+                "The owl hooted in the dark."
+            ]
+        }
     ]
 }

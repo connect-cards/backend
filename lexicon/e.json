@@ -304,5 +304,270 @@
                 "The poem has an elegiac mood."
             ]
         }
+    ],
+    "export": [
+        {
+            "part_of_speech": "noun",
+            "definition": "goods sent to another country for sale or use",
+            "synonyms": [
+                "goods",
+                "merchandise",
+                "shipments"
+            ],
+            "examples": [
+                "Their export grew fast.",
+                "The country depends on exports."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to send goods to another country for sale or use",
+            "synonyms": [
+                "ship",
+                "send",
+                "sell abroad"
+            ],
+            "examples": [
+                "They export cars to Europe.",
+                "The company exports its software."
+            ]
+        }
+    ],
+    "engineer": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who designs, builds, or improves machines, systems, or structures",
+            "synonyms": [
+                "designer",
+                "technician",
+                "builder"
+            ],
+            "examples": [
+                "She works as an engineer in a factory.",
+                "The engineer checked the bridge design."
+            ]
+        }
+    ],
+    "effulgent": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very bright and shining",
+            "synonyms": [
+                "radiant",
+                "glowing",
+                "resplendent"
+            ],
+            "examples": [
+                "The effulgent light filled the room.",
+                "We saw an effulgent sunset."
+            ]
+        }
+    ],
+    "east": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the direction to the right when you face north",
+            "synonyms": [
+                "eastern direction"
+            ],
+            "examples": [
+                "East is where the sun rises.",
+                "The village is east of the river."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "in or toward the east direction",
+            "synonyms": [
+                "eastern"
+            ],
+            "examples": [
+                "We traveled east to visit family."
+            ]
+        },
+        {
+            "part_of_speech": "adverb",
+            "definition": "toward the east direction",
+            "synonyms": [
+                "eastward"
+            ],
+            "examples": [
+                "The flight heads east."
+            ]
+        }
+    ],
+    "esoteric": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "intended for or understood by a small group of people, often because it is specialized",
+            "synonyms": [
+                "specialized",
+                "obscure",
+                "rare",
+                "hard to understand"
+            ],
+            "examples": [
+                "The course covers esoteric topics.",
+                "His comments were too esoteric for the group."
+            ]
+        }
+    ],
+    "ephemeral": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "lasting for a very short time",
+            "synonyms": [
+                "temporary",
+                "brief",
+                "short-lived",
+                "transient"
+            ],
+            "examples": [
+                "Their friendship was ephemeral.",
+                "The effects are ephemeral."
+            ]
+        }
+    ],
+    "evanescent": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "quickly disappearing or not lasting long",
+            "synonyms": [
+                "temporary",
+                "fleeting",
+                "transient",
+                "vanishing"
+            ],
+            "examples": [
+                "The evanescent feeling of relief faded soon.",
+                "Sunlight can be evanescent on cloudy days."
+            ]
+        }
+    ],
+    "elegy": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a poem or piece of writing that expresses sadness, often for someone who died",
+            "synonyms": [
+                "poem of mourning",
+                "lament",
+                "dirge"
+            ],
+            "examples": [
+                "They read an elegy at the memorial.",
+                "The composer wrote an elegy for the lost soldier."
+            ]
+        }
+    ],
+    "earth": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the ground under our feet; soil",
+            "synonyms": [
+                "ground",
+                "soil",
+                "land"
+            ],
+            "examples": [
+                "The earth is dry today.",
+                "Dig a hole in the earth."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "the planet we live on",
+            "synonyms": [
+                "World",
+                "the planet Earth"
+            ],
+            "examples": [
+                "Earth is the third planet from the Sun.",
+                "From space, Earth looks blue."
+            ]
+        }
+    ],
+    "equinox": [
+        {
+            "part_of_speech": "noun",
+            "definition": "one of two times each year when day and night are about equal in length",
+            "synonyms": [
+                "equal day",
+                "spring/autumn equinox"
+            ],
+            "examples": [
+                "The equinox marks the start of spring.",
+                "On the equinox, night and day are nearly equal."
+            ]
+        }
+    ],
+    "equity": [
+        {
+            "part_of_speech": "noun",
+            "definition": "fairness, especially in how people are treated",
+            "synonyms": [
+                "fairness",
+                "justice",
+                "impartiality"
+            ],
+            "examples": [
+                "The court focused on equity and fairness.",
+                "They promote equity in hiring."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "ownership value in a company, after subtracting debts",
+            "synonyms": [
+                "ownership interest",
+                "share value"
+            ],
+            "examples": [
+                "The company’s equity increased this quarter."
+            ]
+        }
+    ],
+    "exeunt": [
+        {
+            "part_of_speech": "verb",
+            "definition": "used in stage directions to show that a group of characters leaves the stage",
+            "synonyms": [
+                "leave the stage"
+            ],
+            "examples": [
+                "The script says exeunt after the final line."
+            ]
+        }
+    ],
+    "ebullient": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very cheerful and full of energy",
+            "synonyms": [
+                "enthusiastic",
+                "cheerful",
+                "upbeat",
+                "excited"
+            ],
+            "examples": [
+                "She was ebullient about the trip.",
+                "His ebullient attitude helped the team."
+            ]
+        }
+    ],
+    "effusive": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "showing feelings in a very open and emotional way",
+            "synonyms": [
+                "expressive",
+                "enthusiastic",
+                "overly emotional",
+                "warm"
+            ],
+            "examples": [
+                "She was effusive in her praise.",
+                "His effusive greeting made me smile."
+            ]
+        }
     ]
 }

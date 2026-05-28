@@ -224,5 +224,367 @@
                 "Her major is anthropology."
             ]
         }
+    ],
+    "actor": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A person who performs in plays, movies, or on television.",
+            "synonyms": [
+                "performer",
+                "thespian",
+                "entertainer"
+            ],
+            "examples": []
+        }
+    ],
+    "awesome": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Extremely good or impressive; inspiring awe.",
+            "synonyms": [
+                "amazing",
+                "wonderful",
+                "fantastic",
+                "incredible"
+            ],
+            "examples": []
+        }
+    ],
+    "amice": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a stiff cloth or garment part worn by clergy, especially in church services",
+            "synonyms": [
+                "shawl",
+                "head covering"
+            ],
+            "examples": [
+                "The amice is part of the church clothing in the story."
+            ]
+        }
+    ],
+    "alb": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a long white robe worn in Christian religious services",
+            "synonyms": [
+                "robe",
+                "liturgical garment"
+            ],
+            "examples": [
+                "The priest wore an alb for the service."
+            ]
+        }
+    ],
+    "amble": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to walk slowly without a clear destination",
+            "synonyms": [
+                "stroll",
+                "wander",
+                "saunter"
+            ],
+            "examples": [
+                "They amble down the street every morning.",
+                "I am just ambling along, not rushing."
+            ]
+        }
+    ],
+    "altruistic": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "showing concern for other people and wanting to help them",
+            "synonyms": [
+                "selfless",
+                "charitable",
+                "benevolent",
+                "kind"
+            ],
+            "examples": [
+                "She is altruistic and always volunteers.",
+                "They took an altruistic approach to the problem."
+            ]
+        }
+    ],
+    "anecdote": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a short story about a real event, usually told to share information or entertain",
+            "synonyms": [
+                "story",
+                "incident",
+                "short tale"
+            ],
+            "examples": [
+                "She told an anecdote about her first job.",
+                "An anecdote can make a lesson easier to remember."
+            ]
+        }
+    ],
+    "arcane": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "understood by only a few people, or known for being mysterious",
+            "synonyms": [
+                "mysterious",
+                "secret",
+                "obscure",
+                "hard to understand"
+            ],
+            "examples": [
+                "The rules seem arcane to new players.",
+                "Some of the chemistry is arcane to me."
+            ]
+        }
+    ],
+    "adroit": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "skilled and quick in how you handle situations or people",
+            "synonyms": [
+                "skillful",
+                "clever",
+                "nimble",
+                "competent"
+            ],
+            "examples": [
+                "She is adroit at negotiating.",
+                "He made adroit moves during the game."
+            ]
+        }
+    ],
+    "artist": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who creates art such as paintings, drawings, or sculptures",
+            "synonyms": [
+                "painter",
+                "creator",
+                "art worker"
+            ],
+            "examples": [
+                "She is an artist who paints landscapes.",
+                "The artist will display new work next month."
+            ]
+        }
+    ],
+    "audible": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "able to be heard",
+            "synonyms": [
+                "hearable",
+                "audible enough",
+                "sounded"
+            ],
+            "examples": [
+                "The music was audible even outside.",
+                "I could not make out the words, but the sound was audible."
+            ]
+        }
+    ],
+    "audience": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a group of people who watch a performance or listen to a talk",
+            "synonyms": [
+                "viewers",
+                "listeners",
+                "crowd"
+            ],
+            "examples": [
+                "The audience applauded at the end.",
+                "We need to impress the audience quickly."
+            ]
+        }
+    ],
+    "auditory": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "related to hearing",
+            "synonyms": [
+                "hearing-related",
+                "sound-related",
+                "aural"
+            ],
+            "examples": [
+                "Auditory tests measure how well you hear.",
+                "The doctor gave auditory instructions."
+            ]
+        }
+    ],
+    "auditor": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person or company that checks and verifies financial records",
+            "synonyms": [
+                "accountant",
+                "financial checker",
+                "reviewer"
+            ],
+            "examples": [
+                "An auditor reviewed the company’s accounts.",
+                "The auditor found a mistake."
+            ]
+        }
+    ],
+    "amber": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having a yellow-orange color",
+            "synonyms": [
+                "golden",
+                "yellow-orange",
+                "honey-colored"
+            ],
+            "examples": [
+                "The streetlight glowed amber.",
+                "She wore an amber scarf."
+            ]
+        }
+    ],
+    "ascribe": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to believe that something is caused by a particular thing or person",
+            "synonyms": [
+                "attribute",
+                "credit",
+                "blame"
+            ],
+            "examples": [
+                "They ascribed the delay to traffic.",
+                "We ascribed her success to hard work."
+            ]
+        }
+    ],
+    "anxious": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "worried or nervous about something that might happen",
+            "synonyms": [
+                "worried",
+                "nervous",
+                "uneasy",
+                "concerned"
+            ],
+            "examples": [
+                "I am anxious about the test.",
+                "She felt anxious waiting for the call."
+            ]
+        }
+    ],
+    "aquatic": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "related to water or living in or near water",
+            "synonyms": [
+                "water-based",
+                "water-loving",
+                "of the water"
+            ],
+            "examples": [
+                "Aquatic animals live in rivers and lakes.",
+                "They built an aquatic habitat for the fish."
+            ]
+        }
+    ],
+    "aquifer": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an underground layer of rock or sand that holds water",
+            "synonyms": [
+                "underground water source",
+                "water-bearing layer"
+            ],
+            "examples": [
+                "The city gets water from an aquifer.",
+                "Overuse can reduce the aquifer."
+            ]
+        }
+    ],
+    "aquarium": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a tank of water with glass sides where people keep fish and other sea animals",
+            "synonyms": [
+                "fish tank",
+                "tank"
+            ],
+            "examples": [
+                "We visited an aquarium downtown.",
+                "Our aquarium has tropical fish."
+            ]
+        }
+    ],
+    "aqueous": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "made of water or mixed with water",
+            "synonyms": [
+                "water-based",
+                "water-containing",
+                "watery"
+            ],
+            "examples": [
+                "The solution is aqueous.",
+                "Aqueous chemicals are easier to handle."
+            ]
+        }
+    ],
+    "air": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the gas that surrounds the Earth and we breathe",
+            "synonyms": [
+                "atmosphere",
+                "sky"
+            ],
+            "examples": [
+                "The air feels cold today.",
+                "Please open the window for some fresh air."
+            ]
+        }
+    ],
+    "apple": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a round fruit with skin that is usually red, green, or yellow",
+            "synonyms": [
+                "fruit"
+            ],
+            "examples": [
+                "I ate an apple.",
+                "She bought a bag of apples."
+            ]
+        }
+    ],
+    "axe": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a tool with a heavy metal head used for cutting wood",
+            "synonyms": [
+                "hatchet",
+                "cutting tool"
+            ],
+            "examples": [
+                "He used an axe to split the log.",
+                "Be careful with the axe."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to cut or remove something quickly and forcefully",
+            "synonyms": [
+                "cut",
+                "reduce",
+                "eliminate"
+            ],
+            "examples": [
+                "They decided to axe the project.",
+                "The company axed several jobs."
+            ]
+        }
     ]
 }

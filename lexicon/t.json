@@ -394,5 +394,338 @@
                 "The magnetism formed a trine with the compass needle."
             ]
         }
+    ],
+    "tall": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having a great height",
+            "synonyms": [
+                "high",
+                "statuesque",
+                "lengthy"
+            ],
+            "examples": [
+                "He is tall and slim.",
+                "The building is tall and narrow."
+            ]
+        },
+        {
+            "part_of_speech": "adverb",
+            "definition": "in a way that is high or with great height",
+            "synonyms": [
+                "high",
+                "upward"
+            ],
+            "examples": [
+                "The plane flew tall above the clouds."
+            ]
+        }
+    ],
+    "thunder": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a loud sound in the sky caused by lightning",
+            "synonyms": [
+                "roar",
+                "boom",
+                "thundering noise"
+            ],
+            "examples": [
+                "The thunder woke me up.",
+                "We heard thunder before the storm arrived."
+            ]
+        }
+    ],
+    "triple": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "three times as many or three times as much",
+            "synonyms": [
+                "threefold",
+                "three-times",
+                "triplicate"
+            ],
+            "examples": [
+                "The cost is triple the original price.",
+                "He needs triple the amount of time."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "the number 3 or a set of three",
+            "synonyms": [
+                "three",
+                "three set"
+            ],
+            "examples": [
+                "They bought a triple of snacks."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to multiply by three",
+            "synonyms": [
+                "multiply by three",
+                "threefold",
+                "increase three times"
+            ],
+            "examples": [
+                "The plan will triple our profits.",
+                "Her score tripled in a year."
+            ]
+        }
+    ],
+    "triad": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a group of three people or things",
+            "synonyms": [
+                "trio",
+                "set of three",
+                "triplet"
+            ],
+            "examples": [
+                "The triad of leaders met today.",
+                "The book is written around a triad of themes."
+            ]
+        }
+    ],
+    "troika": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a group of three people who work or travel together, especially in a leadership role",
+            "synonyms": [
+                "trio",
+                "three-person group",
+                "three leaders"
+            ],
+            "examples": [
+                "A troika of managers made the decision.",
+                "They called it a troika because three students ran the project."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a horse-drawn carriage pulled by three horses abreast",
+            "synonyms": [
+                "three-horse carriage"
+            ],
+            "examples": [
+                "In the museum, we saw a troika from long ago."
+            ]
+        }
+    ],
+    "trinity": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the Christian belief in one God in three persons",
+            "synonyms": [
+                "three-in-one belief"
+            ],
+            "examples": [
+                "In Christianity, the Trinity is an important doctrine."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a group of three closely connected things or people",
+            "synonyms": [
+                "triad",
+                "trio",
+                "three-part group"
+            ],
+            "examples": [
+                "The trinity of goals guided the team.",
+                "She joined a trinity of friends."
+            ]
+        }
+    ],
+    "tenebrous": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very dark and shadowy",
+            "synonyms": [
+                "dark",
+                "dim",
+                "shadowy"
+            ],
+            "examples": [
+                "The tenebrous hallway felt unsafe.",
+                "The room was tenebrous after the lights went out."
+            ]
+        }
+    ],
+    "tidbit": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small interesting piece of information",
+            "synonyms": [
+                "fact",
+                "snippet",
+                "piece of info"
+            ],
+            "examples": [
+                "Here is a tidbit about the city.",
+                "He shared a tidbit from his research."
+            ]
+        }
+    ],
+    "tempo": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the speed of music or the pace of an activity",
+            "synonyms": [
+                "speed",
+                "rate",
+                "pace"
+            ],
+            "examples": [
+                "The song has a fast tempo.",
+                "The meeting needs a slower tempo."
+            ]
+        }
+    ],
+    "tense": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "nervous or stressed, especially because something may go wrong",
+            "synonyms": [
+                "nervous",
+                "stressed",
+                "worried",
+                "on edge"
+            ],
+            "examples": [
+                "The room felt tense before the announcement.",
+                "He sounded tense on the phone."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a grammatical form used to show when an action happens",
+            "synonyms": [
+                "grammatical tense",
+                "time form"
+            ],
+            "examples": [
+                "English uses past, present, and future tense."
+            ]
+        }
+    ],
+    "transient": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "lasting only a short time",
+            "synonyms": [
+                "temporary",
+                "brief",
+                "short-lived",
+                "evanescent"
+            ],
+            "examples": [
+                "The pain was transient.",
+                "Their stay was transient."
+            ]
+        }
+    ],
+    "transitory": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "changing and not lasting forever",
+            "synonyms": [
+                "temporary",
+                "passing",
+                "brief",
+                "transient"
+            ],
+            "examples": [
+                "The weather was transitory and changed quickly.",
+                "Her anger was transitory."
+            ]
+        }
+    ],
+    "transcribe": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to write or type words from speech, notes, or audio",
+            "synonyms": [
+                "copy",
+                "convert to text",
+                "note down"
+            ],
+            "examples": [
+                "Please transcribe this interview.",
+                "He transcribed the recording into a document."
+            ]
+        }
+    ],
+    "tinkle": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a light, small sound like a bell",
+            "synonyms": [
+                "chime",
+                "jingle",
+                "tingle"
+            ],
+            "examples": [
+                "We heard a tinkle of coins.",
+                "The wind made a tinkle sound."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a light ringing sound",
+            "synonyms": [
+                "chime",
+                "jingle",
+                "ring softly"
+            ],
+            "examples": [
+                "The glassware tinkled as she set it down.",
+                "The bicycle bell tinkled."
+            ]
+        }
+    ],
+    "tailor": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person whose job is to make, repair, or alter clothing",
+            "synonyms": [
+                "clothes maker",
+                "seamster",
+                "dressmaker"
+            ],
+            "examples": [
+                "She took her suit to a tailor.",
+                "The tailor fixed the sleeve."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make clothing fit a person by adjusting it",
+            "synonyms": [
+                "alter",
+                "sew",
+                "custom-make"
+            ],
+            "examples": [
+                "They tailored the dress for her.",
+                "He tailored the jacket in two days."
+            ]
+        }
+    ],
+    "tulip": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a flower with a bulb that usually blooms in spring, often in many bright colors",
+            "synonyms": [
+                "flower"
+            ],
+            "examples": [
+                "We planted tulips in the garden.",
+                "The tulips are blooming now."
+            ]
+        }
     ]
 }

@@ -40,5 +40,163 @@
                 "We invited my nephew to the game."
             ]
         }
+    ],
+    "nurse": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a healthcare worker who gives care to patients in hospitals or clinics",
+            "synonyms": [
+                "medical assistant",
+                "healthcare worker",
+                "registered nurse"
+            ],
+            "examples": [
+                "The nurse brought a blanket.",
+                "He is a nurse at the local hospital."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to provide care and support for someone over time",
+            "synonyms": [
+                "care for",
+                "tend",
+                "look after"
+            ],
+            "examples": [
+                "She nursed her brother back to health.",
+                "He nursed a sore throat for days."
+            ]
+        }
+    ],
+    "north": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the direction opposite south",
+            "synonyms": [
+                "northern direction"
+            ],
+            "examples": [
+                "The city lies north of here.",
+                "Look to the north."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "in or toward the north direction",
+            "synonyms": [
+                "northern"
+            ],
+            "examples": [
+                "They drove north for two hours."
+            ]
+        },
+        {
+            "part_of_speech": "adverb",
+            "definition": "toward the north direction",
+            "synonyms": [
+                "northward"
+            ],
+            "examples": [
+                "The train moves north in the morning."
+            ]
+        }
+    ],
+    "nocturnal": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "active at night",
+            "synonyms": [
+                "nighttime",
+                "night-active",
+                "after-dark"
+            ],
+            "examples": [
+                "Owls are nocturnal birds.",
+                "The animal is nocturnal."
+            ]
+        }
+    ],
+    "novel": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a long work of fiction with characters and a plot",
+            "synonyms": [
+                "book",
+                "story",
+                "fiction"
+            ],
+            "examples": [
+                "She wrote a new novel.",
+                "The novel is set in the 1800s."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "new or original in a way that has not been seen before",
+            "synonyms": [
+                "new",
+                "original",
+                "innovative"
+            ],
+            "examples": [
+                "It was a novel idea for the project."
+            ]
+        }
+    ],
+    "note": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a short written message",
+            "synonyms": [
+                "message",
+                "letter",
+                "memo"
+            ],
+            "examples": [
+                "She left a note on my desk.",
+                "I found a note in the book."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a single sound with a specific pitch in music",
+            "synonyms": [
+                "tone",
+                "sound",
+                "musical sound"
+            ],
+            "examples": [
+                "The piano played a high note.",
+                "That note is hard to sing."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to notice or pay attention to something",
+            "synonyms": [
+                "notice",
+                "observe",
+                "recognize"
+            ],
+            "examples": [
+                "Did you note the change in schedule?",
+                "I noted her name in my notebook."
+            ]
+        }
+    ],
+    "noon": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the middle of the day when the sun is highest",
+            "synonyms": [
+                "midday",
+                "12 p.m."
+            ],
+            "examples": [
+                "Meet me at noon.",
+                "The store closes at noon."
+            ]
+        }
     ]
 }

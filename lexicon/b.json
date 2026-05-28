@@ -383,5 +383,281 @@
                 "The festival featured bardic performances."
             ]
         }
+    ],
+    "buzz": [
+        {
+            "part_of_speech": "noun",
+            "definition": "A low, continuous humming sound.",
+            "synonyms": [
+                "hum",
+                "drone",
+                "vibration"
+            ],
+            "examples": []
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "To make a buzzing sound; to vibrate with a low hum.",
+            "synonyms": [
+                "hum",
+                "drone",
+                "resonate"
+            ],
+            "examples": []
+        }
+    ],
+    "bank": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a financial institution where people keep money and borrow money",
+            "synonyms": [
+                "financial institution",
+                "lender",
+                "banking institution"
+            ],
+            "examples": [
+                "The bank is near the station.",
+                "I opened an account at a bank."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "the side of a river or lake",
+            "synonyms": [
+                "shore",
+                "riverbank",
+                "lake edge"
+            ],
+            "examples": [
+                "We sat on the bank of the river.",
+                "The ducks were near the bank."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to move or turn an aircraft so that it tilts to one side",
+            "synonyms": [
+                "tilt",
+                "turn",
+                "bank to the side"
+            ],
+            "examples": [
+                "The pilot banked left.",
+                "The plane banks sharply during the turn."
+            ]
+        }
+    ],
+    "bass": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a type of fish that lives in rivers or lakes",
+            "synonyms": [
+                "fish",
+                "game fish"
+            ],
+            "examples": [
+                "We caught a bass in the lake.",
+                "Bass are popular for fishing."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a low musical voice or the low part of music",
+            "synonyms": [
+                "low voice",
+                "low note"
+            ],
+            "examples": [
+                "He sings bass in the choir.",
+                "The song’s bass is very deep."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "low in pitch, especially in music or voice",
+            "synonyms": [
+                "low",
+                "deep"
+            ],
+            "examples": [
+                "She has a bass voice."
+            ]
+        }
+    ],
+    "bowl": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a container that is round and usually open at the top, used for food or liquids",
+            "synonyms": [
+                "container",
+                "dish",
+                "cup"
+            ],
+            "examples": [
+                "He ate soup from a bowl.",
+                "Please pass me the bowl."
+            ]
+        }
+    ],
+    "book": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a set of written or printed pages that are bound together",
+            "synonyms": [
+                "volume",
+                "novel",
+                "work"
+            ],
+            "examples": [
+                "I finished the book last night.",
+                "Do you have that book in paperback?"
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to reserve a place or service in advance",
+            "synonyms": [
+                "reserve",
+                "schedule",
+                "arrange"
+            ],
+            "examples": [
+                "I booked a table for two.",
+                "She booked her flight online."
+            ]
+        }
+    ],
+    "baker": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who makes bread, cakes, and other baked food",
+            "synonyms": [
+                "bread maker",
+                "pastry chef",
+                "breadsman"
+            ],
+            "examples": [
+                "The baker sells fresh bread every morning.",
+                "She works as a baker."
+            ]
+        }
+    ],
+    "blue": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having the color of the sky on a clear day",
+            "synonyms": [
+                "azure",
+                "sapphire",
+                "blue-green"
+            ],
+            "examples": [
+                "He has blue eyes.",
+                "The car is blue."
+            ]
+        }
+    ],
+    "ballad": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a song or poem that tells a story, often in a slow and emotional way",
+            "synonyms": [
+                "song",
+                "narrative poem",
+                "folk song"
+            ],
+            "examples": [
+                "The ballad tells the story of a sailor.",
+                "We listened to an old ballad."
+            ]
+        }
+    ],
+    "brawny": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "strong and muscular, especially in appearance",
+            "synonyms": [
+                "strong",
+                "muscular",
+                "powerful",
+                "sturdy"
+            ],
+            "examples": [
+                "He has a brawny build.",
+                "A brawny worker lifted the box easily."
+            ]
+        }
+    ],
+    "brisk": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "quick and energetic, or pleasantly cold",
+            "synonyms": [
+                "lively",
+                "energetic",
+                "quick",
+                "fresh"
+            ],
+            "examples": [
+                "We walked at a brisk pace.",
+                "It was a brisk morning."
+            ]
+        },
+        {
+            "part_of_speech": "adverb",
+            "definition": "in a quick energetic way",
+            "synonyms": [
+                "quickly",
+                "energetically"
+            ],
+            "examples": [
+                "She spoke briskly and clearly."
+            ]
+        }
+    ],
+    "banana": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a long yellow fruit that grows in clusters",
+            "synonyms": [
+                "fruit",
+                "plantain"
+            ],
+            "examples": [
+                "Do you want a banana?",
+                "She ate a banana for breakfast."
+            ]
+        }
+    ],
+    "benign": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "kind and not harmful",
+            "synonyms": [
+                "gentle",
+                "kind",
+                "harmless",
+                "friendly"
+            ],
+            "examples": [
+                "The doctor said the tumor is benign.",
+                "He had a benign smile."
+            ]
+        }
+    ],
+    "buddy": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a friend, especially a male friend, in informal speech",
+            "synonyms": [
+                "pal",
+                "friend",
+                "mate"
+            ],
+            "examples": [
+                "My buddy helped me move.",
+                "We are good buddies."
+            ]
+        }
     ]
 }

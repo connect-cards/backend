@@ -258,5 +258,188 @@
                 "The river winds through the valley before reaching the coast."
             ]
         }
+    ],
+    "rumor": [
+        {
+            "part_of_speech": "noun",
+            "definition": "information that people say is true but has not been proven",
+            "synonyms": [
+                "report",
+                "whisper",
+                "unverified claim"
+            ],
+            "examples": [
+                "There is a rumor that the store will close.",
+                "She ignored the rumor."
+            ]
+        }
+    ],
+    "recondite": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "hard to understand because it is very detailed or uncommon",
+            "synonyms": [
+                "obscure",
+                "complex",
+                "arcane",
+                "hard to grasp"
+            ],
+            "examples": [
+                "The professor used recondite vocabulary.",
+                "The article is recondite and difficult to read."
+            ]
+        }
+    ],
+    "rest": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a pause or the act of stopping for recovery",
+            "synonyms": [
+                "break",
+                "pause",
+                "recovery time"
+            ],
+            "examples": [
+                "I need some rest after work.",
+                "Take a rest before the next activity."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "silence in music indicated by a rest symbol",
+            "synonyms": [
+                "silence",
+                "musical pause"
+            ],
+            "examples": [
+                "There is a rest in the middle of the song."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to stop working or stay inactive to recover energy",
+            "synonyms": [
+                "relax",
+                "recharge",
+                "take a break"
+            ],
+            "examples": [
+                "I rested all afternoon.",
+                "She rests on Sundays."
+            ]
+        }
+    ],
+    "red": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having the color of blood or tomatoes",
+            "synonyms": [
+                "crimson",
+                "scarlet",
+                "ruby"
+            ],
+            "examples": [
+                "She wore a red dress.",
+                "The sign is red."
+            ]
+        }
+    ],
+    "rad": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "excellent or very exciting in informal slang",
+            "synonyms": [
+                "cool",
+                "awesome",
+                "great",
+                "fantastic"
+            ],
+            "examples": [
+                "That new game is rad.",
+                "Her outfit looks rad."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a unit of absorbed radiation dose (symbol: rad)",
+            "synonyms": [
+                "radiation dose unit"
+            ],
+            "examples": [
+                "The lab report lists the dose in rad."
+            ]
+        }
+    ],
+    "round": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "shaped like a circle; not straight-edged",
+            "synonyms": [
+                "circular",
+                "orb-shaped",
+                "curved"
+            ],
+            "examples": [
+                "We need a round table.",
+                "She has a round face."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "about a particular number, not exactly that number",
+            "synonyms": [
+                "about",
+                "roughly",
+                "approximately"
+            ],
+            "examples": [
+                "The cost is round $200.",
+                "It takes round 10 minutes."
+            ]
+        }
+    ],
+    "ramble": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to walk or speak in a way that is not direct or organized",
+            "synonyms": [
+                "wander",
+                "stroll",
+                "talk on and on"
+            ],
+            "examples": [
+                "She rambled through the museum.",
+                "He rambled about sports for an hour."
+            ]
+        }
+    ],
+    "roam": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to move around freely, often without a fixed route",
+            "synonyms": [
+                "wander",
+                "range",
+                "drift"
+            ],
+            "examples": [
+                "Cats roam at night.",
+                "The hikers roamed through the forest."
+            ]
+        }
+    ],
+    "raven": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a large black bird known for its intelligence",
+            "synonyms": [
+                "blackbird",
+                "corvid"
+            ],
+            "examples": [
+                "A raven landed on the fence.",
+                "In the story, the raven spoke."
+            ]
+        }
     ]
 }

@@ -150,5 +150,64 @@
                 "That fella over there is a talented musician."
             ]
         }
+    ],
+    "fire": [
+        {
+            "part_of_speech": "noun",
+            "definition": "heat and light caused by burning",
+            "synonyms": [
+                "flames",
+                "blaze",
+                "burning"
+            ],
+            "examples": [
+                "Be careful with the fire.",
+                "The fire spread quickly."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to burn and produce flames",
+            "synonyms": [
+                "burn",
+                "ignite",
+                "flare up"
+            ],
+            "examples": [
+                "The candles fired brightly.",
+                "The engine fired after the fuel was added."
+            ]
+        }
+    ],
+    "fairness": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the quality of being fair and treating people equally",
+            "synonyms": [
+                "justice",
+                "impartiality",
+                "equity"
+            ],
+            "examples": [
+                "Fairness matters in every classroom.",
+                "The decision was based on fairness."
+            ]
+        }
+    ],
+    "furious": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "extremely angry",
+            "synonyms": [
+                "enraged",
+                "furiously angry",
+                "mad",
+                "incensed"
+            ],
+            "examples": [
+                "He was furious when the car was damaged.",
+                "They became furious at the unfair decision."
+            ]
+        }
     ]
 }

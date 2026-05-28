@@ -423,5 +423,342 @@
                 "She studied psychology to understand human behavior."
             ]
         }
+    ],
+    "portal": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a website or online system where you can access services or information",
+            "synonyms": [
+                "website",
+                "gateway",
+                "site"
+            ],
+            "examples": [
+                "Use the student portal to check your grades.",
+                "The bank launched a new customer portal."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a doorway or opening, often imagined in stories or science fiction",
+            "synonyms": [
+                "gateway",
+                "doorway",
+                "arch"
+            ],
+            "examples": [
+                "In the story, the hero stepped through a portal."
+            ]
+        }
+    ],
+    "portfolio": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a collection of a person’s work, skills, or achievements, often shown to employers",
+            "synonyms": [
+                "work sample",
+                "collection",
+                "case file"
+            ],
+            "examples": [
+                "She built an online portfolio for design jobs.",
+                "The artist brought a portfolio to the interview."
+            ]
+        }
+    ],
+    "philanthropic": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "connected with helping people, especially by giving money to good causes",
+            "synonyms": [
+                "charitable",
+                "generous",
+                "benevolent"
+            ],
+            "examples": [
+                "He made a philanthropic donation to the hospital.",
+                "The foundation has a philanthropic mission."
+            ]
+        }
+    ],
+    "plate": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a flat dish used to serve food",
+            "synonyms": [
+                "dish",
+                "serving dish",
+                "platter"
+            ],
+            "examples": [
+                "Put the pasta on the plate.",
+                "She ate from a small plate."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a flat piece of metal used for covering or supporting",
+            "synonyms": [
+                "sheet",
+                "metal sheet",
+                "metal plate"
+            ],
+            "examples": [
+                "The machine parts are held by a steel plate.",
+                "A plate covers the hole."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to cover food with a layer of something, especially in cooking",
+            "synonyms": [
+                "serve",
+                "arrange",
+                "present"
+            ],
+            "examples": [
+                "They plated the dessert neatly.",
+                "The chef plated the main course."
+            ]
+        }
+    ],
+    "page": [
+        {
+            "part_of_speech": "noun",
+            "definition": "one side of a paper in a book, magazine, or document",
+            "synonyms": [
+                "sheet",
+                "leaf"
+            ],
+            "examples": [
+                "Turn to page 12.",
+                "The page is missing."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who helps at events by running errands or delivering messages",
+            "synonyms": [
+                "messenger",
+                "attendant"
+            ],
+            "examples": [
+                "The page handed out programs at the theater."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to send a message to someone by electronic paging or a short alert",
+            "synonyms": [
+                "call",
+                "alert",
+                "page someone"
+            ],
+            "examples": [
+                "They paged me when my turn was ready."
+            ]
+        }
+    ],
+    "pig": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a farm animal with a pink body and a snout, raised for meat",
+            "synonyms": [
+                "hog",
+                "swine"
+            ],
+            "examples": [
+                "The pig looks healthy.",
+                "They raise pigs on the farm."
+            ]
+        }
+    ],
+    "physician": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a doctor who treats illness and provides medical care",
+            "synonyms": [
+                "doctor",
+                "medical doctor",
+                "medic"
+            ],
+            "examples": [
+                "The physician examined him.",
+                "She saw a physician for her symptoms."
+            ]
+        }
+    ],
+    "prescribe": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to recommend or officially order a treatment, medicine, or course of action",
+            "synonyms": [
+                "recommend",
+                "order",
+                "set"
+            ],
+            "examples": [
+                "The doctor prescribed antibiotics.",
+                "They prescribed a strict diet."
+            ]
+        }
+    ],
+    "pal": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a friend, used in informal speech",
+            "synonyms": [
+                "friend",
+                "buddy",
+                "mate"
+            ],
+            "examples": [
+                "Thanks, pal.",
+                "I met my pal at school."
+            ]
+        }
+    ],
+    "portly": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "somewhat fat in a dignified, not unhealthy, way",
+            "synonyms": [
+                "well-fed",
+                "stout",
+                "heavyset",
+                "stocky"
+            ],
+            "examples": [
+                "The old man was portly.",
+                "He wore a portly suit."
+            ]
+        }
+    ],
+    "peer": [
+        {
+            "part_of_speech": "noun",
+            "definition": "someone with the same age or social level as you",
+            "synonyms": [
+                "equal",
+                "colleague",
+                "mate"
+            ],
+            "examples": [
+                "She asked for advice from a peer.",
+                "Teachers should support every peer."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to look closely, especially to see something that is hard to notice",
+            "synonyms": [
+                "look",
+                "glance",
+                "inspect"
+            ],
+            "examples": [
+                "I peered into the dark room.",
+                "He peered through the glass."
+            ]
+        }
+    ],
+    "parity": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a state of being equal or balanced",
+            "synonyms": [
+                "equality",
+                "balance",
+                "sameness"
+            ],
+            "examples": [
+                "They wanted parity between the teams.",
+                "The policy aims for parity in pay."
+            ]
+        }
+    ],
+    "physique": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person’s body shape and physical build",
+            "synonyms": [
+                "body",
+                "build",
+                "stature"
+            ],
+            "examples": [
+                "He has a strong physique.",
+                "Her physique is athletic."
+            ]
+        }
+    ],
+    "poppy": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a flower that often has bright red, pink, or orange blooms",
+            "synonyms": [
+                "flower",
+                "wildflower"
+            ],
+            "examples": [
+                "The field was full of poppies.",
+                "She picked a small poppy for the table."
+            ]
+        }
+    ],
+    "portable": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "easy to carry or move from place to place",
+            "synonyms": [
+                "carryable",
+                "transportable",
+                "handheld"
+            ],
+            "examples": [
+                "Bring a portable chair to the picnic.",
+                "The portable speaker connects by Bluetooth."
+            ]
+        }
+    ],
+    "porter": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who carries luggage for travelers, especially at a hotel or station",
+            "synonyms": [
+                "luggage carrier",
+                "helper",
+                "bellhop"
+            ],
+            "examples": [
+                "The porter brought my suitcase to the room.",
+                "We tipped the porter."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who carries goods in an industrial or shipping setting",
+            "synonyms": [
+                "worker",
+                "carrier"
+            ],
+            "examples": [
+                "A porter works in the warehouse."
+            ]
+        }
+    ],
+    "plumber": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who installs and repairs pipes and plumbing systems",
+            "synonyms": [
+                "pipefitter",
+                "water system technician"
+            ],
+            "examples": [
+                "The plumber fixed the leak.",
+                "We called a plumber after the sink clogged."
+            ]
+        }
     ]
 }

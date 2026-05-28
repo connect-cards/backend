@@ -1,0 +1,32 @@
+{
+    "zenith": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the highest point reached by something, especially in the sky or in time",
+            "synonyms": [
+                "peak",
+                "highest point",
+                "top"
+            ],
+            "examples": [
+                "At noon, the sun is near its zenith.",
+                "The project reached its zenith last year."
+            ]
+        }
+    ],
+    "zephyr": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a gentle breeze",
+            "synonyms": [
+                "breeze",
+                "light wind",
+                "gentle wind"
+            ],
+            "examples": [
+                "A zephyr cooled the hot day.",
+                "We felt a zephyr across the field."
+            ]
+        }
+    ]
+}

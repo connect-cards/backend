@@ -264,5 +264,220 @@
                 "Geology explains how mountains were formed."
             ]
         }
+    ],
+    "gnome": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small imaginary creature in folklore, often said to live underground",
+            "synonyms": [
+                "mythical creature",
+                "folklore being"
+            ],
+            "examples": [
+                "In the garden book, a gnome protects the plants.",
+                "The statue looks like a gnome."
+            ]
+        }
+    ],
+    "gossip": [
+        {
+            "part_of_speech": "noun",
+            "definition": "informal talk about other people’s personal matters, often not confirmed as true",
+            "synonyms": [
+                "rumor",
+                "chatter",
+                "talk"
+            ],
+            "examples": [
+                "Don’t spread gossip at work.",
+                "I heard gossip about the new manager."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to talk informally about other people’s personal matters",
+            "synonyms": [
+                "chat",
+                "talk",
+                "spread rumors"
+            ],
+            "examples": [
+                "They gossiped about their classmates.",
+                "People were gossiping in the hallway."
+            ]
+        }
+    ],
+    "green": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having the color of plants",
+            "synonyms": [
+                "emerald",
+                "emerald-green",
+                "lime"
+            ],
+            "examples": [
+                "The leaves are green.",
+                "She painted the wall green."
+            ]
+        }
+    ],
+    "gaunt": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "thin in a way that looks unhealthy or tired",
+            "synonyms": [
+                "thin",
+                "hollow-cheeked",
+                "sallow",
+                "emaciated"
+            ],
+            "examples": [
+                "He looked gaunt after the illness.",
+                "The gaunt face showed lack of sleep."
+            ]
+        }
+    ],
+    "guy": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a man or person, especially one you are talking to in informal speech",
+            "synonyms": [
+                "man",
+                "dude",
+                "fellow",
+                "person"
+            ],
+            "examples": [
+                "That guy over there looks familiar.",
+                "He is a nice guy."
+            ]
+        }
+    ],
+    "grape": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small round fruit that grows in clusters and can be eaten fresh or used to make wine",
+            "synonyms": [
+                "fruit",
+                "vine fruit"
+            ],
+            "examples": [
+                "The salad has grapes.",
+                "He bought a bunch of grapes."
+            ]
+        }
+    ],
+    "gaze": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a long look at something",
+            "synonyms": [
+                "look",
+                "stare",
+                "watch"
+            ],
+            "examples": [
+                "She held her gaze on the screen.",
+                "His gaze made me uncomfortable."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to look steadily for a long time",
+            "synonyms": [
+                "stare",
+                "look",
+                "watch"
+            ],
+            "examples": [
+                "He gazed out the window.",
+                "She gazed at the painting."
+            ]
+        }
+    ],
+    "glittering": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "shining with many small bright reflections",
+            "synonyms": [
+                "sparkling",
+                "shimmering",
+                "gleaming"
+            ],
+            "examples": [
+                "The glittering lights looked beautiful.",
+                "Her eyes were glittering with excitement."
+            ]
+        }
+    ],
+    "glittery": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "covered with glitter or looking like glitter",
+            "synonyms": [
+                "shimmery",
+                "sparkly",
+                "glitter-covered"
+            ],
+            "examples": [
+                "She wore a glittery dress.",
+                "The decoration looked glittery under the lights."
+            ]
+        }
+    ],
+    "guffaw": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a loud rough laugh",
+            "synonyms": [
+                "bellow",
+                "roar",
+                "belly laugh"
+            ],
+            "examples": [
+                "We heard a guffaw from the back of the room."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to laugh loudly in a rough way",
+            "synonyms": [
+                "laugh loudly",
+                "roar",
+                "burst out laughing"
+            ],
+            "examples": [
+                "He guffawed at the joke.",
+                "They started to guffaw when the comedian entered."
+            ]
+        }
+    ],
+    "giggle": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to laugh in a light, nervous, or playful way",
+            "synonyms": [
+                "chuckle",
+                "laugh softly",
+                "giggle"
+            ],
+            "examples": [
+                "She giggled when the baby fell over.",
+                "The kids giggled during the game."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a light playful laugh",
+            "synonyms": [
+                "chuckle",
+                "laugh",
+                "giggle"
+            ],
+            "examples": [
+                "There was a giggle in the room."
+            ]
+        }
     ]
 }

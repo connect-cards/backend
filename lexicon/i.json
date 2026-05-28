@@ -96,5 +96,153 @@
                 "He became irate after the long delay."
             ]
         }
+    ],
+    "ironic": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Happening in a way that is opposite to what is expected or intended; often dryly humorous.",
+            "synonyms": [
+                "sarcastic",
+                "satirical",
+                "wry",
+                "dry"
+            ],
+            "examples": []
+        }
+    ],
+    "import": [
+        {
+            "part_of_speech": "noun",
+            "definition": "goods brought into a country for sale or use",
+            "synonyms": [
+                "goods",
+                "merchandise",
+                "cargo"
+            ],
+            "examples": [
+                "Imports increased this year.",
+                "The company sells both local and import products."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to bring goods from another country into your country",
+            "synonyms": [
+                "bring in",
+                "purchase",
+                "bring over"
+            ],
+            "examples": [
+                "They import coffee from Colombia.",
+                "The factory imports parts from Japan."
+            ]
+        }
+    ],
+    "incandescent": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "shining brightly because it is hot",
+            "synonyms": [
+                "glowing",
+                "radiant",
+                "bright"
+            ],
+            "examples": [
+                "The metal was incandescent from the heat.",
+                "Incandescent bulbs light up with a warm glow."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a type of light bulb that produces light by heating a metal filament",
+            "synonyms": [
+                "incandescent bulb"
+            ],
+            "examples": [
+                "Old houses still use incandescent."
+            ]
+        }
+    ],
+    "icy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very cold, like ice",
+            "synonyms": [
+                "frosty",
+                "freezing",
+                "glacial"
+            ],
+            "examples": [
+                "The road is icy today.",
+                "She gave me an icy look."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "cold and unfriendly in attitude",
+            "synonyms": [
+                "cold",
+                "unfriendly",
+                "chilly"
+            ],
+            "examples": [
+                "His response was icy."
+            ]
+        }
+    ],
+    "impartiality": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the quality of treating everyone fairly, without favoritism",
+            "synonyms": [
+                "fairness",
+                "objectivity",
+                "neutrality"
+            ],
+            "examples": [
+                "The judge showed impartiality.",
+                "Impartiality is important in judging."
+            ]
+        }
+    ],
+    "inscribe": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to write or engrave letters or words on a surface",
+            "synonyms": [
+                "engrave",
+                "write",
+                "carve"
+            ],
+            "examples": [
+                "She inscribed her name on the book.",
+                "They inscribed a message on the medal."
+            ]
+        }
+    ],
+    "iris": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the colored part of the eye that surrounds the pupil",
+            "synonyms": [
+                "eye color",
+                "colored part of the eye"
+            ],
+            "examples": [
+                "Her iris is brown.",
+                "Light affects the iris."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a type of flowering plant with colorful blooms",
+            "synonyms": [
+                "flower",
+                "iris flower"
+            ],
+            "examples": [
+                "The garden has purple iris flowers."
+            ]
+        }
     ]
 }
