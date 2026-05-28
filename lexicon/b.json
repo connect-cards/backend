@@ -393,7 +393,10 @@
                 "drone",
                 "vibration"
             ],
-            "examples": []
+            "examples": [
+                "The buzz of the bees filled the garden.",
+                "I could hear the faint buzz of a fluorescent light."
+            ]
         },
         {
             "part_of_speech": "verb",
@@ -403,7 +406,10 @@
                 "drone",
                 "resonate"
             ],
-            "examples": []
+            "examples": [
+                "A fly buzzed around the room all afternoon.",
+                "My phone buzzed in my pocket during the meeting."
+            ]
         }
     ],
     "bank": [

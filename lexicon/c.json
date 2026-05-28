@@ -516,7 +516,10 @@
                 "clangour",
                 "ringing"
             ],
-            "examples": []
+            "examples": [
+                "The clang of the factory bell echoed across the yard.",
+                "We heard a loud clang from the garage."
+            ]
         },
         {
             "part_of_speech": "verb",
@@ -526,7 +529,10 @@
                 "resound",
                 "clash"
             ],
-            "examples": []
+            "examples": [
+                "The metal gate clanged shut behind us.",
+                "Workers clange their tools against the pipes."
+            ]
         }
     ],
     "chirp": [
@@ -538,7 +544,10 @@
                 "peep",
                 "chirrup"
             ],
-            "examples": []
+            "examples": [
+                "The chirp of birds woke me up early in the morning.",
+                "We could hear the faint chirp of crickets outside."
+            ]
         },
         {
             "part_of_speech": "verb",
@@ -548,7 +557,10 @@
                 "tweet",
                 "peep"
             ],
-            "examples": []
+            "examples": [
+                "The sparrows chirpe happily in the tree.",
+                "Crickets chirped throughout the warm summer night."
+            ]
         }
     ],
     "chill": [
@@ -560,7 +572,10 @@
                 "coolness",
                 "frigidness"
             ],
-            "examples": []
+            "examples": [
+                "A sudden chill ran through the room when the door opened.",
+                "I felt a chill after walking outside without a jacket."
+            ]
         },
         {
             "part_of_speech": "verb",
@@ -569,7 +584,10 @@
                 "cool",
                 "refrigerate"
             ],
-            "examples": []
+            "examples": [
+                "Put the juice in the fridge to chill it before serving.",
+                "The evening breeze quickly chilled the air."
+            ]
         },
         {
             "part_of_speech": "adjective",
@@ -579,7 +597,10 @@
                 "casual",
                 "laid-back"
             ],
-            "examples": []
+            "examples": [
+                "We had a chill evening watching movies at home.",
+                "He's very chill and doesn't get stressed easily."
+            ]
         }
     ],
     "cope": [

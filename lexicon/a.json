@@ -234,7 +234,10 @@
                 "thespian",
                 "entertainer"
             ],
-            "examples": []
+            "examples": [
+                "The actor spent months preparing for the role.",
+                "She became a famous actor after starring in several hit movies."
+            ]
         }
     ],
     "awesome": [
@@ -247,7 +250,10 @@
                 "fantastic",
                 "incredible"
             ],
-            "examples": []
+            "examples": [
+                "The view from the top of the mountain was awesome.",
+                "You did an awesome job on the presentation."
+            ]
         }
     ],
     "amice": [
