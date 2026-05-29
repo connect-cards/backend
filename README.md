@@ -54,18 +54,20 @@ connected-cards-be/
 │   ├── b.json
 │   └── ...
 │
-├── scripts/
-│   ├── create.ts
-│   ├── repair.ts
-│
 ├── src/
-│   ├── generatePuzzles.ts
-│   ├── generateLexicon.ts
-│   ├── checkLexicon.ts
-│   ├── validatePuzzle.ts
-│   └── prompts.ts
-│   └── schema.ts
-│   └── utils.ts
+│   ├── llm
+│   │   ├── client.ts
+│   │   ├── prompts.ts
+│   │   └── schema.ts
+│   │
+│   ├── utils
+│   │   ├── generatePuzzles.ts
+│   │   ├── generateLexicon.ts
+│   │   ├── checkLexicon.ts
+│   │   └── checkPuzzle.ts
+│   │
+│   ├── create.ts
+│   └── repair.ts
 │
 ├── .github/workflows/
 │   └── monthly-generation.yml

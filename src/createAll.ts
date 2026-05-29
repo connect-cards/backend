@@ -1,5 +1,5 @@
 import fs from "fs-extra";
-import { generatePuzzles, generateLexicon, checkLexicon, checkPuzzleInventory, validatePuzzle } from "../src";
+import { generatePuzzles, generateLexicon, checkLexicon, checkPuzzleInventory, validatePuzzle } from "./utils";
 
 function getNextMonth() {
     const now = new Date();

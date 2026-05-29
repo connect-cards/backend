@@ -1,6 +1,6 @@
 import fs from "fs-extra";
 import { zodTextFormat } from "openai/helpers/zod.mjs";
-import { validationGPTModel, repairPrompt, client, PuzzleSchema } from "./utils";
+import { validationGPTModel, repairPrompt, client, PuzzleSchema } from "../llm";
 
 function getPuzzleFilePath(date: string) {
     const [year, month, day] = date.split("-");

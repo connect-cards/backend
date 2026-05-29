@@ -1,5 +1,5 @@
 import fs from "fs-extra";
-import { generateLexicon, checkLexicon } from "../src";
+import { generateLexicon, checkLexicon } from "./utils";
 
 function printUsage() {
     console.error("Usage: npm run create:lexicon -- <word> [word ...] [--force]");

@@ -5,10 +5,10 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "create": "tsx scripts/createAll.ts",
-    "create:puzzles": "tsx scripts/createPuzzlesOnly.ts",
-    "create:lexicon": "tsx scripts/createLexiconOnly.ts",
-    "repair": "tsx scripts/repair.ts"
+    "create": "tsx src/createAll.ts",
+    "create:puzzles": "tsx src/createPuzzlesOnly.ts",
+    "create:lexicon": "tsx src/createLexiconOnly.ts",
+    "repair": "tsx src/repair.ts"
   },
   "keywords": [],
   "author": "",

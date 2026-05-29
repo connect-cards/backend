@@ -1,4 +1,4 @@
-import { generatePuzzles, validatePuzzle, checkPuzzleInventory } from "../src";
+import { generatePuzzles, validatePuzzle, checkPuzzleInventory } from "./utils";
 
 function printUsage() {
     console.error("Usage: npm run create:puzzles -- <YYYY-MM-DD> [YYYY-MM-DD ...]");

@@ -1,5 +1,5 @@
 import fs from "fs-extra";
-import { repairPuzzle } from "../src";
+import { repairPuzzle } from "./utils";
 
 async function main() {
     const filePath = process.argv[2];

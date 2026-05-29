@@ -1,7 +1,7 @@
 import fs from "fs-extra";
 import path from "path";
 import { zodTextFormat } from 'openai/helpers/zod';
-import { client, puzzlesPrompt, generationGPTModel, PuzzlesResponseSchema } from "./utils";
+import { client, puzzlesPrompt, generationGPTModel, PuzzlesResponseSchema } from "../llm";
 
 const TYPES = [
     "synonym",
