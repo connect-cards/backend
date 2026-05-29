@@ -1557,5 +1557,332 @@
                 "The robot articulated its arms to pick up the object."
             ]
         }
+    ],
+    "acclaim": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to praise someone or something publicly",
+            "synonyms": [
+                "praise",
+                "hail",
+                "celebrate",
+                "commend",
+                "laud"
+            ],
+            "examples": [
+                "The film was acclaimed by critics.",
+                "They acclaimed her for her leadership."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "public praise or approval",
+            "synonyms": [
+                "praise",
+                "recognition",
+                "approval",
+                "commendation",
+                "accreditation"
+            ],
+            "examples": [
+                "The book received widespread acclaim.",
+                "The team earned acclaim for its performance."
+            ]
+        }
+    ],
+    "approve": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to think something is good or acceptable; to give permission",
+            "synonyms": [
+                "agree to",
+                "accept",
+                "permit",
+                "authorize",
+                "sanction"
+            ],
+            "examples": [
+                "The board approved the budget.",
+                "I approve of your plan."
+            ]
+        }
+    ],
+    "abominable": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "extremely bad or unpleasant, especially in a way that deserves strong disapproval",
+            "synonyms": [
+                "awful",
+                "horrible",
+                "terrible",
+                "detestable",
+                "execrable"
+            ],
+            "examples": [
+                "The conditions were abominable.",
+                "It was an abominable mistake."
+            ]
+        }
+    ],
+    "alarm": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a warning that something is dangerous or needs attention",
+            "synonyms": [
+                "warning",
+                "alert",
+                "signal",
+                "notification",
+                "danger signal"
+            ],
+            "examples": [
+                "The smoke alarm saved us.",
+                "The alarm went off at 3 a.m."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make someone feel afraid or worried by something unexpected",
+            "synonyms": [
+                "warn",
+                "frighten",
+                "scare",
+                "disturb",
+                "upset"
+            ],
+            "examples": [
+                "The sudden noise alarmed me.",
+                "The report alarmed many residents."
+            ]
+        }
+    ],
+    "aggrieved": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "feeling harmed or treated unfairly",
+            "synonyms": [
+                "wronged",
+                "hurt",
+                "dissatisfied",
+                "resentful",
+                "offended"
+            ],
+            "examples": [
+                "She said she felt aggrieved by the policy.",
+                "Many residents were aggrieved after the change."
+            ]
+        }
+    ],
+    "austere": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "severe and simple, with few decorations; strict",
+            "synonyms": [
+                "severe",
+                "plain",
+                "spartan",
+                "strict",
+                "unadorned"
+            ],
+            "examples": [
+                "The apartment has an austere style.",
+                "He has an austere approach to rules."
+            ]
+        }
+    ],
+    "appraise": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to judge the value of something, often by a careful inspection",
+            "synonyms": [
+                "evaluate",
+                "assess",
+                "value",
+                "estimate",
+                "review"
+            ],
+            "examples": [
+                "They appraised the house before the sale.",
+                "The expert appraised the painting."
+            ]
+        }
+    ],
+    "allude": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to mention something indirectly, without stating it directly",
+            "synonyms": [
+                "refer",
+                "mention indirectly",
+                "imply",
+                "hint",
+                "signal"
+            ],
+            "examples": [
+                "He alluded to a past disagreement without explaining.",
+                "The speech alluded to recent changes in policy."
+            ]
+        }
+    ],
+    "auscultation": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the medical process of listening to internal sounds of the body, usually the lungs and heart",
+            "synonyms": [
+                "listening test",
+                "physical examination"
+            ],
+            "examples": [
+                "Auscultation is part of a routine checkup.",
+                "The doctor performed auscultation with a stethoscope."
+            ]
+        }
+    ],
+    "alopecia": [
+        {
+            "part_of_speech": "noun",
+            "definition": "loss of hair, either in patches or over the body",
+            "synonyms": [
+                "hair loss",
+                "baldness"
+            ],
+            "examples": [
+                "Alopecia can occur suddenly or gradually.",
+                "She was diagnosed with alopecia."
+            ]
+        }
+    ],
+    "affright": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to frighten strongly",
+            "synonyms": [
+                "frighten",
+                "scare",
+                "startle",
+                "alarm",
+                "terrify"
+            ],
+            "examples": [
+                "The loud noise affrighted the child.",
+                "The threat affrighted everyone in the house."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "strong fear",
+            "synonyms": [
+                "fear",
+                "terror",
+                "fright",
+                "alarm",
+                "panic"
+            ],
+            "examples": [
+                "He felt a sudden affright when the lights went out."
+            ]
+        }
+    ],
+    "admire": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to respect and like someone or something because they are good or impressive",
+            "synonyms": [
+                "respect",
+                "revere",
+                "look up to",
+                "appreciate",
+                "idolize"
+            ],
+            "examples": [
+                "I admire her honesty.",
+                "Many people admire that architect’s work."
+            ]
+        }
+    ],
+    "attract": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to cause someone or something to come closer or to take an interest",
+            "synonyms": [
+                "draw",
+                "bring in",
+                "lure",
+                "pull",
+                "appeal"
+            ],
+            "examples": [
+                "The new sign attracts customers.",
+                "Strong smells can attract insects."
+            ]
+        }
+    ],
+    "accelerate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to increase speed",
+            "synonyms": [
+                "speed up",
+                "hasten",
+                "increase",
+                "gain speed",
+                "advance"
+            ],
+            "examples": [
+                "The bike accelerated quickly.",
+                "The train began to accelerate after leaving the station."
+            ]
+        }
+    ],
+    "adjudicate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make an official decision in a legal dispute",
+            "synonyms": [
+                "rule",
+                "judge",
+                "decide",
+                "settle",
+                "hear"
+            ],
+            "examples": [
+                "The tribunal will adjudicate the dispute.",
+                "A judge adjudicated the case."
+            ]
+        }
+    ],
+    "adjudication": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the process of making a legal decision",
+            "synonyms": [
+                "ruling",
+                "decision",
+                "judgment",
+                "hearing",
+                "court decision"
+            ],
+            "examples": [
+                "Adjudication can take several months.",
+                "The court handled the adjudication of claims."
+            ]
+        }
+    ],
+    "amend": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to change a piece of writing or a law so it becomes better or correct",
+            "synonyms": [
+                "edit",
+                "change",
+                "revise",
+                "adjust",
+                "correct"
+            ],
+            "examples": [
+                "They amended the agreement after new information appeared.",
+                "The council voted to amend the rules."
+            ]
+        }
     ]
 }

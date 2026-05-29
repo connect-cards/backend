@@ -1,0 +1,53 @@
+{
+    "date": "2026-03-11",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "thematic_association",
+            "difficulty": "easy",
+            "title": "Household order",
+            "words": [
+                "tidy",
+                "neat",
+                "clean",
+                "pristine"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "emotional_tone",
+            "difficulty": "medium",
+            "title": "Thinly disguised irritation",
+            "words": [
+                "annoyed",
+                "nettled",
+                "irritated",
+                "piqued"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "sound_association",
+            "difficulty": "hard",
+            "title": "Quick, sharp interruptions",
+            "words": [
+                "interrupt",
+                "interject",
+                "butt-in",
+                "break-in"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "semantic_field",
+            "difficulty": "very_hard",
+            "title": "Literary restraint in expression",
+            "words": [
+                "laconic",
+                "terse",
+                "curt",
+                "brusque"
+            ]
+        }
+    ]
+}

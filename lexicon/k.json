@@ -71,5 +71,22 @@
                 "There was a loud knock at midnight."
             ]
         }
+    ],
+    "knave": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a dishonest person who acts in a bad way",
+            "synonyms": [
+                "rogue",
+                "scoundrel",
+                "rascal",
+                "villain",
+                "miscreant"
+            ],
+            "examples": [
+                "He was a knave who cheated others.",
+                "Don’t trust that knave."
+            ]
+        }
     ]
 }

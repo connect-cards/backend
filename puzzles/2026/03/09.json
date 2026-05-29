@@ -1,0 +1,53 @@
+{
+    "date": "2026-03-09",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "semantic_field",
+            "difficulty": "easy",
+            "title": "Bright metal and cutting tools",
+            "words": [
+                "blade",
+                "brand",
+                "steel",
+                "sword"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "emotional_tone",
+            "difficulty": "medium",
+            "title": "A bleak, joyless atmosphere",
+            "words": [
+                "morbid",
+                "dreary",
+                "somber",
+                "murky"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "morphological_family",
+            "difficulty": "hard",
+            "title": "Words that can mean a weighty decision",
+            "words": [
+                "crucial",
+                "critical",
+                "decisive",
+                "momentous"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "literary_register",
+            "difficulty": "very_hard",
+            "title": "Archaic words for a hostile gaze",
+            "words": [
+                "frown",
+                "gaze",
+                "leer",
+                "scowl"
+            ]
+        }
+    ]
+}

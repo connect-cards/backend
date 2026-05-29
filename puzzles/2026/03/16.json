@@ -1,0 +1,53 @@
+{
+    "date": "2026-03-16",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "thematic_association",
+            "difficulty": "easy",
+            "title": "Fierce light or fire",
+            "words": [
+                "flare",
+                "glimmer",
+                "singe",
+                "flicker"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "emotional_tone",
+            "difficulty": "medium",
+            "title": "Tension and agitation",
+            "words": [
+                "restive",
+                "impatient",
+                "fretful",
+                "volatile"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "informal_register",
+            "difficulty": "hard",
+            "title": "Casual dismissals",
+            "words": [
+                "shilly",
+                "drivel",
+                "nonsense",
+                "balderdash"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "morphological_family",
+            "difficulty": "very_hard",
+            "title": "-scrib- related writing acts",
+            "words": [
+                "inscribe",
+                "transcribe",
+                "prescribe",
+                "describe"
+            ]
+        }
+    ]
+}

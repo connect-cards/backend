@@ -1,0 +1,53 @@
+{
+    "date": "2026-03-26",
+    "groups": [
+        {
+            "id": "easy-2",
+            "type": "easy",
+            "difficulty": "easy",
+            "title": "Faint but steady light or glow",
+            "words": [
+                "glimmer",
+                "flicker",
+                "gleam",
+                "shimmer"
+            ]
+        },
+        {
+            "id": "medium-2",
+            "type": "medium",
+            "difficulty": "medium",
+            "title": "When emotions feel heavy",
+            "words": [
+                "somber",
+                "dreary",
+                "murky",
+                "oppressive"
+            ]
+        },
+        {
+            "id": "hard-2",
+            "type": "hard",
+            "difficulty": "hard",
+            "title": "Speech or writing that is excessively wordy",
+            "words": [
+                "verbose",
+                "prolix",
+                "circumlocutory",
+                "loquacious"
+            ]
+        },
+        {
+            "id": "very_hard-2",
+            "type": "very_hard",
+            "difficulty": "very_hard",
+            "title": "Literary forms of short verse",
+            "words": [
+                "tercet",
+                "quatrain",
+                "rondo",
+                "couplet"
+            ]
+        }
+    ]
+}

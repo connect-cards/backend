@@ -273,5 +273,119 @@
                 "The committee nominated three candidates."
             ]
         }
+    ],
+    "narrate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to tell a story or describe events in order",
+            "synonyms": [
+                "tell",
+                "recount",
+                "relate",
+                "describe",
+                "chronicle"
+            ],
+            "examples": [
+                "She narrated her experience in detail.",
+                "The film narrator helps you follow the plot."
+            ]
+        }
+    ],
+    "neat": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "clean, organized, and carefully arranged",
+            "synonyms": [
+                "tidy",
+                "orderly",
+                "clean",
+                "compact",
+                "well-arranged"
+            ],
+            "examples": [
+                "Her handwriting is neat.",
+                "Make sure the books are kept neat."
+            ]
+        }
+    ],
+    "nettled": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "irritated or annoyed",
+            "synonyms": [
+                "irritated",
+                "annoyed",
+                "angered",
+                "bothered",
+                "exasperated"
+            ],
+            "examples": [
+                "She was nettled by the rude comment.",
+                "He looked nettled when they changed the rules."
+            ]
+        }
+    ],
+    "nonsense": [
+        {
+            "part_of_speech": "noun",
+            "definition": "ideas or statements that do not make sense",
+            "synonyms": [
+                "nonsense",
+                "nonsense talk",
+                "rubbish",
+                "twaddle",
+                "baloney"
+            ],
+            "examples": [
+                "That’s nonsense; the facts are different.",
+                "Stop spreading nonsense."
+            ]
+        }
+    ],
+    "nag": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to keep asking someone repeatedly to do something, especially in an annoying way",
+            "synonyms": [
+                "pester",
+                "bother",
+                "urge",
+                "press",
+                "importune"
+            ],
+            "examples": [
+                "She nags her brother to tidy his room.",
+                "Don’t nag me about it."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a repeated annoying request or complaint",
+            "synonyms": [
+                "pester",
+                "complaint",
+                "nuisance",
+                "urging"
+            ],
+            "examples": [
+                "It was just a nag about homework."
+            ]
+        }
+    ],
+    "needlelike": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "shaped like a needle; long, thin, and pointed",
+            "synonyms": [
+                "thin",
+                "pointed",
+                "slender",
+                "needle-shaped"
+            ],
+            "examples": [
+                "The needlelike spikes hurt when touched.",
+                "The metal was needlelike and sharp."
+            ]
+        }
     ]
 }

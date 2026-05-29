@@ -1,0 +1,53 @@
+{
+    "date": "2026-03-28",
+    "groups": [
+        {
+            "id": "easy-4",
+            "type": "easy",
+            "difficulty": "easy",
+            "title": "Medical or investigative action",
+            "words": [
+                "diagnose",
+                "examine",
+                "ascertain",
+                "evaluate"
+            ]
+        },
+        {
+            "id": "medium-4",
+            "type": "medium",
+            "difficulty": "medium",
+            "title": "Works that look like a scholarly inquiry",
+            "words": [
+                "treatise",
+                "monograph",
+                "inquest",
+                "study"
+            ]
+        },
+        {
+            "id": "hard-4",
+            "type": "hard",
+            "difficulty": "hard",
+            "title": "Profession domain: legal proceedings",
+            "words": [
+                "litigation",
+                "pleading",
+                "deposition",
+                "subpoena"
+            ]
+        },
+        {
+            "id": "very_hard-4",
+            "type": "very_hard",
+            "difficulty": "very_hard",
+            "title": "Etymological relatives of Latin for 'to judge'",
+            "words": [
+                "juris",
+                "adjudicate",
+                "juristic",
+                "adjudication"
+            ]
+        }
+    ]
+}

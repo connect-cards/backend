@@ -1024,5 +1024,317 @@
                 "The view from the top was magnificent."
             ]
         }
+    ],
+    "meter": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a device that measures and shows how much of something is used or produced",
+            "synonyms": [
+                "measurer",
+                "counter",
+                "gauge",
+                "monitor",
+                "register"
+            ],
+            "examples": [
+                "The gas meter shows how much you used last month.",
+                "The water meter stopped working."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a unit of length equal to 100 centimeters",
+            "synonyms": [
+                "metre"
+            ],
+            "examples": [
+                "The room is five meters long.",
+                "Write the measurements in meters."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "the pattern of stressed and unstressed beats in a poem",
+            "synonyms": [
+                "rhythm",
+                "metrical pattern"
+            ],
+            "examples": [
+                "The poem follows a regular meter.",
+                "Students study meter in literature class."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to measure or control the amount of something, often in a steady way",
+            "synonyms": [
+                "measure",
+                "regulate",
+                "control",
+                "meter out",
+                "dose"
+            ],
+            "examples": [
+                "A computer meters the fuel before the engine starts.",
+                "The system meters water into the tank."
+            ]
+        }
+    ],
+    "manufacture": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to produce goods in large quantities, usually using machines",
+            "synonyms": [
+                "produce",
+                "make",
+                "assemble",
+                "turn out",
+                "fabricate"
+            ],
+            "examples": [
+                "The factory manufactures electronics.",
+                "They manufacture bicycles in that city."
+            ]
+        }
+    ],
+    "misfeasance": [
+        {
+            "part_of_speech": "noun",
+            "definition": "wrongful action by someone who is supposed to do a job properly",
+            "synonyms": [
+                "wrongdoing",
+                "breach of duty",
+                "malpractice"
+            ],
+            "examples": [
+                "The lawsuit alleged misfeasance by the contractor.",
+                "Misfeasance can lead to legal liability."
+            ]
+        }
+    ],
+    "mendacity": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the quality of being dishonest and lying",
+            "synonyms": [
+                "dishonesty",
+                "lying",
+                "deceit",
+                "falsehood",
+                "untruthfulness"
+            ],
+            "examples": [
+                "The investigation focused on mendacity in the statements.",
+                "His mendacity damaged his credibility."
+            ]
+        }
+    ],
+    "motive": [
+        {
+            "part_of_speech": "noun",
+            "definition": "something that makes a person act in a certain way",
+            "synonyms": [
+                "reason",
+                "goal",
+                "intent",
+                "purpose",
+                "driving force"
+            ],
+            "examples": [
+                "Greed was his motive.",
+                "What was the motive for the change?"
+            ]
+        }
+    ],
+    "momentous": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very important and likely to have a major effect on the future",
+            "synonyms": [
+                "significant",
+                "major",
+                "important",
+                "historic",
+                "major"
+            ],
+            "examples": [
+                "It was a momentous decision for the whole team.",
+                "The ceremony marked a momentous day."
+            ]
+        }
+    ],
+    "mariner": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who works on a ship; a sailor",
+            "synonyms": [
+                "sailor",
+                "seafarer",
+                "navigator",
+                "seaman"
+            ],
+            "examples": [
+                "The mariner had sailed across the Atlantic.",
+                "She learned to be a mariner."
+            ]
+        }
+    ],
+    "miller": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who makes flour by grinding grain",
+            "synonyms": [
+                "grain mill worker"
+            ],
+            "examples": [
+                "The miller produced flour for the town.",
+                "A miller worked near the river."
+            ]
+        }
+    ],
+    "murmuring": [
+        {
+            "part_of_speech": "noun",
+            "definition": "soft continuous speech or low sounds",
+            "synonyms": [
+                "whispering",
+                "murmur",
+                "low talk",
+                "hush",
+                "rumble"
+            ],
+            "examples": [
+                "The murmuring in the room grew louder.",
+                "We heard murmuring from the hallway."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "speaking or sounding softly and continuously",
+            "synonyms": [
+                "soft",
+                "low",
+                "whispering",
+                "quiet"
+            ],
+            "examples": [
+                "The crowd moved past with murmuring voices.",
+                "There was a murmuring stream nearby."
+            ]
+        }
+    ],
+    "mendacious": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "dishonest; telling lies",
+            "synonyms": [
+                "lying",
+                "dishonest",
+                "untruthful",
+                "deceitful",
+                "false"
+            ],
+            "examples": [
+                "The witness was accused of mendacious statements.",
+                "His mendacious behavior harmed his credibility."
+            ]
+        }
+    ],
+    "monograph": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a detailed study of one specific topic, often written by one author",
+            "synonyms": [
+                "study",
+                "research paper",
+                "journal study",
+                "book-length study"
+            ],
+            "examples": [
+                "The monograph explores plant genetics in depth.",
+                "He published a monograph on medieval law."
+            ]
+        }
+    ],
+    "modify": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make small changes to something in order to improve it or make it fit a purpose",
+            "synonyms": [
+                "change",
+                "adjust",
+                "alter",
+                "revise",
+                "refine"
+            ],
+            "examples": [
+                "You can modify the schedule if needed.",
+                "They modified the design to reduce costs."
+            ]
+        }
+    ],
+    "municipal": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "related to a city or local government",
+            "synonyms": [
+                "local",
+                "city",
+                "town",
+                "civic",
+                "urban"
+            ],
+            "examples": [
+                "They discussed municipal services at the meeting.",
+                "The city has a municipal water system."
+            ]
+        }
+    ],
+    "muniﬁcent": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very generous in giving money or help",
+            "synonyms": [
+                "generous",
+                "charitable",
+                "liberal",
+                "magnanimous",
+                "open-handed"
+            ],
+            "examples": [
+                "The benefactor was munificent and donated to many causes."
+            ]
+        }
+    ],
+    "municipality": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a city, town, or local administrative area that is governed by a local authority",
+            "synonyms": [
+                "city",
+                "town",
+                "local government",
+                "local authority"
+            ],
+            "examples": [
+                "The municipality approved the new park.",
+                "She works for the municipality."
+            ]
+        }
+    ],
+    "muniment": [
+        {
+            "part_of_speech": "noun",
+            "definition": "official documents that prove ownership or legal rights, especially historical or legal records",
+            "synonyms": [
+                "document",
+                "legal record",
+                "title deed (contextual)"
+            ],
+            "examples": [
+                "They preserved the muniments in a safe place.",
+                "The muniments were used to prove the claim."
+            ]
+        }
     ]
 }

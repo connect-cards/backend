@@ -1,0 +1,53 @@
+{
+    "date": "2026-03-25",
+    "groups": [
+        {
+            "id": "easy-1",
+            "type": "easy",
+            "difficulty": "easy",
+            "title": "Bright metal or a blade-like idea",
+            "words": [
+                "brand",
+                "sword",
+                "blade",
+                "steel"
+            ]
+        },
+        {
+            "id": "medium-1",
+            "type": "medium",
+            "difficulty": "medium",
+            "title": "Informal wandering",
+            "words": [
+                "stroll",
+                "ramble",
+                "roam",
+                "wander"
+            ]
+        },
+        {
+            "id": "hard-1",
+            "type": "hard",
+            "difficulty": "hard",
+            "title": "To talk vaguely, evade, or hedge",
+            "words": [
+                "prevaricate",
+                "equivocate",
+                "hedge",
+                "fob"
+            ]
+        },
+        {
+            "id": "very_hard-1",
+            "type": "very_hard",
+            "difficulty": "very_hard",
+            "title": "Resembling truth yet dangerously misleading",
+            "words": [
+                "spurious",
+                "fallacious",
+                "mendacious",
+                "specious"
+            ]
+        }
+    ]
+}

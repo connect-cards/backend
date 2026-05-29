@@ -1,0 +1,53 @@
+{
+    "date": "2026-03-17",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "etymological_relation",
+            "difficulty": "easy",
+            "title": "“Old trade” roots",
+            "words": [
+                "carter",
+                "mariner",
+                "miller",
+                "scribe"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "profession_domain",
+            "difficulty": "medium",
+            "title": "Documents and courts",
+            "words": [
+                "affidavit",
+                "deposition",
+                "litigant",
+                "testimony"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "literary_register",
+            "difficulty": "hard",
+            "title": "Poised, indirect praise",
+            "words": [
+                "eulogize",
+                "commemorate",
+                "laudatory",
+                "panegyric"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "morphological_family",
+            "difficulty": "very_hard",
+            "title": "Unlabeled forms of refusal",
+            "words": [
+                "abstain",
+                "decline",
+                "dissent",
+                "refrain"
+            ]
+        }
+    ]
+}

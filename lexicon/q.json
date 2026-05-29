@@ -58,5 +58,62 @@
                 "Each quatrain rhymes in the same pattern."
             ]
         }
+    ],
+    "quote": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the exact words of someone, written or spoken; also, a short section from a text",
+            "synonyms": [
+                "quotation",
+                "excerpt",
+                "passage",
+                "line"
+            ],
+            "examples": [
+                "Please add a quote from the book.",
+                "The quote at the end summarizes the theme."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to repeat exact words from a source or a person",
+            "synonyms": [
+                "cite",
+                "reference",
+                "reproduce",
+                "recall",
+                "quote back"
+            ],
+            "examples": [
+                "She quoted the letter to support her claim.",
+                "You should quote the author correctly."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to give a price for a service or product",
+            "synonyms": [
+                "bid",
+                "price",
+                "give a quote",
+                "estimate",
+                "tender"
+            ],
+            "examples": [
+                "They quoted $300 for the repairs.",
+                "Can you quote the cost of the trip?"
+            ]
+        }
+    ],
+    "quaternion": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a mathematical object used in advanced algebra and 3D rotations",
+            "synonyms": [],
+            "examples": [
+                "A quaternion is used to represent orientation in 3D graphics.",
+                "The program uses quaternions to rotate objects."
+            ]
+        }
     ]
 }

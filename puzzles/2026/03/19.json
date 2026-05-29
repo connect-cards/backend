@@ -1,0 +1,53 @@
+{
+    "date": "2026-03-19",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "etymological_relation",
+            "difficulty": "easy",
+            "title": "Small, quick movement",
+            "words": [
+                "dart",
+                "skitter",
+                "scurry",
+                "scuttle"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "synonym",
+            "difficulty": "medium",
+            "title": "Careful thinking",
+            "words": [
+                "scrutinize",
+                "examine",
+                "evaluate",
+                "appraise"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "morphological_family",
+            "difficulty": "hard",
+            "title": "To speak indirectly",
+            "words": [
+                "allude",
+                "imply",
+                "hint",
+                "insinuate"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "thematic_association",
+            "difficulty": "very_hard",
+            "title": "Numbers and fates",
+            "words": [
+                "ternion",
+                "trinity",
+                "trine",
+                "quaternion"
+            ]
+        }
+    ]
+}

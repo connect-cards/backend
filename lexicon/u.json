@@ -404,5 +404,22 @@
                 "That job can be unforgiving."
             ]
         }
+    ],
+    "ulterior": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "coming later or not immediately obvious; hidden behind the main purpose",
+            "synonyms": [
+                "hidden",
+                "remote",
+                "indirect",
+                "further",
+                "behind-the-scenes"
+            ],
+            "examples": [
+                "He had an ulterior motive for helping.",
+                "The negotiation had ulterior goals."
+            ]
+        }
     ]
 }

@@ -1,0 +1,53 @@
+{
+    "date": "2026-03-06",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "easy",
+            "difficulty": "easy",
+            "title": "Casual foot-lodging",
+            "words": [
+                "pad",
+                "cabin",
+                "shack",
+                "room"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "medium",
+            "difficulty": "medium",
+            "title": "Street talk for a person",
+            "words": [
+                "bloke",
+                "fella",
+                "lad",
+                "chap"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "hard",
+            "difficulty": "hard",
+            "title": "Sewing the plot: to fabricate",
+            "words": [
+                "concoct",
+                "invent",
+                "fabricate",
+                "manufacture"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "very_hard",
+            "difficulty": "very_hard",
+            "title": "Profiler's jargon: deceptive evidence",
+            "words": [
+                "misfeasance",
+                "mendacity",
+                "prevarication",
+                "evasion"
+            ]
+        }
+    ]
+}

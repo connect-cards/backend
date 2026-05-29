@@ -2595,5 +2595,620 @@
                 "The manager gave a cautious response to the rumors."
             ]
         }
+    ],
+    "calibrate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to adjust a machine or instrument so it gives accurate readings",
+            "synonyms": [
+                "adjust",
+                "set",
+                "tune",
+                "standardize",
+                "verify"
+            ],
+            "examples": [
+                "They calibrated the thermometer before the experiment.",
+                "The engineer calibrated the sensor to match the reference device."
+            ]
+        }
+    ],
+    "cynosure": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the center of attention or interest",
+            "synonyms": [
+                "center of attention",
+                "focus",
+                "spotlight",
+                "attraction",
+                "magnet"
+            ],
+            "examples": [
+                "The celebrity became the cynosure of photographers.",
+                "Her talent made her the cynosure at the event."
+            ]
+        }
+    ],
+    "candle": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small stick of wax with a wick that produces light and heat when burned",
+            "synonyms": [
+                "wax candle",
+                "taper",
+                "tealight",
+                "candlelight"
+            ],
+            "examples": [
+                "She lit a candle on the table.",
+                "The candle went out when the window opened."
+            ]
+        }
+    ],
+    "covert": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "kept secret or hidden, especially for military or intelligence activities",
+            "synonyms": [
+                "secret",
+                "hidden",
+                "stealthy",
+                "classified",
+                "undercover"
+            ],
+            "examples": [
+                "They carried out a covert operation.",
+                "The report mentioned covert surveillance."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "not openly expressed; indirect",
+            "synonyms": [
+                "indirect",
+                "implicit",
+                "hidden",
+                "unsaid",
+                "understated"
+            ],
+            "examples": [
+                "He gave a covert warning without naming the problem.",
+                "Her covert criticism was easy to miss."
+            ]
+        }
+    ],
+    "cartography": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the study and practice of making maps",
+            "synonyms": [
+                "mapmaking",
+                "geography of maps",
+                "mapping"
+            ],
+            "examples": [
+                "Cartography has advanced with satellite images.",
+                "She teaches cartography at the university."
+            ]
+        }
+    ],
+    "calligraphy": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the art of making decorative handwriting",
+            "synonyms": [
+                "handwriting art",
+                "decorative writing"
+            ],
+            "examples": [
+                "Her calligraphy looks elegant and neat.",
+                "We took a class in calligraphy."
+            ]
+        }
+    ],
+    "cabin": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small house or shelter, especially one in a remote area or on a ship",
+            "synonyms": [
+                "hut",
+                "chalet",
+                "small house",
+                "shelter",
+                "lodge"
+            ],
+            "examples": [
+                "We rented a cabin in the mountains.",
+                "The cabin on the ship had two beds."
+            ]
+        }
+    ],
+    "concoct": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to invent or prepare something by combining different things",
+            "synonyms": [
+                "invent",
+                "make up",
+                "prepare",
+                "formulate",
+                "create"
+            ],
+            "examples": [
+                "She concocted a drink using fruit and yogurt.",
+                "They concocted a plan to fix the problem."
+            ]
+        }
+    ],
+    "cite": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to mention a source to show where information came from",
+            "synonyms": [
+                "quote",
+                "reference",
+                "mention",
+                "allude to",
+                "invoke"
+            ],
+            "examples": [
+                "In the essay, you must cite your sources.",
+                "She cited an article from 2020."
+            ]
+        }
+    ],
+    "crucial": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "extremely important; deciding the final result",
+            "synonyms": [
+                "essential",
+                "critical",
+                "vital",
+                "key",
+                "decisive"
+            ],
+            "examples": [
+                "Meeting the deadline is crucial.",
+                "It is crucial to check the data."
+            ]
+        }
+    ],
+    "critical": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very important; involving serious risk if not handled well",
+            "synonyms": [
+                "crucial",
+                "vital",
+                "key",
+                "essential",
+                "urgent"
+            ],
+            "examples": [
+                "The doctor said the next hours are critical.",
+                "Safety is critical in this job."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "expressing strong disagreement or judgment",
+            "synonyms": [
+                "negative",
+                "judgmental",
+                "skeptical",
+                "unfavorable",
+                "disapproving"
+            ],
+            "examples": [
+                "She gave critical feedback on the design.",
+                "He is critical of everything new."
+            ]
+        }
+    ],
+    "clean": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "free from dirt; not dirty",
+            "synonyms": [
+                "tidy",
+                "spotless",
+                "stain-free",
+                "pure",
+                "immaculate"
+            ],
+            "examples": [
+                "The kitchen is clean now.",
+                "Please keep the floor clean."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "free from harmful substances or impurities",
+            "synonyms": [
+                "pure",
+                "uncontaminated",
+                "sterile",
+                "safe"
+            ],
+            "examples": [
+                "The lab uses clean water for the tests.",
+                "Use clean tools during surgery."
+            ]
+        }
+    ],
+    "consternation": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a feeling of strong worry or surprise because of something unexpected",
+            "synonyms": [
+                "alarm",
+                "shock",
+                "discomfort",
+                "worry",
+                "panic"
+            ],
+            "examples": [
+                "The decision caused consternation among staff.",
+                "She showed consternation when the test was harder than expected."
+            ]
+        }
+    ],
+    "chat": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a friendly conversation, often informal",
+            "synonyms": [
+                "talk",
+                "conversation",
+                "small talk",
+                "chitchat"
+            ],
+            "examples": [
+                "We had a quick chat after lunch.",
+                "The meeting turned into a friendly chat."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to talk in an informal friendly way",
+            "synonyms": [
+                "talk",
+                "converse",
+                "chat",
+                "gossip",
+                "whack"
+            ],
+            "examples": [
+                "We chatted online for an hour.",
+                "She chatted with her neighbors."
+            ]
+        }
+    ],
+    "crafty": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "good at planning in clever ways, sometimes in a dishonest or deceptive way",
+            "synonyms": [
+                "cunning",
+                "sly",
+                "wily",
+                "scheming",
+                "shrewd"
+            ],
+            "examples": [
+                "The crafty salesman offered a too-good-to-be-true deal.",
+                "She was crafty enough to avoid the trap."
+            ]
+        }
+    ],
+    "cogent": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "strong and convincing, with good reasons",
+            "synonyms": [
+                "convincing",
+                "persuasive",
+                "strong",
+                "sound",
+                "reasonable"
+            ],
+            "examples": [
+                "She gave a cogent argument for the change.",
+                "His explanation was cogent and clear."
+            ]
+        }
+    ],
+    "carter": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who transports goods, often by cart or truck",
+            "synonyms": [
+                "hauler",
+                "driver",
+                "cartman",
+                "porter",
+                "carrier"
+            ],
+            "examples": [
+                "The carter delivered the boxes early.",
+                "A carter moved supplies between warehouses."
+            ]
+        }
+    ],
+    "commemorate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to remember and honor an event or person, often with a ceremony",
+            "synonyms": [
+                "remember",
+                "honor",
+                "celebrate",
+                "mark",
+                "observe"
+            ],
+            "examples": [
+                "The town commemorates the heroes every year.",
+                "They held a ceremony to commemorate the tragedy."
+            ]
+        }
+    ],
+    "curb": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to reduce or control something, especially bad behavior or harmful effects",
+            "synonyms": [
+                "limit",
+                "reduce",
+                "restrain",
+                "check",
+                "contain"
+            ],
+            "examples": [
+                "The new policy aims to curb spending.",
+                "We need to curb pollution in the river."
+            ]
+        }
+    ],
+    "chef": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a professional cook who manages a kitchen, often leading a team of cooks",
+            "synonyms": [
+                "cook",
+                "head chef",
+                "kitchen chief"
+            ],
+            "examples": [
+                "The chef prepared a special menu.",
+                "He worked as a chef in a hotel."
+            ]
+        }
+    ],
+    "cad": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a man who behaves in an insulting or morally bad way, especially toward women",
+            "synonyms": [
+                "jerk",
+                "rude man",
+                "sleazebag",
+                "scoundrel"
+            ],
+            "examples": [
+                "He was a cad and broke his promises.",
+                "She refused to date him because of his cad behavior."
+            ]
+        }
+    ],
+    "commend": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to express approval or praise for something; to recommend as good",
+            "synonyms": [
+                "praise",
+                "approve",
+                "endorse",
+                "recommend",
+                "acknowledge"
+            ],
+            "examples": [
+                "I commend your decision.",
+                "The report commended the team’s efforts."
+            ]
+        }
+    ],
+    "contract": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a written or spoken agreement that is legally binding",
+            "synonyms": [
+                "agreement",
+                "deal",
+                "arrangement",
+                "pact",
+                "undertaking"
+            ],
+            "examples": [
+                "They signed a contract for the job.",
+                "The contract includes a payment schedule."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to become smaller or shorter in length or size",
+            "synonyms": [
+                "shrink",
+                "shorten",
+                "reduce",
+                "curb",
+                "tighten"
+            ],
+            "examples": [
+                "Your muscles contract when you exercise.",
+                "As it cools, the metal contracts."
+            ]
+        }
+    ],
+    "circumlocutory": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "using more words than necessary, especially to avoid saying something directly",
+            "synonyms": [
+                "indirect",
+                "wordy",
+                "long-winded",
+                "evasive",
+                "roundabout"
+            ],
+            "examples": [
+                "His circumlocutory answer avoided the main question.",
+                "The report was circumlocutory and hard to understand."
+            ]
+        }
+    ],
+    "couplet": [
+        {
+            "part_of_speech": "noun",
+            "definition": "two lines of poetry that usually rhyme",
+            "synonyms": [
+                "two-line verse",
+                "pair of lines"
+            ],
+            "examples": [
+                "The poem has a couplet at the end.",
+                "Read the couplet aloud."
+            ]
+        }
+    ],
+    "cantankerous": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "bad-tempered and difficult to deal with",
+            "synonyms": [
+                "grumpy",
+                "irritable",
+                "difficult",
+                "mean-tempered",
+                "ill-tempered"
+            ],
+            "examples": [
+                "Our cantankerous neighbor complained all the time.",
+                "He can be cantankerous when he’s stressed."
+            ]
+        }
+    ],
+    "cracked": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having a broken line or small break, often in a surface",
+            "synonyms": [
+                "split",
+                "broken",
+                "fractured",
+                "creviced",
+                "damaged"
+            ],
+            "examples": [
+                "The screen is cracked, so it needs repair.",
+                "Her voice sounded cracked from shouting."
+            ]
+        }
+    ],
+    "calculated": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "planned to achieve a specific result; done intentionally",
+            "synonyms": [
+                "intentional",
+                "planned",
+                "strategic",
+                "prearranged",
+                "designed"
+            ],
+            "examples": [
+                "Her calm tone seemed calculated to control the conversation.",
+                "The move was calculated to increase sales."
+            ]
+        }
+    ],
+    "clause": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a part of a sentence that contains a subject and a verb, or that works as part of a larger structure",
+            "synonyms": [
+                "sentence part",
+                "part of sentence"
+            ],
+            "examples": [
+                "The first clause explains the reason.",
+                "That sentence has two clauses."
+            ]
+        }
+    ],
+    "clasp": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a fastening that holds two things together",
+            "synonyms": [
+                "fastener",
+                "hook",
+                "clip",
+                "catch",
+                "closure"
+            ],
+            "examples": [
+                "The bag has a metal clasp.",
+                "Use a clasp to secure the necklace."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to hold something tightly; to grip or attach using a clasp",
+            "synonyms": [
+                "grip",
+                "hold",
+                "seize",
+                "catch",
+                "attach"
+            ],
+            "examples": [
+                "He clasped her hand and smiled.",
+                "The belt clasps at the front."
+            ]
+        }
+    ],
+    "cluster": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a group of things that are close together",
+            "synonyms": [
+                "group",
+                "collection",
+                "set",
+                "bunch",
+                "bundle"
+            ],
+            "examples": [
+                "A cluster of houses stood near the road.",
+                "There was a cluster of stars in the sky."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to gather in a group close together",
+            "synonyms": [
+                "group",
+                "gather",
+                "bunch",
+                "assemble",
+                "cluster together"
+            ],
+            "examples": [
+                "The birds clustered on the wire.",
+                "People clustered around the announcement."
+            ]
+        }
     ]
 }

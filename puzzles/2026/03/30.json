@@ -1,0 +1,53 @@
+{
+    "date": "2026-03-30",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "informal_register",
+            "difficulty": "easy",
+            "title": "Fellow, casually",
+            "words": [
+                "bloke",
+                "chap",
+                "lad",
+                "fella"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "sound_association",
+            "difficulty": "medium",
+            "title": "Slam and clap resemblances",
+            "words": [
+                "clatter",
+                "clause",
+                "clasp",
+                "cluster"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "semantic_field",
+            "difficulty": "hard",
+            "title": "Make tiny changes",
+            "words": [
+                "modify",
+                "amend",
+                "revise",
+                "iterate"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "morphological_family",
+            "difficulty": "very_hard",
+            "title": "Civic and administrative derivations",
+            "words": [
+                "municipal",
+                "muniﬁcent",
+                "municipality",
+                "muniment"
+            ]
+        }
+    ]
+}

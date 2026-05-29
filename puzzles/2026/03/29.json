@@ -1,0 +1,53 @@
+{
+    "date": "2026-03-29",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "etymological_relation",
+            "difficulty": "easy",
+            "title": "Metal and blade origins",
+            "words": [
+                "blade",
+                "brand",
+                "steel",
+                "sword"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "emotional_tone",
+            "difficulty": "medium",
+            "title": "Low, heavy gloom",
+            "words": [
+                "murky",
+                "dingy",
+                "somber",
+                "dreary"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "physical_trait",
+            "difficulty": "hard",
+            "title": "Dry, cracked surfaces",
+            "words": [
+                "parched",
+                "desiccated",
+                "cracked",
+                "weathered"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "semantic_field",
+            "difficulty": "very_hard",
+            "title": "Pragmatic strategy terms",
+            "words": [
+                "expedient",
+                "deliberate",
+                "calculated",
+                "prudential"
+            ]
+        }
+    ]
+}

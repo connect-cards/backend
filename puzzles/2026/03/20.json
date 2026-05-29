@@ -1,0 +1,53 @@
+{
+    "date": "2026-03-20",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "morphological_family",
+            "difficulty": "easy",
+            "title": "Forms of restraint",
+            "words": [
+                "inhibit",
+                "restrain",
+                "curb",
+                "throttle"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "profession_domain",
+            "difficulty": "medium",
+            "title": "Medical observation",
+            "words": [
+                "auscultation",
+                "diagnosis",
+                "triage",
+                "palpation"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "literary_register",
+            "difficulty": "hard",
+            "title": "Elegant description of nature",
+            "words": [
+                "verdant",
+                "luminous",
+                "effulgent",
+                "sylvan"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "physical_trait",
+            "difficulty": "very_hard",
+            "title": "Rare bodily conditions",
+            "words": [
+                "hidrosis",
+                "alopecia",
+                "vitiligo",
+                "phthisis"
+            ]
+        }
+    ]
+}

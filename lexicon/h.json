@@ -803,5 +803,111 @@
                 "The hunted animal hid in the bushes."
             ]
         }
+    ],
+    "hydropic": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having swelling caused by fluid buildup in the body",
+            "synonyms": [
+                "edematous",
+                "dropsical",
+                "swollen",
+                "water-filled"
+            ],
+            "examples": [
+                "The doctor noted hydropic swelling in the patient."
+            ]
+        }
+    ],
+    "hint": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small sign that suggests something; a clue",
+            "synonyms": [
+                "clue",
+                "sign",
+                "suggestion",
+                "indication",
+                "straw"
+            ],
+            "examples": [
+                "He gave a hint about what he wanted.",
+                "There’s a hint in the first paragraph."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to suggest something indirectly",
+            "synonyms": [
+                "imply",
+                "suggest",
+                "indicate",
+                "point to",
+                "signpost"
+            ],
+            "examples": [
+                "The data hints that costs will increase.",
+                "She hinted that she might be leaving soon."
+            ]
+        }
+    ],
+    "hidrosis": [
+        {
+            "part_of_speech": "noun",
+            "definition": "excessive sweating as a medical condition",
+            "synonyms": [
+                "hyperhidrosis",
+                "excess sweating"
+            ],
+            "examples": [
+                "The patient was treated for hidrosis.",
+                "Hidrosis can be uncomfortable and sometimes needs medical care."
+            ]
+        }
+    ],
+    "hospital": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a place where sick or injured people receive medical care",
+            "synonyms": [
+                "medical center",
+                "clinic (larger than a clinic)",
+                "care facility"
+            ],
+            "examples": [
+                "She was admitted to the hospital.",
+                "The hospital has a new emergency department."
+            ]
+        }
+    ],
+    "hedge": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a row of bushes planted close together, often used to mark a boundary",
+            "synonyms": [
+                "bush row",
+                "bushes",
+                "living fence"
+            ],
+            "examples": [
+                "The garden has a tall hedge.",
+                "We walked along the hedge."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to protect against risk by using an opposite action or investment",
+            "synonyms": [
+                "offset",
+                "counter",
+                "protect",
+                "insure",
+                "cover"
+            ],
+            "examples": [
+                "Companies hedge to reduce financial risk.",
+                "She hedged her investment against losses."
+            ]
+        }
     ]
 }

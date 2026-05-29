@@ -1,0 +1,53 @@
+{
+    "date": "2026-03-05",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "easy",
+            "difficulty": "easy",
+            "title": "Sword-making lexicon",
+            "words": [
+                "blade",
+                "sword",
+                "steel",
+                "brand"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "medium",
+            "difficulty": "medium",
+            "title": "Clandestine pursuit",
+            "words": [
+                "covert",
+                "stealth",
+                "surreptitious",
+                "furtive"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "hard",
+            "difficulty": "hard",
+            "title": "Lament in literature",
+            "words": [
+                "lamentation",
+                "dirge",
+                "mournful",
+                "threnody"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "very_hard",
+            "difficulty": "very_hard",
+            "title": "Etymological web: -graphy of writing",
+            "words": [
+                "logography",
+                "iconography",
+                "cartography",
+                "calligraphy"
+            ]
+        }
+    ]
+}

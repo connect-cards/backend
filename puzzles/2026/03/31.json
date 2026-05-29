@@ -1,0 +1,53 @@
+{
+    "date": "2026-03-31",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "informal_register",
+            "difficulty": "easy",
+            "title": "Go about, relaxed",
+            "words": [
+                "stroll",
+                "wander",
+                "ramble",
+                "roam"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "sound_association",
+            "difficulty": "medium",
+            "title": "Whispery, airy effects",
+            "words": [
+                "hush",
+                "murmur",
+                "whisper",
+                "susurrus"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "thematic_association",
+            "difficulty": "hard",
+            "title": "Artifacts of crime and investigation",
+            "words": [
+                "forensics",
+                "evidence",
+                "specimen",
+                "testimony"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "semantic_field",
+            "difficulty": "very_hard",
+            "title": "Uncanny, otherworldly quality",
+            "words": [
+                "eldritch",
+                "uncanny",
+                "unearthly",
+                "otherworldly"
+            ]
+        }
+    ]
+}

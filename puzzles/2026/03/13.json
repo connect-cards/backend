@@ -1,0 +1,53 @@
+{
+    "date": "2026-03-13",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "emotional_tone",
+            "difficulty": "easy",
+            "title": "Dampening gloom",
+            "words": [
+                "sullen",
+                "somnolent",
+                "dreary",
+                "wan"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "literary_register",
+            "difficulty": "medium",
+            "title": "Subtly pompous speech",
+            "words": [
+                "oracular",
+                "decorous",
+                "eloquent",
+                "circumspect"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "etymological_relation",
+            "difficulty": "hard",
+            "title": "Remnants of the same root",
+            "words": [
+                "pious",
+                "impious",
+                "piety",
+                "devout"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "semantic_field",
+            "difficulty": "very_hard",
+            "title": "Curtain of uncertainty",
+            "words": [
+                "equivocal",
+                "inchoate",
+                "ambiguous",
+                "tendentious"
+            ]
+        }
+    ]
+}

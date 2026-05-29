@@ -1,0 +1,53 @@
+{
+    "date": "2026-03-18",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "physical_trait",
+            "difficulty": "easy",
+            "title": "Light and shade in a face",
+            "words": [
+                "pallor",
+                "rosiness",
+                "complexion",
+                "countenance"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "morphological_family",
+            "difficulty": "medium",
+            "title": "Ways to be unimpressed",
+            "words": [
+                "skeptical",
+                "dubitant",
+                "wry",
+                "sardonic"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "informal_register",
+            "difficulty": "hard",
+            "title": "Mild annoyance, conversationally",
+            "words": [
+                "grumble",
+                "whinge",
+                "nag",
+                "bicker"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "literary_register",
+            "difficulty": "very_hard",
+            "title": "Austerity of manner",
+            "words": [
+                "grimace",
+                "austere",
+                "stoic",
+                "spare"
+            ]
+        }
+    ]
+}

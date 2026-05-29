@@ -3282,5 +3282,439 @@
                 "It was a swindle designed to look like a real investment."
             ]
         }
+    ],
+    "scarred": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having marks on the skin caused by healed injuries or burns",
+            "synonyms": [
+                "marked",
+                "wounded",
+                "seamed",
+                "pitted",
+                "traumatized"
+            ],
+            "examples": [
+                "Her arm is scarred from an accident.",
+                "The old building was scarred by fire."
+            ]
+        }
+    ],
+    "summons": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a legal order that requires someone to appear in court",
+            "synonyms": [
+                "subpoena",
+                "court order",
+                "notice",
+                "citation"
+            ],
+            "examples": [
+                "The summons arrived by mail.",
+                "She ignored the summons and lost the case."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to require someone to come to a court or official place",
+            "synonyms": [
+                "subpoena",
+                "order",
+                "call",
+                "require",
+                "cite"
+            ],
+            "examples": [
+                "The judge summoned the witness for Monday.",
+                "They were summoned to testify."
+            ]
+        }
+    ],
+    "speculate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to form an opinion or guess about something without full proof",
+            "synonyms": [
+                "guess",
+                "conjecture",
+                "suppose",
+                "imagine",
+                "surmise"
+            ],
+            "examples": [
+                "People speculate about who will win.",
+                "I can only speculate about what happened."
+            ]
+        }
+    ],
+    "stealth": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the careful action of moving or acting in a way that avoids being noticed",
+            "synonyms": [
+                "secrecy",
+                "concealment",
+                "camouflage",
+                "surprise",
+                "clandestineness"
+            ],
+            "examples": [
+                "The team approached the building with stealth.",
+                "She entered the room in stealth."
+            ]
+        }
+    ],
+    "surreptitious": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "done in a secret or dishonest way, without being noticed",
+            "synonyms": [
+                "secret",
+                "covert",
+                "stealthy",
+                "clandestine",
+                "underhand"
+            ],
+            "examples": [
+                "They made surreptitious copies of the files.",
+                "He took a surreptitious look at the screen."
+            ]
+        }
+    ],
+    "shack": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a very small, simple house, often in poor condition",
+            "synonyms": [
+                "hut",
+                "cabin",
+                "lean-to",
+                "tumble-down house"
+            ],
+            "examples": [
+                "They lived in a wooden shack near the river.",
+                "A shack provided shelter during the storm."
+            ]
+        }
+    ],
+    "subtext": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the hidden meaning behind spoken or written words",
+            "synonyms": [
+                "hidden meaning",
+                "underlying message",
+                "implication",
+                "secondary message"
+            ],
+            "examples": [
+                "Her subtext showed she was unhappy.",
+                "There was a subtext of fear in his speech."
+            ]
+        }
+    ],
+    "scowl": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a facial expression showing anger or disapproval",
+            "synonyms": [
+                "frown",
+                "grimace",
+                "scowling face",
+                "displeasure"
+            ],
+            "examples": [
+                "He greeted us with a scowl.",
+                "I saw a scowl on her face."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make an angry or displeased facial expression",
+            "synonyms": [
+                "frown",
+                "grimace",
+                "glower",
+                "scowl at",
+                "look angrily"
+            ],
+            "examples": [
+                "She scowled when the plan changed.",
+                "He scowled at the delay."
+            ]
+        }
+    ],
+    "sanction": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an official penalty or action used to punish wrongdoing",
+            "synonyms": [
+                "penalty",
+                "punishment",
+                "restriction",
+                "measure"
+            ],
+            "examples": [
+                "The country faced sanctions after the violation.",
+                "Sanctions can affect trade."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to officially allow or approve something",
+            "synonyms": [
+                "approve",
+                "authorize",
+                "permit",
+                "allow",
+                "endorse"
+            ],
+            "examples": [
+                "The policy was sanctioned by the committee.",
+                "The government sanctioned the agreement."
+            ]
+        }
+    ],
+    "specimen": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an example of something, especially a sample used for study or testing",
+            "synonyms": [
+                "sample",
+                "example",
+                "spec",
+                "specimen"
+            ],
+            "examples": [
+                "The lab tested the specimen under a microscope.",
+                "We collected a specimen of the plant."
+            ]
+        }
+    ],
+    "scrupulous": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very careful to do things correctly and ethically",
+            "synonyms": [
+                "thorough",
+                "conscientious",
+                "careful",
+                "principled",
+                "meticulous"
+            ],
+            "examples": [
+                "She is scrupulous about checking details.",
+                "A scrupulous accountant noticed the error."
+            ]
+        }
+    ],
+    "singe": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to damage something slightly by heat or flame; to burn the surface lightly",
+            "synonyms": [
+                "burn",
+                "scorch",
+                "char",
+                "blacken",
+                "tinge"
+            ],
+            "examples": [
+                "The curtain was singed by the candle.",
+                "Be careful not to singe the edges of the paper."
+            ]
+        }
+    ],
+    "shilly": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "hesitating and not deciding quickly; unwilling to commit",
+            "synonyms": [
+                "hesitant",
+                "timid",
+                "uncertain",
+                "indecisive",
+                "cautious"
+            ],
+            "examples": [
+                "Don’t be shilly about choosing a time.",
+                "She was shilly and kept changing her mind."
+            ]
+        }
+    ],
+    "sardonic": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "mocking or scornful, often in a way that sounds like sarcasm",
+            "synonyms": [
+                "sarcastic",
+                "mocking",
+                "cynical",
+                "wry",
+                "derisive"
+            ],
+            "examples": [
+                "He gave a sardonic smile.",
+                "Her sardonic comment shut down the conversation."
+            ]
+        }
+    ],
+    "skitter": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to move quickly with short, light steps; to scurry",
+            "synonyms": [
+                "scurry",
+                "skitter about",
+                "run lightly",
+                "scuttle",
+                "hurry"
+            ],
+            "examples": [
+                "The dog skittered across the yard.",
+                "The leaves skittered in the wind."
+            ]
+        }
+    ],
+    "scurry": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to run or move quickly, often in a busy way",
+            "synonyms": [
+                "rush",
+                "scurry about",
+                "hurry",
+                "dart",
+                "scuttle"
+            ],
+            "examples": [
+                "Kids scurried to get their seats.",
+                "He scurried away when he heard the bell."
+            ]
+        }
+    ],
+    "scuttle": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to move quickly and secretly; to run away fast",
+            "synonyms": [
+                "scurry",
+                "hurry",
+                "dash",
+                "flee",
+                "scramble"
+            ],
+            "examples": [
+                "The thief scuttled down the alley.",
+                "She scuttled to the door before anyone noticed."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to sink a ship deliberately",
+            "synonyms": [
+                "sink intentionally",
+                "send to the bottom"
+            ],
+            "examples": [
+                "The crew scuttled the ship to prevent capture."
+            ]
+        }
+    ],
+    "sylvan": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "related to woods or forests; having a peaceful forest-like feel",
+            "synonyms": [
+                "wooded",
+                "forest-like",
+                "green",
+                "rural",
+                "woodland"
+            ],
+            "examples": [
+                "We took a hike in a sylvan area.",
+                "The cottage sits in a sylvan landscape."
+            ]
+        }
+    ],
+    "sabre": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a type of sword with a curved blade",
+            "synonyms": [
+                "saber",
+                "sword"
+            ],
+            "examples": [
+                "He carried a sabre during the reenactment.",
+                "The sabre was displayed in the museum."
+            ]
+        }
+    ],
+    "suspicious": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "feeling that something may be wrong or not trustworthy",
+            "synonyms": [
+                "doubtful",
+                "wary",
+                "skeptical",
+                "questionable",
+                "untrusting"
+            ],
+            "examples": [
+                "I’m suspicious of the offer because it seems too cheap.",
+                "She became suspicious when he wouldn’t answer directly."
+            ]
+        }
+    ],
+    "spiky": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having many sharp points or looking sharp and rough",
+            "synonyms": [
+                "sharp",
+                "pointy",
+                "spined",
+                "prickly",
+                "tipped"
+            ],
+            "examples": [
+                "The spiky plant needs gloves.",
+                "He wore a spiky hairstyle."
+            ]
+        }
+    ],
+    "study": [
+        {
+            "part_of_speech": "noun",
+            "definition": "careful learning or research about a subject",
+            "synonyms": [
+                "research",
+                "learning",
+                "investigation",
+                "examination",
+                "analysis"
+            ],
+            "examples": [
+                "Her study focuses on climate change.",
+                "I started a new study this semester."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a room used for quiet work or reading",
+            "synonyms": [
+                "office",
+                "den",
+                "workroom"
+            ],
+            "examples": [
+                "He works from his study in the evenings.",
+                "The study has a desk and shelves."
+            ]
+        }
     ]
 }

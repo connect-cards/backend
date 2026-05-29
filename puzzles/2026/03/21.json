@@ -1,0 +1,53 @@
+{
+    "date": "2026-03-21",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "synonym",
+            "difficulty": "easy",
+            "title": "Edge-to-weapon near-equivalents",
+            "words": [
+                "blade",
+                "sabre",
+                "sword",
+                "falchion"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "profession_domain",
+            "difficulty": "medium",
+            "title": "Medical attendants and their workplaces",
+            "words": [
+                "nurse",
+                "clinic",
+                "hospital",
+                "ward"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "morphological_family",
+            "difficulty": "hard",
+            "title": "-fer family: carry/produce",
+            "words": [
+                "transfer",
+                "defer",
+                "infer",
+                "offer"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "etymological_relation",
+            "difficulty": "very_hard",
+            "title": "Words shaped by the same Latin root (luc-)",
+            "words": [
+                "lucid",
+                "elucidate",
+                "dilucid",
+                "illustrate"
+            ]
+        }
+    ]
+}

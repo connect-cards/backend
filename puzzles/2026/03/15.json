@@ -1,0 +1,53 @@
+{
+    "date": "2026-03-15",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "emotional_tone",
+            "difficulty": "easy",
+            "title": "Lighthearted wandering",
+            "words": [
+                "stroll",
+                "ramble",
+                "meander",
+                "roam"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "synonym",
+            "difficulty": "medium",
+            "title": "Slyly shaped speech",
+            "words": [
+                "witty",
+                "canny",
+                "wily",
+                "crafty"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "thematic_association",
+            "difficulty": "hard",
+            "title": "A workshop of ideas",
+            "words": [
+                "prodigal",
+                "scrupulous",
+                "lucid",
+                "cogent"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "profession_domain",
+            "difficulty": "very_hard",
+            "title": "Legal-linguistic maneuvers",
+            "words": [
+                "recant",
+                "indict",
+                "litigate",
+                "jurisprudence"
+            ]
+        }
+    ]
+}

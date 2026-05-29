@@ -410,5 +410,150 @@
                 "The child’s visage brightened when she smiled."
             ]
         }
+    ],
+    "vilgilant": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "closely watching for danger or mistakes; alert",
+            "synonyms": [
+                "vigilant",
+                "watchful",
+                "alert",
+                "careful",
+                "guarded"
+            ],
+            "examples": [
+                "They remained vigilant during the test.",
+                "A vigilant guard noticed the unusual activity."
+            ]
+        }
+    ],
+    "velvet": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a soft fabric with a smooth, thick surface made from fibers cut to form a pile",
+            "synonyms": [
+                "cloth",
+                "fabric",
+                "pile fabric"
+            ],
+            "examples": [
+                "The curtains were made of velvet.",
+                "He wore a velvet jacket."
+            ]
+        }
+    ],
+    "viscid": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "thick and sticky, like a substance that does not flow easily",
+            "synonyms": [
+                "sticky",
+                "thick",
+                "tacky",
+                "resinous",
+                "gel-like"
+            ],
+            "examples": [
+                "The viscid liquid clung to the container.",
+                "Mud can become viscid after rain."
+            ]
+        }
+    ],
+    "volatile": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "likely to change suddenly, especially in an unpredictable way",
+            "synonyms": [
+                "unstable",
+                "unpredictable",
+                "changeable",
+                "explosive",
+                "labile"
+            ],
+            "examples": [
+                "The volatile market made planning difficult.",
+                "His mood was volatile."
+            ]
+        }
+    ],
+    "verdant": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "green with a lot of plants; full of vegetation",
+            "synonyms": [
+                "green",
+                "lush",
+                "lushly green",
+                "growing",
+                "greenish"
+            ],
+            "examples": [
+                "They walked through verdant hills.",
+                "The view was verdant after the rainy season."
+            ]
+        }
+    ],
+    "vitiligo": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a skin condition where some areas lose pigment and become lighter than surrounding skin",
+            "synonyms": [
+                "skin depigmentation"
+            ],
+            "examples": [
+                "Vitiligo causes pale patches on the skin.",
+                "The doctor discussed treatment options for vitiligo."
+            ]
+        }
+    ],
+    "varlet": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a dishonest or low servant; a contemptible helper (often in old-fashioned use)",
+            "synonyms": [
+                "rascal",
+                "scoundrel",
+                "knave",
+                "lackey"
+            ],
+            "examples": [
+                "The story described him as a varlet.",
+                "They treated the thief like a varlet."
+            ]
+        }
+    ],
+    "verbose": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "using more words than necessary",
+            "synonyms": [
+                "wordy",
+                "long-winded",
+                "talmudic (informal)",
+                "run-on",
+                "prolix"
+            ],
+            "examples": [
+                "His email is too verbose for a quick update.",
+                "The lecture became verbose and repetitive."
+            ]
+        }
+    ],
+    "velocity": [
+        {
+            "part_of_speech": "noun",
+            "definition": "speed with direction; how fast and in what direction something moves",
+            "synonyms": [
+                "speed",
+                "rate",
+                "speed of motion",
+                "moving speed"
+            ],
+            "examples": [
+                "The car’s velocity increased on the highway.",
+                "Velocity is measured in meters per second."
+            ]
+        }
     ]
 }

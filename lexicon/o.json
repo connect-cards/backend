@@ -365,5 +365,119 @@
                 "Her voice sounded otherworldly in the recording."
             ]
         }
+    ],
+    "overcast": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having cloud cover so the sky looks gray and light is weak",
+            "synonyms": [
+                "cloudy",
+                "gray",
+                "dull",
+                "hazy",
+                "murky"
+            ],
+            "examples": [
+                "The day was overcast, so we stayed indoors.",
+                "Overcast skies can make photos look flatter."
+            ]
+        }
+    ],
+    "odious": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "extremely unpleasant or hateful; deserving strong dislike",
+            "synonyms": [
+                "hateful",
+                "disgusting",
+                "horrible",
+                "repulsive",
+                "detestable"
+            ],
+            "examples": [
+                "They called the behavior odious.",
+                "It is an odious practice."
+            ]
+        }
+    ],
+    "oracular": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "like a prophecy; giving advice or information that seems mysterious and hard to interpret",
+            "synonyms": [
+                "mysterious",
+                "prophetic",
+                "cryptic",
+                "enigmatic",
+                "predictive"
+            ],
+            "examples": [
+                "He spoke in oracular phrases that confused everyone.",
+                "The consultant offered oracular predictions about the future."
+            ]
+        }
+    ],
+    "offer": [
+        {
+            "part_of_speech": "noun",
+            "definition": "something that someone gives or proposes, often to solve a need or to negotiate",
+            "synonyms": [
+                "proposal",
+                "suggestion",
+                "deal",
+                "bid",
+                "submission"
+            ],
+            "examples": [
+                "They made an offer to buy the house.",
+                "The company received several job offers."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to give or provide something to someone, usually willingly",
+            "synonyms": [
+                "provide",
+                "give",
+                "present",
+                "submit",
+                "propose"
+            ],
+            "examples": [
+                "They offered help when we arrived.",
+                "She offered a solution to the problem."
+            ]
+        }
+    ],
+    "oven": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an enclosed machine used to bake or heat food using hot air or heat from below",
+            "synonyms": [
+                "baking oven",
+                "cooker"
+            ],
+            "examples": [
+                "The cookies are in the oven.",
+                "Preheat the oven to 180 degrees."
+            ]
+        }
+    ],
+    "oppressive": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "unfairly harsh or controlling; causing suffering or discomfort",
+            "synonyms": [
+                "harsh",
+                "tyrannical",
+                "cruel",
+                "burdensome",
+                "overbearing"
+            ],
+            "examples": [
+                "The oppressive regime restricted basic rights.",
+                "Her boss has an oppressive management style."
+            ]
+        }
     ]
 }

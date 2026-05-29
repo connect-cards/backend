@@ -876,5 +876,161 @@
                 "Withdrawal can start within a few hours after stopping."
             ]
         }
+    ],
+    "weigh": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to determine how heavy something is",
+            "synonyms": [
+                "measure",
+                "measure the weight",
+                "scale",
+                "weigh in",
+                "determine"
+            ],
+            "examples": [
+                "Weigh the package before you ship it.",
+                "I weighed myself in the morning."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to consider something carefully when making a decision",
+            "synonyms": [
+                "consider",
+                "judge",
+                "evaluate",
+                "think through",
+                "ponder"
+            ],
+            "examples": [
+                "She weighed the costs before accepting the job.",
+                "Weigh your options carefully."
+            ]
+        }
+    ],
+    "warrant": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a legal document that gives official permission to do something, often to search",
+            "synonyms": [
+                "authorization",
+                "court order",
+                "permission",
+                "authority",
+                "writ"
+            ],
+            "examples": [
+                "Police need a warrant to search a home.",
+                "A warrant was issued after the investigation."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a good reason or justification for something",
+            "synonyms": [
+                "reason",
+                "grounds",
+                "justification",
+                "basis",
+                "evidence"
+            ],
+            "examples": [
+                "There is no warrant for these claims.",
+                "She had warrant to be worried."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to officially approve or justify something",
+            "synonyms": [
+                "authorize",
+                "justify",
+                "allow",
+                "support",
+                "permit"
+            ],
+            "examples": [
+                "New evidence warranted a new hearing.",
+                "The delay was not warranted by the facts."
+            ]
+        }
+    ],
+    "witty": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "quick at making clever comments or jokes",
+            "synonyms": [
+                "humorous",
+                "clever",
+                "amusing",
+                "sharp",
+                "fast-thinking"
+            ],
+            "examples": [
+                "She is witty and always has something funny to say.",
+                "His witty remarks made everyone laugh."
+            ]
+        }
+    ],
+    "wily": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "good at being clever and often using tricks to get what you want",
+            "synonyms": [
+                "cunning",
+                "sly",
+                "shrewd",
+                "crafty",
+                "deceptive"
+            ],
+            "examples": [
+                "He was wily and negotiated hard.",
+                "A wily competitor tried to mislead them."
+            ]
+        }
+    ],
+    "whinge": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to complain in an annoying, complaining way",
+            "synonyms": [
+                "complain",
+                "grumble",
+                "moan",
+                "whine",
+                "carp"
+            ],
+            "examples": [
+                "Stop whingeing and just do the work.",
+                "He kept whinging about the weather."
+            ]
+        }
+    ],
+    "ward": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a section of a hospital where patients with similar needs are treated",
+            "synonyms": [
+                "unit",
+                "hospital section"
+            ],
+            "examples": [
+                "He moved to the cardiology ward.",
+                "The ward was busy all day."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a person under someone’s care, especially a child or someone legally protected",
+            "synonyms": [
+                "protegee",
+                "dependent"
+            ],
+            "examples": [
+                "She is the guardian of the ward.",
+                "The ward needs constant supervision."
+            ]
+        }
     ]
 }

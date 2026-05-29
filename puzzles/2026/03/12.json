@@ -1,0 +1,53 @@
+{
+    "date": "2026-03-12",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "literary_register",
+            "difficulty": "easy",
+            "title": "Official document or claim",
+            "words": [
+                "decree",
+                "warrant",
+                "declaration",
+                "indictment"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "synonym",
+            "difficulty": "medium",
+            "title": "To lessen or relieve pressure",
+            "words": [
+                "mitigate",
+                "alleviate",
+                "relieve",
+                "moderate"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "emotional_tone",
+            "difficulty": "hard",
+            "title": "A sudden, unsettling terror",
+            "words": [
+                "dread",
+                "alarm",
+                "panic",
+                "consternation"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "sound_association",
+            "difficulty": "very_hard",
+            "title": "Obscure terms for three connected parts",
+            "words": [
+                "ternion",
+                "trine",
+                "triad",
+                "tercet"
+            ]
+        }
+    ]
+}

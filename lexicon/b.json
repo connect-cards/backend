@@ -1283,5 +1283,209 @@
                 "The report served as a bolster for the campaign."
             ]
         }
+    ],
+    "brooding": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "thinking deeply in a serious or sad way",
+            "synonyms": [
+                "thoughtful",
+                "pensive",
+                "melancholy",
+                "contemplative",
+                "somber"
+            ],
+            "examples": [
+                "She sat in brooding silence for a long time.",
+                "He gave a brooding look when they mentioned the accident."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "full of shadows or an atmosphere of darkness",
+            "synonyms": [
+                "dark",
+                "murky",
+                "shadowy",
+                "ominous",
+                "bleak"
+            ],
+            "examples": [
+                "The street was brooding and empty after midnight.",
+                "Fog made the hills look brooding."
+            ]
+        }
+    ],
+    "bruised": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "hurt with a dark mark under the skin, usually from a bump",
+            "synonyms": [
+                "injured",
+                "sore",
+                "battered",
+                "contused"
+            ],
+            "examples": [
+                "He had bruised hands from moving furniture.",
+                "The apples were bruised and had to be thrown away."
+            ]
+        }
+    ],
+    "butt-in": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to interrupt someone in a rude way by joining in when you are not asked",
+            "synonyms": [
+                "interrupt",
+                "cut in",
+                "interfere",
+                "meddle",
+                "butt in"
+            ],
+            "examples": [
+                "Stop butting in and let her finish.",
+                "He butt in during the meeting."
+            ]
+        }
+    ],
+    "break-in": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an illegal entry into a building to steal or cause damage",
+            "synonyms": [
+                "burglary",
+                "robbery",
+                "theft",
+                "intrusion",
+                "housebreaking"
+            ],
+            "examples": [
+                "There was a break-in last night.",
+                "They investigated the break-in at the store."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to enter a building illegally",
+            "synonyms": [
+                "break",
+                "enter illegally",
+                "burgle",
+                "intrude"
+            ],
+            "examples": [
+                "Someone broke in through the back door.",
+                "The thieves broke in at midnight."
+            ]
+        }
+    ],
+    "bitter": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "feeling strong anger or sadness after something unpleasant",
+            "synonyms": [
+                "resentful",
+                "angry",
+                "hurt",
+                "resenting",
+                "sharp"
+            ],
+            "examples": [
+                "He was bitter about the decision.",
+                "Her bitter tone surprised me."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "having a strong unpleasant taste",
+            "synonyms": [
+                "sharp",
+                "tart",
+                "acrid",
+                "harsh"
+            ],
+            "examples": [
+                "The coffee tasted bitter.",
+                "The medicine leaves a bitter aftertaste."
+            ]
+        }
+    ],
+    "balderdash": [
+        {
+            "part_of_speech": "noun",
+            "definition": "meaningless or false talk; nonsense",
+            "synonyms": [
+                "nonsense",
+                "rubbish",
+                "twaddle",
+                "baloney",
+                "drivel"
+            ],
+            "examples": [
+                "I don’t believe that balderdash.",
+                "He said the idea was balderdash."
+            ]
+        }
+    ],
+    "bargain": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an agreement on price or terms; also a good deal",
+            "synonyms": [
+                "deal",
+                "agreement",
+                "contract",
+                "good buy",
+                "terms"
+            ],
+            "examples": [
+                "We got a bargain at the market.",
+                "The store offered a bargain today."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to negotiate the price or terms of something",
+            "synonyms": [
+                "negotiate",
+                "haggle",
+                "negotiate a deal",
+                "bargain for",
+                "discuss"
+            ],
+            "examples": [
+                "They bargained for a lower price.",
+                "She bargained with the vendor."
+            ]
+        }
+    ],
+    "bowing": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a movement where you bend your upper body forward, especially as a sign of respect",
+            "synonyms": [
+                "curtsy (less general)",
+                "inclination",
+                "gesture of respect",
+                "genuflection"
+            ],
+            "examples": [
+                "He made a small bowing after the performance.",
+                "The actor’s bowing lasted several seconds."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "bending or curving of a surface or object",
+            "synonyms": [
+                "bending",
+                "curving",
+                "flexing"
+            ],
+            "examples": [
+                "The wood showed slight bowing after the change in temperature."
+            ]
+        }
     ]
 }

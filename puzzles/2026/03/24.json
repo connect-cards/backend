@@ -1,0 +1,53 @@
+{
+    "date": "2026-03-24",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "emotional_tone",
+            "difficulty": "easy",
+            "title": "Mild positive evaluation",
+            "words": [
+                "praise",
+                "approve",
+                "commend",
+                "admire"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "thematic_association",
+            "difficulty": "medium",
+            "title": "Money and negotiation contexts",
+            "words": [
+                "bargain",
+                "tribute",
+                "remuneration",
+                "indemnity"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "morphological_family",
+            "difficulty": "hard",
+            "title": "-tract: pull/lead as a root family",
+            "words": [
+                "attract",
+                "distract",
+                "contract",
+                "extract"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "semantic_field",
+            "difficulty": "very_hard",
+            "title": "Technical geometry/astrology overlaps (only one true set)",
+            "words": [
+                "trine",
+                "ternion",
+                "terzetto",
+                "triangle"
+            ]
+        }
+    ]
+}

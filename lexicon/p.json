@@ -1703,5 +1703,437 @@
                 "She made a prudent decision about the budget."
             ]
         }
+    ],
+    "precision": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the quality of being exact and accurate",
+            "synonyms": [
+                "accuracy",
+                "exactness",
+                "correctness",
+                "specificity",
+                "fineness"
+            ],
+            "examples": [
+                "The device offers high precision.",
+                "Precision matters in medical dosing."
+            ]
+        }
+    ],
+    "pad": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small book of paper with a cover, often used for notes",
+            "synonyms": [
+                "notebook",
+                "block",
+                "journal",
+                "padfolio",
+                "writing pad"
+            ],
+            "examples": [
+                "I wrote the address on a pad.",
+                "Can I borrow your pad for a minute?"
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a soft flat layer used to protect a surface or to reduce impact",
+            "synonyms": [
+                "cushion",
+                "mat",
+                "liner",
+                "protective layer"
+            ],
+            "examples": [
+                "Put a pad under the heavy object.",
+                "Use a mouse pad to make the work easier."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to move in a slow, quiet way; to walk carefully",
+            "synonyms": [
+                "pad along",
+                "creep",
+                "tiptoe",
+                "step softly",
+                "move quietly"
+            ],
+            "examples": [
+                "He padded across the hallway without making noise.",
+                "The cat padded into the room."
+            ]
+        }
+    ],
+    "prevarication": [
+        {
+            "part_of_speech": "noun",
+            "definition": "talking in an unclear or evasive way to avoid telling the truth",
+            "synonyms": [
+                "evasion",
+                "avoidance",
+                "lying",
+                "dodging",
+                "stalling"
+            ],
+            "examples": [
+                "Her prevarication made the witness sound unreliable.",
+                "The report described prevarication during the interview."
+            ]
+        }
+    ],
+    "pristine": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "in perfect condition; not damaged or dirty",
+            "synonyms": [
+                "perfect",
+                "untouched",
+                "unspoiled",
+                "spotless",
+                "immaculate"
+            ],
+            "examples": [
+                "The building looks pristine after the renovation.",
+                "He found pristine evidence at the scene."
+            ]
+        }
+    ],
+    "piqued": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "slightly angry or very interested because of something surprising",
+            "synonyms": [
+                "curious",
+                "intrigued",
+                "interested",
+                "irritated",
+                "provoked"
+            ],
+            "examples": [
+                "I was piqued by his unusual answer.",
+                "Her comment piqued his curiosity."
+            ]
+        }
+    ],
+    "pious": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "showing deep respect for religion and moral beliefs",
+            "synonyms": [
+                "devout",
+                "religious",
+                "godly",
+                "faithful",
+                "spiritual"
+            ],
+            "examples": [
+                "She was pious and attended services regularly.",
+                "They held pious beliefs about charity."
+            ]
+        }
+    ],
+    "piety": [
+        {
+            "part_of_speech": "noun",
+            "definition": "deep respect for religion and moral devotion",
+            "synonyms": [
+                "devotion",
+                "religiosity",
+                "faithfulness",
+                "godliness",
+                "spirituality"
+            ],
+            "examples": [
+                "Her piety was clear in how she lived.",
+                "The community valued piety and service."
+            ]
+        }
+    ],
+    "petulant": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "showing irritation in an impatient, childish way",
+            "synonyms": [
+                "irritable",
+                "snappish",
+                "grumpy",
+                "whiny",
+                "impatient"
+            ],
+            "examples": [
+                "He became petulant when the plan changed.",
+                "Her petulant comments made the discussion tense."
+            ]
+        }
+    ],
+    "protocol": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a set of rules or procedures for how to do something",
+            "synonyms": [
+                "procedure",
+                "method",
+                "process",
+                "guidelines",
+                "rules"
+            ],
+            "examples": [
+                "Follow the protocol for data handling.",
+                "The protocol for emergencies is posted on the wall."
+            ]
+        }
+    ],
+    "prodigal": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "spending money freely or using resources wastefully",
+            "synonyms": [
+                "wasteful",
+                "reckless",
+                "careless",
+                "consuming",
+                "extravagant"
+            ],
+            "examples": [
+                "He returned as a prodigal spender after a big trip.",
+                "They criticized the prodigal spending."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who spends money freely or behaves wastefully",
+            "synonyms": [
+                "wastrel",
+                "spendthrift"
+            ],
+            "examples": [
+                "He described himself as a prodigal after losing his savings."
+            ]
+        }
+    ],
+    "panegyric": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a formal speech or written piece that strongly praises someone",
+            "synonyms": [
+                "speech of praise",
+                "praise",
+                "tribute",
+                "eulogy",
+                "compliment"
+            ],
+            "examples": [
+                "He delivered a panegyric at the ceremony.",
+                "The newspaper published a panegyric for the new mayor."
+            ]
+        }
+    ],
+    "pallor": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an unusually pale color of the skin, often because of illness or fear",
+            "synonyms": [
+                "paleness",
+                "whiteness",
+                "paleness of skin"
+            ],
+            "examples": [
+                "His pallor worried the nurse.",
+                "She had a sudden pallor after hearing the news."
+            ]
+        }
+    ],
+    "palpation": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a medical examination where the doctor feels the body with the hands",
+            "synonyms": [
+                "touch examination",
+                "physical exam by touch"
+            ],
+            "examples": [
+                "Palpation helped the doctor find the tender area.",
+                "During palpation, the clinician gently pressed the abdomen."
+            ]
+        }
+    ],
+    "phthisis": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an old term for tuberculosis, especially affecting the lungs",
+            "synonyms": [
+                "tuberculosis"
+            ],
+            "examples": [
+                "Phthisis was once a common cause of death.",
+                "Historically, phthisis was called consumption."
+            ]
+        }
+    ],
+    "pan": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a container used for cooking food, usually with a handle",
+            "synonyms": [
+                "skillet",
+                "frying pan",
+                "cookware"
+            ],
+            "examples": [
+                "Heat the pan before adding oil.",
+                "Put the vegetables in the pan."
+            ]
+        }
+    ],
+    "praise": [
+        {
+            "part_of_speech": "noun",
+            "definition": "kind words that show approval or admiration",
+            "synonyms": [
+                "approval",
+                "commendation",
+                "compliment",
+                "recognition",
+                "admiration"
+            ],
+            "examples": [
+                "She received praise for her work.",
+                "His praise made me feel confident."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to say that someone or something is good",
+            "synonyms": [
+                "commend",
+                "commend",
+                "approve",
+                "celebrate",
+                "acknowledge"
+            ],
+            "examples": [
+                "The teacher praised her effort.",
+                "They praised the new design."
+            ]
+        }
+    ],
+    "prolix": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "using too many words; long and unclear in a way that wastes time",
+            "synonyms": [
+                "wordy",
+                "long-winded",
+                "verbose",
+                "rambling",
+                "turgid"
+            ],
+            "examples": [
+                "The proposal is prolix and hard to follow.",
+                "He gave a prolix explanation."
+            ]
+        }
+    ],
+    "pointed": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having a sharp tip or end",
+            "synonyms": [
+                "sharp",
+                "tapered",
+                "conical",
+                "pointed end",
+                "spiked"
+            ],
+            "examples": [
+                "She used a pointed pencil to draw the outline.",
+                "The building has pointed arches."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "expressing something in a clear and direct way; sharp in meaning",
+            "synonyms": [
+                "direct",
+                "sharp",
+                "specific",
+                "emphatic",
+                "critical"
+            ],
+            "examples": [
+                "Her pointed comment made everyone notice the problem.",
+                "He gave a pointed reply."
+            ]
+        }
+    ],
+    "propel": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to drive or push something forward so it moves",
+            "synonyms": [
+                "push",
+                "drive",
+                "power",
+                "thrust",
+                "cause to move"
+            ],
+            "examples": [
+                "The engine propels the boat through the water.",
+                "Wind can propel a sailing ship."
+            ]
+        }
+    ],
+    "pleading": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a formal statement made in court by a party in a legal case",
+            "synonyms": [
+                "submission",
+                "legal document",
+                "court filing",
+                "arguments"
+            ],
+            "examples": [
+                "The pleading outlined the claims and facts.",
+                "Her attorney prepared the pleadings for court."
+            ]
+        }
+    ],
+    "parched": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very dry, often from lack of water",
+            "synonyms": [
+                "dried",
+                "dry",
+                "arid",
+                "dehydrated",
+                "withered"
+            ],
+            "examples": [
+                "The ground was parched after weeks without rain.",
+                "She felt parched and drank a lot of water."
+            ]
+        }
+    ],
+    "prudential": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "based on careful judgment to avoid risk",
+            "synonyms": [
+                "careful",
+                "prudent",
+                "cautious",
+                "responsible",
+                "risk-aware"
+            ],
+            "examples": [
+                "They took prudential steps to protect their savings.",
+                "A prudential approach can prevent losses."
+            ]
+        }
     ]
 }

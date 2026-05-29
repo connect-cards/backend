@@ -1,0 +1,53 @@
+{
+    "date": "2026-03-27",
+    "groups": [
+        {
+            "id": "easy-3",
+            "type": "easy",
+            "difficulty": "easy",
+            "title": "Physical sharpness or edge-like features",
+            "words": [
+                "pointed",
+                "spiky",
+                "tapered",
+                "needlelike"
+            ]
+        },
+        {
+            "id": "medium-3",
+            "type": "medium",
+            "difficulty": "medium",
+            "title": "A temperament that is prickly or easily offended",
+            "words": [
+                "touchy",
+                "irritable",
+                "cantankerous",
+                "testy"
+            ]
+        },
+        {
+            "id": "hard-3",
+            "type": "hard",
+            "difficulty": "hard",
+            "title": "Root meaning connected to rapid movement",
+            "words": [
+                "swift",
+                "velocity",
+                "accelerate",
+                "propel"
+            ]
+        },
+        {
+            "id": "very_hard-3",
+            "type": "very_hard",
+            "difficulty": "very_hard",
+            "title": "Obscure terms for a slight bend or twist",
+            "words": [
+                "torsion",
+                "bowing",
+                "deflexion",
+                "lateralization"
+            ]
+        }
+    ]
+}

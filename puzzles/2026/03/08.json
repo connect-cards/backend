@@ -1,0 +1,53 @@
+{
+    "date": "2026-03-08",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "easy",
+            "difficulty": "easy",
+            "title": "Academic act: to cite",
+            "words": [
+                "quote",
+                "cite",
+                "reference",
+                "annotate"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "medium",
+            "difficulty": "medium",
+            "title": "Hidden motive",
+            "words": [
+                "ulterior",
+                "covert",
+                "subtext",
+                "motive"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "hard",
+            "difficulty": "hard",
+            "title": "Lighting up the mind",
+            "words": [
+                "scintillating",
+                "radiant",
+                "luminous",
+                "sparkling"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "very_hard",
+            "difficulty": "very_hard",
+            "title": "Archaic literary pattern: a triad",
+            "words": [
+                "ternion",
+                "trine",
+                "tercet",
+                "terzetto"
+            ]
+        }
+    ]
+}

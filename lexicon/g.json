@@ -931,5 +931,99 @@
                 "They traveled near the glacier."
             ]
         }
+    ],
+    "gloomy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having little light and a dark, unhappy feeling",
+            "synonyms": [
+                "dark",
+                "murky",
+                "shadowy",
+                "somber",
+                "bleak"
+            ],
+            "examples": [
+                "The sky looked gloomy before the storm.",
+                "His gloomy mood made the meeting feel heavy."
+            ]
+        }
+    ],
+    "gloaming": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the time in the evening when daylight is fading",
+            "synonyms": [
+                "twilight",
+                "dusk",
+                "evening light"
+            ],
+            "examples": [
+                "We walked home in the gloaming.",
+                "The birds became quiet at gloaming."
+            ]
+        }
+    ],
+    "grumble": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to complain in a quiet annoyed way",
+            "synonyms": [
+                "complain",
+                "mutter",
+                "vent",
+                "bicker",
+                "whinge"
+            ],
+            "examples": [
+                "He grumbled about the long wait.",
+                "She grumbled but finally agreed."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a quiet complaint",
+            "synonyms": [
+                "complaint",
+                "murmur",
+                "protest"
+            ],
+            "examples": [
+                "There were constant grumbles about the schedule.",
+                "I heard a grumble from the back row."
+            ]
+        }
+    ],
+    "grimace": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a facial expression showing pain, dislike, or confusion",
+            "synonyms": [
+                "scowl",
+                "frown",
+                "grimace",
+                "expression",
+                "winces"
+            ],
+            "examples": [
+                "He made a grimace when the hot food hit his tongue.",
+                "A grimace crossed her face."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a facial expression because something is painful or unpleasant",
+            "synonyms": [
+                "wince",
+                "scowl",
+                "frown",
+                "contort",
+                "grimace"
+            ],
+            "examples": [
+                "She grimaced at the taste.",
+                "He grimaced as the doctor pressed the wound."
+            ]
+        }
     ]
 }

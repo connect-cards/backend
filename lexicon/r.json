@@ -1582,5 +1582,213 @@
                 "A short message can reassure customers during service delays."
             ]
         }
+    ],
+    "room": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a space inside a building that is used for a particular purpose",
+            "synonyms": [
+                "chamber",
+                "space",
+                "area",
+                "suite"
+            ],
+            "examples": [
+                "The meeting room is on the second floor.",
+                "We need a room for the baby."
+            ]
+        }
+    ],
+    "reference": [
+        {
+            "part_of_speech": "noun",
+            "definition": "information about where something can be found or who it belongs to",
+            "synonyms": [
+                "source",
+                "citation",
+                "mention",
+                "book reference",
+                "pointer"
+            ],
+            "examples": [
+                "Add a reference at the end of each paragraph.",
+                "The reference lists the journal and date."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to mention or use something as support or evidence",
+            "synonyms": [
+                "cite",
+                "mention",
+                "allude to",
+                "draw on",
+                "refer to"
+            ],
+            "examples": [
+                "The report references several studies.",
+                "He referred to the manual when explaining the rule."
+            ]
+        }
+    ],
+    "radiant": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "shining brightly; showing happiness or health strongly",
+            "synonyms": [
+                "bright",
+                "glowing",
+                "luminous",
+                "cheerful",
+                "happy"
+            ],
+            "examples": [
+                "She looked radiant after the wedding.",
+                "The morning light was radiant."
+            ]
+        }
+    ],
+    "repellent": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "causing strong dislike or not wanting to be near something",
+            "synonyms": [
+                "disgusting",
+                "unpleasant",
+                "off-putting",
+                "revulsive",
+                "repugnant"
+            ],
+            "examples": [
+                "The smell is repellent.",
+                "His attitude was repellent to many people."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "something that makes an animal or insect stay away",
+            "synonyms": [
+                "discourager",
+                "deterrent",
+                "spray",
+                "insect repellent"
+            ],
+            "examples": [
+                "The mosquito repellent worked well.",
+                "Use a repellent to keep insects away."
+            ]
+        }
+    ],
+    "relieve": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make someone feel less pain, worry, or difficulty",
+            "synonyms": [
+                "ease",
+                "reduce",
+                "lessen",
+                "comfort",
+                "alleviate"
+            ],
+            "examples": [
+                "The medicine will relieve the pain.",
+                "Talking to a friend can relieve stress."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to take over a duty so someone else can rest",
+            "synonyms": [
+                "replace",
+                "take over",
+                "substitute",
+                "relieve from duty",
+                "hand over"
+            ],
+            "examples": [
+                "The nurse relieved her at night.",
+                "They relieved the guard after two hours."
+            ]
+        }
+    ],
+    "rosiness": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a healthy or hopeful look; an optimistic view",
+            "synonyms": [
+                "optimism",
+                "cheerfulness",
+                "hopefulness",
+                "good outlook"
+            ],
+            "examples": [
+                "For him, retirement brought rosiness and calm.",
+                "I prefer to see things with less rosiness."
+            ]
+        }
+    ],
+    "restrain": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to stop someone or something from doing something; to control",
+            "synonyms": [
+                "stop",
+                "limit",
+                "prevent",
+                "hold back",
+                "restrict"
+            ],
+            "examples": [
+                "The police tried to restrain the crowd.",
+                "The doctor restrained him from exercising."
+            ]
+        }
+    ],
+    "remuneration": [
+        {
+            "part_of_speech": "noun",
+            "definition": "payment for work or services",
+            "synonyms": [
+                "pay",
+                "salary",
+                "compensation",
+                "payment",
+                "wages"
+            ],
+            "examples": [
+                "The job includes good remuneration.",
+                "Remuneration depends on experience."
+            ]
+        }
+    ],
+    "rondo": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a musical form where a main theme returns repeatedly, alternating with other sections",
+            "synonyms": [
+                "music form"
+            ],
+            "examples": [
+                "Mozart often used rondos in his compositions.",
+                "The piece is in rondo form."
+            ]
+        }
+    ],
+    "revise": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make changes to a text, plan, or decision to improve it",
+            "synonyms": [
+                "edit",
+                "amend",
+                "update",
+                "rework",
+                "correct"
+            ],
+            "examples": [
+                "I revised the report before submitting it.",
+                "She revised her plan after feedback."
+            ]
+        }
     ]
 }

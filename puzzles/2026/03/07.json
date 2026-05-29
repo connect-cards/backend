@@ -1,0 +1,53 @@
+{
+    "date": "2026-03-07",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "easy",
+            "difficulty": "easy",
+            "title": "Small steps",
+            "words": [
+                "stroll",
+                "wander",
+                "ramble",
+                "roam"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "medium",
+            "difficulty": "medium",
+            "title": "Physical state: gloomy atmosphere",
+            "words": [
+                "murky",
+                "dingy",
+                "somber",
+                "dreary"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "hard",
+            "difficulty": "hard",
+            "title": "Sounding sharp or abrupt",
+            "words": [
+                "laconic",
+                "curt",
+                "terse",
+                "brusque"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "very_hard",
+            "difficulty": "very_hard",
+            "title": "Archaic corporal condition: swelling",
+            "words": [
+                "edematous",
+                "tumid",
+                "dropsical",
+                "hydropic"
+            ]
+        }
+    ]
+}

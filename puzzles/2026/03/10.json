@@ -1,0 +1,53 @@
+{
+    "date": "2026-03-10",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "thematic_association",
+            "difficulty": "easy",
+            "title": "Casual movement",
+            "words": [
+                "stroll",
+                "wander",
+                "ramble",
+                "roam"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "sound_association",
+            "difficulty": "medium",
+            "title": "Soft, steady speech or sound",
+            "words": [
+                "murmur",
+                "whisper",
+                "hush",
+                "utter"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "semantic_field",
+            "difficulty": "hard",
+            "title": "Cautious approval",
+            "words": [
+                "endorse",
+                "acclaim",
+                "approve",
+                "sanction"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "synonym",
+            "difficulty": "very_hard",
+            "title": "Unwelcome, hard to endure",
+            "words": [
+                "odious",
+                "execrable",
+                "repellent",
+                "abominable"
+            ]
+        }
+    ]
+}

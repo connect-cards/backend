@@ -875,5 +875,288 @@
                 "There was an inexplicable delay in the system."
             ]
         }
+    ],
+    "illuminate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make something easier to understand or to explain clearly",
+            "synonyms": [
+                "clarify",
+                "explain",
+                "shed light on",
+                "make clear",
+                "enlighten"
+            ],
+            "examples": [
+                "The chart helped illuminate the results.",
+                "The teacher illuminated the main idea of the text."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to light something so it becomes bright",
+            "synonyms": [
+                "light",
+                "brighten",
+                "illume",
+                "illumine",
+                "illuminate up"
+            ],
+            "examples": [
+                "The streetlights illuminated the path.",
+                "Candles illuminated the room."
+            ]
+        }
+    ],
+    "injunction": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a court order that makes someone do something or stop doing something",
+            "synonyms": [
+                "court order",
+                "restraining order",
+                "command",
+                "prohibition"
+            ],
+            "examples": [
+                "The court issued an injunction to stop the construction.",
+                "The injunction prevented them from entering the property."
+            ]
+        }
+    ],
+    "invent": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to create something new, such as an idea, method, or device",
+            "synonyms": [
+                "create",
+                "develop",
+                "devise",
+                "construct",
+                "formulate"
+            ],
+            "examples": [
+                "He invented a faster way to test the materials.",
+                "Scientists invented a new drug delivery method."
+            ]
+        }
+    ],
+    "interrupt": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to stop someone from speaking or doing something for a short time",
+            "synonyms": [
+                "cut in",
+                "stop",
+                "disrupt",
+                "interrupting",
+                "intervene"
+            ],
+            "examples": [
+                "Sorry to interrupt, but I have a question.",
+                "The noise interrupted our conversation."
+            ]
+        }
+    ],
+    "interject": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to say something suddenly, especially during a conversation",
+            "synonyms": [
+                "interrupt",
+                "cut in",
+                "insert",
+                "add",
+                "interrupt briefly"
+            ],
+            "examples": [
+                "She interjected with a different idea.",
+                "He kept quiet and didn’t interject."
+            ]
+        }
+    ],
+    "indictment": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a formal charge in court that says someone is believed to have committed a crime",
+            "synonyms": [
+                "charge",
+                "formal accusation",
+                "indictment",
+                "accusation"
+            ],
+            "examples": [
+                "The indictment was filed after the investigation.",
+                "He faced an indictment for fraud."
+            ]
+        }
+    ],
+    "impious": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "showing disrespect for religion or for sacred things",
+            "synonyms": [
+                "irreverent",
+                "blasphemous",
+                "godless",
+                "unholy",
+                "disrespectful"
+            ],
+            "examples": [
+                "He was accused of impious behavior.",
+                "The joke was seen as impious by many."
+            ]
+        }
+    ],
+    "inchoate": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "not fully developed; only beginning",
+            "synonyms": [
+                "early",
+                "developing",
+                "incipient",
+                "unfinished",
+                "embryonic"
+            ],
+            "examples": [
+                "The project is still inchoate.",
+                "They discussed an inchoate idea for a new program."
+            ]
+        }
+    ],
+    "impatient": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "annoyed because you have to wait too long or because something is slow",
+            "synonyms": [
+                "restless",
+                "irritable",
+                "eager",
+                "unwilling to wait",
+                "annoyed"
+            ],
+            "examples": [
+                "He was impatient with the slow service.",
+                "Don’t be impatient; the process takes time."
+            ]
+        }
+    ],
+    "imply": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to suggest something indirectly, so it can be understood without being stated clearly",
+            "synonyms": [
+                "suggest",
+                "indicate",
+                "hint",
+                "mean",
+                "signal"
+            ],
+            "examples": [
+                "Her silence implied that she disagreed.",
+                "The numbers imply that sales are rising."
+            ]
+        }
+    ],
+    "insinuate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to suggest something bad or false indirectly, often to influence people",
+            "synonyms": [
+                "imply",
+                "suggest",
+                "hint",
+                "cast doubt",
+                "smuggle in"
+            ],
+            "examples": [
+                "He insinuated that she was dishonest.",
+                "The comment insinuated a hidden threat."
+            ]
+        }
+    ],
+    "illustrate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to explain something by using examples or to make it easier to understand",
+            "synonyms": [
+                "clarify",
+                "explain",
+                "demonstrate",
+                "show",
+                "explicate"
+            ],
+            "examples": [
+                "The diagram illustrates how the engine works.",
+                "She illustrated her point with a short story."
+            ]
+        }
+    ],
+    "indemnity": [
+        {
+            "part_of_speech": "noun",
+            "definition": "money paid to cover losses or damage, especially if someone is responsible",
+            "synonyms": [
+                "compensation",
+                "reimbursement",
+                "protection",
+                "insurance payment"
+            ],
+            "examples": [
+                "The contract includes indemnity for damages.",
+                "They provided indemnity after the accident."
+            ]
+        }
+    ],
+    "irritable": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "easily annoyed or angered",
+            "synonyms": [
+                "angry",
+                "annoyed",
+                "testy",
+                "grumpy",
+                "snappish"
+            ],
+            "examples": [
+                "She felt irritable after a poor night’s sleep.",
+                "The noise made the baby irritable."
+            ]
+        }
+    ],
+    "inquest": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an official investigation into the cause of a death",
+            "synonyms": [
+                "investigation",
+                "inquiry",
+                "hearing",
+                "official probe"
+            ],
+            "examples": [
+                "An inquest was held to determine the cause of death.",
+                "The jury returned a verdict after the inquest."
+            ]
+        }
+    ],
+    "iterate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to repeat a process, usually with small improvements each time",
+            "synonyms": [
+                "repeat",
+                "rework",
+                "cycle",
+                "refine",
+                "do again"
+            ],
+            "examples": [
+                "Engineers iterate the design until it works well.",
+                "We will iterate on the model in the next version."
+            ]
+        }
     ]
 }

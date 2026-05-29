@@ -593,5 +593,219 @@
                 "Luminance affects how readable the screen is."
             ]
         }
+    ],
+    "lurid": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "shockingly vivid, often in a way that seems sensational or unpleasant",
+            "synonyms": [
+                "graphic",
+                "shocking",
+                "sensational",
+                "grim",
+                "gory"
+            ],
+            "examples": [
+                "The article described a lurid crime scene.",
+                "He avoided lurid details in the report."
+            ]
+        }
+    ],
+    "lustrous": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "shiny and bright, with a smooth rich appearance",
+            "synonyms": [
+                "shiny",
+                "glossy",
+                "radiant",
+                "glistening",
+                "brilliant"
+            ],
+            "examples": [
+                "The lustrous coat reflected the light.",
+                "Her lustrous hair looked healthy."
+            ]
+        }
+    ],
+    "limpid": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "clear and easy to see through; not cloudy",
+            "synonyms": [
+                "clear",
+                "transparent",
+                "crystal-clear",
+                "limpidly"
+            ],
+            "examples": [
+                "The limpid water reflected the trees.",
+                "Her limpid explanation made everything simple."
+            ]
+        }
+    ],
+    "lamentation": [
+        {
+            "part_of_speech": "noun",
+            "definition": "sad and often loud expression of grief",
+            "synonyms": [
+                "mourning",
+                "grief",
+                "crying",
+                "sorrow",
+                "lament"
+            ],
+            "examples": [
+                "The funeral included lamentation and prayers.",
+                "Her lamentation filled the room with sadness."
+            ]
+        }
+    ],
+    "logography": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a writing system where symbols represent words or morphemes",
+            "synonyms": [
+                "symbol writing",
+                "writing system",
+                "logographic writing"
+            ],
+            "examples": [
+                "Logography is different from alphabetic writing.",
+                "In logography, each symbol can carry meaning."
+            ]
+        }
+    ],
+    "luminous": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "giving off light or shining clearly",
+            "synonyms": [
+                "bright",
+                "glowing",
+                "radiant",
+                "light-filled",
+                "illuminating"
+            ],
+            "examples": [
+                "The luminous sign was visible from far away.",
+                "Fireflies are luminous at night."
+            ]
+        }
+    ],
+    "leer": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to look in a way that seems rude, threatening, or sexually suggestive",
+            "synonyms": [
+                "glare",
+                "stare",
+                "gaze",
+                "look",
+                "ogle"
+            ],
+            "examples": [
+                "He leered at the stranger and was asked to leave.",
+                "She avoided his leer and walked away."
+            ]
+        }
+    ],
+    "litigate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to take a legal dispute to court",
+            "synonyms": [
+                "sue",
+                "go to court",
+                "try in court",
+                "appeal",
+                "contest"
+            ],
+            "examples": [
+                "They decided to litigate instead of settling.",
+                "The case was litigated over three years."
+            ]
+        }
+    ],
+    "laudatory": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "expressing praise",
+            "synonyms": [
+                "praising",
+                "admiring",
+                "complimentary",
+                "positive",
+                "commendatory"
+            ],
+            "examples": [
+                "She wrote a laudatory review of the book.",
+                "The speech was full of laudatory remarks."
+            ]
+        }
+    ],
+    "lout": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a rude, awkward person",
+            "synonyms": [
+                "oaf",
+                "clown",
+                "boor",
+                "loutish person",
+                "idiot (informal)"
+            ],
+            "examples": [
+                "He acts like a lout when he interrupts people.",
+                "Don’t be a lout; speak politely."
+            ]
+        }
+    ],
+    "liberate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to set someone free from imprisonment, control, or oppression",
+            "synonyms": [
+                "free",
+                "release",
+                "set free",
+                "deliver",
+                "emancipate"
+            ],
+            "examples": [
+                "They liberated the prisoners after the war.",
+                "The movement aimed to liberate people from unfair rules."
+            ]
+        }
+    ],
+    "loquacious": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "talking a lot; tending to speak too much",
+            "synonyms": [
+                "talkative",
+                "chatty",
+                "wordy",
+                "garrulous",
+                "loquacious"
+            ],
+            "examples": [
+                "He is loquacious and rarely stops talking.",
+                "The interview became loquacious after the first question."
+            ]
+        }
+    ],
+    "lateralization": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the process of developing functions mainly on one side of the brain",
+            "synonyms": [
+                "brain lateralization"
+            ],
+            "examples": [
+                "Lateralization can affect language processing.",
+                "Researchers studied lateralization in brain activity."
+            ]
+        }
     ]
 }

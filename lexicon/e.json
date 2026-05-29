@@ -981,5 +981,221 @@
                 "He enunciated each word slowly."
             ]
         }
+    ],
+    "evasion": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the act of avoiding something, especially responsibility or a direct question",
+            "synonyms": [
+                "avoidance",
+                "dodging",
+                "refusal",
+                "shunning",
+                "escape"
+            ],
+            "examples": [
+                "The manager criticized their evasion of the issue.",
+                "He used evasion when asked about the mistake."
+            ]
+        }
+    ],
+    "edematous": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "swollen due to fluid buildup in body tissues",
+            "synonyms": [
+                "swollen",
+                "puffy",
+                "inflamed",
+                "waterlogged"
+            ],
+            "examples": [
+                "The patient had edematous legs after the surgery.",
+                "Edematous tissue can look stretched."
+            ]
+        }
+    ],
+    "endorse": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to publicly support an idea, product, or person",
+            "synonyms": [
+                "support",
+                "back",
+                "approve",
+                "promote",
+                "recommend"
+            ],
+            "examples": [
+                "The athlete endorsed the sports drink.",
+                "I endorse the proposal because it is practical."
+            ]
+        }
+    ],
+    "execrable": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very bad in a way that deserves strong anger or condemnation",
+            "synonyms": [
+                "awful",
+                "terrible",
+                "horrible",
+                "abominable",
+                "detestable"
+            ],
+            "examples": [
+                "The treatment was execrable.",
+                "He described their actions as execrable."
+            ]
+        }
+    ],
+    "eloquent": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "able to express ideas clearly and effectively, often in an impressive way",
+            "synonyms": [
+                "articulate",
+                "expressive",
+                "persuasive",
+                "fluent",
+                "powerful"
+            ],
+            "examples": [
+                "Her eloquent speech convinced the audience.",
+                "He gave an eloquent explanation of the problem."
+            ]
+        }
+    ],
+    "enthrall": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to hold someone’s attention completely; to strongly interest",
+            "synonyms": [
+                "captivate",
+                "fascinate",
+                "engage",
+                "charm",
+                "spellbind"
+            ],
+            "examples": [
+                "The story enthralled the audience.",
+                "The documentary enthralled me from the first minute."
+            ]
+        }
+    ],
+    "eulogize": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to give a speech or write a text praising someone, often after their death",
+            "synonyms": [
+                "praise",
+                "celebrate",
+                "commend",
+                "laud",
+                "extol"
+            ],
+            "examples": [
+                "They eulogized her at the funeral.",
+                "He was eulogized for his service to the community."
+            ]
+        }
+    ],
+    "evaluate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to judge or determine the value, quality, or importance of something",
+            "synonyms": [
+                "assess",
+                "appraise",
+                "judge",
+                "estimate",
+                "review"
+            ],
+            "examples": [
+                "We need to evaluate the results.",
+                "The teacher evaluated student work fairly."
+            ]
+        }
+    ],
+    "elucidate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make something clear by explaining it in a simple way",
+            "synonyms": [
+                "clarify",
+                "explain",
+                "make clear",
+                "shed light on",
+                "illuminate"
+            ],
+            "examples": [
+                "The guide will elucidate the main steps.",
+                "Can you elucidate how the system works?"
+            ]
+        }
+    ],
+    "emancipate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to free someone from legal or social control, especially slavery or oppression",
+            "synonyms": [
+                "free",
+                "liberate",
+                "release",
+                "set free",
+                "abolish"
+            ],
+            "examples": [
+                "The law helped emancipate people from slavery.",
+                "They were finally emancipated after the reforms."
+            ]
+        }
+    ],
+    "extract": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a substance taken out of a larger material",
+            "synonyms": [
+                "removal",
+                "purification product",
+                "sample extract"
+            ],
+            "examples": [
+                "The extract was used in the medicine.",
+                "Add a few drops of vanilla extract."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to remove something from something else",
+            "synonyms": [
+                "remove",
+                "take out",
+                "pull out",
+                "retrieve",
+                "separate"
+            ],
+            "examples": [
+                "The dentist extracted the tooth.",
+                "They extracted the data from the file."
+            ]
+        }
+    ],
+    "expedient": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "helpful for achieving a result quickly, even if it is not ideal",
+            "synonyms": [
+                "practical",
+                "convenient",
+                "useful",
+                "timely",
+                "strategic"
+            ],
+            "examples": [
+                "It was expedient to postpone the meeting.",
+                "They chose an expedient solution."
+            ]
+        }
     ]
 }

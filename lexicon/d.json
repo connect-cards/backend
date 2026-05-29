@@ -1457,5 +1457,362 @@
                 "The evidence dispelled the rumors."
             ]
         }
+    ],
+    "distrustful": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "not trusting people or expecting that something may be wrong",
+            "synonyms": [
+                "skeptical",
+                "suspicious",
+                "guarded",
+                "wary",
+                "untrusting"
+            ],
+            "examples": [
+                "He is distrustful of promises made too quickly.",
+                "The team felt distrustful after the last mistake."
+            ]
+        }
+    ],
+    "dirge": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a slow sad song or poem for someone who has died",
+            "synonyms": [
+                "funeral song",
+                "elegy",
+                "lament",
+                "anthem"
+            ],
+            "examples": [
+                "They sang a dirge at the memorial.",
+                "The composer wrote a dirge for the victims."
+            ]
+        }
+    ],
+    "dropsical": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "relating to a medical condition where fluid collects in the body and causes swelling",
+            "synonyms": [
+                "edematous",
+                "swollen",
+                "hydropic"
+            ],
+            "examples": [
+                "He was diagnosed as dropsical after the symptoms appeared.",
+                "Dropsical swelling can affect the abdomen."
+            ]
+        }
+    ],
+    "decisive": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "able to make decisions quickly or strongly; leading to a clear result",
+            "synonyms": [
+                "deciding",
+                "definitive",
+                "deciding",
+                "conclusive",
+                "final"
+            ],
+            "examples": [
+                "Her reply was decisive and confident.",
+                "One goal in the final minutes proved decisive."
+            ]
+        }
+    ],
+    "decree": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an official order, usually from a government, that has legal force",
+            "synonyms": [
+                "order",
+                "ruling",
+                "law",
+                "edict"
+            ],
+            "examples": [
+                "The new decree changed local rules.",
+                "A decree was issued to end the emergency."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to officially decide or order something, especially by law",
+            "synonyms": [
+                "order",
+                "rule",
+                "issue",
+                "proclaim",
+                "set"
+            ],
+            "examples": [
+                "The court decreed that the contract was invalid.",
+                "The government decreed new restrictions."
+            ]
+        }
+    ],
+    "declaration": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a public statement or official announcement",
+            "synonyms": [
+                "statement",
+                "announcement",
+                "proclamation",
+                "official notice",
+                "declaration"
+            ],
+            "examples": [
+                "The declaration was released to the press.",
+                "They made a declaration of independence."
+            ]
+        }
+    ],
+    "decorous": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "well-mannered and appropriate in public behavior",
+            "synonyms": [
+                "proper",
+                "polite",
+                "respectful",
+                "appropriate",
+                "well-behaved"
+            ],
+            "examples": [
+                "They kept their conversation decorous during the ceremony.",
+                "It was a decorous response to an awkward question."
+            ]
+        }
+    ],
+    "devout": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "deeply religious and showing strong commitment to beliefs and worship",
+            "synonyms": [
+                "religious",
+                "pious",
+                "faithful",
+                "godly",
+                "spiritual"
+            ],
+            "examples": [
+                "She is devout and volunteers at her church.",
+                "He became devout after moving to a new community."
+            ]
+        }
+    ],
+    "drivel": [
+        {
+            "part_of_speech": "noun",
+            "definition": "silly or meaningless talk",
+            "synonyms": [
+                "nonsense",
+                "rubbish",
+                "twaddle",
+                "baloney",
+                "nonsense"
+            ],
+            "examples": [
+                "Stop talking drivel and focus on the task.",
+                "That rumor is drivel."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to talk in a way that is silly or meaningless",
+            "synonyms": [
+                "talk nonsense",
+                "babble",
+                "blather",
+                "ramble",
+                "spout"
+            ],
+            "examples": [
+                "He drivelled on without answering the question.",
+                "She drivelled about unrelated topics."
+            ]
+        }
+    ],
+    "deposition": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a statement made under oath for legal proceedings",
+            "synonyms": [
+                "testimony",
+                "statement",
+                "sworn statement",
+                "evidence"
+            ],
+            "examples": [
+                "The lawyer requested the deposition of the witness.",
+                "Her deposition was recorded by the court reporter."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "the process of placing or depositing material on a surface, especially in science",
+            "synonyms": [
+                "accumulation",
+                "deposition process"
+            ],
+            "examples": [
+                "The experiment studied thin-film deposition."
+            ]
+        }
+    ],
+    "dissent": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to disagree, especially formally in public or in a meeting",
+            "synonyms": [
+                "disagree",
+                "oppose",
+                "object",
+                "contradict",
+                "protest"
+            ],
+            "examples": [
+                "Several members dissented from the decision.",
+                "She dissented during the discussion."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "strong disagreement with an official decision or opinion",
+            "synonyms": [
+                "disagreement",
+                "opposition",
+                "objection",
+                "protest"
+            ],
+            "examples": [
+                "Dissent grew after the ruling.",
+                "Her dissent was recorded in the minutes."
+            ]
+        }
+    ],
+    "dubitant": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "uncertain or doubtful about something; not fully convinced",
+            "synonyms": [
+                "doubtful",
+                "hesitant",
+                "uncertain",
+                "skeptical",
+                "questioning"
+            ],
+            "examples": [
+                "He remained dubitant about the results.",
+                "A dubitant look crossed her face."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who is doubtful or not fully convinced",
+            "synonyms": [
+                "doubter",
+                "skeptic",
+                "skeptical person"
+            ],
+            "examples": [
+                "Not a single dubitant believed the claim."
+            ]
+        }
+    ],
+    "dilucid": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "unclear meaning: commonly misspelled form of elucid or clear terms; intended word is elucidated/clear (not a standard standalone form)",
+            "synonyms": [],
+            "examples": [
+                "If you meant elucidate, use that spelling instead."
+            ]
+        }
+    ],
+    "distract": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to take someone’s attention away from what they should focus on",
+            "synonyms": [
+                "divert",
+                "pull away",
+                "interrupt",
+                "interrupt focus",
+                "sidetrack"
+            ],
+            "examples": [
+                "Loud music can distract students.",
+                "Sorry, I didn’t mean to distract you."
+            ]
+        }
+    ],
+    "deflexion": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a bending or turning away from a straight line or original direction",
+            "synonyms": [
+                "deflection",
+                "bending",
+                "deviation",
+                "displacement"
+            ],
+            "examples": [
+                "The wire deflexion increased with stronger force."
+            ]
+        }
+    ],
+    "desiccated": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very dry because moisture has been removed",
+            "synonyms": [
+                "dried",
+                "dry",
+                "withered",
+                "dehydrated",
+                "arid"
+            ],
+            "examples": [
+                "The fruit was desiccated and hard.",
+                "Desiccated leaves crumble easily."
+            ]
+        }
+    ],
+    "deliberate": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "done on purpose after careful thought",
+            "synonyms": [
+                "intentional",
+                "planned",
+                "intentional",
+                "considered",
+                "calculated"
+            ],
+            "examples": [
+                "It was a deliberate insult, not an accident.",
+                "He made a deliberate decision to switch jobs."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to think carefully about something before making a decision",
+            "synonyms": [
+                "consider",
+                "think over",
+                "review",
+                "reflect",
+                "ponder"
+            ],
+            "examples": [
+                "The committee will deliberate on the proposal.",
+                "We need time to deliberate."
+            ]
+        }
     ]
 }

@@ -1,0 +1,53 @@
+{
+    "date": "2026-03-22",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "synonym",
+            "difficulty": "easy",
+            "title": "Amicable strolling",
+            "words": [
+                "stroll",
+                "wander",
+                "roam",
+                "ramble"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "profession_domain",
+            "difficulty": "medium",
+            "title": "Culinary roles and tools",
+            "words": [
+                "chef",
+                "pan",
+                "oven",
+                "baker"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "physical_trait",
+            "difficulty": "hard",
+            "title": "Descriptions of dimness and low visibility",
+            "words": [
+                "murky",
+                "dingy",
+                "somber",
+                "murmuring"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "informal_register",
+            "difficulty": "very_hard",
+            "title": "Casual, slightly archaic slurs for a person",
+            "words": [
+                "varlet",
+                "knave",
+                "cad",
+                "lout"
+            ]
+        }
+    ]
+}

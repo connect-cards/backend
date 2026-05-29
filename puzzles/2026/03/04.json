@@ -1,0 +1,53 @@
+{
+    "date": "2026-03-04",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "literary_register",
+            "difficulty": "easy",
+            "title": "Talk like a story (narrative mode)",
+            "words": [
+                "narrate",
+                "recount",
+                "relate",
+                "describe"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "etymological_relation",
+            "difficulty": "medium",
+            "title": "Related to vision (Latin roots)",
+            "words": [
+                "spectacle",
+                "inspect",
+                "specter",
+                "speculate"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "profession_domain",
+            "difficulty": "hard",
+            "title": "Medical practice (diagnosis and care)",
+            "words": [
+                "diagnose",
+                "therapeutics",
+                "prescribe",
+                "prognosis"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "physical_trait",
+            "difficulty": "very_hard",
+            "title": "Archaic or technical body/appearance terms",
+            "words": [
+                "viscid",
+                "limpid",
+                "sallow",
+                "ashen"
+            ]
+        }
+    ]
+}

@@ -1427,5 +1427,304 @@
                 "The stylist worked on her tresses."
             ]
         }
+    ],
+    "torch": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a handheld light, often used for outdoor or emergency purposes",
+            "synonyms": [
+                "flashlight",
+                "lamp",
+                "light",
+                "lantern"
+            ],
+            "examples": [
+                "He carried a torch through the dark hallway.",
+                "The torch helped us find the key."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a bright flame used as a sign or symbol, or a device that produces fire",
+            "synonyms": [
+                "flame",
+                "firebrand"
+            ],
+            "examples": [
+                "The parade featured torches along the route.",
+                "The statue held a torch."
+            ]
+        }
+    ],
+    "therapeutics": [
+        {
+            "part_of_speech": "noun",
+            "definition": "treatments used to improve health or to cure illness",
+            "synonyms": [
+                "treatment",
+                "medical therapy",
+                "medicine"
+            ],
+            "examples": [
+                "The study focuses on therapeutics for the disease.",
+                "New therapeutics are being developed in the lab."
+            ]
+        }
+    ],
+    "tumid": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "swollen or enlarged, often with fluid",
+            "synonyms": [
+                "swollen",
+                "puffy",
+                "inflated",
+                "edematous",
+                "distended"
+            ],
+            "examples": [
+                "Her face was tumid after the allergic reaction.",
+                "Tumid tissues can become painful."
+            ]
+        }
+    ],
+    "tidy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "neat and organized; in good order",
+            "synonyms": [
+                "neat",
+                "orderly",
+                "clean",
+                "organized",
+                "systematic"
+            ],
+            "examples": [
+                "Please keep your desk tidy.",
+                "The room is tidy now."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make something neat and organized; to arrange things properly",
+            "synonyms": [
+                "arrange",
+                "organize",
+                "straighten",
+                "put in order",
+                "clean up"
+            ],
+            "examples": [
+                "I need to tidy my room before dinner.",
+                "She tidied the shelves after class."
+            ]
+        }
+    ],
+    "tendentious": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "biased and written or spoken to promote a particular point of view",
+            "synonyms": [
+                "biased",
+                "one-sided",
+                "argumentative",
+                "partisan",
+                "slanted"
+            ],
+            "examples": [
+                "The article is tendentious and avoids other views.",
+                "His tendentious comments upset the discussion."
+            ]
+        }
+    ],
+    "taxonomy": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a system for classifying things into groups based on shared features",
+            "synonyms": [
+                "classification",
+                "grouping system",
+                "hierarchy",
+                "systematics"
+            ],
+            "examples": [
+                "Taxonomy helps scientists organize living things.",
+                "The course covers taxonomy and naming."
+            ]
+        }
+    ],
+    "throttle": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to control the speed or power of something so it does not go too fast",
+            "synonyms": [
+                "restrict",
+                "limit",
+                "control",
+                "regulate",
+                "reduce"
+            ],
+            "examples": [
+                "The device throttles the engine to save fuel.",
+                "They throttled the computer during updates."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to kill or seriously harm someone by squeezing the throat",
+            "synonyms": [
+                "choke",
+                "strangle"
+            ],
+            "examples": [
+                "The story mentioned that the suspect throttled the victim."
+            ]
+        }
+    ],
+    "transfer": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the act of moving something or someone from one place, position, or system to another",
+            "synonyms": [
+                "move",
+                "relocation",
+                "change",
+                "handover",
+                "transferal"
+            ],
+            "examples": [
+                "They approved the transfer to another department.",
+                "The transfer took two hours to complete."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to move a person or thing to a different place or position",
+            "synonyms": [
+                "move",
+                "relocate",
+                "shift",
+                "hand over",
+                "transfer ownership"
+            ],
+            "examples": [
+                "They transferred him to a different ward.",
+                "Can you transfer the file to my computer?"
+            ]
+        }
+    ],
+    "tribute": [
+        {
+            "part_of_speech": "noun",
+            "definition": "something given to show respect or honor, especially publicly",
+            "synonyms": [
+                "honor",
+                "pay respect",
+                "acknowledgment",
+                "recognition",
+                "tribute"
+            ],
+            "examples": [
+                "They paid tribute to the teacher at the ceremony.",
+                "A tribute was written in her memory."
+            ]
+        }
+    ],
+    "triangle": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a shape with three sides and three angles",
+            "synonyms": [
+                "three-sided shape",
+                "trigon"
+            ],
+            "examples": [
+                "A triangle has three sides.",
+                "Find the area of the triangle."
+            ]
+        }
+    ],
+    "tapered": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "becoming gradually narrower toward one end",
+            "synonyms": [
+                "narrowing",
+                "conical",
+                "tapering",
+                "slimmer",
+                "pointed"
+            ],
+            "examples": [
+                "The rope was tapered at the end.",
+                "She wore a tapered dress."
+            ]
+        }
+    ],
+    "touchy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "easily upset or offended; quick to react strongly",
+            "synonyms": [
+                "sensitive",
+                "easily offended",
+                "irritable",
+                "touchy",
+                "reactive"
+            ],
+            "examples": [
+                "He is touchy about criticism.",
+                "Don’t bring up that topic; he gets touchy."
+            ]
+        }
+    ],
+    "testy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "short-tempered; likely to become angry",
+            "synonyms": [
+                "irritable",
+                "snappy",
+                "impatient",
+                "bad-tempered",
+                "touchy"
+            ],
+            "examples": [
+                "She sounded testy when I asked about the delay.",
+                "He became testy during the meeting."
+            ]
+        }
+    ],
+    "torsion": [
+        {
+            "part_of_speech": "noun",
+            "definition": "twisting force that causes something to twist",
+            "synonyms": [
+                "twist",
+                "twisting force",
+                "torque (related)"
+            ],
+            "examples": [
+                "The test measured torsion on the metal rod.",
+                "Torsion can damage a bolt over time."
+            ]
+        }
+    ],
+    "treatise": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a long, formal piece of writing on a particular subject",
+            "synonyms": [
+                "book",
+                "essay",
+                "study",
+                "manual",
+                "monograph"
+            ],
+            "examples": [
+                "The library has a treatise on economics.",
+                "She wrote a treatise about ancient architecture."
+            ]
+        }
     ]
 }

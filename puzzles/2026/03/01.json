@@ -1,0 +1,53 @@
+{
+    "date": "2026-03-01",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "etymological_relation",
+            "difficulty": "easy",
+            "title": "Siblings from the same root (weapon/edge)",
+            "words": [
+                "blade",
+                "brand",
+                "sword",
+                "steel"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "literary_register",
+            "difficulty": "medium",
+            "title": "Storm-lit diction (moody weather)",
+            "words": [
+                "murky",
+                "gloomy",
+                "brooding",
+                "overcast"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "profession_domain",
+            "difficulty": "hard",
+            "title": "Trade of weights and measures (metrology)",
+            "words": [
+                "calibrate",
+                "meter",
+                "weigh",
+                "precision"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "physical_trait",
+            "difficulty": "very_hard",
+            "title": "Old-fashioned descriptions of eyes",
+            "words": [
+                "lurid",
+                "lustrous",
+                "ogle",
+                "vilgilant"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "date": "2026-03-02",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "physical_trait",
+            "difficulty": "easy",
+            "title": "Walks with rhythm (move about)",
+            "words": [
+                "stroll",
+                "wander",
+                "ramble",
+                "roam"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "literary_register",
+            "difficulty": "medium",
+            "title": "Threadbare emotion (sad, muted)",
+            "words": [
+                "sullen",
+                "somber",
+                "dreary",
+                "muted"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "informal_register",
+            "difficulty": "hard",
+            "title": "Casual male references (everyday talk)",
+            "words": [
+                "chap",
+                "bloke",
+                "fella",
+                "lad"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "emotional_tone",
+            "difficulty": "very_hard",
+            "title": "Subtle distrust and suspicion",
+            "words": [
+                "cynosure",
+                "misgiving",
+                "distrustful",
+                "illuminate"
+            ]
+        }
+    ]
+}

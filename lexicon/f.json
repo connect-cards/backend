@@ -748,5 +748,214 @@
                 "The fibers begin to frizz after washing."
             ]
         }
+    ],
+    "flame": [
+        {
+            "part_of_speech": "noun",
+            "definition": "fire burning with a visible, moving shape",
+            "synonyms": [
+                "fire",
+                "burning",
+                "blaze",
+                "flare",
+                "flicker"
+            ],
+            "examples": [
+                "A small flame appeared near the burner.",
+                "The candle flame flickered in the wind."
+            ]
+        }
+    ],
+    "furtive": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "trying to avoid being noticed; secretive because of wrongdoing or fear",
+            "synonyms": [
+                "secretive",
+                "sneaky",
+                "stealthy",
+                "cunning",
+                "evasive"
+            ],
+            "examples": [
+                "He gave a furtive glance toward the door.",
+                "She used a furtive voice to ask a question."
+            ]
+        }
+    ],
+    "fabricate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make something by putting parts together, often in a controlled process",
+            "synonyms": [
+                "manufacture",
+                "assemble",
+                "construct",
+                "build",
+                "produce"
+            ],
+            "examples": [
+                "The company fabricates metal parts for engines.",
+                "They fabricated the frame in the workshop."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to create something false or untrue and present it as real",
+            "synonyms": [
+                "fake",
+                "forge",
+                "counterfeit",
+                "plant",
+                "manufacture"
+            ],
+            "examples": [
+                "He fabricated a story to avoid blame.",
+                "The report contained fabricated data."
+            ]
+        }
+    ],
+    "frown": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a facial expression that shows displeasure, confusion, or worry",
+            "synonyms": [
+                "grimace",
+                "wrinkle",
+                "scowl",
+                "expression",
+                "displeasure"
+            ],
+            "examples": [
+                "She made a frown when she saw the bill.",
+                "A frown crossed his face."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a facial expression of displeasure or confusion by turning the brow downward",
+            "synonyms": [
+                "scowl",
+                "grimace",
+                "sulk",
+                "look displeased",
+                "wear a frown"
+            ],
+            "examples": [
+                "He frowned at the wrong answer.",
+                "Don’t frown during the presentation."
+            ]
+        }
+    ],
+    "flare": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a sudden bright burst of light or flame",
+            "synonyms": [
+                "burst",
+                "flashing",
+                "flare-up",
+                "blaze",
+                "burst of fire"
+            ],
+            "examples": [
+                "A flare of light appeared in the distance.",
+                "There was a flare of fire near the engine."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to burn brightly for a short time; to suddenly increase and then decrease",
+            "synonyms": [
+                "blaze",
+                "burst",
+                "flare up",
+                "flare out",
+                "ignite"
+            ],
+            "examples": [
+                "The fire flared as the wind picked up.",
+                "His temper flared quickly and then passed."
+            ]
+        }
+    ],
+    "fretful": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "showing irritation or worry, often in a small repeated way",
+            "synonyms": [
+                "anxious",
+                "irritable",
+                "restless",
+                "worried",
+                "nervous"
+            ],
+            "examples": [
+                "She became fretful when the train was delayed.",
+                "He spoke in a fretful tone."
+            ]
+        }
+    ],
+    "falchion": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a type of sword, usually with a broad curved blade (historical)",
+            "synonyms": [
+                "sword"
+            ],
+            "examples": [
+                "The falchion belonged to a medieval collection.",
+                "Historians describe the falchion as a broad-bladed sword."
+            ]
+        }
+    ],
+    "fob": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to get rid of an unwanted person or thing by giving false promises or excuses",
+            "synonyms": [
+                "shoo",
+                "get rid of",
+                "dismiss",
+                "palm off",
+                "brush off"
+            ],
+            "examples": [
+                "He tried to fob me off with a short answer.",
+                "Don’t fob customers off with unclear information."
+            ]
+        }
+    ],
+    "fallacious": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "based on a mistaken idea or incorrect reasoning",
+            "synonyms": [
+                "false",
+                "invalid",
+                "incorrect",
+                "misleading",
+                "erroneous"
+            ],
+            "examples": [
+                "The argument was fallacious.",
+                "Her conclusion is fallacious because the evidence is weak."
+            ]
+        }
+    ],
+    "forensics": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the use of scientific methods to investigate crimes or legal cases",
+            "synonyms": [
+                "forensic science",
+                "crime lab work",
+                "criminal investigation (science-based)"
+            ],
+            "examples": [
+                "Forensics helped identify the source of the blood.",
+                "They sent the samples to forensics."
+            ]
+        }
     ]
 }

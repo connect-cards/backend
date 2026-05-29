@@ -1,0 +1,53 @@
+{
+    "date": "2026-03-03",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "semantic_field",
+            "difficulty": "easy",
+            "title": "Small flames (controlled burning)",
+            "words": [
+                "candle",
+                "torch",
+                "flame",
+                "spark"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "synonym",
+            "difficulty": "medium",
+            "title": "Darkness descriptors (not all identical)",
+            "words": [
+                "murky",
+                "dingy",
+                "somber",
+                "gloaming"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "physical_trait",
+            "difficulty": "hard",
+            "title": "Skin and texture (touch)",
+            "words": [
+                "abrasion",
+                "velvet",
+                "scarred",
+                "bruised"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "profession_domain",
+            "difficulty": "very_hard",
+            "title": "Specialist legal actions (court procedure)",
+            "words": [
+                "summons",
+                "injunction",
+                "warrant",
+                "subpoena"
+            ]
+        }
+    ]
+}

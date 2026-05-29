@@ -216,5 +216,31 @@
                 "Jurisprudence helps explain how laws are interpreted."
             ]
         }
+    ],
+    "juris": [
+        {
+            "part_of_speech": "noun",
+            "definition": "related to law; used as part of legal words (not commonly used alone)",
+            "synonyms": [],
+            "examples": [
+                "Juris is usually part of terms like jurisprudence."
+            ]
+        }
+    ],
+    "juristic": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "relating to law or legal reasoning",
+            "synonyms": [
+                "legal",
+                "law-related",
+                "juridical",
+                "legitimate (contextual)"
+            ],
+            "examples": [
+                "The juristic analysis focused on contract interpretation.",
+                "He published juristic commentary."
+            ]
+        }
     ]
 }

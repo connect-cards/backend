@@ -1,0 +1,53 @@
+{
+    "date": "2026-03-23",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "morphological_family",
+            "difficulty": "easy",
+            "title": "-scribe: writing agents/acts",
+            "words": [
+                "scribe",
+                "describe",
+                "inscribe",
+                "prescribe"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "etymological_relation",
+            "difficulty": "medium",
+            "title": "Shared root ideas: freedom vs. restraint",
+            "words": [
+                "liberate",
+                "emancipate",
+                "restrain",
+                "constrain"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "emotional_tone",
+            "difficulty": "hard",
+            "title": "Worry shaded with skepticism",
+            "words": [
+                "apprehensive",
+                "doubtful",
+                "uneasy",
+                "suspicious"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "semantic_field",
+            "difficulty": "very_hard",
+            "title": "Archaic/rare literary terms for fear",
+            "words": [
+                "eldritch",
+                "dread",
+                "alarm",
+                "affright"
+            ]
+        }
+    ]
+}
