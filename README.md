@@ -1,4 +1,6 @@
-# connected-cards-backend
+# backend
+
+Minimal CI/CD flow that calls an LLM to generate puzzles and lexicon contents for the Connected Cards game.
 
 ## Commands
 
@@ -41,7 +43,7 @@ npm run create:lexicon -- apple banana --force
 ## Structure
 
 ```
-connected-cards-be/
+backend/
 ├── puzzles/
 │   └── 2026/
 │       └── 06/
