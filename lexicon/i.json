@@ -594,5 +594,286 @@
                 "In English, intonation can change the meaning."
             ]
         }
+    ],
+    "instructive": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "teaching something useful or helping someone learn",
+            "synonyms": [
+                "educational",
+                "informative",
+                "helpful",
+                "teaching"
+            ],
+            "examples": [
+                "The video was instructive and easy to follow.",
+                "Her comments were instructive for my project."
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "part_of_speech": "noun",
+            "definition": "guidance or information that teaches how to do something",
+            "synonyms": [
+                "guidance",
+                "training",
+                "direction",
+                "teaching"
+            ],
+            "examples": [
+                "The instruction manual is very clear.",
+                "I received instructions from my supervisor."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to give instructions or guidance",
+            "synonyms": [
+                "instruct",
+                "direct",
+                "tell"
+            ],
+            "examples": [
+                "They instructed her on the new system.",
+                "The coach instruction came early."
+            ]
+        }
+    ],
+    "invalidate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make something not valid or not acceptable",
+            "synonyms": [
+                "nullify",
+                "undermine",
+                "discredit",
+                "overturn"
+            ],
+            "examples": [
+                "The missing signature invalidated the contract.",
+                "Her later statement invalidated his earlier claim."
+            ]
+        }
+    ],
+    "inaction": [
+        {
+            "part_of_speech": "noun",
+            "definition": "not taking action",
+            "synonyms": [
+                "delay",
+                "passivity",
+                "nonperformance",
+                "tardiness"
+            ],
+            "examples": [
+                "Inaction made the situation worse.",
+                "The policy criticized inaction during emergencies."
+            ]
+        }
+    ],
+    "imprecation": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a spoken curse or strong angry statement",
+            "synonyms": [
+                "curse",
+                "blessing (opposite)",
+                "expletive",
+                "invective"
+            ],
+            "examples": [
+                "He shouted an imprecation after dropping the glass.",
+                "The speech included an imprecation."
+            ]
+        }
+    ],
+    "invective": [
+        {
+            "part_of_speech": "noun",
+            "definition": "insulting or abusive language",
+            "synonyms": [
+                "abuse",
+                "insult",
+                "verbal attack",
+                "harsh criticism"
+            ],
+            "examples": [
+                "The speech turned into invective.",
+                "He used invective during the argument."
+            ]
+        }
+    ],
+    "infer": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to understand something as a result of clues or reasoning",
+            "synonyms": [
+                "deduce",
+                "conclude",
+                "imply",
+                "reason out"
+            ],
+            "examples": [
+                "I inferred that she was upset.",
+                "We inferred the cause from the data."
+            ]
+        }
+    ],
+    "indict": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to formally accuse someone of a serious crime through legal procedure",
+            "synonyms": [
+                "charge",
+                "accuse",
+                "bring charges against"
+            ],
+            "examples": [
+                "A grand jury indicted him.",
+                "They indicted the suspect for fraud."
+            ]
+        }
+    ],
+    "inspect": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to look at something carefully to check its condition or quality",
+            "synonyms": [
+                "examine",
+                "check",
+                "review",
+                "investigate"
+            ],
+            "examples": [
+                "Please inspect the car before you buy it.",
+                "The inspector inspected the documents."
+            ]
+        }
+    ],
+    "inspection": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the act of checking something carefully",
+            "synonyms": [
+                "examination",
+                "check",
+                "review",
+                "assessment"
+            ],
+            "examples": [
+                "The inspection will happen tomorrow.",
+                "An inspection of the building found no problems."
+            ]
+        }
+    ],
+    "iconography": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the use and study of symbols and images, especially in art or religion",
+            "synonyms": [
+                "symbol system",
+                "symbolism",
+                "visual motifs"
+            ],
+            "examples": [
+                "The exhibit explained the iconography of the paintings.",
+                "Her research focused on iconography in medieval art."
+            ]
+        }
+    ],
+    "inevitability": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the fact that something will happen and cannot be avoided",
+            "synonyms": [
+                "certainty",
+                "unavoidability",
+                "surety",
+                "fatedness"
+            ],
+            "examples": [
+                "Change feels like inevitability in that industry.",
+                "The plan’s failure seemed like inevitability."
+            ]
+        }
+    ],
+    "induce": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to persuade someone to do something or to make it happen",
+            "synonyms": [
+                "cause",
+                "persuade",
+                "bring about",
+                "lead to"
+            ],
+            "examples": [
+                "The offer induced him to sign quickly.",
+                "Stress can induce headaches."
+            ]
+        }
+    ],
+    "icicle": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small hanging piece of ice that forms from dripping water",
+            "synonyms": [
+                "ice piece",
+                "ice drop"
+            ],
+            "examples": [
+                "Be careful near the roof; icicles can fall.",
+                "An icicle formed under the gutter."
+            ]
+        }
+    ],
+    "irritation": [
+        {
+            "part_of_speech": "noun",
+            "definition": "annoyance or discomfort caused by something unpleasant",
+            "synonyms": [
+                "annoyance",
+                "frustration",
+                "irritant (cause)",
+                "disturbance"
+            ],
+            "examples": [
+                "The noise caused irritation.",
+                "I felt irritation at the constant delays."
+            ]
+        }
+    ],
+    "incorrigible": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "unable to be corrected or changed, especially after repeated problems",
+            "synonyms": [
+                "hopeless",
+                "incurable",
+                "incorrigible",
+                "unreformable"
+            ],
+            "examples": [
+                "He is incorrigible and never learns.",
+                "The behavior seemed incorrigible."
+            ]
+        }
+    ],
+    "inexplicable": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "not able to be explained or understood",
+            "synonyms": [
+                "unexplainable",
+                "mysterious",
+                "unaccountable",
+                "baffling"
+            ],
+            "examples": [
+                "The change in his behavior was inexplicable.",
+                "There was an inexplicable delay in the system."
+            ]
+        }
     ]
 }

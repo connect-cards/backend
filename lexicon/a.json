@@ -1023,5 +1023,539 @@
                 "He gave an abrupt answer and left."
             ]
         }
+    ],
+    "amicable": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "friendly and peaceful, with no serious conflict",
+            "synonyms": [
+                "friendly",
+                "cordial",
+                "harmonious",
+                "civil"
+            ],
+            "examples": [
+                "They settled the dispute in an amicable way.",
+                "The meeting stayed amicable."
+            ]
+        }
+    ],
+    "advisory": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "giving advice, usually officially or formally",
+            "synonyms": [
+                "informative",
+                "advising",
+                "recommended",
+                "cautionary"
+            ],
+            "examples": [
+                "The company issued an advisory about delays.",
+                "The committee made an advisory decision."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "official advice or guidance about a situation",
+            "synonyms": [
+                "notice",
+                "warning",
+                "guidance"
+            ],
+            "examples": [
+                "The weather advisory was posted online.",
+                "We followed the public advisory."
+            ]
+        }
+    ],
+    "arbitration": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a way to solve a dispute by having an independent person make a decision",
+            "synonyms": [
+                "mediation",
+                "arbitral process",
+                "decision process"
+            ],
+            "examples": [
+                "They chose arbitration instead of going to court.",
+                "Arbitration can be faster than litigation."
+            ]
+        }
+    ],
+    "adjudicatory": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "related to making legal decisions, especially by a court or authority",
+            "synonyms": [
+                "judicial",
+                "decision-making",
+                "legal"
+            ],
+            "examples": [
+                "The adjudicatory process took months.",
+                "The board has adjudicatory power."
+            ]
+        }
+    ],
+    "astonish": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to surprise someone greatly, often because something is unexpected",
+            "synonyms": [
+                "amaze",
+                "surprise",
+                "shock",
+                "stun"
+            ],
+            "examples": [
+                "The result astonished everyone.",
+                "I was astonished by the speed of the repair."
+            ]
+        }
+    ],
+    "allay": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to reduce or calm a feeling or problem",
+            "synonyms": [
+                "reduce",
+                "ease",
+                "relieve",
+                "mitigate"
+            ],
+            "examples": [
+                "The medication helped allay the pain.",
+                "He spoke calmly to allay their fears."
+            ]
+        }
+    ],
+    "abate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to become less strong or less intense",
+            "synonyms": [
+                "decline",
+                "diminish",
+                "ease",
+                "subside"
+            ],
+            "examples": [
+                "The storm abated by afternoon.",
+                "Her headache did not abate quickly."
+            ]
+        }
+    ],
+    "adduce": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to present facts or evidence to support an argument",
+            "synonyms": [
+                "cite",
+                "present",
+                "offer",
+                "bring forward"
+            ],
+            "examples": [
+                "She adduced new evidence in court.",
+                "The report adduced several reasons for the delay."
+            ]
+        }
+    ],
+    "adversary": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person or group that opposes you",
+            "synonyms": [
+                "opponent",
+                "enemy",
+                "rival",
+                "challenger"
+            ],
+            "examples": [
+                "He trained to face his adversary.",
+                "The two adversaries agreed to a truce."
+            ]
+        }
+    ],
+    "alleviate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make pain, suffering, or a problem less intense",
+            "synonyms": [
+                "ease",
+                "relieve",
+                "mitigate",
+                "reduce"
+            ],
+            "examples": [
+                "The medicine alleviated her symptoms.",
+                "Support can alleviate stress during difficult times."
+            ]
+        }
+    ],
+    "anxiety": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a feeling of worry, nervousness, or unease about something",
+            "synonyms": [
+                "worry",
+                "unease",
+                "nervousness",
+                "concern"
+            ],
+            "examples": [
+                "Before the exam, she felt anxiety.",
+                "His anxiety kept him awake."
+            ]
+        }
+    ],
+    "ascertain": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to find out something for sure",
+            "synonyms": [
+                "determine",
+                "find out",
+                "confirm",
+                "establish"
+            ],
+            "examples": [
+                "I called to ascertain the meeting time.",
+                "They worked to ascertain what happened."
+            ]
+        }
+    ],
+    "accuse": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to say that someone is responsible for a crime or wrongdoing",
+            "synonyms": [
+                "charge",
+                "blame",
+                "indict",
+                "criticize"
+            ],
+            "examples": [
+                "She accused him of lying.",
+                "The report accused the company of illegal behavior."
+            ]
+        }
+    ],
+    "auspice": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a sign, event, or situation that seems to affect what will happen next",
+            "synonyms": [
+                "sign",
+                "omen",
+                "circumstances",
+                "guidance"
+            ],
+            "examples": [
+                "The festival began under the auspice of a local charity.",
+                "They made the announcement under the auspices of the university."
+            ]
+        }
+    ],
+    "aim": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a goal or purpose you try to reach",
+            "synonyms": [
+                "goal",
+                "purpose",
+                "target",
+                "objective"
+            ],
+            "examples": [
+                "Her aim is to become a doctor.",
+                "The aim of the project is clarity."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to try to reach a goal or to direct something at a target",
+            "synonyms": [
+                "target",
+                "direct",
+                "intend",
+                "aim at"
+            ],
+            "examples": [
+                "We aim to finish by Friday.",
+                "Aim the camera at the window."
+            ]
+        }
+    ],
+    "affection": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a feeling of warmth and care for someone",
+            "synonyms": [
+                "love",
+                "fondness",
+                "attachment",
+                "tenderness"
+            ],
+            "examples": [
+                "She showed affection toward her neighbors.",
+                "They have affection for each other."
+            ]
+        }
+    ],
+    "admiration": [
+        {
+            "part_of_speech": "noun",
+            "definition": "respect and approval for someone or something",
+            "synonyms": [
+                "respect",
+                "approval",
+                "esteem",
+                "reverence"
+            ],
+            "examples": [
+                "I have admiration for her hard work.",
+                "The speech earned admiration from the audience."
+            ]
+        }
+    ],
+    "anesthetic": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a drug that reduces or removes pain, especially during medical procedures",
+            "synonyms": [
+                "painkiller (medical)",
+                "numbing agent",
+                "local anesthetic"
+            ],
+            "examples": [
+                "The anesthetic made her numb.",
+                "They used an anesthetic before surgery."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "relating to or used for numbing pain",
+            "synonyms": [
+                "numbing",
+                "pain-relieving"
+            ],
+            "examples": [
+                "The anesthetic cream helped with itching."
+            ]
+        }
+    ],
+    "appoint": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to choose someone for a position or job",
+            "synonyms": [
+                "designate",
+                "name",
+                "select",
+                "assign"
+            ],
+            "examples": [
+                "They appointed her as director.",
+                "The committee will appoint a new judge."
+            ]
+        }
+    ],
+    "arbitrate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to settle a dispute by having an independent person make a decision",
+            "synonyms": [
+                "judge",
+                "mediate (not same)",
+                "settle",
+                "rule on"
+            ],
+            "examples": [
+                "They agreed to arbitrate the conflict.",
+                "The parties will arbitrate their differences."
+            ]
+        }
+    ],
+    "ashen": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very pale, often because of fear, illness, or shock",
+            "synonyms": [
+                "pale",
+                "gray",
+                "colorless",
+                "washed-out"
+            ],
+            "examples": [
+                "She looked ashen after the accident.",
+                "He went ashen when he heard the news."
+            ]
+        }
+    ],
+    "arbitrator": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an independent person who decides a dispute in arbitration",
+            "synonyms": [
+                "judge",
+                "neutral decision-maker",
+                "arbiter"
+            ],
+            "examples": [
+                "The arbitrator reviewed both sides’ evidence.",
+                "An arbitrator was appointed to settle the case."
+            ]
+        }
+    ],
+    "announce": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a fact or decision known publicly",
+            "synonyms": [
+                "declare",
+                "proclaim",
+                "state",
+                "inform"
+            ],
+            "examples": [
+                "They announced a change in schedule.",
+                "He announced that he was leaving."
+            ]
+        }
+    ],
+    "admonish": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to warn someone firmly to stop doing something or to do better",
+            "synonyms": [
+                "warn",
+                "caution",
+                "rebuke",
+                "censure"
+            ],
+            "examples": [
+                "The coach admonished the team to focus.",
+                "She was admonished for breaking the rules."
+            ]
+        }
+    ],
+    "ambiguous": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "unclear and able to be understood in more than one way",
+            "synonyms": [
+                "unclear",
+                "vague",
+                "open to interpretation",
+                "doubtful"
+            ],
+            "examples": [
+                "The sentence is ambiguous, so we need clarification.",
+                "His answer was ambiguous."
+            ]
+        }
+    ],
+    "annoyance": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the feeling of being slightly angry or bothered",
+            "synonyms": [
+                "irritation",
+                "frustration",
+                "annoying feeling",
+                "displeasure"
+            ],
+            "examples": [
+                "Her careless comments caused annoyance.",
+                "The noise was a daily annoyance."
+            ]
+        }
+    ],
+    "autopsy": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a medical examination of a dead body to find the cause of death",
+            "synonyms": [
+                "post-mortem exam",
+                "necropsy"
+            ],
+            "examples": [
+                "An autopsy was ordered after the accident.",
+                "The autopsy revealed the cause of death."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to perform an autopsy",
+            "synonyms": [
+                "examine (a body)",
+                "necropsy"
+            ],
+            "examples": [
+                "They autopsied the body to determine the cause."
+            ]
+        }
+    ],
+    "abjure": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To formally reject or give up a belief, promise, or claim",
+            "synonyms": [
+                "renounce",
+                "disavow",
+                "recant",
+                "forswear"
+            ],
+            "examples": [
+                "He abjured his former political views.",
+                "The court asked the defendant to abjure the false statement."
+            ]
+        }
+    ],
+    "articulate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To express thoughts, opinions, or feelings clearly",
+            "synonyms": [
+                "express",
+                "explain",
+                "communicate",
+                "state",
+                "convey"
+            ],
+            "examples": [
+                "She articulated her concerns calmly.",
+                "He struggled to articulate what he meant."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "Able to speak clearly and use words effectively",
+            "synonyms": [
+                "eloquent",
+                "verbal",
+                "well-spoken",
+                "fluent"
+            ],
+            "examples": [
+                "The speaker was articulate and confident.",
+                "Being articulate helps when you present ideas."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "To move parts of a body or an object in an individual way",
+            "synonyms": [
+                "separate",
+                "joint",
+                "flex"
+            ],
+            "examples": [
+                "The robot articulated its arms to pick up the object."
+            ]
+        }
     ]
 }

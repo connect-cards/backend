@@ -713,5 +713,168 @@
                 "The light made her skin seem wan."
             ]
         }
+    ],
+    "wisecrack": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a witty remark meant to be funny, often in response to something",
+            "synonyms": [
+                "quip",
+                "joke",
+                "witticism",
+                "crack"
+            ],
+            "examples": [
+                "He made a wisecrack that made everyone laugh.",
+                "Her wisecrack ended the awkward silence."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a witty remark",
+            "synonyms": [
+                "quip",
+                "crack",
+                "joke"
+            ],
+            "examples": [
+                "He wisecracked during the interview.",
+                "They kept wisecracking to break the tension."
+            ]
+        }
+    ],
+    "wary": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "careful about possible danger or problems",
+            "synonyms": [
+                "cautious",
+                "careful",
+                "alert",
+                "suspicious"
+            ],
+            "examples": [
+                "Be wary of emails that ask for passwords.",
+                "She was wary after her previous experience."
+            ]
+        }
+    ],
+    "workable": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "able to work in a practical situation",
+            "synonyms": [
+                "feasible",
+                "practical",
+                "usable",
+                "manageable"
+            ],
+            "examples": [
+                "The plan is workable, but we need more time.",
+                "We found a workable solution."
+            ]
+        }
+    ],
+    "worth": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the value or importance of something",
+            "synonyms": [
+                "value",
+                "worthiness",
+                "merit",
+                "importance"
+            ],
+            "examples": [
+                "The watch is worth a lot of money.",
+                "Her advice is worth listening to."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "having the value or importance that makes it deserve attention",
+            "synonyms": [
+                "valuable",
+                "deserving",
+                "useful",
+                "important"
+            ],
+            "examples": [
+                "It’s worth the effort.",
+                "That idea is worth considering."
+            ]
+        }
+    ],
+    "whither": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "to what place or direction",
+            "synonyms": [
+                "where",
+                "to where"
+            ],
+            "examples": [
+                "Whither did they go?",
+                "Whither should we travel next?"
+            ]
+        }
+    ],
+    "wintry": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "like winter, with cold weather or winter conditions",
+            "synonyms": [
+                "cold",
+                "winter-like",
+                "chilly",
+                "seasonal"
+            ],
+            "examples": [
+                "A wintry storm moved through the region.",
+                "The forecast is wintry this week."
+            ]
+        }
+    ],
+    "withdrawal": [
+        {
+            "part_of_speech": "noun",
+            "definition": "The act of taking money from an account or getting it back",
+            "synonyms": [
+                "cash withdrawal",
+                "payout",
+                "remittance"
+            ],
+            "examples": [
+                "There was a fee for each withdrawal from the ATM.",
+                "I made a withdrawal to pay for the trip."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "A move away from a place or from an activity",
+            "synonyms": [
+                "retreat",
+                "pullback",
+                "departure",
+                "exit"
+            ],
+            "examples": [
+                "The army began a withdrawal after the ceasefire.",
+                "Her withdrawal from the project surprised the team."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "Health or mental symptoms that can happen when someone stops using a drug or alcohol",
+            "synonyms": [
+                "detox",
+                "withdrawal symptoms",
+                "abstinence"
+            ],
+            "examples": [
+                "The doctor warned him about withdrawal.",
+                "Withdrawal can start within a few hours after stopping."
+            ]
+        }
     ]
 }

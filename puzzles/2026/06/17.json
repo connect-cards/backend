@@ -1,0 +1,60 @@
+{
+  "date": "2026-06-17",
+  "version": 1,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "easy",
+      "difficulty": 1,
+      "title": "Shadowy settings",
+      "words": [
+        "murky",
+        "dingy",
+        "somber",
+        "dreary"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "medium",
+      "difficulty": 2,
+      "title": "Speech-like register",
+      "words": [
+        "utter",
+        "pronounce",
+        "enunciate",
+        "articulate"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "hard",
+      "difficulty": 3,
+      "title": "Calibrated caution",
+      "words": [
+        "prudent",
+        "circumspect",
+        "cautious",
+        "wary"
+      ]
+    },
+    {
+      "id": "g4",
+      "type": "very-hard",
+      "difficulty": 4,
+      "title": "Poetic three-line form",
+      "words": [
+        "tercet",
+        "terzetto",
+        "ternion",
+        "trine"
+      ]
+    }
+  ]
+}

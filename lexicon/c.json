@@ -1790,5 +1790,810 @@
                 "He refused to comply with the request."
             ]
         }
+    ],
+    "comforting": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "making someone feel less worried or sad",
+            "synonyms": [
+                "reassuring",
+                "soothing",
+                "encouraging",
+                "heartening"
+            ],
+            "examples": [
+                "The nurse gave me a comforting smile.",
+                "His apology was comforting to her."
+            ]
+        }
+    ],
+    "chatterbox": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who talks a lot, often about many things",
+            "synonyms": [
+                "talkative person",
+                "big talker",
+                "gossip",
+                "blabbermouth"
+            ],
+            "examples": [
+                "My sister is a chatterbox on long trips.",
+                "The meeting was quiet until a chatterbox joined."
+            ]
+        }
+    ],
+    "counselor": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who provides guidance and support to help others make decisions or cope with problems",
+            "synonyms": [
+                "advisor",
+                "therapist",
+                "consultant",
+                "guide"
+            ],
+            "examples": [
+                "The school counselor helped her choose classes.",
+                "He works as a counselor for mental health."
+            ]
+        }
+    ],
+    "cordial": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "warm and friendly in attitude",
+            "synonyms": [
+                "friendly",
+                "warm",
+                "amicable",
+                "polite"
+            ],
+            "examples": [
+                "They had a cordial conversation.",
+                "Her cordial tone made everyone relax."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a sweet alcoholic drink flavored with fruits or herbs",
+            "synonyms": [
+                "cordial drink"
+            ],
+            "examples": [
+                "We bought a bottle of cordial for the party."
+            ]
+        }
+    ],
+    "candid": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "honest and direct, without hiding feelings",
+            "synonyms": [
+                "frank",
+                "open",
+                "straightforward",
+                "truthful"
+            ],
+            "examples": [
+                "She was candid about her concerns.",
+                "He gave a candid answer."
+            ]
+        }
+    ],
+    "column": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a regular section in a newspaper or magazine written by the same person",
+            "synonyms": [
+                "regular feature",
+                "opinion column",
+                "article series"
+            ],
+            "examples": [
+                "I read her advice column every week.",
+                "The sports column reports weekly results."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a list of items arranged vertically in a table or document",
+            "synonyms": [
+                "row group",
+                "list section"
+            ],
+            "examples": [
+                "The numbers are in the right column.",
+                "Add up the last column."
+            ]
+        }
+    ],
+    "confound": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to confuse or make someone unable to understand or respond",
+            "synonyms": [
+                "confuse",
+                "baffle",
+                "stump",
+                "puzzle"
+            ],
+            "examples": [
+                "The complex question confounded the student.",
+                "His answer confounded the reporter."
+            ]
+        }
+    ],
+    "canto": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a section of a long poem, especially in epic poetry",
+            "synonyms": [
+                "section",
+                "chapter",
+                "part"
+            ],
+            "examples": [
+                "The poem is divided into several cantos.",
+                "We read the first canto in class."
+            ]
+        }
+    ],
+    "contravene": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to break a rule, law, or agreement",
+            "synonyms": [
+                "violate",
+                "break",
+                "infringe",
+                "disobey"
+            ],
+            "examples": [
+                "The policy contravenes safety rules.",
+                "They contravened the agreement."
+            ]
+        }
+    ],
+    "canny": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "careful and good at avoiding problems, especially by being smart and alert",
+            "synonyms": [
+                "shrewd",
+                "wary",
+                "sharp",
+                "prudent"
+            ],
+            "examples": [
+                "He is canny enough to read the contract.",
+                "A canny strategy helped them win."
+            ]
+        },
+        {
+            "part_of_speech": "adverb",
+            "definition": "in a careful and smart way",
+            "synonyms": [
+                "shrewdly",
+                "carefully",
+                "prudently"
+            ],
+            "examples": [
+                "She canny managed the budget."
+            ]
+        }
+    ],
+    "creep": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to move slowly and quietly, especially in a sneaky or careful way",
+            "synonyms": [
+                "crawl",
+                "sneak",
+                "inch",
+                "skulk"
+            ],
+            "examples": [
+                "She crept closer to see what was happening.",
+                "He crept into the hallway at night."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a small gradual change, often in a negative direction",
+            "synonyms": [
+                "gradual increase",
+                "rise",
+                "drift"
+            ],
+            "examples": [
+                "There was a creep in the prices over the year.",
+                "He warned about creep in the project timeline."
+            ]
+        }
+    ],
+    "crouch": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to bend your knees and lower your body close to the ground",
+            "synonyms": [
+                "kneel",
+                "stoop",
+                "squat",
+                "bend"
+            ],
+            "examples": [
+                "He crouched to tie his shoe.",
+                "The cat crouched behind the chair."
+            ]
+        }
+    ],
+    "camouflage": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to hide something by blending it into the surroundings",
+            "synonyms": [
+                "hide",
+                "mask",
+                "conceal",
+                "blend"
+            ],
+            "examples": [
+                "The soldiers camouflaged themselves in the trees.",
+                "They used paint to camouflage the equipment."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "materials or methods used to hide someone or something",
+            "synonyms": [
+                "cover",
+                "camouflage netting",
+                "concealment"
+            ],
+            "examples": [
+                "The camouflage helped the animal stay hidden.",
+                "Camouflage is important in the forest."
+            ]
+        }
+    ],
+    "chatter": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to talk quickly and casually, or to make repeated short sounds",
+            "synonyms": [
+                "talk",
+                "jabber",
+                "chime",
+                "buzz"
+            ],
+            "examples": [
+                "The children began to chatter in the hallway.",
+                "The leaves chatter when the wind blows."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "quick casual talk",
+            "synonyms": [
+                "talk",
+                "chatter",
+                "gossip",
+                "small talk"
+            ],
+            "examples": [
+                "I heard cheerful chatter at the café.",
+                "There was loud chatter during the lecture."
+            ]
+        }
+    ],
+    "conclude": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to decide or determine something after thinking carefully",
+            "synonyms": [
+                "decide",
+                "determine",
+                "infer",
+                "end"
+            ],
+            "examples": [
+                "Based on the results, we concluded that the treatment worked.",
+                "He concluded his speech with a question."
+            ]
+        }
+    ],
+    "charge": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to ask for a price for goods or services",
+            "synonyms": [
+                "bill",
+                "cost",
+                "price",
+                "charge for"
+            ],
+            "examples": [
+                "They charge $20 for delivery.",
+                "The hotel charges extra for parking."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to blame someone for a wrongdoing",
+            "synonyms": [
+                "accuse",
+                "attribute",
+                "charge with"
+            ],
+            "examples": [
+                "He was charged with theft.",
+                "The police charged her with fraud."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "an amount of money asked for a service or product",
+            "synonyms": [
+                "fee",
+                "cost",
+                "price",
+                "fee charge"
+            ],
+            "examples": [
+                "There is a charge for late payment.",
+                "The charge was too high."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "the duty or responsibility of managing something",
+            "synonyms": [
+                "responsibility",
+                "control",
+                "management"
+            ],
+            "examples": [
+                "She is in charge of the office.",
+                "The charges in his department were heavy."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "in science, an electric property of a particle",
+            "synonyms": [
+                "electric charge"
+            ],
+            "examples": [
+                "Electrons have a negative charge."
+            ]
+        }
+    ],
+    "condemn": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to strongly criticize or express that something is wrong or unacceptable",
+            "synonyms": [
+                "denounce",
+                "censure",
+                "decry",
+                "criticize"
+            ],
+            "examples": [
+                "The judge condemned the actions as illegal.",
+                "Many people condemned the violence."
+            ]
+        }
+    ],
+    "cheat": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to act dishonestly in order to get an advantage, such as in a test or game",
+            "synonyms": [
+                "deceive",
+                "swindle",
+                "fraud",
+                "trick"
+            ],
+            "examples": [
+                "He cheated on the exam.",
+                "Don’t cheat in the card game."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who cheats or acts dishonestly",
+            "synonyms": [
+                "fraud",
+                "scammer",
+                "con artist",
+                "cheater"
+            ],
+            "examples": [
+                "The judge punished the cheat.",
+                "Everyone knew he was a cheat."
+            ]
+        }
+    ],
+    "cascade": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a series of things falling or moving down one after another",
+            "synonyms": [
+                "waterfall",
+                "series",
+                "stream",
+                "flow"
+            ],
+            "examples": [
+                "A cascade of water covered the rocks.",
+                "The lights created a cascade of colors."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to fall or flow down in stages",
+            "synonyms": [
+                "fall",
+                "pour",
+                "flow",
+                "stream"
+            ],
+            "examples": [
+                "The water cascaded down the cliff.",
+                "Cars cascaded through the intersection."
+            ]
+        }
+    ],
+    "conceal": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to hide something so others cannot see or know about it",
+            "synonyms": [
+                "hide",
+                "cover",
+                "mask",
+                "withhold"
+            ],
+            "examples": [
+                "He concealed the evidence.",
+                "She tried to conceal her disappointment."
+            ]
+        }
+    ],
+    "commentary": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an explanation or set of opinions about events or ideas",
+            "synonyms": [
+                "analysis",
+                "explanation",
+                "remarks",
+                "discussion"
+            ],
+            "examples": [
+                "The match commentary was clear and informative.",
+                "She wrote commentary for the news site."
+            ]
+        }
+    ],
+    "choosy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "preferring certain things and rejecting others often",
+            "synonyms": [
+                "picky",
+                "selective",
+                "particular",
+                "fussy"
+            ],
+            "examples": [
+                "He’s choosy about restaurants.",
+                "She is choosy when buying gifts."
+            ]
+        }
+    ],
+    "con": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to trick or persuade someone dishonestly",
+            "synonyms": [
+                "scam",
+                "swindle",
+                "deceive",
+                "trick"
+            ],
+            "examples": [
+                "He conned people into investing in his business.",
+                "Don’t con customers with false promises."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a dishonest scheme or trick",
+            "synonyms": [
+                "scam",
+                "fraud",
+                "swindle",
+                "scheme"
+            ],
+            "examples": [
+                "He was arrested for a con.",
+                "The con worked for months."
+            ]
+        }
+    ],
+    "clear-sighted": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "able to see clearly and understand situations accurately",
+            "synonyms": [
+                "wise",
+                "perceptive",
+                "thoughtful",
+                "good-judging"
+            ],
+            "examples": [
+                "She is clear-sighted about what matters most.",
+                "A clear-sighted manager avoids confusion."
+            ]
+        }
+    ],
+    "circumspection": [
+        {
+            "part_of_speech": "noun",
+            "definition": "careful judgment and caution to avoid mistakes or danger",
+            "synonyms": [
+                "care",
+                "caution",
+                "prudence",
+                "watchfulness"
+            ],
+            "examples": [
+                "Circumspection helped her avoid risky choices.",
+                "His circumspection impressed the team."
+            ]
+        }
+    ],
+    "clarify": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make something clearer or easier to understand",
+            "synonyms": [
+                "explain",
+                "make clear",
+                "clear up",
+                "illuminate"
+            ],
+            "examples": [
+                "Can you clarify what you mean?",
+                "The teacher clarified the instructions."
+            ]
+        }
+    ],
+    "chronicle": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a record of events over time",
+            "synonyms": [
+                "history",
+                "record",
+                "log",
+                "account"
+            ],
+            "examples": [
+                "The chronicle covers the years from 1900 to 1925.",
+                "She read a chronicle of the town’s past."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to record events in order over time",
+            "synonyms": [
+                "record",
+                "log",
+                "report",
+                "narrate"
+            ],
+            "examples": [
+                "He chronicled the company’s growth.",
+                "The newspaper chronicles local events."
+            ]
+        }
+    ],
+    "chronology": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the order in which events happen in time",
+            "synonyms": [
+                "sequence",
+                "time order",
+                "timeline",
+                "ordering"
+            ],
+            "examples": [
+                "We need a clear chronology of events.",
+                "The report includes a detailed chronology."
+            ]
+        }
+    ],
+    "chronic": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "lasting for a long time or happening repeatedly",
+            "synonyms": [
+                "long-term",
+                "ongoing",
+                "persistent",
+                "recurrent"
+            ],
+            "examples": [
+                "He suffers from a chronic illness.",
+                "Chronic stress can affect sleep."
+            ]
+        }
+    ],
+    "coiffure": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a hairstyle",
+            "synonyms": [
+                "hairstyle",
+                "hairdo",
+                "cut",
+                "style"
+            ],
+            "examples": [
+                "The model wore an elegant coiffure.",
+                "Her coiffure looked perfect for the event."
+            ]
+        }
+    ],
+    "clinic": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a place where doctors or medical staff provide health care",
+            "synonyms": [
+                "medical center",
+                "health center",
+                "medical clinic"
+            ],
+            "examples": [
+                "She visited a clinic for a checkup.",
+                "The clinic is open from 9 to 5."
+            ]
+        }
+    ],
+    "crackle": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a series of small sharp popping sounds",
+            "synonyms": [
+                "pop",
+                "snap",
+                "sizzle",
+                "crisp"
+            ],
+            "examples": [
+                "The fire crackled in the fireplace.",
+                "The radio crackled with static."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a series of small sharp popping sounds",
+            "synonyms": [
+                "crackling sound",
+                "popping"
+            ],
+            "examples": [
+                "There was a crackle from the speakers.",
+                "We heard the crackle of the fire."
+            ]
+        }
+    ],
+    "clink": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a light ringing sound when objects touch",
+            "synonyms": [
+                "ting",
+                "ring",
+                "tap lightly"
+            ],
+            "examples": [
+                "Glasses clinked as they were set on the table.",
+                "The coins clinked in his pocket."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a light ringing sound",
+            "synonyms": [
+                "ting",
+                "ring",
+                "chime"
+            ],
+            "examples": [
+                "I heard a clink from the kitchen.",
+                "There was a clink when the keys landed."
+            ]
+        }
+    ],
+    "crosscheck": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to check information twice or compare it with another source to confirm accuracy",
+            "synonyms": [
+                "verify",
+                "check",
+                "confirm",
+                "compare"
+            ],
+            "examples": [
+                "Crosscheck the numbers before you submit the report.",
+                "The accountant crosschecked the figures with the receipts."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a second check using another method or source",
+            "synonyms": [
+                "verification",
+                "secondary check"
+            ],
+            "examples": [
+                "A crosscheck helped catch the error."
+            ]
+        }
+    ],
+    "circumspect": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Careful to avoid risks or mistakes; not doing things too quickly",
+            "synonyms": [
+                "cautious",
+                "careful",
+                "wary",
+                "judicious",
+                "prudent"
+            ],
+            "examples": [
+                "He was circumspect about sharing details with strangers.",
+                "The team took a circumspect approach to the negotiations."
+            ]
+        }
+    ],
+    "cautious": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Careful to avoid danger, problems, or mistakes",
+            "synonyms": [
+                "careful",
+                "wary",
+                "prudent",
+                "circumspect",
+                "guarded"
+            ],
+            "examples": [
+                "Be cautious when crossing the street at night.",
+                "She took cautious steps to test the new system."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "Not showing too much emotion or giving away too much information",
+            "synonyms": [
+                "reserved",
+                "guarded",
+                "discreet",
+                "careful",
+                "tactful"
+            ],
+            "examples": [
+                "He was cautious about discussing the issue publicly.",
+                "The manager gave a cautious response to the rumors."
+            ]
+        }
     ]
 }

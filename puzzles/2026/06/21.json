@@ -1,0 +1,60 @@
+{
+  "date": "2026-06-21",
+  "version": 1,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "sound_association",
+      "difficulty": 1,
+      "title": "Rhyming pairs, same ending sound",
+      "words": [
+        "mirth",
+        "earth",
+        "worth",
+        "birth"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "synonym",
+      "difficulty": 2,
+      "title": "“Not much” in different registers",
+      "words": [
+        "scant",
+        "meagre",
+        "paltry",
+        "sparse"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "semantic_field",
+      "difficulty": 3,
+      "title": "Performances of the mind and voice",
+      "words": [
+        "recite",
+        "orate",
+        "intonation",
+        "cadence"
+      ]
+    },
+    {
+      "id": "g4",
+      "type": "emotional_tone",
+      "difficulty": 4,
+      "title": "Cold, restrained suspicion",
+      "words": [
+        "leery",
+        "skeptical",
+        "wary",
+        "dubious"
+      ]
+    }
+  ]
+}

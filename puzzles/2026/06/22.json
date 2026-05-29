@@ -1,0 +1,60 @@
+{
+  "date": "2026-06-22",
+  "version": 1,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "semantic_field",
+      "difficulty": 1,
+      "title": "Tales of deception",
+      "words": [
+        "fraud",
+        "scam",
+        "con",
+        "swindle"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "physical_trait",
+      "difficulty": 2,
+      "title": "Descriptions of a face in shadow",
+      "words": [
+        "murky",
+        "sallow",
+        "ashen",
+        "grim"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "profession_domain",
+      "difficulty": 3,
+      "title": "Legal decision-makers",
+      "words": [
+        "arbitrator",
+        "mediator",
+        "juror",
+        "magistrate"
+      ]
+    },
+    {
+      "id": "g4",
+      "type": "etymological_relation",
+      "difficulty": 4,
+      "title": "Family of words from “publish/declare” roots",
+      "words": [
+        "announce",
+        "proclaim",
+        "reveal",
+        "manifest"
+      ]
+    }
+  ]
+}

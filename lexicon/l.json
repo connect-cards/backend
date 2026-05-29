@@ -470,5 +470,128 @@
                 "Errors were found in the company’s ledger."
             ]
         }
+    ],
+    "litigation": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the process of taking a legal dispute to court",
+            "synonyms": [
+                "lawsuit process",
+                "court case",
+                "legal action"
+            ],
+            "examples": [
+                "The company is facing litigation.",
+                "Litigation can be expensive and slow."
+            ]
+        }
+    ],
+    "litigator": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a lawyer who handles lawsuits and legal cases",
+            "synonyms": [
+                "lawyer",
+                "trial lawyer",
+                "attorney"
+            ],
+            "examples": [
+                "The litigator argued the case in court.",
+                "She became a litigator after law school."
+            ]
+        }
+    ],
+    "lithe": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "light, flexible, and graceful in movement",
+            "synonyms": [
+                "nimble",
+                "slender",
+                "flexible",
+                "graceful"
+            ],
+            "examples": [
+                "She was lithe and moved easily.",
+                "The dancer looked lithe and strong."
+            ]
+        }
+    ],
+    "litigant": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person or group involved in a lawsuit",
+            "synonyms": [
+                "lawsuit party",
+                "plaintiff",
+                "defendant",
+                "party to a case"
+            ],
+            "examples": [
+                "Both litigants presented their arguments.",
+                "The litigant asked for more time."
+            ]
+        }
+    ],
+    "leery": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "cautious or suspicious about something",
+            "synonyms": [
+                "wary",
+                "suspicious",
+                "cautious",
+                "careful"
+            ],
+            "examples": [
+                "I’m leery of deals that seem too good.",
+                "She was leery after the first scam."
+            ]
+        }
+    ],
+    "lunge": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to move suddenly forward or to one side with a big effort",
+            "synonyms": [
+                "dash",
+                "charge",
+                "jump",
+                "spring"
+            ],
+            "examples": [
+                "He lunged to catch the ball.",
+                "The dog lunged at the fence."
+            ]
+        }
+    ],
+    "lidded": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having a lid or top",
+            "synonyms": [
+                "covered",
+                "topped"
+            ],
+            "examples": [
+                "We used a lidded container to store the food.",
+                "The lidded pot kept the heat in."
+            ]
+        }
+    ],
+    "luminance": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the brightness of light in a specific area",
+            "synonyms": [
+                "brightness",
+                "light intensity",
+                "radiance"
+            ],
+            "examples": [
+                "The display’s luminance improved in sunlight.",
+                "Luminance affects how readable the screen is."
+            ]
+        }
     ]
 }

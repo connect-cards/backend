@@ -1,0 +1,60 @@
+{
+  "date": "2026-06-03",
+  "version": 1,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "d3-easy",
+      "type": "profession_domain",
+      "difficulty": 1,
+      "title": "Journalistic craft",
+      "words": [
+        "editorial",
+        "byline",
+        "column",
+        "reportage"
+      ]
+    },
+    {
+      "id": "d3-medium",
+      "type": "synonym",
+      "difficulty": 2,
+      "title": "Close in meaning, different shades",
+      "words": [
+        "bewilder",
+        "confound",
+        "astonish",
+        "stun"
+      ]
+    },
+    {
+      "id": "d3-hard",
+      "type": "literary_register",
+      "difficulty": 3,
+      "title": "Poetic movements",
+      "words": [
+        "threnody",
+        "canto",
+        "sonnet",
+        "tercet"
+      ]
+    },
+    {
+      "id": "d3-very-hard",
+      "type": "sound_association",
+      "difficulty": 4,
+      "title": "Archaic, ominous aura",
+      "words": [
+        "eldritch",
+        "uncanny",
+        "unearthly",
+        "phantasmic"
+      ]
+    }
+  ]
+}

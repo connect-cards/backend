@@ -1,0 +1,60 @@
+{
+  "date": "2026-06-10",
+  "version": 1,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "d2-easy",
+      "type": "sound_association",
+      "difficulty": 1,
+      "title": "Soft, steady percussion",
+      "words": [
+        "drum",
+        "tap",
+        "knock",
+        "rattle"
+      ]
+    },
+    {
+      "id": "d2-medium",
+      "type": "emotional_tone",
+      "difficulty": 2,
+      "title": "Deliberately cold",
+      "words": [
+        "icy",
+        "chilly",
+        "frosty",
+        "bleak"
+      ]
+    },
+    {
+      "id": "d2-hard",
+      "type": "synonym",
+      "difficulty": 3,
+      "title": "To discover by patient reasoning",
+      "words": [
+        "deduce",
+        "infer",
+        "conclude",
+        "ascertain"
+      ]
+    },
+    {
+      "id": "d2-very-hard",
+      "type": "etymological_relation",
+      "difficulty": 4,
+      "title": "Converging lines of insight",
+      "words": [
+        "exegesis",
+        "hermeneutics",
+        "exegorical",
+        "hermeneutic"
+      ]
+    }
+  ]
+}

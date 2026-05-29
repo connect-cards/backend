@@ -28,5 +28,35 @@
                 "She tried a quixotic rescue attempt."
             ]
         }
+    ],
+    "quell": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to put an end to something, especially strong feelings or violence",
+            "synonyms": [
+                "suppress",
+                "stop",
+                "end",
+                "subdue"
+            ],
+            "examples": [
+                "The police moved to quell the unrest.",
+                "She tried to quell her anger."
+            ]
+        }
+    ],
+    "quatrain": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a stanza with four lines in poetry",
+            "synonyms": [
+                "four-line stanza",
+                "stanza"
+            ],
+            "examples": [
+                "The poem uses quatrains to organize the story.",
+                "Each quatrain rhymes in the same pattern."
+            ]
+        }
     ]
 }

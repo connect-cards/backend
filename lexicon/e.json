@@ -765,5 +765,221 @@
                 "They entreat the government to respond quickly."
             ]
         }
+    ],
+    "editorial": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "written for or related to an official opinion in a newspaper or magazine",
+            "synonyms": [
+                "opinion",
+                "commentary-related",
+                "journalistic"
+            ],
+            "examples": [
+                "The editorial board approved the statement.",
+                "The editorial page features opinions."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "an article that expresses a publication’s opinion about an issue",
+            "synonyms": [
+                "op-ed",
+                "opinion piece"
+            ],
+            "examples": [
+                "The editorial criticized the policy.",
+                "I read the editorial before the news."
+            ]
+        }
+    ],
+    "eloquence": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the ability to speak or write in a powerful and persuasive way",
+            "synonyms": [
+                "articulateness",
+                "fluency",
+                "rhetoric",
+                "oratory"
+            ],
+            "examples": [
+                "Her eloquence impressed the audience.",
+                "He delivered his speech with great eloquence."
+            ]
+        }
+    ],
+    "editor": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who prepares written work for publication or who selects and improves content",
+            "synonyms": [
+                "publisher",
+                "proofreader",
+                "media editor",
+                "chief editor"
+            ],
+            "examples": [
+                "The editor reviewed the article before it was published.",
+                "She worked as an editor for a magazine."
+            ]
+        }
+    ],
+    "enjoin": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to order someone legally to do something or to stop doing something",
+            "synonyms": [
+                "order",
+                "command",
+                "instruct",
+                "forbid"
+            ],
+            "examples": [
+                "The judge enjoined the company from releasing the data.",
+                "She was enjoined from entering the building."
+            ]
+        }
+    ],
+    "exegesis": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the explanation and interpretation of a text, especially religious or classical writing",
+            "synonyms": [
+                "interpretation",
+                "commentary",
+                "analysis"
+            ],
+            "examples": [
+                "The course focused on exegesis of biblical passages.",
+                "Her exegesis offered a new perspective on the text."
+            ]
+        }
+    ],
+    "exegorical": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "related to explaining and interpreting a text",
+            "synonyms": [
+                "interpretive",
+                "explanatory",
+                "analytical"
+            ],
+            "examples": [
+                "The lecture used exegorical methods to explain the passage."
+            ]
+        }
+    ],
+    "eerie": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "strange and frightening in a way that makes you feel uncomfortable",
+            "synonyms": [
+                "spooky",
+                "uncanny",
+                "strange",
+                "chilling"
+            ],
+            "examples": [
+                "The empty house looked eerie.",
+                "An eerie silence filled the hallway."
+            ]
+        }
+    ],
+    "erode": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to gradually wear away or weaken over time",
+            "synonyms": [
+                "wear down",
+                "undermine",
+                "weaken",
+                "decrease"
+            ],
+            "examples": [
+                "The river eroded the bank.",
+                "Stress can erode trust."
+            ]
+        }
+    ],
+    "equivocation": [
+        {
+            "part_of_speech": "noun",
+            "definition": "using unclear or double meanings to avoid saying something directly",
+            "synonyms": [
+                "ambiguity",
+                "evasion",
+                "unclear speech",
+                "double talk"
+            ],
+            "examples": [
+                "His equivocation made the situation worse.",
+                "The lawyer accused her of equivocation."
+            ]
+        }
+    ],
+    "exasperation": [
+        {
+            "part_of_speech": "noun",
+            "definition": "strong anger or frustration because something is difficult or repeating",
+            "synonyms": [
+                "frustration",
+                "rage",
+                "irritation",
+                "annoyance"
+            ],
+            "examples": [
+                "He spoke with exasperation after the third mistake.",
+                "Her exasperation grew as the meeting dragged on."
+            ]
+        }
+    ],
+    "equivocate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to use unclear language to avoid a clear answer",
+            "synonyms": [
+                "evade",
+                "answer vaguely",
+                "be ambiguous",
+                "hem and haw"
+            ],
+            "examples": [
+                "He equivocated when asked directly about the issue.",
+                "The politician equivocated instead of giving a clear plan."
+            ]
+        }
+    ],
+    "effulgence": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a bright, radiant light or display",
+            "synonyms": [
+                "radiance",
+                "brightness",
+                "glow",
+                "splendor"
+            ],
+            "examples": [
+                "The effulgence of the sunrise filled the sky.",
+                "Her smile had an effulgence that lifted the room."
+            ]
+        }
+    ],
+    "enunciate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To say something clearly and distinctly",
+            "synonyms": [
+                "pronounce",
+                "articulate",
+                "speak clearly",
+                "utter"
+            ],
+            "examples": [
+                "Please enunciate so everyone can hear you.",
+                "He enunciated each word slowly."
+            ]
+        }
     ]
 }

@@ -1103,5 +1103,484 @@
                 "Street dogs are often roamed by the city."
             ]
         }
+    ],
+    "reassuring": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "making someone feel safe and confident again",
+            "synonyms": [
+                "comforting",
+                "encouraging",
+                "assuring",
+                "steadied"
+            ],
+            "examples": [
+                "Her calm voice was reassuring.",
+                "The results were reassuring."
+            ]
+        },
+        {
+            "part_of_speech": "adverb",
+            "definition": "in a way that reduces fear or doubt",
+            "synonyms": [
+                "comfortingly",
+                "encouragingly"
+            ],
+            "examples": [
+                "He spoke reassuringly, and I relaxed."
+            ]
+        }
+    ],
+    "recommendation": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a suggestion or piece of advice about what should be done or chosen",
+            "synonyms": [
+                "suggestion",
+                "advice",
+                "endorsement",
+                "rec"
+            ],
+            "examples": [
+                "I made a recommendation to my manager.",
+                "Her recommendation helped me choose the course."
+            ]
+        }
+    ],
+    "reportage": [
+        {
+            "part_of_speech": "noun",
+            "definition": "news writing that describes events in a detailed and journalistic way",
+            "synonyms": [
+                "news report",
+                "journalistic reporting",
+                "coverage"
+            ],
+            "examples": [
+                "The book includes reportage from the conflict.",
+                "His reportage focused on everyday life."
+            ]
+        }
+    ],
+    "refute": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to prove that an idea or claim is not true",
+            "synonyms": [
+                "disprove",
+                "counter",
+                "challenge",
+                "invalidate"
+            ],
+            "examples": [
+                "They refuted the accusation with evidence.",
+                "Her report refuted their argument."
+            ]
+        }
+    ],
+    "renounce": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to give up something, often formally or strongly",
+            "synonyms": [
+                "abandon",
+                "reject",
+                "disown",
+                "forswear"
+            ],
+            "examples": [
+                "He renounced his claim to the property.",
+                "She renounced the offer."
+            ]
+        }
+    ],
+    "revoke": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to take back an official decision, permission, or law",
+            "synonyms": [
+                "cancel",
+                "withdraw",
+                "undo",
+                "invalidate"
+            ],
+            "examples": [
+                "The city revoked the permit.",
+                "They revoked the agreement."
+            ]
+        }
+    ],
+    "respite": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a short break from something difficult or unpleasant",
+            "synonyms": [
+                "break",
+                "pause",
+                "intermission",
+                "relief"
+            ],
+            "examples": [
+                "We got a respite from the constant repairs.",
+                "A weekend respite helped her recover."
+            ]
+        }
+    ],
+    "resent": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to feel angry or annoyed about something, often unfairly",
+            "synonyms": [
+                "be bitter",
+                "feel aggrieved",
+                "resent",
+                "begrudge"
+            ],
+            "examples": [
+                "She resented being ignored.",
+                "He resented the unfair decision."
+            ]
+        }
+    ],
+    "rancor": [
+        {
+            "part_of_speech": "noun",
+            "definition": "strong and bitter anger that lasts a long time",
+            "synonyms": [
+                "bitterness",
+                "resentment",
+                "hostility",
+                "malice"
+            ],
+            "examples": [
+                "There was still rancor between them.",
+                "The divorce left a lot of rancor."
+            ]
+        }
+    ],
+    "rustle": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a soft, light sound when something moves, like leaves or paper",
+            "synonyms": [
+                "whisper",
+                "sough",
+                "crinkle",
+                "flutter"
+            ],
+            "examples": [
+                "Leaves rustled in the trees.",
+                "The pages rustled as he turned them."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a soft sound made by moving leaves, paper, or similar things",
+            "synonyms": [
+                "whisper",
+                "flutter",
+                "sough"
+            ],
+            "examples": [
+                "I heard a rustle behind me.",
+                "There was a rustle of paper."
+            ]
+        }
+    ],
+    "reprimand": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to scold or officially warn someone for wrong behavior",
+            "synonyms": [
+                "scold",
+                "censure",
+                "warn",
+                "rebuke"
+            ],
+            "examples": [
+                "The manager reprimanded him for arriving late.",
+                "She was reprimanded by the court."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "an official or serious warning for behavior that is wrong",
+            "synonyms": [
+                "warning",
+                "censure",
+                "rebuke",
+                "scolding"
+            ],
+            "examples": [
+                "He received a reprimand for the mistake.",
+                "The reprimand was recorded in her file."
+            ]
+        }
+    ],
+    "restless": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "unable to stay calm or in one place because you feel worried or uncomfortable",
+            "synonyms": [
+                "uneasy",
+                "agitated",
+                "impatient",
+                "troubled"
+            ],
+            "examples": [
+                "I felt restless during the meeting.",
+                "She was restless until she finished her homework."
+            ]
+        }
+    ],
+    "referee": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an official who controls a sports game and makes decisions",
+            "synonyms": [
+                "official",
+                "umpire",
+                "judge"
+            ],
+            "examples": [
+                "The referee stopped the match for safety.",
+                "Umpire and referee both make calls."
+            ]
+        }
+    ],
+    "rot": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to decay, break down, and become unusable",
+            "synonyms": [
+                "decay",
+                "decompose",
+                "spoil",
+                "putrefy"
+            ],
+            "examples": [
+                "The fruit will rot if you leave it out.",
+                "The wood started to rot."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a decay process that makes something break down",
+            "synonyms": [
+                "decay",
+                "corruption",
+                "decomposition"
+            ],
+            "examples": [
+                "The crate showed signs of rot.",
+                "The smell of rot came from the cellar."
+            ]
+        }
+    ],
+    "recount": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to tell a story or describe events again from the beginning",
+            "synonyms": [
+                "tell",
+                "narrate",
+                "relate",
+                "describe"
+            ],
+            "examples": [
+                "He recounted what happened that day.",
+                "She recounted the details to the police."
+            ]
+        }
+    ],
+    "relate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to tell or connect something to something else",
+            "synonyms": [
+                "tell",
+                "connect",
+                "describe",
+                "link"
+            ],
+            "examples": [
+                "Can you relate your experience in brief?",
+                "The report relates the cause to the outcome."
+            ]
+        }
+    ],
+    "recite": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to say a poem or written words from memory",
+            "synonyms": [
+                "memorize and say",
+                "quote",
+                "perform",
+                "read aloud"
+            ],
+            "examples": [
+                "She can recite the poem perfectly.",
+                "We recited the pledge in class."
+            ]
+        }
+    ],
+    "rebuke": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to scold someone because of wrong behavior",
+            "synonyms": [
+                "criticize",
+                "censure",
+                "reprimand",
+                "chastise"
+            ],
+            "examples": [
+                "The teacher rebuked him for shouting.",
+                "They rebuked the official in a statement."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a scolding or official criticism",
+            "synonyms": [
+                "reprimand",
+                "censure",
+                "criticism"
+            ],
+            "examples": [
+                "He received a rebuke for his behavior.",
+                "The rebuke was public."
+            ]
+        }
+    ],
+    "resolve": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to solve a problem or make a decision",
+            "synonyms": [
+                "settle",
+                "decide",
+                "determine",
+                "resolve"
+            ],
+            "examples": [
+                "We need to resolve this issue quickly.",
+                "She resolved to study harder."
+            ]
+        }
+    ],
+    "reticence": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the habit of being quiet and not saying much",
+            "synonyms": [
+                "reserve",
+                "silence",
+                "privacy",
+                "withholding"
+            ],
+            "examples": [
+                "Her reticence made it hard to know her opinions.",
+                "He showed reticence during interviews."
+            ]
+        }
+    ],
+    "relentless": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "continuing without stopping, especially in a way that is annoying or harmful",
+            "synonyms": [
+                "unending",
+                "persistent",
+                "persistent (negative)",
+                "relentless"
+            ],
+            "examples": [
+                "The rain was relentless.",
+                "Her relentless questions annoyed everyone."
+            ]
+        }
+    ],
+    "resound": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to sound loudly and clearly for a long time",
+            "synonyms": [
+                "echo",
+                "ring",
+                "reverberate",
+                "sound out"
+            ],
+            "examples": [
+                "Her applause resounded through the hall.",
+                "The final note resounded in my ears."
+            ]
+        }
+    ],
+    "resonate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to have a deep and lasting effect on someone’s feelings or ideas",
+            "synonyms": [
+                "echo",
+                "carry (emotion)",
+                "speak to",
+                "hit home"
+            ],
+            "examples": [
+                "Her message resonated with many people.",
+                "The speech resonated across the organization."
+            ]
+        }
+    ],
+    "resplendent": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "shining brightly and looking rich or impressive",
+            "synonyms": [
+                "splendid",
+                "glorious",
+                "radiant",
+                "magnificent"
+            ],
+            "examples": [
+                "The hall was resplendent with decorations.",
+                "She wore resplendent jewelry for the event."
+            ]
+        }
+    ],
+    "regal": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having the style or dignity of a king or queen; impressive and noble",
+            "synonyms": [
+                "royal",
+                "majestic",
+                "kingly",
+                "stately"
+            ],
+            "examples": [
+                "He looked regal in the uniform.",
+                "The cathedral’s interior is regal and grand."
+            ]
+        }
+    ],
+    "reassure": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To reduce someone’s fear or worry by giving support or information",
+            "synonyms": [
+                "comfort",
+                "calm",
+                "assure",
+                "reassurance",
+                "ease"
+            ],
+            "examples": [
+                "The nurse reassured him that the pain would pass.",
+                "A short message can reassure customers during service delays."
+            ]
+        }
     ]
 }

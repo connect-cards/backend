@@ -1,0 +1,60 @@
+{
+  "date": "2026-06-12",
+  "version": 1,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "d4-easy",
+      "type": "informal_register",
+      "difficulty": 1,
+      "title": "Sensible outcomes",
+      "words": [
+        "workable",
+        "practical",
+        "doable",
+        "usable"
+      ]
+    },
+    {
+      "id": "d4-medium",
+      "type": "synonym",
+      "difficulty": 2,
+      "title": "To accuse with evidence",
+      "words": [
+        "charge",
+        "indict",
+        "accuse",
+        "prosecute"
+      ]
+    },
+    {
+      "id": "d4-hard",
+      "type": "morphological_family",
+      "difficulty": 3,
+      "title": "From watchfulness to vigilance",
+      "words": [
+        "vigil",
+        "vigilant",
+        "vigilance",
+        "vigilantism"
+      ]
+    },
+    {
+      "id": "d4-very-hard",
+      "type": "sound_association",
+      "difficulty": 4,
+      "title": "Eerie, otherworldly atmosphere",
+      "words": [
+        "eldritch",
+        "uncanny",
+        "unearthly",
+        "phantasm"
+      ]
+    }
+  ]
+}

@@ -1091,5 +1091,371 @@
                 "The doctor deferred the appointment because of an emergency."
             ]
         }
+    ],
+    "diagnostic": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "used to identify the cause or nature of a problem or illness",
+            "synonyms": [
+                "identifying",
+                "assessment-based",
+                "medical"
+            ],
+            "examples": [
+                "The doctor ordered diagnostic tests.",
+                "Diagnostic tools can show what is wrong."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a test, procedure, or method used to identify a condition",
+            "synonyms": [
+                "test",
+                "screening",
+                "assessment"
+            ],
+            "examples": [
+                "Blood work is a common diagnostic.",
+                "The clinic uses several diagnostic procedures."
+            ]
+        }
+    ],
+    "disprove": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to show that something is false",
+            "synonyms": [
+                "refute",
+                "contradict",
+                "invalidate",
+                "debunk"
+            ],
+            "examples": [
+                "New data disproved the theory.",
+                "He couldn’t disprove the claim."
+            ]
+        }
+    ],
+    "deluge": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a very heavy flood or large amount of something coming suddenly",
+            "synonyms": [
+                "flood",
+                "torrent",
+                "downpour"
+            ],
+            "examples": [
+                "A deluge of rain caused street flooding.",
+                "He received a deluge of emails."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to flood with a large amount of water or to overwhelm with something",
+            "synonyms": [
+                "flood",
+                "overwhelm",
+                "drown"
+            ],
+            "examples": [
+                "The river deluged the town.",
+                "Criticism deluged her inbox."
+            ]
+        }
+    ],
+    "decry": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to strongly criticize something as bad",
+            "synonyms": [
+                "condemn",
+                "denounce",
+                "criticize",
+                "protest"
+            ],
+            "examples": [
+                "Many people decry the unfair policy.",
+                "She decried the decision as harmful."
+            ]
+        }
+    ],
+    "deceive": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to cause someone to believe something that is not true",
+            "synonyms": [
+                "trick",
+                "mislead",
+                "fool",
+                "swindle"
+            ],
+            "examples": [
+                "He deceived her with false promises.",
+                "Don’t deceive customers about the price."
+            ]
+        }
+    ],
+    "dreadfulness": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the state of being very frightening or extremely unpleasant",
+            "synonyms": [
+                "horror",
+                "terribleness",
+                "awfulness",
+                "grimness"
+            ],
+            "examples": [
+                "The movie captures the dreadfulness of the storm.",
+                "She feared the dreadfulness of failing."
+            ]
+        }
+    ],
+    "dreadful": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very bad, unpleasant, or frightening",
+            "synonyms": [
+                "awful",
+                "terrible",
+                "horrible",
+                "appalling"
+            ],
+            "examples": [
+                "The movie was dreadful.",
+                "She felt dreadful after the long flight."
+            ]
+        }
+    ],
+    "deduce": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to reach a conclusion by using logic and information",
+            "synonyms": [
+                "infer",
+                "conclude",
+                "reason",
+                "derive"
+            ],
+            "examples": [
+                "From the evidence, we deduced that the plan would fail.",
+                "I deduced her meaning from her tone."
+            ]
+        }
+    ],
+    "drift": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to move slowly in an uncontrolled direction",
+            "synonyms": [
+                "float",
+                "wander",
+                "waver",
+                "drift along"
+            ],
+            "examples": [
+                "The smoke drifted toward the window.",
+                "She drifted away from the conversation."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a slow movement, especially in air, water, or thoughts",
+            "synonyms": [
+                "floating",
+                "wander",
+                "shift"
+            ],
+            "examples": [
+                "There was a drift of sand across the road.",
+                "He watched the drift of the clouds."
+            ]
+        }
+    ],
+    "doable": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "possible to do, especially in a reasonable time or effort",
+            "synonyms": [
+                "feasible",
+                "possible",
+                "manageable",
+                "attainable"
+            ],
+            "examples": [
+                "The task is doable if we start early.",
+                "Is it doable to finish today?"
+            ]
+        }
+    ],
+    "debit": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an entry in accounting that reduces an account balance",
+            "synonyms": [
+                "accounting entry",
+                "charge (accounting)",
+                "decrease"
+            ],
+            "examples": [
+                "The bank showed a debit for the purchase.",
+                "A debit lowered her account balance."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to reduce an account balance by recording a debit entry",
+            "synonyms": [
+                "charge",
+                "withdraw",
+                "deduct"
+            ],
+            "examples": [
+                "They debited my account on Monday.",
+                "The system debits the card automatically."
+            ]
+        }
+    ],
+    "denounce": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to publicly express strong disapproval of something",
+            "synonyms": [
+                "condemn",
+                "criticize",
+                "decry",
+                "attack"
+            ],
+            "examples": [
+                "The group denounced the policy.",
+                "She denounced the rumors as false."
+            ]
+        }
+    ],
+    "diagnose": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to identify the cause of an illness or problem",
+            "synonyms": [
+                "identify",
+                "determine",
+                "assess",
+                "find the cause"
+            ],
+            "examples": [
+                "They diagnosed the problem after several tests.",
+                "She diagnosed his condition quickly."
+            ]
+        }
+    ],
+    "disclose": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make information known to others",
+            "synonyms": [
+                "reveal",
+                "uncover",
+                "show",
+                "publish"
+            ],
+            "examples": [
+                "They disclosed the results to the public.",
+                "She didn’t disclose her plans."
+            ]
+        }
+    ],
+    "designate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to officially choose or name something for a specific purpose",
+            "synonyms": [
+                "appoint",
+                "name",
+                "assign",
+                "select"
+            ],
+            "examples": [
+                "The mayor designated the park as a memorial.",
+                "They designated her as team leader."
+            ]
+        }
+    ],
+    "dart": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to move quickly and suddenly in a short direction",
+            "synonyms": [
+                "dash",
+                "lunge",
+                "spray (light)",
+                "shoot"
+            ],
+            "examples": [
+                "A car darted across the street.",
+                "He darted out of the room."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a quick movement in a short direction",
+            "synonyms": [
+                "dash",
+                "lunge",
+                "flash"
+            ],
+            "examples": [
+                "The dart of the bird startled me.",
+                "A dart of anger came over him."
+            ]
+        }
+    ],
+    "destiny": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the events that are believed to happen in a fixed way, especially in the future",
+            "synonyms": [
+                "fate",
+                "future",
+                "inevitability",
+                "planned outcome"
+            ],
+            "examples": [
+                "She felt her destiny was to teach.",
+                "Many people believe in destiny."
+            ]
+        }
+    ],
+    "deliberation": [
+        {
+            "part_of_speech": "noun",
+            "definition": "careful thinking before making a decision",
+            "synonyms": [
+                "consideration",
+                "thought",
+                "review",
+                "reflection"
+            ],
+            "examples": [
+                "The committee needed time for deliberation.",
+                "He made the choice after deliberation."
+            ]
+        }
+    ],
+    "dispel": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to remove a doubt, fear, or confusion",
+            "synonyms": [
+                "remove",
+                "ease",
+                "eliminate",
+                "clear up"
+            ],
+            "examples": [
+                "Her calm reply dispelled my worries.",
+                "The evidence dispelled the rumors."
+            ]
+        }
     ]
 }

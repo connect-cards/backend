@@ -1,0 +1,60 @@
+{
+  "date": "2026-06-15",
+  "version": 1,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "d15-easy",
+      "type": "informal_register",
+      "difficulty": 1,
+      "title": "Casual talk about plans",
+      "words": [
+        "gonna",
+        "aim",
+        "setup",
+        "cheat"
+      ]
+    },
+    {
+      "id": "d15-medium",
+      "type": "emotional_tone",
+      "difficulty": 2,
+      "title": "Softly admiring",
+      "words": [
+        "fondness",
+        "affection",
+        "tenderness",
+        "admiration"
+      ]
+    },
+    {
+      "id": "d15-hard",
+      "type": "sound_association",
+      "difficulty": 3,
+      "title": "Whirring inevitability",
+      "words": [
+        "whirr",
+        "buzz",
+        "rattle",
+        "clatter"
+      ]
+    },
+    {
+      "id": "d15-very-hard",
+      "type": "profession_domain",
+      "difficulty": 4,
+      "title": "High-stakes legal work",
+      "words": [
+        "litigant",
+        "plaintiff",
+        "jurisprudence",
+        "jurisdiction"
+      ]
+    }
+  ]
+}

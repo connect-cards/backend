@@ -316,5 +316,99 @@
                 "The visionary behind the project built it from scratch."
             ]
         }
+    ],
+    "vigil": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a period of watching or staying awake, often to show respect or to prevent danger",
+            "synonyms": [
+                "watch",
+                "watching period",
+                "overnight watch",
+                "guarding"
+            ],
+            "examples": [
+                "The community held a vigil for the victims.",
+                "They kept a vigil outside the hospital."
+            ]
+        }
+    ],
+    "vigilant": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "careful and alert to possible danger or problems",
+            "synonyms": [
+                "watchful",
+                "alert",
+                "careful",
+                "observant"
+            ],
+            "examples": [
+                "Stay vigilant when driving at night.",
+                "A vigilant team noticed the threat early."
+            ]
+        }
+    ],
+    "vigilance": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the state of being alert and careful to notice danger",
+            "synonyms": [
+                "watchfulness",
+                "alertness",
+                "carefulness",
+                "attention"
+            ],
+            "examples": [
+                "Vigilance is important in high-risk areas.",
+                "He showed vigilance during the inspection."
+            ]
+        }
+    ],
+    "vigilantism": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the practice of taking law into your own hands instead of using legal systems",
+            "synonyms": [
+                "self-administered justice",
+                "mob justice",
+                "street justice"
+            ],
+            "examples": [
+                "Many countries discourage vigilantism.",
+                "The police warned against vigilantism."
+            ]
+        }
+    ],
+    "variance": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a difference between two things or expected results",
+            "synonyms": [
+                "difference",
+                "discrepancy",
+                "divergence",
+                "variation"
+            ],
+            "examples": [
+                "There was a variance between the two reports.",
+                "The variance in temperature was small."
+            ]
+        }
+    ],
+    "visage": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person’s face or facial appearance",
+            "synonyms": [
+                "face",
+                "countenance",
+                "facial expression"
+            ],
+            "examples": [
+                "His visage looked serious.",
+                "The child’s visage brightened when she smiled."
+            ]
+        }
     ]
 }

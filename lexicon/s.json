@@ -2373,5 +2373,914 @@
                 "The swarthy sailor wore a sun hat."
             ]
         }
+    ],
+    "soothing": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "relaxing and reducing stress or pain",
+            "synonyms": [
+                "calming",
+                "comforting",
+                "relieving",
+                "appeasing"
+            ],
+            "examples": [
+                "A warm shower can be soothing.",
+                "The therapist used soothing techniques."
+            ]
+        }
+    ],
+    "sabotage": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to deliberately damage or interfere with something so it fails",
+            "synonyms": [
+                "damage",
+                "wreck",
+                "destroy",
+                "spoil"
+            ],
+            "examples": [
+                "Someone sabotaged the equipment.",
+                "They were accused of sabotage."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "deliberate action to damage or interfere with something",
+            "synonyms": [
+                "damage",
+                "interference",
+                "attack"
+            ],
+            "examples": [
+                "The team investigated the sabotage.",
+                "The company blamed sabotage for the outage."
+            ]
+        }
+    ],
+    "symptomatology": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the set of signs and symptoms that characterize a disease or condition",
+            "synonyms": [
+                "symptom pattern",
+                "clinical features",
+                "manifestations"
+            ],
+            "examples": [
+                "The report described the symptomatology clearly.",
+                "Her symptomatology matched the expected pattern."
+            ]
+        }
+    ],
+    "sociable": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "liking to spend time with other people",
+            "synonyms": [
+                "outgoing",
+                "friendly",
+                "gregarious",
+                "social"
+            ],
+            "examples": [
+                "She is very sociable and makes friends easily.",
+                "It’s hard for him to be sociable at work."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who enjoys social activities",
+            "synonyms": [
+                "social person",
+                "outgoing person"
+            ],
+            "examples": [
+                "He is a sociable and knows many people."
+            ]
+        }
+    ],
+    "serene": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "calm, peaceful, and not easily upset",
+            "synonyms": [
+                "calm",
+                "peaceful",
+                "tranquil",
+                "untroubled"
+            ],
+            "examples": [
+                "The lake looked serene in the morning.",
+                "She felt serene after the stress passed."
+            ]
+        }
+    ],
+    "sincere": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "genuine and honest, not pretending",
+            "synonyms": [
+                "genuine",
+                "honest",
+                "real",
+                "earnest"
+            ],
+            "examples": [
+                "I appreciate your sincere help.",
+                "He gave a sincere apology."
+            ]
+        }
+    ],
+    "stun": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to shock or surprise someone so much that they cannot react normally",
+            "synonyms": [
+                "shock",
+                "amaze",
+                "astonish",
+                "overwhelm"
+            ],
+            "examples": [
+                "The loud noise stunned the crowd.",
+                "The news stunned her."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "so shocked that you cannot react normally",
+            "synonyms": [
+                "shocked",
+                "dazed",
+                "stunned"
+            ],
+            "examples": [
+                "He stood there, stunned, for a moment."
+            ]
+        }
+    ],
+    "spark": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to start or cause an activity, idea, or feeling",
+            "synonyms": [
+                "ignite",
+                "trigger",
+                "stimulate",
+                "start"
+            ],
+            "examples": [
+                "The comment sparked a heated discussion.",
+                "Her success sparked new interest in the program."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a tiny burst of fire or electricity",
+            "synonyms": [
+                "flame",
+                "ember",
+                "shot",
+                "flash"
+            ],
+            "examples": [
+                "A spark flew from the wire.",
+                "He saw a spark in the dark."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a small beginning of an idea or feeling",
+            "synonyms": [
+                "spark of an idea",
+                "glimmer",
+                "beginning"
+            ],
+            "examples": [
+                "There was a spark of curiosity in her voice.",
+                "He felt a spark of hope."
+            ]
+        }
+    ],
+    "symptom": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a sign of an illness or condition that shows something is wrong",
+            "synonyms": [
+                "sign",
+                "indicator",
+                "manifestation"
+            ],
+            "examples": [
+                "Pain is a common symptom of the condition.",
+                "She reported several symptoms to the doctor."
+            ]
+        }
+    ],
+    "soothe": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make someone feel calmer or less upset",
+            "synonyms": [
+                "calm",
+                "comfort",
+                "ease",
+                "relax"
+            ],
+            "examples": [
+                "A warm drink can soothe a sore throat.",
+                "She soothed the child before bed."
+            ]
+        }
+    ],
+    "squall": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a sudden short period of strong wind and rain",
+            "synonyms": [
+                "storm burst",
+                "wind burst",
+                "downpour"
+            ],
+            "examples": [
+                "A squall hit just after noon.",
+                "We rushed inside when a squall started."
+            ]
+        }
+    ],
+    "stasis": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a state in which no change happens",
+            "synonyms": [
+                "stillness",
+                "pause",
+                "unchanging state",
+                "suspension"
+            ],
+            "examples": [
+                "The experiment created stasis for a few hours.",
+                "Economic stasis lasted for years."
+            ]
+        }
+    ],
+    "stillness": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the state of being calm and not moving",
+            "synonyms": [
+                "quiet",
+                "silence",
+                "calm",
+                "peace"
+            ],
+            "examples": [
+                "The stillness of the room helped me think.",
+                "She listened to the stillness after the storm."
+            ]
+        }
+    ],
+    "scribe": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who writes down what others say or record information",
+            "synonyms": [
+                "writer",
+                "copyist",
+                "note-taker",
+                "secretary"
+            ],
+            "examples": [
+                "A scribe took notes during the meeting.",
+                "The court scribe recorded the testimony."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to write down or record information",
+            "synonyms": [
+                "write",
+                "record",
+                "note",
+                "transcribe"
+            ],
+            "examples": [
+                "He scribed the results on a board.",
+                "The assistant scribed every detail."
+            ]
+        }
+    ],
+    "slink": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to move quietly and secretly, often because you want to avoid being seen",
+            "synonyms": [
+                "creep",
+                "slip",
+                "skulk",
+                "tiptoe"
+            ],
+            "examples": [
+                "He slinked out of the room when the door opened.",
+                "Don’t slink around like you did something wrong."
+            ]
+        }
+    ],
+    "skulk": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to stay away from others or move around quietly because you want to avoid attention",
+            "synonyms": [
+                "slink",
+                "creep",
+                "loiter",
+                "avoid"
+            ],
+            "examples": [
+                "He was skulk­ing in the hallway.",
+                "Stop skulk­ing and come inside."
+            ]
+        }
+    ],
+    "specter": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a ghost or something that seems frightening and unreal",
+            "synonyms": [
+                "ghost",
+                "phantom",
+                "apparition",
+                "shadow"
+            ],
+            "examples": [
+                "A specter appeared in the old building.",
+                "Uncertainty can feel like a specter."
+            ]
+        }
+    ],
+    "spectacle": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a visible event or show that attracts attention because it is impressive or unusual",
+            "synonyms": [
+                "show",
+                "event",
+                "display",
+                "performance"
+            ],
+            "examples": [
+                "The parade was a colorful spectacle.",
+                "From the hill, we watched the spectacle of the city lights."
+            ]
+        }
+    ],
+    "setup": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the arrangement or plan for how something is organized or prepared",
+            "synonyms": [
+                "arrangement",
+                "preparation",
+                "configuration",
+                "system"
+            ],
+            "examples": [
+                "They described the setup for the experiment.",
+                "The setup was easy to understand."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to arrange, prepare, or organize something for use",
+            "synonyms": [
+                "arrange",
+                "prepare",
+                "install",
+                "set up"
+            ],
+            "examples": [
+                "They set up the equipment in the morning.",
+                "We will setup the meeting room."
+            ]
+        }
+    ],
+    "swirl": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to move in a twisting circular pattern",
+            "synonyms": [
+                "spin",
+                "whirl",
+                "coil",
+                "curl"
+            ],
+            "examples": [
+                "Smoke swirled around the room.",
+                "The leaves swirled in the wind."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a movement in a circular twisting pattern",
+            "synonyms": [
+                "whirl",
+                "spin",
+                "spiral"
+            ],
+            "examples": [
+                "There was a swirl of dust in the sunlight.",
+                "A swirl of clouds covered the sky."
+            ]
+        }
+    ],
+    "skeptic": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who doubts that something is true",
+            "synonyms": [
+                "doubter",
+                "skeptical person",
+                "critic",
+                "nonbeliever"
+            ],
+            "examples": [
+                "She is a skeptic about the new treatment.",
+                "A skeptic questioned the results."
+            ]
+        }
+    ],
+    "scruple": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a feeling that something is right or wrong, especially when deciding what to do",
+            "synonyms": [
+                "moral concern",
+                "conscience",
+                "hesitation",
+                "doubt"
+            ],
+            "examples": [
+                "He had no scruple about telling the truth.",
+                "She felt a scruple about cheating."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to feel doubt or hesitation because of moral concerns",
+            "synonyms": [
+                "hesitate",
+                "be troubled",
+                "doubt"
+            ],
+            "examples": [
+                "He would not scruple to help.",
+                "I scruple to use that method."
+            ]
+        }
+    ],
+    "sullen": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "bad-tempered and gloomy, often because you are upset",
+            "synonyms": [
+                "gloomy",
+                "moody",
+                "grumpy",
+                "brooding"
+            ],
+            "examples": [
+                "He became sullen when the plan changed.",
+                "She gave a sullen reply."
+            ]
+        }
+    ],
+    "sparkle": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to shine with many small flashes of light",
+            "synonyms": [
+                "glitter",
+                "twinkle",
+                "shine",
+                "gleam"
+            ],
+            "examples": [
+                "The snow sparkle­d in the sun.",
+                "Her eyes sparkle­d when she laughed."
+            ]
+        }
+    ],
+    "shimmer": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to shine with a soft wavy light, as if moving",
+            "synonyms": [
+                "glimmer",
+                "glow",
+                "flicker",
+                "sparkle"
+            ],
+            "examples": [
+                "The water shimmered in the sunlight.",
+                "The screen shimmered before going dark."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a soft glowing effect of moving light",
+            "synonyms": [
+                "glimmer",
+                "sparkle",
+                "wave of light"
+            ],
+            "examples": [
+                "There was a shimmer on the surface of the lake."
+            ]
+        }
+    ],
+    "skepticism": [
+        {
+            "part_of_speech": "noun",
+            "definition": "doubt about something being true or reliable",
+            "synonyms": [
+                "doubt",
+                "suspicion",
+                "skeptical attitude",
+                "uncertainty"
+            ],
+            "examples": [
+                "Skepticism grew after the first report.",
+                "His skepticism made the claim seem less believable."
+            ]
+        }
+    ],
+    "suspicions": [
+        {
+            "part_of_speech": "noun",
+            "definition": "beliefs that something may be wrong, illegal, or harmful",
+            "synonyms": [
+                "doubts",
+                "suspects (not verb)",
+                "concerns",
+                "misgivings"
+            ],
+            "examples": [
+                "He kept his suspicions to himself.",
+                "The police investigated her suspicions."
+            ]
+        }
+    ],
+    "spare": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "available to be used if needed, usually in addition to what is already there",
+            "synonyms": [
+                "extra",
+                "unused",
+                "backup",
+                "available"
+            ],
+            "examples": [
+                "Do you have a spare key?",
+                "Keep a spare battery in your bag."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to avoid harming or punishing someone",
+            "synonyms": [
+                "forbear",
+                "avoid",
+                "spare someone",
+                "refrain"
+            ],
+            "examples": [
+                "They spared his life.",
+                "Please spare me the details."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to save something for later use",
+            "synonyms": [
+                "save",
+                "set aside",
+                "reserve"
+            ],
+            "examples": [
+                "We must spare time for practice.",
+                "Try to spare some money each month."
+            ]
+        }
+    ],
+    "say": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to express words; to communicate by speaking",
+            "synonyms": [
+                "speak",
+                "tell",
+                "utter",
+                "remark"
+            ],
+            "examples": [
+                "What did you say?",
+                "She said she would call later."
+            ]
+        }
+    ],
+    "scant": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "small in amount, not enough",
+            "synonyms": [
+                "limited",
+                "scarcely any",
+                "meager",
+                "insufficient"
+            ],
+            "examples": [
+                "We have scant information about the situation.",
+                "The team received scant support."
+            ]
+        },
+        {
+            "part_of_speech": "adverb",
+            "definition": "in a small amount, barely",
+            "synonyms": [
+                "barely",
+                "hardly",
+                "scarcely"
+            ],
+            "examples": [
+                "She had scant money left."
+            ]
+        }
+    ],
+    "sparse": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "spread out with large gaps, not dense",
+            "synonyms": [
+                "scattered",
+                "limited",
+                "infrequent",
+                "thin"
+            ],
+            "examples": [
+                "There were sparse trees on the hill.",
+                "The schedule is sparse this week."
+            ]
+        }
+    ],
+    "scam": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a dishonest plan to get money by tricking people",
+            "synonyms": [
+                "fraud",
+                "swindle",
+                "con",
+                "scheme"
+            ],
+            "examples": [
+                "It was a scam to steal credit card numbers.",
+                "She reported the scam to her bank."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to trick someone using a dishonest plan",
+            "synonyms": [
+                "scam",
+                "swindle",
+                "fraud",
+                "con"
+            ],
+            "examples": [
+                "They scammed her out of her savings.",
+                "A website scams users with fake prizes."
+            ]
+        }
+    ],
+    "settle": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to resolve a dispute or problem",
+            "synonyms": [
+                "resolve",
+                "fix",
+                "settle",
+                "clarify"
+            ],
+            "examples": [
+                "They settled the argument quietly.",
+                "The parties agreed to settle the case."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to come to rest after moving",
+            "synonyms": [
+                "come to rest",
+                "reduce",
+                "calm down"
+            ],
+            "examples": [
+                "The dust settled on the floor.",
+                "Wait until the plane settles."
+            ]
+        }
+    ],
+    "sizzle": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a sound like hot oil or water boiling",
+            "synonyms": [
+                "siss",
+                "sizzle (repeat)",
+                "crackle"
+            ],
+            "examples": [
+                "The steak began to sizzle in the pan.",
+                "Water sizzled on the hot surface."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "the sound of something frying or boiling",
+            "synonyms": [
+                "sizzle sound"
+            ],
+            "examples": [
+                "There was a sizzle when I turned on the stove."
+            ]
+        }
+    ],
+    "synchronize": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make things happen at the same time or in the same rhythm",
+            "synonyms": [
+                "coordinate",
+                "align",
+                "sync",
+                "match"
+            ],
+            "examples": [
+                "Please synchronize your watch with mine.",
+                "The system will synchronize the clocks automatically."
+            ]
+        }
+    ],
+    "subpoena": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a legal document that orders someone to appear in court or provide documents",
+            "synonyms": [
+                "summons",
+                "court order"
+            ],
+            "examples": [
+                "The court issued a subpoena for his records.",
+                "She received a subpoena to testify."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to officially require someone to appear in court or provide documents",
+            "synonyms": [
+                "summon",
+                "order",
+                "require"
+            ],
+            "examples": [
+                "They subpoenaed the witness.",
+                "The agency subpoenaed the documents."
+            ]
+        }
+    ],
+    "statuesque": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "tall, graceful, and impressive in appearance",
+            "synonyms": [
+                "imposing",
+                "elegant",
+                "tall",
+                "handsome"
+            ],
+            "examples": [
+                "She looked statuesque in the evening dress.",
+                "The building is statuesque and grand."
+            ]
+        }
+    ],
+    "steady": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Not changing or moving much; stable",
+            "synonyms": [
+                "stable",
+                "constant",
+                "unwavering",
+                "firm",
+                "steadying"
+            ],
+            "examples": [
+                "Keep a steady pace so you do not get tired too quickly.",
+                "The boat stayed steady in the calm water."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "Controlled and calm, without strong emotion",
+            "synonyms": [
+                "calm",
+                "composed",
+                "controlled",
+                "collected",
+                "unflustered"
+            ],
+            "examples": [
+                "She gave a steady response during the interview.",
+                "He remained steady even when the results came out."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "To make something stable or less likely to move",
+            "synonyms": [
+                "stabilize",
+                "steadying",
+                "support",
+                "brace",
+                "secure"
+            ],
+            "examples": [
+                "She steadied the ladder before climbing.",
+                "The doctor steadied the patient’s hand."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "A steady movement or rhythm, especially in music or dance",
+            "synonyms": [
+                "rhythm",
+                "beat",
+                "tempo"
+            ],
+            "examples": [
+                "The drummer kept a steady throughout the song."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "Reliable and not likely to fail; dependable",
+            "synonyms": [
+                "dependable",
+                "reliable",
+                "trustworthy",
+                "sound"
+            ],
+            "examples": [
+                "They are a steady team with strong communication.",
+                "The company has a steady supply of raw materials."
+            ]
+        }
+    ],
+    "swindle": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To trick someone to get money or goods unfairly",
+            "synonyms": [
+                "cheat",
+                "defraud",
+                "scam",
+                "con",
+                "deceive"
+            ],
+            "examples": [
+                "They swindled many customers with fake tickets.",
+                "He was arrested for swindling people out of their savings."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "A dishonest plan or scheme to trick people for money or goods",
+            "synonyms": [
+                "scam",
+                "fraud",
+                "con",
+                "scheme",
+                "swindle scheme"
+            ],
+            "examples": [
+                "The police investigated the swindle after complaints.",
+                "It was a swindle designed to look like a real investment."
+            ]
+        }
     ]
 }

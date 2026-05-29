@@ -1073,5 +1073,215 @@
                 "They beseeched the court for help."
             ]
         }
+    ],
+    "belittle": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make someone feel less important, capable, or worthy",
+            "synonyms": [
+                "degrade",
+                "diminish",
+                "mock",
+                "insult"
+            ],
+            "examples": [
+                "He belittled her ideas during the meeting.",
+                "Don’t belittle students who ask questions."
+            ]
+        }
+    ],
+    "byline": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the line under a news story that shows the writer’s name",
+            "synonyms": [
+                "author line",
+                "writer’s credit"
+            ],
+            "examples": [
+                "Her name appeared in the byline.",
+                "The byline listed the reporter and editor."
+            ]
+        }
+    ],
+    "bewilder": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to confuse someone so they do not understand what is happening",
+            "synonyms": [
+                "confuse",
+                "puzzle",
+                "stun",
+                "overwhelm"
+            ],
+            "examples": [
+                "The instructions bewildered me.",
+                "Her sudden change of plans bewildered everyone."
+            ]
+        }
+    ],
+    "blemish": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small mark that spoils the appearance of something",
+            "synonyms": [
+                "spot",
+                "stain",
+                "mark",
+                "scar"
+            ],
+            "examples": [
+                "The report has a small blemish in the last paragraph.",
+                "She tried to cover the blemish."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to spoil the appearance or quality of something",
+            "synonyms": [
+                "mar",
+                "stain",
+                "spot",
+                "damage"
+            ],
+            "examples": [
+                "The stain blemished the shirt.",
+                "The scandal blemished his reputation."
+            ]
+        }
+    ],
+    "baffle": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to confuse someone strongly so they cannot understand what to do",
+            "synonyms": [
+                "confound",
+                "puzzle",
+                "stump",
+                "overwhelm"
+            ],
+            "examples": [
+                "The instructions baffled me.",
+                "Her sudden silence baffled everyone."
+            ]
+        }
+    ],
+    "blather": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to talk too much in a foolish or unhelpful way",
+            "synonyms": [
+                "talk nonsense",
+                "ramble",
+                "jabber",
+                "chatter"
+            ],
+            "examples": [
+                "He kept blathering about unrelated topics.",
+                "Stop blathering and get to the point."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "meaningless talk or excessive talking",
+            "synonyms": [
+                "nonsense",
+                "rambling",
+                "chatter",
+                "gibberish"
+            ],
+            "examples": [
+                "I can’t stand the blather in that show.",
+                "His speech was full of blather."
+            ]
+        }
+    ],
+    "blurry": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "not clear or sharp in appearance or meaning",
+            "synonyms": [
+                "unclear",
+                "hazy",
+                "out of focus",
+                "dim"
+            ],
+            "examples": [
+                "The text is blurry; please focus the camera.",
+                "I have a blurry memory of that day."
+            ]
+        }
+    ],
+    "birth": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the time when a baby is born",
+            "synonyms": [
+                "delivery",
+                "coming into the world"
+            ],
+            "examples": [
+                "Her birth was a difficult event.",
+                "They celebrated his birth with a party."
+            ]
+        }
+    ],
+    "buoyant": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Able to float and stay up on water",
+            "synonyms": [
+                "floating",
+                "floatable"
+            ],
+            "examples": [
+                "The toy is buoyant, so it does not sink.",
+                "Buoyant materials are often used in life jackets."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "Cheerful and confident, especially when facing problems",
+            "synonyms": [
+                "optimistic",
+                "cheerful",
+                "hopeful",
+                "upbeat"
+            ],
+            "examples": [
+                "Despite the delay, he stayed buoyant.",
+                "Her buoyant mood helped the group keep working."
+            ]
+        }
+    ],
+    "bolster": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To support something and make it stronger or more likely to succeed",
+            "synonyms": [
+                "strengthen",
+                "support",
+                "reinforce",
+                "buttress",
+                "prop up"
+            ],
+            "examples": [
+                "The new evidence bolstered her argument.",
+                "They added more funding to bolster the program."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "Support that helps something stay strong or improve performance",
+            "synonyms": [
+                "support",
+                "reinforcement",
+                "backing",
+                "aid"
+            ],
+            "examples": [
+                "The report served as a bolster for the campaign."
+            ]
+        }
     ]
 }

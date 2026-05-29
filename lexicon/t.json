@@ -1234,5 +1234,198 @@
                 "The tapper used the handle to send a signal."
             ]
         }
+    ],
+    "thwart": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to stop something from happening or succeeding",
+            "synonyms": [
+                "prevent",
+                "stop",
+                "foil",
+                "defeat"
+            ],
+            "examples": [
+                "The storm thwarted our travel plans.",
+                "They tried to thwart the plan."
+            ]
+        }
+    ],
+    "tempest": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a violent storm with strong wind and rain",
+            "synonyms": [
+                "storm",
+                "hurricane",
+                "gale",
+                "blizzard"
+            ],
+            "examples": [
+                "The coast was hit by a tempest.",
+                "They waited until the tempest passed."
+            ]
+        }
+    ],
+    "temper": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to control or reduce the strength of a feeling, especially anger",
+            "synonyms": [
+                "calm",
+                "ease",
+                "restrain",
+                "soften"
+            ],
+            "examples": [
+                "He tried to temper his anger.",
+                "The counselor helped temper her reaction."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "the condition of being controlled or of being not too strong, especially in character",
+            "synonyms": [
+                "disposition",
+                "attitude"
+            ],
+            "examples": [
+                "She has a gentle temper."
+            ]
+        }
+    ],
+    "tap": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to touch or hit lightly and repeatedly",
+            "synonyms": [
+                "knock",
+                "tap lightly",
+                "beat",
+                "tap at"
+            ],
+            "examples": [
+                "He tapped the table to get attention.",
+                "Don’t tap the glass."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a light hit or knock",
+            "synonyms": [
+                "knock",
+                "touch",
+                "tap"
+            ],
+            "examples": [
+                "There was a tap at the door.",
+                "I heard two taps on the wall."
+            ]
+        }
+    ],
+    "terseness": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the quality of using few words while still being clear",
+            "synonyms": [
+                "brevity",
+                "conciseness",
+                "shortness",
+                "economy of words"
+            ],
+            "examples": [
+                "Her terseness made the message easy to read.",
+                "He criticized the terseness of the report."
+            ]
+        }
+    ],
+    "tenderness": [
+        {
+            "part_of_speech": "noun",
+            "definition": "gentle care and kindness, often shown through behavior or feelings",
+            "synonyms": [
+                "gentleness",
+                "softness",
+                "warmth",
+                "kindness"
+            ],
+            "examples": [
+                "His tenderness helped her feel safe.",
+                "She spoke with tenderness."
+            ]
+        }
+    ],
+    "testifier": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who gives evidence in court",
+            "synonyms": [
+                "witness",
+                "deponent"
+            ],
+            "examples": [
+                "The testifier described what happened that night.",
+                "The testifier was questioned by both lawyers."
+            ]
+        }
+    ],
+    "terzina": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a three-line stanza in poetry, often used in Italian and similar forms",
+            "synonyms": [
+                "three-line stanza",
+                "stanza (type)"
+            ],
+            "examples": [
+                "The poem is written in terzina sections.",
+                "We studied the structure of terzina in class."
+            ]
+        }
+    ],
+    "thither": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "to that place (formal)",
+            "synonyms": [
+                "to there",
+                "to that place"
+            ],
+            "examples": [
+                "They walked thither in the afternoon."
+            ]
+        }
+    ],
+    "terminate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to bring something to an end",
+            "synonyms": [
+                "end",
+                "stop",
+                "conclude",
+                "halt"
+            ],
+            "examples": [
+                "They will terminate the contract next month.",
+                "The system automatically terminates the program."
+            ]
+        }
+    ],
+    "tresses": [
+        {
+            "part_of_speech": "noun",
+            "definition": "long strands of hair",
+            "synonyms": [
+                "hair",
+                "locks",
+                "strands",
+                "curls"
+            ],
+            "examples": [
+                "Her tresses fell over her shoulders.",
+                "The stylist worked on her tresses."
+            ]
+        }
     ]
 }

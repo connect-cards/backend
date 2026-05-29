@@ -728,5 +728,208 @@
                 "He glimpsed a shadow moving behind the door."
             ]
         }
+    ],
+    "genial": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "pleasant and friendly, especially in social situations",
+            "synonyms": [
+                "friendly",
+                "warm",
+                "pleasant",
+                "amiable"
+            ],
+            "examples": [
+                "He gave a genial welcome to the guests.",
+                "Her genial smile calmed the crowd."
+            ]
+        }
+    ],
+    "gleam": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to shine with a soft or steady light",
+            "synonyms": [
+                "shine",
+                "glow",
+                "sparkle",
+                "reflect"
+            ],
+            "examples": [
+                "The window gleamed in the sun.",
+                "A smile gleamed on her face."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a small or brief shining light",
+            "synonyms": [
+                "glimmer",
+                "spark",
+                "flash"
+            ],
+            "examples": [
+                "She caught a gleam of hope.",
+                "The room filled with a gleam of light."
+            ]
+        }
+    ],
+    "gale": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a very strong wind",
+            "synonyms": [
+                "storm wind",
+                "windstorm",
+                "strong breeze"
+            ],
+            "examples": [
+                "A gale blew through the valley.",
+                "The ship struggled in the gale."
+            ]
+        }
+    ],
+    "guarded": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "careful not to reveal too much or to avoid being hurt",
+            "synonyms": [
+                "cautious",
+                "reserved",
+                "wary",
+                "suspicious"
+            ],
+            "examples": [
+                "He gave guarded answers to the reporter.",
+                "Her guarded smile suggested she was not comfortable."
+            ]
+        }
+    ],
+    "grievance": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a complaint about something that feels unfair, often in a workplace",
+            "synonyms": [
+                "complaint",
+                "protest",
+                "charge",
+                "unfairness"
+            ],
+            "examples": [
+                "He filed a grievance with HR.",
+                "The union handled workers’ grievances."
+            ]
+        }
+    ],
+    "glide": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to move smoothly and quietly, often with little effort",
+            "synonyms": [
+                "slide",
+                "drift",
+                "float",
+                "move smoothly"
+            ],
+            "examples": [
+                "The boat glided across the lake.",
+                "She glided into the room without making noise."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a smooth forward movement",
+            "synonyms": [
+                "slide",
+                "slip",
+                "drift"
+            ],
+            "examples": [
+                "The skater’s glide was very smooth."
+            ]
+        }
+    ],
+    "gonna": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "going to (informal), used especially in speech",
+            "synonyms": [
+                "going to"
+            ],
+            "examples": [
+                "I’m gonna call you later.",
+                "She’s gonna start next week."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "going to (informal), used for a future action",
+            "synonyms": [
+                "going to"
+            ],
+            "examples": [
+                "We’re gonna leave soon.",
+                "They’re gonna help us."
+            ]
+        }
+    ],
+    "glitter": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to shine with small bright flashes",
+            "synonyms": [
+                "sparkle",
+                "shine",
+                "gleam",
+                "twinkle"
+            ],
+            "examples": [
+                "The stars glittered in the sky.",
+                "Her earrings glittered when she moved."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "small bright flashes of light",
+            "synonyms": [
+                "sparkle",
+                "glint",
+                "twinkle"
+            ],
+            "examples": [
+                "The glitter on the dress was subtle.",
+                "There was glitter in the water."
+            ]
+        }
+    ],
+    "grim": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "serious and showing little hope",
+            "synonyms": [
+                "severe",
+                "bleak",
+                "harsh",
+                "dark"
+            ],
+            "examples": [
+                "The report was grim.",
+                "Her face looked grim after the meeting."
+            ]
+        }
+    ],
+    "glacier": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a large slow-moving mass of ice",
+            "synonyms": [
+                "ice sheet (informal)",
+                "ice flow"
+            ],
+            "examples": [
+                "The glacier is melting faster each year.",
+                "They traveled near the glacier."
+            ]
+        }
     ]
 }

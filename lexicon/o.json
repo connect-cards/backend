@@ -318,5 +318,52 @@
                 "He made an ominous statement about the future."
             ]
         }
+    ],
+    "orison": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a prayer",
+            "synonyms": [
+                "prayer",
+                "supplication",
+                "devotion"
+            ],
+            "examples": [
+                "He offered an orison before the match.",
+                "The village gathered for orison."
+            ]
+        }
+    ],
+    "omen": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a sign that something will happen, often something bad",
+            "synonyms": [
+                "portent",
+                "sign",
+                "warning",
+                "prediction"
+            ],
+            "examples": [
+                "Seeing the broken mirror felt like an omen.",
+                "The storm was an omen of the season’s hardships."
+            ]
+        }
+    ],
+    "otherworldly": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "seeming not connected to ordinary life or the real world",
+            "synonyms": [
+                "unearthly",
+                "dreamlike",
+                "strange",
+                "unreal"
+            ],
+            "examples": [
+                "The painting looks otherworldly.",
+                "Her voice sounded otherworldly in the recording."
+            ]
+        }
     ]
 }

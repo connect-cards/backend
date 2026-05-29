@@ -1,0 +1,60 @@
+{
+  "date": "2026-06-02",
+  "version": 1,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "d2-easy",
+      "type": "synonym",
+      "difficulty": 1,
+      "title": "Agreeable in character",
+      "words": [
+        "amicable",
+        "cordial",
+        "genial",
+        "sociable"
+      ]
+    },
+    {
+      "id": "d2-medium",
+      "type": "sound_association",
+      "difficulty": 2,
+      "title": "Near-sounds to mislead",
+      "words": [
+        "solemn",
+        "serene",
+        "sincere",
+        "candid"
+      ]
+    },
+    {
+      "id": "d2-hard",
+      "type": "morphological_family",
+      "difficulty": 3,
+      "title": "Imparting guidance",
+      "words": [
+        "instructive",
+        "advisory",
+        "recommendation",
+        "instruction"
+      ]
+    },
+    {
+      "id": "d2-very-hard",
+      "type": "profession_domain",
+      "difficulty": 4,
+      "title": "Legal-tech disputes",
+      "words": [
+        "arbitration",
+        "litigation",
+        "jurisprudence",
+        "adjudicatory"
+      ]
+    }
+  ]
+}

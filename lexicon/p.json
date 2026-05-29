@@ -1317,5 +1317,391 @@
                 "His pallid face showed that he was nervous."
             ]
         }
+    ],
+    "psychotherapy": [
+        {
+            "part_of_speech": "noun",
+            "definition": "treatment for mental health problems using talking and psychological methods",
+            "synonyms": [
+                "therapy",
+                "counseling",
+                "psychological treatment"
+            ],
+            "examples": [
+                "Psychotherapy can help with anxiety.",
+                "She started psychotherapy last year."
+            ]
+        }
+    ],
+    "phantasmic": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "seeming unreal or dreamlike, like a mental image",
+            "synonyms": [
+                "dreamlike",
+                "unreal",
+                "visionary",
+                "ghostly"
+            ],
+            "examples": [
+                "The movie created a phantasmic city in the fog.",
+                "Her phantasmic description sounded like a dream."
+            ]
+        }
+    ],
+    "prognosis": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a forecast of how a sickness or situation is likely to develop",
+            "synonyms": [
+                "outlook",
+                "prediction",
+                "forecast",
+                "likelihood"
+            ],
+            "examples": [
+                "The doctor gave a prognosis after the tests.",
+                "Her prognosis was uncertain at first."
+            ]
+        }
+    ],
+    "pathology": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the study of diseases and how they work in the body",
+            "synonyms": [
+                "disease study",
+                "medical science",
+                "disease process"
+            ],
+            "examples": [
+                "Pathology helped explain the cause of the illness.",
+                "The lab tests were part of pathology."
+            ]
+        }
+    ],
+    "pockmark": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to mark the surface with small holes or spots",
+            "synonyms": [
+                "scar",
+                "blemish",
+                "mar",
+                "spot"
+            ],
+            "examples": [
+                "The old metal was pockmarked with rust.",
+                "The skin was pockmarked from acne."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a small hole or scar-like mark on the surface",
+            "synonyms": [
+                "scar",
+                "spot",
+                "pitted mark"
+            ],
+            "examples": [
+                "He had pockmarks on his face.",
+                "The wall had several pockmarks."
+            ]
+        }
+    ],
+    "proscribe": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to officially forbid something",
+            "synonyms": [
+                "ban",
+                "forbid",
+                "outlaw",
+                "prohibit"
+            ],
+            "examples": [
+                "The law proscribed the sale of the product.",
+                "They proscribed criticizing the leader."
+            ]
+        }
+    ],
+    "practical": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "helpful and realistic in everyday situations",
+            "synonyms": [
+                "useful",
+                "realistic",
+                "sensible",
+                "efficient"
+            ],
+            "examples": [
+                "It’s a practical idea for students.",
+                "She gave practical advice."
+            ]
+        }
+    ],
+    "prosecute": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to take legal action against someone in court",
+            "synonyms": [
+                "try",
+                "bring to court",
+                "charge",
+                "lawfully pursue"
+            ],
+            "examples": [
+                "They will prosecute the case next month.",
+                "The state prosecuted her for fraud."
+            ]
+        }
+    ],
+    "phantasm": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an unreal image or thing that seems frightening or imaginary",
+            "synonyms": [
+                "ghost",
+                "illusion",
+                "apparition",
+                "dream image"
+            ],
+            "examples": [
+                "The character saw a phantasm in the dark.",
+                "The nightmare felt like a phantasm."
+            ]
+        }
+    ],
+    "piercing": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "sharp and strong, especially in sound or feeling",
+            "synonyms": [
+                "sharp",
+                "intense",
+                "striking",
+                "penetrating"
+            ],
+            "examples": [
+                "Her piercing laugh filled the room.",
+                "I heard a piercing whistle."
+            ]
+        }
+    ],
+    "portent": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a sign that something important or bad might happen",
+            "synonyms": [
+                "omen",
+                "sign",
+                "warning",
+                "prophecy"
+            ],
+            "examples": [
+                "The dark clouds were a portent of trouble.",
+                "The unusual event was seen as a portent."
+            ]
+        }
+    ],
+    "propose": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to suggest a plan or idea for others to consider",
+            "synonyms": [
+                "suggest",
+                "offer",
+                "present",
+                "put forward"
+            ],
+            "examples": [
+                "He proposed a new schedule.",
+                "She proposed that we meet again."
+            ]
+        }
+    ],
+    "picky": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "choosing things carefully and often finding many things not good enough",
+            "synonyms": [
+                "fussy",
+                "selective",
+                "finicky",
+                "particular"
+            ],
+            "examples": [
+                "I’m picky about coffee.",
+                "She is picky when it comes to shoes."
+            ]
+        }
+    ],
+    "paltry": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very small and not enough",
+            "synonyms": [
+                "meager",
+                "insignificant",
+                "trivial",
+                "pitiful"
+            ],
+            "examples": [
+                "He offered a paltry sum for the work.",
+                "The results were paltry compared to our goals."
+            ]
+        }
+    ],
+    "proclaim": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to announce something publicly or officially",
+            "synonyms": [
+                "declare",
+                "announce",
+                "state",
+                "declare publicly"
+            ],
+            "examples": [
+                "The mayor proclaimed a new law.",
+                "She proclaimed her innocence."
+            ]
+        }
+    ],
+    "pounce": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to rush suddenly to catch or attack something",
+            "synonyms": [
+                "spring",
+                "attack",
+                "leap",
+                "rush"
+            ],
+            "examples": [
+                "The cat pounced on the toy.",
+                "He pounced on the opportunity."
+            ]
+        }
+    ],
+    "providence": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the idea that a wise power guides events, especially in religion",
+            "synonyms": [
+                "divine guidance",
+                "care (religious)"
+            ],
+            "examples": [
+                "They thanked providence for the safe trip.",
+                "The story treats providence as a guiding force."
+            ]
+        }
+    ],
+    "physiognomy": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the study or belief that a person’s character can be judged by their facial features",
+            "synonyms": [
+                "face reading (general)",
+                "appearance-based judgment"
+            ],
+            "examples": [
+                "The term physiognomy appears in older studies of facial interpretation."
+            ]
+        }
+    ],
+    "persuade": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to convince someone to do something by giving reasons or explanations",
+            "synonyms": [
+                "convince",
+                "win over",
+                "induce",
+                "influence"
+            ],
+            "examples": [
+                "She persuaded me to join the class.",
+                "They persuaded the committee to approve the plan."
+            ]
+        }
+    ],
+    "pursuit": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the act of chasing someone or something",
+            "synonyms": [
+                "chase",
+                "hunt",
+                "pursuing activity"
+            ],
+            "examples": [
+                "The police started a pursuit after the robbery.",
+                "He lost his pursuit of the suspect in traffic."
+            ]
+        }
+    ],
+    "pursuer": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who chases someone or tries to catch something",
+            "synonyms": [
+                "chaser",
+                "hunter"
+            ],
+            "examples": [
+                "The pursuer stayed close throughout the chase.",
+                "She became the pursuer after the escape."
+            ]
+        }
+    ],
+    "pronounce": [
+        {
+            "part_of_speech": "verb",
+            "definition": "To say a word in a particular way",
+            "synonyms": [
+                "enunciate",
+                "utter",
+                "articulate",
+                "say"
+            ],
+            "examples": [
+                "Can you pronounce your name for me?",
+                "She pronounced the word carefully."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "To officially announce a decision or judgment",
+            "synonyms": [
+                "declare",
+                "announce",
+                "rule",
+                "determine"
+            ],
+            "examples": [
+                "The judge pronounced the sentence in court.",
+                "They will pronounce the winner tomorrow."
+            ]
+        }
+    ],
+    "prudent": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "Careful and sensible, especially to avoid problems",
+            "synonyms": [
+                "careful",
+                "wise",
+                "sensible",
+                "judicious",
+                "cautious"
+            ],
+            "examples": [
+                "It is prudent to back up your files regularly.",
+                "She made a prudent decision about the budget."
+            ]
+        }
     ]
 }

@@ -1,0 +1,60 @@
+{
+  "date": "2026-06-29",
+  "version": 1,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "thematic_association",
+      "difficulty": 1,
+      "title": "Light and illumination (misdirection: some words can mean moral brightness too)",
+      "words": [
+        "radiance",
+        "luminance",
+        "glimmer",
+        "effulgence"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "profession_domain",
+      "difficulty": 2,
+      "title": "Law and court procedure",
+      "words": [
+        "plaintiff",
+        "juror",
+        "subpoena",
+        "litigation"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "sound_association",
+      "difficulty": 3,
+      "title": "A sharp, brief kind of sound",
+      "words": [
+        "chirp",
+        "crackle",
+        "clink",
+        "snap"
+      ]
+    },
+    {
+      "id": "g4",
+      "type": "morphological_family",
+      "difficulty": 4,
+      "title": "The verb root related to seeking and chasing (only this set fits together cleanly)",
+      "words": [
+        "pursuit",
+        "pursue",
+        "pursuer",
+        "hunted"
+      ]
+    }
+  ]
+}

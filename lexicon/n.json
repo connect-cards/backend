@@ -241,5 +241,37 @@
                 "The captain gave a nautical briefing."
             ]
         }
+    ],
+    "nimble": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "quick and light in movement",
+            "synonyms": [
+                "quick",
+                "agile",
+                "spry",
+                "fast"
+            ],
+            "examples": [
+                "He is nimble on the basketball court.",
+                "A nimble worker can learn tasks quickly."
+            ]
+        }
+    ],
+    "nominate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to formally suggest someone for election, appointment, or an award",
+            "synonyms": [
+                "propose",
+                "suggest",
+                "put forward",
+                "choose"
+            ],
+            "examples": [
+                "They nominated him for the position.",
+                "The committee nominated three candidates."
+            ]
+        }
     ]
 }

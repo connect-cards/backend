@@ -201,5 +201,20 @@
                 "The court lacked jurisdiction to try the matter."
             ]
         }
+    ],
+    "jurisprudence": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the study of law and legal principles",
+            "synonyms": [
+                "legal theory",
+                "legal study",
+                "law"
+            ],
+            "examples": [
+                "Her research is in jurisprudence.",
+                "Jurisprudence helps explain how laws are interpreted."
+            ]
+        }
     ]
 }

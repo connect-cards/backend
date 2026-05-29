@@ -676,5 +676,353 @@
                 "The wall was mottled with stains."
             ]
         }
+    ],
+    "morose": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "sad and gloomy, often without much energy",
+            "synonyms": [
+                "sad",
+                "gloomy",
+                "depressed",
+                "sullen"
+            ],
+            "examples": [
+                "She felt morose after the bad news.",
+                "He became morose during the meeting."
+            ]
+        }
+    ],
+    "misdirect": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to lead someone to the wrong place, idea, or direction",
+            "synonyms": [
+                "lead astray",
+                "confuse",
+                "throw off",
+                "misguide"
+            ],
+            "examples": [
+                "The sign misdirected us to the wrong gate.",
+                "He tried to misdirect the investigation."
+            ]
+        }
+    ],
+    "mitigate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make something less severe or less harmful",
+            "synonyms": [
+                "reduce",
+                "lessen",
+                "alleviate",
+                "ease"
+            ],
+            "examples": [
+                "The new rules will mitigate the risk.",
+                "She took steps to mitigate the damage."
+            ]
+        }
+    ],
+    "moderate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make something less extreme, intense, or harmful",
+            "synonyms": [
+                "reduce",
+                "limit",
+                "control",
+                "temper"
+            ],
+            "examples": [
+                "They moderated the amount of sugar in the recipe.",
+                "The temperature moderated overnight."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "not too great, extreme, or intense",
+            "synonyms": [
+                "average",
+                "limited",
+                "reasonable",
+                "balanced"
+            ],
+            "examples": [
+                "The team reported moderate damage.",
+                "She has a moderate opinion of the plan."
+            ]
+        }
+    ],
+    "malevolent": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "showing a desire to harm or upset others",
+            "synonyms": [
+                "wicked",
+                "evil",
+                "malicious",
+                "harmful"
+            ],
+            "examples": [
+                "He was described as malevolent by his neighbors.",
+                "The rumor was malevolent."
+            ]
+        }
+    ],
+    "mumble": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to speak unclearly, often in a quiet voice",
+            "synonyms": [
+                "grumble",
+                "mutter",
+                "speak indistinctly",
+                "mum"
+            ],
+            "examples": [
+                "He mumbled his answer so I couldn’t hear it.",
+                "Don’t mumble when you speak to the class."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "unclear quiet speech",
+            "synonyms": [
+                "murmur",
+                "mutter",
+                "indistinct speech"
+            ],
+            "examples": [
+                "I heard only a mumble from the back row."
+            ]
+        }
+    ],
+    "mutter": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to speak quietly and unclearly, often because of frustration or thought",
+            "synonyms": [
+                "mumble",
+                "grumble",
+                "murmur",
+                "say under your breath"
+            ],
+            "examples": [
+                "He muttered that it was not his fault.",
+                "She muttered an apology."
+            ]
+        }
+    ],
+    "morbid": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "connected with illness or death in a disturbing or unhealthy way",
+            "synonyms": [
+                "unhealthy",
+                "gloomy",
+                "macabre",
+                "dark"
+            ],
+            "examples": [
+                "He has a morbid interest in crime stories.",
+                "The comments were morbid and upsetting."
+            ]
+        }
+    ],
+    "mediator": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who helps two sides in a dispute communicate and reach an agreement",
+            "synonyms": [
+                "intermediary",
+                "go-between",
+                "referee (informal)",
+                "arbitrator"
+            ],
+            "examples": [
+                "The mediator helped them settle the conflict.",
+                "A mediator met with both parties."
+            ]
+        }
+    ],
+    "mistrust": [
+        {
+            "part_of_speech": "noun",
+            "definition": "not trusting someone or something because you think it may be wrong or unfair",
+            "synonyms": [
+                "doubt",
+                "suspicion",
+                "lack of trust",
+                "unsureness"
+            ],
+            "examples": [
+                "There was mistrust between the two groups.",
+                "Her mistrust of authority increased over time."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to not trust someone or something",
+            "synonyms": [
+                "doubt",
+                "suspect",
+                "question",
+                "not trust"
+            ],
+            "examples": [
+                "I mistrust their promises.",
+                "People often mistrust claims that sound too good."
+            ]
+        }
+    ],
+    "misgiving": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a feeling that something may not be safe, right, or successful",
+            "synonyms": [
+                "doubt",
+                "concern",
+                "unease",
+                "worry"
+            ],
+            "examples": [
+                "I had a misgiving about the plan.",
+                "She expressed misgiving about the contract."
+            ]
+        }
+    ],
+    "mirth": [
+        {
+            "part_of_speech": "noun",
+            "definition": "laughter and a joyful mood",
+            "synonyms": [
+                "laughter",
+                "joy",
+                "amusement",
+                "fun"
+            ],
+            "examples": [
+                "The joke brought mirth to the room.",
+                "His mirth was contagious."
+            ]
+        }
+    ],
+    "meagre": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "small or insufficient in amount",
+            "synonyms": [
+                "meager",
+                "limited",
+                "scant",
+                "insufficient"
+            ],
+            "examples": [
+                "They had meagre resources.",
+                "The report offered only meagre details."
+            ]
+        }
+    ],
+    "magistrate": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a public official who makes legal decisions in lower courts or handles certain legal matters",
+            "synonyms": [
+                "judge",
+                "court official"
+            ],
+            "examples": [
+                "The magistrate set a date for the hearing.",
+                "She appeared before a magistrate."
+            ]
+        }
+    ],
+    "manifest": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to clearly show a quality or feeling",
+            "synonyms": [
+                "show",
+                "display",
+                "reveal",
+                "demonstrate"
+            ],
+            "examples": [
+                "Her reaction manifested her fear.",
+                "The new data manifests the problem."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "clear and obvious",
+            "synonyms": [
+                "clear",
+                "obvious",
+                "evident",
+                "plain"
+            ],
+            "examples": [
+                "It was manifest that something was wrong."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a list of goods or passengers, often in shipping and travel",
+            "synonyms": [
+                "cargo list",
+                "ship’s manifest"
+            ],
+            "examples": [
+                "The customs office checked the manifest."
+            ]
+        }
+    ],
+    "mane": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the long hair on the neck of a horse or similar animal",
+            "synonyms": [
+                "hair",
+                "neck hair"
+            ],
+            "examples": [
+                "The horse’s mane blew in the wind.",
+                "She brushed the mane carefully."
+            ]
+        }
+    ],
+    "measured": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "done in a calm and careful way, with controlled speed or emotion",
+            "synonyms": [
+                "calm",
+                "controlled",
+                "careful",
+                "restrained"
+            ],
+            "examples": [
+                "He spoke in a measured tone.",
+                "Her measured response helped calm the crowd."
+            ]
+        }
+    ],
+    "magnificent": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very impressive and beautiful",
+            "synonyms": [
+                "splendid",
+                "great",
+                "excellent",
+                "wonderful"
+            ],
+            "examples": [
+                "They visited a magnificent palace.",
+                "The view from the top was magnificent."
+            ]
+        }
     ]
 }

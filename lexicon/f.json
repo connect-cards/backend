@@ -465,5 +465,288 @@
                 "They built a framework for the report."
             ]
         }
+    ],
+    "flicker": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to shine or move quickly in an irregular way",
+            "synonyms": [
+                "flutter",
+                "blink",
+                "falter",
+                "flick"
+            ],
+            "examples": [
+                "The candle flickered in the wind.",
+                "The screen flickered and then went black."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a brief irregular change in light or movement",
+            "synonyms": [
+                "blink",
+                "glimmer",
+                "falter"
+            ],
+            "examples": [
+                "I saw a flicker of light behind the curtain.",
+                "There was a flicker in the signal."
+            ]
+        }
+    ],
+    "forbid": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to officially or strongly tell someone not to do something",
+            "synonyms": [
+                "prohibit",
+                "ban",
+                "restrict",
+                "deny"
+            ],
+            "examples": [
+                "The rules forbid smoking indoors.",
+                "They forbade him to return."
+            ]
+        }
+    ],
+    "float": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to stay on or move through a liquid or air without sinking",
+            "synonyms": [
+                "drift",
+                "hover",
+                "sail",
+                "bob"
+            ],
+            "examples": [
+                "The leaf floated on the water.",
+                "Helium balloons float in the air."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to move gently or slowly",
+            "synonyms": [
+                "drift",
+                "glide",
+                "hover"
+            ],
+            "examples": [
+                "The smell of food floated through the hallway.",
+                "His voice floated across the room."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a thing that floats, or a buoyant device",
+            "synonyms": [
+                "buoy",
+                "float device"
+            ],
+            "examples": [
+                "The fishing net uses a float to keep it on the surface."
+            ]
+        }
+    ],
+    "foggy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "covered with fog or making it hard to see",
+            "synonyms": [
+                "misty",
+                "hazy",
+                "unclear",
+                "blurry"
+            ],
+            "examples": [
+                "It was foggy in the morning.",
+                "The instructions were foggy to me."
+            ]
+        }
+    ],
+    "fondness": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a strong liking or love for someone or something",
+            "synonyms": [
+                "liking",
+                "affection",
+                "love",
+                "warmth"
+            ],
+            "examples": [
+                "She has a fondness for old books.",
+                "His fondness for tea surprises me."
+            ]
+        }
+    ],
+    "forensic": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "related to using scientific methods to investigate crimes or legal issues",
+            "synonyms": [
+                "scientific",
+                "legal",
+                "investigative"
+            ],
+            "examples": [
+                "The forensic team collected fingerprints.",
+                "Forensic evidence helped solve the case."
+            ]
+        }
+    ],
+    "finicky": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "careful about details and easily dissatisfied",
+            "synonyms": [
+                "fussy",
+                "picky",
+                "particular",
+                "demanding"
+            ],
+            "examples": [
+                "He is finicky about spelling.",
+                "The chef is finicky with ingredients."
+            ]
+        }
+    ],
+    "fussy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "careful and easily worried about small details or cleanliness",
+            "synonyms": [
+                "picky",
+                "particular",
+                "finicky",
+                "overly careful"
+            ],
+            "examples": [
+                "Stop being fussy and help me carry it.",
+                "She’s fussy about her clothes."
+            ]
+        }
+    ],
+    "fraud": [
+        {
+            "part_of_speech": "noun",
+            "definition": "dishonest behavior meant to trick people for money or advantage",
+            "synonyms": [
+                "scam",
+                "swindle",
+                "con",
+                "deception"
+            ],
+            "examples": [
+                "The company was accused of fraud.",
+                "It was a fraud to take your bank details."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to commit fraud or trick people dishonestly",
+            "synonyms": [
+                "swindle",
+                "scam",
+                "con"
+            ],
+            "examples": [
+                "He frauded customers by selling fake tickets.",
+                "They frauded investors with false reports."
+            ]
+        }
+    ],
+    "foreordain": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to decide that something will happen in advance",
+            "synonyms": [
+                "predestine",
+                "plan",
+                "determine",
+                "decree"
+            ],
+            "examples": [
+                "They believed the outcome was foreordained.",
+                "The event was seen as foreordained."
+            ]
+        }
+    ],
+    "farseeing": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "thinking about the future and planning wisely",
+            "synonyms": [
+                "visionary",
+                "thoughtful",
+                "predictive",
+                "wise"
+            ],
+            "examples": [
+                "Her farseeing decisions helped the company grow.",
+                "A farseeing leader prepares for risks."
+            ]
+        }
+    ],
+    "features": [
+        {
+            "part_of_speech": "noun",
+            "definition": "distinct parts or characteristics of something, especially a face",
+            "synonyms": [
+                "traits",
+                "characteristics",
+                "aspects",
+                "attributes"
+            ],
+            "examples": [
+                "Her facial features are very distinctive.",
+                "The software includes helpful features."
+            ]
+        }
+    ],
+    "frosted": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "covered with a thin layer that looks like ice or with a cloudy surface",
+            "synonyms": [
+                "iced (literal)",
+                "cloudy",
+                "matte",
+                "hazy"
+            ],
+            "examples": [
+                "The windows are frosted for privacy.",
+                "She bought a frosted glass bowl."
+            ]
+        }
+    ],
+    "frizz": [
+        {
+            "part_of_speech": "noun",
+            "definition": "hair that becomes rough or forms small irregular curls, often in humid weather",
+            "synonyms": [
+                "frizzy hair",
+                "flyaways"
+            ],
+            "examples": [
+                "She hates frizz during rainy days.",
+                "The frizz made her hair look messy."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to become rough and irregular, often because of moisture or lack of moisture",
+            "synonyms": [
+                "get frizzy",
+                "become frizzy"
+            ],
+            "examples": [
+                "My hair frizzes in humidity.",
+                "The fibers begin to frizz after washing."
+            ]
+        }
     ]
 }

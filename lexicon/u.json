@@ -276,5 +276,133 @@
                 "She un gird ed herself from the old responsibilities."
             ]
         }
+    ],
+    "uplifting": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "making someone feel happier, hopeful, or more positive",
+            "synonyms": [
+                "encouraging",
+                "heartening",
+                "inspiring",
+                "optimistic"
+            ],
+            "examples": [
+                "The music was uplifting.",
+                "She gave an uplifting speech."
+            ]
+        }
+    ],
+    "undermine": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to weaken something slowly or damage its effectiveness",
+            "synonyms": [
+                "weaken",
+                "erode",
+                "undercut",
+                "sap"
+            ],
+            "examples": [
+                "Poor planning can undermine the whole project.",
+                "Rumors undermined her confidence."
+            ]
+        }
+    ],
+    "usable": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "able to be used successfully or effectively",
+            "synonyms": [
+                "useful",
+                "available",
+                "workable",
+                "operational"
+            ],
+            "examples": [
+                "The tool is still usable.",
+                "Is this information usable for the project?"
+            ]
+        }
+    ],
+    "unveil": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to reveal something for the first time",
+            "synonyms": [
+                "reveal",
+                "show",
+                "introduce",
+                "uncover"
+            ],
+            "examples": [
+                "They unveiled a new statue downtown.",
+                "The company unveiled its plans at noon."
+            ]
+        }
+    ],
+    "utter": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to say or speak something",
+            "synonyms": [
+                "say",
+                "speak",
+                "pronounce",
+                "express"
+            ],
+            "examples": [
+                "He uttered a single word.",
+                "She refused to utter a complaint."
+            ]
+        }
+    ],
+    "unblinking": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "not looking away and not hesitating, showing intense attention",
+            "synonyms": [
+                "steady",
+                "staring",
+                "fixed",
+                "relentless"
+            ],
+            "examples": [
+                "He stared with unblinking attention.",
+                "The camera captured an unblinking view."
+            ]
+        }
+    ],
+    "urge": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to strongly encourage someone to act",
+            "synonyms": [
+                "encourage",
+                "press",
+                "push",
+                "insist"
+            ],
+            "examples": [
+                "I urged him to rest.",
+                "The coach urged the team to keep going."
+            ]
+        }
+    ],
+    "unforgiving": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "not kind enough to forgive mistakes, or not allowing easy recovery",
+            "synonyms": [
+                "harsh",
+                "tough",
+                "merciless",
+                "strict"
+            ],
+            "examples": [
+                "The rules are unforgiving for new employees.",
+                "That job can be unforgiving."
+            ]
+        }
     ]
 }

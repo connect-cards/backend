@@ -1,0 +1,60 @@
+{
+  "date": "2026-06-30",
+  "version": 1,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "easy",
+      "difficulty": 1,
+      "title": "Metal artifacts",
+      "words": [
+        "blade",
+        "sword",
+        "steel",
+        "brand"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "medium",
+      "difficulty": 2,
+      "title": "Overcoming unease",
+      "words": [
+        "steady",
+        "buoyant",
+        "reassure",
+        "bolster"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "hard",
+      "difficulty": 3,
+      "title": "Clever restraint",
+      "words": [
+        "laconic",
+        "terse",
+        "curt",
+        "brusque"
+      ]
+    },
+    {
+      "id": "g4",
+      "type": "very-hard",
+      "difficulty": 4,
+      "title": "Words for a resolved decline",
+      "words": [
+        "abjure",
+        "revoke",
+        "renounce",
+        "withdrawal"
+      ]
+    }
+  ]
+}

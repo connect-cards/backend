@@ -1,0 +1,60 @@
+{
+  "date": "2026-06-25",
+  "version": 1,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "emotional_tone",
+      "difficulty": 1,
+      "title": "Quiet dread",
+      "words": [
+        "apprehension",
+        "unease",
+        "foreboding",
+        "misgiving"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "semantic_field",
+      "difficulty": 2,
+      "title": "Light that won’t comfort",
+      "words": [
+        "luster",
+        "glimmer",
+        "radiance",
+        "luminescence"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "literary_register",
+      "difficulty": 3,
+      "title": "Measured speech acts",
+      "words": [
+        "deliberation",
+        "equivocation",
+        "circumspection",
+        "reticence"
+      ]
+    },
+    {
+      "id": "g4",
+      "type": "physical_trait",
+      "difficulty": 4,
+      "title": "A face for fables",
+      "words": [
+        "countenance",
+        "visage",
+        "physiognomy",
+        "features"
+      ]
+    }
+  ]
+}

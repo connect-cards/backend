@@ -1,0 +1,60 @@
+{
+  "date": "2026-06-14",
+  "version": 1,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "d14-easy",
+      "type": "etymological_relation",
+      "difficulty": 1,
+      "title": "Same root: to see",
+      "words": [
+        "specter",
+        "inspect",
+        "spectacle",
+        "inspection"
+      ]
+    },
+    {
+      "id": "d14-medium",
+      "type": "synonym",
+      "difficulty": 2,
+      "title": "Near-meaning: criticize sharply",
+      "words": [
+        "censure",
+        "denounce",
+        "reprimand",
+        "condemn"
+      ]
+    },
+    {
+      "id": "d14-hard",
+      "type": "physical_trait",
+      "difficulty": 3,
+      "title": "Signs of age or strain",
+      "words": [
+        "wrinkle",
+        "weathered",
+        "sallow",
+        "gaunt"
+      ]
+    },
+    {
+      "id": "d14-very-hard",
+      "type": "thematic_association",
+      "difficulty": 4,
+      "title": "The study of shadows",
+      "words": [
+        "heraldry",
+        "iconography",
+        "hagiography",
+        "morbid"
+      ]
+    }
+  ]
+}

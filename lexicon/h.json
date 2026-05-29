@@ -677,5 +677,131 @@
                 "They hooted at the referee after the decision."
             ]
         }
+    ],
+    "hermeneutics": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the study of interpretation, especially how to interpret texts",
+            "synonyms": [
+                "interpretation theory",
+                "text interpretation",
+                "meaning analysis"
+            ],
+            "examples": [
+                "Hermeneutics influenced the way the author’s message was studied.",
+                "The professor taught hermeneutics in the literature program."
+            ]
+        }
+    ],
+    "hermeneutic": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "related to interpretation, especially interpreting texts",
+            "synonyms": [
+                "interpretive",
+                "interpretation-related",
+                "analytical"
+            ],
+            "examples": [
+                "We applied a hermeneutic approach to the document.",
+                "Her hermeneutic method focused on context."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a method or approach used for interpretation",
+            "synonyms": [
+                "interpretive approach",
+                "interpretation method"
+            ],
+            "examples": [
+                "The hermeneutic guided the analysis."
+            ]
+        }
+    ],
+    "heraldry": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the system of designing, describing, and using coats of arms and related symbols",
+            "synonyms": [
+                "coat-of-arms study",
+                "armorial symbols"
+            ],
+            "examples": [
+                "Heraldry can show family history through symbols.",
+                "The book includes a chapter on heraldry."
+            ]
+        }
+    ],
+    "hagiography": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a biography of a religious or famous person that often idealizes them",
+            "synonyms": [
+                "saint biography",
+                "idealized biography",
+                "saint’s life"
+            ],
+            "examples": [
+                "The book is a hagiography of a local saint.",
+                "Many readers found the hagiography too flattering."
+            ]
+        }
+    ],
+    "hither": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "to this place (formal)",
+            "synonyms": [
+                "here",
+                "to this place"
+            ],
+            "examples": [
+                "Come hither and take a look."
+            ]
+        }
+    ],
+    "hiss": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a soft sharp sound like air escaping",
+            "synonyms": [
+                "siss",
+                "whisper (sound)",
+                "sizzle (sound)"
+            ],
+            "examples": [
+                "The snake hissed at us.",
+                "Steam hissed from the pipe."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a soft sharp sound made by escaping air",
+            "synonyms": [
+                "siss",
+                "sound of steam"
+            ],
+            "examples": [
+                "I heard a hiss from the radiator.",
+                "The hiss of the gas alarmed me."
+            ]
+        }
+    ],
+    "hunted": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "being chased and trying to stay safe from capture",
+            "synonyms": [
+                "pursued",
+                "on the run",
+                "chased",
+                "threatened"
+            ],
+            "examples": [
+                "He felt hunted after the allegations.",
+                "The hunted animal hid in the bushes."
+            ]
+        }
     ]
 }

@@ -1,0 +1,60 @@
+{
+  "date": "2026-06-01",
+  "version": 1,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "d1-easy",
+      "type": "emotional_tone",
+      "difficulty": 1,
+      "title": "Soothing reactions",
+      "words": [
+        "comforting",
+        "reassuring",
+        "soothing",
+        "uplifting"
+      ]
+    },
+    {
+      "id": "d1-medium",
+      "type": "informal_register",
+      "difficulty": 2,
+      "title": "Casual remarks",
+      "words": [
+        "chatterbox",
+        "banter",
+        "gossip",
+        "wisecrack"
+      ]
+    },
+    {
+      "id": "d1-hard",
+      "type": "semantic_field",
+      "difficulty": 3,
+      "title": "Subtle mistreatment",
+      "words": [
+        "undermine",
+        "sabotage",
+        "belittle",
+        "thwart"
+      ]
+    },
+    {
+      "id": "d1-very-hard",
+      "type": "profession_domain",
+      "difficulty": 4,
+      "title": "Therapeutic interpretation",
+      "words": [
+        "psychotherapy",
+        "diagnostic",
+        "counselor",
+        "symptomatology"
+      ]
+    }
+  ]
+}

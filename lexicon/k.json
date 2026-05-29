@@ -42,5 +42,34 @@
                 "He acted as the knocker during the ceremony."
             ]
         }
+    ],
+    "knock": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to hit a door or wall lightly to get attention",
+            "synonyms": [
+                "tap",
+                "bang",
+                "hit",
+                "pound"
+            ],
+            "examples": [
+                "She knocked on the door twice.",
+                "He knocked the box to check if it was empty."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a hit or sound made when something is struck",
+            "synonyms": [
+                "hit",
+                "knock",
+                "bang"
+            ],
+            "examples": [
+                "I heard a knock from downstairs.",
+                "There was a loud knock at midnight."
+            ]
+        }
     ]
 }

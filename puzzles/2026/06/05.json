@@ -1,0 +1,60 @@
+{
+  "date": "2026-06-05",
+  "version": 1,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "D1-E",
+      "type": "synonym",
+      "difficulty": 1,
+      "title": "Close in meaning (but not all interchangeable)",
+      "words": [
+        "quell",
+        "allay",
+        "soothe",
+        "abate"
+      ]
+    },
+    {
+      "id": "D1-M",
+      "type": "thematic_association",
+      "difficulty": 2,
+      "title": "Storms and their outcomes",
+      "words": [
+        "tempest",
+        "deluge",
+        "gale",
+        "squall"
+      ]
+    },
+    {
+      "id": "D1-H",
+      "type": "morphological_family",
+      "difficulty": 3,
+      "title": "Share a root: speech and refusal",
+      "words": [
+        "orate",
+        "decry",
+        "renounce",
+        "revoke"
+      ]
+    },
+    {
+      "id": "D1-VH",
+      "type": "physical_trait",
+      "difficulty": 4,
+      "title": "Not the same look, but the same sort of mark",
+      "words": [
+        "freckle",
+        "pockmark",
+        "scar",
+        "blemish"
+      ]
+    }
+  ]
+}

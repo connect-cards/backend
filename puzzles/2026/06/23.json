@@ -1,0 +1,60 @@
+{
+  "date": "2026-06-23",
+  "version": 1,
+  "difficulty_order": [
+    "easy",
+    "medium",
+    "hard",
+    "very-hard"
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "emotional_tone",
+      "difficulty": 1,
+      "title": "Lighthearted movement",
+      "words": [
+        "stroll",
+        "wander",
+        "ramble",
+        "roam"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "synonym",
+      "difficulty": 2,
+      "title": "Mild criticism, without anger",
+      "words": [
+        "rebuke",
+        "censure",
+        "reprimand",
+        "admonish"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "literary_register",
+      "difficulty": 3,
+      "title": "Elevated ways to say “look”",
+      "words": [
+        "regard",
+        "behold",
+        "perceive",
+        "contemplate"
+      ]
+    },
+    {
+      "id": "g4",
+      "type": "morphological_family",
+      "difficulty": 4,
+      "title": "Archaic determiners of smallness",
+      "words": [
+        "whence",
+        "whither",
+        "hither",
+        "thither"
+      ]
+    }
+  ]
+}
