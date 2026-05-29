@@ -1,4 +1,3 @@
-import fs from "fs-extra";
 import { generateLexicon, checkLexicon } from "./utils";
 
 function printUsage() {

@@ -21,7 +21,7 @@ npm run create
 - Create puzzles for specific day(s):
 
 ```bash
-npm run create:puzzles -- 2026-06-01 2026-06-03
+npm run create:puzzles -- 2026-06-01 2026-06-25 2026-06-26
 ```
 
 ### Create Lexicon Only
