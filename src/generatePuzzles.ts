@@ -1,9 +1,7 @@
 import fs from "fs-extra";
 import path from "path";
 import { zodTextFormat } from 'openai/helpers/zod';
-import { client } from "./utils";
-import { puzzlesPrompt, generationGPTModel } from "./prompts";
-import { PuzzlesResponseSchema } from "./schema";
+import { client, puzzlesPrompt, generationGPTModel, PuzzlesResponseSchema } from "./utils";
 
 const TYPES = [
     "synonym",
@@ -20,6 +18,8 @@ const TYPES = [
 ];
 
 export async function generatePuzzles(dates: string[]) {
+    if (dates.length == 0) return;
+
     const response = await client.responses.parse({
         model: generationGPTModel,
         input: [{

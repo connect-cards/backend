@@ -50,24 +50,27 @@ async function main() {
     if (force) {
         console.log(`Generating lexicon for ${uniqueWords.length} word(s) in --force mode...`);
         await generateLexicon(uniqueWords);
-        console.log(`Lexicon generated for ${uniqueWords.length} word(s).`);
+
+        const { missing: missingNow } = checkLexicon(uniqueWords);
+        console.log(`Lexicon generated for ${uniqueWords.length - missingNow.length} word(s).`);
+        if (missingNow.length > 0) console.log(`Missing ${missingNow.length} lexicon word(s) in inventory: ${missingNow.join(" ")}`);
         return;
     }
 
     const { missing: newWords, existing: skippedWords } = checkLexicon(uniqueWords);
 
     if (newWords.length === 0) {
-        console.log(`No new words to generate. Skipped ${skippedWords.length} existing word(s).`);
+        console.log(`No new words to generate.`);
         return;
     }
 
     console.log(`Generating lexicon for ${newWords.length} new word(s)...`);
     await generateLexicon(newWords);
 
-    console.log(`Lexicon generated for ${newWords.length} word(s).`);
-    if (skippedWords.length > 0) {
-        console.log(`Skipped ${skippedWords.length} existing word(s): ${skippedWords.join(", ")}`);
-    }
+    const { missing: missingNow } = checkLexicon(newWords);
+    console.log(`Lexicon generated for ${newWords.length - missingNow.length} word(s).`);
+    if (skippedWords.length > 0) console.log(`Skipped ${skippedWords.length} existing word(s).`);
+    if (missingNow.length > 0) console.log(`Missing ${missingNow.length} lexicon word(s) in inventory: ${missingNow.join(" ")}`);
 }
 
 main().catch((error) => {

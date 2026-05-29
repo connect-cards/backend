@@ -1,5 +1,5 @@
 import fs from "fs-extra";
-import { generatePuzzles, generateLexicon, checkLexicon, validatePuzzle } from "../src";
+import { generatePuzzles, generateLexicon, checkLexicon, checkPuzzleInventory, validatePuzzle } from "../src";
 
 function getNextMonth() {
     const now = new Date();
@@ -40,6 +40,7 @@ async function main() {
 
     const mm = String(month).padStart(2, "0");
     const numDays = getDaysInMonth(year, month);
+    const requestedDates: string[] = [];
     const batches = [];
     const DAYS_PER_BATCH = 4;
     for (let i = 1; i <= numDays; i += DAYS_PER_BATCH) {
@@ -47,14 +48,20 @@ async function main() {
             { length: Math.min(DAYS_PER_BATCH, numDays - i + 1) },
             (_, j) => `${year}-${mm}-${String(i + j).padStart(2, "0")}`
         );
+        requestedDates.push(...dates);
         batches.push(generatePuzzles(dates));
     }
     const generatedBatches = await Promise.all(batches);
     const generatedPuzzles = generatedBatches.flat();
-    const invalidPuzzles = generatedPuzzles.filter((puzzle: any) => validatePuzzle(puzzle));
+    const invalidPuzzles = generatedPuzzles.filter((puzzle: any) => !validatePuzzle(puzzle));
+    const generatedDates = new Set(generatedPuzzles.map((puzzle: any) => puzzle?.date).filter(Boolean));
+    const skippedDates = requestedDates.filter((date) => !generatedDates.has(date));
+    const { missing: missingDates } = checkPuzzleInventory(requestedDates);
 
     console.log(`Puzzles generated: /puzzles/${year}/${month}`);
-    if (invalidPuzzles.length > 0) console.log("Invalid puzzle date(s):", invalidPuzzles.map((puzzle: any) => puzzle.date ?? "unknown").join(", "));
+    if (invalidPuzzles.length > 0) console.log(`Invalid ${invalidPuzzles.length} puzzle date(s): ${invalidPuzzles.map((puzzle: any) => puzzle.date ?? "unknown").join(" ")}`);
+    if (skippedDates.length > 0) console.log(`Skipped ${skippedDates.length} puzzle date(s) from generation.`);
+    if (missingDates.length > 0) console.log(`Missing ${missingDates.length} puzzle date(s) in inventory: ${missingDates.join(" ")}`);
 
     // STEP 3: Generate lexicon
     console.log('Generating lexicon...')
@@ -69,14 +76,14 @@ async function main() {
     }
 
     // Generate lexicon for new words only
-    const { missing: newWords } = checkLexicon([...words]);
+    const { missing: newWords, existing: skippedWords } = checkLexicon([...words]);
     if (newWords.length > 0) await generateLexicon(newWords);
 
     // Check which lexicon entries were created and which are still missing
-    const { existing: generatedNow, missing: missingNow } = checkLexicon(newWords);
-
-    console.log(`Lexicon generated (${generatedNow.length}): ${generatedNow.join(' ')}`);
-    console.log(`Lexicon missing (${missingNow.length}): ${missingNow.join(' ')}`);
+    const { missing: missingNow } = checkLexicon(newWords);
+    console.log(`Lexicon generated for ${newWords.length - missingNow.length} word(s).`);
+    if (skippedWords.length > 0) console.log(`Skipped ${skippedWords.length} existing word(s).}`);
+    if (missingNow.length > 0) console.log(`Missing ${missingNow.length} lexicon word(s) in inventory: ${missingNow.join(' ')}`);
 }
 
 main();

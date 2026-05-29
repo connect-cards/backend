@@ -1,4 +1,4 @@
-import { generatePuzzles, validatePuzzle } from "../src";
+import { generatePuzzles, validatePuzzle, checkPuzzleInventory } from "../src";
 
 function printUsage() {
     console.error("Usage: npm run create:puzzles -- <YYYY-MM-DD> [YYYY-MM-DD ...]");
@@ -57,13 +57,23 @@ async function main() {
         return;
     }
 
+    // Generate puzzles
     console.log(`Generating puzzles for ${validDates.length} date(s): ${validDates.join(", ")}`);
     const puzzles = await generatePuzzles(validDates);
-    const invalidPuzzles = puzzles.filter((puzzle: any) => validatePuzzle(puzzle));
-
+    if (!puzzles) { console.log("Cannot generate any puzzle!"); return; }
     console.log("Puzzles generated for requested date(s).");
+
+    // Check puzzle if valid
+    const invalidPuzzles = puzzles.filter((puzzle: any) => !validatePuzzle(puzzle));
     if (invalidPuzzles.length > 0) console.log("Invalid puzzle date(s):", invalidPuzzles.map((puzzle: any) => puzzle.date ?? "unknown").join(", "));
 
+    const generatedDates = new Set(puzzles.map((puzzle: any) => puzzle?.date).filter(Boolean));
+    const missingGeneratedDates = validDates.filter((date) => !generatedDates.has(date));
+    const { missing: missingPuzzleInventory } = checkPuzzleInventory(validDates);
+    if (missingGeneratedDates.length > 0) console.log("Missing puzzle date(s) from generation:", missingGeneratedDates.join(" "));
+    if (missingPuzzleInventory.length > 0) console.log("Missing puzzle date(s) in inventory:", missingPuzzleInventory.join(" "));
+
+    // Inform new words
     const generatedWords = [...new Set(puzzles.flatMap((puzzle: any) => puzzle.groups.flatMap((group: any) => group.words)))];
     console.log(`Generated words (${generatedWords.length}): ${generatedWords.join(" ")}`);
 }

@@ -1,10 +1,10 @@
 import fs from "fs-extra";
 import { zodTextFormat } from "openai/helpers/zod";
-import { client } from "./utils";
-import { generationGPTModel, lexiconPrompt } from "./prompts";
-import { LexiconResponseSchema } from "./schema";
+import { client, generationGPTModel, lexiconPrompt, LexiconResponseSchema } from "./utils";
 
 export async function generateLexicon(words: string[]) {
+    if (words.length == 0) return;
+
     const response = await client.responses.parse({
         model: generationGPTModel,
         input: lexiconPrompt(words),
