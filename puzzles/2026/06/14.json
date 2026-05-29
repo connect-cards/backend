@@ -1,17 +1,10 @@
 {
   "date": "2026-06-14",
-  "version": 1,
-  "difficulty_order": [
-    "easy",
-    "medium",
-    "hard",
-    "very-hard"
-  ],
   "groups": [
     {
       "id": "d14-easy",
       "type": "etymological_relation",
-      "difficulty": 1,
+      "difficulty": "easy",
       "title": "Same root: to see",
       "words": [
         "specter",
@@ -23,7 +16,7 @@
     {
       "id": "d14-medium",
       "type": "synonym",
-      "difficulty": 2,
+      "difficulty": "medium",
       "title": "Near-meaning: criticize sharply",
       "words": [
         "censure",
@@ -35,7 +28,7 @@
     {
       "id": "d14-hard",
       "type": "physical_trait",
-      "difficulty": 3,
+      "difficulty": "hard",
       "title": "Signs of age or strain",
       "words": [
         "wrinkle",
@@ -47,7 +40,7 @@
     {
       "id": "d14-very-hard",
       "type": "thematic_association",
-      "difficulty": 4,
+      "difficulty": "very_hard",
       "title": "The study of shadows",
       "words": [
         "heraldry",

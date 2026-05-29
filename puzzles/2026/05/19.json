@@ -1,17 +1,10 @@
 {
   "date": "2026-05-19",
-  "version": 3,
-  "difficulty_order": [
-    "easy",
-    "medium",
-    "hard",
-    "very-hard"
-  ],
   "groups": [
     {
       "id": "g1",
       "type": "emotional_tone",
-      "difficulty": 1,
+      "difficulty": "easy",
       "title": "Emotional tones",
       "words": [
         "happy",
@@ -23,7 +16,7 @@
     {
       "id": "g2",
       "type": "morphological_family",
-      "difficulty": 2,
+      "difficulty": "medium",
       "title": "Aqua- words",
       "words": [
         "aquatic",
@@ -35,7 +28,7 @@
     {
       "id": "g3",
       "type": "literary_register",
-      "difficulty": 3,
+      "difficulty": "hard",
       "title": "Poetic forms",
       "words": [
         "ode",
@@ -47,7 +40,7 @@
     {
       "id": "g4",
       "type": "physical_trait",
-      "difficulty": 4,
+      "difficulty": "very_hard",
       "title": "Physique descriptors (advanced)",
       "words": [
         "sinewy",

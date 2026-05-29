@@ -1,17 +1,10 @@
 {
   "date": "2026-06-06",
-  "version": 1,
-  "difficulty_order": [
-    "easy",
-    "medium",
-    "hard",
-    "very-hard"
-  ],
   "groups": [
     {
       "id": "D2-E",
       "type": "morphological_family",
-      "difficulty": 1,
+      "difficulty": "easy",
       "title": "Words for a pause in action (family look-alikes)",
       "words": [
         "stasis",
@@ -23,7 +16,7 @@
     {
       "id": "D2-M",
       "type": "synonym",
-      "difficulty": 2,
+      "difficulty": "medium",
       "title": "Skeptical or doubtful",
       "words": [
         "dubious",
@@ -35,7 +28,7 @@
     {
       "id": "D2-H",
       "type": "profession_domain",
-      "difficulty": 3,
+      "difficulty": "hard",
       "title": "People who draft, revise, and argue texts",
       "words": [
         "editor",
@@ -47,7 +40,7 @@
     {
       "id": "D2-VH",
       "type": "literary_register",
-      "difficulty": 4,
+      "difficulty": "very_hard",
       "title": "Archaic or elevated ways to describe speech",
       "words": [
         "orison",

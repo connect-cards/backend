@@ -1,17 +1,10 @@
 {
   "date": "2026-04-12",
-  "version": 1,
-  "difficulty_order": [
-    "easy",
-    "medium",
-    "hard",
-    "very-hard"
-  ],
   "groups": [
     {
       "id": "d4-easy",
       "type": "synonym",
-      "difficulty": 1,
+      "difficulty": "easy",
       "title": "A sudden, sharp decline",
       "words": [
         "recede",
@@ -23,7 +16,7 @@
     {
       "id": "d4-medium",
       "type": "emotional_tone",
-      "difficulty": 2,
+      "difficulty": "medium",
       "title": "Strained and uneasy",
       "words": [
         "apprehensive",
@@ -35,7 +28,7 @@
     {
       "id": "d4-hard",
       "type": "semantic_field",
-      "difficulty": 3,
+      "difficulty": "hard",
       "title": "Instruments for judging",
       "words": [
         "criteria",
@@ -47,7 +40,7 @@
     {
       "id": "d4-vhard",
       "type": "profession_domain",
-      "difficulty": 4,
+      "difficulty": "very_hard",
       "title": "Scholarly, rarely used terms",
       "words": [
         "tercet",

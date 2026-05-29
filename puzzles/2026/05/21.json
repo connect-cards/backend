@@ -1,17 +1,10 @@
 {
   "date": "2026-05-21",
-  "version": 1,
-  "difficulty_order": [
-    "easy",
-    "medium",
-    "hard",
-    "very-hard"
-  ],
   "groups": [
     {
       "id": "D1",
       "type": "morphological_family",
-      "difficulty": 1,
+      "difficulty": "easy",
       "title": "Cred root words",
       "words": [
         "credit",
@@ -23,7 +16,7 @@
     {
       "id": "D2",
       "type": "informal_register",
-      "difficulty": 2,
+      "difficulty": "medium",
       "title": "Casual address terms",
       "words": [
         "bro",
@@ -35,7 +28,7 @@
     {
       "id": "D3",
       "type": "thematic_association",
-      "difficulty": 3,
+      "difficulty": "hard",
       "title": "Color terms",
       "words": [
         "scarlet",
@@ -47,7 +40,7 @@
     {
       "id": "D4",
       "type": "semantic_field",
-      "difficulty": 4,
+      "difficulty": "very_hard",
       "title": "Astronomical terms",
       "words": [
         "horizon",

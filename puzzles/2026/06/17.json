@@ -1,17 +1,10 @@
 {
   "date": "2026-06-17",
-  "version": 1,
-  "difficulty_order": [
-    "easy",
-    "medium",
-    "hard",
-    "very-hard"
-  ],
   "groups": [
     {
       "id": "g1",
       "type": "easy",
-      "difficulty": 1,
+      "difficulty": "easy",
       "title": "Shadowy settings",
       "words": [
         "murky",
@@ -23,7 +16,7 @@
     {
       "id": "g2",
       "type": "medium",
-      "difficulty": 2,
+      "difficulty": "medium",
       "title": "Speech-like register",
       "words": [
         "utter",
@@ -35,7 +28,7 @@
     {
       "id": "g3",
       "type": "hard",
-      "difficulty": 3,
+      "difficulty": "hard",
       "title": "Calibrated caution",
       "words": [
         "prudent",
@@ -47,7 +40,7 @@
     {
       "id": "g4",
       "type": "very-hard",
-      "difficulty": 4,
+      "difficulty": "very_hard",
       "title": "Poetic three-line form",
       "words": [
         "tercet",

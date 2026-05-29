@@ -1,17 +1,10 @@
 {
   "date": "2026-05-22",
-  "version": 4,
-  "difficulty_order": [
-    "easy",
-    "medium",
-    "hard",
-    "very-hard"
-  ],
   "groups": [
     {
       "id": "g4e",
       "type": "easy",
-      "difficulty": 1,
+      "difficulty": "easy",
       "title": "Fruits",
       "words": [
         "apple",
@@ -23,7 +16,7 @@
     {
       "id": "g4m",
       "type": "medium",
-      "difficulty": 2,
+      "difficulty": "medium",
       "title": "Observe/Look",
       "words": [
         "watch",
@@ -35,7 +28,7 @@
     {
       "id": "g4h",
       "type": "hard",
-      "difficulty": 3,
+      "difficulty": "hard",
       "title": "Justice/Equity Terms",
       "words": [
         "equity",
@@ -47,7 +40,7 @@
     {
       "id": "g4vh",
       "type": "very-hard",
-      "difficulty": 4,
+      "difficulty": "very_hard",
       "title": "Rare Lexical Items",
       "words": [
         "zephyr",

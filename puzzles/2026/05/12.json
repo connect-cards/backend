@@ -1,17 +1,10 @@
 {
   "date": "2026-05-12",
-  "version": 3,
-  "difficulty_order": [
-    "easy",
-    "medium",
-    "hard",
-    "very-hard"
-  ],
   "groups": [
     {
       "id": "g3e",
       "type": "easy",
-      "difficulty": 1,
+      "difficulty": "easy",
       "title": "Cardinal Directions",
       "words": [
         "north",
@@ -23,7 +16,7 @@
     {
       "id": "g3m",
       "type": "medium",
-      "difficulty": 2,
+      "difficulty": "medium",
       "title": "Cold-Synonym Cluster",
       "words": [
         "chilly",
@@ -35,7 +28,7 @@
     {
       "id": "g3h",
       "type": "hard",
-      "difficulty": 3,
+      "difficulty": "hard",
       "title": "Generous/Beneficent Expressions",
       "words": [
         "benevolent",
@@ -47,7 +40,7 @@
     {
       "id": "g3vh",
       "type": "very-hard",
-      "difficulty": 4,
+      "difficulty": "very_hard",
       "title": "Dark/Eerie Descriptors",
       "words": [
         "eldritch",

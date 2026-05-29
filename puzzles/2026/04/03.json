@@ -1,17 +1,10 @@
 {
   "date": "2026-04-03",
-  "version": 1,
-  "difficulty_order": [
-    "easy",
-    "medium",
-    "hard",
-    "very-hard"
-  ],
   "groups": [
     {
       "id": "g1",
       "type": "informal_register",
-      "difficulty": 1,
+      "difficulty": "easy",
       "title": "EFFECTIVE MISTAKES",
       "words": [
         "oops",
@@ -23,7 +16,7 @@
     {
       "id": "g2",
       "type": "synonym",
-      "difficulty": 2,
+      "difficulty": "medium",
       "title": "TAKEN BACK BY DOUBT",
       "words": [
         "waver",
@@ -35,7 +28,7 @@
     {
       "id": "g3",
       "type": "literary_register",
-      "difficulty": 3,
+      "difficulty": "hard",
       "title": "LITERARY PERSONS",
       "words": [
         "vagrant",
@@ -47,7 +40,7 @@
     {
       "id": "g4",
       "type": "sound_association",
-      "difficulty": 4,
+      "difficulty": "very_hard",
       "title": "NEAR-SOUND MISDIRECTION: SILENT ACTIONS",
       "words": [
         "silted",

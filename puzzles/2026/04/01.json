@@ -1,17 +1,10 @@
 {
   "date": "2026-04-01",
-  "version": 1,
-  "difficulty_order": [
-    "easy",
-    "medium",
-    "hard",
-    "very-hard"
-  ],
   "groups": [
     {
       "id": "g1",
       "type": "profession_domain",
-      "difficulty": 1,
+      "difficulty": "easy",
       "title": "CARTOGRAPHIC PRACTICE",
       "words": [
         "surveyor",
@@ -23,7 +16,7 @@
     {
       "id": "g2",
       "type": "synonym",
-      "difficulty": 2,
+      "difficulty": "medium",
       "title": "SEEKING WITH INTENT",
       "words": [
         "pursue",
@@ -35,7 +28,7 @@
     {
       "id": "g3",
       "type": "morphological_family",
-      "difficulty": 3,
+      "difficulty": "hard",
       "title": "FORCEFUL SPEECH",
       "words": [
         "orate",
@@ -47,7 +40,7 @@
     {
       "id": "g4",
       "type": "sound_association",
-      "difficulty": 4,
+      "difficulty": "very_hard",
       "title": "COUNTERFEIT COINAGE",
       "words": [
         "spurious",

@@ -1,17 +1,10 @@
 {
   "date": "2026-06-19",
-  "version": 1,
-  "difficulty_order": [
-    "easy",
-    "medium",
-    "hard",
-    "very-hard"
-  ],
   "groups": [
     {
       "id": "d19-e",
       "type": "literary_register",
-      "difficulty": 1,
+      "difficulty": "easy",
       "title": "A Cool, Tidy Voice",
       "words": [
         "laconic",
@@ -23,7 +16,7 @@
     {
       "id": "d19-m",
       "type": "synonym",
-      "difficulty": 2,
+      "difficulty": "medium",
       "title": "To Be Appointed",
       "words": [
         "appoint",
@@ -35,7 +28,7 @@
     {
       "id": "d19-h",
       "type": "etymological_relation",
-      "difficulty": 3,
+      "difficulty": "hard",
       "title": "From Greek for 'Judge'",
       "words": [
         "arbitrate",
@@ -47,7 +40,7 @@
     {
       "id": "d19-v",
       "type": "semantic_field",
-      "difficulty": 4,
+      "difficulty": "very_hard",
       "title": "Poetic Units",
       "words": [
         "tercet",

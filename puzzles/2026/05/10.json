@@ -1,17 +1,10 @@
 {
   "date": "2026-05-10",
-  "version": 1,
-  "difficulty_order": [
-    "easy",
-    "medium",
-    "hard",
-    "very-hard"
-  ],
   "groups": [
     {
       "id": "g1e",
       "type": "easy",
-      "difficulty": 1,
+      "difficulty": "easy",
       "title": "Leisurely Movements",
       "words": [
         "stroll",
@@ -23,7 +16,7 @@
     {
       "id": "g1m",
       "type": "medium",
-      "difficulty": 2,
+      "difficulty": "medium",
       "title": "Casual Colloquialisms (Masculine Register)",
       "words": [
         "bloke",
@@ -35,7 +28,7 @@
     {
       "id": "g1h",
       "type": "hard",
-      "difficulty": 3,
+      "difficulty": "hard",
       "title": "Radiant Luminosities (High-Register Light)",
       "words": [
         "scintillating",
@@ -47,7 +40,7 @@
     {
       "id": "g1vh",
       "type": "very-hard",
-      "difficulty": 4,
+      "difficulty": "very_hard",
       "title": "Triadic Terms for Three",
       "words": [
         "triple",

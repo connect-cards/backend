@@ -1,17 +1,10 @@
 {
   "date": "2026-05-18",
-  "version": 2,
-  "difficulty_order": [
-    "easy",
-    "medium",
-    "hard",
-    "very-hard"
-  ],
   "groups": [
     {
       "id": "g1",
       "type": "informal_register",
-      "difficulty": 1,
+      "difficulty": "easy",
       "title": "Casual address terms",
       "words": [
         "dude",
@@ -23,7 +16,7 @@
     {
       "id": "g2",
       "type": "synonym",
-      "difficulty": 2,
+      "difficulty": "medium",
       "title": "Synonyms for happiness",
       "words": [
         "glad",
@@ -35,7 +28,7 @@
     {
       "id": "g3",
       "type": "thematic_association",
-      "difficulty": 3,
+      "difficulty": "hard",
       "title": "Times of day",
       "words": [
         "dawn",
@@ -47,7 +40,7 @@
     {
       "id": "g4",
       "type": "physical_trait",
-      "difficulty": 4,
+      "difficulty": "very_hard",
       "title": "Distinctive physiques (rare terms)",
       "words": [
         "gaunt",

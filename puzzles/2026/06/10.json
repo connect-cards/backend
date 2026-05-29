@@ -1,17 +1,10 @@
 {
   "date": "2026-06-10",
-  "version": 1,
-  "difficulty_order": [
-    "easy",
-    "medium",
-    "hard",
-    "very-hard"
-  ],
   "groups": [
     {
       "id": "d2-easy",
       "type": "sound_association",
-      "difficulty": 1,
+      "difficulty": "easy",
       "title": "Soft, steady percussion",
       "words": [
         "drum",
@@ -23,7 +16,7 @@
     {
       "id": "d2-medium",
       "type": "emotional_tone",
-      "difficulty": 2,
+      "difficulty": "medium",
       "title": "Deliberately cold",
       "words": [
         "icy",
@@ -35,7 +28,7 @@
     {
       "id": "d2-hard",
       "type": "synonym",
-      "difficulty": 3,
+      "difficulty": "hard",
       "title": "To discover by patient reasoning",
       "words": [
         "deduce",
@@ -47,7 +40,7 @@
     {
       "id": "d2-very-hard",
       "type": "etymological_relation",
-      "difficulty": 4,
+      "difficulty": "very_hard",
       "title": "Converging lines of insight",
       "words": [
         "exegesis",

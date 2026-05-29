@@ -25,10 +25,15 @@ export function checkPuzzleExists(date: string) {
 }
 
 export function validatePuzzle(json: any) {
-    // Check duplicates
+    // Check difficulty duplication
+    const difficulties = json.groups.flatMap((g: any) => g.difficulty);
+    const uniqueDifficulties = new Set(difficulties);
+    if (uniqueDifficulties.size !== 4) return false;
+
+    // Check word duplication
     const words = json.groups.flatMap((g: any) => g.words);
-    const unique = new Set(words);
-    if (unique.size !== 16) return false;
+    const uniqueWords = new Set(words);
+    if (uniqueWords.size !== 16) return false;
     return true;
 }
 

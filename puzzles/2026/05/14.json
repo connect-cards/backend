@@ -1,17 +1,10 @@
 {
   "date": "2026-05-14",
-  "version": 2,
-  "difficulty_order": [
-    "easy",
-    "medium",
-    "hard",
-    "very-hard"
-  ],
   "groups": [
     {
       "id": "D2G1",
       "type": "easy",
-      "difficulty": 1,
+      "difficulty": "easy",
       "title": "Literary objects",
       "words": [
         "book",
@@ -23,7 +16,7 @@
     {
       "id": "D2G2",
       "type": "medium",
-      "difficulty": 2,
+      "difficulty": "medium",
       "title": "Short reports/ tidbits",
       "words": [
         "tidbit",
@@ -35,7 +28,7 @@
     {
       "id": "D2G3",
       "type": "hard",
-      "difficulty": 3,
+      "difficulty": "hard",
       "title": "Wise descriptors",
       "words": [
         "perspicacious",
@@ -47,7 +40,7 @@
     {
       "id": "D2G4",
       "type": "very-hard",
-      "difficulty": 4,
+      "difficulty": "very_hard",
       "title": "Esoteric terms",
       "words": [
         "recondite",

@@ -1,17 +1,10 @@
 {
   "date": "2026-06-13",
-  "version": 1,
-  "difficulty_order": [
-    "easy",
-    "medium",
-    "hard",
-    "very-hard"
-  ],
   "groups": [
     {
       "id": "d13-easy",
       "type": "physical_trait",
-      "difficulty": 1,
+      "difficulty": "easy",
       "title": "Keen gaze, quick movement",
       "words": [
         "lithe",
@@ -23,7 +16,7 @@
     {
       "id": "d13-medium",
       "type": "sound_association",
-      "difficulty": 2,
+      "difficulty": "medium",
       "title": "Sounds in the dark",
       "words": [
         "whisper",
@@ -35,7 +28,7 @@
     {
       "id": "d13-hard",
       "type": "profession_domain",
-      "difficulty": 3,
+      "difficulty": "hard",
       "title": "Where ledgers go",
       "words": [
         "auditor",
@@ -47,7 +40,7 @@
     {
       "id": "d13-very-hard",
       "type": "thematic_association",
-      "difficulty": 4,
+      "difficulty": "very_hard",
       "title": "A whispered omen",
       "words": [
         "portent",

@@ -1,17 +1,10 @@
 {
   "date": "2026-04-11",
-  "version": 1,
-  "difficulty_order": [
-    "easy",
-    "medium",
-    "hard",
-    "very-hard"
-  ],
   "groups": [
     {
       "id": "d3-easy",
       "type": "profession_domain",
-      "difficulty": 1,
+      "difficulty": "easy",
       "title": "Drafting tools",
       "words": [
         "compass",
@@ -23,7 +16,7 @@
     {
       "id": "d3-medium",
       "type": "informal_register",
-      "difficulty": 2,
+      "difficulty": "medium",
       "title": "To handle roughly",
       "words": [
         "manhandle",
@@ -35,7 +28,7 @@
     {
       "id": "d3-hard",
       "type": "sound_association",
-      "difficulty": 3,
+      "difficulty": "hard",
       "title": "Vibrations and impacts",
       "words": [
         "clatter",
@@ -47,7 +40,7 @@
     {
       "id": "d3-vhard",
       "type": "emotional_tone",
-      "difficulty": 4,
+      "difficulty": "very_hard",
       "title": "Overtly pleasing, faintly menacing",
       "words": [
         "seductive",

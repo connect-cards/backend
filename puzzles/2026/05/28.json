@@ -1,17 +1,10 @@
 {
   "date": "2026-05-28",
-  "version": 1,
-  "difficulty_order": [
-    "easy",
-    "medium",
-    "hard",
-    "very-hard"
-  ],
   "groups": [
     {
       "id": "g1",
       "type": "thematic_association",
-      "difficulty": 1,
+      "difficulty": "easy",
       "title": "Courtly actions",
       "words": [
         "defer",
@@ -23,7 +16,7 @@
     {
       "id": "g2",
       "type": "morphological_family",
-      "difficulty": 2,
+      "difficulty": "medium",
       "title": "Adjectives from the same root meaning “to see”",
       "words": [
         "visionary",
@@ -35,7 +28,7 @@
     {
       "id": "g3",
       "type": "sound_association",
-      "difficulty": 3,
+      "difficulty": "hard",
       "title": "Faint knocks and similar noises",
       "words": [
         "tapper",
@@ -47,7 +40,7 @@
     {
       "id": "g4",
       "type": "physical_trait",
-      "difficulty": 4,
+      "difficulty": "very_hard",
       "title": "Archaic descriptions of complexion",
       "words": [
         "sallow",

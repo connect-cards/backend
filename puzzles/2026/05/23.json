@@ -1,17 +1,10 @@
 {
   "date": "2026-05-23",
-  "version": 1,
-  "difficulty_order": [
-    "easy",
-    "medium",
-    "hard",
-    "very-hard"
-  ],
   "groups": [
     {
       "id": "G1",
       "type": "informal_register",
-      "difficulty": 1,
+      "difficulty": "easy",
       "title": "informal",
       "words": [
         "pal",
@@ -23,7 +16,7 @@
     {
       "id": "G2",
       "type": "profession_domain",
-      "difficulty": 2,
+      "difficulty": "medium",
       "title": "professions",
       "words": [
         "baker",
@@ -35,7 +28,7 @@
     {
       "id": "G3",
       "type": "physical_trait",
-      "difficulty": 3,
+      "difficulty": "hard",
       "title": "appearance",
       "words": [
         "stature",
@@ -47,7 +40,7 @@
     {
       "id": "G4",
       "type": "etymological_relation",
-      "difficulty": 4,
+      "difficulty": "very_hard",
       "title": "etymology",
       "words": [
         "benevolent",

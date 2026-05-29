@@ -1,17 +1,10 @@
 {
   "date": "2026-05-08",
-  "version": 4,
-  "difficulty_order": [
-    "easy",
-    "medium",
-    "hard",
-    "very-hard"
-  ],
   "groups": [
     {
       "id": "p4_easy",
       "type": "easy",
-      "difficulty": 1,
+      "difficulty": "easy",
       "title": "WEATHER",
       "words": [
         "rain",
@@ -23,7 +16,7 @@
     {
       "id": "p4_medium",
       "type": "medium",
-      "difficulty": 2,
+      "difficulty": "medium",
       "title": "INFORMAL_REG",
       "words": [
         "cool",
@@ -35,7 +28,7 @@
     {
       "id": "p4_hard",
       "type": "hard",
-      "difficulty": 3,
+      "difficulty": "hard",
       "title": "PHYSICAL_TRAITS",
       "words": [
         "tall",
@@ -47,7 +40,7 @@
     {
       "id": "p4_veryhard",
       "type": "very-hard",
-      "difficulty": 4,
+      "difficulty": "very_hard",
       "title": "PORTS",
       "words": [
         "import",

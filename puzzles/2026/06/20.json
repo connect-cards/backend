@@ -1,17 +1,10 @@
 {
   "date": "2026-06-20",
-  "version": 1,
-  "difficulty_order": [
-    "easy",
-    "medium",
-    "hard",
-    "very-hard"
-  ],
   "groups": [
     {
       "id": "d20-e",
       "type": "semantic_field",
-      "difficulty": 1,
+      "difficulty": "easy",
       "title": "Signs of Weathering",
       "words": [
         "decay",
@@ -23,7 +16,7 @@
     {
       "id": "d20-m",
       "type": "etymological_relation",
-      "difficulty": 2,
+      "difficulty": "medium",
       "title": "Speaking Plainly (Street vs. Formal)",
       "words": [
         "say",
@@ -35,7 +28,7 @@
     {
       "id": "d20-h",
       "type": "informal_register",
-      "difficulty": 3,
+      "difficulty": "hard",
       "title": "Difficult to Please",
       "words": [
         "picky",
@@ -47,7 +40,7 @@
     {
       "id": "d20-v",
       "type": "thematic_association",
-      "difficulty": 4,
+      "difficulty": "very_hard",
       "title": "Faintly Uncanny",
       "words": [
         "eldritch",

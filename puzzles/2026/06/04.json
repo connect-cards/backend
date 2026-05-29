@@ -1,17 +1,10 @@
 {
   "date": "2026-06-04",
-  "version": 1,
-  "difficulty_order": [
-    "easy",
-    "medium",
-    "hard",
-    "very-hard"
-  ],
   "groups": [
     {
       "id": "d4-easy",
       "type": "semantic_field",
-      "difficulty": 1,
+      "difficulty": "easy",
       "title": "Quick, bright flashes",
       "words": [
         "glimmer",
@@ -23,7 +16,7 @@
     {
       "id": "d4-medium",
       "type": "etymological_relation",
-      "difficulty": 2,
+      "difficulty": "medium",
       "title": "Roots of speaking",
       "words": [
         "orator",
@@ -35,7 +28,7 @@
     {
       "id": "d4-hard",
       "type": "profession_domain",
-      "difficulty": 3,
+      "difficulty": "hard",
       "title": "Medical record language",
       "words": [
         "prognosis",
@@ -47,7 +40,7 @@
     {
       "id": "d4-very-hard",
       "type": "synonym",
-      "difficulty": 4,
+      "difficulty": "very_hard",
       "title": "Subtle negation, lofty phrasing",
       "words": [
         "refute",

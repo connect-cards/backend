@@ -1,17 +1,10 @@
 {
   "date": "2026-06-05",
-  "version": 1,
-  "difficulty_order": [
-    "easy",
-    "medium",
-    "hard",
-    "very-hard"
-  ],
   "groups": [
     {
       "id": "D1-E",
       "type": "synonym",
-      "difficulty": 1,
+      "difficulty": "easy",
       "title": "Close in meaning (but not all interchangeable)",
       "words": [
         "quell",
@@ -23,7 +16,7 @@
     {
       "id": "D1-M",
       "type": "thematic_association",
-      "difficulty": 2,
+      "difficulty": "medium",
       "title": "Storms and their outcomes",
       "words": [
         "tempest",
@@ -35,7 +28,7 @@
     {
       "id": "D1-H",
       "type": "morphological_family",
-      "difficulty": 3,
+      "difficulty": "hard",
       "title": "Share a root: speech and refusal",
       "words": [
         "orate",
@@ -47,7 +40,7 @@
     {
       "id": "D1-VH",
       "type": "physical_trait",
-      "difficulty": 4,
+      "difficulty": "very_hard",
       "title": "Not the same look, but the same sort of mark",
       "words": [
         "freckle",

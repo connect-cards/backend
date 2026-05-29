@@ -1,17 +1,10 @@
 {
   "date": "2026-05-01",
-  "version": 2,
-  "difficulty_order": [
-    "easy",
-    "medium",
-    "hard",
-    "very-hard"
-  ],
   "groups": [
     {
       "id": "g_easy2",
       "type": "easy",
-      "difficulty": 1,
+      "difficulty": "easy",
       "title": "Common household objects",
       "words": [
         "chair",
@@ -23,7 +16,7 @@
     {
       "id": "g_medium2",
       "type": "medium",
-      "difficulty": 2,
+      "difficulty": "medium",
       "title": "Humor styles",
       "words": [
         "droll",
@@ -35,7 +28,7 @@
     {
       "id": "g_hard2",
       "type": "hard",
-      "difficulty": 3,
+      "difficulty": "hard",
       "title": "Acute intelligence terms",
       "words": [
         "erudite",
@@ -47,7 +40,7 @@
     {
       "id": "g_vhard2",
       "type": "very-hard",
-      "difficulty": 4,
+      "difficulty": "very_hard",
       "title": "Obscure sensory terms",
       "words": [
         "apricity",

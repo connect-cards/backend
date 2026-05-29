@@ -1,17 +1,10 @@
 {
   "date": "2026-05-02",
-  "version": 3,
-  "difficulty_order": [
-    "easy",
-    "medium",
-    "hard",
-    "very-hard"
-  ],
   "groups": [
     {
       "id": "g_easy3",
       "type": "easy",
-      "difficulty": 1,
+      "difficulty": "easy",
       "title": "Emotional states",
       "words": [
         "calm",
@@ -23,7 +16,7 @@
     {
       "id": "g_medium3",
       "type": "medium",
-      "difficulty": 2,
+      "difficulty": "medium",
       "title": "Bodies of water",
       "words": [
         "river",
@@ -35,7 +28,7 @@
     {
       "id": "g_hard3",
       "type": "hard",
-      "difficulty": 3,
+      "difficulty": "hard",
       "title": "Color semantics",
       "words": [
         "hue",
@@ -47,7 +40,7 @@
     {
       "id": "g_vhard3",
       "type": "very-hard",
-      "difficulty": 4,
+      "difficulty": "very_hard",
       "title": "Morphology family of act",
       "words": [
         "act",

@@ -1,17 +1,10 @@
 {
   "date": "2026-06-18",
-  "version": 1,
-  "difficulty_order": [
-    "easy",
-    "medium",
-    "hard",
-    "very-hard"
-  ],
   "groups": [
     {
       "id": "d18-e",
       "type": "semantic_field",
-      "difficulty": 1,
+      "difficulty": "easy",
       "title": "Light on the Water",
       "words": [
         "glitter",
@@ -23,7 +16,7 @@
     {
       "id": "d18-m",
       "type": "morphological_family",
-      "difficulty": 2,
+      "difficulty": "medium",
       "title": "The Act of Reading",
       "words": [
         "interpret",
@@ -35,7 +28,7 @@
     {
       "id": "d18-h",
       "type": "profession_domain",
-      "difficulty": 3,
+      "difficulty": "hard",
       "title": "Lawyers of Fact",
       "words": [
         "forensic",
@@ -47,7 +40,7 @@
     {
       "id": "d18-v",
       "type": "thematic_association",
-      "difficulty": 4,
+      "difficulty": "very_hard",
       "title": "Doubt and Misgiving",
       "words": [
         "skepticism",

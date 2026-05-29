@@ -1,17 +1,10 @@
 {
   "date": "2026-05-31",
-  "version": 1,
-  "difficulty_order": [
-    "easy",
-    "medium",
-    "hard",
-    "very-hard"
-  ],
   "groups": [
     {
       "id": "G1",
       "type": "informal_register",
-      "difficulty": 1,
+      "difficulty": "easy",
       "title": "slang",
       "words": [
         "yo",
@@ -23,7 +16,7 @@
     {
       "id": "G2",
       "type": "profession_domain",
-      "difficulty": 2,
+      "difficulty": "medium",
       "title": "professions",
       "words": [
         "doctor",
@@ -35,7 +28,7 @@
     {
       "id": "G3",
       "type": "thematic_association",
-      "difficulty": 3,
+      "difficulty": "hard",
       "title": "birds",
       "words": [
         "raven",
@@ -47,7 +40,7 @@
     {
       "id": "G4",
       "type": "synonym",
-      "difficulty": 4,
+      "difficulty": "very_hard",
       "title": "anger",
       "words": [
         "irate",

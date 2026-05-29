@@ -1,17 +1,10 @@
 {
   "date": "2026-06-11",
-  "version": 1,
-  "difficulty_order": [
-    "easy",
-    "medium",
-    "hard",
-    "very-hard"
-  ],
   "groups": [
     {
       "id": "d3-easy",
       "type": "synonym",
-      "difficulty": 1,
+      "difficulty": "easy",
       "title": "Light, calm movement",
       "words": [
         "glide",
@@ -23,7 +16,7 @@
     {
       "id": "d3-medium",
       "type": "sound_association",
-      "difficulty": 2,
+      "difficulty": "medium",
       "title": "Muffled, low speech",
       "words": [
         "murmur",
@@ -35,7 +28,7 @@
     {
       "id": "d3-hard",
       "type": "informal_register",
-      "difficulty": 3,
+      "difficulty": "hard",
       "title": "Unclear or shaky recollection",
       "words": [
         "hazy",
@@ -47,7 +40,7 @@
     {
       "id": "d3-very-hard",
       "type": "literary_register",
-      "difficulty": 4,
+      "difficulty": "very_hard",
       "title": "A controlled, sparing style",
       "words": [
         "laconic",

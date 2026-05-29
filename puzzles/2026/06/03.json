@@ -1,17 +1,10 @@
 {
   "date": "2026-06-03",
-  "version": 1,
-  "difficulty_order": [
-    "easy",
-    "medium",
-    "hard",
-    "very-hard"
-  ],
   "groups": [
     {
       "id": "d3-easy",
       "type": "profession_domain",
-      "difficulty": 1,
+      "difficulty": "easy",
       "title": "Journalistic craft",
       "words": [
         "editorial",
@@ -23,7 +16,7 @@
     {
       "id": "d3-medium",
       "type": "synonym",
-      "difficulty": 2,
+      "difficulty": "medium",
       "title": "Close in meaning, different shades",
       "words": [
         "bewilder",
@@ -35,7 +28,7 @@
     {
       "id": "d3-hard",
       "type": "literary_register",
-      "difficulty": 3,
+      "difficulty": "hard",
       "title": "Poetic movements",
       "words": [
         "threnody",
@@ -47,7 +40,7 @@
     {
       "id": "d3-very-hard",
       "type": "sound_association",
-      "difficulty": 4,
+      "difficulty": "very_hard",
       "title": "Archaic, ominous aura",
       "words": [
         "eldritch",

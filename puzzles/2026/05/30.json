@@ -1,17 +1,10 @@
 {
   "date": "2026-05-30",
-  "version": 1,
-  "difficulty_order": [
-    "easy",
-    "medium",
-    "hard",
-    "very-hard"
-  ],
   "groups": [
     {
       "id": "G1",
       "type": "emotional_tone",
-      "difficulty": 1,
+      "difficulty": "easy",
       "title": "tone",
       "words": [
         "calm",
@@ -23,7 +16,7 @@
     {
       "id": "G2",
       "type": "semantic_field",
-      "difficulty": 2,
+      "difficulty": "medium",
       "title": "field",
       "words": [
         "iris",
@@ -35,7 +28,7 @@
     {
       "id": "G3",
       "type": "morphological_family",
-      "difficulty": 3,
+      "difficulty": "hard",
       "title": "morphology",
       "words": [
         "import",
@@ -47,7 +40,7 @@
     {
       "id": "G4",
       "type": "synonym",
-      "difficulty": 4,
+      "difficulty": "very_hard",
       "title": "synonym",
       "words": [
         "guffaw",

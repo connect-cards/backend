@@ -1,17 +1,10 @@
 {
   "date": "2026-06-27",
-  "version": 1,
-  "difficulty_order": [
-    "easy",
-    "medium",
-    "hard",
-    "very-hard"
-  ],
   "groups": [
     {
       "id": "g1",
       "type": "semantic_field",
-      "difficulty": 1,
+      "difficulty": "easy",
       "title": "Clear, then careful",
       "words": [
         "clarify",
@@ -23,7 +16,7 @@
     {
       "id": "g2",
       "type": "emotional_tone",
-      "difficulty": 2,
+      "difficulty": "medium",
       "title": "Brief annoyance",
       "words": [
         "irritation",
@@ -35,7 +28,7 @@
     {
       "id": "g3",
       "type": "morphological_family",
-      "difficulty": 3,
+      "difficulty": "hard",
       "title": "Wordings that dodge",
       "words": [
         "equivocate",
@@ -47,7 +40,7 @@
     {
       "id": "g4",
       "type": "synonym",
-      "difficulty": 4,
+      "difficulty": "very_hard",
       "title": "Severe, not just harsh",
       "words": [
         "implacable",

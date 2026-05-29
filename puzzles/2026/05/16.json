@@ -1,17 +1,10 @@
 {
   "date": "2026-05-16",
-  "version": 4,
-  "difficulty_order": [
-    "easy",
-    "medium",
-    "hard",
-    "very-hard"
-  ],
   "groups": [
     {
       "id": "D4G1",
       "type": "easy",
-      "difficulty": 1,
+      "difficulty": "easy",
       "title": "Mood synonyms",
       "words": [
         "happy",
@@ -23,7 +16,7 @@
     {
       "id": "D4G2",
       "type": "medium",
-      "difficulty": 2,
+      "difficulty": "medium",
       "title": "Professions",
       "words": [
         "carpenter",
@@ -35,7 +28,7 @@
     {
       "id": "D4G3",
       "type": "hard",
-      "difficulty": 3,
+      "difficulty": "hard",
       "title": "Emotional tone descriptors",
       "words": [
         "melancholy",
@@ -47,7 +40,7 @@
     {
       "id": "D4G4",
       "type": "very-hard",
-      "difficulty": 4,
+      "difficulty": "very_hard",
       "title": "Aud-root etymology",
       "words": [
         "audible",

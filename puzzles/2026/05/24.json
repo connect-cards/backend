@@ -1,17 +1,10 @@
 {
   "date": "2026-05-24",
-  "version": 1,
-  "difficulty_order": [
-    "easy",
-    "medium",
-    "hard",
-    "very-hard"
-  ],
   "groups": [
     {
       "id": "G1",
       "type": "physical_trait",
-      "difficulty": 1,
+      "difficulty": "easy",
       "title": "appearance",
       "words": [
         "short",
@@ -23,7 +16,7 @@
     {
       "id": "G2",
       "type": "informal_register",
-      "difficulty": 2,
+      "difficulty": "medium",
       "title": "informal",
       "words": [
         "guy",
@@ -35,7 +28,7 @@
     {
       "id": "G3",
       "type": "etymological_relation",
-      "difficulty": 3,
+      "difficulty": "hard",
       "title": "etymology",
       "words": [
         "describe",
@@ -47,7 +40,7 @@
     {
       "id": "G4",
       "type": "emotional_tone",
-      "difficulty": 4,
+      "difficulty": "very_hard",
       "title": "tone",
       "words": [
         "lugubrious",

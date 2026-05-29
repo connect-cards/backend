@@ -1,17 +1,10 @@
 {
   "date": "2026-04-22",
-  "version": 1,
-  "difficulty_order": [
-    "easy",
-    "medium",
-    "hard",
-    "very-hard"
-  ],
   "groups": [
     {
       "id": "g1",
       "type": "physical_trait",
-      "difficulty": 1,
+      "difficulty": "easy",
       "title": "Facial features and impressions",
       "words": [
         "sallow",
@@ -23,7 +16,7 @@
     {
       "id": "g2",
       "type": "profession_domain",
-      "difficulty": 2,
+      "difficulty": "medium",
       "title": "Fields connected to legal judgement",
       "words": [
         "jurist",
@@ -35,7 +28,7 @@
     {
       "id": "g3",
       "type": "thematic_association",
-      "difficulty": 3,
+      "difficulty": "hard",
       "title": "Cold weather and winter travel",
       "words": [
         "blizzard",
@@ -47,7 +40,7 @@
     {
       "id": "g4",
       "type": "literary_register",
-      "difficulty": 4,
+      "difficulty": "very_hard",
       "title": "Formality for talking about refusal",
       "words": [
         "repudiate",

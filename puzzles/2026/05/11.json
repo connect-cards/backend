@@ -1,17 +1,10 @@
 {
   "date": "2026-05-11",
-  "version": 2,
-  "difficulty_order": [
-    "easy",
-    "medium",
-    "hard",
-    "very-hard"
-  ],
   "groups": [
     {
       "id": "g2e",
       "type": "easy",
-      "difficulty": 1,
+      "difficulty": "easy",
       "title": "Household Items",
       "words": [
         "chair",
@@ -23,7 +16,7 @@
     {
       "id": "g2m",
       "type": "medium",
-      "difficulty": 2,
+      "difficulty": "medium",
       "title": "Silent Letters",
       "words": [
         "knight",
@@ -35,7 +28,7 @@
     {
       "id": "g2h",
       "type": "hard",
-      "difficulty": 3,
+      "difficulty": "hard",
       "title": "Polysemous/Multiple Meanings",
       "words": [
         "bank",
@@ -47,7 +40,7 @@
     {
       "id": "g2vh",
       "type": "very-hard",
-      "difficulty": 4,
+      "difficulty": "very_hard",
       "title": "Groups of Three",
       "words": [
         "triple",

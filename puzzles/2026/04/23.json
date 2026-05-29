@@ -1,17 +1,10 @@
 {
   "date": "2026-04-23",
-  "version": 1,
-  "difficulty_order": [
-    "easy",
-    "medium",
-    "hard",
-    "very-hard"
-  ],
   "groups": [
     {
       "id": "g1",
       "type": "literary_register",
-      "difficulty": 1,
+      "difficulty": "easy",
       "title": "Ways to move on foot",
       "words": [
         "stroll",
@@ -23,7 +16,7 @@
     {
       "id": "g2",
       "type": "semantic_field",
-      "difficulty": 2,
+      "difficulty": "medium",
       "title": "Light and its interruption",
       "words": [
         "glare",
@@ -35,7 +28,7 @@
     {
       "id": "g3",
       "type": "informal_register",
-      "difficulty": 3,
+      "difficulty": "hard",
       "title": "Casual names for a person",
       "words": [
         "chap",
@@ -47,7 +40,7 @@
     {
       "id": "g4",
       "type": "morphological_family",
-      "difficulty": 4,
+      "difficulty": "very_hard",
       "title": "From “to see through” (opaque family)",
       "words": [
         "discern",

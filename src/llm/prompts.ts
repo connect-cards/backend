@@ -55,8 +55,9 @@ OBJECTIVE: Create a challenging word-grouping puzzle with:
 
 STRICT REQUIREMENTS:
 - EXACTLY 16 UNIQUE words
-- EXACTLY 4 groups corresponding to 4 DIFFICULTY LEVELS (easy, medium, hard, very-hard)
+- EXACTLY 4 groups corresponding to 4 DIFFICULTY LEVELS (easy, medium, hard, very_hard)
 - EACH group has EXACTLY 4 words
+- EACH difficulty level appears ONCE
 - EXACTLY ONE valid grouping solution
 - NO word overlaps between groups
 - NO proper nouns
@@ -65,16 +66,16 @@ STRICT REQUIREMENTS:
 - Puzzles MUST be different and words across puzzles SHOULD NOT repeat
 
 DIFFICULTY DISTRIBUTION:
-- Easy: accessible but not trivial. Examples:  blade / brand / steel / sword; stroll / wander / ramble / roam.
-- Medium: includes informal, literary, or less common vocabulary. Examples: bloke / chap / lad / fella; murky / dingy / somber / dreary.
-- Hard: uncommon GRE/IELTS vocabulary and near-synonyms preferred over exact synonyms. Examples: scintillating / glittering / sparkly / glittery; laconic / curt / terse / brusque.
-- Very-hard: obscure, archaic, literary, technical, or rarely used words but should still be valid English vocabulary. Examples: tercet / terzetto / ternion / trine; eldritch / uncanny / unearthly / weird. Avoid super long words if possible.
+- easy: accessible but not trivial. Examples:  blade / brand / steel / sword; stroll / wander / ramble / roam.
+- medium: includes informal, literary, or less common vocabulary. Examples: bloke / chap / lad / fella; murky / dingy / somber / dreary.
+- hard: uncommon GRE/IELTS vocabulary and near-synonyms preferred over exact synonyms. Examples: scintillating / glittering / sparkly / glittery; laconic / curt / terse / brusque.
+- very_hard: obscure, archaic, literary, technical, or rarely used words but should still be valid English vocabulary. Examples: tercet / terzetto / ternion / trine; eldritch / uncanny / unearthly / weird. Avoid super long words if possible.
 
 Prefer these difficulty boosters: archaic words, literary vocabulary, words with multiple meanings, misleading overlaps between categories, rare morphological relatives, thematic ambiguity
 
 TARGER VOCABULARY LEVEL:
 - Suitable for IELTS band 7-9, GRE verbal, CEFR level C1-C2
-- At least 4 words should be uncommon for average native speakers
+- At least 2 words should be uncommon for average native speakers
 
 PUZZLES' DATES AND SUGGESTED GROUP TYPES for EACH DAY (use as inspiration -- not label):
 ${dates.map((date: string) => `- Date ${date}: ${pickTypes(types).join(", ")}`).join("\n")}

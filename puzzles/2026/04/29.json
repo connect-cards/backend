@@ -1,17 +1,10 @@
 {
   "date": "2026-04-29",
-  "version": 1,
-  "difficulty_order": [
-    "easy",
-    "medium",
-    "hard",
-    "very-hard"
-  ],
   "groups": [
     {
       "id": "g1",
       "type": "morphological_family",
-      "difficulty": 1,
+      "difficulty": "easy",
       "title": "Swords and their makers",
       "words": [
         "blade",
@@ -23,7 +16,7 @@
     {
       "id": "g2",
       "type": "profession_domain",
-      "difficulty": 2,
+      "difficulty": "medium",
       "title": "Medical instruments and practitioners",
       "words": [
         "stethoscope",
@@ -35,7 +28,7 @@
     {
       "id": "g3",
       "type": "thematic_association",
-      "difficulty": 3,
+      "difficulty": "hard",
       "title": "Manufactured metal for structures",
       "words": [
         "steelwork",
@@ -47,7 +40,7 @@
     {
       "id": "g4",
       "type": "sound_association",
-      "difficulty": 4,
+      "difficulty": "very_hard",
       "title": "Resonant, echoing speech",
       "words": [
         "resonant",

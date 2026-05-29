@@ -1,17 +1,10 @@
 {
   "date": "2026-06-12",
-  "version": 1,
-  "difficulty_order": [
-    "easy",
-    "medium",
-    "hard",
-    "very-hard"
-  ],
   "groups": [
     {
       "id": "d4-easy",
       "type": "informal_register",
-      "difficulty": 1,
+      "difficulty": "easy",
       "title": "Sensible outcomes",
       "words": [
         "workable",
@@ -23,7 +16,7 @@
     {
       "id": "d4-medium",
       "type": "synonym",
-      "difficulty": 2,
+      "difficulty": "medium",
       "title": "To accuse with evidence",
       "words": [
         "charge",
@@ -35,7 +28,7 @@
     {
       "id": "d4-hard",
       "type": "morphological_family",
-      "difficulty": 3,
+      "difficulty": "hard",
       "title": "From watchfulness to vigilance",
       "words": [
         "vigil",
@@ -47,7 +40,7 @@
     {
       "id": "d4-very-hard",
       "type": "sound_association",
-      "difficulty": 4,
+      "difficulty": "very_hard",
       "title": "Eerie, otherworldly atmosphere",
       "words": [
         "eldritch",

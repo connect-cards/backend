@@ -1,17 +1,10 @@
 {
   "date": "2026-06-07",
-  "version": 1,
-  "difficulty_order": [
-    "easy",
-    "medium",
-    "hard",
-    "very-hard"
-  ],
   "groups": [
     {
       "id": "D3-E",
       "type": "thematic_association",
-      "difficulty": 1,
+      "difficulty": "easy",
       "title": "Small movements that feel secretive",
       "words": [
         "slink",
@@ -23,7 +16,7 @@
     {
       "id": "D3-M",
       "type": "emotional_tone",
-      "difficulty": 2,
+      "difficulty": "medium",
       "title": "A low, gloomy mood",
       "words": [
         "morose",
@@ -35,7 +28,7 @@
     {
       "id": "D3-H",
       "type": "profession_domain",
-      "difficulty": 3,
+      "difficulty": "hard",
       "title": "Courtroom and legal maneuvering",
       "words": [
         "adduce",
@@ -47,7 +40,7 @@
     {
       "id": "D3-VH",
       "type": "etymological_relation",
-      "difficulty": 4,
+      "difficulty": "very_hard",
       "title": "From the same Latin root: command and prohibition",
       "words": [
         "proscribe",

@@ -1,17 +1,10 @@
 {
   "date": "2026-05-07",
-  "version": 3,
-  "difficulty_order": [
-    "easy",
-    "medium",
-    "hard",
-    "very-hard"
-  ],
   "groups": [
     {
       "id": "p3_easy",
       "type": "easy",
-      "difficulty": 1,
+      "difficulty": "easy",
       "title": "GREETINGS",
       "words": [
         "hello",
@@ -23,7 +16,7 @@
     {
       "id": "p3_medium",
       "type": "medium",
-      "difficulty": 2,
+      "difficulty": "medium",
       "title": "ACT_ROOT",
       "words": [
         "actor",
@@ -35,7 +28,7 @@
     {
       "id": "p3_hard",
       "type": "hard",
-      "difficulty": 3,
+      "difficulty": "hard",
       "title": "EMOTIONAL_TONE",
       "words": [
         "melancholic",
@@ -47,7 +40,7 @@
     {
       "id": "p3_veryhard",
       "type": "very-hard",
-      "difficulty": 4,
+      "difficulty": "very_hard",
       "title": "ONOMATOPOEIA",
       "words": [
         "clang",

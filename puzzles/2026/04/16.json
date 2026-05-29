@@ -1,17 +1,10 @@
 {
   "date": "2026-04-16",
-  "version": 1,
-  "difficulty_order": [
-    "easy",
-    "medium",
-    "hard",
-    "very-hard"
-  ],
   "groups": [
     {
       "id": "d4_easy",
       "type": "easy",
-      "difficulty": 1,
+      "difficulty": "easy",
       "title": "Thematic: movement (walking)",
       "words": [
         "stroll",
@@ -23,7 +16,7 @@
     {
       "id": "d4_medium",
       "type": "medium",
-      "difficulty": 2,
+      "difficulty": "medium",
       "title": "Synonym set: speech style",
       "words": [
         "laconic",
@@ -35,7 +28,7 @@
     {
       "id": "d4_hard",
       "type": "hard",
-      "difficulty": 3,
+      "difficulty": "hard",
       "title": "Sound association: spell",
       "words": [
         "censure",
@@ -47,7 +40,7 @@
     {
       "id": "d4_veryhard",
       "type": "very-hard",
-      "difficulty": 4,
+      "difficulty": "very_hard",
       "title": "Etymological relation: occult-like",
       "words": [
         "eldritch",

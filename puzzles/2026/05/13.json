@@ -1,17 +1,10 @@
 {
   "date": "2026-05-13",
-  "version": 1,
-  "difficulty_order": [
-    "easy",
-    "medium",
-    "hard",
-    "very-hard"
-  ],
   "groups": [
     {
       "id": "D1G1",
       "type": "easy",
-      "difficulty": 1,
+      "difficulty": "easy",
       "title": "Kitchenware",
       "words": [
         "knife",
@@ -23,7 +16,7 @@
     {
       "id": "D1G2",
       "type": "medium",
-      "difficulty": 2,
+      "difficulty": "medium",
       "title": "Informal terms for a man",
       "words": [
         "bloke",
@@ -35,7 +28,7 @@
     {
       "id": "D1G3",
       "type": "hard",
-      "difficulty": 3,
+      "difficulty": "hard",
       "title": "Concise manner synonyms",
       "words": [
         "laconic",
@@ -47,7 +40,7 @@
     {
       "id": "D1G4",
       "type": "very-hard",
-      "difficulty": 4,
+      "difficulty": "very_hard",
       "title": "Rare/archaic synonyms for strange",
       "words": [
         "eldritch",

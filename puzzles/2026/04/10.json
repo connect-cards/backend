@@ -1,17 +1,10 @@
 {
   "date": "2026-04-10",
-  "version": 1,
-  "difficulty_order": [
-    "easy",
-    "medium",
-    "hard",
-    "very-hard"
-  ],
   "groups": [
     {
       "id": "d2-easy",
       "type": "semantic_field",
-      "difficulty": 1,
+      "difficulty": "easy",
       "title": "Quiet attempts to fix",
       "words": [
         "mend",
@@ -23,7 +16,7 @@
     {
       "id": "d2-medium",
       "type": "literary_register",
-      "difficulty": 2,
+      "difficulty": "medium",
       "title": "When language turns grim",
       "words": [
         "sombre",
@@ -35,7 +28,7 @@
     {
       "id": "d2-hard",
       "type": "emotional_tone",
-      "difficulty": 3,
+      "difficulty": "hard",
       "title": "Ironic disdain",
       "words": [
         "contempt",
@@ -47,7 +40,7 @@
     {
       "id": "d2-vhard",
       "type": "morphological_family",
-      "difficulty": 4,
+      "difficulty": "very_hard",
       "title": "Doubting the very ground",
       "words": [
         "skeptical",

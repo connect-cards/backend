@@ -1,17 +1,10 @@
 {
   "date": "2026-04-13",
-  "version": 1,
-  "difficulty_order": [
-    "easy",
-    "medium",
-    "hard",
-    "very-hard"
-  ],
   "groups": [
     {
       "id": "d1_easy",
       "type": "easy",
-      "difficulty": 1,
+      "difficulty": "easy",
       "title": "Weapon material",
       "words": [
         "steel",
@@ -23,7 +16,7 @@
     {
       "id": "d1_medium",
       "type": "medium",
-      "difficulty": 2,
+      "difficulty": "medium",
       "title": "Backstreet people",
       "words": [
         "bloke",
@@ -35,7 +28,7 @@
     {
       "id": "d1_hard",
       "type": "hard",
-      "difficulty": 3,
+      "difficulty": "hard",
       "title": "Professional expertise",
       "words": [
         "carpenter",
@@ -47,7 +40,7 @@
     {
       "id": "d1_veryhard",
       "type": "very-hard",
-      "difficulty": 4,
+      "difficulty": "very_hard",
       "title": "Subtle physical cues",
       "words": [
         "scrawny",

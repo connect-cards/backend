@@ -32,13 +32,19 @@ export async function generatePuzzles(dates: string[]) {
     });
 
     const output = response.output_parsed ?? { data: [] };
-    output.data.forEach((puzzle) => {
-        const date = puzzle.date;
+    for (const entry of output.data) {
+        const date = entry.date;
         const [y, m, d] = date.split('-');
-        const filePath = path.join("puzzles", y, m, `${d}.json`);
-        fs.ensureFileSync(filePath);
-        fs.writeFileSync(filePath, JSON.stringify(puzzle, null, 2));
-    });
+        const file = path.join("puzzles", y, m, `${d}.json`);
+
+        // Add puzzles to file
+        fs.ensureFileSync(file);
+        const puzzle: Record<string, any> = {
+            'date': date,
+            'groups':  entry.groups,
+        };
+        fs.writeJSONSync(file, puzzle, { spaces: 4 });
+    };
 
     return output.data;
 }

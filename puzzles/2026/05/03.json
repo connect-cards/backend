@@ -1,17 +1,10 @@
 {
   "date": "2026-05-03",
-  "version": 4,
-  "difficulty_order": [
-    "easy",
-    "medium",
-    "hard",
-    "very-hard"
-  ],
   "groups": [
     {
       "id": "g_easy4",
       "type": "easy",
-      "difficulty": 1,
+      "difficulty": "easy",
       "title": "Emotional tones",
       "words": [
         "elated",
@@ -23,7 +16,7 @@
     {
       "id": "g_medium4",
       "type": "medium",
-      "difficulty": 2,
+      "difficulty": "medium",
       "title": "Religious terms",
       "words": [
         "altar",
@@ -35,7 +28,7 @@
     {
       "id": "g_hard4",
       "type": "hard",
-      "difficulty": 3,
+      "difficulty": "hard",
       "title": "Slang for friends",
       "words": [
         "bros",
@@ -47,7 +40,7 @@
     {
       "id": "g_vhard4",
       "type": "very-hard",
-      "difficulty": 4,
+      "difficulty": "very_hard",
       "title": "Etymological family of bene-",
       "words": [
         "benevolent",

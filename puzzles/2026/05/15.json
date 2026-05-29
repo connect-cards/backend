@@ -1,17 +1,10 @@
 {
   "date": "2026-05-15",
-  "version": 3,
-  "difficulty_order": [
-    "easy",
-    "medium",
-    "hard",
-    "very-hard"
-  ],
   "groups": [
     {
       "id": "D3G1",
       "type": "easy",
-      "difficulty": 1,
+      "difficulty": "easy",
       "title": "Domestic animals",
       "words": [
         "cat",
@@ -23,7 +16,7 @@
     {
       "id": "D3G2",
       "type": "medium",
-      "difficulty": 2,
+      "difficulty": "medium",
       "title": "Music notation terms",
       "words": [
         "tempo",
@@ -35,7 +28,7 @@
     {
       "id": "D3G3",
       "type": "hard",
-      "difficulty": 3,
+      "difficulty": "hard",
       "title": "Clever descriptors",
       "words": [
         "astute",
@@ -47,7 +40,7 @@
     {
       "id": "D3G4",
       "type": "very-hard",
-      "difficulty": 4,
+      "difficulty": "very_hard",
       "title": "Obscure words",
       "words": [
         "defenestrate",

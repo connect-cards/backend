@@ -1,17 +1,10 @@
 {
   "date": "2026-04-15",
-  "version": 1,
-  "difficulty_order": [
-    "easy",
-    "medium",
-    "hard",
-    "very-hard"
-  ],
   "groups": [
     {
       "id": "d3_easy",
       "type": "easy",
-      "difficulty": 1,
+      "difficulty": "easy",
       "title": "Sound-alike: hear",
       "words": [
         "hear",
@@ -23,7 +16,7 @@
     {
       "id": "d3_medium",
       "type": "medium",
-      "difficulty": 2,
+      "difficulty": "medium",
       "title": "Profession domain: legal",
       "words": [
         "prosecutor",
@@ -35,7 +28,7 @@
     {
       "id": "d3_hard",
       "type": "hard",
-      "difficulty": 3,
+      "difficulty": "hard",
       "title": "Semantic field: scrutiny",
       "words": [
         "interrogate",
@@ -47,7 +40,7 @@
     {
       "id": "d3_veryhard",
       "type": "very-hard",
-      "difficulty": 4,
+      "difficulty": "very_hard",
       "title": "Semantic field: the senses",
       "words": [
         "olfactory",
