@@ -5,7 +5,7 @@
       "id": "g1",
       "type": "morphological_family",
       "difficulty": "easy",
-      "title": "Swords and their makers",
+      "title": "swords and their makers",
       "words": [
         "blade",
         "swordsmith",
@@ -17,7 +17,7 @@
       "id": "g2",
       "type": "profession_domain",
       "difficulty": "medium",
-      "title": "Medical instruments and practitioners",
+      "title": "medical instruments and practitioners",
       "words": [
         "stethoscope",
         "surgeon",
@@ -29,7 +29,7 @@
       "id": "g3",
       "type": "thematic_association",
       "difficulty": "hard",
-      "title": "Manufactured metal for structures",
+      "title": "manufactured metal for structures",
       "words": [
         "steelwork",
         "wroughtiron",
@@ -41,7 +41,7 @@
       "id": "g4",
       "type": "sound_association",
       "difficulty": "very_hard",
-      "title": "Resonant, echoing speech",
+      "title": "resonant, echoing speech",
       "words": [
         "resonant",
         "cadence",

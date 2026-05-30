@@ -5,7 +5,7 @@
       "id": "G1",
       "type": "category",
       "difficulty": "easy",
-      "title": "Weather phenomena",
+      "title": "weather phenomena",
       "words": [
         "rain",
         "snow",
@@ -17,7 +17,7 @@
       "id": "G2",
       "type": "category",
       "difficulty": "medium",
-      "title": "Professions",
+      "title": "professions",
       "words": [
         "teacher",
         "engineer",
@@ -29,7 +29,7 @@
       "id": "G3",
       "type": "category",
       "difficulty": "hard",
-      "title": "Silent-letter words",
+      "title": "silent-letter words",
       "words": [
         "hour",
         "honest",
@@ -41,7 +41,7 @@
       "id": "G4",
       "type": "category",
       "difficulty": "very_hard",
-      "title": "Liturgical vestments",
+      "title": "liturgical vestments",
       "words": [
         "amice",
         "alb",

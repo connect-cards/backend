@@ -5,7 +5,7 @@
       "id": "g3e",
       "type": "easy",
       "difficulty": "easy",
-      "title": "Cardinal Directions",
+      "title": "cardinal directions",
       "words": [
         "north",
         "east",
@@ -17,7 +17,7 @@
       "id": "g3m",
       "type": "medium",
       "difficulty": "medium",
-      "title": "Cold-Synonym Cluster",
+      "title": "cold",
       "words": [
         "chilly",
         "frigid",
@@ -29,7 +29,7 @@
       "id": "g3h",
       "type": "hard",
       "difficulty": "hard",
-      "title": "Generous/Beneficent Expressions",
+      "title": "generous/beneficent expressions",
       "words": [
         "benevolent",
         "altruistic",
@@ -41,7 +41,7 @@
       "id": "g3vh",
       "type": "very-hard",
       "difficulty": "very_hard",
-      "title": "Dark/Eerie Descriptors",
+      "title": "dark/eerie descriptors",
       "words": [
         "eldritch",
         "tenebrous",

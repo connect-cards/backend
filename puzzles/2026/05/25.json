@@ -5,7 +5,7 @@
       "id": "group_easy_1c",
       "type": "group",
       "difficulty": "easy",
-      "title": "Easy: Edged Weapons (3)",
+      "title": "edged weapons",
       "words": [
         "blade",
         "knife",
@@ -17,7 +17,7 @@
       "id": "group_medium_1c",
       "type": "group",
       "difficulty": "medium",
-      "title": "Medium: Gloom Synonyms (3)",
+      "title": "gloom",
       "words": [
         "dreary",
         "somber",
@@ -29,7 +29,7 @@
       "id": "group_hard_1c",
       "type": "group",
       "difficulty": "hard",
-      "title": "Hard: Sparkling Synonyms (3)",
+      "title": "sparkling",
       "words": [
         "scintillating",
         "glittering",
@@ -41,7 +41,7 @@
       "id": "group_veryhard_1c",
       "type": "group",
       "difficulty": "very_hard",
-      "title": "Very hard: Darkness Terms (3)",
+      "title": "darkness",
       "words": [
         "eldritch",
         "tenebrous",

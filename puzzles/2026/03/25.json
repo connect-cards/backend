@@ -5,7 +5,7 @@
             "id": "easy-1",
             "type": "easy",
             "difficulty": "easy",
-            "title": "Bright metal or a blade-like idea",
+            "title": "bright metal or a blade-like idea",
             "words": [
                 "brand",
                 "sword",
@@ -17,7 +17,7 @@
             "id": "medium-1",
             "type": "medium",
             "difficulty": "medium",
-            "title": "Informal wandering",
+            "title": "informal wandering",
             "words": [
                 "stroll",
                 "ramble",
@@ -29,7 +29,7 @@
             "id": "hard-1",
             "type": "hard",
             "difficulty": "hard",
-            "title": "To talk vaguely, evade, or hedge",
+            "title": "to talk vaguely, evade, or hedge",
             "words": [
                 "prevaricate",
                 "equivocate",
@@ -41,7 +41,7 @@
             "id": "very_hard-1",
             "type": "very_hard",
             "difficulty": "very_hard",
-            "title": "Resembling truth yet dangerously misleading",
+            "title": "resembling truth yet dangerously misleading",
             "words": [
                 "spurious",
                 "fallacious",

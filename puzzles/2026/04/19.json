@@ -5,7 +5,7 @@
       "id": "g1",
       "type": "physical_trait",
       "difficulty": "easy",
-      "title": "Sharp-edged anger",
+      "title": "sharp-edged anger",
       "words": [
         "barbed",
         "caustic",
@@ -17,7 +17,7 @@
       "id": "g2",
       "type": "sound_association",
       "difficulty": "medium",
-      "title": "Short, cutting bursts",
+      "title": "short, cutting bursts",
       "words": [
         "snap",
         "crack",
@@ -29,7 +29,7 @@
       "id": "g3",
       "type": "profession_domain",
       "difficulty": "hard",
-      "title": "Editorial craft (and close decoys)",
+      "title": "editorial craft",
       "words": [
         "proofread",
         "annotate",
@@ -41,7 +41,7 @@
       "id": "g4",
       "type": "emotional_tone",
       "difficulty": "very_hard",
-      "title": "Archaic dread and foreboding",
+      "title": "archaic dread and foreboding",
       "words": [
         "eldritch",
         "uncanny",

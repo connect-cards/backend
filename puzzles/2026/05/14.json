@@ -5,7 +5,7 @@
       "id": "D2G1",
       "type": "easy",
       "difficulty": "easy",
-      "title": "Literary objects",
+      "title": "literary objects",
       "words": [
         "book",
         "page",
@@ -17,7 +17,7 @@
       "id": "D2G2",
       "type": "medium",
       "difficulty": "medium",
-      "title": "Short reports/ tidbits",
+      "title": "short reports/ tidbits",
       "words": [
         "tidbit",
         "anecdote",
@@ -29,7 +29,7 @@
       "id": "D2G3",
       "type": "hard",
       "difficulty": "hard",
-      "title": "Wise descriptors",
+      "title": "wise descriptors",
       "words": [
         "perspicacious",
         "sagacious",
@@ -41,7 +41,7 @@
       "id": "D2G4",
       "type": "very-hard",
       "difficulty": "very_hard",
-      "title": "Esoteric terms",
+      "title": "esoteric terms",
       "words": [
         "recondite",
         "arcane",

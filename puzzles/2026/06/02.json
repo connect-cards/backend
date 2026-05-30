@@ -5,7 +5,7 @@
       "id": "d2-easy",
       "type": "synonym",
       "difficulty": "easy",
-      "title": "Agreeable in character",
+      "title": "agreeable in character",
       "words": [
         "amicable",
         "cordial",
@@ -17,7 +17,7 @@
       "id": "d2-medium",
       "type": "sound_association",
       "difficulty": "medium",
-      "title": "Near-sounds to mislead",
+      "title": "near-sounds",
       "words": [
         "solemn",
         "serene",
@@ -29,7 +29,7 @@
       "id": "d2-hard",
       "type": "morphological_family",
       "difficulty": "hard",
-      "title": "Imparting guidance",
+      "title": "imparting guidance",
       "words": [
         "instructive",
         "advisory",
@@ -41,7 +41,7 @@
       "id": "d2-very-hard",
       "type": "profession_domain",
       "difficulty": "very_hard",
-      "title": "Legal-tech disputes",
+      "title": "legal-tech disputes",
       "words": [
         "arbitration",
         "litigation",

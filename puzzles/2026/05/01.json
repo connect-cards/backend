@@ -5,7 +5,7 @@
       "id": "g_easy2",
       "type": "easy",
       "difficulty": "easy",
-      "title": "Common household objects",
+      "title": "common household objects",
       "words": [
         "chair",
         "table",
@@ -17,7 +17,7 @@
       "id": "g_medium2",
       "type": "medium",
       "difficulty": "medium",
-      "title": "Humor styles",
+      "title": "humor styles",
       "words": [
         "droll",
         "wry",
@@ -29,7 +29,7 @@
       "id": "g_hard2",
       "type": "hard",
       "difficulty": "hard",
-      "title": "Acute intelligence terms",
+      "title": "acute intelligence terms",
       "words": [
         "erudite",
         "sagacious",
@@ -41,7 +41,7 @@
       "id": "g_vhard2",
       "type": "very-hard",
       "difficulty": "very_hard",
-      "title": "Obscure sensory terms",
+      "title": "obscure sensory terms",
       "words": [
         "apricity",
         "petrichor",

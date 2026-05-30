@@ -5,7 +5,7 @@
       "id": "d4-easy",
       "type": "semantic_field",
       "difficulty": "easy",
-      "title": "Quick, bright flashes",
+      "title": "quick, bright flashes",
       "words": [
         "glimmer",
         "flicker",
@@ -17,7 +17,7 @@
       "id": "d4-medium",
       "type": "etymological_relation",
       "difficulty": "medium",
-      "title": "Roots of speaking",
+      "title": "roots of speaking",
       "words": [
         "orator",
         "oration",
@@ -29,7 +29,7 @@
       "id": "d4-hard",
       "type": "profession_domain",
       "difficulty": "hard",
-      "title": "Medical record language",
+      "title": "medical record language",
       "words": [
         "prognosis",
         "symptom",
@@ -41,7 +41,7 @@
       "id": "d4-very-hard",
       "type": "synonym",
       "difficulty": "very_hard",
-      "title": "Subtle negation, lofty phrasing",
+      "title": "subtle negation, lofty phrasing",
       "words": [
         "refute",
         "disprove",

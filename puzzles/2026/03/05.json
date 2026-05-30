@@ -5,7 +5,7 @@
             "id": "g1",
             "type": "easy",
             "difficulty": "easy",
-            "title": "Sword-making lexicon",
+            "title": "sword-making lexicon",
             "words": [
                 "blade",
                 "sword",
@@ -17,7 +17,7 @@
             "id": "g2",
             "type": "medium",
             "difficulty": "medium",
-            "title": "Clandestine pursuit",
+            "title": "clandestine pursuit",
             "words": [
                 "covert",
                 "stealth",
@@ -29,7 +29,7 @@
             "id": "g3",
             "type": "hard",
             "difficulty": "hard",
-            "title": "Lament in literature",
+            "title": "lament",
             "words": [
                 "lamentation",
                 "dirge",
@@ -41,7 +41,7 @@
             "id": "g4",
             "type": "very_hard",
             "difficulty": "very_hard",
-            "title": "Etymological web: -graphy of writing",
+            "title": "-graphy of writing",
             "words": [
                 "logography",
                 "iconography",

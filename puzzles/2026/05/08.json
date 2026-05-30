@@ -5,7 +5,7 @@
       "id": "p4_easy",
       "type": "easy",
       "difficulty": "easy",
-      "title": "WEATHER",
+      "title": "weather",
       "words": [
         "rain",
         "wind",
@@ -17,7 +17,7 @@
       "id": "p4_medium",
       "type": "medium",
       "difficulty": "medium",
-      "title": "INFORMAL_REG",
+      "title": "informal",
       "words": [
         "cool",
         "awesome",
@@ -29,7 +29,7 @@
       "id": "p4_hard",
       "type": "hard",
       "difficulty": "hard",
-      "title": "PHYSICAL_TRAITS",
+      "title": "physical traits",
       "words": [
         "tall",
         "slender",
@@ -41,7 +41,7 @@
       "id": "p4_veryhard",
       "type": "very-hard",
       "difficulty": "very_hard",
-      "title": "PORTS",
+      "title": "ports",
       "words": [
         "import",
         "export",

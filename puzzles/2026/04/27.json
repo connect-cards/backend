@@ -5,7 +5,7 @@
       "id": "g1",
       "type": "informal_register",
       "difficulty": "easy",
-      "title": "Quick Decisions",
+      "title": "quick decisions",
       "words": [
         "decide",
         "choose",
@@ -17,7 +17,7 @@
       "id": "g2",
       "type": "profession_domain",
       "difficulty": "medium",
-      "title": "Financial Street Talk (Legit)",
+      "title": "financial street talk",
       "words": [
         "ledger",
         "debt",
@@ -29,7 +29,7 @@
       "id": "g3",
       "type": "morphological_family",
       "difficulty": "hard",
-      "title": "Relatives of -scrib- (writing)",
+      "title": "relatives of -scrib-",
       "words": [
         "scribble",
         "describe",
@@ -41,7 +41,7 @@
       "id": "g4",
       "type": "thematic_association",
       "difficulty": "very_hard",
-      "title": "Archaic Judgments",
+      "title": "archaic judgments",
       "words": [
         "wherein",
         "henceforth",

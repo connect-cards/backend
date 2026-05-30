@@ -5,7 +5,7 @@
       "id": "d3-easy",
       "type": "synonym",
       "difficulty": "easy",
-      "title": "Light, calm movement",
+      "title": "light, calm movement",
       "words": [
         "glide",
         "float",
@@ -17,7 +17,7 @@
       "id": "d3-medium",
       "type": "sound_association",
       "difficulty": "medium",
-      "title": "Muffled, low speech",
+      "title": "muffled, low speech",
       "words": [
         "murmur",
         "mumble",
@@ -29,7 +29,7 @@
       "id": "d3-hard",
       "type": "informal_register",
       "difficulty": "hard",
-      "title": "Unclear or shaky recollection",
+      "title": "unclear or shaky recollection",
       "words": [
         "hazy",
         "foggy",
@@ -41,7 +41,7 @@
       "id": "d3-very-hard",
       "type": "literary_register",
       "difficulty": "very_hard",
-      "title": "A controlled, sparing style",
+      "title": "a controlled, sparing style",
       "words": [
         "laconic",
         "terseness",

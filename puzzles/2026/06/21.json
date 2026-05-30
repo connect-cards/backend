@@ -5,7 +5,7 @@
       "id": "g1",
       "type": "sound_association",
       "difficulty": "easy",
-      "title": "Rhyming pairs, same ending sound",
+      "title": "rhyming pairs, same ending sound",
       "words": [
         "mirth",
         "earth",
@@ -17,7 +17,7 @@
       "id": "g2",
       "type": "synonym",
       "difficulty": "medium",
-      "title": "“Not much” in different registers",
+      "title": "“not much” in different registers",
       "words": [
         "scant",
         "meagre",
@@ -29,7 +29,7 @@
       "id": "g3",
       "type": "semantic_field",
       "difficulty": "hard",
-      "title": "Performances of the mind and voice",
+      "title": "performances of the mind and voice",
       "words": [
         "recite",
         "orate",
@@ -41,7 +41,7 @@
       "id": "g4",
       "type": "emotional_tone",
       "difficulty": "very_hard",
-      "title": "Cold, restrained suspicion",
+      "title": "cold, restrained suspicion",
       "words": [
         "leery",
         "skeptical",

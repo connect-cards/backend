@@ -5,7 +5,7 @@
       "id": "g1",
       "type": "physical_trait",
       "difficulty": "easy",
-      "title": "Facial features and impressions",
+      "title": "facial features and impressions",
       "words": [
         "sallow",
         "freckle",
@@ -17,7 +17,7 @@
       "id": "g2",
       "type": "profession_domain",
       "difficulty": "medium",
-      "title": "Fields connected to legal judgement",
+      "title": "fields connected to legal judgement",
       "words": [
         "jurist",
         "plaintiff",
@@ -29,7 +29,7 @@
       "id": "g3",
       "type": "thematic_association",
       "difficulty": "hard",
-      "title": "Cold weather and winter travel",
+      "title": "cold weather and winter travel",
       "words": [
         "blizzard",
         "avalanche",
@@ -41,7 +41,7 @@
       "id": "g4",
       "type": "literary_register",
       "difficulty": "very_hard",
-      "title": "Formality for talking about refusal",
+      "title": "formality for talking about refusal",
       "words": [
         "repudiate",
         "rebuff",

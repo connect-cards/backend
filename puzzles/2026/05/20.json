@@ -5,7 +5,7 @@
       "id": "g1",
       "type": "informal_register",
       "difficulty": "easy",
-      "title": "Slang terms of approval",
+      "title": "slang terms of approval",
       "words": [
         "cool",
         "awesome",
@@ -17,7 +17,7 @@
       "id": "g2",
       "type": "thematic_association",
       "difficulty": "medium",
-      "title": "Classical elements",
+      "title": "classical elements",
       "words": [
         "earth",
         "air",
@@ -29,7 +29,7 @@
       "id": "g3",
       "type": "synonym",
       "difficulty": "hard",
-      "title": "Synonyms for quickness",
+      "title": "quickness",
       "words": [
         "rapid",
         "swift",
@@ -41,7 +41,7 @@
       "id": "g4",
       "type": "sound_association",
       "difficulty": "very_hard",
-      "title": "Onomatopoeic sounds",
+      "title": "onomatopoeic sounds",
       "words": [
         "clang",
         "whirr",

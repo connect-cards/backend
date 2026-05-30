@@ -5,7 +5,7 @@
       "id": "g1",
       "type": "thematic_association",
       "difficulty": "easy",
-      "title": "Types of travelers",
+      "title": "types of travelers",
       "words": [
         "roamer",
         "stroller",
@@ -17,7 +17,7 @@
       "id": "g2",
       "type": "emotional_tone",
       "difficulty": "medium",
-      "title": "A gloomy emotional cast",
+      "title": "a gloomy emotional cast",
       "words": [
         "melancholy",
         "despair",
@@ -29,7 +29,7 @@
       "id": "g3",
       "type": "synonym",
       "difficulty": "hard",
-      "title": "To look sharply, briefly",
+      "title": "to look sharply, briefly",
       "words": [
         "glance",
         "peek",
@@ -41,7 +41,7 @@
       "id": "g4",
       "type": "physical_trait",
       "difficulty": "very_hard",
-      "title": "Signs of age or wear (subtle)",
+      "title": "signs of age or wear (subtle)",
       "words": [
         "wrinkle",
         "scar",

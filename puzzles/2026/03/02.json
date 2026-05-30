@@ -5,7 +5,7 @@
             "id": "g1",
             "type": "physical_trait",
             "difficulty": "easy",
-            "title": "Walks with rhythm (move about)",
+            "title": "walks with rhythm",
             "words": [
                 "stroll",
                 "wander",
@@ -17,7 +17,7 @@
             "id": "g2",
             "type": "literary_register",
             "difficulty": "medium",
-            "title": "Threadbare emotion (sad, muted)",
+            "title": "threadbare emotion",
             "words": [
                 "sullen",
                 "somber",
@@ -29,7 +29,7 @@
             "id": "g3",
             "type": "informal_register",
             "difficulty": "hard",
-            "title": "Casual male references (everyday talk)",
+            "title": "casual male references",
             "words": [
                 "chap",
                 "bloke",
@@ -41,7 +41,7 @@
             "id": "g4",
             "type": "emotional_tone",
             "difficulty": "very_hard",
-            "title": "Subtle distrust and suspicion",
+            "title": "subtle distrust and suspicion",
             "words": [
                 "cynosure",
                 "misgiving",

@@ -5,7 +5,7 @@
       "id": "g1",
       "type": "profession_domain",
       "difficulty": "easy",
-      "title": "MARITIME NAVIGATION",
+      "title": "maritime navigation",
       "words": [
         "navigator",
         "navigator's",
@@ -17,7 +17,7 @@
       "id": "g2",
       "type": "sound_association",
       "difficulty": "medium",
-      "title": "SUDDEN COLLAPSE SOUNDS",
+      "title": "sudden collapse sounds",
       "words": [
         "crash",
         "splinter",
@@ -29,7 +29,7 @@
       "id": "g3",
       "type": "physical_trait",
       "difficulty": "hard",
-      "title": "MARKED BY CRUST OR FLAKE",
+      "title": "marked by crust or flake",
       "words": [
         "scaly",
         "callused",
@@ -41,7 +41,7 @@
       "id": "g4",
       "type": "literary_register",
       "difficulty": "very_hard",
-      "title": "ARCHEIC STEALTHY TONE",
+      "title": "archeic stealthy tone",
       "words": [
         "eldritch",
         "uncanny",

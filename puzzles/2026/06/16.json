@@ -5,7 +5,7 @@
       "id": "d16-easy",
       "type": "thematic_association",
       "difficulty": "easy",
-      "title": "Painting the air with movement",
+      "title": "painting the air with movement",
       "words": [
         "drift",
         "swirl",
@@ -17,7 +17,7 @@
       "id": "d16-medium",
       "type": "semantic_field",
       "difficulty": "medium",
-      "title": "Questioning without mercy",
+      "title": "questioning without mercy",
       "words": [
         "skeptic",
         "doubt",
@@ -29,7 +29,7 @@
       "id": "d16-hard",
       "type": "profession_domain",
       "difficulty": "hard",
-      "title": "Medical decisions under pressure",
+      "title": "medical decisions under pressure",
       "words": [
         "diagnose",
         "triage",
@@ -41,7 +41,7 @@
       "id": "d16-very-hard",
       "type": "informal_register",
       "difficulty": "very_hard",
-      "title": "Old, sharp ways to describe weirdness",
+      "title": "old, sharp ways to describe weirdness",
       "words": [
         "eldritch",
         "uncanny",

@@ -5,7 +5,7 @@
       "id": "g2e",
       "type": "easy",
       "difficulty": "easy",
-      "title": "Household Items",
+      "title": "household items",
       "words": [
         "chair",
         "table",
@@ -17,7 +17,7 @@
       "id": "g2m",
       "type": "medium",
       "difficulty": "medium",
-      "title": "Silent Letters",
+      "title": "silent letters",
       "words": [
         "knight",
         "gnome",
@@ -29,7 +29,7 @@
       "id": "g2h",
       "type": "hard",
       "difficulty": "hard",
-      "title": "Polysemous/Multiple Meanings",
+      "title": "polysemous/multiple meanings",
       "words": [
         "bank",
         "spring",
@@ -41,7 +41,7 @@
       "id": "g2vh",
       "type": "very-hard",
       "difficulty": "very_hard",
-      "title": "Groups of Three",
+      "title": "groups of three",
       "words": [
         "triple",
         "triad",

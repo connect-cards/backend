@@ -5,7 +5,7 @@
       "id": "g1",
       "type": "semantic_field",
       "difficulty": "easy",
-      "title": "Tools of persuasion",
+      "title": "tools of persuasion",
       "words": [
         "induce",
         "urge",
@@ -17,7 +17,7 @@
       "id": "g2",
       "type": "morphological_family",
       "difficulty": "medium",
-      "title": "Chill and frost",
+      "title": "chill and frost",
       "words": [
         "frosted",
         "icicle",
@@ -29,7 +29,7 @@
       "id": "g3",
       "type": "thematic_association",
       "difficulty": "hard",
-      "title": "Mist over meaning",
+      "title": "mist over meaning",
       "words": [
         "obscure",
         "murky",
@@ -41,7 +41,7 @@
       "id": "g4",
       "type": "sound_association",
       "difficulty": "very_hard",
-      "title": "Sibilant shadows",
+      "title": "sibilant shadows",
       "words": [
         "hiss",
         "sizzle",

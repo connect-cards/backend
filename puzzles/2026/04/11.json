@@ -5,7 +5,7 @@
       "id": "d3-easy",
       "type": "profession_domain",
       "difficulty": "easy",
-      "title": "Drafting tools",
+      "title": "drafting tools",
       "words": [
         "compass",
         "scale",
@@ -17,7 +17,7 @@
       "id": "d3-medium",
       "type": "informal_register",
       "difficulty": "medium",
-      "title": "To handle roughly",
+      "title": "to handle roughly",
       "words": [
         "manhandle",
         "thump",
@@ -29,7 +29,7 @@
       "id": "d3-hard",
       "type": "sound_association",
       "difficulty": "hard",
-      "title": "Vibrations and impacts",
+      "title": "vibrations and impacts",
       "words": [
         "clatter",
         "rumble",
@@ -41,7 +41,7 @@
       "id": "d3-vhard",
       "type": "emotional_tone",
       "difficulty": "very_hard",
-      "title": "Overtly pleasing, faintly menacing",
+      "title": "overtly pleasing, faintly menacing",
       "words": [
         "seductive",
         "luring",

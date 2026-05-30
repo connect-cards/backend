@@ -5,7 +5,7 @@
       "id": "g1",
       "type": "semantic_field",
       "difficulty": "easy",
-      "title": "Clear, then careful",
+      "title": "clear and careful",
       "words": [
         "clarify",
         "resolve",
@@ -17,7 +17,7 @@
       "id": "g2",
       "type": "emotional_tone",
       "difficulty": "medium",
-      "title": "Brief annoyance",
+      "title": "brief annoyance",
       "words": [
         "irritation",
         "annoyance",
@@ -29,7 +29,7 @@
       "id": "g3",
       "type": "morphological_family",
       "difficulty": "hard",
-      "title": "Wordings that dodge",
+      "title": "wordings that dodge",
       "words": [
         "equivocate",
         "evasive",
@@ -41,7 +41,7 @@
       "id": "g4",
       "type": "synonym",
       "difficulty": "very_hard",
-      "title": "Severe, not just harsh",
+      "title": "severe",
       "words": [
         "implacable",
         "relentless",

@@ -5,7 +5,7 @@
       "id": "d14-easy",
       "type": "etymological_relation",
       "difficulty": "easy",
-      "title": "Same root: to see",
+      "title": "root of see",
       "words": [
         "specter",
         "inspect",
@@ -17,7 +17,7 @@
       "id": "d14-medium",
       "type": "synonym",
       "difficulty": "medium",
-      "title": "Near-meaning: criticize sharply",
+      "title": "criticize sharply",
       "words": [
         "censure",
         "denounce",
@@ -29,7 +29,7 @@
       "id": "d14-hard",
       "type": "physical_trait",
       "difficulty": "hard",
-      "title": "Signs of age or strain",
+      "title": "signs of age or strain",
       "words": [
         "wrinkle",
         "weathered",
@@ -41,7 +41,7 @@
       "id": "d14-very-hard",
       "type": "thematic_association",
       "difficulty": "very_hard",
-      "title": "The study of shadows",
+      "title": "the study of shadows",
       "words": [
         "heraldry",
         "iconography",

@@ -5,7 +5,7 @@
       "id": "g1_29",
       "type": "walking_synonyms",
       "difficulty": "easy",
-      "title": "Walking synonyms",
+      "title": "walking synonyms",
       "words": [
         "stroll",
         "wander",
@@ -17,7 +17,7 @@
       "id": "g2_29",
       "type": "informal_male_terms",
       "difficulty": "medium",
-      "title": "Informal male terms",
+      "title": "informal male terms",
       "words": [
         "chap",
         "lad",
@@ -29,7 +29,7 @@
       "id": "g3_29",
       "type": "GRE_light_descriptors",
       "difficulty": "hard",
-      "title": "Bright descriptors (GRE-level)",
+      "title": "bright descriptors",
       "words": [
         "scintillating",
         "effulgent",
@@ -41,7 +41,7 @@
       "id": "g4_29",
       "type": "threefold_terms",
       "difficulty": "very_hard",
-      "title": "Threefold terms",
+      "title": "threefold terms",
       "words": [
         "tercet",
         "terzetto",

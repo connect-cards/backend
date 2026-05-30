@@ -5,7 +5,7 @@
             "id": "g1",
             "type": "informal_register",
             "difficulty": "easy",
-            "title": "Go about, relaxed",
+            "title": "go about, relaxed",
             "words": [
                 "stroll",
                 "wander",
@@ -17,7 +17,7 @@
             "id": "g2",
             "type": "sound_association",
             "difficulty": "medium",
-            "title": "Whispery, airy effects",
+            "title": "whispery, airy effects",
             "words": [
                 "hush",
                 "murmur",
@@ -29,7 +29,7 @@
             "id": "g3",
             "type": "thematic_association",
             "difficulty": "hard",
-            "title": "Artifacts of crime and investigation",
+            "title": "artifacts of crime and investigation",
             "words": [
                 "forensics",
                 "evidence",
@@ -41,7 +41,7 @@
             "id": "g4",
             "type": "semantic_field",
             "difficulty": "very_hard",
-            "title": "Uncanny, otherworldly quality",
+            "title": "uncanny, otherworldly quality",
             "words": [
                 "eldritch",
                 "uncanny",

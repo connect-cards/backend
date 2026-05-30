@@ -5,7 +5,7 @@
       "id": "d3-easy",
       "type": "profession_domain",
       "difficulty": "easy",
-      "title": "Journalistic craft",
+      "title": "journalistic craft",
       "words": [
         "editorial",
         "byline",
@@ -17,7 +17,7 @@
       "id": "d3-medium",
       "type": "synonym",
       "difficulty": "medium",
-      "title": "Close in meaning, different shades",
+      "title": "close in meaning, different shades",
       "words": [
         "bewilder",
         "confound",
@@ -29,7 +29,7 @@
       "id": "d3-hard",
       "type": "literary_register",
       "difficulty": "hard",
-      "title": "Poetic movements",
+      "title": "poetic movements",
       "words": [
         "threnody",
         "canto",
@@ -41,7 +41,7 @@
       "id": "d3-very-hard",
       "type": "sound_association",
       "difficulty": "very_hard",
-      "title": "Archaic, ominous aura",
+      "title": "archaic, ominous aura",
       "words": [
         "eldritch",
         "uncanny",

@@ -5,7 +5,7 @@
             "id": "g1",
             "type": "synonym",
             "difficulty": "easy",
-            "title": "Ordinary talk",
+            "title": "ordinary talk",
             "words": [
                 "chat",
                 "gossip",
@@ -17,7 +17,7 @@
             "id": "g2",
             "type": "emotional_tone",
             "difficulty": "medium",
-            "title": "Unease about fairness",
+            "title": "unease about fairness",
             "words": [
                 "resentful",
                 "bitter",
@@ -29,7 +29,7 @@
             "id": "g3",
             "type": "profession_domain",
             "difficulty": "hard",
-            "title": "Fieldwork details",
+            "title": "fieldwork details",
             "words": [
                 "specimen",
                 "calibrate",
@@ -41,7 +41,7 @@
             "id": "g4",
             "type": "literary_register",
             "difficulty": "very_hard",
-            "title": "Measured persuasion",
+            "title": "measured persuasion",
             "words": [
                 "admonish",
                 "persuade",

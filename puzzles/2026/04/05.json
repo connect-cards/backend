@@ -5,7 +5,7 @@
       "id": "g1",
       "type": "profession_domain",
       "difficulty": "easy",
-      "title": "Trades and their tools",
+      "title": "trades and their tools",
       "words": [
         "carpenter",
         "surgeon",
@@ -17,7 +17,7 @@
       "id": "g2",
       "type": "emotional_tone",
       "difficulty": "medium",
-      "title": "Quietly displeased",
+      "title": "quietly displeased",
       "words": [
         "irritated",
         "annoyed",
@@ -29,7 +29,7 @@
       "id": "g3",
       "type": "thematic_association",
       "difficulty": "hard",
-      "title": "Words for seeing",
+      "title": "words for seeing",
       "words": [
         "scrutinize",
         "perceive",
@@ -41,7 +41,7 @@
       "id": "g4",
       "type": "sound_association",
       "difficulty": "very_hard",
-      "title": "Whispery, breathy effects",
+      "title": "whispery, breathy effects",
       "words": [
         "hush",
         "murmur",

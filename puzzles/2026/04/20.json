@@ -5,7 +5,7 @@
       "id": "g1",
       "type": "thematic_association",
       "difficulty": "easy",
-      "title": "Signs of decline",
+      "title": "signs of decline",
       "words": [
         "decay",
         "deteriorate",
@@ -17,7 +17,7 @@
       "id": "g2",
       "type": "physical_trait",
       "difficulty": "medium",
-      "title": "Wearing down (surface damage)",
+      "title": "wearing down",
       "words": [
         "abrasion",
         "erosion",
@@ -29,7 +29,7 @@
       "id": "g3",
       "type": "literary_register",
       "difficulty": "hard",
-      "title": "Authoritative narrative voice",
+      "title": "authoritative narrative voice",
       "words": [
         "resolute",
         "didactic",
@@ -41,7 +41,7 @@
       "id": "g4",
       "type": "sound_association",
       "difficulty": "very_hard",
-      "title": "Words that imply a gentle, even haunting sound",
+      "title": "a gentle, haunting sound",
       "words": [
         "tremulous",
         "melodious",

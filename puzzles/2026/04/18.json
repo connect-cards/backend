@@ -5,7 +5,7 @@
       "id": "g1",
       "type": "physical_trait",
       "difficulty": "easy",
-      "title": "Texture of lightness",
+      "title": "texture of lightness",
       "words": [
         "silken",
         "feathery",
@@ -17,7 +17,7 @@
       "id": "g2",
       "type": "sound_association",
       "difficulty": "medium",
-      "title": "Low, muffled noises",
+      "title": "low, muffled noises",
       "words": [
         "murmur",
         "muffle",
@@ -29,7 +29,7 @@
       "id": "g3",
       "type": "informal_register",
       "difficulty": "hard",
-      "title": "Casual evaluation (not always flattering)",
+      "title": "casual evaluation",
       "words": [
         "dodgy",
         "sketchy",
@@ -41,7 +41,7 @@
       "id": "g4",
       "type": "semantic_field",
       "difficulty": "very_hard",
-      "title": "Subtle suspicion about truth",
+      "title": "subtle suspicion about truth",
       "words": [
         "equivocal",
         "tenuous",

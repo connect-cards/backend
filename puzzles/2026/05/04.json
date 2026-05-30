@@ -5,7 +5,7 @@
       "id": "g_easy",
       "type": "easy",
       "difficulty": "easy",
-      "title": "Common apparel",
+      "title": "common apparel",
       "words": [
         "hat",
         "coat",
@@ -17,7 +17,7 @@
       "id": "g_medium",
       "type": "medium",
       "difficulty": "medium",
-      "title": "Informal terms for a male person",
+      "title": "a male person",
       "words": [
         "bloke",
         "chap",
@@ -29,7 +29,7 @@
       "id": "g_hard",
       "type": "hard",
       "difficulty": "hard",
-      "title": "Concise synonyms for brevity",
+      "title": "brevity",
       "words": [
         "laconic",
         "curt",
@@ -41,7 +41,7 @@
       "id": "g_vhard",
       "type": "very-hard",
       "difficulty": "very_hard",
-      "title": "Triadic word-set (three-set terms)",
+      "title": "triadic",
       "words": [
         "tercet",
         "terzetto",

@@ -5,7 +5,7 @@
       "id": "D3-E",
       "type": "thematic_association",
       "difficulty": "easy",
-      "title": "Small movements that feel secretive",
+      "title": "small movements that feel secretive",
       "words": [
         "slink",
         "creep",
@@ -17,7 +17,7 @@
       "id": "D3-M",
       "type": "emotional_tone",
       "difficulty": "medium",
-      "title": "A low, gloomy mood",
+      "title": "a low, gloomy mood",
       "words": [
         "morose",
         "sombre",
@@ -29,7 +29,7 @@
       "id": "D3-H",
       "type": "profession_domain",
       "difficulty": "hard",
-      "title": "Courtroom and legal maneuvering",
+      "title": "courtroom and legal maneuvering",
       "words": [
         "adduce",
         "adversary",
@@ -41,7 +41,7 @@
       "id": "D3-VH",
       "type": "etymological_relation",
       "difficulty": "very_hard",
-      "title": "From the same Latin root: command and prohibition",
+      "title": "from the same Latin root: command and prohibition",
       "words": [
         "proscribe",
         "enjoin",

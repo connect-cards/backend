@@ -5,7 +5,7 @@
             "id": "g1",
             "type": "thematic_association",
             "difficulty": "easy",
-            "title": "Household order",
+            "title": "household order",
             "words": [
                 "tidy",
                 "neat",
@@ -17,7 +17,7 @@
             "id": "g2",
             "type": "emotional_tone",
             "difficulty": "medium",
-            "title": "Thinly disguised irritation",
+            "title": "thinly disguised irritation",
             "words": [
                 "annoyed",
                 "nettled",
@@ -29,7 +29,7 @@
             "id": "g3",
             "type": "sound_association",
             "difficulty": "hard",
-            "title": "Quick, sharp interruptions",
+            "title": "quick, sharp interruptions",
             "words": [
                 "interrupt",
                 "interject",
@@ -41,7 +41,7 @@
             "id": "g4",
             "type": "semantic_field",
             "difficulty": "very_hard",
-            "title": "Literary restraint in expression",
+            "title": "literary restraint in expression",
             "words": [
                 "laconic",
                 "terse",

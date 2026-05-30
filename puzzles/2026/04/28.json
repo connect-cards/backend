@@ -5,7 +5,7 @@
       "id": "g1",
       "type": "synonym",
       "difficulty": "easy",
-      "title": "Keep Watch",
+      "title": "keep watch",
       "words": [
         "monitor",
         "observe",
@@ -17,7 +17,7 @@
       "id": "g2",
       "type": "etymological_relation",
       "difficulty": "medium",
-      "title": "From Latin videre: to see",
+      "title": "from latin videre: to see",
       "words": [
         "invisible",
         "vision",
@@ -29,7 +29,7 @@
       "id": "g3",
       "type": "emotional_tone",
       "difficulty": "hard",
-      "title": "Restless Anxiety",
+      "title": "restless anxiety",
       "words": [
         "unease",
         "apprehension",
@@ -41,7 +41,7 @@
       "id": "g4",
       "type": "thematic_association",
       "difficulty": "very_hard",
-      "title": "Rare Literary Negation",
+      "title": "rare literary negation",
       "words": [
         "ungird",
         "unearthly",

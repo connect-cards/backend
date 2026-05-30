@@ -5,7 +5,7 @@
             "id": "g1",
             "type": "etymological_relation",
             "difficulty": "easy",
-            "title": "Metal and blade origins",
+            "title": "metal and blade origins",
             "words": [
                 "blade",
                 "brand",
@@ -17,7 +17,7 @@
             "id": "g2",
             "type": "emotional_tone",
             "difficulty": "medium",
-            "title": "Low, heavy gloom",
+            "title": "low, heavy gloom",
             "words": [
                 "murky",
                 "dingy",
@@ -29,7 +29,7 @@
             "id": "g3",
             "type": "physical_trait",
             "difficulty": "hard",
-            "title": "Dry, cracked surfaces",
+            "title": "dry, cracked surfaces",
             "words": [
                 "parched",
                 "desiccated",
@@ -41,7 +41,7 @@
             "id": "g4",
             "type": "semantic_field",
             "difficulty": "very_hard",
-            "title": "Pragmatic strategy terms",
+            "title": "pragmatic strategy",
             "words": [
                 "expedient",
                 "deliberate",

@@ -5,7 +5,7 @@
       "id": "d20-e",
       "type": "semantic_field",
       "difficulty": "easy",
-      "title": "Signs of Weathering",
+      "title": "signs of weathering",
       "words": [
         "decay",
         "rot",
@@ -17,7 +17,7 @@
       "id": "d20-m",
       "type": "etymological_relation",
       "difficulty": "medium",
-      "title": "Speaking Plainly (Street vs. Formal)",
+      "title": "speaking plainly",
       "words": [
         "say",
         "utter",
@@ -29,7 +29,7 @@
       "id": "d20-h",
       "type": "informal_register",
       "difficulty": "hard",
-      "title": "Difficult to Please",
+      "title": "difficult to please",
       "words": [
         "picky",
         "finicky",
@@ -41,7 +41,7 @@
       "id": "d20-v",
       "type": "thematic_association",
       "difficulty": "very_hard",
-      "title": "Faintly Uncanny",
+      "title": "faintly uncanny",
       "words": [
         "eldritch",
         "unearthly",

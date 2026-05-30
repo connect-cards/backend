@@ -5,7 +5,7 @@
             "id": "g1",
             "type": "emotional_tone",
             "difficulty": "easy",
-            "title": "Lighthearted wandering",
+            "title": "lighthearted wandering",
             "words": [
                 "stroll",
                 "ramble",
@@ -17,7 +17,7 @@
             "id": "g2",
             "type": "synonym",
             "difficulty": "medium",
-            "title": "Slyly shaped speech",
+            "title": "slyly shaped speech",
             "words": [
                 "witty",
                 "canny",
@@ -29,7 +29,7 @@
             "id": "g3",
             "type": "thematic_association",
             "difficulty": "hard",
-            "title": "A workshop of ideas",
+            "title": "a workshop of ideas",
             "words": [
                 "prodigal",
                 "scrupulous",
@@ -41,7 +41,7 @@
             "id": "g4",
             "type": "profession_domain",
             "difficulty": "very_hard",
-            "title": "Legal-linguistic maneuvers",
+            "title": "legal-linguistic maneuvers",
             "words": [
                 "recant",
                 "indict",

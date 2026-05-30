@@ -5,7 +5,7 @@
       "id": "d19-e",
       "type": "literary_register",
       "difficulty": "easy",
-      "title": "A Cool, Tidy Voice",
+      "title": "a cool, tidy voice",
       "words": [
         "laconic",
         "terse",
@@ -17,7 +17,7 @@
       "id": "d19-m",
       "type": "synonym",
       "difficulty": "medium",
-      "title": "To Be Appointed",
+      "title": "to be appointed",
       "words": [
         "appoint",
         "designate",
@@ -29,7 +29,7 @@
       "id": "d19-h",
       "type": "etymological_relation",
       "difficulty": "hard",
-      "title": "From Greek for 'Judge'",
+      "title": "from greek for 'judge'",
       "words": [
         "arbitrate",
         "verdict",
@@ -41,7 +41,7 @@
       "id": "d19-v",
       "type": "semantic_field",
       "difficulty": "very_hard",
-      "title": "Poetic Units",
+      "title": "poetic units",
       "words": [
         "tercet",
         "terzina",

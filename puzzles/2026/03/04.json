@@ -5,7 +5,7 @@
             "id": "g1",
             "type": "literary_register",
             "difficulty": "easy",
-            "title": "Talk like a story (narrative mode)",
+            "title": "talk like a story",
             "words": [
                 "narrate",
                 "recount",
@@ -17,7 +17,7 @@
             "id": "g2",
             "type": "etymological_relation",
             "difficulty": "medium",
-            "title": "Related to vision (Latin roots)",
+            "title": "related to vision",
             "words": [
                 "spectacle",
                 "inspect",
@@ -29,7 +29,7 @@
             "id": "g3",
             "type": "profession_domain",
             "difficulty": "hard",
-            "title": "Medical practice (diagnosis and care)",
+            "title": "medical practice",
             "words": [
                 "diagnose",
                 "therapeutics",
@@ -41,7 +41,7 @@
             "id": "g4",
             "type": "physical_trait",
             "difficulty": "very_hard",
-            "title": "Archaic or technical body/appearance terms",
+            "title": "archaic body/appearance terms",
             "words": [
                 "viscid",
                 "limpid",

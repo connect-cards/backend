@@ -5,7 +5,7 @@
             "id": "g1",
             "type": "synonym",
             "difficulty": "easy",
-            "title": "Amicable strolling",
+            "title": "amicable strolling",
             "words": [
                 "stroll",
                 "wander",
@@ -17,7 +17,7 @@
             "id": "g2",
             "type": "profession_domain",
             "difficulty": "medium",
-            "title": "Culinary roles and tools",
+            "title": "culinary roles and tools",
             "words": [
                 "chef",
                 "pan",
@@ -29,7 +29,7 @@
             "id": "g3",
             "type": "physical_trait",
             "difficulty": "hard",
-            "title": "Descriptions of dimness and low visibility",
+            "title": "descriptions of dimness and low visibility",
             "words": [
                 "murky",
                 "dingy",
@@ -41,7 +41,7 @@
             "id": "g4",
             "type": "informal_register",
             "difficulty": "very_hard",
-            "title": "Casual, slightly archaic slurs for a person",
+            "title": "casual, slightly archaic slurs for a person",
             "words": [
                 "varlet",
                 "knave",

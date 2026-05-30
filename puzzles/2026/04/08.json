@@ -5,7 +5,7 @@
       "id": "g1",
       "type": "synonym",
       "difficulty": "easy",
-      "title": "To solve or decipher",
+      "title": "to solve or decipher",
       "words": [
         "decode",
         "unravel",
@@ -17,7 +17,7 @@
       "id": "g2",
       "type": "etymological_relation",
       "difficulty": "medium",
-      "title": "Greek-root terms for 'fear' or 'dread'",
+      "title": "greek-root terms for 'fear' or 'dread'",
       "words": [
         "phobia",
         "panic",
@@ -29,7 +29,7 @@
       "id": "g3",
       "type": "thematic_association",
       "difficulty": "hard",
-      "title": "Literary criticism vocabulary",
+      "title": "literary criticism vocabulary",
       "words": [
         "allusion",
         "metaphor",
@@ -41,7 +41,7 @@
       "id": "g4",
       "type": "morphological_family",
       "difficulty": "very_hard",
-      "title": "Archaic negation via 'un-' meaning lack",
+      "title": "archaic negation via 'un-' meaning lack",
       "words": [
         "unctionless",
         "unseasoned",

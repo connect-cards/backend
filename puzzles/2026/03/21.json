@@ -5,7 +5,7 @@
             "id": "g1",
             "type": "synonym",
             "difficulty": "easy",
-            "title": "Edge-to-weapon near-equivalents",
+            "title": "edge-to-weapon near-equivalents",
             "words": [
                 "blade",
                 "sabre",
@@ -17,7 +17,7 @@
             "id": "g2",
             "type": "profession_domain",
             "difficulty": "medium",
-            "title": "Medical attendants and their workplaces",
+            "title": "medical attendants and their workplaces",
             "words": [
                 "nurse",
                 "clinic",
@@ -41,7 +41,7 @@
             "id": "g4",
             "type": "etymological_relation",
             "difficulty": "very_hard",
-            "title": "Words shaped by the same Latin root (luc-)",
+            "title": "words shaped by the same Latin root luc-",
             "words": [
                 "lucid",
                 "elucidate",

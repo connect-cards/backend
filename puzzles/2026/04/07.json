@@ -5,7 +5,7 @@
       "id": "g1",
       "type": "informal_register",
       "difficulty": "easy",
-      "title": "Folks, casually",
+      "title": "folks, casually",
       "words": [
         "bloke",
         "lad",
@@ -17,7 +17,7 @@
       "id": "g2",
       "type": "profession_domain",
       "difficulty": "medium",
-      "title": "Medical staff roles",
+      "title": "medical staff roles",
       "words": [
         "paramedic",
         "pharmacist",
@@ -29,7 +29,7 @@
       "id": "g3",
       "type": "morphological_family",
       "difficulty": "hard",
-      "title": "Words built around 'audit'",
+      "title": "words built around 'audit'",
       "words": [
         "auditor",
         "audit",
@@ -41,7 +41,7 @@
       "id": "g4",
       "type": "emotional_tone",
       "difficulty": "very_hard",
-      "title": "Restraint, not anger",
+      "title": "restraint, not anger",
       "words": [
         "stoic",
         "composed",

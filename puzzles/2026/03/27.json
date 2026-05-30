@@ -5,7 +5,7 @@
             "id": "easy-3",
             "type": "easy",
             "difficulty": "easy",
-            "title": "Physical sharpness or edge-like features",
+            "title": "physical sharpness or edge-like features",
             "words": [
                 "pointed",
                 "spiky",
@@ -17,7 +17,7 @@
             "id": "medium-3",
             "type": "medium",
             "difficulty": "medium",
-            "title": "A temperament that is prickly or easily offended",
+            "title": "a temperament that is prickly or easily offended",
             "words": [
                 "touchy",
                 "irritable",
@@ -29,7 +29,7 @@
             "id": "hard-3",
             "type": "hard",
             "difficulty": "hard",
-            "title": "Root meaning connected to rapid movement",
+            "title": "rapid movement",
             "words": [
                 "swift",
                 "velocity",
@@ -41,7 +41,7 @@
             "id": "very_hard-3",
             "type": "very_hard",
             "difficulty": "very_hard",
-            "title": "Obscure terms for a slight bend or twist",
+            "title": "a slight bend or twist",
             "words": [
                 "torsion",
                 "bowing",

@@ -5,7 +5,7 @@
       "id": "D3G1",
       "type": "easy",
       "difficulty": "easy",
-      "title": "Domestic animals",
+      "title": "domestic animals",
       "words": [
         "cat",
         "dog",
@@ -17,7 +17,7 @@
       "id": "D3G2",
       "type": "medium",
       "difficulty": "medium",
-      "title": "Music notation terms",
+      "title": "music notation terms",
       "words": [
         "tempo",
         "clef",
@@ -29,7 +29,7 @@
       "id": "D3G3",
       "type": "hard",
       "difficulty": "hard",
-      "title": "Clever descriptors",
+      "title": "clever descriptors",
       "words": [
         "astute",
         "shrewd",
@@ -41,7 +41,7 @@
       "id": "D3G4",
       "type": "very-hard",
       "difficulty": "very_hard",
-      "title": "Obscure words",
+      "title": "obscure words",
       "words": [
         "defenestrate",
         "petrichor",

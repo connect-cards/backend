@@ -5,7 +5,7 @@
             "id": "g1",
             "type": "emotional_tone",
             "difficulty": "easy",
-            "title": "Mild positive evaluation",
+            "title": "mild positive evaluation",
             "words": [
                 "praise",
                 "approve",
@@ -17,7 +17,7 @@
             "id": "g2",
             "type": "thematic_association",
             "difficulty": "medium",
-            "title": "Money and negotiation contexts",
+            "title": "money and negotiation",
             "words": [
                 "bargain",
                 "tribute",
@@ -29,7 +29,7 @@
             "id": "g3",
             "type": "morphological_family",
             "difficulty": "hard",
-            "title": "-tract: pull/lead as a root family",
+            "title": "-tract",
             "words": [
                 "attract",
                 "distract",
@@ -41,7 +41,7 @@
             "id": "g4",
             "type": "semantic_field",
             "difficulty": "very_hard",
-            "title": "Technical geometry/astrology overlaps (only one true set)",
+            "title": "geometry/astrology",
             "words": [
                 "trine",
                 "ternion",

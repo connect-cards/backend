@@ -5,7 +5,7 @@
       "id": "D1",
       "type": "morphological_family",
       "difficulty": "easy",
-      "title": "Cred root words",
+      "title": "cred root words",
       "words": [
         "credit",
         "credible",
@@ -17,7 +17,7 @@
       "id": "D2",
       "type": "informal_register",
       "difficulty": "medium",
-      "title": "Casual address terms",
+      "title": "casual address terms",
       "words": [
         "bro",
         "dude",
@@ -29,7 +29,7 @@
       "id": "D3",
       "type": "thematic_association",
       "difficulty": "hard",
-      "title": "Color terms",
+      "title": "color terms",
       "words": [
         "scarlet",
         "cerulean",
@@ -41,7 +41,7 @@
       "id": "D4",
       "type": "semantic_field",
       "difficulty": "very_hard",
-      "title": "Astronomical terms",
+      "title": "astronomical terms",
       "words": [
         "horizon",
         "zenith",

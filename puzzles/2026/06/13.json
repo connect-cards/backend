@@ -5,7 +5,7 @@
       "id": "d13-easy",
       "type": "physical_trait",
       "difficulty": "easy",
-      "title": "Keen gaze, quick movement",
+      "title": "keen gaze, quick movement",
       "words": [
         "lithe",
         "vigilant",
@@ -17,7 +17,7 @@
       "id": "d13-medium",
       "type": "sound_association",
       "difficulty": "medium",
-      "title": "Sounds in the dark",
+      "title": "sounds in the dark",
       "words": [
         "whisper",
         "murmur",
@@ -29,7 +29,7 @@
       "id": "d13-hard",
       "type": "profession_domain",
       "difficulty": "hard",
-      "title": "Where ledgers go",
+      "title": "where ledgers go",
       "words": [
         "auditor",
         "scrutinize",
@@ -41,7 +41,7 @@
       "id": "d13-very-hard",
       "type": "thematic_association",
       "difficulty": "very_hard",
-      "title": "A whispered omen",
+      "title": "a whispered omen",
       "words": [
         "portent",
         "auspice",

@@ -3,9 +3,9 @@
   "groups": [
     {
       "id": "d4_easy",
-      "type": "easy",
+      "type": "thematic_association",
       "difficulty": "easy",
-      "title": "Thematic: movement (walking)",
+      "title": "movement",
       "words": [
         "stroll",
         "wander",
@@ -17,7 +17,7 @@
       "id": "d4_medium",
       "type": "medium",
       "difficulty": "medium",
-      "title": "Synonym set: speech style",
+      "title": "speech style",
       "words": [
         "laconic",
         "terse",
@@ -27,9 +27,9 @@
     },
     {
       "id": "d4_hard",
-      "type": "hard",
+      "type": "sound_association",
       "difficulty": "hard",
-      "title": "Sound association: spell",
+      "title": "sound association",
       "words": [
         "censure",
         "censor",
@@ -41,7 +41,7 @@
       "id": "d4_veryhard",
       "type": "very-hard",
       "difficulty": "very_hard",
-      "title": "Etymological relation: occult-like",
+      "title": "occult-like",
       "words": [
         "eldritch",
         "uncanny",

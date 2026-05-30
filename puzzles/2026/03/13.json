@@ -5,7 +5,7 @@
             "id": "g1",
             "type": "emotional_tone",
             "difficulty": "easy",
-            "title": "Dampening gloom",
+            "title": "dampening gloom",
             "words": [
                 "sullen",
                 "somnolent",
@@ -17,7 +17,7 @@
             "id": "g2",
             "type": "literary_register",
             "difficulty": "medium",
-            "title": "Subtly pompous speech",
+            "title": "subtly pompous speech",
             "words": [
                 "oracular",
                 "decorous",
@@ -29,7 +29,7 @@
             "id": "g3",
             "type": "etymological_relation",
             "difficulty": "hard",
-            "title": "Remnants of the same root",
+            "title": "remnants of the same root",
             "words": [
                 "pious",
                 "impious",
@@ -41,7 +41,7 @@
             "id": "g4",
             "type": "semantic_field",
             "difficulty": "very_hard",
-            "title": "Curtain of uncertainty",
+            "title": "curtain of uncertainty",
             "words": [
                 "equivocal",
                 "inchoate",

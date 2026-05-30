@@ -5,7 +5,7 @@
       "id": "g1",
       "type": "literary_register",
       "difficulty": "easy",
-      "title": "Courtly diction (straightforward)",
+      "title": "courtly diction",
       "words": [
         "beget",
         "hence",
@@ -17,7 +17,7 @@
       "id": "g2",
       "type": "thematic_association",
       "difficulty": "medium",
-      "title": "Chain of causation (subtle)",
+      "title": "chain of causation",
       "words": [
         "precipitate",
         "catalyst",
@@ -29,7 +29,7 @@
       "id": "g3",
       "type": "morphological_family",
       "difficulty": "hard",
-      "title": "Reasoned argument (stem-play)",
+      "title": "reasoned argument",
       "words": [
         "ratiocinate",
         "rationale",
@@ -41,7 +41,7 @@
       "id": "g4",
       "type": "etymological_relation",
       "difficulty": "very_hard",
-      "title": "Concerning vision and revelation (misdirection)",
+      "title": "concerning vision and revelation",
       "words": [
         "lucid",
         "illumined",

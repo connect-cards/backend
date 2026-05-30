@@ -5,7 +5,7 @@
       "id": "g1e",
       "type": "easy",
       "difficulty": "easy",
-      "title": "Leisurely Movements",
+      "title": "leisurely movements",
       "words": [
         "stroll",
         "amble",
@@ -17,7 +17,7 @@
       "id": "g1m",
       "type": "medium",
       "difficulty": "medium",
-      "title": "Casual Colloquialisms (Masculine Register)",
+      "title": "casual colloquialisms",
       "words": [
         "bloke",
         "chap",
@@ -29,7 +29,7 @@
       "id": "g1h",
       "type": "hard",
       "difficulty": "hard",
-      "title": "Radiant Luminosities (High-Register Light)",
+      "title": "radiant luminosities",
       "words": [
         "scintillating",
         "effulgent",
@@ -41,7 +41,7 @@
       "id": "g1vh",
       "type": "very-hard",
       "difficulty": "very_hard",
-      "title": "Triadic Terms for Three",
+      "title": "triadic terms for three",
       "words": [
         "triple",
         "triad",

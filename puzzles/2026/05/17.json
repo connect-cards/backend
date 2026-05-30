@@ -5,7 +5,7 @@
       "id": "g1",
       "type": "thematic_association",
       "difficulty": "easy",
-      "title": "Colors of the spectrum",
+      "title": "colors of the spectrum",
       "words": [
         "red",
         "blue",
@@ -17,7 +17,7 @@
       "id": "g2",
       "type": "physical_trait",
       "difficulty": "medium",
-      "title": "Body-descriptor adjectives",
+      "title": "body-descriptor adjectives",
       "words": [
         "tall",
         "short",
@@ -29,7 +29,7 @@
       "id": "g3",
       "type": "literary_register",
       "difficulty": "hard",
-      "title": "Fleeting synonyms",
+      "title": "fleeting synonyms",
       "words": [
         "ephemeral",
         "evanescent",

@@ -5,7 +5,7 @@
             "id": "g1",
             "type": "informal_register",
             "difficulty": "easy",
-            "title": "Fellow, casually",
+            "title": "fellow, casually",
             "words": [
                 "bloke",
                 "chap",
@@ -17,7 +17,7 @@
             "id": "g2",
             "type": "sound_association",
             "difficulty": "medium",
-            "title": "Slam and clap resemblances",
+            "title": "slam and clap resemblances",
             "words": [
                 "clatter",
                 "clause",
@@ -29,7 +29,7 @@
             "id": "g3",
             "type": "semantic_field",
             "difficulty": "hard",
-            "title": "Make tiny changes",
+            "title": "make tiny changes",
             "words": [
                 "modify",
                 "amend",
@@ -41,7 +41,7 @@
             "id": "g4",
             "type": "morphological_family",
             "difficulty": "very_hard",
-            "title": "Civic and administrative derivations",
+            "title": "civic and administrative derivations",
             "words": [
                 "municipal",
                 "muniﬁcent",

@@ -5,7 +5,7 @@
       "id": "D1G1",
       "type": "easy",
       "difficulty": "easy",
-      "title": "Kitchenware",
+      "title": "kitchenware",
       "words": [
         "knife",
         "spoon",
@@ -17,7 +17,7 @@
       "id": "D1G2",
       "type": "medium",
       "difficulty": "medium",
-      "title": "Informal terms for a man",
+      "title": "informal terms for a man",
       "words": [
         "bloke",
         "chap",
@@ -29,7 +29,7 @@
       "id": "D1G3",
       "type": "hard",
       "difficulty": "hard",
-      "title": "Concise manner synonyms",
+      "title": "concise manner synonyms",
       "words": [
         "laconic",
         "curt",
@@ -41,7 +41,7 @@
       "id": "D1G4",
       "type": "very-hard",
       "difficulty": "very_hard",
-      "title": "Rare/archaic synonyms for strange",
+      "title": "strange",
       "words": [
         "eldritch",
         "uncanny",

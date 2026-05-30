@@ -5,7 +5,7 @@
       "id": "d2-easy",
       "type": "sound_association",
       "difficulty": "easy",
-      "title": "Soft, steady percussion",
+      "title": "soft, steady percussion",
       "words": [
         "drum",
         "tap",
@@ -17,7 +17,7 @@
       "id": "d2-medium",
       "type": "emotional_tone",
       "difficulty": "medium",
-      "title": "Deliberately cold",
+      "title": "deliberately cold",
       "words": [
         "icy",
         "chilly",
@@ -29,7 +29,7 @@
       "id": "d2-hard",
       "type": "synonym",
       "difficulty": "hard",
-      "title": "To discover by patient reasoning",
+      "title": "to discover by patient reasoning",
       "words": [
         "deduce",
         "infer",
@@ -41,7 +41,7 @@
       "id": "d2-very-hard",
       "type": "etymological_relation",
       "difficulty": "very_hard",
-      "title": "Converging lines of insight",
+      "title": "converging lines of insight",
       "words": [
         "exegesis",
         "hermeneutics",

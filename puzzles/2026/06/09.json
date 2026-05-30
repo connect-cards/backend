@@ -5,7 +5,7 @@
       "id": "d1-easy",
       "type": "thematic_association",
       "difficulty": "easy",
-      "title": "An outing in the mind",
+      "title": "an outing in the mind",
       "words": [
         "stroll",
         "wander",
@@ -17,7 +17,7 @@
       "id": "d1-medium",
       "type": "informal_register",
       "difficulty": "medium",
-      "title": "Chatty talkers",
+      "title": "chatty talkers",
       "words": [
         "blather",
         "gossip",
@@ -29,7 +29,7 @@
       "id": "d1-hard",
       "type": "synonym",
       "difficulty": "hard",
-      "title": "Quietly resentful",
+      "title": "quietly resentful",
       "words": [
         "resent",
         "rancor",
@@ -41,7 +41,7 @@
       "id": "d1-very-hard",
       "type": "emotional_tone",
       "difficulty": "very_hard",
-      "title": "A chilling undercurrent",
+      "title": "a chilling undercurrent",
       "words": [
         "uncanny",
         "foreboding",

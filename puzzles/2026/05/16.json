@@ -5,7 +5,7 @@
       "id": "D4G1",
       "type": "easy",
       "difficulty": "easy",
-      "title": "Mood synonyms",
+      "title": "mood synonyms",
       "words": [
         "happy",
         "merry",
@@ -17,7 +17,7 @@
       "id": "D4G2",
       "type": "medium",
       "difficulty": "medium",
-      "title": "Professions",
+      "title": "professions",
       "words": [
         "carpenter",
         "baker",
@@ -29,7 +29,7 @@
       "id": "D4G3",
       "type": "hard",
       "difficulty": "hard",
-      "title": "Emotional tone descriptors",
+      "title": "emotional tone descriptors",
       "words": [
         "melancholy",
         "somber",
@@ -41,7 +41,7 @@
       "id": "D4G4",
       "type": "very-hard",
       "difficulty": "very_hard",
-      "title": "Aud-root etymology",
+      "title": "aud-root etymology",
       "words": [
         "audible",
         "audience",

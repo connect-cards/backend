@@ -5,7 +5,7 @@
       "id": "d1-easy",
       "type": "informal_register",
       "difficulty": "easy",
-      "title": "Casual wanderers",
+      "title": "casual wanderers",
       "words": [
         "stroll",
         "amble",
@@ -17,7 +17,7 @@
       "id": "d1-medium",
       "type": "semantic_field",
       "difficulty": "medium",
-      "title": "Signs of darkness",
+      "title": "signs of darkness",
       "words": [
         "murky",
         "obscure",
@@ -29,7 +29,7 @@
       "id": "d1-hard",
       "type": "physical_trait",
       "difficulty": "hard",
-      "title": "Speech that cuts off",
+      "title": "speech that cuts off",
       "words": [
         "laconic",
         "terse",
@@ -41,7 +41,7 @@
       "id": "d1-vhard",
       "type": "etymological_relation",
       "difficulty": "very_hard",
-      "title": "Tangled threads of meaning",
+      "title": "tangled threads of meaning",
       "words": [
         "weaver",
         "warp",

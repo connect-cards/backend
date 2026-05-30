@@ -5,7 +5,7 @@
       "id": "g1",
       "type": "thematic_association",
       "difficulty": "easy",
-      "title": "Rooks in the Library",
+      "title": "rooks in the library",
       "words": [
         "shelf",
         "catalog",
@@ -17,7 +17,7 @@
       "id": "g2",
       "type": "etymological_relation",
       "difficulty": "medium",
-      "title": "Words with a Latin Root: scribere",
+      "title": "words with a latin root: scribere",
       "words": [
         "inscribe",
         "manuscript",
@@ -29,7 +29,7 @@
       "id": "g3",
       "type": "literary_register",
       "difficulty": "hard",
-      "title": "Poetic Launchpad",
+      "title": "poetic launchpad",
       "words": [
         "stanza",
         "metre",
@@ -41,7 +41,7 @@
       "id": "g4",
       "type": "profession_domain",
       "difficulty": "very_hard",
-      "title": "Courtroom Proof",
+      "title": "courtroom proof",
       "words": [
         "affidavit",
         "testimony",

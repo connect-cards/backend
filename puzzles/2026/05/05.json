@@ -5,7 +5,7 @@
       "id": "p1_easy",
       "type": "easy",
       "difficulty": "easy",
-      "title": "TOOLS",
+      "title": "tools",
       "words": [
         "blade",
         "knife",
@@ -17,7 +17,7 @@
       "id": "p1_medium",
       "type": "medium",
       "difficulty": "medium",
-      "title": "MAN_TERMS",
+      "title": "man terms",
       "words": [
         "bloke",
         "chap",
@@ -29,7 +29,7 @@
       "id": "p1_hard",
       "type": "hard",
       "difficulty": "hard",
-      "title": "BREVITY",
+      "title": "brevity",
       "words": [
         "laconic",
         "terse",
@@ -41,7 +41,7 @@
       "id": "p1_veryhard",
       "type": "very-hard",
       "difficulty": "very_hard",
-      "title": "EERINESS",
+      "title": "eeriness",
       "words": [
         "eldritch",
         "uncanny",

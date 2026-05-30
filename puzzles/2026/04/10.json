@@ -5,7 +5,7 @@
       "id": "d2-easy",
       "type": "semantic_field",
       "difficulty": "easy",
-      "title": "Quiet attempts to fix",
+      "title": "quiet attempts to fix",
       "words": [
         "mend",
         "patch",
@@ -17,7 +17,7 @@
       "id": "d2-medium",
       "type": "literary_register",
       "difficulty": "medium",
-      "title": "When language turns grim",
+      "title": "when language turns grim",
       "words": [
         "sombre",
         "dreary",
@@ -29,7 +29,7 @@
       "id": "d2-hard",
       "type": "emotional_tone",
       "difficulty": "hard",
-      "title": "Ironic disdain",
+      "title": "ironic disdain",
       "words": [
         "contempt",
         "contemptuous",
@@ -41,7 +41,7 @@
       "id": "d2-vhard",
       "type": "morphological_family",
       "difficulty": "very_hard",
-      "title": "Doubting the very ground",
+      "title": "doubting the very ground",
       "words": [
         "skeptical",
         "scepticism",

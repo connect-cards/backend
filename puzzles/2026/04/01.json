@@ -5,7 +5,7 @@
       "id": "g1",
       "type": "profession_domain",
       "difficulty": "easy",
-      "title": "CARTOGRAPHIC PRACTICE",
+      "title": "cartographic practice",
       "words": [
         "surveyor",
         "topographer",
@@ -17,7 +17,7 @@
       "id": "g2",
       "type": "synonym",
       "difficulty": "medium",
-      "title": "SEEKING WITH INTENT",
+      "title": "seeking with intent",
       "words": [
         "pursue",
         "courser",
@@ -29,7 +29,7 @@
       "id": "g3",
       "type": "morphological_family",
       "difficulty": "hard",
-      "title": "FORCEFUL SPEECH",
+      "title": "forceful speech",
       "words": [
         "orate",
         "oration",
@@ -41,7 +41,7 @@
       "id": "g4",
       "type": "sound_association",
       "difficulty": "very_hard",
-      "title": "COUNTERFEIT COINAGE",
+      "title": "counterfeit coinage",
       "words": [
         "spurious",
         "forged",

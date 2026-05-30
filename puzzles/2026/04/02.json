@@ -5,7 +5,7 @@
       "id": "g1",
       "type": "physical_trait",
       "difficulty": "easy",
-      "title": "KINDS OF DIMNESS",
+      "title": "kinds of dimness",
       "words": [
         "murky",
         "dismal",
@@ -17,7 +17,7 @@
       "id": "g2",
       "type": "profession_domain",
       "difficulty": "medium",
-      "title": "MEDICAL DIAGNOSTICS",
+      "title": "medical diagnostics",
       "words": [
         "pathologist",
         "radiologist",
@@ -29,7 +29,7 @@
       "id": "g3",
       "type": "thematic_association",
       "difficulty": "hard",
-      "title": "BIBLICAL-JUDGMENT IMAGERY",
+      "title": "biblical-judgment imagery",
       "words": [
         "retribution",
         "judgment",
@@ -41,7 +41,7 @@
       "id": "g4",
       "type": "synonym",
       "difficulty": "very_hard",
-      "title": "RESIST WITH DELAYING TACTICS",
+      "title": "resist with delaying tactics",
       "words": [
         "obviate",
         "stall",

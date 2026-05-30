@@ -5,7 +5,7 @@
             "id": "g1",
             "type": "semantic_field",
             "difficulty": "easy",
-            "title": "Bright metal and cutting tools",
+            "title": "bright metal and cutting tools",
             "words": [
                 "blade",
                 "brand",
@@ -17,7 +17,7 @@
             "id": "g2",
             "type": "emotional_tone",
             "difficulty": "medium",
-            "title": "A bleak, joyless atmosphere",
+            "title": "a bleak, joyless atmosphere",
             "words": [
                 "morbid",
                 "dreary",
@@ -29,7 +29,7 @@
             "id": "g3",
             "type": "morphological_family",
             "difficulty": "hard",
-            "title": "Words that can mean a weighty decision",
+            "title": "a weighty decision",
             "words": [
                 "crucial",
                 "critical",
@@ -41,7 +41,7 @@
             "id": "g4",
             "type": "literary_register",
             "difficulty": "very_hard",
-            "title": "Archaic words for a hostile gaze",
+            "title": "archaic terms for hostile gaze",
             "words": [
                 "frown",
                 "gaze",

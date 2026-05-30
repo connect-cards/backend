@@ -5,7 +5,7 @@
       "id": "p3_easy",
       "type": "easy",
       "difficulty": "easy",
-      "title": "GREETINGS",
+      "title": "greetings",
       "words": [
         "hello",
         "hi",
@@ -17,7 +17,7 @@
       "id": "p3_medium",
       "type": "medium",
       "difficulty": "medium",
-      "title": "ACT_ROOT",
+      "title": "act root",
       "words": [
         "actor",
         "action",
@@ -29,7 +29,7 @@
       "id": "p3_hard",
       "type": "hard",
       "difficulty": "hard",
-      "title": "EMOTIONAL_TONE",
+      "title": "emotional tone",
       "words": [
         "melancholic",
         "solemn",
@@ -41,7 +41,7 @@
       "id": "p3_veryhard",
       "type": "very-hard",
       "difficulty": "very_hard",
-      "title": "ONOMATOPOEIA",
+      "title": "onomatopoeia",
       "words": [
         "clang",
         "hum",

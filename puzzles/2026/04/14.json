@@ -5,7 +5,7 @@
       "id": "d2_easy",
       "type": "easy",
       "difficulty": "easy",
-      "title": "Near-homophones: tide",
+      "title": "near-homophones for tide",
       "words": [
         "tidal",
         "tide",
@@ -17,7 +17,7 @@
       "id": "d2_medium",
       "type": "medium",
       "difficulty": "medium",
-      "title": "Verb family: demand",
+      "title": "demand",
       "words": [
         "require",
         "demand",
@@ -29,7 +29,7 @@
       "id": "d2_hard",
       "type": "hard",
       "difficulty": "hard",
-      "title": "Literary register: desolation",
+      "title": "literary register: desolation",
       "words": [
         "desolate",
         "wretched",
@@ -41,7 +41,7 @@
       "id": "d2_veryhard",
       "type": "very-hard",
       "difficulty": "very_hard",
-      "title": "Archaic literary phrasing",
+      "title": "archaic literary phrasing",
       "words": [
         "perchance",
         "whence",

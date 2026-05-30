@@ -5,7 +5,7 @@
       "id": "g4e",
       "type": "easy",
       "difficulty": "easy",
-      "title": "Fruits",
+      "title": "fruits",
       "words": [
         "apple",
         "banana",
@@ -17,7 +17,7 @@
       "id": "g4m",
       "type": "medium",
       "difficulty": "medium",
-      "title": "Observe/Look",
+      "title": "observe/look",
       "words": [
         "watch",
         "peer",
@@ -29,7 +29,7 @@
       "id": "g4h",
       "type": "hard",
       "difficulty": "hard",
-      "title": "Justice/Equity Terms",
+      "title": "justice/equity terms",
       "words": [
         "equity",
         "parity",
@@ -41,7 +41,7 @@
       "id": "g4vh",
       "type": "very-hard",
       "difficulty": "very_hard",
-      "title": "Rare Lexical Items",
+      "title": "rare lexical items",
       "words": [
         "zephyr",
         "susurrus",

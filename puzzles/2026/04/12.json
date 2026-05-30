@@ -5,7 +5,7 @@
       "id": "d4-easy",
       "type": "synonym",
       "difficulty": "easy",
-      "title": "A sudden, sharp decline",
+      "title": "a sudden, sharp decline",
       "words": [
         "recede",
         "diminish",
@@ -17,7 +17,7 @@
       "id": "d4-medium",
       "type": "emotional_tone",
       "difficulty": "medium",
-      "title": "Strained and uneasy",
+      "title": "strained and uneasy",
       "words": [
         "apprehensive",
         "uneasy",
@@ -29,7 +29,7 @@
       "id": "d4-hard",
       "type": "semantic_field",
       "difficulty": "hard",
-      "title": "Instruments for judging",
+      "title": "instruments for judging",
       "words": [
         "criteria",
         "metrics",
@@ -41,7 +41,7 @@
       "id": "d4-vhard",
       "type": "profession_domain",
       "difficulty": "very_hard",
-      "title": "Scholarly, rarely used terms",
+      "title": "scholarly, rarely used terms",
       "words": [
         "tercet",
         "terzetto",

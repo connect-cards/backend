@@ -5,7 +5,7 @@
             "id": "g1",
             "type": "thematic_association",
             "difficulty": "easy",
-            "title": "Fierce light or fire",
+            "title": "fierce light or fire",
             "words": [
                 "flare",
                 "glimmer",
@@ -17,7 +17,7 @@
             "id": "g2",
             "type": "emotional_tone",
             "difficulty": "medium",
-            "title": "Tension and agitation",
+            "title": "tension and agitation",
             "words": [
                 "restive",
                 "impatient",
@@ -29,7 +29,7 @@
             "id": "g3",
             "type": "informal_register",
             "difficulty": "hard",
-            "title": "Casual dismissals",
+            "title": "casual dismissals",
             "words": [
                 "shilly",
                 "drivel",

@@ -5,7 +5,7 @@
       "id": "D2-E",
       "type": "morphological_family",
       "difficulty": "easy",
-      "title": "Words for a pause in action (family look-alikes)",
+      "title": "words for a pause in action (family look-alikes)",
       "words": [
         "stasis",
         "inaction",
@@ -17,7 +17,7 @@
       "id": "D2-M",
       "type": "synonym",
       "difficulty": "medium",
-      "title": "Skeptical or doubtful",
+      "title": "skeptical or doubtful",
       "words": [
         "dubious",
         "canny",
@@ -29,7 +29,7 @@
       "id": "D2-H",
       "type": "profession_domain",
       "difficulty": "hard",
-      "title": "People who draft, revise, and argue texts",
+      "title": "people who draft, revise, and argue texts",
       "words": [
         "editor",
         "jurist",
@@ -41,7 +41,7 @@
       "id": "D2-VH",
       "type": "literary_register",
       "difficulty": "very_hard",
-      "title": "Archaic or elevated ways to describe speech",
+      "title": "archaic or elevated ways to describe speech",
       "words": [
         "orison",
         "recant",

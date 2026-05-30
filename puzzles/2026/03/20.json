@@ -5,7 +5,7 @@
             "id": "g1",
             "type": "morphological_family",
             "difficulty": "easy",
-            "title": "Forms of restraint",
+            "title": "forms of restraint",
             "words": [
                 "inhibit",
                 "restrain",
@@ -17,7 +17,7 @@
             "id": "g2",
             "type": "profession_domain",
             "difficulty": "medium",
-            "title": "Medical observation",
+            "title": "medical observation",
             "words": [
                 "auscultation",
                 "diagnosis",
@@ -29,7 +29,7 @@
             "id": "g3",
             "type": "literary_register",
             "difficulty": "hard",
-            "title": "Elegant description of nature",
+            "title": "elegant description of nature",
             "words": [
                 "verdant",
                 "luminous",
@@ -41,7 +41,7 @@
             "id": "g4",
             "type": "physical_trait",
             "difficulty": "very_hard",
-            "title": "Rare bodily conditions",
+            "title": "rare bodily conditions",
             "words": [
                 "hidrosis",
                 "alopecia",

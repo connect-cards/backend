@@ -5,7 +5,7 @@
       "id": "g1",
       "type": "easy",
       "difficulty": "easy",
-      "title": "Metal artifacts",
+      "title": "metal artifacts",
       "words": [
         "blade",
         "sword",
@@ -17,7 +17,7 @@
       "id": "g2",
       "type": "medium",
       "difficulty": "medium",
-      "title": "Overcoming unease",
+      "title": "overcoming unease",
       "words": [
         "steady",
         "buoyant",
@@ -29,7 +29,7 @@
       "id": "g3",
       "type": "hard",
       "difficulty": "hard",
-      "title": "Clever restraint",
+      "title": "clever restraint",
       "words": [
         "laconic",
         "terse",
@@ -41,7 +41,7 @@
       "id": "g4",
       "type": "very-hard",
       "difficulty": "very_hard",
-      "title": "Words for a resolved decline",
+      "title": "words for a resolved decline",
       "words": [
         "abjure",
         "revoke",

@@ -5,7 +5,7 @@
       "id": "g_easy3",
       "type": "easy",
       "difficulty": "easy",
-      "title": "Emotional states",
+      "title": "emotional states",
       "words": [
         "calm",
         "happy",
@@ -17,7 +17,7 @@
       "id": "g_medium3",
       "type": "medium",
       "difficulty": "medium",
-      "title": "Bodies of water",
+      "title": "bodies of water",
       "words": [
         "river",
         "stream",
@@ -29,7 +29,7 @@
       "id": "g_hard3",
       "type": "hard",
       "difficulty": "hard",
-      "title": "Color semantics",
+      "title": "color semantics",
       "words": [
         "hue",
         "pigment",
@@ -41,7 +41,7 @@
       "id": "g_vhard3",
       "type": "very-hard",
       "difficulty": "very_hard",
-      "title": "Morphology family of act",
+      "title": "morphology family of act",
       "words": [
         "act",
         "action",

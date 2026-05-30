@@ -5,7 +5,7 @@
       "id": "d1_easy",
       "type": "easy",
       "difficulty": "easy",
-      "title": "Weapon material",
+      "title": "weapon material",
       "words": [
         "steel",
         "blade",
@@ -17,7 +17,7 @@
       "id": "d1_medium",
       "type": "medium",
       "difficulty": "medium",
-      "title": "Backstreet people",
+      "title": "backstreet people",
       "words": [
         "bloke",
         "fella",
@@ -29,7 +29,7 @@
       "id": "d1_hard",
       "type": "hard",
       "difficulty": "hard",
-      "title": "Professional expertise",
+      "title": "professional expertise",
       "words": [
         "carpenter",
         "surveyor",
@@ -41,7 +41,7 @@
       "id": "d1_veryhard",
       "type": "very-hard",
       "difficulty": "very_hard",
-      "title": "Subtle physical cues",
+      "title": "subtle physical cues",
       "words": [
         "scrawny",
         "ruddy",

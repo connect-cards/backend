@@ -5,7 +5,7 @@
       "id": "p2_easy",
       "type": "easy",
       "difficulty": "easy",
-      "title": "COLORS",
+      "title": "colors",
       "words": [
         "crimson",
         "azure",
@@ -17,7 +17,7 @@
       "id": "p2_medium",
       "type": "medium",
       "difficulty": "medium",
-      "title": "OLOGY",
+      "title": "ology",
       "words": [
         "psychology",
         "biology",
@@ -29,7 +29,7 @@
       "id": "p2_hard",
       "type": "hard",
       "difficulty": "hard",
-      "title": "DOMAINS",
+      "title": "domains",
       "words": [
         "medicine",
         "law",
@@ -41,7 +41,7 @@
       "id": "p2_veryhard",
       "type": "very-hard",
       "difficulty": "very_hard",
-      "title": "LITERARY",
+      "title": "literary",
       "words": [
         "epistolary",
         "bardic",

@@ -5,7 +5,7 @@
       "id": "g1",
       "type": "synonym",
       "difficulty": "easy",
-      "title": "Swords and edges",
+      "title": "swords and edges",
       "words": [
         "blade",
         "brand",
@@ -17,7 +17,7 @@
       "id": "g2",
       "type": "physical_trait",
       "difficulty": "medium",
-      "title": "Murky conditions",
+      "title": "murky conditions",
       "words": [
         "murky",
         "dingy",
@@ -29,7 +29,7 @@
       "id": "g3",
       "type": "literary_register",
       "difficulty": "hard",
-      "title": "An elegant way to say “to move slowly”",
+      "title": "an elegant way to say “to move slowly”",
       "words": [
         "stroll",
         "wander",
@@ -41,7 +41,7 @@
       "id": "g4",
       "type": "sound_association",
       "difficulty": "very_hard",
-      "title": "Close to a word for “owl” (and its echoes)",
+      "title": "close to a word for “owl” (and its echoes)",
       "words": [
         "hoot",
         "caw",

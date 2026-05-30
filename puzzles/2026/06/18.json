@@ -5,7 +5,7 @@
       "id": "d18-e",
       "type": "semantic_field",
       "difficulty": "easy",
-      "title": "Light on the Water",
+      "title": "light on the water",
       "words": [
         "glitter",
         "sparkle",
@@ -17,7 +17,7 @@
       "id": "d18-m",
       "type": "morphological_family",
       "difficulty": "medium",
-      "title": "The Act of Reading",
+      "title": "the act of reading",
       "words": [
         "interpret",
         "exegesis",
@@ -29,7 +29,7 @@
       "id": "d18-h",
       "type": "profession_domain",
       "difficulty": "hard",
-      "title": "Lawyers of Fact",
+      "title": "lawyers of fact",
       "words": [
         "forensic",
         "litigator",
@@ -41,7 +41,7 @@
       "id": "d18-v",
       "type": "thematic_association",
       "difficulty": "very_hard",
-      "title": "Doubt and Misgiving",
+      "title": "doubt and misgiving",
       "words": [
         "skepticism",
         "mistrust",

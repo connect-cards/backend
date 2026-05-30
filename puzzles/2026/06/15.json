@@ -5,7 +5,7 @@
       "id": "d15-easy",
       "type": "informal_register",
       "difficulty": "easy",
-      "title": "Casual talk about plans",
+      "title": "casual talk about plans",
       "words": [
         "gonna",
         "aim",
@@ -17,7 +17,7 @@
       "id": "d15-medium",
       "type": "emotional_tone",
       "difficulty": "medium",
-      "title": "Softly admiring",
+      "title": "softly admiring",
       "words": [
         "fondness",
         "affection",
@@ -29,7 +29,7 @@
       "id": "d15-hard",
       "type": "sound_association",
       "difficulty": "hard",
-      "title": "Whirring inevitability",
+      "title": "whirring inevitability",
       "words": [
         "whirr",
         "buzz",
@@ -41,7 +41,7 @@
       "id": "d15-very-hard",
       "type": "profession_domain",
       "difficulty": "very_hard",
-      "title": "High-stakes legal work",
+      "title": "high-stakes legal work",
       "words": [
         "litigant",
         "plaintiff",

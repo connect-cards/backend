@@ -5,7 +5,7 @@
       "id": "g1",
       "type": "literary_register",
       "difficulty": "easy",
-      "title": "Ways to move on foot",
+      "title": "ways to move on foot",
       "words": [
         "stroll",
         "amble",
@@ -17,7 +17,7 @@
       "id": "g2",
       "type": "semantic_field",
       "difficulty": "medium",
-      "title": "Light and its interruption",
+      "title": "light and its interruption",
       "words": [
         "glare",
         "haze",
@@ -29,7 +29,7 @@
       "id": "g3",
       "type": "informal_register",
       "difficulty": "hard",
-      "title": "Casual names for a person",
+      "title": "casual names for a person",
       "words": [
         "chap",
         "bloke",
@@ -41,7 +41,7 @@
       "id": "g4",
       "type": "morphological_family",
       "difficulty": "very_hard",
-      "title": "From “to see through” (opaque family)",
+      "title": "from “to see through”",
       "words": [
         "discern",
         "distinguish",

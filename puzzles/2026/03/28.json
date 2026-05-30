@@ -5,7 +5,7 @@
             "id": "easy-4",
             "type": "easy",
             "difficulty": "easy",
-            "title": "Medical or investigative action",
+            "title": "medical or investigative action",
             "words": [
                 "diagnose",
                 "examine",
@@ -17,7 +17,7 @@
             "id": "medium-4",
             "type": "medium",
             "difficulty": "medium",
-            "title": "Works that look like a scholarly inquiry",
+            "title": "works that look like a scholarly inquiry",
             "words": [
                 "treatise",
                 "monograph",
@@ -29,7 +29,7 @@
             "id": "hard-4",
             "type": "hard",
             "difficulty": "hard",
-            "title": "Profession domain: legal proceedings",
+            "title": "legal proceedings",
             "words": [
                 "litigation",
                 "pleading",
@@ -41,7 +41,7 @@
             "id": "very_hard-4",
             "type": "very_hard",
             "difficulty": "very_hard",
-            "title": "Etymological relatives of Latin for 'to judge'",
+            "title": "to judge",
             "words": [
                 "juris",
                 "adjudicate",

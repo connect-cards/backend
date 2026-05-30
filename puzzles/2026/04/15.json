@@ -5,7 +5,7 @@
       "id": "d3_easy",
       "type": "easy",
       "difficulty": "easy",
-      "title": "Sound-alike: hear",
+      "title": "sound-alike: hear",
       "words": [
         "hear",
         "here",
@@ -17,7 +17,7 @@
       "id": "d3_medium",
       "type": "medium",
       "difficulty": "medium",
-      "title": "Profession domain: legal",
+      "title": "legal-domain",
       "words": [
         "prosecutor",
         "advocate",
@@ -29,7 +29,7 @@
       "id": "d3_hard",
       "type": "hard",
       "difficulty": "hard",
-      "title": "Semantic field: scrutiny",
+      "title": "scrutiny",
       "words": [
         "interrogate",
         "examine",
@@ -41,7 +41,7 @@
       "id": "d3_veryhard",
       "type": "very-hard",
       "difficulty": "very_hard",
-      "title": "Semantic field: the senses",
+      "title": "the senses",
       "words": [
         "olfactory",
         "tactile",

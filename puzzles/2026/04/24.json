@@ -5,7 +5,7 @@
       "id": "g1",
       "type": "thematic_association",
       "difficulty": "easy",
-      "title": "Small kinds of conflict or disorder",
+      "title": "small kinds of conflict or disorder",
       "words": [
         "scuffle",
         "tussle",
@@ -17,7 +17,7 @@
       "id": "g2",
       "type": "etymological_relation",
       "difficulty": "medium",
-      "title": "From the Latin for “to bind”",
+      "title": "from the latin for “to bind”",
       "words": [
         "implicate",
         "compel",
@@ -29,7 +29,7 @@
       "id": "g3",
       "type": "literary_register",
       "difficulty": "hard",
-      "title": "Tidy, lawlike statements",
+      "title": "tidy, lawlike statements",
       "words": [
         "terse",
         "laconic",
@@ -41,7 +41,7 @@
       "id": "g4",
       "type": "synonym",
       "difficulty": "very_hard",
-      "title": "Ruthless or relentless (single best fit)",
+      "title": "ruthless, relentless",
       "words": [
         "merciless",
         "implacable",

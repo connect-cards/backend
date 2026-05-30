@@ -5,7 +5,7 @@
       "id": "d1-easy",
       "type": "emotional_tone",
       "difficulty": "easy",
-      "title": "Soothing reactions",
+      "title": "soothing reactions",
       "words": [
         "comforting",
         "reassuring",
@@ -17,7 +17,7 @@
       "id": "d1-medium",
       "type": "informal_register",
       "difficulty": "medium",
-      "title": "Casual remarks",
+      "title": "casual remarks",
       "words": [
         "chatterbox",
         "banter",
@@ -29,7 +29,7 @@
       "id": "d1-hard",
       "type": "semantic_field",
       "difficulty": "hard",
-      "title": "Subtle mistreatment",
+      "title": "subtle mistreatment",
       "words": [
         "undermine",
         "sabotage",
@@ -41,7 +41,7 @@
       "id": "d1-very-hard",
       "type": "profession_domain",
       "difficulty": "very_hard",
-      "title": "Therapeutic interpretation",
+      "title": "therapeutic interpretation",
       "words": [
         "psychotherapy",
         "diagnostic",
