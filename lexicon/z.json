@@ -28,5 +28,21 @@
                 "We felt a zephyr across the field."
             ]
         }
+    ],
+    "zounds": [
+        {
+            "part_of_speech": "noun",
+            "definition": "to express surprise or strong emotion",
+            "synonyms": [
+                "good grief",
+                "wow",
+                "what on earth",
+                "for goodness’ sake"
+            ],
+            "examples": [
+                "Zounds, I forgot my keys again.",
+                "Zounds, that was a loud noise!"
+            ]
+        }
     ]
 }

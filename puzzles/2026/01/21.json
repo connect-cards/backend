@@ -1,0 +1,53 @@
+{
+    "date": "2026-01-21",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "etymological_relation",
+            "difficulty": "easy",
+            "title": "steelwork origins",
+            "words": [
+                "forge",
+                "ardor",
+                "metal",
+                "brand"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "semantic_field",
+            "difficulty": "medium",
+            "title": "tangled threads of speech",
+            "words": [
+                "orate",
+                "utterance",
+                "babble",
+                "murmur"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "morphological_family",
+            "difficulty": "hard",
+            "title": "quiet observation vs. concealment",
+            "words": [
+                "censor",
+                "censure",
+                "secret",
+                "clandestine"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "literary_register",
+            "difficulty": "very_hard",
+            "title": "old literary masks",
+            "words": [
+                "beseech",
+                "haply",
+                "sunder",
+                "verily"
+            ]
+        }
+    ]
+}

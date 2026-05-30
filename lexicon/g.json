@@ -255,7 +255,7 @@
     "geology": [
         {
             "part_of_speech": "noun",
-            "definition": "The science dealing with the Earth's physical structure and substance, its history, and the processes that act on it.",
+            "definition": "the science dealing with the Earth's physical structure and substance, its history, and the processes that act on it.",
             "synonyms": [
                 "earth science",
                 "geoscience"
@@ -483,7 +483,7 @@
     "geodesist": [
         {
             "part_of_speech": "noun",
-            "definition": "A specialist in geodesy, the science of measuring and understanding the Earth’s shape and gravity",
+            "definition": "a specialist in geodesy, the science of measuring and understanding the Earth’s shape and gravity",
             "synonyms": [
                 "geodesist",
                 "geodesy scientist",
@@ -499,7 +499,7 @@
     "gustatory": [
         {
             "part_of_speech": "adjective",
-            "definition": "Related to taste and the sense of taste",
+            "definition": "related to taste and the sense of taste",
             "synonyms": [
                 "taste-related",
                 "taste-sensing",
@@ -515,7 +515,7 @@
     "gossamer": [
         {
             "part_of_speech": "adjective",
-            "definition": "Extremely light, delicate, and thin, often describing material or fabric",
+            "definition": "extremely light, delicate, and thin, often describing material or fabric",
             "synonyms": [
                 "delicate",
                 "lightweight",
@@ -530,7 +530,7 @@
         },
         {
             "part_of_speech": "noun",
-            "definition": "Very light, delicate fabric or material like fine webbing",
+            "definition": "very light, delicate fabric or material like fine webbing",
             "synonyms": [
                 "delicate fabric",
                 "fine web",
@@ -546,7 +546,7 @@
     "glare": [
         {
             "part_of_speech": "verb",
-            "definition": "To shine with an intense, harsh light; also to look at someone angrily",
+            "definition": "to shine with an intense, harsh light; also to look at someone angrily",
             "synonyms": [
                 "shine",
                 "beam",
@@ -561,7 +561,7 @@
         },
         {
             "part_of_speech": "noun",
-            "definition": "Harsh, intense light or an angry stare",
+            "definition": "harsh, intense light or an angry stare",
             "synonyms": [
                 "harsh light",
                 "stare",
@@ -576,7 +576,7 @@
     "gloom": [
         {
             "part_of_speech": "noun",
-            "definition": "A feeling or state of darkness and sadness",
+            "definition": "a feeling or state of darkness and sadness",
             "synonyms": [
                 "darkness",
                 "sadness",
@@ -593,7 +593,7 @@
     "grudge": [
         {
             "part_of_speech": "noun",
-            "definition": "A feeling of resentment because of a past action or unfair treatment",
+            "definition": "a feeling of resentment because of a past action or unfair treatment",
             "synonyms": [
                 "resentment",
                 "bitterness",
@@ -608,7 +608,7 @@
         },
         {
             "part_of_speech": "verb",
-            "definition": "To feel resentment toward someone about something they did",
+            "definition": "to feel resentment toward someone about something they did",
             "synonyms": [
                 "resent",
                 "harbor resentment",
@@ -623,7 +623,7 @@
     "gatecrash": [
         {
             "part_of_speech": "verb",
-            "definition": "To enter an event without being invited or having a ticket",
+            "definition": "to enter an event without being invited or having a ticket",
             "synonyms": [
                 "crash",
                 "trespass (at event)",
@@ -640,7 +640,7 @@
     "glimmer": [
         {
             "part_of_speech": "noun",
-            "definition": "A faint or brief appearance of light or hope",
+            "definition": "a faint or brief appearance of light or hope",
             "synonyms": [
                 "sparkle",
                 "flash",
@@ -655,7 +655,7 @@
         },
         {
             "part_of_speech": "verb",
-            "definition": "To shine faintly or appear briefly",
+            "definition": "to shine faintly or appear briefly",
             "synonyms": [
                 "flicker",
                 "sparkle",
@@ -1023,6 +1023,350 @@
             "examples": [
                 "She grimaced at the taste.",
                 "He grimaced as the doctor pressed the wound."
+            ]
+        }
+    ],
+    "garrulous": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "talking too much, often about unimportant things",
+            "synonyms": [
+                "talkative",
+                "wordy",
+                "chattery",
+                "loquacious",
+                "rambling"
+            ],
+            "examples": [
+                "He is garrulous during meetings and rarely gets to the point.",
+                "The garrulous neighbor told stories for hours."
+            ]
+        }
+    ],
+    "gauge": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a tool or scale used to measure size, amount, or speed",
+            "synonyms": [
+                "meter",
+                "measuring instrument",
+                "indicator",
+                "scale"
+            ],
+            "examples": [
+                "The gauge shows the pressure in the tank.",
+                "A temperature gauge measures heat."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to measure or estimate something, especially to understand a situation",
+            "synonyms": [
+                "measure",
+                "estimate",
+                "assess",
+                "evaluate",
+                "determine"
+            ],
+            "examples": [
+                "It is hard to gauge his reaction.",
+                "We need to gauge the level of interest."
+            ]
+        }
+    ],
+    "genuine": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "real and true; sincere",
+            "synonyms": [
+                "authentic",
+                "real",
+                "true",
+                "sincere",
+                "honest"
+            ],
+            "examples": [
+                "The response sounded genuine.",
+                "They offered genuine help without asking for anything."
+            ]
+        }
+    ],
+    "gab": [
+        {
+            "part_of_speech": "noun",
+            "definition": "informal talk, often quick and casual",
+            "synonyms": [
+                "chat",
+                "talk",
+                "conversation",
+                "small talk",
+                "banter"
+            ],
+            "examples": [
+                "We had a little gab before the meeting.",
+                "She went for a quick gab at lunch."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to talk casually, often for a long time",
+            "synonyms": [
+                "chat",
+                "talk",
+                "converse",
+                "gabble",
+                "banter"
+            ],
+            "examples": [
+                "They gabb to pass the time.",
+                "I gapped with my neighbor for ten minutes."
+            ]
+        }
+    ],
+    "glow": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to shine with a steady soft light, often getting brighter",
+            "synonyms": [
+                "shine",
+                "radiate",
+                "burn",
+                "light up",
+                "gleam"
+            ],
+            "examples": [
+                "The screen glow kept me awake.",
+                "The street lamps glow at night."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a soft steady light or warmth that seems to come from something",
+            "synonyms": [
+                "radiance",
+                "brightness",
+                "shine",
+                "warm light"
+            ],
+            "examples": [
+                "A warm glow filled the room.",
+                "The glow of the fire made the shadows move."
+            ]
+        }
+    ],
+    "guardrail": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a barrier along the edge of a road or bridge that helps prevent falls",
+            "synonyms": [
+                "barrier",
+                "rail",
+                "safety barrier"
+            ],
+            "examples": [
+                "The car hit the guardrail instead of going off the road.",
+                "Install a guardrail to improve safety."
+            ]
+        }
+    ],
+    "gallant": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "brave and showing good manners; also showing respect and honor",
+            "synonyms": [
+                "brave",
+                "courteous",
+                "chivalrous",
+                "heroic",
+                "noble"
+            ],
+            "examples": [
+                "He was gallant toward everyone at the event.",
+                "The gallant officer led the group to safety."
+            ]
+        }
+    ],
+    "glisten": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to shine with small bright reflections, especially on a wet or polished surface",
+            "synonyms": [
+                "sparkle",
+                "glitter",
+                "shine",
+                "twinkle",
+                "gleam"
+            ],
+            "examples": [
+                "The road glistened after the rain.",
+                "Her eyes glistened with tears."
+            ]
+        }
+    ],
+    "granular": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "made of small grains or particles; having a grainy texture.",
+            "synonyms": [
+                "grainy",
+                "powdery",
+                "grain-filled",
+                "particulate",
+                "gritty"
+            ],
+            "examples": [
+                "The paint has a granular texture.",
+                "The photo looked granular because of low light."
+            ]
+        }
+    ],
+    "gambit": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a strategy that involves a risky action to gain an advantage.",
+            "synonyms": [
+                "strategy",
+                "tactic",
+                "maneuver",
+                "plan",
+                "bold move"
+            ],
+            "examples": [
+                "Offering a discount was a gambit to attract customers.",
+                "In chess, a gambit sacrifices something for position."
+            ]
+        }
+    ],
+    "groan": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a low sound to show pain, dissatisfaction, or effort.",
+            "synonyms": [
+                "moan",
+                "complain",
+                "grumble",
+                "mutter",
+                "sigh"
+            ],
+            "examples": [
+                "He groaned when he stood up.",
+                "She groaned in frustration."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a low sound made to show pain or displeasure.",
+            "synonyms": [
+                "moan",
+                "sigh",
+                "grumble",
+                "complaint",
+                "murmur"
+            ],
+            "examples": [
+                "There was a groan from the crowd.",
+                "The groan of the engine grew louder."
+            ]
+        }
+    ],
+    "girder": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a large beam that supports a bridge, building, or other structure.",
+            "synonyms": [
+                "beam",
+                "support beam",
+                "structural beam",
+                "bridge beam"
+            ],
+            "examples": [
+                "The crane lifted the girder into place.",
+                "Steel girders support the roof."
+            ]
+        }
+    ],
+    "gory": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "involving detailed and unpleasant bloodshed.",
+            "synonyms": [
+                "bloody",
+                "violent",
+                "graphic",
+                "brutal",
+                "blood-soaked"
+            ],
+            "examples": [
+                "The movie is too gory for some viewers.",
+                "He avoided gory images."
+            ]
+        }
+    ],
+    "ghastly": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very unpleasant or shocking.",
+            "synonyms": [
+                "horrible",
+                "terrible",
+                "awful",
+                "horrific",
+                "dreadful"
+            ],
+            "examples": [
+                "The accident looked ghastly.",
+                "She had a ghastly feeling about the outcome."
+            ]
+        }
+    ],
+    "grieve": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to feel deep sadness, especially after a death or major loss.",
+            "synonyms": [
+                "mourn",
+                "suffer",
+                "lament",
+                "be sad",
+                "process grief"
+            ],
+            "examples": [
+                "They grieved for months after the accident.",
+                "She is grieving the loss of her father."
+            ]
+        }
+    ],
+    "gravelly": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "deep and rough-sounding, like gravel or dust being rubbed together",
+            "synonyms": [
+                "hoarse",
+                "raspy",
+                "rough",
+                "croaky",
+                "gruff"
+            ],
+            "examples": [
+                "His gravelly voice sounded older than his age.",
+                "The microphone turned her normally smooth voice into something gravelly."
+            ]
+        }
+    ],
+    "gazing": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to look steadily at something, often with attention",
+            "synonyms": [
+                "stare",
+                "watch",
+                "look",
+                "glance",
+                "peer"
+            ],
+            "examples": [
+                "She was gazing out of the window when I arrived.",
+                "The child kept gazing at the birds."
             ]
         }
     ]

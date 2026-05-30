@@ -86,7 +86,7 @@
     "irate": [
         {
             "part_of_speech": "adjective",
-            "definition": "Feeling or showing extreme anger; furious.",
+            "definition": "feeling or showing extreme anger; furious.",
             "synonyms": [
                 "angry",
                 "furious",
@@ -100,7 +100,7 @@
     "ironic": [
         {
             "part_of_speech": "adjective",
-            "definition": "Happening in a way that is opposite to what is expected or intended; often dryly humorous.",
+            "definition": "happening in a way that is opposite to what is expected or intended; often dryly humorous.",
             "synonyms": [
                 "sarcastic",
                 "satirical",
@@ -251,7 +251,7 @@
     "irritated": [
         {
             "part_of_speech": "adjective",
-            "definition": "Feeling annoyed because something is bothering you",
+            "definition": "feeling annoyed because something is bothering you",
             "synonyms": [
                 "annoyed",
                 "bothered",
@@ -268,7 +268,7 @@
     "inhospitable": [
         {
             "part_of_speech": "adjective",
-            "definition": "Not friendly or not welcoming; hard to live or travel in",
+            "definition": "not friendly or not welcoming; hard to live or travel in",
             "synonyms": [
                 "unwelcoming",
                 "hostile",
@@ -285,7 +285,7 @@
     "imperturbable": [
         {
             "part_of_speech": "adjective",
-            "definition": "Not easily upset or disturbed; remaining calm under pressure",
+            "definition": "not easily upset or disturbed; remaining calm under pressure",
             "synonyms": [
                 "calm",
                 "unflappable",
@@ -302,7 +302,7 @@
     "interpret": [
         {
             "part_of_speech": "verb",
-            "definition": "To explain the meaning of information or actions",
+            "definition": "to explain the meaning of information or actions",
             "synonyms": [
                 "explain",
                 "understand",
@@ -319,7 +319,7 @@
     "insist": [
         {
             "part_of_speech": "verb",
-            "definition": "To state firmly that something must happen or be true",
+            "definition": "to state firmly that something must happen or be true",
             "synonyms": [
                 "insist",
                 "require",
@@ -336,7 +336,7 @@
     "interrogate": [
         {
             "part_of_speech": "verb",
-            "definition": "To ask someone many questions, often in an official or forceful way",
+            "definition": "to ask someone many questions, often in an official or forceful way",
             "synonyms": [
                 "question",
                 "ask",
@@ -353,7 +353,7 @@
     "interpose": [
         {
             "part_of_speech": "verb",
-            "definition": "To put something in between or to interrupt by inserting a statement or action",
+            "definition": "to put something in between or to interrupt by inserting a statement or action",
             "synonyms": [
                 "interrupt",
                 "insert",
@@ -370,7 +370,7 @@
     "illumined": [
         {
             "part_of_speech": "adjective",
-            "definition": "Lightened or made brighter; also, made clear in understanding",
+            "definition": "lightened or made brighter; also, made clear in understanding",
             "synonyms": [
                 "lit",
                 "brightened",
@@ -387,7 +387,7 @@
     "index": [
         {
             "part_of_speech": "noun",
-            "definition": "A list of topics or names with the page numbers where they appear",
+            "definition": "a list of topics or names with the page numbers where they appear",
             "synonyms": [
                 "contents list",
                 "reference list",
@@ -401,7 +401,7 @@
         },
         {
             "part_of_speech": "verb",
-            "definition": "To arrange information in an index or to link a value to another measure",
+            "definition": "to arrange information in an index or to link a value to another measure",
             "synonyms": [
                 "list",
                 "index (record)",
@@ -418,7 +418,7 @@
     "implicate": [
         {
             "part_of_speech": "verb",
-            "definition": "To show or suggest that someone is involved in something wrong or illegal",
+            "definition": "to show or suggest that someone is involved in something wrong or illegal",
             "synonyms": [
                 "involve",
                 "accuse",
@@ -435,7 +435,7 @@
     "inhibit": [
         {
             "part_of_speech": "verb",
-            "definition": "To prevent something from happening or stop someone from acting",
+            "definition": "to prevent something from happening or stop someone from acting",
             "synonyms": [
                 "prevent",
                 "restrain",
@@ -452,7 +452,7 @@
     "implacable": [
         {
             "part_of_speech": "adjective",
-            "definition": "Impossible to calm or stop; not willing to be softened",
+            "definition": "impossible to calm or stop; not willing to be softened",
             "synonyms": [
                 "relentless",
                 "unyielding",
@@ -469,7 +469,7 @@
     "intruder": [
         {
             "part_of_speech": "noun",
-            "definition": "A person who enters a place without permission",
+            "definition": "a person who enters a place without permission",
             "synonyms": [
                 "trespasser",
                 "invader",
@@ -486,7 +486,7 @@
     "importune": [
         {
             "part_of_speech": "verb",
-            "definition": "To ask someone repeatedly in an annoying way",
+            "definition": "to ask someone repeatedly in an annoying way",
             "synonyms": [
                 "beg",
                 "plead",
@@ -503,7 +503,7 @@
     "interest": [
         {
             "part_of_speech": "noun",
-            "definition": "Money paid for borrowing, usually expressed as a percentage",
+            "definition": "money paid for borrowing, usually expressed as a percentage",
             "synonyms": [
                 "interest rate (related)",
                 "loan cost",
@@ -516,7 +516,7 @@
         },
         {
             "part_of_speech": "noun",
-            "definition": "Feeling of caring or liking something",
+            "definition": "feeling of caring or liking something",
             "synonyms": [
                 "curiosity",
                 "involvement",
@@ -531,7 +531,7 @@
         },
         {
             "part_of_speech": "noun",
-            "definition": "A benefit or share of ownership in an organization",
+            "definition": "a benefit or share of ownership in an organization",
             "synonyms": [
                 "stake",
                 "share (formal)",
@@ -547,7 +547,7 @@
     "inscription": [
         {
             "part_of_speech": "noun",
-            "definition": "Writing or marks carved, painted, or engraved on a surface",
+            "definition": "writing or marks carved, painted, or engraved on a surface",
             "synonyms": [
                 "engraving",
                 "carving",
@@ -564,7 +564,7 @@
     "invisible": [
         {
             "part_of_speech": "adjective",
-            "definition": "Not able to be seen",
+            "definition": "not able to be seen",
             "synonyms": [
                 "unseen",
                 "not visible",
@@ -581,7 +581,7 @@
     "intonation": [
         {
             "part_of_speech": "noun",
-            "definition": "The way a person’s voice rises and falls when speaking",
+            "definition": "the way a person’s voice rises and falls when speaking",
             "synonyms": [
                 "pitch (speech)",
                 "tone",
@@ -1156,6 +1156,503 @@
             "examples": [
                 "Engineers iterate the design until it works well.",
                 "We will iterate on the model in the next version."
+            ]
+        }
+    ],
+    "illustrious": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "famous and respected, especially because of great achievements",
+            "synonyms": [
+                "renowned",
+                "distinguished",
+                "eminent",
+                "celebrated",
+                "notable"
+            ],
+            "examples": [
+                "The ceremony honored an illustrious scientist.",
+                "He has an illustrious career in medicine."
+            ]
+        }
+    ],
+    "ire": [
+        {
+            "part_of_speech": "noun",
+            "definition": "anger, often strong",
+            "synonyms": [
+                "anger",
+                "rage",
+                "wrath",
+                "fury",
+                "indignation"
+            ],
+            "examples": [
+                "He was silent, but his ire was clear.",
+                "Her manager’s ire surprised everyone."
+            ]
+        }
+    ],
+    "indignation": [
+        {
+            "part_of_speech": "noun",
+            "definition": "strong anger because something feels unfair or wrong",
+            "synonyms": [
+                "anger",
+                "outrage",
+                "protest",
+                "displeasure",
+                "indignation"
+            ],
+            "examples": [
+                "She spoke with indignation about the unfair rule.",
+                "They felt indignation after the decision."
+            ]
+        }
+    ],
+    "impassive": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "not showing emotion; appearing calm and unmoved",
+            "synonyms": [
+                "unemotional",
+                "expressionless",
+                "cold",
+                "calm",
+                "stoic"
+            ],
+            "examples": [
+                "His impassive face made it hard to know his feelings.",
+                "She remained impassive when the argument started."
+            ]
+        }
+    ],
+    "indurate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make something hard or firm",
+            "synonyms": [
+                "harden",
+                "solidify",
+                "toughen",
+                "make firm",
+                "set"
+            ],
+            "examples": [
+                "The process can indurate the clay over time.",
+                "Heat can indurate the mixture."
+            ]
+        }
+    ],
+    "induration": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the process of becoming hard or firm; also a hardened area of tissue",
+            "synonyms": [
+                "hardening",
+                "firming",
+                "solidification",
+                "toughening"
+            ],
+            "examples": [
+                "Induration occurred after the mixture cooled.",
+                "The doctor noted induration near the wound."
+            ]
+        }
+    ],
+    "insulation": [
+        {
+            "part_of_speech": "noun",
+            "definition": "material or measures used to reduce heat transfer or keep something protected",
+            "synonyms": [
+                "thermal insulation",
+                "barrier",
+                "padding",
+                "lining"
+            ],
+            "examples": [
+                "Good insulation keeps the house warm.",
+                "They added insulation to the attic."
+            ]
+        }
+    ],
+    "interview": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a meeting where one person asks questions and another person answers, often to get information or choose a job candidate",
+            "synonyms": [
+                "meeting",
+                "discussion",
+                "chat",
+                "job interview",
+                "Q&A"
+            ],
+            "examples": [
+                "The interview lasted about thirty minutes.",
+                "He had an interview for the position."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to question someone in order to gather information or assess them",
+            "synonyms": [
+                "question",
+                "ask",
+                "inquire",
+                "chat with",
+                "screen"
+            ],
+            "examples": [
+                "They interviewed several witnesses.",
+                "She was interviewed for the job."
+            ]
+        }
+    ],
+    "impress": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make someone feel impressed or to leave a strong positive effect",
+            "synonyms": [
+                "impress",
+                "satisfy",
+                "win over",
+                "leave a good impression on",
+                "astonish"
+            ],
+            "examples": [
+                "Her knowledge impressed the interviewer.",
+                "The new design will impress customers."
+            ]
+        }
+    ],
+    "ignite": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to start burning or to cause something to burn",
+            "synonyms": [
+                "light",
+                "set fire to",
+                "burn",
+                "spark",
+                "start"
+            ],
+            "examples": [
+                "The match ignited the gas.",
+                "The fuel can ignite quickly."
+            ]
+        }
+    ],
+    "impede": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make it harder for something to happen or move",
+            "synonyms": [
+                "block",
+                "hinder",
+                "prevent",
+                "bar",
+                "slow down"
+            ],
+            "examples": [
+                "Roadworks may impede traffic.",
+                "The heavy box might impede your progress."
+            ]
+        }
+    ],
+    "impose": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to force something to happen or to make someone accept something",
+            "synonyms": [
+                "force",
+                "apply",
+                "set",
+                "require",
+                "bring about"
+            ],
+            "examples": [
+                "They imposed new rules on the team.",
+                "The fine was imposed after the inspection."
+            ]
+        }
+    ],
+    "inclination": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a tendency or preference to do something.",
+            "synonyms": [
+                "tendency",
+                "propensity",
+                "leaning",
+                "disposition",
+                "inclinedness"
+            ],
+            "examples": [
+                "I have an inclination to keep plans simple.",
+                "He showed an inclination to avoid conflict."
+            ]
+        }
+    ],
+    "irregular": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "not regular; not following the usual pattern or rules.",
+            "synonyms": [
+                "uneven",
+                "inconsistent",
+                "abnormal",
+                "irregularity-prone",
+                "nonstandard"
+            ],
+            "examples": [
+                "The teacher noticed irregular spelling errors.",
+                "Her sleep schedule is irregular."
+            ]
+        }
+    ],
+    "inure": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make someone accustomed to something difficult or unpleasant, so they can handle it better.",
+            "synonyms": [
+                "accustom",
+                "get used",
+                "toughen",
+                "harden",
+                "familiarize"
+            ],
+            "examples": [
+                "Training in the field inures soldiers to stress.",
+                "The routine helped inure her to criticism."
+            ]
+        }
+    ],
+    "invariable": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "not changing; always the same.",
+            "synonyms": [
+                "unchanging",
+                "constant",
+                "stable",
+                "fixed",
+                "uniform"
+            ],
+            "examples": [
+                "Invariable rules apply to everyone.",
+                "The result was invariable across trials."
+            ]
+        }
+    ],
+    "irascible": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "quick to get angry.",
+            "synonyms": [
+                "quick-tempered",
+                "hot-tempered",
+                "angry",
+                "testy",
+                "irritable"
+            ],
+            "examples": [
+                "He is irascible when people interrupt him.",
+                "Her irascible mood changed the tone of the conversation."
+            ]
+        }
+    ],
+    "incredulous": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "not willing to believe; surprised and doubting.",
+            "synonyms": [
+                "skeptical",
+                "doubtful",
+                "unbelieving",
+                "astonished",
+                "hard to believe"
+            ],
+            "examples": [
+                "She was incredulous when he claimed he won the lottery.",
+                "His incredulous expression showed he didn’t trust the story."
+            ]
+        }
+    ],
+    "ingenuous": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "honest and showing innocent lack of experience.",
+            "synonyms": [
+                "innocent",
+                "naive",
+                "open",
+                "candid",
+                "unsuspicious"
+            ],
+            "examples": [
+                "Her ingenuous smile made everyone trust her.",
+                "He was ingenuous about how difficult it would be."
+            ]
+        }
+    ],
+    "imponderable": [
+        {
+            "part_of_speech": "noun",
+            "definition": "something hard to judge or measure, often affecting decisions.",
+            "synonyms": [
+                "uncertainty",
+                "unknown factor",
+                "unmeasurable",
+                "hard-to-measure factor"
+            ],
+            "examples": [
+                "The cost was clear, but the imponderables worried them.",
+                "Success depends on many imponderables."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "hard to measure or predict.",
+            "synonyms": [
+                "unpredictable",
+                "uncertain",
+                "hard to judge",
+                "unmeasurable",
+                "unquantifiable"
+            ],
+            "examples": [
+                "The results are affected by imponderable factors.",
+                "Some risks are imponderable."
+            ]
+        }
+    ],
+    "inclement": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "unpleasant weather, such as rain, wind, or cold.",
+            "synonyms": [
+                "rough",
+                "bad",
+                "harsh",
+                "stormy",
+                "unfriendly"
+            ],
+            "examples": [
+                "The event was canceled due to inclement weather.",
+                "They delayed the trip because of inclement conditions."
+            ]
+        }
+    ],
+    "incomprehensible": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "too difficult to understand.",
+            "synonyms": [
+                "unintelligible",
+                "hard to understand",
+                "confusing",
+                "opaque",
+                "beyond understanding"
+            ],
+            "examples": [
+                "The instructions were incomprehensible.",
+                "His handwriting is incomprehensible to me."
+            ]
+        }
+    ],
+    "imute": [
+        {
+            "part_of_speech": "verb",
+            "definition": "a nonstandard form; commonly intended meaning is to mute.",
+            "synonyms": [
+                "mute"
+            ],
+            "examples": [
+                "The correct word is mute, not imute."
+            ]
+        }
+    ],
+    "incite": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to encourage people to take action, often strongly or aggressively.",
+            "synonyms": [
+                "stimulate",
+                "urge",
+                "prompt",
+                "encourage",
+                "provoke"
+            ],
+            "examples": [
+                "The speech incited people to protest.",
+                "Her comments were meant to incite action."
+            ]
+        }
+    ],
+    "instigate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to start or cause something, especially a problem or conflict.",
+            "synonyms": [
+                "spark",
+                "cause",
+                "start",
+                "trigger",
+                "initiate"
+            ],
+            "examples": [
+                "They accused him of instigating the fight.",
+                "Her comments instigated a debate."
+            ]
+        }
+    ],
+    "inspire": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to fill someone with the desire or ability to do something; to motivate.",
+            "synonyms": [
+                "motivate",
+                "encourage",
+                "stimulate",
+                "uplift",
+                "move"
+            ],
+            "examples": [
+                "The teacher inspired her students to work harder.",
+                "His story inspired me to change my plans."
+            ]
+        }
+    ],
+    "insistent": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "continuing to ask or demand something, especially when others want to stop",
+            "synonyms": [
+                "persistent",
+                "demanding",
+                "urgent",
+                "tenacious"
+            ],
+            "examples": [
+                "She was insistent about changing the meeting time.",
+                "The child became insistent and would not leave the toy aisle."
+            ]
+        }
+    ],
+    "impartial": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "treating all sides fairly and not taking sides",
+            "synonyms": [
+                "neutral",
+                "fair",
+                "unbiased",
+                "balanced",
+                "objective"
+            ],
+            "examples": [
+                "The judge was impartial and listened to both arguments.",
+                "We need impartial advice before making a decision."
             ]
         }
     ]

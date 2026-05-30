@@ -1,0 +1,53 @@
+{
+    "date": "2026-01-23",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "informal_register",
+            "difficulty": "easy",
+            "title": "walk off the straight line",
+            "words": [
+                "stroll",
+                "wander",
+                "ramble",
+                "roam"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "thematic_association",
+            "difficulty": "medium",
+            "title": "low-grade distress",
+            "words": [
+                "wince",
+                "sulk",
+                "fret",
+                "grieve"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "emotional_tone",
+            "difficulty": "hard",
+            "title": "dread wearing a smile",
+            "words": [
+                "unease",
+                "foreboding",
+                "dismay",
+                "alarm"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "physical_trait",
+            "difficulty": "very_hard",
+            "title": "signs that something is off",
+            "words": [
+                "pallor",
+                "sallow",
+                "limp",
+                "lank"
+            ]
+        }
+    ]
+}

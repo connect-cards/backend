@@ -72,7 +72,7 @@
     "aunt": [
         {
             "part_of_speech": "noun",
-            "definition": "The sister of one of your parents; a female relative.",
+            "definition": "the sister of one of your parents; a female relative.",
             "synonyms": [
                 "auntie",
                 "maternal aunt",
@@ -87,7 +87,7 @@
     "astute": [
         {
             "part_of_speech": "adjective",
-            "definition": "Having or showing sharp intelligence and good judgement.",
+            "definition": "having or showing sharp intelligence and good judgement.",
             "synonyms": [
                 "shrewd",
                 "keen",
@@ -102,7 +102,7 @@
     "apricity": [
         {
             "part_of_speech": "noun",
-            "definition": "A warmth or sunlight in winter that is pleasant or comforting.",
+            "definition": "a warmth or sunlight in winter that is pleasant or comforting.",
             "synonyms": [
                 "sunshine",
                 "sun warmth",
@@ -116,7 +116,7 @@
     "angry": [
         {
             "part_of_speech": "adjective",
-            "definition": "Feeling or showing strong displeasure or hostility.",
+            "definition": "feeling or showing strong displeasure or hostility.",
             "synonyms": [
                 "irate",
                 "mad",
@@ -131,7 +131,7 @@
     "act": [
         {
             "part_of_speech": "verb",
-            "definition": "To take action or behave in a specified way.",
+            "definition": "to take action or behave in a specified way.",
             "synonyms": [
                 "behave",
                 "perform",
@@ -145,7 +145,7 @@
     "action": [
         {
             "part_of_speech": "noun",
-            "definition": "The fact or process of doing something to achieve a result.",
+            "definition": "the fact or process of doing something to achieve a result.",
             "synonyms": [
                 "deed",
                 "move",
@@ -159,7 +159,7 @@
     "active": [
         {
             "part_of_speech": "adjective",
-            "definition": "Engaged in a task or in movement; not passive.",
+            "definition": "engaged in a task or in movement; not passive.",
             "synonyms": [
                 "engaged",
                 "operational",
@@ -173,7 +173,7 @@
     "activate": [
         {
             "part_of_speech": "verb",
-            "definition": "To make something start working or effective; to set in motion.",
+            "definition": "to make something start working or effective; to set in motion.",
             "synonyms": [
                 "trigger",
                 "start",
@@ -187,7 +187,7 @@
     "altar": [
         {
             "part_of_speech": "noun",
-            "definition": "A raised place used for offering or presenting religious offerings.",
+            "definition": "a raised place used for offering or presenting religious offerings.",
             "synonyms": [
                 "shrine",
                 "table",
@@ -201,7 +201,7 @@
     "azure": [
         {
             "part_of_speech": "adjective",
-            "definition": "Sky-blue in color.",
+            "definition": "sky-blue in color.",
             "synonyms": [
                 "blue",
                 "cerulean",
@@ -215,7 +215,7 @@
     "anthropology": [
         {
             "part_of_speech": "noun",
-            "definition": "The study of humans, past and present, including cultures and societies.",
+            "definition": "the study of humans, past and present, including cultures and societies.",
             "synonyms": [
                 "human science",
                 "cultural anthropology"
@@ -228,7 +228,7 @@
     "actor": [
         {
             "part_of_speech": "noun",
-            "definition": "A person who performs in plays, movies, or on television.",
+            "definition": "a person who performs in plays, movies, or on television.",
             "synonyms": [
                 "performer",
                 "thespian",
@@ -243,7 +243,7 @@
     "awesome": [
         {
             "part_of_speech": "adjective",
-            "definition": "Extremely good or impressive; inspiring awe.",
+            "definition": "extremely good or impressive; inspiring awe.",
             "synonyms": [
                 "amazing",
                 "wonderful",
@@ -596,7 +596,7 @@
     "atonement": [
         {
             "part_of_speech": "noun",
-            "definition": "Something done to make up for a wrongdoing and repair a relationship",
+            "definition": "something done to make up for a wrongdoing and repair a relationship",
             "synonyms": [
                 "repayment",
                 "making amends",
@@ -613,7 +613,7 @@
     "architect": [
         {
             "part_of_speech": "noun",
-            "definition": "A person who designs buildings and oversees their construction",
+            "definition": "a person who designs buildings and oversees their construction",
             "synonyms": [
                 "designer",
                 "building designer",
@@ -629,7 +629,7 @@
     "annoyed": [
         {
             "part_of_speech": "adjective",
-            "definition": "Slightly angry or upset because of something unpleasant",
+            "definition": "slightly angry or upset because of something unpleasant",
             "synonyms": [
                 "irritated",
                 "bothered",
@@ -646,7 +646,7 @@
     "anesthetist": [
         {
             "part_of_speech": "noun",
-            "definition": "A doctor or specialist who gives anesthesia and manages a patient’s pain during surgery",
+            "definition": "a doctor or specialist who gives anesthesia and manages a patient’s pain during surgery",
             "synonyms": [
                 "anesthesiologist",
                 "anaesthesia specialist",
@@ -662,7 +662,7 @@
     "audit": [
         {
             "part_of_speech": "noun",
-            "definition": "An official check of financial records, usually to confirm accuracy and compliance",
+            "definition": "an official check of financial records, usually to confirm accuracy and compliance",
             "synonyms": [
                 "examination",
                 "review",
@@ -677,7 +677,7 @@
         },
         {
             "part_of_speech": "verb",
-            "definition": "To officially check financial records to confirm accuracy and compliance",
+            "definition": "to officially check financial records to confirm accuracy and compliance",
             "synonyms": [
                 "examine",
                 "review",
@@ -694,7 +694,7 @@
     "auditable": [
         {
             "part_of_speech": "adjective",
-            "definition": "Possible to audit, meaning records can be checked and verified",
+            "definition": "possible to audit, meaning records can be checked and verified",
             "synonyms": [
                 "verifiable",
                 "checkable",
@@ -710,7 +710,7 @@
     "auditing": [
         {
             "part_of_speech": "noun",
-            "definition": "The activity of performing an audit to check financial records or processes",
+            "definition": "the activity of performing an audit to check financial records or processes",
             "synonyms": [
                 "auditing (activity)",
                 "audit work",
@@ -727,7 +727,7 @@
     "allusion": [
         {
             "part_of_speech": "noun",
-            "definition": "A brief and indirect reference to a person, event, or idea",
+            "definition": "a brief and indirect reference to a person, event, or idea",
             "synonyms": [
                 "reference",
                 "mention",
@@ -744,7 +744,7 @@
     "allegory": [
         {
             "part_of_speech": "noun",
-            "definition": "A story or message that has a hidden meaning, often teaching a moral or idea",
+            "definition": "a story or message that has a hidden meaning, often teaching a moral or idea",
             "synonyms": [
                 "symbolic story",
                 "parable",
@@ -761,7 +761,7 @@
     "alluring": [
         {
             "part_of_speech": "adjective",
-            "definition": "Very attractive and tempting",
+            "definition": "very attractive and tempting",
             "synonyms": [
                 "seductive",
                 "tempting",
@@ -778,7 +778,7 @@
     "apprehensive": [
         {
             "part_of_speech": "adjective",
-            "definition": "Worried or nervous about something that might happen",
+            "definition": "worried or nervous about something that might happen",
             "synonyms": [
                 "anxious",
                 "uneasy",
@@ -795,7 +795,7 @@
     "apothecary": [
         {
             "part_of_speech": "noun",
-            "definition": "A person or small shop that sells medicines and makes herbal or medicinal preparations",
+            "definition": "a person or small shop that sells medicines and makes herbal or medicinal preparations",
             "synonyms": [
                 "pharmacy (historical)",
                 "chemist (historical)",
@@ -811,7 +811,7 @@
     "advocate": [
         {
             "part_of_speech": "noun",
-            "definition": "A person who speaks in support of an idea, cause, or person",
+            "definition": "a person who speaks in support of an idea, cause, or person",
             "synonyms": [
                 "supporter",
                 "champion",
@@ -826,7 +826,7 @@
         },
         {
             "part_of_speech": "verb",
-            "definition": "To publicly support a plan, idea, or cause",
+            "definition": "to publicly support a plan, idea, or cause",
             "synonyms": [
                 "support",
                 "promote",
@@ -843,7 +843,7 @@
     "arbiter": [
         {
             "part_of_speech": "noun",
-            "definition": "A person or group that decides disputes in a fair way",
+            "definition": "a person or group that decides disputes in a fair way",
             "synonyms": [
                 "judge",
                 "mediator (sometimes)",
@@ -860,7 +860,7 @@
     "airy": [
         {
             "part_of_speech": "adjective",
-            "definition": "Light, not heavy; also, open and not crowded",
+            "definition": "light, not heavy; also, open and not crowded",
             "synonyms": [
                 "light",
                 "spacious",
@@ -877,7 +877,7 @@
     "acerbic": [
         {
             "part_of_speech": "adjective",
-            "definition": "Sharp, sarcastic, and critical in tone",
+            "definition": "sharp, sarcastic, and critical in tone",
             "synonyms": [
                 "bitter",
                 "sharp",
@@ -894,7 +894,7 @@
     "annotate": [
         {
             "part_of_speech": "verb",
-            "definition": "To add notes or comments to a text to explain or highlight information",
+            "definition": "to add notes or comments to a text to explain or highlight information",
             "synonyms": [
                 "comment on",
                 "note",
@@ -911,7 +911,7 @@
     "abrasion": [
         {
             "part_of_speech": "noun",
-            "definition": "A scrape or injury to the skin caused by rubbing",
+            "definition": "a scrape or injury to the skin caused by rubbing",
             "synonyms": [
                 "scrape",
                 "scratching injury",
@@ -928,7 +928,7 @@
     "abstain": [
         {
             "part_of_speech": "verb",
-            "definition": "To choose not to do something, especially a harmful activity or to avoid voting",
+            "definition": "to choose not to do something, especially a harmful activity or to avoid voting",
             "synonyms": [
                 "avoid",
                 "refuse",
@@ -945,7 +945,7 @@
     "avalanche": [
         {
             "part_of_speech": "noun",
-            "definition": "A large amount of snow, ice, and rock that falls down a mountain slope",
+            "definition": "a large amount of snow, ice, and rock that falls down a mountain slope",
             "synonyms": [
                 "snow slide",
                 "snowfall slide",
@@ -961,7 +961,7 @@
     "affidavit": [
         {
             "part_of_speech": "noun",
-            "definition": "A written statement of facts sworn to be true, signed in front of an authorized person",
+            "definition": "a written statement of facts sworn to be true, signed in front of an authorized person",
             "synonyms": [
                 "sworn statement",
                 "declaration",
@@ -977,7 +977,7 @@
     "apprehension": [
         {
             "part_of_speech": "noun",
-            "definition": "An anxious feeling that something unpleasant might happen",
+            "definition": "an anxious feeling that something unpleasant might happen",
             "synonyms": [
                 "fear",
                 "dread",
@@ -994,7 +994,7 @@
     "anesthesia": [
         {
             "part_of_speech": "noun",
-            "definition": "A medicine or treatment used to prevent pain during medical procedures, often by making a patient unconscious or numb",
+            "definition": "a medicine or treatment used to prevent pain during medical procedures, often by making a patient unconscious or numb",
             "synonyms": [
                 "anaesthetic (UK)",
                 "numbing (medical)",
@@ -1010,7 +1010,7 @@
     "abrupt": [
         {
             "part_of_speech": "adjective",
-            "definition": "Sudden and unexpected; happening with little warning",
+            "definition": "sudden and unexpected; happening with little warning",
             "synonyms": [
                 "sudden",
                 "quick",
@@ -1502,7 +1502,7 @@
     "abjure": [
         {
             "part_of_speech": "verb",
-            "definition": "To formally reject or give up a belief, promise, or claim",
+            "definition": "to formally reject or give up a belief, promise, or claim",
             "synonyms": [
                 "renounce",
                 "disavow",
@@ -1518,7 +1518,7 @@
     "articulate": [
         {
             "part_of_speech": "verb",
-            "definition": "To express thoughts, opinions, or feelings clearly",
+            "definition": "to express thoughts, opinions, or feelings clearly",
             "synonyms": [
                 "express",
                 "explain",
@@ -1533,7 +1533,7 @@
         },
         {
             "part_of_speech": "adjective",
-            "definition": "Able to speak clearly and use words effectively",
+            "definition": "able to speak clearly and use words effectively",
             "synonyms": [
                 "eloquent",
                 "verbal",
@@ -1547,7 +1547,7 @@
         },
         {
             "part_of_speech": "verb",
-            "definition": "To move parts of a body or an object in an individual way",
+            "definition": "to move parts of a body or an object in an individual way",
             "synonyms": [
                 "separate",
                 "joint",
@@ -1882,6 +1882,425 @@
             "examples": [
                 "They amended the agreement after new information appeared.",
                 "The council voted to amend the rules."
+            ]
+        }
+    ],
+    "abridge": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make something shorter by removing parts",
+            "synonyms": [
+                "shorten",
+                "condense",
+                "reduce",
+                "summarize",
+                "cut down"
+            ],
+            "examples": [
+                "They abridged the book for younger readers.",
+                "Please abridge this report to the key points."
+            ]
+        }
+    ],
+    "authentic": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "real and genuine, not copied or fake",
+            "synonyms": [
+                "genuine",
+                "real",
+                "true",
+                "credible",
+                "legitimate"
+            ],
+            "examples": [
+                "The museum verified that the painting was authentic.",
+                "She wants an authentic local experience."
+            ]
+        }
+    ],
+    "anarchy": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a situation where there is no control by government and people do whatever they want",
+            "synonyms": [
+                "lawlessness",
+                "disorder",
+                "unrest",
+                "breakdown of order",
+                "chaos"
+            ],
+            "examples": [
+                "The city fell into anarchy after the uprising.",
+                "There is no solution in anarchy."
+            ]
+        }
+    ],
+    "ambition": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a strong desire to achieve something great",
+            "synonyms": [
+                "aspiration",
+                "drive",
+                "goal",
+                "determination",
+                "ambitiousness"
+            ],
+            "examples": [
+                "Her ambition is to become a doctor.",
+                "He worked hard because of his ambition."
+            ]
+        }
+    ],
+    "aspiration": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a strong hope or aim for the future",
+            "synonyms": [
+                "ambition",
+                "goal",
+                "dream",
+                "purpose",
+                "intention"
+            ],
+            "examples": [
+                "Her aspiration is to study abroad.",
+                "He pursued his aspiration with steady effort."
+            ]
+        }
+    ],
+    "avidity": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a strong eager desire or interest",
+            "synonyms": [
+                "eagerness",
+                "eagerness",
+                "eagerness",
+                "eagerness",
+                "eager interest",
+                "craving"
+            ],
+            "examples": [
+                "His avidity for learning impressed his teachers.",
+                "She worked with avidity during the busy season."
+            ]
+        }
+    ],
+    "authenticity": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the quality of being real and not fake",
+            "synonyms": [
+                "genuineness",
+                "realness",
+                "veracity",
+                "credibility",
+                "legitimacy"
+            ],
+            "examples": [
+                "The authentication process tests the item’s authenticity.",
+                "They doubted the authenticity of the document."
+            ]
+        }
+    ],
+    "author": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who writes a book or other text",
+            "synonyms": [
+                "writer",
+                "novelist",
+                "creator",
+                "book author"
+            ],
+            "examples": [
+                "The author will speak at the event.",
+                "She is a famous author."
+            ]
+        }
+    ],
+    "arraign": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to officially bring someone to court to be charged with a crime",
+            "synonyms": [
+                "charge",
+                "bring to court",
+                "indict",
+                "accuse",
+                "call to court"
+            ],
+            "examples": [
+                "He was arraigned the day after his arrest.",
+                "The judge will arraign the suspect next week."
+            ]
+        }
+    ],
+    "alley": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a narrow passage between buildings or a path for vehicles or pedestrians",
+            "synonyms": [
+                "passage",
+                "lane",
+                "street",
+                "side street"
+            ],
+            "examples": [
+                "They walked down the alley behind the store.",
+                "The dog disappeared into an alley."
+            ]
+        }
+    ],
+    "affable": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "friendly and easy to talk to",
+            "synonyms": [
+                "friendly",
+                "amiable",
+                "pleasant",
+                "easygoing",
+                "sociable"
+            ],
+            "examples": [
+                "She is affable and makes people feel comfortable.",
+                "The host was affable to everyone at the party."
+            ]
+        }
+    ],
+    "auditorium": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a large room in which people watch performances or listen to talks.",
+            "synonyms": [
+                "theater",
+                "theatre",
+                "hall",
+                "auditorium space",
+                "performance hall"
+            ],
+            "examples": [
+                "The concert was held in the auditorium.",
+                "We waited in the auditorium before the show."
+            ]
+        }
+    ],
+    "audition": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a short performance or test to show your ability, often for a role.",
+            "synonyms": [
+                "tryout",
+                "test",
+                "screening",
+                "casting session",
+                "performance test"
+            ],
+            "examples": [
+                "She got a callback after the audition.",
+                "The audition took place on Friday."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to perform for a selection process, especially for roles in theater or film.",
+            "synonyms": [
+                "try out",
+                "test",
+                "appear",
+                "perform",
+                "audition for"
+            ],
+            "examples": [
+                "He auditions every year for the school play.",
+                "They are auditioning new singers this week."
+            ]
+        }
+    ],
+    "aperture": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an opening, especially one that controls the amount of light or air passing through.",
+            "synonyms": [
+                "opening",
+                "opening hole",
+                "gap",
+                "port",
+                "window"
+            ],
+            "examples": [
+                "The camera lens has a wide aperture.",
+                "The machine uses a small aperture for airflow."
+            ]
+        }
+    ],
+    "asymmetry": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a lack of equality or balance between two sides or parts.",
+            "synonyms": [
+                "imbalance",
+                "unevenness",
+                "lack of symmetry",
+                "disparity",
+                "non-symmetry"
+            ],
+            "examples": [
+                "The design uses asymmetry to look modern.",
+                "Asymmetry can make a face look unique."
+            ]
+        }
+    ],
+    "abrasive": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "rough and able to wear away or damage a surface.",
+            "synonyms": [
+                "rough",
+                "grinding",
+                "harsh",
+                "scraping",
+                "wearing"
+            ],
+            "examples": [
+                "The abrasive sand scratched the glass.",
+                "Avoid abrasive cleaners on the tiles."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a substance used to remove material by grinding, such as sandpaper.",
+            "synonyms": [
+                "grinding material",
+                "grit",
+                "polishing compound",
+                "sandpaper grit"
+            ],
+            "examples": [
+                "Use the abrasive carefully to avoid deep scratches.",
+                "The abrasive is meant for metal."
+            ]
+        }
+    ],
+    "acuity": [
+        {
+            "part_of_speech": "noun",
+            "definition": "sharpness of mind or senses, especially the ability to notice things clearly.",
+            "synonyms": [
+                "sharpness",
+                "keenness",
+                "alertness",
+                "perception",
+                "insight"
+            ],
+            "examples": [
+                "Her acuity made her a strong interviewer.",
+                "He showed great acuity when analyzing the problem."
+            ]
+        }
+    ],
+    "anarchic": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "without order, rules, or control; having disorder like anarchy.",
+            "synonyms": [
+                "chaotic",
+                "disorderly",
+                "lawless",
+                "uncontrolled",
+                "turbulent"
+            ],
+            "examples": [
+                "The protest turned anarchic.",
+                "The classroom became anarchic when no one followed rules."
+            ]
+        }
+    ],
+    "adjacent": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "next to; touching or very near.",
+            "synonyms": [
+                "next",
+                "neighboring",
+                "side-by-side",
+                "nearby",
+                "adjoining"
+            ],
+            "examples": [
+                "We stayed in an adjacent room.",
+                "The building is adjacent to the park."
+            ]
+        }
+    ],
+    "ardor": [
+        {
+            "part_of_speech": "noun",
+            "definition": "strong enthusiasm or intense feeling.",
+            "synonyms": [
+                "enthusiasm",
+                "passion",
+                "eagerness",
+                "zeal",
+                "fervor"
+            ],
+            "examples": [
+                "She worked with ardor for the cause.",
+                "His ardor surprised everyone."
+            ]
+        }
+    ],
+    "aloof": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "distant or unfriendly in manner, as if you want to keep people away",
+            "synonyms": [
+                "distant",
+                "reserved",
+                "detached",
+                "unsociable",
+                "cool"
+            ],
+            "examples": [
+                "She seemed aloof at first, but she was actually shy.",
+                "He kept an aloof attitude during the meeting."
+            ]
+        }
+    ],
+    "admirable": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "deserving admiration because it is good, brave, or skillful",
+            "synonyms": [
+                "excellent",
+                "impressive",
+                "worthy",
+                "commendable",
+                "admirable-in-meaning"
+            ],
+            "examples": [
+                "It was admirable that she kept working despite her illness.",
+                "His admirable leadership helped the group finish on time."
+            ]
+        }
+    ],
+    "ameliorate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make something better, usually a problem or bad situation",
+            "synonyms": [
+                "improve",
+                "enhance",
+                "better",
+                "alleviate",
+                "rectify"
+            ],
+            "examples": [
+                "The new policy should ameliorate the long waiting times.",
+                "Doctors are trying to ameliorate the patient’s pain."
             ]
         }
     ]

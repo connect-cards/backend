@@ -28,7 +28,7 @@
     "nephew": [
         {
             "part_of_speech": "noun",
-            "definition": "The son of your brother or sister.",
+            "definition": "the son of your brother or sister.",
             "synonyms": [
                 "sibling's son",
                 "brother's son",
@@ -202,7 +202,7 @@
     "navigator": [
         {
             "part_of_speech": "noun",
-            "definition": "A person who plans and directs the route of a ship, aircraft, or spacecraft",
+            "definition": "a person who plans and directs the route of a ship, aircraft, or spacecraft",
             "synonyms": [
                 "pilot",
                 "route planner",
@@ -219,7 +219,7 @@
     "navigator's": [
         {
             "part_of_speech": "noun",
-            "definition": "Belonging to a navigator",
+            "definition": "belonging to a navigator",
             "synonyms": [],
             "examples": [
                 "The navigator’s log recorded the course changes."
@@ -229,7 +229,7 @@
     "nautical": [
         {
             "part_of_speech": "adjective",
-            "definition": "Related to ships, sailors, or navigation by sea",
+            "definition": "related to ships, sailors, or navigation by sea",
             "synonyms": [
                 "maritime",
                 "seafaring",
@@ -385,6 +385,55 @@
             "examples": [
                 "The needlelike spikes hurt when touched.",
                 "The metal was needlelike and sharp."
+            ]
+        }
+    ],
+    "numinous": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "seemingly full of spiritual power or mystery",
+            "synonyms": [
+                "mysterious",
+                "spirit-filled",
+                "awe-inspiring",
+                "reverent",
+                "otherworldly"
+            ],
+            "examples": [
+                "The numinous atmosphere of the temple made people quiet.",
+                "She felt a numinous presence in the old forest."
+            ]
+        }
+    ],
+    "near": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "not far away in distance, time, or amount.",
+            "synonyms": [
+                "close",
+                "almost",
+                "around",
+                "nearby",
+                "nearing"
+            ],
+            "examples": [
+                "The store is near my house.",
+                "The deadline is near."
+            ]
+        },
+        {
+            "part_of_speech": "adverb",
+            "definition": "in a nearby place or time.",
+            "synonyms": [
+                "close by",
+                "almost",
+                "around",
+                "nearly",
+                "at hand"
+            ],
+            "examples": [
+                "Come and meet me near the entrance.",
+                "It’s near impossible to finish today."
             ]
         }
     ]

@@ -1,0 +1,53 @@
+{
+    "date": "2026-01-29",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "easy",
+            "difficulty": "easy",
+            "title": "metalcraft",
+            "words": [
+                "blade",
+                "brand",
+                "steel",
+                "sword"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "medium",
+            "difficulty": "medium",
+            "title": "gloomy places",
+            "words": [
+                "murky",
+                "dingy",
+                "somber",
+                "dreary"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "hard",
+            "difficulty": "hard",
+            "title": "helping",
+            "words": [
+                "benign",
+                "charitable",
+                "ameliorate",
+                "redress"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "very_hard",
+            "difficulty": "very_hard",
+            "title": "uncanny",
+            "words": [
+                "eldritch",
+                "uncanny",
+                "unearthly",
+                "unheimlich"
+            ]
+        }
+    ]
+}

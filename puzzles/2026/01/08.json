@@ -1,0 +1,53 @@
+{
+    "date": "2026-01-08",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "physical_trait",
+            "difficulty": "easy",
+            "title": "hesitant motion",
+            "words": [
+                "hesitate",
+                "stagger",
+                "waver",
+                "meander"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "thematic_association",
+            "difficulty": "medium",
+            "title": "public argument in miniature",
+            "words": [
+                "debate",
+                "contention",
+                "dispute",
+                "quarrel"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "sound_association",
+            "difficulty": "hard",
+            "title": "sounds that can mimic distress",
+            "words": [
+                "howl",
+                "wail",
+                "cry",
+                "groan"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "semantic_field",
+            "difficulty": "very_hard",
+            "title": "controlled ending",
+            "words": [
+                "exculpate",
+                "culminate",
+                "denouement",
+                "respite"
+            ]
+        }
+    ]
+}

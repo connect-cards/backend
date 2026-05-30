@@ -1,0 +1,53 @@
+{
+    "date": "2026-01-13",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "easy",
+            "difficulty": "easy",
+            "title": "steel vs. questioning",
+            "words": [
+                "blade",
+                "sword",
+                "steel",
+                "brand"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "medium",
+            "difficulty": "medium",
+            "title": "heavy atmospheres, not weather",
+            "words": [
+                "murky",
+                "dingy",
+                "somber",
+                "dreary"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "hard",
+            "difficulty": "hard",
+            "title": "light as evidence of brilliance",
+            "words": [
+                "scintillating",
+                "glittering",
+                "sparkling",
+                "radiant"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "very_hard",
+            "difficulty": "very_hard",
+            "title": "a cold, restrained mind",
+            "words": [
+                "laconic",
+                "curt",
+                "terse",
+                "brusque"
+            ]
+        }
+    ]
+}

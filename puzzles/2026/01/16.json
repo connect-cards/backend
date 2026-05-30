@@ -1,0 +1,53 @@
+{
+    "date": "2026-01-16",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "easy",
+            "difficulty": "easy",
+            "title": "approach and distance",
+            "words": [
+                "near",
+                "adjacent",
+                "close",
+                "proximate"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "medium",
+            "difficulty": "medium",
+            "title": "event",
+            "words": [
+                "ceremony",
+                "pageant",
+                "festival",
+                "procession"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "hard",
+            "difficulty": "hard",
+            "title": "sounds that mirror resistance",
+            "words": [
+                "murmur",
+                "grumble",
+                "mutter",
+                "carp"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "very_hard",
+            "difficulty": "very_hard",
+            "title": "uncanny",
+            "words": [
+                "eldritch",
+                "uncanny",
+                "unearthly",
+                "imponderable"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "date": "2026-01-06",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "physical_trait",
+            "difficulty": "easy",
+            "title": "hard-edged surfaces",
+            "words": [
+                "abrasive",
+                "granular",
+                "whetstone",
+                "pebble"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "etymological_relation",
+            "difficulty": "medium",
+            "title": "words that trace back to speech",
+            "words": [
+                "orator",
+                "dialogue",
+                "rhetoric",
+                "eloquence"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "profession_domain",
+            "difficulty": "hard",
+            "title": "legal procedure moves",
+            "words": [
+                "arraign",
+                "litigate",
+                "testimony",
+                "summons"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "semantic_field",
+            "difficulty": "very_hard",
+            "title": "archaic measures of rank and rule",
+            "words": [
+                "tergiversate",
+                "patrician",
+                "primogeniture",
+                "jurisdiction"
+            ]
+        }
+    ]
+}

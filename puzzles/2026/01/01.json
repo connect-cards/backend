@@ -1,0 +1,53 @@
+{
+    "date": "2026-01-01",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "emotional_tone",
+            "difficulty": "easy",
+            "title": "earnest but restraining",
+            "words": [
+                "measured",
+                "tempered",
+                "restrained",
+                "guarded"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "semantic_field",
+            "difficulty": "medium",
+            "title": "sorrowful reflection",
+            "words": [
+                "melancholy",
+                "sorrow",
+                "wistful",
+                "regret"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "etymological_relation",
+            "difficulty": "hard",
+            "title": "temperaments of the self",
+            "words": [
+                "temperament",
+                "disposition",
+                "propensity",
+                "inclination"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "thematic_association",
+            "difficulty": "very_hard",
+            "title": "calm after turbulence",
+            "words": [
+                "equanimity",
+                "imperturbable",
+                "composure",
+                "serenity"
+            ]
+        }
+    ]
+}

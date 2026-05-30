@@ -1,0 +1,53 @@
+{
+    "date": "2026-01-12",
+    "groups": [
+        {
+            "id": "easy",
+            "type": "profession_domain",
+            "difficulty": "easy",
+            "title": "legal actors and documents",
+            "words": [
+                "plaintiff",
+                "defendant",
+                "indictment",
+                "deposition"
+            ]
+        },
+        {
+            "id": "medium",
+            "type": "emotional_tone",
+            "difficulty": "medium",
+            "title": "irritation and contempt",
+            "words": [
+                "resentful",
+                "spiteful",
+                "contempt",
+                "irascible"
+            ]
+        },
+        {
+            "id": "hard",
+            "type": "sound_association",
+            "difficulty": "hard",
+            "title": "speech that veers off-course",
+            "words": [
+                "oration",
+                "monologue",
+                "divagation",
+                "digression"
+            ]
+        },
+        {
+            "id": "very_hard",
+            "type": "thematic_association",
+            "difficulty": "very_hard",
+            "title": "archaic measures and relations",
+            "words": [
+                "ternion",
+                "trine",
+                "trespass",
+                "tercet"
+            ]
+        }
+    ]
+}

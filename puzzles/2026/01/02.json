@@ -1,0 +1,53 @@
+{
+    "date": "2026-01-02",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "literary_register",
+            "difficulty": "easy",
+            "title": "streetwise language",
+            "words": [
+                "bloke",
+                "chap",
+                "fella",
+                "lad"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "semantic_field",
+            "difficulty": "medium",
+            "title": "moody atmospheres",
+            "words": [
+                "murky",
+                "sombre",
+                "dreary",
+                "dingy"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "informal_register",
+            "difficulty": "hard",
+            "title": "small talk of insistence",
+            "words": [
+                "banter",
+                "banterish",
+                "quibble",
+                "wheedle"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "thematic_association",
+            "difficulty": "very_hard",
+            "title": "gloom",
+            "words": [
+                "lank",
+                "wan",
+                "sallow",
+                "haggard"
+            ]
+        }
+    ]
+}

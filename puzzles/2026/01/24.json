@@ -1,0 +1,53 @@
+{
+    "date": "2026-01-24",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "informal_register",
+            "difficulty": "easy",
+            "title": "narrow but sharp",
+            "words": [
+                "blade",
+                "brand",
+                "steel",
+                "sword"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "synonym",
+            "difficulty": "medium",
+            "title": "startle the ear",
+            "words": [
+                "throb",
+                "tremor",
+                "buzz",
+                "vibrate"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "morphological_family",
+            "difficulty": "hard",
+            "title": "not quite true",
+            "words": [
+                "factious",
+                "factual",
+                "fictional",
+                "factoid"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "sound_association",
+            "difficulty": "very_hard",
+            "title": "tongue and tone",
+            "words": [
+                "tartarean",
+                "tersely",
+                "cadence",
+                "resound"
+            ]
+        }
+    ]
+}

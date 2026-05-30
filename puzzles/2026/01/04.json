@@ -1,0 +1,53 @@
+{
+    "date": "2026-01-04",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "semantic_field",
+            "difficulty": "easy",
+            "title": "gaps and openings",
+            "words": [
+                "aperture",
+                "breach",
+                "cleft",
+                "void"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "morphological_family",
+            "difficulty": "medium",
+            "title": "sus-",
+            "words": [
+                "sustain",
+                "sustained",
+                "sustainable",
+                "sustenance"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "synonym",
+            "difficulty": "hard",
+            "title": "a quick, sharp refusal",
+            "words": [
+                "laconic",
+                "terse",
+                "curt",
+                "brusque"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "sound_association",
+            "difficulty": "very_hard",
+            "title": "spooky but plausible confusions",
+            "words": [
+                "eldritch",
+                "uncanny",
+                "unearthly",
+                "weird"
+            ]
+        }
+    ]
+}

@@ -73,7 +73,7 @@
     "judgment": [
         {
             "part_of_speech": "noun",
-            "definition": "An opinion or decision made after thinking about something carefully",
+            "definition": "an opinion or decision made after thinking about something carefully",
             "synonyms": [
                 "decision",
                 "opinion",
@@ -88,7 +88,7 @@
         },
         {
             "part_of_speech": "noun",
-            "definition": "The ability to make sensible decisions",
+            "definition": "the ability to make sensible decisions",
             "synonyms": [
                 "discernment",
                 "wisdom",
@@ -105,7 +105,7 @@
     "jostle": [
         {
             "part_of_speech": "verb",
-            "definition": "To push or bump into someone because of crowding or movement",
+            "definition": "to push or bump into someone because of crowding or movement",
             "synonyms": [
                 "bump",
                 "push",
@@ -122,7 +122,7 @@
     "jittery": [
         {
             "part_of_speech": "adjective",
-            "definition": "Nervous and unable to relax",
+            "definition": "nervous and unable to relax",
             "synonyms": [
                 "nervous",
                 "anxious",
@@ -139,7 +139,7 @@
     "juror": [
         {
             "part_of_speech": "noun",
-            "definition": "A member of a jury who listens to a case and helps decide the verdict",
+            "definition": "a member of a jury who listens to a case and helps decide the verdict",
             "synonyms": [
                 "jury member",
                 "judge (not)",
@@ -155,7 +155,7 @@
     "jurist": [
         {
             "part_of_speech": "noun",
-            "definition": "A person who studies or practices law",
+            "definition": "a person who studies or practices law",
             "synonyms": [
                 "lawyer",
                 "legal scholar",
@@ -171,7 +171,7 @@
     "judicious": [
         {
             "part_of_speech": "adjective",
-            "definition": "Showing good judgment; wise and careful",
+            "definition": "showing good judgment; wise and careful",
             "synonyms": [
                 "wise",
                 "sensible",
@@ -188,7 +188,7 @@
     "jurisdiction": [
         {
             "part_of_speech": "noun",
-            "definition": "The legal authority to make decisions and enforce laws in a specific area",
+            "definition": "the legal authority to make decisions and enforce laws in a specific area",
             "synonyms": [
                 "authority",
                 "legal power",
@@ -240,6 +240,65 @@
             "examples": [
                 "The juristic analysis focused on contract interpretation.",
                 "He published juristic commentary."
+            ]
+        }
+    ],
+    "journalist": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who collects information and writes or reports news",
+            "synonyms": [
+                "reporter",
+                "news writer",
+                "correspondent",
+                "media worker"
+            ],
+            "examples": [
+                "The journalist interviewed the mayor.",
+                "He worked as a journalist for the local paper."
+            ]
+        }
+    ],
+    "jingle": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a short bright sound, especially the ringing of small bells",
+            "synonyms": [
+                "ring",
+                "tinkle",
+                "chime",
+                "bell-sound"
+            ],
+            "examples": [
+                "She heard a jingle as the keys moved in the bowl.",
+                "The store’s sign made a soft jingle when someone walked by."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a short catchy tune or set of words used for advertising",
+            "synonyms": [
+                "jingle tune",
+                "advertising tune",
+                "catchy song"
+            ],
+            "examples": [
+                "That jingle gets stuck in my head every time the ad plays.",
+                "The company’s jingle helped the product become well known."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a short bright ringing sound",
+            "synonyms": [
+                "tinkle",
+                "ring",
+                "chime",
+                "clink"
+            ],
+            "examples": [
+                "The bracelets jingle when she walks.",
+                "Coins jingle in his pocket as he searches for change."
             ]
         }
     ]

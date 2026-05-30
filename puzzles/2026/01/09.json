@@ -1,0 +1,53 @@
+{
+    "date": "2026-01-09",
+    "groups": [
+        {
+            "id": "easy",
+            "type": "semantic_field",
+            "difficulty": "easy",
+            "title": "feelings that color perception",
+            "words": [
+                "elate",
+                "buoyant",
+                "tranquil",
+                "serene"
+            ]
+        },
+        {
+            "id": "medium",
+            "type": "emotional_tone",
+            "difficulty": "medium",
+            "title": "restless and dark moods",
+            "words": [
+                "dismal",
+                "somnolent",
+                "anxious",
+                "uneasy"
+            ]
+        },
+        {
+            "id": "hard",
+            "type": "morphological_family",
+            "difficulty": "hard",
+            "title": "-concil-",
+            "words": [
+                "reconcile",
+                "conciliation",
+                "reconcilement",
+                "reconciliatory"
+            ]
+        },
+        {
+            "id": "very_hard",
+            "type": "sound_association",
+            "difficulty": "very_hard",
+            "title": "same sounding",
+            "words": [
+                "sullen",
+                "sully",
+                "sullenly",
+                "sullyer"
+            ]
+        }
+    ]
+}

@@ -84,7 +84,7 @@
     "lamp": [
         {
             "part_of_speech": "noun",
-            "definition": "A device that emits light to illuminate a room or area.",
+            "definition": "a device that emits light to illuminate a room or area.",
             "synonyms": [
                 "light",
                 "lantern",
@@ -99,7 +99,7 @@
     "lad": [
         {
             "part_of_speech": "noun",
-            "definition": "A boy or young man; a male youth.",
+            "definition": "a boy or young man; a male youth.",
             "synonyms": [
                 "boy",
                 "son",
@@ -113,7 +113,7 @@
     "laconic": [
         {
             "part_of_speech": "adjective",
-            "definition": "Using very few words; concise to the point of seeming rude.",
+            "definition": "using very few words; concise to the point of seeming rude.",
             "synonyms": [
                 "brief",
                 "terse",
@@ -127,7 +127,7 @@
     "law": [
         {
             "part_of_speech": "noun",
-            "definition": "The system of rules that governs behavior and enforces penalties.",
+            "definition": "the system of rules that governs behavior and enforces penalties.",
             "synonyms": [
                 "rule",
                 "legislation",
@@ -141,7 +141,7 @@
     "lyrical": [
         {
             "part_of_speech": "adjective",
-            "definition": "Expressing the writer's emotions in a beautiful, musical way; poetic.",
+            "definition": "expressing the writer's emotions in a beautiful, musical way; poetic.",
             "synonyms": [
                 "poetic",
                 "melodic",
@@ -327,7 +327,7 @@
     "luring": [
         {
             "part_of_speech": "adjective",
-            "definition": "Attracting or tempting someone, sometimes in an unfair or dangerous way",
+            "definition": "attracting or tempting someone, sometimes in an unfair or dangerous way",
             "synonyms": [
                 "alluring",
                 "tempting",
@@ -344,7 +344,7 @@
     "librarian": [
         {
             "part_of_speech": "noun",
-            "definition": "A person who works in a library and helps people find books and information",
+            "definition": "a person who works in a library and helps people find books and information",
             "synonyms": [
                 "library worker",
                 "library staff member",
@@ -360,7 +360,7 @@
     "limp": [
         {
             "part_of_speech": "noun",
-            "definition": "A way of walking with difficulty due to pain in the leg or foot",
+            "definition": "a way of walking with difficulty due to pain in the leg or foot",
             "synonyms": [
                 "lame walk",
                 "uneven walk",
@@ -375,7 +375,7 @@
         },
         {
             "part_of_speech": "verb",
-            "definition": "To walk with difficulty because of pain or weakness",
+            "definition": "to walk with difficulty because of pain or weakness",
             "synonyms": [
                 "hobble",
                 "limp along",
@@ -392,7 +392,7 @@
     "lucid": [
         {
             "part_of_speech": "adjective",
-            "definition": "Clear and easy to understand",
+            "definition": "clear and easy to understand",
             "synonyms": [
                 "clear",
                 "understandable",
@@ -409,7 +409,7 @@
     "lucency": [
         {
             "part_of_speech": "noun",
-            "definition": "The quality of being clear and easy to understand, or the property of letting light pass through",
+            "definition": "the quality of being clear and easy to understand, or the property of letting light pass through",
             "synonyms": [
                 "clarity",
                 "transparency (light)",
@@ -425,7 +425,7 @@
     "luster": [
         {
             "part_of_speech": "noun",
-            "definition": "A shiny attractive quality, especially of something reflecting light",
+            "definition": "a shiny attractive quality, especially of something reflecting light",
             "synonyms": [
                 "shine",
                 "brightness",
@@ -442,7 +442,7 @@
     "luminescence": [
         {
             "part_of_speech": "noun",
-            "definition": "The emission of light by a substance, without heat from burning",
+            "definition": "the emission of light by a substance, without heat from burning",
             "synonyms": [
                 "glow",
                 "light emission",
@@ -458,7 +458,7 @@
     "ledger": [
         {
             "part_of_speech": "noun",
-            "definition": "A book or computer record that keeps financial accounts and transactions",
+            "definition": "a book or computer record that keeps financial accounts and transactions",
             "synonyms": [
                 "account book",
                 "financial record",
@@ -805,6 +805,332 @@
             "examples": [
                 "Lateralization can affect language processing.",
                 "Researchers studied lateralization in brain activity."
+            ]
+        }
+    ],
+    "lacquered": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "covered with lacquer, making a smooth shiny surface",
+            "synonyms": [
+                "polished",
+                "varnished",
+                "glossed",
+                "coated"
+            ],
+            "examples": [
+                "The table was lacquered and reflected the light.",
+                "Her nails looked lacquered under the store lamps."
+            ]
+        }
+    ],
+    "luculent": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "clear and easy to understand, especially because it explains well",
+            "synonyms": [
+                "clear",
+                "lucid",
+                "illuminating",
+                "coherent",
+                "explicit"
+            ],
+            "examples": [
+                "Her instructions were luculent and helped everyone start quickly.",
+                "The report gave a luculent explanation of the problem."
+            ]
+        }
+    ],
+    "likely": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "expected to happen or be true; probable",
+            "synonyms": [
+                "probable",
+                "expected",
+                "plausible",
+                "certain",
+                "seemingly"
+            ],
+            "examples": [
+                "It is likely to rain this afternoon.",
+                "She is likely to arrive early."
+            ]
+        }
+    ],
+    "languid": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "slow and lacking energy; not lively",
+            "synonyms": [
+                "sluggish",
+                "dull",
+                "weary",
+                "lethargic",
+                "listless"
+            ],
+            "examples": [
+                "She felt languid after the late night.",
+                "The warm weather made everyone speak in a languid way."
+            ]
+        }
+    ],
+    "lament": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to express sadness about something, often in words",
+            "synonyms": [
+                "mourn",
+                "grieve",
+                "cry",
+                "regret",
+                "bemoan"
+            ],
+            "examples": [
+                "They lamented the loss of their friend.",
+                "She lamented the missed opportunity."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "an expression of sadness or grief",
+            "synonyms": [
+                "mourning",
+                "grief",
+                "lamentation",
+                "cry",
+                "lament"
+            ],
+            "examples": [
+                "His speech was a lament for the victims.",
+                "The song is a lament."
+            ]
+        }
+    ],
+    "lantern": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a container with a light inside, often protected with glass or metal",
+            "synonyms": [
+                "light",
+                "lamp",
+                "portable light"
+            ],
+            "examples": [
+                "We carried lanterns during the evening walk.",
+                "The lantern hung on the porch."
+            ]
+        }
+    ],
+    "lopsidedness": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a condition where one side is much larger, heavier, or more important than the other; an unfair imbalance.",
+            "synonyms": [
+                "imbalance",
+                "unevenness",
+                "bias",
+                "tilt",
+                "unequal distribution"
+            ],
+            "examples": [
+                "The lopsidedness of the budget caused problems.",
+                "His lopsidedness in the argument made it hard to trust him."
+            ]
+        }
+    ],
+    "lathe": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a machine tool that rotates a workpiece so it can be cut or shaped.",
+            "synonyms": [
+                "machine tool",
+                "turning machine",
+                "metalworking machine"
+            ],
+            "examples": [
+                "He learned to operate a lathe in school.",
+                "The workshop uses a lathe for precision parts."
+            ]
+        }
+    ],
+    "lacunose": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having gaps or spaces; having missing parts.",
+            "synonyms": [
+                "gappy",
+                "full of holes",
+                "with gaps",
+                "fragmentary",
+                "interrupted"
+            ],
+            "examples": [
+                "The lacunose pattern made the text hard to read.",
+                "The data was lacunose, with many missing values."
+            ]
+        }
+    ],
+    "lawless": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "not controlled by laws; acting without rules.",
+            "synonyms": [
+                "unlawful",
+                "illegal",
+                "wild",
+                "out of control",
+                "anarchic"
+            ],
+            "examples": [
+                "The area became lawless after the power went out.",
+                "They lived in lawless conditions."
+            ]
+        }
+    ],
+    "locution": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a phrase or way of speaking; a particular wording.",
+            "synonyms": [
+                "phrase",
+                "expression",
+                "wording",
+                "way of speaking",
+                "utterance form"
+            ],
+            "examples": [
+                "The locution sounded formal.",
+                "Different locutions can change the tone of a message."
+            ]
+        }
+    ],
+    "lucent": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "light; shining or reflecting light.",
+            "synonyms": [
+                "bright",
+                "luminous",
+                "glowing",
+                "radiant",
+                "clear"
+            ],
+            "examples": [
+                "The lucent window let in soft daylight.",
+                "Her dress looked lucent in the sunlight."
+            ]
+        }
+    ],
+    "lustre": [
+        {
+            "part_of_speech": "noun",
+            "definition": "strong attractive brightness or shine, especially on a surface",
+            "synonyms": [
+                "luster",
+                "shine",
+                "glow",
+                "brightness",
+                "splendor"
+            ],
+            "examples": [
+                "The diamond lost its lustre in the dust.",
+                "Old copper can still keep a warm lustre."
+            ]
+        }
+    ],
+    "leftover": [
+        {
+            "part_of_speech": "noun",
+            "definition": "food that remains after a meal and can be used later",
+            "synonyms": [
+                "leftovers",
+                "remains",
+                "extra food"
+            ],
+            "examples": [
+                "We packed the leftover for lunch tomorrow.",
+                "There were enough leftovers for everyone."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "remaining after the main part has been used or finished",
+            "synonyms": [
+                "remaining",
+                "unused",
+                "extra",
+                "left"
+            ],
+            "examples": [
+                "We used leftover vegetables in a soup.",
+                "He served the leftover cake at the end of the party."
+            ]
+        }
+    ],
+    "laudable": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "deserving praise because it is good, helpful, or showing good intention",
+            "synonyms": [
+                "admirable",
+                "commendable",
+                "praiseworthy",
+                "worthy",
+                "respectable"
+            ],
+            "examples": [
+                "It was laudable that they donated money to local schools.",
+                "Her laudable effort improved everyone’s teamwork."
+            ]
+        }
+    ],
+    "linger": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to stay longer than necessary or to delay leaving",
+            "synonyms": [
+                "stay",
+                "remain",
+                "loiter",
+                "hang around",
+                "tarry"
+            ],
+            "examples": [
+                "We lingered in the park after dinner.",
+                "Please don’t linger; the show starts soon."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to continue for a while and not disappear quickly, such as an emotion or smell",
+            "synonyms": [
+                "persist",
+                "remain",
+                "stay",
+                "abide",
+                "hover"
+            ],
+            "examples": [
+                "A strange smell lingered in the hallway.",
+                "The sadness lingered long after the funeral."
+            ]
+        }
+    ],
+    "loiter": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to stand or move around without purpose, often in a way that takes longer than expected",
+            "synonyms": [
+                "linger",
+                "hang around",
+                "dawdle",
+                "stroll",
+                "idle"
+            ],
+            "examples": [
+                "He was told not to loiter near the entrance.",
+                "People loitered outside the café while waiting for friends."
             ]
         }
     ]

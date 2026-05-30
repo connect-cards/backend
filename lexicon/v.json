@@ -71,7 +71,7 @@
     "violet": [
         {
             "part_of_speech": "adjective",
-            "definition": "Having a color that is a shade between blue and purple.",
+            "definition": "having a color that is a shade between blue and purple.",
             "synonyms": [
                 "purple",
                 "lavender",
@@ -100,7 +100,7 @@
     "vacillate": [
         {
             "part_of_speech": "verb",
-            "definition": "To keep changing your mind between different options",
+            "definition": "to keep changing your mind between different options",
             "synonyms": [
                 "waver",
                 "hesitate",
@@ -117,7 +117,7 @@
     "vagrant": [
         {
             "part_of_speech": "noun",
-            "definition": "A person who has no home or regular job and often lives by moving from place to place",
+            "definition": "a person who has no home or regular job and often lives by moving from place to place",
             "synonyms": [
                 "homeless person",
                 "drifter",
@@ -132,7 +132,7 @@
         },
         {
             "part_of_speech": "adjective",
-            "definition": "Wandering or not having a fixed home or place",
+            "definition": "wandering or not having a fixed home or place",
             "synonyms": [
                 "wandering",
                 "nomadic",
@@ -149,7 +149,7 @@
     "vitriolic": [
         {
             "part_of_speech": "adjective",
-            "definition": "Extremely bitter and angry in speech or writing",
+            "definition": "extremely bitter and angry in speech or writing",
             "synonyms": [
                 "bitter",
                 "angry",
@@ -166,7 +166,7 @@
     "vail": [
         {
             "part_of_speech": "verb",
-            "definition": "To move down or give way, especially in a dramatic way; also to lower or cover with something",
+            "definition": "to move down or give way, especially in a dramatic way; also to lower or cover with something",
             "synonyms": [
                 "withdraw",
                 "lower",
@@ -183,7 +183,7 @@
     "verdict": [
         {
             "part_of_speech": "noun",
-            "definition": "A decision made by a judge or jury at the end of a trial",
+            "definition": "a decision made by a judge or jury at the end of a trial",
             "synonyms": [
                 "decision",
                 "judgment",
@@ -200,7 +200,7 @@
     "volume": [
         {
             "part_of_speech": "noun",
-            "definition": "A book, especially one of several books in a series",
+            "definition": "a book, especially one of several books in a series",
             "synonyms": [
                 "book",
                 "part",
@@ -215,7 +215,7 @@
         },
         {
             "part_of_speech": "noun",
-            "definition": "The amount of space something takes up, or the size of that amount",
+            "definition": "the amount of space something takes up, or the size of that amount",
             "synonyms": [
                 "size",
                 "space",
@@ -229,7 +229,7 @@
         },
         {
             "part_of_speech": "noun",
-            "definition": "The loudness of sound",
+            "definition": "the loudness of sound",
             "synonyms": [
                 "loudness",
                 "sound level",
@@ -244,7 +244,7 @@
     "verse": [
         {
             "part_of_speech": "noun",
-            "definition": "A line or a set of lines in poetry, often arranged into stanzas",
+            "definition": "a line or a set of lines in poetry, often arranged into stanzas",
             "synonyms": [
                 "poem section",
                 "poetry",
@@ -259,7 +259,7 @@
         },
         {
             "part_of_speech": "noun",
-            "definition": "A part of a song with lyrics separate from the chorus",
+            "definition": "a part of a song with lyrics separate from the chorus",
             "synonyms": [
                 "song section",
                 "lyric section",
@@ -273,7 +273,7 @@
     "vision": [
         {
             "part_of_speech": "noun",
-            "definition": "The ability to see, or the power to imagine future ideas",
+            "definition": "the ability to see, or the power to imagine future ideas",
             "synonyms": [
                 "sight",
                 "understanding",
@@ -510,7 +510,7 @@
     "varlet": [
         {
             "part_of_speech": "noun",
-            "definition": "a dishonest or low servant; a contemptible helper (often in old-fashioned use)",
+            "definition": "a dishonest or low servant; a contemptible helper",
             "synonyms": [
                 "rascal",
                 "scoundrel",
@@ -553,6 +553,169 @@
             "examples": [
                 "The car’s velocity increased on the highway.",
                 "Velocity is measured in meters per second."
+            ]
+        }
+    ],
+    "veracious": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "tending to tell the truth; honest",
+            "synonyms": [
+                "truthful",
+                "honest",
+                "candid",
+                "reliable",
+                "forthright"
+            ],
+            "examples": [
+                "He is known for veracious reporting.",
+                "The source is generally veracious."
+            ]
+        }
+    ],
+    "valiant": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very brave, especially when facing danger or difficulty",
+            "synonyms": [
+                "brave",
+                "courageous",
+                "heroic",
+                "bold",
+                "fearless"
+            ],
+            "examples": [
+                "He was valiant during the rescue.",
+                "The valiant team continued despite the storm."
+            ]
+        }
+    ],
+    "veracity": [
+        {
+            "part_of_speech": "noun",
+            "definition": "truthfulness; the habit of telling the truth",
+            "synonyms": [
+                "truthfulness",
+                "honesty",
+                "accuracy",
+                "genuineness",
+                "reliability"
+            ],
+            "examples": [
+                "The report’s veracity was verified by independent sources.",
+                "His veracity made the testimony convincing."
+            ]
+        }
+    ],
+    "void": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a complete absence of something.",
+            "synonyms": [
+                "absence",
+                "nothingness",
+                "emptiness",
+                "gap",
+                "lack"
+            ],
+            "examples": [
+                "There was a void in the schedule after she left.",
+                "He felt a void after the breakup."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "having no legal effect or no longer valid.",
+            "synonyms": [
+                "invalid",
+                "null",
+                "ineffective",
+                "voided",
+                "unlawful"
+            ],
+            "examples": [
+                "The agreement was declared void.",
+                "The ticket became void after the date."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make something no longer valid or effective.",
+            "synonyms": [
+                "invalidate",
+                "nullify",
+                "cancel",
+                "abrogate",
+                "render ineffective"
+            ],
+            "examples": [
+                "The court voided the contract.",
+                "A mistake can void the insurance claim."
+            ]
+        }
+    ],
+    "vellum": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a strong, smooth paper made in the past from animal skin, or a type of high-quality writing or printing material.",
+            "synonyms": [
+                "writing material",
+                "treated paper",
+                "fine parchment",
+                "parchment"
+            ],
+            "examples": [
+                "The letter was written on vellum.",
+                "Old manuscripts were often made from vellum."
+            ]
+        }
+    ],
+    "viscount": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a noble title that ranks below a baron and above a marquis in some systems, such as in the uk.",
+            "synonyms": [
+                "noble",
+                "lord",
+                "titled noble"
+            ],
+            "examples": [
+                "The viscount attended the ceremony.",
+                "She married a viscount."
+            ]
+        }
+    ],
+    "verily": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "truly; certainly. often used to emphasize agreement or meaning.",
+            "synonyms": [
+                "indeed",
+                "certainly",
+                "truly",
+                "surely",
+                "without doubt"
+            ],
+            "examples": [
+                "Verily, that was the right decision.",
+                "I verily believe it will work."
+            ]
+        }
+    ],
+    "vibrate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to move back and forth quickly, usually making a sound.",
+            "synonyms": [
+                "shake",
+                "tremble",
+                "oscillate",
+                "buzz",
+                "resonate"
+            ],
+            "examples": [
+                "The phone vibrated in my pocket.",
+                "The car vibrated when the wheel was misaligned."
             ]
         }
     ]

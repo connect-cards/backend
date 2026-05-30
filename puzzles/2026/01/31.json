@@ -1,0 +1,53 @@
+{
+    "date": "2026-01-31",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "easy",
+            "difficulty": "easy",
+            "title": "no sound",
+            "words": [
+                "silence",
+                "mute",
+                "hush",
+                "quiet"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "medium",
+            "difficulty": "medium",
+            "title": "small conflict",
+            "words": [
+                "spar",
+                "quarrel",
+                "bicker",
+                "tiff"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "hard",
+            "difficulty": "hard",
+            "title": "emitting light",
+            "words": [
+                "lucent",
+                "luminous",
+                "radiant",
+                "scintillating"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "very_hard",
+            "difficulty": "very_hard",
+            "title": "threefold forms",
+            "words": [
+                "tercet",
+                "terzetto",
+                "ternion",
+                "trine"
+            ]
+        }
+    ]
+}

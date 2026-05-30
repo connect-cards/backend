@@ -1,0 +1,53 @@
+{
+    "date": "2026-01-28",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "morphological_family",
+            "difficulty": "easy",
+            "title": "remains and leftovers",
+            "words": [
+                "remainder",
+                "residue",
+                "relic",
+                "leftover"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "emotional_tone",
+            "difficulty": "medium",
+            "title": "cool detachment",
+            "words": [
+                "aloof",
+                "detached",
+                "impartial",
+                "unfeeling"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "thematic_association",
+            "difficulty": "hard",
+            "title": "earned respect through merit",
+            "words": [
+                "laudable",
+                "commendable",
+                "praiseworthy",
+                "admirable"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "sound_association",
+            "difficulty": "very_hard",
+            "title": "archaic, wry expressions of surprise",
+            "words": [
+                "fie",
+                "zounds",
+                "marry",
+                "pshaw"
+            ]
+        }
+    ]
+}

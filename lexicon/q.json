@@ -115,5 +115,163 @@
                 "The program uses quaternions to rotate objects."
             ]
         }
+    ],
+    "quiver": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to shake slightly or move up and down with small fast movements",
+            "synonyms": [
+                "tremble",
+                "shake",
+                "waver",
+                "flutter",
+                "shiver"
+            ],
+            "examples": [
+                "The candle flame quivered in the draft.",
+                "Her lip quivered when she tried not to cry."
+            ]
+        }
+    ],
+    "quibble": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small objection or argument over wording that avoids the main issue",
+            "synonyms": [
+                "technicality",
+                "objection",
+                "nitpick",
+                "hair-splitting",
+                "argument"
+            ],
+            "examples": [
+                "He kept making quibbles instead of answering the question.",
+                "Don’t waste time on quibbles."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to argue about small details or wording rather than the main point",
+            "synonyms": [
+                "nitpick",
+                "argue",
+                "object",
+                "dodge",
+                "hair-split"
+            ],
+            "examples": [
+                "She quibbled over the wording of the contract.",
+                "They quibbled instead of discussing the real problem."
+            ]
+        }
+    ],
+    "quarrel": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an argument between people, usually short but unpleasant.",
+            "synonyms": [
+                "argument",
+                "fight",
+                "dispute",
+                "bicker",
+                "tiff"
+            ],
+            "examples": [
+                "They had a quarrel about money.",
+                "A quarrel broke out in the hallway."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to argue with someone, often repeatedly.",
+            "synonyms": [
+                "argue",
+                "fight",
+                "bicker",
+                "dispute",
+                "row"
+            ],
+            "examples": [
+                "They quarrelled over small things.",
+                "Stop quarrelling and listen."
+            ]
+        }
+    ],
+    "questioning": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the act of asking questions to get information.",
+            "synonyms": [
+                "interrogation",
+                "inquiry",
+                "interview",
+                "questioning session",
+                "cross-examination"
+            ],
+            "examples": [
+                "Questioning began immediately after the incident.",
+                "She answered calmly during the questioning."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "relating to asking questions or demanding answers.",
+            "synonyms": [
+                "inquisitive",
+                "demanding",
+                "interrogative",
+                "challenging"
+            ],
+            "examples": [
+                "His questioning look made her nervous.",
+                "The questioning tone sounded strict."
+            ]
+        }
+    ],
+    "quiet": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "making little or no sound; not loud",
+            "synonyms": [
+                "silent",
+                "calm",
+                "still",
+                "peaceful",
+                "hushed"
+            ],
+            "examples": [
+                "The library is quiet after five o’clock.",
+                "Please keep your voice quiet in the hospital."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "not showing feelings or acting in an emotionally calm way",
+            "synonyms": [
+                "calm",
+                "composed",
+                "restrained",
+                "untroubled"
+            ],
+            "examples": [
+                "She stayed quiet during the argument.",
+                "His quiet smile reassured everyone."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make less noise or to become calm and silent",
+            "synonyms": [
+                "silence",
+                "calm",
+                "settle",
+                "reduce",
+                "dampen"
+            ],
+            "examples": [
+                "They turned off the music to quiet the room.",
+                "The storm finally quieted in the evening."
+            ]
+        }
     ]
 }

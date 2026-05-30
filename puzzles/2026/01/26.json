@@ -1,0 +1,53 @@
+{
+    "date": "2026-01-26",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "literary_register",
+            "difficulty": "easy",
+            "title": "quick, light sounds",
+            "words": [
+                "tinkle",
+                "chime",
+                "clink",
+                "jingle"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "sound_association",
+            "difficulty": "medium",
+            "title": "low, gravelly speech",
+            "words": [
+                "raspy",
+                "gravelly",
+                "croaky",
+                "hoarse"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "thematic_association",
+            "difficulty": "hard",
+            "title": "hidden motives, plotted",
+            "words": [
+                "covert",
+                "underhand",
+                "stealthy",
+                "surreptitious"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "profession_domain",
+            "difficulty": "very_hard",
+            "title": "specialized legal actors",
+            "words": [
+                "prosecutor",
+                "juror",
+                "litigant",
+                "advocate"
+            ]
+        }
+    ]
+}

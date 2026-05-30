@@ -1,0 +1,53 @@
+{
+    "date": "2026-01-17",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "easy",
+            "difficulty": "easy",
+            "title": "metal-and-weapon soundmates",
+            "words": [
+                "blade",
+                "brand",
+                "steel",
+                "sword"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "medium",
+            "difficulty": "medium",
+            "title": "foggy film of the mind",
+            "words": [
+                "murky",
+                "dingy",
+                "somber",
+                "dreary"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "hard",
+            "difficulty": "hard",
+            "title": "shimmering light, different knots",
+            "words": [
+                "scintillating",
+                "glittering",
+                "sparkle",
+                "radiant"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "very_hard",
+            "difficulty": "very_hard",
+            "title": "poetic twin-tone threat",
+            "words": [
+                "lurid",
+                "gory",
+                "ghastly",
+                "macabre"
+            ]
+        }
+    ]
+}

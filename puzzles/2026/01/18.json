@@ -1,0 +1,53 @@
+{
+    "date": "2026-01-18",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "easy",
+            "difficulty": "easy",
+            "title": "wandering for its own sake",
+            "words": [
+                "stroll",
+                "wander",
+                "ramble",
+                "roam"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "medium",
+            "difficulty": "medium",
+            "title": "chummy minor social terms",
+            "words": [
+                "bloke",
+                "chap",
+                "lad",
+                "fella"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "hard",
+            "difficulty": "hard",
+            "title": "compact, curt exchanges",
+            "words": [
+                "laconic",
+                "terse",
+                "curt",
+                "brusque"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "very_hard",
+            "difficulty": "very_hard",
+            "title": "overseer's cold restraint",
+            "words": [
+                "austere",
+                "inclement",
+                "stoic",
+                "implacable"
+            ]
+        }
+    ]
+}

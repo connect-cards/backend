@@ -1,0 +1,53 @@
+{
+    "date": "2026-01-03",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "profession_domain",
+            "difficulty": "easy",
+            "title": "surgical instruments",
+            "words": [
+                "scalpel",
+                "forceps",
+                "trocar",
+                "speculum"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "literary_register",
+            "difficulty": "medium",
+            "title": "formal craft directions",
+            "words": [
+                "ornament",
+                "stipulate",
+                "precision",
+                "protocol"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "etymological_relation",
+            "difficulty": "hard",
+            "title": "audi-",
+            "words": [
+                "audience",
+                "auditorium",
+                "audit",
+                "audition"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "morphological_family",
+            "difficulty": "very_hard",
+            "title": "engineering notes",
+            "words": [
+                "torque",
+                "torqued",
+                "torquing",
+                "torqueing"
+            ]
+        }
+    ]
+}

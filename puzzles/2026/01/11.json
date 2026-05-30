@@ -1,0 +1,53 @@
+{
+    "date": "2026-01-11",
+    "groups": [
+        {
+            "id": "easy",
+            "type": "informal_register",
+            "difficulty": "easy",
+            "title": "casual labels for people",
+            "words": [
+                "bloke",
+                "chap",
+                "lad",
+                "fella"
+            ]
+        },
+        {
+            "id": "medium",
+            "type": "thematic_association",
+            "difficulty": "medium",
+            "title": "weather you might fear",
+            "words": [
+                "gale",
+                "squall",
+                "downpour",
+                "haze"
+            ]
+        },
+        {
+            "id": "hard",
+            "type": "profession_domain",
+            "difficulty": "hard",
+            "title": "related to workshop",
+            "words": [
+                "chisel",
+                "lathe",
+                "carpenter",
+                "forge"
+            ]
+        },
+        {
+            "id": "very_hard",
+            "type": "semantic_field",
+            "difficulty": "very_hard",
+            "title": "subtle acts of misdirection",
+            "words": [
+                "obfuscate",
+                "equivocate",
+                "camouflage",
+                "dissemble"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "date": "2026-01-25",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "literary_register",
+            "difficulty": "easy",
+            "title": "quasi-archaic motion",
+            "words": [
+                "stroll",
+                "ramble",
+                "rove",
+                "wander"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "thematic_association",
+            "difficulty": "medium",
+            "title": "atmosphere of enclosure",
+            "words": [
+                "claustrophobic",
+                "oppressive",
+                "confining",
+                "suffocating"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "morphological_family",
+            "difficulty": "hard",
+            "title": "verbs of persuasion",
+            "words": [
+                "induce",
+                "incite",
+                "instigate",
+                "inspire"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "physical_trait",
+            "difficulty": "very_hard",
+            "title": "subtle glinting quality",
+            "words": [
+                "luster",
+                "sheen",
+                "glimmer",
+                "lustre"
+            ]
+        }
+    ]
+}

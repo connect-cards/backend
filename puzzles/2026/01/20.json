@@ -1,0 +1,53 @@
+{
+    "date": "2026-01-20",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "easy",
+            "difficulty": "easy",
+            "title": "walking backward",
+            "words": [
+                "retrace",
+                "recant",
+                "restore",
+                "revert"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "medium",
+            "difficulty": "medium",
+            "title": "regret and guilt",
+            "words": [
+                "penitent",
+                "contrite",
+                "remorse",
+                "atonement"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "hard",
+            "difficulty": "hard",
+            "title": "measures of time",
+            "words": [
+                "tarry",
+                "tenure",
+                "term",
+                "duration"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "very_hard",
+            "difficulty": "very_hard",
+            "title": "uncanny",
+            "words": [
+                "eldritch",
+                "uncanny",
+                "unearthly",
+                "incomprehensible"
+            ]
+        }
+    ]
+}

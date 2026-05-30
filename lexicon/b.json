@@ -191,7 +191,7 @@
     "brook": [
         {
             "part_of_speech": "verb",
-            "definition": "To tolerate or allow without objection.",
+            "definition": "to tolerate or allow without objection.",
             "synonyms": [
                 "tolerate",
                 "endure",
@@ -206,7 +206,7 @@
     "bros": [
         {
             "part_of_speech": "noun",
-            "definition": "Plural form of bro; informal for brothers or close male friends.",
+            "definition": "plural form of bro; informal for brothers or close male friends.",
             "synonyms": [
                 "brothers",
                 "mates",
@@ -220,7 +220,7 @@
     "bro": [
         {
             "part_of_speech": "noun",
-            "definition": "An informal term for a male friend or brother.",
+            "definition": "an informal term for a male friend or brother.",
             "synonyms": [
                 "dude",
                 "man",
@@ -234,7 +234,7 @@
     "bud": [
         {
             "part_of_speech": "noun",
-            "definition": "A young shoot or bud of a plant; a friend in informal speech.",
+            "definition": "a young shoot or bud of a plant; a friend in informal speech.",
             "synonyms": [
                 "sprout",
                 "sprig",
@@ -248,7 +248,7 @@
     "benevolent": [
         {
             "part_of_speech": "adjective",
-            "definition": "Kind and helpful toward others; showing goodwill.",
+            "definition": "kind and helpful toward others; showing goodwill.",
             "synonyms": [
                 "kind",
                 "charitable",
@@ -263,7 +263,7 @@
     "benefactor": [
         {
             "part_of_speech": "noun",
-            "definition": "A person who gives help or financial aid to another person or organization.",
+            "definition": "a person who gives help or financial aid to another person or organization.",
             "synonyms": [
                 "donor",
                 "patron",
@@ -277,7 +277,7 @@
     "benefit": [
         {
             "part_of_speech": "noun",
-            "definition": "An advantage, improvement, or help gained from something.",
+            "definition": "an advantage, improvement, or help gained from something.",
             "synonyms": [
                 "advantage",
                 "profit",
@@ -291,7 +291,7 @@
     "benison": [
         {
             "part_of_speech": "noun",
-            "definition": "A blessing; an expression of good wishes.",
+            "definition": "a blessing; an expression of good wishes.",
             "synonyms": [
                 "blessing",
                 "benediction",
@@ -305,7 +305,7 @@
     "boot": [
         {
             "part_of_speech": "verb",
-            "definition": "To kick something with the foot; to start a computer or system.",
+            "definition": "to kick something with the foot; to start a computer or system.",
             "synonyms": [
                 "kick",
                 "launch",
@@ -319,7 +319,7 @@
     "bloke": [
         {
             "part_of_speech": "noun",
-            "definition": "A man; a male person (informal).",
+            "definition": "a man; a male person (informal).",
             "synonyms": [
                 "man",
                 "guy",
@@ -333,7 +333,7 @@
     "brusque": [
         {
             "part_of_speech": "adjective",
-            "definition": "Abrupt and ungracious in speech or manner.",
+            "definition": "abrupt and ungracious in speech or manner.",
             "synonyms": [
                 "abrupt",
                 "curt",
@@ -347,7 +347,7 @@
     "blade": [
         {
             "part_of_speech": "noun",
-            "definition": "The flat cutting part of a tool or weapon, such as a knife, sword, or saw.",
+            "definition": "the flat cutting part of a tool or weapon, such as a knife, sword, or saw.",
             "synonyms": [
                 "sharpened edge",
                 "cutting edge"
@@ -360,7 +360,7 @@
     "biology": [
         {
             "part_of_speech": "noun",
-            "definition": "The science that studies living organisms.",
+            "definition": "the science that studies living organisms.",
             "synonyms": [
                 "life science",
                 "bioscience"
@@ -373,7 +373,7 @@
     "bardic": [
         {
             "part_of_speech": "adjective",
-            "definition": "Relating to a bard; characteristic of a poet or minstrel.",
+            "definition": "relating to a bard; characteristic of a poet or minstrel.",
             "synonyms": [
                 "poetic",
                 "poetical",
@@ -387,7 +387,7 @@
     "buzz": [
         {
             "part_of_speech": "noun",
-            "definition": "A low, continuous humming sound.",
+            "definition": "a low, continuous humming sound.",
             "synonyms": [
                 "hum",
                 "drone",
@@ -400,7 +400,7 @@
         },
         {
             "part_of_speech": "verb",
-            "definition": "To make a buzzing sound; to vibrate with a low hum.",
+            "definition": "to make a buzzing sound; to vibrate with a low hum.",
             "synonyms": [
                 "hum",
                 "drone",
@@ -669,7 +669,7 @@
     "blunder": [
         {
             "part_of_speech": "noun",
-            "definition": "A serious mistake caused by carelessness or poor judgment",
+            "definition": "a serious mistake caused by carelessness or poor judgment",
             "synonyms": [
                 "mistake",
                 "error",
@@ -684,7 +684,7 @@
         },
         {
             "part_of_speech": "verb",
-            "definition": "To make a serious mistake",
+            "definition": "to make a serious mistake",
             "synonyms": [
                 "mess up",
                 "mistake",
@@ -701,7 +701,7 @@
     "bungle": [
         {
             "part_of_speech": "verb",
-            "definition": "To do something badly because you make mistakes",
+            "definition": "to do something badly because you make mistakes",
             "synonyms": [
                 "botch",
                 "mess up",
@@ -718,7 +718,7 @@
     "bleak": [
         {
             "part_of_speech": "adjective",
-            "definition": "Cold, empty, and unpleasant; also, offering little hope",
+            "definition": "cold, empty, and unpleasant; also, offering little hope",
             "synonyms": [
                 "dismal",
                 "gloomy",
@@ -735,7 +735,7 @@
     "behold": [
         {
             "part_of_speech": "verb",
-            "definition": "To see something, especially something impressive",
+            "definition": "to see something, especially something impressive",
             "synonyms": [
                 "see",
                 "watch",
@@ -752,7 +752,7 @@
     "bolter": [
         {
             "part_of_speech": "noun",
-            "definition": "A person or animal that suddenly escapes or runs away",
+            "definition": "a person or animal that suddenly escapes or runs away",
             "synonyms": [
                 "fugitive",
                 "escapee",
@@ -769,7 +769,7 @@
     "blunt": [
         {
             "part_of_speech": "adjective",
-            "definition": "Not sharp; having a dull edge or tip",
+            "definition": "not sharp; having a dull edge or tip",
             "synonyms": [
                 "dull",
                 "not sharp",
@@ -784,7 +784,7 @@
         },
         {
             "part_of_speech": "adjective",
-            "definition": "Direct and not trying to be polite or soft",
+            "definition": "direct and not trying to be polite or soft",
             "synonyms": [
                 "direct",
                 "frank",
@@ -801,7 +801,7 @@
     "blueprint": [
         {
             "part_of_speech": "noun",
-            "definition": "A detailed plan or drawing for building a structure or doing a project",
+            "definition": "a detailed plan or drawing for building a structure or doing a project",
             "synonyms": [
                 "plan",
                 "schematic",
@@ -818,7 +818,7 @@
     "beguiling": [
         {
             "part_of_speech": "adjective",
-            "definition": "Charming and attractive, sometimes in a way that tricks people",
+            "definition": "charming and attractive, sometimes in a way that tricks people",
             "synonyms": [
                 "charming",
                 "alluring",
@@ -835,7 +835,7 @@
     "benchmark": [
         {
             "part_of_speech": "noun",
-            "definition": "A standard or reference point used for comparison",
+            "definition": "a standard or reference point used for comparison",
             "synonyms": [
                 "standard",
                 "yardstick",
@@ -852,7 +852,7 @@
     "brand": [
         {
             "part_of_speech": "noun",
-            "definition": "A particular company’s product name or identity, often with its own design and reputation",
+            "definition": "a particular company’s product name or identity, often with its own design and reputation",
             "synonyms": [
                 "label",
                 "company brand",
@@ -867,7 +867,7 @@
         },
         {
             "part_of_speech": "verb",
-            "definition": "To mark or identify something by putting a name or symbol on it",
+            "definition": "to mark or identify something by putting a name or symbol on it",
             "synonyms": [
                 "label",
                 "identify",
@@ -884,7 +884,7 @@
     "beget": [
         {
             "part_of_speech": "verb",
-            "definition": "To cause something, especially an outcome such as a feeling or problem",
+            "definition": "to cause something, especially an outcome such as a feeling or problem",
             "synonyms": [
                 "cause",
                 "bring about",
@@ -901,7 +901,7 @@
     "barbed": [
         {
             "part_of_speech": "adjective",
-            "definition": "Having sharp points; also, said in a sharp or insulting way",
+            "definition": "having sharp points; also, said in a sharp or insulting way",
             "synonyms": [
                 "sharp",
                 "prickly",
@@ -918,7 +918,7 @@
     "blizzard": [
         {
             "part_of_speech": "noun",
-            "definition": "A severe snowstorm with strong winds and low visibility",
+            "definition": "a severe snowstorm with strong winds and low visibility",
             "synonyms": [
                 "snowstorm",
                 "snow blizzard",
@@ -934,7 +934,7 @@
     "brawl": [
         {
             "part_of_speech": "noun",
-            "definition": "A noisy, violent fight, often involving several people",
+            "definition": "a noisy, violent fight, often involving several people",
             "synonyms": [
                 "fight",
                 "brawl",
@@ -949,7 +949,7 @@
         },
         {
             "part_of_speech": "verb",
-            "definition": "To fight in a noisy and violent way",
+            "definition": "to fight in a noisy and violent way",
             "synonyms": [
                 "fight",
                 "scuffle",
@@ -966,7 +966,7 @@
     "bicker": [
         {
             "part_of_speech": "verb",
-            "definition": "To argue about small issues repeatedly",
+            "definition": "to argue about small issues repeatedly",
             "synonyms": [
                 "argue",
                 "quarrel",
@@ -983,7 +983,7 @@
     "broadsword": [
         {
             "part_of_speech": "noun",
-            "definition": "A large sword with a wide blade",
+            "definition": "a large sword with a wide blade",
             "synonyms": [
                 "wide-bladed sword",
                 "large sword",
@@ -998,7 +998,7 @@
     "beam": [
         {
             "part_of_speech": "noun",
-            "definition": "A long thick piece of metal or wood used to support a structure",
+            "definition": "a long thick piece of metal or wood used to support a structure",
             "synonyms": [
                 "girder",
                 "support beam",
@@ -1012,7 +1012,7 @@
         },
         {
             "part_of_speech": "verb",
-            "definition": "To send out light, radio signals, or energy in a direction",
+            "definition": "to send out light, radio signals, or energy in a direction",
             "synonyms": [
                 "send",
                 "project",
@@ -1029,7 +1029,7 @@
     "banter": [
         {
             "part_of_speech": "noun",
-            "definition": "Playful and friendly conversation, often with jokes",
+            "definition": "playful and friendly conversation, often with jokes",
             "synonyms": [
                 "teasing",
                 "joking",
@@ -1044,7 +1044,7 @@
         },
         {
             "part_of_speech": "verb",
-            "definition": "To exchange playful remarks",
+            "definition": "to exchange playful remarks",
             "synonyms": [
                 "joke",
                 "tease",
@@ -1229,7 +1229,7 @@
     "buoyant": [
         {
             "part_of_speech": "adjective",
-            "definition": "Able to float and stay up on water",
+            "definition": "able to float and stay up on water",
             "synonyms": [
                 "floating",
                 "floatable"
@@ -1241,7 +1241,7 @@
         },
         {
             "part_of_speech": "adjective",
-            "definition": "Cheerful and confident, especially when facing problems",
+            "definition": "cheerful and confident, especially when facing problems",
             "synonyms": [
                 "optimistic",
                 "cheerful",
@@ -1257,7 +1257,7 @@
     "bolster": [
         {
             "part_of_speech": "verb",
-            "definition": "To support something and make it stronger or more likely to succeed",
+            "definition": "to support something and make it stronger or more likely to succeed",
             "synonyms": [
                 "strengthen",
                 "support",
@@ -1272,7 +1272,7 @@
         },
         {
             "part_of_speech": "noun",
-            "definition": "Support that helps something stay strong or improve performance",
+            "definition": "support that helps something stay strong or improve performance",
             "synonyms": [
                 "support",
                 "reinforcement",
@@ -1485,6 +1485,214 @@
             ],
             "examples": [
                 "The wood showed slight bowing after the change in temperature."
+            ]
+        }
+    ],
+    "blabber": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to talk too much, often saying things that should be kept private",
+            "synonyms": [
+                "blurt",
+                "babble",
+                "chatter",
+                "gossip",
+                "prattle"
+            ],
+            "examples": [
+                "Don’t blabber about the plan before we confirm it.",
+                "She blabbered and revealed the surprise."
+            ]
+        }
+    ],
+    "believable": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "easy to believe; likely to be true",
+            "synonyms": [
+                "credible",
+                "plausible",
+                "trustworthy",
+                "convincing",
+                "reasonable"
+            ],
+            "examples": [
+                "The story was believable once we saw the evidence.",
+                "His excuse was believable."
+            ]
+        }
+    ],
+    "bailiff": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an officer of a court who helps manage the courtroom and court proceedings",
+            "synonyms": [
+                "court officer",
+                "official"
+            ],
+            "examples": [
+                "The bailiff called the case number.",
+                "A bailiff escorted the witness."
+            ]
+        }
+    ],
+    "banterish": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "full of playful jokes and teasing talk.",
+            "synonyms": [
+                "playful",
+                "cheeky",
+                "bantering",
+                "witty",
+                "teasing"
+            ],
+            "examples": [
+                "Their banterish conversation made the meeting feel lighter.",
+                "He gave a banterish reply instead of taking offense."
+            ]
+        }
+    ],
+    "breach": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a break in rules, agreement, or safety.",
+            "synonyms": [
+                "violation",
+                "breaking",
+                "infringement",
+                "transgression",
+                "rupture"
+            ],
+            "examples": [
+                "The company admitted a breach of contract.",
+                "Security suffered a breach last month."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to break a law, agreement, or rule.",
+            "synonyms": [
+                "violate",
+                "break",
+                "infringe",
+                "transgress",
+                "disobey"
+            ],
+            "examples": [
+                "The employee breached the policy.",
+                "They breached the terms of the lease."
+            ]
+        }
+    ],
+    "brawn": [
+        {
+            "part_of_speech": "noun",
+            "definition": "strong physical strength used for fighting or hard work.",
+            "synonyms": [
+                "strength",
+                "physical power",
+                "muscle",
+                "toughness",
+                "bulk"
+            ],
+            "examples": [
+                "He relied on brawn to lift the heavy box.",
+                "The job needs brawn as well as skill."
+            ]
+        }
+    ],
+    "bulk": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the main part or the largest amount of something.",
+            "synonyms": [
+                "majority",
+                "main part",
+                "mass",
+                "body",
+                "volume"
+            ],
+            "examples": [
+                "The bulk of the work was done early.",
+                "Most people never see the bulk of the report."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "the large size or heaviness of something.",
+            "synonyms": [
+                "size",
+                "mass",
+                "thickness",
+                "bulkiness",
+                "volume"
+            ],
+            "examples": [
+                "The bulk of the machine made it hard to move.",
+                "Store the packages to avoid bulk in the hallway."
+            ]
+        }
+    ],
+    "barrister": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a type of lawyer who represents clients in court, common in some countries such as the uk and ireland.",
+            "synonyms": [
+                "court lawyer",
+                "advocate",
+                "lawyer"
+            ],
+            "examples": [
+                "The barrister argued the case in court.",
+                "She hired a barrister for the hearing."
+            ]
+        }
+    ],
+    "baron": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a noble title in some countries, ranking below a viscount and above a lesser title.",
+            "synonyms": [
+                "noble",
+                "lord",
+                "titled noble"
+            ],
+            "examples": [
+                "He was appointed a baron.",
+                "The baron lived in a large estate."
+            ]
+        }
+    ],
+    "babble": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to talk in a continuous, often unclear way.",
+            "synonyms": [
+                "chatter",
+                "blabber",
+                "ramble",
+                "talk on",
+                "prattle"
+            ],
+            "examples": [
+                "Stop babbling and explain the problem clearly.",
+                "The children babbled happily on the walk."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "continuous talk that is unclear or not meaningful.",
+            "synonyms": [
+                "chatter",
+                "blabber",
+                "gibberish",
+                "rambling talk",
+                "prattle"
+            ],
+            "examples": [
+                "He couldn’t understand the babble in the background.",
+                "There was only babble on the recording."
             ]
         }
     ]

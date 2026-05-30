@@ -16,7 +16,7 @@
     "uncle": [
         {
             "part_of_speech": "noun",
-            "definition": "The brother of one of your parents; a male relative.",
+            "definition": "the brother of one of your parents; a male relative.",
             "synonyms": [
                 "maternal uncle",
                 "paternal uncle",
@@ -31,7 +31,7 @@
     "uncanny": [
         {
             "part_of_speech": "adjective",
-            "definition": "Strange or mysterious in a way that seems beyond understanding.",
+            "definition": "strange or mysterious in a way that seems beyond understanding.",
             "synonyms": [
                 "eerie",
                 "unusual",
@@ -45,7 +45,7 @@
     "unearthly": [
         {
             "part_of_speech": "adjective",
-            "definition": "Very strange or unnatural; not fitting in this world.",
+            "definition": "very strange or unnatural; not fitting in this world.",
             "synonyms": [
                 "eerie",
                 "otherworldly",
@@ -59,7 +59,7 @@
     "unsaid": [
         {
             "part_of_speech": "adjective",
-            "definition": "Not spoken; kept private or not expressed",
+            "definition": "not spoken; kept private or not expressed",
             "synonyms": [
                 "unspoken",
                 "unstated",
@@ -76,7 +76,7 @@
     "unspoken": [
         {
             "part_of_speech": "adjective",
-            "definition": "Not said, but understood or felt by people",
+            "definition": "not said, but understood or felt by people",
             "synonyms": [
                 "unsaid",
                 "unstated",
@@ -93,7 +93,7 @@
     "unwelcoming": [
         {
             "part_of_speech": "adjective",
-            "definition": "Not friendly or not ready to accept visitors",
+            "definition": "not friendly or not ready to accept visitors",
             "synonyms": [
                 "unfriendly",
                 "hostile",
@@ -110,7 +110,7 @@
     "unravel": [
         {
             "part_of_speech": "verb",
-            "definition": "To become clear by solving parts of a complex situation, or to come apart gradually",
+            "definition": "to become clear by solving parts of a complex situation, or to come apart gradually",
             "synonyms": [
                 "resolve",
                 "clarify",
@@ -127,7 +127,7 @@
     "unctionless": [
         {
             "part_of_speech": "adjective",
-            "definition": "Lacking warmth, sincerity, or spiritual meaning; sounding empty or unconvincing",
+            "definition": "lacking warmth, sincerity, or spiritual meaning; sounding empty or unconvincing",
             "synonyms": [
                 "insincere",
                 "empty",
@@ -144,7 +144,7 @@
     "unseasoned": [
         {
             "part_of_speech": "adjective",
-            "definition": "Not experienced or not trained; also, not mixed or flavored with seasoning",
+            "definition": "not experienced or not trained; also, not mixed or flavored with seasoning",
             "synonyms": [
                 "inexperienced",
                 "raw",
@@ -161,7 +161,7 @@
     "unschooled": [
         {
             "part_of_speech": "adjective",
-            "definition": "Not taught formally; lacking school education",
+            "definition": "not taught formally; lacking school education",
             "synonyms": [
                 "uneducated",
                 "untrained",
@@ -178,7 +178,7 @@
     "unwonted": [
         {
             "part_of_speech": "adjective",
-            "definition": "Unusual or not typical; uncommon",
+            "definition": "unusual or not typical; uncommon",
             "synonyms": [
                 "unusual",
                 "rare",
@@ -195,7 +195,7 @@
     "unverifiable": [
         {
             "part_of_speech": "adjective",
-            "definition": "Impossible to confirm or prove because there is no reliable evidence",
+            "definition": "impossible to confirm or prove because there is no reliable evidence",
             "synonyms": [
                 "uncertain",
                 "unprovable",
@@ -212,7 +212,7 @@
     "uneasy": [
         {
             "part_of_speech": "adjective",
-            "definition": "Slightly worried or uncomfortable; not at ease",
+            "definition": "slightly worried or uncomfortable; not at ease",
             "synonyms": [
                 "worried",
                 "nervous",
@@ -229,7 +229,7 @@
     "unrelenting": [
         {
             "part_of_speech": "adjective",
-            "definition": "Not stopping or becoming less strong; continuing without pause",
+            "definition": "not stopping or becoming less strong; continuing without pause",
             "synonyms": [
                 "relentless",
                 "constant",
@@ -246,7 +246,7 @@
     "unease": [
         {
             "part_of_speech": "noun",
-            "definition": "A feeling of worry or discomfort",
+            "definition": "a feeling of worry or discomfort",
             "synonyms": [
                 "anxiety",
                 "worry",
@@ -263,7 +263,7 @@
     "ungird": [
         {
             "part_of_speech": "verb",
-            "definition": "To remove a belt or strap; also, to loosen or take away restraint",
+            "definition": "to remove a belt or strap; also, to loosen or take away restraint",
             "synonyms": [
                 "unfasten",
                 "remove",
@@ -419,6 +419,154 @@
             "examples": [
                 "He had an ulterior motive for helping.",
                 "The negotiation had ulterior goals."
+            ]
+        }
+    ],
+    "unruffled": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "calm and not worried or upset",
+            "synonyms": [
+                "calm",
+                "composed",
+                "steady",
+                "untroubled",
+                "serene"
+            ],
+            "examples": [
+                "She stayed unruffled even during the problem.",
+                "His unruffled attitude helped the team."
+            ]
+        }
+    ],
+    "unquiet": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "not calm; restless or worried",
+            "synonyms": [
+                "restless",
+                "uneasy",
+                "agitated",
+                "troubled",
+                "disturbed"
+            ],
+            "examples": [
+                "She felt unquiet after the strange message.",
+                "The unquiet crowd kept asking questions."
+            ]
+        }
+    ],
+    "unctuous": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having an overly sweet, insincere way of speaking or behaving.",
+            "synonyms": [
+                "insincere",
+                "self-satisfied",
+                "overly smooth",
+                "oily",
+                "hypocritical"
+            ],
+            "examples": [
+                "His unctuous praise sounded fake.",
+                "She avoided his unctuous tone."
+            ]
+        }
+    ],
+    "utterance": [
+        {
+            "part_of_speech": "noun",
+            "definition": "something someone says; a spoken statement.",
+            "synonyms": [
+                "statement",
+                "remark",
+                "speech",
+                "comment",
+                "saying"
+            ],
+            "examples": [
+                "The judge listened to each utterance carefully.",
+                "His utterance was brief but clear."
+            ]
+        }
+    ],
+    "underhand": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "done secretly in a dishonest way to gain an advantage",
+            "synonyms": [
+                "dishonest",
+                "covert",
+                "unfair",
+                "deceitful"
+            ],
+            "examples": [
+                "They accused him of underhand tactics during the negotiation.",
+                "The underhand plan was meant to steal the contract."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "hidden from others or done in a way that avoids being noticed",
+            "synonyms": [
+                "secret",
+                "covert",
+                "stealthy"
+            ],
+            "examples": [
+                "He took an underhand route to avoid the crowd.",
+                "The memo described an underhand method for hiding expenses."
+            ]
+        }
+    ],
+    "urgent": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "so important or serious that it must be dealt with quickly",
+            "synonyms": [
+                "immediate",
+                "pressing",
+                "critical",
+                "vital",
+                "time-sensitive"
+            ],
+            "examples": [
+                "The doctor said it was urgent and scheduled surgery quickly.",
+                "We received an urgent message from the client."
+            ]
+        }
+    ],
+    "unfeeling": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having little or no sympathy for other people’s feelings",
+            "synonyms": [
+                "cold",
+                "insensitive",
+                "callous",
+                "heartless",
+                "unsympathetic"
+            ],
+            "examples": [
+                "Her unfeeling response shocked the family.",
+                "He seemed unfeeling when he refused to help."
+            ]
+        }
+    ],
+    "unheimlich": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "causing an uneasy feeling, as if something is strange or unsettling",
+            "synonyms": [
+                "uncanny",
+                "eerie",
+                "unsettling",
+                "strange",
+                "creepy"
+            ],
+            "examples": [
+                "The abandoned house felt unheimlich and frightening.",
+                "She described the dream as unheimlich."
             ]
         }
     ]

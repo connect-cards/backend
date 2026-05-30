@@ -235,7 +235,7 @@
     "rug": [
         {
             "part_of_speech": "verb",
-            "definition": "To cover a surface with a rug or carpet.",
+            "definition": "to cover a surface with a rug or carpet.",
             "synonyms": [
                 "carpet",
                 "floor"
@@ -248,7 +248,7 @@
     "river": [
         {
             "part_of_speech": "noun",
-            "definition": "A large natural stream of water flowing in a channel to the sea, a lake, or another stream.",
+            "definition": "a large natural stream of water flowing in a channel to the sea, a lake, or another stream.",
             "synonyms": [
                 "watercourse",
                 "stream",
@@ -445,7 +445,7 @@
     "radiologist": [
         {
             "part_of_speech": "noun",
-            "definition": "A doctor who diagnoses and treats disease using medical imaging, such as X-rays and scans",
+            "definition": "a doctor who diagnoses and treats disease using medical imaging, such as X-rays and scans",
             "synonyms": [
                 "imaging doctor",
                 "medical imaging specialist",
@@ -461,7 +461,7 @@
     "retribution": [
         {
             "part_of_speech": "noun",
-            "definition": "Punishment for wrongdoing, especially when it is meant to be deserved",
+            "definition": "punishment for wrongdoing, especially when it is meant to be deserved",
             "synonyms": [
                 "punishment",
                 "vengeance",
@@ -478,7 +478,7 @@
     "resentful": [
         {
             "part_of_speech": "adjective",
-            "definition": "Feeling angry or bitter because you think you were treated unfairly",
+            "definition": "feeling angry or bitter because you think you were treated unfairly",
             "synonyms": [
                 "angry",
                 "bitter",
@@ -495,7 +495,7 @@
     "retain": [
         {
             "part_of_speech": "verb",
-            "definition": "To keep something or continue to have something",
+            "definition": "to keep something or continue to have something",
             "synonyms": [
                 "keep",
                 "hold",
@@ -512,7 +512,7 @@
     "regard": [
         {
             "part_of_speech": "noun",
-            "definition": "Attention or respect shown to someone or something",
+            "definition": "attention or respect shown to someone or something",
             "synonyms": [
                 "respect",
                 "consideration",
@@ -527,7 +527,7 @@
         },
         {
             "part_of_speech": "verb",
-            "definition": "To see or consider someone or something in a particular way",
+            "definition": "to see or consider someone or something in a particular way",
             "synonyms": [
                 "consider",
                 "view",
@@ -544,7 +544,7 @@
     "regale": [
         {
             "part_of_speech": "verb",
-            "definition": "To entertain someone by telling stories or giving interesting information",
+            "definition": "to entertain someone by telling stories or giving interesting information",
             "synonyms": [
                 "entertain",
                 "delight",
@@ -561,7 +561,7 @@
     "restrained": [
         {
             "part_of_speech": "adjective",
-            "definition": "Controlled and not showing too much emotion",
+            "definition": "controlled and not showing too much emotion",
             "synonyms": [
                 "controlled",
                 "calm",
@@ -578,7 +578,7 @@
     "repair": [
         {
             "part_of_speech": "verb",
-            "definition": "To restore something to good condition after damage",
+            "definition": "to restore something to good condition after damage",
             "synonyms": [
                 "fix",
                 "mend",
@@ -595,7 +595,7 @@
     "restore": [
         {
             "part_of_speech": "verb",
-            "definition": "To bring something back to its original condition or state",
+            "definition": "to bring something back to its original condition or state",
             "synonyms": [
                 "rebuild",
                 "renew",
@@ -612,7 +612,7 @@
     "rumble": [
         {
             "part_of_speech": "verb",
-            "definition": "To make a deep continuous sound, or to move heavily",
+            "definition": "to make a deep continuous sound, or to move heavily",
             "synonyms": [
                 "growl",
                 "murmur (low)",
@@ -627,7 +627,7 @@
         },
         {
             "part_of_speech": "noun",
-            "definition": "A deep continuous sound, often from thunder or engines",
+            "definition": "a deep continuous sound, often from thunder or engines",
             "synonyms": [
                 "growl",
                 "thunder (distant)",
@@ -642,7 +642,7 @@
     "rattle": [
         {
             "part_of_speech": "verb",
-            "definition": "To make a quick series of small hard sounds",
+            "definition": "to make a quick series of small hard sounds",
             "synonyms": [
                 "clatter",
                 "jingle",
@@ -657,7 +657,7 @@
         },
         {
             "part_of_speech": "noun",
-            "definition": "A series of short hard sounds",
+            "definition": "a series of short hard sounds",
             "synonyms": [
                 "clatter",
                 "rattle",
@@ -672,7 +672,7 @@
     "recede": [
         {
             "part_of_speech": "verb",
-            "definition": "To move back or become farther away",
+            "definition": "to move back or become farther away",
             "synonyms": [
                 "withdraw",
                 "move back",
@@ -689,7 +689,7 @@
     "restive": [
         {
             "part_of_speech": "adjective",
-            "definition": "Unable to stay calm or still; restless",
+            "definition": "unable to stay calm or still; restless",
             "synonyms": [
                 "restless",
                 "impatient",
@@ -706,7 +706,7 @@
     "ruddy": [
         {
             "part_of_speech": "adjective",
-            "definition": "Having a reddish or healthy rosy color, especially in the face",
+            "definition": "having a reddish or healthy rosy color, especially in the face",
             "synonyms": [
                 "rosy",
                 "reddish",
@@ -723,7 +723,7 @@
     "require": [
         {
             "part_of_speech": "verb",
-            "definition": "To need something or make something necessary",
+            "definition": "to need something or make something necessary",
             "synonyms": [
                 "need",
                 "demand",
@@ -740,7 +740,7 @@
     "request": [
         {
             "part_of_speech": "noun",
-            "definition": "An official or polite asking for something",
+            "definition": "an official or polite asking for something",
             "synonyms": [
                 "ask",
                 "plea",
@@ -755,7 +755,7 @@
         },
         {
             "part_of_speech": "verb",
-            "definition": "To ask for something politely or formally",
+            "definition": "to ask for something politely or formally",
             "synonyms": [
                 "ask",
                 "seek",
@@ -772,7 +772,7 @@
     "ratiocinate": [
         {
             "part_of_speech": "verb",
-            "definition": "To reason in a logical way, often carefully and step by step",
+            "definition": "to reason in a logical way, often carefully and step by step",
             "synonyms": [
                 "reason",
                 "argue",
@@ -789,7 +789,7 @@
     "rationale": [
         {
             "part_of_speech": "noun",
-            "definition": "The reason or justification for an action or decision",
+            "definition": "the reason or justification for an action or decision",
             "synonyms": [
                 "reasoning",
                 "justification",
@@ -806,7 +806,7 @@
     "ratiocination": [
         {
             "part_of_speech": "noun",
-            "definition": "The process of reasoning logically to reach a conclusion",
+            "definition": "the process of reasoning logically to reach a conclusion",
             "synonyms": [
                 "reasoning",
                 "logical thinking",
@@ -823,7 +823,7 @@
     "reasonable": [
         {
             "part_of_speech": "adjective",
-            "definition": "Fair, sensible, and not extreme",
+            "definition": "fair, sensible, and not extreme",
             "synonyms": [
                 "sensible",
                 "fair",
@@ -840,7 +840,7 @@
     "reveal": [
         {
             "part_of_speech": "verb",
-            "definition": "To make something known or visible that was hidden before",
+            "definition": "to make something known or visible that was hidden before",
             "synonyms": [
                 "show",
                 "uncover",
@@ -857,7 +857,7 @@
     "resolute": [
         {
             "part_of_speech": "adjective",
-            "definition": "Firm and determined; not giving up easily",
+            "definition": "firm and determined; not giving up easily",
             "synonyms": [
                 "determined",
                 "firm",
@@ -874,7 +874,7 @@
     "recoil": [
         {
             "part_of_speech": "verb",
-            "definition": "To move back suddenly because of fear, pain, or disgust",
+            "definition": "to move back suddenly because of fear, pain, or disgust",
             "synonyms": [
                 "back off",
                 "shrink",
@@ -891,7 +891,7 @@
     "recant": [
         {
             "part_of_speech": "verb",
-            "definition": "To withdraw a statement, especially an opinion or claim, because it was wrong",
+            "definition": "to withdraw a statement, especially an opinion or claim, because it was wrong",
             "synonyms": [
                 "withdraw",
                 "take back",
@@ -908,7 +908,7 @@
     "retract": [
         {
             "part_of_speech": "verb",
-            "definition": "To withdraw a statement or decision, saying it was not correct",
+            "definition": "to withdraw a statement or decision, saying it was not correct",
             "synonyms": [
                 "withdraw",
                 "take back",
@@ -925,7 +925,7 @@
     "refrain": [
         {
             "part_of_speech": "verb",
-            "definition": "To stop yourself from doing something; avoid doing it",
+            "definition": "to stop yourself from doing something; avoid doing it",
             "synonyms": [
                 "avoid",
                 "stop",
@@ -940,7 +940,7 @@
         },
         {
             "part_of_speech": "noun",
-            "definition": "A repeated line or phrase in a song",
+            "definition": "a repeated line or phrase in a song",
             "synonyms": [
                 "chorus",
                 "repeated line",
@@ -956,7 +956,7 @@
     "repudiate": [
         {
             "part_of_speech": "verb",
-            "definition": "To refuse to accept something, reject it, or deny responsibility",
+            "definition": "to refuse to accept something, reject it, or deny responsibility",
             "synonyms": [
                 "reject",
                 "refuse",
@@ -973,7 +973,7 @@
     "rebuff": [
         {
             "part_of_speech": "verb",
-            "definition": "To reject someone’s offer, attempt, or request in a forceful or unfriendly way",
+            "definition": "to reject someone’s offer, attempt, or request in a forceful or unfriendly way",
             "synonyms": [
                 "reject",
                 "refuse",
@@ -990,7 +990,7 @@
     "resist": [
         {
             "part_of_speech": "verb",
-            "definition": "To oppose something or prevent it from affecting you",
+            "definition": "to oppose something or prevent it from affecting you",
             "synonyms": [
                 "withstand",
                 "oppose",
@@ -1007,7 +1007,7 @@
     "raider": [
         {
             "part_of_speech": "noun",
-            "definition": "A person or group that attacks or steals from places",
+            "definition": "a person or group that attacks or steals from places",
             "synonyms": [
                 "attacker",
                 "plunderer",
@@ -1024,7 +1024,7 @@
     "radiance": [
         {
             "part_of_speech": "noun",
-            "definition": "A bright shining quality; strong and beautiful light",
+            "definition": "a bright shining quality; strong and beautiful light",
             "synonyms": [
                 "brightness",
                 "glow",
@@ -1041,7 +1041,7 @@
     "resonant": [
         {
             "part_of_speech": "adjective",
-            "definition": "Having a strong, clear sound or quality that carries well",
+            "definition": "having a strong, clear sound or quality that carries well",
             "synonyms": [
                 "echoing",
                 "sonorous",
@@ -1058,7 +1058,7 @@
     "reverberate": [
         {
             "part_of_speech": "verb",
-            "definition": "To continue ringing or echoing after the sound is made",
+            "definition": "to continue ringing or echoing after the sound is made",
             "synonyms": [
                 "echo",
                 "resound",
@@ -1075,7 +1075,7 @@
     "recital": [
         {
             "part_of_speech": "noun",
-            "definition": "A public performance of music or speech, usually by one person",
+            "definition": "a public performance of music or speech, usually by one person",
             "synonyms": [
                 "performance",
                 "presentation",
@@ -1569,7 +1569,7 @@
     "reassure": [
         {
             "part_of_speech": "verb",
-            "definition": "To reduce someone’s fear or worry by giving support or information",
+            "definition": "to reduce someone’s fear or worry by giving support or information",
             "synonyms": [
                 "comfort",
                 "calm",
@@ -1788,6 +1788,493 @@
             "examples": [
                 "I revised the report before submitting it.",
                 "She revised her plan after feedback."
+            ]
+        }
+    ],
+    "rumpled": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "creased or wrinkled, especially because of being pressed or moved",
+            "synonyms": [
+                "wrinkled",
+                "crumpled",
+                "creased",
+                "tousled",
+                "rumpled-up"
+            ],
+            "examples": [
+                "His shirt was rumpled after the long ride.",
+                "The bed sheets were rumpled in the morning."
+            ]
+        }
+    ],
+    "ruler": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a flat strip with measurement marks used for drawing lines or measuring lengths",
+            "synonyms": [
+                "straightedge",
+                "measuring strip",
+                "scale"
+            ],
+            "examples": [
+                "Use the ruler to draw a straight line.",
+                "The ruler shows centimeters and inches."
+            ]
+        }
+    ],
+    "resentment": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a feeling of anger because you think you have been treated unfairly",
+            "synonyms": [
+                "bitterness",
+                "anger",
+                "hostility",
+                "ill will",
+                "indignation"
+            ],
+            "examples": [
+                "She held resentment toward her former boss.",
+                "His resentment showed when he refused to help."
+            ]
+        }
+    ],
+    "recline": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to lie back in a relaxed position",
+            "synonyms": [
+                "lie back",
+                "lean back",
+                "rest",
+                "stretch out",
+                "sink back"
+            ],
+            "examples": [
+                "He reclined on the sofa to read.",
+                "The chair reclines to a comfortable angle."
+            ]
+        }
+    ],
+    "recess": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a break between school classes or activities",
+            "synonyms": [
+                "break",
+                "interval",
+                "rest period"
+            ],
+            "examples": [
+                "The students went outside during recess.",
+                "We met after recess."
+            ]
+        }
+    ],
+    "reticent": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "quiet and not willing to share thoughts or information",
+            "synonyms": [
+                "reserved",
+                "quiet",
+                "shy",
+                "guarded",
+                "tacit"
+            ],
+            "examples": [
+                "She was reticent about her personal life.",
+                "He stayed reticent during the interview."
+            ]
+        }
+    ],
+    "reverent": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "showing deep respect, often in a quiet way",
+            "synonyms": [
+                "respectful",
+                "serious",
+                "awed",
+                "devout",
+                "solemn"
+            ],
+            "examples": [
+                "They walked in a reverent silence.",
+                "He made a reverent gesture before lighting the candle."
+            ]
+        }
+    ],
+    "rhetoric": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the skill of speaking or writing in a persuasive or expressive way",
+            "synonyms": [
+                "speaking style",
+                "persuasion",
+                "argumentation",
+                "oratory",
+                "eloquence"
+            ],
+            "examples": [
+                "The course covered rhetoric and public speaking.",
+                "Good rhetoric can influence how people think."
+            ]
+        }
+    ],
+    "rhetorical": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "meant to persuade or create an effect rather than to ask for real answers",
+            "synonyms": [
+                "persuasive",
+                "argumentative",
+                "expressive",
+                "convincing",
+                "trumpeting"
+            ],
+            "examples": [
+                "Her rhetorical question made the audience think.",
+                "The speech used rhetorical techniques to inspire people."
+            ]
+        }
+    ],
+    "radiation": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the transfer of energy through space by electromagnetic waves",
+            "synonyms": [
+                "radiant energy",
+                "electromagnetic radiation"
+            ],
+            "examples": [
+                "The sun warms us through radiation.",
+                "Heat from the heater comes from radiation."
+            ]
+        }
+    ],
+    "report": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a written or spoken account of something, based on information",
+            "synonyms": [
+                "account",
+                "record",
+                "summary",
+                "document",
+                "statement"
+            ],
+            "examples": [
+                "I read the report about the study.",
+                "The police report was filed that morning."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to tell or write about something officially or publicly",
+            "synonyms": [
+                "announce",
+                "inform",
+                "submit",
+                "record",
+                "declare"
+            ],
+            "examples": [
+                "They will report the results next week.",
+                "She reported the issue to her supervisor."
+            ]
+        }
+    ],
+    "regret": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a feeling that you wish you had done something differently in the past.",
+            "synonyms": [
+                "remorse",
+                "guilt",
+                "repentance",
+                "disappointment",
+                "regretting"
+            ],
+            "examples": [
+                "She felt regret after the decision.",
+                "His regret showed in his apology."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to feel sorry about something you did or did not do.",
+            "synonyms": [
+                "be sorry",
+                "repent",
+                "feel remorse",
+                "mourn",
+                "grieve"
+            ],
+            "examples": [
+                "I regret saying that.",
+                "They regret missing the chance to help."
+            ]
+        }
+    ],
+    "reprove": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to criticize someone in order to show disapproval.",
+            "synonyms": [
+                "reprimand",
+                "criticize",
+                "scold",
+                "fault",
+                "censure"
+            ],
+            "examples": [
+                "The manager reproved him for ignoring the rules.",
+                "Parents may reprove children for unsafe behavior."
+            ]
+        }
+    ],
+    "reconcile": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to restore friendly relations between people after an argument or conflict.",
+            "synonyms": [
+                "settle",
+                "make peace",
+                "patch up",
+                "harmonize",
+                "bring together"
+            ],
+            "examples": [
+                "They tried to reconcile after the fight.",
+                "With time, the family was able to reconcile."
+            ]
+        }
+    ],
+    "reconciliatement": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a nonstandard form; use reconciliation or conciliation.",
+            "synonyms": [
+                "reconciliation",
+                "conciliation"
+            ],
+            "examples": [
+                "The correct word is reconciliation, not reconciliatement."
+            ]
+        }
+    ],
+    "reconciliatory": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "designed to help people make peace after a disagreement.",
+            "synonyms": [
+                "peace-making",
+                "reconciling",
+                "mediation-related",
+                "harmonizing",
+                "amending"
+            ],
+            "examples": [
+                "He gave a reconciliatory speech to both groups.",
+                "Her reconciliatory approach prevented the dispute from worsening."
+            ]
+        }
+    ],
+    "retrace": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to go back along the route you previously followed; to repeat earlier steps.",
+            "synonyms": [
+                "go back",
+                "return",
+                "repeat",
+                "track back",
+                "backtrack"
+            ],
+            "examples": [
+                "Retrace your steps to find where you dropped the keys.",
+                "He retraced his route to reach the station."
+            ]
+        }
+    ],
+    "revert": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to go back to a previous state or condition.",
+            "synonyms": [
+                "return",
+                "go back",
+                "switch back",
+                "resort",
+                "turn back"
+            ],
+            "examples": [
+                "The design will revert to the earlier version.",
+                "After the test, the system will revert to standard settings."
+            ]
+        }
+    ],
+    "remorse": [
+        {
+            "part_of_speech": "noun",
+            "definition": "deep regret and guilt for doing something wrong.",
+            "synonyms": [
+                "regret",
+                "guilt",
+                "penitence",
+                "self-reproach",
+                "repentance"
+            ],
+            "examples": [
+                "He showed remorse for his actions.",
+                "There was real remorse in her apology."
+            ]
+        }
+    ],
+    "rill": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small stream or channel of water, usually narrow and shallow.",
+            "synonyms": [
+                "streamlet",
+                "small stream",
+                "brooklet",
+                "runlet"
+            ],
+            "examples": [
+                "Rainwater formed a rill across the garden.",
+                "A rill led into the pond."
+            ]
+        }
+    ],
+    "rove": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to travel around without a fixed plan.",
+            "synonyms": [
+                "wander",
+                "roam",
+                "drift",
+                "range",
+                "stroll"
+            ],
+            "examples": [
+                "They roved the countryside looking for antiques.",
+                "Birds roved across the fields."
+            ]
+        }
+    ],
+    "reconcilement": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the act or process of making peace between people or ending a conflict",
+            "synonyms": [
+                "reconciliation",
+                "peace-making",
+                "settlement"
+            ],
+            "examples": [
+                "After months of tension, the reconcilement between the neighbors finally happened.",
+                "The plan focused on reconcilement rather than punishment."
+            ]
+        }
+    ],
+    "raspy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "rough and unpleasant to the ear, often used for a voice or breathing sound",
+            "synonyms": [
+                "hoarse",
+                "grating",
+                "rough",
+                "scraggy"
+            ],
+            "examples": [
+                "He spoke in a raspy voice after the long night of singing.",
+                "Her raspy breathing worried the nurse."
+            ]
+        }
+    ],
+    "remainder": [
+        {
+            "part_of_speech": "noun",
+            "definition": "what is left after part has been used, removed, or dealt with",
+            "synonyms": [
+                "leftover",
+                "residue",
+                "remainder amount",
+                "balance"
+            ],
+            "examples": [
+                "After paying the bills, the remainder was small.",
+                "Only a remainder of the supplies remained for the last day."
+            ]
+        }
+    ],
+    "residue": [
+        {
+            "part_of_speech": "noun",
+            "definition": "something left behind after a process, such as a chemical reaction or cleaning",
+            "synonyms": [
+                "remains",
+                "leftovers",
+                "remainder",
+                "scum",
+                "by-product"
+            ],
+            "examples": [
+                "The residue on the glass needed another rinse.",
+                "After cooking, a residue of oil stayed on the pan."
+            ]
+        }
+    ],
+    "relic": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an object from the past that still exists today and has value or meaning",
+            "synonyms": [
+                "artifact",
+                "keepsake",
+                "memento",
+                "remnant",
+                "treasured object"
+            ],
+            "examples": [
+                "They visited the museum to see ancient relics.",
+                "A family relic was passed down to her."
+            ]
+        }
+    ],
+    "redress": [
+        {
+            "part_of_speech": "noun",
+            "definition": "help or action taken to correct an unfair situation or a wrong done to someone",
+            "synonyms": [
+                "correction",
+                "remedy",
+                "compensation",
+                "rectification"
+            ],
+            "examples": [
+                "The court ordered redress for the harmed tenants.",
+                "The complaint sought redress for repeated delays."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to correct or improve an unfair or harmful situation",
+            "synonyms": [
+                "correct",
+                "remedy",
+                "address",
+                "rectify",
+                "compensate"
+            ],
+            "examples": [
+                "The committee will redress the problems found in the report.",
+                "They promised to redress the damage caused by the decision."
             ]
         }
     ]

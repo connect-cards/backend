@@ -1,0 +1,53 @@
+{
+    "date": "2026-01-07",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "thematic_association",
+            "difficulty": "easy",
+            "title": "small mischief, neatly done",
+            "words": [
+                "prank",
+                "mischief",
+                "ploy",
+                "gambit"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "sound_association",
+            "difficulty": "medium",
+            "title": "light taps and clicks",
+            "words": [
+                "tinkle",
+                "rattle",
+                "clink",
+                "tap"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "synonym",
+            "difficulty": "hard",
+            "title": "silent disapproval",
+            "words": [
+                "censor",
+                "scold",
+                "reprove",
+                "rebuke"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "physical_trait",
+            "difficulty": "very_hard",
+            "title": "fine-grained texture in writing",
+            "words": [
+                "crenellation",
+                "vellum",
+                "parchment",
+                "scribe"
+            ]
+        }
+    ]
+}

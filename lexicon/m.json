@@ -194,7 +194,7 @@
     "mate": [
         {
             "part_of_speech": "noun",
-            "definition": "A friend or companion; also a spouse or partner in some contexts.",
+            "definition": "a friend or companion; also a spouse or partner in some contexts.",
             "synonyms": [
                 "friend",
                 "partner",
@@ -208,7 +208,7 @@
     "medicine": [
         {
             "part_of_speech": "noun",
-            "definition": "A substance used for treating illness or relieving pain; the field of study dealing with health and healing.",
+            "definition": "a substance used for treating illness or relieving pain; the field of study dealing with health and healing.",
             "synonyms": [
                 "remedy",
                 "drug",
@@ -222,7 +222,7 @@
     "melancholic": [
         {
             "part_of_speech": "adjective",
-            "definition": "Feeling or expressing pensive sadness.",
+            "definition": "feeling or expressing pensive sadness.",
             "synonyms": [
                 "sad",
                 "mournful",
@@ -388,7 +388,7 @@
     "murmur": [
         {
             "part_of_speech": "verb",
-            "definition": "To speak quietly or speak with soft, unclear sounds",
+            "definition": "to speak quietly or speak with soft, unclear sounds",
             "synonyms": [
                 "whisper",
                 "mutter",
@@ -403,7 +403,7 @@
         },
         {
             "part_of_speech": "noun",
-            "definition": "A soft continuous sound, often made by people speaking quietly",
+            "definition": "a soft continuous sound, often made by people speaking quietly",
             "synonyms": [
                 "whisper",
                 "murmuring sound",
@@ -420,7 +420,7 @@
     "maintain": [
         {
             "part_of_speech": "verb",
-            "definition": "To continue having, keeping, or doing something",
+            "definition": "to continue having, keeping, or doing something",
             "synonyms": [
                 "keep",
                 "sustain",
@@ -437,7 +437,7 @@
     "metaphor": [
         {
             "part_of_speech": "noun",
-            "definition": "A figure of speech that describes something by comparing it directly to something else",
+            "definition": "a figure of speech that describes something by comparing it directly to something else",
             "synonyms": [
                 "comparison (figurative)",
                 "symbol (figurative)",
@@ -453,7 +453,7 @@
     "motif": [
         {
             "part_of_speech": "noun",
-            "definition": "A repeated idea, image, or theme in art, music, or writing",
+            "definition": "a repeated idea, image, or theme in art, music, or writing",
             "synonyms": [
                 "theme",
                 "recurring idea",
@@ -470,7 +470,7 @@
     "mend": [
         {
             "part_of_speech": "verb",
-            "definition": "To fix or repair something that is broken or damaged",
+            "definition": "to fix or repair something that is broken or damaged",
             "synonyms": [
                 "repair",
                 "fix",
@@ -487,7 +487,7 @@
     "manhandle": [
         {
             "part_of_speech": "verb",
-            "definition": "To handle something roughly or forcefully, often causing damage",
+            "definition": "to handle something roughly or forcefully, often causing damage",
             "synonyms": [
                 "handle roughly",
                 "treat roughly",
@@ -504,7 +504,7 @@
     "metrics": [
         {
             "part_of_speech": "noun",
-            "definition": "Numbers or measurements used to track performance or results",
+            "definition": "numbers or measurements used to track performance or results",
             "synonyms": [
                 "measures",
                 "indicators",
@@ -521,7 +521,7 @@
     "muffle": [
         {
             "part_of_speech": "verb",
-            "definition": "To reduce the sound of something by covering it",
+            "definition": "to reduce the sound of something by covering it",
             "synonyms": [
                 "soften",
                 "dampen",
@@ -538,7 +538,7 @@
     "melodious": [
         {
             "part_of_speech": "adjective",
-            "definition": "Pleasant to hear, with a musical quality",
+            "definition": "pleasant to hear, with a musical quality",
             "synonyms": [
                 "harmonious",
                 "sweet-sounding",
@@ -555,7 +555,7 @@
     "moustache": [
         {
             "part_of_speech": "noun",
-            "definition": "Hair grown above the upper lip",
+            "definition": "hair grown above the upper lip",
             "synonyms": [
                 "upper-lip hair",
                 "facial hair",
@@ -570,7 +570,7 @@
     "merciless": [
         {
             "part_of_speech": "adjective",
-            "definition": "Without mercy; extremely harsh and not kind",
+            "definition": "without mercy; extremely harsh and not kind",
             "synonyms": [
                 "cruel",
                 "relentless",
@@ -587,7 +587,7 @@
     "metre": [
         {
             "part_of_speech": "noun",
-            "definition": "The pattern of beats and rhythm in poetry",
+            "definition": "the pattern of beats and rhythm in poetry",
             "synonyms": [
                 "meter",
                 "rhythm",
@@ -604,7 +604,7 @@
     "monitor": [
         {
             "part_of_speech": "verb",
-            "definition": "To watch or check something regularly to see how it changes",
+            "definition": "to watch or check something regularly to see how it changes",
             "synonyms": [
                 "observe",
                 "check",
@@ -619,7 +619,7 @@
         },
         {
             "part_of_speech": "noun",
-            "definition": "A device used to display or track information, especially in hospitals or computers",
+            "definition": "a device used to display or track information, especially in hospitals or computers",
             "synonyms": [
                 "display",
                 "screen",
@@ -634,7 +634,7 @@
     "murk": [
         {
             "part_of_speech": "noun",
-            "definition": "Darkness or confusion, especially in the atmosphere or a difficult situation",
+            "definition": "darkness or confusion, especially in the atmosphere or a difficult situation",
             "synonyms": [
                 "darkness",
                 "gloom",
@@ -649,7 +649,7 @@
         },
         {
             "part_of_speech": "verb",
-            "definition": "To make something dark or unclear",
+            "definition": "to make something dark or unclear",
             "synonyms": [
                 "darken",
                 "blur",
@@ -1334,6 +1334,404 @@
             "examples": [
                 "They preserved the muniments in a safe place.",
                 "The muniments were used to prove the claim."
+            ]
+        }
+    ],
+    "mumbled": [
+        {
+            "part_of_speech": "verb",
+            "definition": "spoke in a quiet unclear way, often making words hard to understand",
+            "synonyms": [
+                "murmured",
+                "said",
+                "whispered",
+                "stammered",
+                "muttered"
+            ],
+            "examples": [
+                "He mumbled an apology and looked away.",
+                "I could not hear him clearly because he mumbled."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "spoken in a quiet unclear way, making words hard to understand",
+            "synonyms": [
+                "muttered",
+                "murmured",
+                "indistinct",
+                "unclear",
+                "soft-spoken"
+            ],
+            "examples": [
+                "Her mumbled reply did not answer the question.",
+                "The teacher gave a mumbled explanation."
+            ]
+        }
+    ],
+    "misaligned": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "not lined up correctly; not in the correct position",
+            "synonyms": [
+                "out of line",
+                "incorrectly aligned",
+                "askew",
+                "misplaced",
+                "skewed"
+            ],
+            "examples": [
+                "The wheels were misaligned after the accident.",
+                "A misaligned camera ruined the photo."
+            ]
+        }
+    ],
+    "myth": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a traditional story or set of beliefs that expresses a community’s ideas, often involving gods or heroes",
+            "synonyms": [
+                "legend",
+                "folk tale",
+                "traditional story",
+                "saga"
+            ],
+            "examples": [
+                "The ancient myth described a hero’s journey.",
+                "They studied myths from different cultures."
+            ]
+        }
+    ],
+    "morning": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the part of the day from sunrise to noon",
+            "synonyms": [
+                "a.m.",
+                "forenoon",
+                "early hours"
+            ],
+            "examples": [
+                "I usually exercise in the morning.",
+                "The meeting was scheduled for the morning."
+            ]
+        }
+    ],
+    "meanly": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "in an unkind way; also in a way that is small or not generous",
+            "synonyms": [
+                "unkindly",
+                "cruelly",
+                "stingily",
+                "cheaply",
+                "badly"
+            ],
+            "examples": [
+                "Don’t speak to her meanly.",
+                "He meanly refused to share the prize money."
+            ]
+        }
+    ],
+    "mistrustful": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "not trusting; expecting that something may be wrong or dishonest",
+            "synonyms": [
+                "suspicious",
+                "doubtful",
+                "untrusting",
+                "skeptical",
+                "guarded"
+            ],
+            "examples": [
+                "He became mistrustful after several mistakes.",
+                "A mistrustful customer asked for proof."
+            ]
+        }
+    ],
+    "manipulate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to control or influence something or someone, often unfairly",
+            "synonyms": [
+                "control",
+                "influence",
+                "manage",
+                "exploit",
+                "work on"
+            ],
+            "examples": [
+                "He tried to manipulate the results to win.",
+                "You can manipulate the settings to improve the picture."
+            ]
+        }
+    ],
+    "moribund": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "weak and close to dying or disappearing",
+            "synonyms": [
+                "dying",
+                "declining",
+                "failing",
+                "near death",
+                "dead"
+            ],
+            "examples": [
+                "The company was moribund after years of losses.",
+                "The industry became moribund."
+            ]
+        }
+    ],
+    "mosaic": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a picture or pattern made from small pieces of colored material such as tiles or glass",
+            "synonyms": [
+                "tilework",
+                "picture mosaic",
+                "inlay"
+            ],
+            "examples": [
+                "The floor is covered in a mosaic.",
+                "They built a mosaic using colored glass."
+            ]
+        }
+    ],
+    "microscope": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an instrument used to see very small objects by making them appear bigger",
+            "synonyms": [
+                "optical microscope",
+                "microscope instrument"
+            ],
+            "examples": [
+                "We used a microscope to study the cells.",
+                "The microscope showed tiny particles."
+            ]
+        }
+    ],
+    "monoscope": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a device that provides a single viewing image, often used in older optics or display systems",
+            "synonyms": [
+                "single-view scope",
+                "optical viewer"
+            ],
+            "examples": [
+                "The monoscope was used in the demonstration.",
+                "The lab used a monoscope to test the display."
+            ]
+        }
+    ],
+    "miserly": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very unwilling to spend money; extremely stingy",
+            "synonyms": [
+                "stingy",
+                "frugal",
+                "cheap",
+                "parsimonious",
+                "tightfisted"
+            ],
+            "examples": [
+                "He was miserly and refused to tip.",
+                "A miserly landlord kept raising the rent."
+            ]
+        }
+    ],
+    "mold": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a fungus that grows on damp surfaces and can damage materials",
+            "synonyms": [
+                "mildew",
+                "fungus",
+                "mold growth"
+            ],
+            "examples": [
+                "Mold appeared on the bathroom ceiling.",
+                "The landlord fixed the mold issue."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to shape or form something, often by using a material or pattern",
+            "synonyms": [
+                "shape",
+                "form",
+                "fashion",
+                "model",
+                "cast"
+            ],
+            "examples": [
+                "The potter molds clay into bowls.",
+                "She molded her plan after the earlier one."
+            ]
+        }
+    ],
+    "mischief": [
+        {
+            "part_of_speech": "noun",
+            "definition": "playful wrongdoing or behavior that causes trouble.",
+            "synonyms": [
+                "play",
+                "trouble",
+                "naughtiness",
+                "prank",
+                "mischief-making"
+            ],
+            "examples": [
+                "The kids caused some mischief in the hallway.",
+                "He denied any mischief during the party."
+            ]
+        }
+    ],
+    "monologue": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a long speech by one person to other people or to the audience.",
+            "synonyms": [
+                "speech",
+                "speechmaking",
+                "address",
+                "soliloquy",
+                "talk"
+            ],
+            "examples": [
+                "The actor delivered a powerful monologue.",
+                "Her monologue lasted five minutes."
+            ]
+        }
+    ],
+    "macabre": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "concerned with death in a disturbing or strange way.",
+            "synonyms": [
+                "grim",
+                "dark",
+                "horrifying",
+                "morbid",
+                "death-related"
+            ],
+            "examples": [
+                "The story’s macabre details made me uncomfortable.",
+                "He avoided macabre jokes."
+            ]
+        }
+    ],
+    "marquis": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a noble title that ranks above an earl and below a duke in some systems.",
+            "synonyms": [
+                "noble",
+                "lord",
+                "titled noble"
+            ],
+            "examples": [
+                "The marquis owned the estate.",
+                "A marquis is higher in rank than an earl in many traditions."
+            ]
+        }
+    ],
+    "metal": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a solid chemical element or alloy, usually hard and able to conduct heat and electricity.",
+            "synonyms": [
+                "metallic substance",
+                "alloy",
+                "steel",
+                "iron"
+            ],
+            "examples": [
+                "Aluminum is a lightweight metal.",
+                "The machine parts are made of metal."
+            ]
+        }
+    ],
+    "mute": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "unable or not using speech; silent.",
+            "synonyms": [
+                "silent",
+                "speechless",
+                "unspoken",
+                "quiet",
+                "unresponsive"
+            ],
+            "examples": [
+                "The patient became mute after the shock.",
+                "The room was mute with attention."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make someone unable to speak or make a sound less strong.",
+            "synonyms": [
+                "silence",
+                "stifle",
+                "dampen",
+                "reduce",
+                "quieten"
+            ],
+            "examples": [
+                "A heavy curtain can mute outside noise.",
+                "The speaker tried to mute the microphone."
+            ]
+        }
+    ],
+    "meager": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "small in amount, not enough, or less than expected",
+            "synonyms": [
+                "scant",
+                "limited",
+                "insufficient",
+                "slim",
+                "bare"
+            ],
+            "examples": [
+                "They survived on meager supplies during the storm.",
+                "Her savings were meager after the long hospital stay."
+            ]
+        }
+    ],
+    "marry": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to cause to ruin or spoil something completely",
+            "synonyms": [
+                "ruin",
+                "spoil",
+                "wreck",
+                "destroy"
+            ],
+            "examples": [
+                "The strong wind nearly married the sail, tearing it badly.",
+                "Too much heat can marry the flavor of delicate herbs."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to join a man and a woman in marriage",
+            "synonyms": [
+                "wed",
+                "marry off",
+                "join in marriage"
+            ],
+            "examples": [
+                "They plan to marry in June.",
+                "Her parents wanted her to marry sooner."
             ]
         }
     ]

@@ -453,7 +453,7 @@
     "cousin": [
         {
             "part_of_speech": "noun",
-            "definition": "A child of your aunt or uncle; a relative.",
+            "definition": "a child of your aunt or uncle; a relative.",
             "synonyms": [
                 "relative",
                 "kin",
@@ -468,7 +468,7 @@
     "chap": [
         {
             "part_of_speech": "noun",
-            "definition": "A man; a fellow; a guy (informal).",
+            "definition": "a man; a fellow; a guy (informal).",
             "synonyms": [
                 "guy",
                 "fellow",
@@ -482,7 +482,7 @@
     "curt": [
         {
             "part_of_speech": "adjective",
-            "definition": "Rudely short or abrupt in speech or manner.",
+            "definition": "rudely short or abrupt in speech or manner.",
             "synonyms": [
                 "brusque",
                 "taciturn",
@@ -496,7 +496,7 @@
     "crimson": [
         {
             "part_of_speech": "adjective",
-            "definition": "Having a deep red color.",
+            "definition": "having a deep red color.",
             "synonyms": [
                 "red",
                 "vermilion",
@@ -510,7 +510,7 @@
     "clang": [
         {
             "part_of_speech": "noun",
-            "definition": "A loud, metallic sound.",
+            "definition": "a loud, metallic sound.",
             "synonyms": [
                 "clangor",
                 "clangour",
@@ -523,7 +523,7 @@
         },
         {
             "part_of_speech": "verb",
-            "definition": "To make a loud ringing sound by striking metal.",
+            "definition": "to make a loud ringing sound by striking metal.",
             "synonyms": [
                 "ring",
                 "resound",
@@ -538,7 +538,7 @@
     "chirp": [
         {
             "part_of_speech": "noun",
-            "definition": "A short, sharp sound made by a small bird or insect.",
+            "definition": "a short, sharp sound made by a small bird or insect.",
             "synonyms": [
                 "tweet",
                 "peep",
@@ -551,7 +551,7 @@
         },
         {
             "part_of_speech": "verb",
-            "definition": "To make a short, sharp sound like that of a small bird or insect.",
+            "definition": "to make a short, sharp sound like that of a small bird or insect.",
             "synonyms": [
                 "chirrup",
                 "tweet",
@@ -566,7 +566,7 @@
     "chill": [
         {
             "part_of_speech": "noun",
-            "definition": "A feeling of coldness or a cold sensation.",
+            "definition": "a feeling of coldness or a cold sensation.",
             "synonyms": [
                 "cold",
                 "coolness",
@@ -579,7 +579,7 @@
         },
         {
             "part_of_speech": "verb",
-            "definition": "To make cold or cooler; to cool down.",
+            "definition": "to make cold or cooler; to cool down.",
             "synonyms": [
                 "cool",
                 "refrigerate"
@@ -591,7 +591,7 @@
         },
         {
             "part_of_speech": "adjective",
-            "definition": "Relaxed or informal in mood or style; casual.",
+            "definition": "relaxed or informal in mood or style; casual.",
             "synonyms": [
                 "relaxed",
                 "casual",
@@ -892,7 +892,7 @@
     "cartographer": [
         {
             "part_of_speech": "noun",
-            "definition": "A person who makes maps",
+            "definition": "a person who makes maps",
             "synonyms": [
                 "mapmaker",
                 "geographer",
@@ -908,7 +908,7 @@
     "courser": [
         {
             "part_of_speech": "noun",
-            "definition": "A horse, especially one used for running or racing",
+            "definition": "a horse, especially one used for running or racing",
             "synonyms": [
                 "horse",
                 "steed",
@@ -924,7 +924,7 @@
     "coppery": [
         {
             "part_of_speech": "adjective",
-            "definition": "Having a taste or smell like copper, or showing a reddish-brown color",
+            "definition": "having a taste or smell like copper, or showing a reddish-brown color",
             "synonyms": [
                 "reddish-brown",
                 "metallic",
@@ -940,7 +940,7 @@
     "clinician": [
         {
             "part_of_speech": "noun",
-            "definition": "A healthcare professional who treats patients, especially in a medical setting",
+            "definition": "a healthcare professional who treats patients, especially in a medical setting",
             "synonyms": [
                 "doctor",
                 "medical practitioner",
@@ -957,7 +957,7 @@
     "cartology": [
         {
             "part_of_speech": "noun",
-            "definition": "The study or science of making maps",
+            "definition": "the study or science of making maps",
             "synonyms": [
                 "map science",
                 "cartography (general)",
@@ -973,7 +973,7 @@
     "crash": [
         {
             "part_of_speech": "noun",
-            "definition": "A sudden accident, often involving vehicles, with a loud impact",
+            "definition": "a sudden accident, often involving vehicles, with a loud impact",
             "synonyms": [
                 "collision",
                 "accident",
@@ -988,7 +988,7 @@
         },
         {
             "part_of_speech": "verb",
-            "definition": "To hit something suddenly and violently, causing an accident",
+            "definition": "to hit something suddenly and violently, causing an accident",
             "synonyms": [
                 "collide",
                 "hit",
@@ -1005,7 +1005,7 @@
     "collapse": [
         {
             "part_of_speech": "noun",
-            "definition": "A sudden failure or falling down, or a sudden weakening of health",
+            "definition": "a sudden failure or falling down, or a sudden weakening of health",
             "synonyms": [
                 "fall",
                 "breakdown",
@@ -1020,7 +1020,7 @@
         },
         {
             "part_of_speech": "verb",
-            "definition": "To fall down or give way suddenly",
+            "definition": "to fall down or give way suddenly",
             "synonyms": [
                 "fall",
                 "give way",
@@ -1037,7 +1037,7 @@
     "carom": [
         {
             "part_of_speech": "verb",
-            "definition": "To bounce off one object and change direction, especially in games like billiards",
+            "definition": "to bounce off one object and change direction, especially in games like billiards",
             "synonyms": [
                 "bounce",
                 "rebound",
@@ -1052,7 +1052,7 @@
         },
         {
             "part_of_speech": "noun",
-            "definition": "A rebound or bounce after a hit, especially in billiards",
+            "definition": "a rebound or bounce after a hit, especially in billiards",
             "synonyms": [
                 "rebound",
                 "bounce",
@@ -1068,7 +1068,7 @@
     "callused": [
         {
             "part_of_speech": "adjective",
-            "definition": "Having thickened skin from repeated friction or pressure",
+            "definition": "having thickened skin from repeated friction or pressure",
             "synonyms": [
                 "toughened",
                 "thick-skinned",
@@ -1085,7 +1085,7 @@
     "crusted": [
         {
             "part_of_speech": "adjective",
-            "definition": "Covered with a hard dry layer, often formed as something dries or heals",
+            "definition": "covered with a hard dry layer, often formed as something dries or heals",
             "synonyms": [
                 "covered",
                 "caked",
@@ -1102,7 +1102,7 @@
     "chthonic": [
         {
             "part_of_speech": "adjective",
-            "definition": "Related to the earth or the underworld, especially in ancient beliefs and literature",
+            "definition": "related to the earth or the underworld, especially in ancient beliefs and literature",
             "synonyms": [
                 "underworld-related",
                 "earth-related",
@@ -1118,7 +1118,7 @@
     "contemplate": [
         {
             "part_of_speech": "verb",
-            "definition": "To think carefully about something, especially before deciding",
+            "definition": "to think carefully about something, especially before deciding",
             "synonyms": [
                 "consider",
                 "think about",
@@ -1135,7 +1135,7 @@
     "composed": [
         {
             "part_of_speech": "adjective",
-            "definition": "Calm and in control, especially in a difficult situation",
+            "definition": "calm and in control, especially in a difficult situation",
             "synonyms": [
                 "calm",
                 "self-possessed",
@@ -1152,7 +1152,7 @@
     "contempt": [
         {
             "part_of_speech": "noun",
-            "definition": "A strong feeling that someone or something is worthless or undeserving",
+            "definition": "a strong feeling that someone or something is worthless or undeserving",
             "synonyms": [
                 "disrespect",
                 "disdain",
@@ -1169,7 +1169,7 @@
     "contemptuous": [
         {
             "part_of_speech": "adjective",
-            "definition": "Showing contempt; feeling or expressing disrespect",
+            "definition": "showing contempt; feeling or expressing disrespect",
             "synonyms": [
                 "disdainful",
                 "scornful",
@@ -1186,7 +1186,7 @@
     "construe": [
         {
             "part_of_speech": "verb",
-            "definition": "To understand or interpret something in a particular way",
+            "definition": "to understand or interpret something in a particular way",
             "synonyms": [
                 "interpret",
                 "understand",
@@ -1203,7 +1203,7 @@
     "compass": [
         {
             "part_of_speech": "noun",
-            "definition": "A tool that shows direction, often using a magnetic needle",
+            "definition": "a tool that shows direction, often using a magnetic needle",
             "synonyms": [
                 "direction finder",
                 "nav instrument",
@@ -1217,7 +1217,7 @@
         },
         {
             "part_of_speech": "noun",
-            "definition": "Confidence or courage to do something difficult",
+            "definition": "confidence or courage to do something difficult",
             "synonyms": [
                 "courage",
                 "heart",
@@ -1232,7 +1232,7 @@
         },
         {
             "part_of_speech": "verb",
-            "definition": "To manage or plan to achieve something despite difficulty",
+            "definition": "to manage or plan to achieve something despite difficulty",
             "synonyms": [
                 "manage",
                 "arrange",
@@ -1249,7 +1249,7 @@
     "clatter": [
         {
             "part_of_speech": "verb",
-            "definition": "To make a series of short loud sounds, like items hitting each other",
+            "definition": "to make a series of short loud sounds, like items hitting each other",
             "synonyms": [
                 "rattle",
                 "bang",
@@ -1264,7 +1264,7 @@
         },
         {
             "part_of_speech": "noun",
-            "definition": "A series of loud sounds like objects striking each other",
+            "definition": "a series of loud sounds like objects striking each other",
             "synonyms": [
                 "rattle",
                 "clank",
@@ -1281,7 +1281,7 @@
     "criteria": [
         {
             "part_of_speech": "noun",
-            "definition": "The rules or standards used to judge or decide something",
+            "definition": "the rules or standards used to judge or decide something",
             "synonyms": [
                 "standards",
                 "rules",
@@ -1298,7 +1298,7 @@
     "censure": [
         {
             "part_of_speech": "noun",
-            "definition": "Serious criticism, especially from an official group",
+            "definition": "serious criticism, especially from an official group",
             "synonyms": [
                 "criticism",
                 "condemnation",
@@ -1313,7 +1313,7 @@
         },
         {
             "part_of_speech": "verb",
-            "definition": "To criticize or strongly express disapproval officially",
+            "definition": "to criticize or strongly express disapproval officially",
             "synonyms": [
                 "criticize",
                 "condemn",
@@ -1330,7 +1330,7 @@
     "censor": [
         {
             "part_of_speech": "noun",
-            "definition": "A person or organization that removes or blocks content deemed inappropriate or harmful",
+            "definition": "a person or organization that removes or blocks content deemed inappropriate or harmful",
             "synonyms": [
                 "censorship official",
                 "restriction authority",
@@ -1344,7 +1344,7 @@
         },
         {
             "part_of_speech": "verb",
-            "definition": "To remove, forbid, or edit content because it is considered unacceptable",
+            "definition": "to remove, forbid, or edit content because it is considered unacceptable",
             "synonyms": [
                 "ban",
                 "block",
@@ -1361,7 +1361,7 @@
     "catalyst": [
         {
             "part_of_speech": "noun",
-            "definition": "A person or thing that causes change or makes a process happen faster",
+            "definition": "a person or thing that causes change or makes a process happen faster",
             "synonyms": [
                 "trigger",
                 "stimulus",
@@ -1378,7 +1378,7 @@
     "consequence": [
         {
             "part_of_speech": "noun",
-            "definition": "A result or effect of an action or situation",
+            "definition": "a result or effect of an action or situation",
             "synonyms": [
                 "result",
                 "effect",
@@ -1395,7 +1395,7 @@
     "corollary": [
         {
             "part_of_speech": "noun",
-            "definition": "A conclusion that follows naturally from another statement or result",
+            "definition": "a conclusion that follows naturally from another statement or result",
             "synonyms": [
                 "result",
                 "conclusion",
@@ -1412,7 +1412,7 @@
     "caustic": [
         {
             "part_of_speech": "adjective",
-            "definition": "Strongly critical in a harsh and cutting way",
+            "definition": "strongly critical in a harsh and cutting way",
             "synonyms": [
                 "biting",
                 "harsh",
@@ -1429,7 +1429,7 @@
     "crack": [
         {
             "part_of_speech": "noun",
-            "definition": "A sudden sharp sound",
+            "definition": "a sudden sharp sound",
             "synonyms": [
                 "snap",
                 "crack",
@@ -1444,7 +1444,7 @@
         },
         {
             "part_of_speech": "verb",
-            "definition": "To break suddenly with an irregular sound; also, to become damaged with a line",
+            "definition": "to break suddenly with an irregular sound; also, to become damaged with a line",
             "synonyms": [
                 "break",
                 "split",
@@ -1459,7 +1459,7 @@
         },
         {
             "part_of_speech": "verb",
-            "definition": "To solve or understand something difficult",
+            "definition": "to solve or understand something difficult",
             "synonyms": [
                 "solve",
                 "figure out",
@@ -1476,7 +1476,7 @@
     "crisp": [
         {
             "part_of_speech": "adjective",
-            "definition": "Clear, sharp, and easy to understand; also, not soft or wet",
+            "definition": "clear, sharp, and easy to understand; also, not soft or wet",
             "synonyms": [
                 "clear",
                 "sharp",
@@ -1493,7 +1493,7 @@
     "catalog": [
         {
             "part_of_speech": "verb",
-            "definition": "To arrange and record items in a list or system so they can be found later",
+            "definition": "to arrange and record items in a list or system so they can be found later",
             "synonyms": [
                 "index",
                 "list",
@@ -1508,7 +1508,7 @@
         },
         {
             "part_of_speech": "noun",
-            "definition": "A list or organized set of items, often with descriptions",
+            "definition": "a list or organized set of items, often with descriptions",
             "synonyms": [
                 "list",
                 "index",
@@ -1525,7 +1525,7 @@
     "corrode": [
         {
             "part_of_speech": "verb",
-            "definition": "To slowly damage metal or other materials by chemical reactions",
+            "definition": "to slowly damage metal or other materials by chemical reactions",
             "synonyms": [
                 "erode",
                 "rust",
@@ -1542,7 +1542,7 @@
     "chafing": [
         {
             "part_of_speech": "noun",
-            "definition": "Irritation of skin caused by rubbing",
+            "definition": "irritation of skin caused by rubbing",
             "synonyms": [
                 "irritation",
                 "scraping",
@@ -1556,7 +1556,7 @@
         },
         {
             "part_of_speech": "verb",
-            "definition": "To cause irritation by rubbing",
+            "definition": "to cause irritation by rubbing",
             "synonyms": [
                 "rub",
                 "irritate",
@@ -1571,7 +1571,7 @@
     "conjecture": [
         {
             "part_of_speech": "noun",
-            "definition": "A guess or opinion based on incomplete information",
+            "definition": "a guess or opinion based on incomplete information",
             "synonyms": [
                 "guess",
                 "speculation",
@@ -1586,7 +1586,7 @@
         },
         {
             "part_of_speech": "verb",
-            "definition": "To guess or speculate about something without complete evidence",
+            "definition": "to guess or speculate about something without complete evidence",
             "synonyms": [
                 "guess",
                 "speculate",
@@ -1603,7 +1603,7 @@
     "compel": [
         {
             "part_of_speech": "verb",
-            "definition": "To force someone to do something, often by law or strong pressure",
+            "definition": "to force someone to do something, often by law or strong pressure",
             "synonyms": [
                 "force",
                 "press",
@@ -1620,7 +1620,7 @@
     "constrain": [
         {
             "part_of_speech": "verb",
-            "definition": "To limit what someone can do; to force boundaries on action",
+            "definition": "to limit what someone can do; to force boundaries on action",
             "synonyms": [
                 "restrict",
                 "limit",
@@ -1637,7 +1637,7 @@
     "coerce": [
         {
             "part_of_speech": "verb",
-            "definition": "To force someone to do something by threats or pressure",
+            "definition": "to force someone to do something by threats or pressure",
             "synonyms": [
                 "force",
                 "threaten",
@@ -1654,7 +1654,7 @@
     "choose": [
         {
             "part_of_speech": "verb",
-            "definition": "To pick one option from a set of possibilities",
+            "definition": "to pick one option from a set of possibilities",
             "synonyms": [
                 "select",
                 "pick",
@@ -1671,7 +1671,7 @@
     "cutlass": [
         {
             "part_of_speech": "noun",
-            "definition": "A short heavy sword, often associated with sailors and pirates",
+            "definition": "a short heavy sword, often associated with sailors and pirates",
             "synonyms": [
                 "short sword",
                 "naval sword (general)",
@@ -1686,7 +1686,7 @@
     "cadence": [
         {
             "part_of_speech": "noun",
-            "definition": "The rhythm and pattern of sounds in speech or music",
+            "definition": "the rhythm and pattern of sounds in speech or music",
             "synonyms": [
                 "rhythm",
                 "beat (music)",
@@ -1703,7 +1703,7 @@
     "colloquy": [
         {
             "part_of_speech": "noun",
-            "definition": "A formal conversation or discussion, especially between important people",
+            "definition": "a formal conversation or discussion, especially between important people",
             "synonyms": [
                 "discussion",
                 "conversation",
@@ -2550,7 +2550,7 @@
     "circumspect": [
         {
             "part_of_speech": "adjective",
-            "definition": "Careful to avoid risks or mistakes; not doing things too quickly",
+            "definition": "careful to avoid risks or mistakes; not doing things too quickly",
             "synonyms": [
                 "cautious",
                 "careful",
@@ -2567,7 +2567,7 @@
     "cautious": [
         {
             "part_of_speech": "adjective",
-            "definition": "Careful to avoid danger, problems, or mistakes",
+            "definition": "careful to avoid danger, problems, or mistakes",
             "synonyms": [
                 "careful",
                 "wary",
@@ -2582,7 +2582,7 @@
         },
         {
             "part_of_speech": "adjective",
-            "definition": "Not showing too much emotion or giving away too much information",
+            "definition": "not showing too much emotion or giving away too much information",
             "synonyms": [
                 "reserved",
                 "guarded",
@@ -3208,6 +3208,1011 @@
             "examples": [
                 "The birds clustered on the wire.",
                 "People clustered around the announcement."
+            ]
+        }
+    ],
+    "caliper": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an instrument used to measure small distances, thickness, or diameters",
+            "synonyms": [
+                "measuring tool",
+                "vernier caliper"
+            ],
+            "examples": [
+                "The technician used a caliper to check the part size.",
+                "A caliper helps measure the thickness accurately."
+            ]
+        }
+    ],
+    "crooked": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "not straight or not in a proper line; also unfair or dishonest",
+            "synonyms": [
+                "bent",
+                "winding",
+                "unstraight",
+                "dishonest",
+                "unfair"
+            ],
+            "examples": [
+                "The old fence was crooked after the storm.",
+                "He was fired for crooked business practices."
+            ]
+        }
+    ],
+    "clarion": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a loud clear sound, or a call that attracts attention",
+            "synonyms": [
+                "trumpet call",
+                "signal",
+                "resounding call"
+            ],
+            "examples": [
+                "The clarion of the alarm woke the whole building.",
+                "Her voice acted like a clarion in the room."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "loud and clear, strongly attracting attention",
+            "synonyms": [
+                "resounding",
+                "piercing",
+                "clear",
+                "trumpeting"
+            ],
+            "examples": [
+                "The clarion sound signaled the start of the race.",
+                "They heard a clarion call from the street."
+            ]
+        }
+    ],
+    "codex": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an ancient book made from bound pages of paper or material such as parchment",
+            "synonyms": [
+                "manuscript",
+                "book",
+                "ancient volume"
+            ],
+            "examples": [
+                "The codex was kept in a secure room.",
+                "Researchers studied the codex for clues."
+            ]
+        }
+    ],
+    "chaos": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a state of complete disorder and confusion",
+            "synonyms": [
+                "disorder",
+                "confusion",
+                "mayhem",
+                "turmoil",
+                "bedlam"
+            ],
+            "examples": [
+                "After the power outage, the streets became chaos.",
+                "The schedule created chaos at the office."
+            ]
+        }
+    ],
+    "confusion": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a lack of understanding or clear order; the feeling of not knowing what to do",
+            "synonyms": [
+                "uncertainty",
+                "bewilderment",
+                "disorder",
+                "mix-up",
+                "perplexity"
+            ],
+            "examples": [
+                "The instructions caused confusion for many students.",
+                "I felt confusion when the plan changed suddenly."
+            ]
+        }
+    ],
+    "craven": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having a lack of courage, especially by avoiding danger or responsibility",
+            "synonyms": [
+                "cowardly",
+                "timid",
+                "fearful",
+                "pusillanimous",
+                "spineless"
+            ],
+            "examples": [
+                "He sounded craven when he refused to help.",
+                "The craven decision left everyone disappointed."
+            ]
+        }
+    ],
+    "covetousness": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a strong desire to have something that belongs to others",
+            "synonyms": [
+                "greed",
+                "envy",
+                "desire",
+                "covetousness",
+                "craving"
+            ],
+            "examples": [
+                "Covetousness can ruin relationships.",
+                "He overcame covetousness and learned to be grateful."
+            ]
+        }
+    ],
+    "choleric": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "quick to anger; showing anger easily",
+            "synonyms": [
+                "irritable",
+                "hot-tempered",
+                "angry",
+                "temperamental",
+                "combative"
+            ],
+            "examples": [
+                "She was choleric when the train was delayed again.",
+                "His choleric mood made everyone nervous."
+            ]
+        }
+    ],
+    "cavil": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to raise small unreasonable objections or find fault with details",
+            "synonyms": [
+                "nitpick",
+                "quibble",
+                "find fault",
+                "criticize",
+                "complain"
+            ],
+            "examples": [
+                "He caviled about minor details to avoid the main task.",
+                "Stop caviling and focus on the solution."
+            ]
+        }
+    ],
+    "congeal": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to become thick or solid as it cools",
+            "synonyms": [
+                "solidify",
+                "thicken",
+                "clot",
+                "set",
+                "gel"
+            ],
+            "examples": [
+                "The soup congealed in the cold room.",
+                "Eggs can congeal if they are overheated."
+            ]
+        }
+    ],
+    "coagulate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to form into a thick mass, especially a clot, as liquids change",
+            "synonyms": [
+                "clot",
+                "thicken",
+                "congeal",
+                "solidify",
+                "gel"
+            ],
+            "examples": [
+                "Blood coagulates when it needs to stop bleeding.",
+                "The mixture will coagulate after a few minutes."
+            ]
+        }
+    ],
+    "coy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "shy or hesitant in a playful way; not revealing feelings directly",
+            "synonyms": [
+                "shy",
+                "modest",
+                "reserved",
+                "playfully reluctant",
+                "aloof"
+            ],
+            "examples": [
+                "She gave a coy smile and changed the subject.",
+                "He was coy about his plans."
+            ]
+        }
+    ],
+    "credibility": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the quality of being trusted or believable",
+            "synonyms": [
+                "trustworthiness",
+                "believability",
+                "reliability",
+                "authenticity",
+                "validity"
+            ],
+            "examples": [
+                "Evidence improved the credibility of the claim.",
+                "Her credibility as a witness was questioned."
+            ]
+        }
+    ],
+    "cold": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having a low temperature; also emotionally distant or unfriendly",
+            "synonyms": [
+                "chilly",
+                "cool",
+                "unfriendly",
+                "distant",
+                "emotionless"
+            ],
+            "examples": [
+                "The room feels cold today.",
+                "He gave me a cold reply."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "an illness that causes sneezing, coughing, and a sore throat",
+            "synonyms": [
+                "common cold",
+                "cold virus"
+            ],
+            "examples": [
+                "I have a cold and stayed home.",
+                "She is recovering from a cold."
+            ]
+        }
+    ],
+    "conduction": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the transfer of heat through a material by direct contact",
+            "synonyms": [
+                "heat transfer",
+                "heat conduction"
+            ],
+            "examples": [
+                "Conduction happens faster in metal than in plastic.",
+                "The lab tested conduction in different materials."
+            ]
+        }
+    ],
+    "convection": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the transfer of heat by the movement of fluids such as air or water",
+            "synonyms": [
+                "heat convection",
+                "fluid heat transfer"
+            ],
+            "examples": [
+                "Convection creates air currents in the room.",
+                "We studied convection in the water tank."
+            ]
+        }
+    ],
+    "cheesy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "silly or overly emotional in a way that seems not serious; also having the smell or taste of cheese",
+            "synonyms": [
+                "corny",
+                "tacky",
+                "cringey",
+                "overly sentimental"
+            ],
+            "examples": [
+                "That joke was cheesy and not very funny.",
+                "The sauce tastes cheesy."
+            ]
+        }
+    ],
+    "compress": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to press something into a smaller space or to reduce its size",
+            "synonyms": [
+                "press",
+                "squeeze",
+                "condense",
+                "reduce",
+                "pack"
+            ],
+            "examples": [
+                "Compress the file to make it smaller.",
+                "Please compress the folder before sending it."
+            ]
+        }
+    ],
+    "copper": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a reddish-brown metal that conducts heat and electricity well",
+            "synonyms": [
+                "Cu",
+                "red metal",
+                "metal"
+            ],
+            "examples": [
+                "The pipes are made of copper.",
+                "Copper is used in wiring."
+            ]
+        }
+    ],
+    "chant": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a repeated song or phrase, often spoken or sung together",
+            "synonyms": [
+                "hymn",
+                "call",
+                "refrain",
+                "incantation",
+                "singing"
+            ],
+            "examples": [
+                "The crowd started a chant during the game.",
+                "They practiced the chant for the ceremony."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to sing or speak words repeatedly in a rhythm",
+            "synonyms": [
+                "sing",
+                "recite",
+                "call",
+                "repeat",
+                "murmur"
+            ],
+            "examples": [
+                "The students chanted slogans in the hallway.",
+                "They chanted together to keep time."
+            ]
+        }
+    ],
+    "craft": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a skill in making things or doing work with care; also a small vehicle such as a boat or aircraft",
+            "synonyms": [
+                "skill",
+                "trade",
+                "profession",
+                "trade craft",
+                "boat"
+            ],
+            "examples": [
+                "Woodworking is a craft that takes practice.",
+                "They built the model as a craft for the contest."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make or plan something carefully, often by using skill",
+            "synonyms": [
+                "make",
+                "create",
+                "build",
+                "devise",
+                "prepare"
+            ],
+            "examples": [
+                "She crafts jewelry by hand.",
+                "The team crafted a detailed plan."
+            ]
+        }
+    ],
+    "casual": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "relaxed and informal; not formal or serious",
+            "synonyms": [
+                "informal",
+                "relaxed",
+                "everyday",
+                "unplanned",
+                "loose"
+            ],
+            "examples": [
+                "They wore casual clothes to the meeting.",
+                "I made a casual remark and did not mean it seriously."
+            ]
+        }
+    ],
+    "casement": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a window frame that opens outward or inward, usually on hinges or with a hinge-like support",
+            "synonyms": [
+                "window panel",
+                "window frame"
+            ],
+            "examples": [
+                "The casement opened to let in fresh air.",
+                "She cleaned the casement window."
+            ]
+        }
+    ],
+    "casemented": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having casement windows",
+            "synonyms": [
+                "with casement windows",
+                "windowed"
+            ],
+            "examples": [
+                "The building is casemented and bright.",
+                "The room has casemented windows that open wide."
+            ]
+        }
+    ],
+    "casementry": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the design or arrangement of casement windows in a building",
+            "synonyms": [
+                "window design",
+                "casement window arrangement"
+            ],
+            "examples": [
+                "The architect studied casementry before choosing the façade.",
+                "Casementry added character to the old building."
+            ]
+        }
+    ],
+    "composure": [
+        {
+            "part_of_speech": "noun",
+            "definition": "calm self-control; the ability to stay steady under pressure.",
+            "synonyms": [
+                "calm",
+                "self-control",
+                "poise",
+                "equanimity",
+                "serenity"
+            ],
+            "examples": [
+                "He regained his composure after the bad news.",
+                "Her composure impressed everyone."
+            ]
+        }
+    ],
+    "cleft": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a split or opening, especially in the shape of a narrow gap.",
+            "synonyms": [
+                "split",
+                "crack",
+                "fissure",
+                "gap",
+                "cut"
+            ],
+            "examples": [
+                "The rock had a deep cleft.",
+                "A cleft formed in the ice."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to split or divide with a narrow opening.",
+            "synonyms": [
+                "split",
+                "divide",
+                "crack",
+                "tear",
+                "separate"
+            ],
+            "examples": [
+                "The mountain cleft two valleys.",
+                "Rain cleft the dry ground."
+            ]
+        }
+    ],
+    "carol": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a song of praise, often sung at christmas.",
+            "synonyms": [
+                "christmas song",
+                "hymn",
+                "seasonal song",
+                "carol song"
+            ],
+            "examples": [
+                "They sang carols in the town square.",
+                "A famous carol played softly in the background."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to sing carols, especially during the holiday season.",
+            "synonyms": [
+                "sing",
+                "chant",
+                "carol-singing"
+            ],
+            "examples": [
+                "Children went door to door to carol.",
+                "People carol every December."
+            ]
+        }
+    ],
+    "crookedness": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the state of being bent, not straight, or morally dishonest.",
+            "synonyms": [
+                "dishonesty",
+                "corruption",
+                "bending",
+                "twist",
+                "unstraightness"
+            ],
+            "examples": [
+                "The road’s crookedness makes driving harder.",
+                "They investigated allegations of crookedness."
+            ]
+        }
+    ],
+    "crenellation": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the pattern of alternating gaps and raised sections on top of a wall or castle for defense.",
+            "synonyms": [
+                "battlements",
+                "castle parapet",
+                "fortification pattern"
+            ],
+            "examples": [
+                "The building had crenellations along the roofline.",
+                "Crenellation was designed to help defenders protect themselves."
+            ]
+        }
+    ],
+    "contention": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a strong disagreement or argument, often in a formal setting.",
+            "synonyms": [
+                "argument",
+                "dispute",
+                "claim",
+                "assertion",
+                "controversy"
+            ],
+            "examples": [
+                "There was contention over the contract terms.",
+                "The two sides presented their contentions in court."
+            ]
+        }
+    ],
+    "cry": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to produce a loud shout, or to say something strongly to get attention.",
+            "synonyms": [
+                "shout",
+                "call out",
+                "yell",
+                "scream",
+                "speak loudly"
+            ],
+            "examples": [
+                "She cried for help when she saw the danger.",
+                "He cried out in surprise."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a loud sound made to express emotion, such as sadness or pain.",
+            "synonyms": [
+                "shout",
+                "scream",
+                "yell",
+                "call",
+                "crying sound"
+            ],
+            "examples": [
+                "I heard a cry from the hallway.",
+                "The baby’s first cry was loud."
+            ]
+        }
+    ],
+    "culminate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to end with something, especially after a series of events.",
+            "synonyms": [
+                "end",
+                "finish",
+                "reach",
+                "conclude",
+                "terminate"
+            ],
+            "examples": [
+                "The negotiations culminated in a new agreement.",
+                "Her hard work culminated in a promotion."
+            ]
+        }
+    ],
+    "conciliation": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the process of making peace and ending disagreements.",
+            "synonyms": [
+                "peace-making",
+                "settlement",
+                "arbitration",
+                "mediation",
+                "reconciliation"
+            ],
+            "examples": [
+                "Her conciliation efforts helped both sides agree.",
+                "The council started conciliation talks."
+            ]
+        }
+    ],
+    "counsel": [
+        {
+            "part_of_speech": "noun",
+            "definition": "advice or guidance, especially from a professional.",
+            "synonyms": [
+                "advice",
+                "guidance",
+                "recommendation",
+                "direction",
+                "legal advice"
+            ],
+            "examples": [
+                "She gave counsel on how to handle the problem.",
+                "I sought counsel from a lawyer."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to give advice or guidance, especially officially.",
+            "synonyms": [
+                "advise",
+                "guide",
+                "recommend",
+                "instruct",
+                "consult"
+            ],
+            "examples": [
+                "The attorney counseled her about the risks.",
+                "They counsel employees on safety procedures."
+            ]
+        }
+    ],
+    "chisel": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a tool with a sharp edge used for cutting or carving wood, stone, or metal.",
+            "synonyms": [
+                "carving tool",
+                "cutting tool",
+                "blade tool",
+                "stone tool"
+            ],
+            "examples": [
+                "He used a chisel to carve the lettering.",
+                "The chisel was sharp enough to work on stone."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to cut or shape something using a chisel.",
+            "synonyms": [
+                "carve",
+                "cut",
+                "shape",
+                "carve out",
+                "trim"
+            ],
+            "examples": [
+                "She chiseled a smooth surface from the block.",
+                "They chiseled the stone into a doorway frame."
+            ]
+        }
+    ],
+    "carve": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to shape or make a design in something by cutting away parts.",
+            "synonyms": [
+                "sculpt",
+                "cut",
+                "chisel",
+                "engrave",
+                "fashion"
+            ],
+            "examples": [
+                "She carved a small figure from wood.",
+                "They carved the name into the stone."
+            ]
+        }
+    ],
+    "capricious": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "changeable in a sudden and unpredictable way.",
+            "synonyms": [
+                "unpredictable",
+                "impulsive",
+                "erratic",
+                "fickle",
+                "unstable"
+            ],
+            "examples": [
+                "Her capricious mood made planning difficult.",
+                "The weather was capricious that week."
+            ]
+        }
+    ],
+    "close": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "near in space or time; not far away.",
+            "synonyms": [
+                "near",
+                "nearby",
+                "adjacent",
+                "within reach",
+                "almost"
+            ],
+            "examples": [
+                "The station is close to the hotel.",
+                "We’re close to finishing the task."
+            ]
+        },
+        {
+            "part_of_speech": "adverb",
+            "definition": "not far away; nearly.",
+            "synonyms": [
+                "almost",
+                "nearly",
+                "nearby",
+                "close by",
+                "just about"
+            ],
+            "examples": [
+                "The bus arrived close on time.",
+                "She came close to winning."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to shut or make a door, window, or other opening shut.",
+            "synonyms": [
+                "shut",
+                "close up",
+                "seal",
+                "stop",
+                "end"
+            ],
+            "examples": [
+                "Please close the window.",
+                "They closed the store early."
+            ]
+        }
+    ],
+    "carp": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to complain in a small, annoying way or to criticize repeatedly.",
+            "synonyms": [
+                "complain",
+                "pick at",
+                "nitpick",
+                "criticize",
+                "find fault"
+            ],
+            "examples": [
+                "She kept carping about the schedule.",
+                "Stop carping and try to help."
+            ]
+        }
+    ],
+    "connotation": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an extra meaning or feeling a word suggests beyond its basic definition.",
+            "synonyms": [
+                "implied meaning",
+                "association",
+                "suggestion",
+                "secondary meaning",
+                "tone"
+            ],
+            "examples": [
+                "The word freedom has a positive connotation.",
+                "In that context, the phrase has a negative connotation."
+            ]
+        }
+    ],
+    "contrite": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "feeling very sorry and guilty about a wrongdoing.",
+            "synonyms": [
+                "remorseful",
+                "penitent",
+                "regretful",
+                "guilty",
+                "repentant"
+            ],
+            "examples": [
+                "He was contrite after realizing the harm he caused.",
+                "Her contrite apology helped rebuild trust."
+            ]
+        }
+    ],
+    "clandestine": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "kept secret, especially because it is not allowed or is illegal.",
+            "synonyms": [
+                "secret",
+                "hidden",
+                "underground",
+                "covert",
+                "surreptitious"
+            ],
+            "examples": [
+                "They met in a clandestine location.",
+                "The group used clandestine methods to share information."
+            ]
+        }
+    ],
+    "current": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a flow of water or air, or an ongoing movement.",
+            "synonyms": [
+                "flow",
+                "stream",
+                "movement",
+                "tide",
+                "circulation"
+            ],
+            "examples": [
+                "The current in the river is strong.",
+                "Warm air currents can form thunderstorms."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "electricity flowing through a circuit.",
+            "synonyms": [
+                "electric current",
+                "electric flow",
+                "flow of electricity"
+            ],
+            "examples": [
+                "The current was too high for the device.",
+                "Current flows from the positive terminal."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "happening now or belonging to the present time.",
+            "synonyms": [
+                "present",
+                "present-day",
+                "ongoing",
+                "modern",
+                "up-to-date"
+            ],
+            "examples": [
+                "Check the current schedule.",
+                "Current research focuses on safer batteries."
+            ]
+        }
+    ],
+    "claustrophobic": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "feeling strong fear or discomfort in small enclosed spaces.",
+            "synonyms": [
+                "crowded-space anxious",
+                "fearful of enclosed spaces",
+                "panicky in small areas"
+            ],
+            "examples": [
+                "She is claustrophobic, so elevators can be difficult for her.",
+                "The claustrophobic room made him want to leave quickly."
+            ]
+        }
+    ],
+    "confining": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "making you feel trapped or restricted, especially because space is limited.",
+            "synonyms": [
+                "restrictive",
+                "limiting",
+                "restricting",
+                "stifling",
+                "trapping"
+            ],
+            "examples": [
+                "The narrow hallways felt confining.",
+                "The rules were confining and hard to accept."
+            ]
+        }
+    ],
+    "croaky": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "sounding harsh and hoarse, often like a frog-like voice",
+            "synonyms": [
+                "hoarse",
+                "raspy",
+                "gravelly",
+                "rough"
+            ],
+            "examples": [
+                "He called out in a croaky whisper.",
+                "The phone speaker produced a croaky sound."
+            ]
+        }
+    ],
+    "commendable": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "deserving praise or approval for good behavior or a good outcome",
+            "synonyms": [
+                "laudable",
+                "praiseworthy",
+                "admirable",
+                "worthy",
+                "pardonable"
+            ],
+            "examples": [
+                "Her decision to apologize was commendable.",
+                "The team’s careful planning was commendable."
+            ]
+        }
+    ],
+    "charitable": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "willing to help others, especially by giving money or support",
+            "synonyms": [
+                "generous",
+                "kind",
+                "benevolent",
+                "helpful",
+                "supportive"
+            ],
+            "examples": [
+                "She is charitable and often donates to food banks.",
+                "They held a charitable event to raise money for families."
             ]
         }
     ]

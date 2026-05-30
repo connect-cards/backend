@@ -167,7 +167,7 @@
     "designing": [
         {
             "part_of_speech": "noun",
-            "definition": "The act of planning and creating something, especially a plan or drawings.",
+            "definition": "the act of planning and creating something, especially a plan or drawings.",
             "synonyms": [
                 "planning",
                 "drafting",
@@ -181,7 +181,7 @@
         },
         {
             "part_of_speech": "verb",
-            "definition": "To plan and create the form, structure, or appearance of something.",
+            "definition": "to plan and create the form, structure, or appearance of something.",
             "synonyms": [
                 "plan",
                 "draft",
@@ -196,7 +196,7 @@
         },
         {
             "part_of_speech": "adjective",
-            "definition": "Describing something that involves planning and creating; used to describe processes or activities related to planning.",
+            "definition": "describing something that involves planning and creating; used to describe processes or activities related to planning.",
             "synonyms": [
                 "planning-related",
                 "preparatory",
@@ -212,7 +212,7 @@
     "designed": [
         {
             "part_of_speech": "verb",
-            "definition": "Past tense of the verb meaning to plan and create something.",
+            "definition": "past tense of the verb meaning to plan and create something.",
             "synonyms": [
                 "planned",
                 "crafted",
@@ -226,7 +226,7 @@
         },
         {
             "part_of_speech": "adjective",
-            "definition": "Made or created according to a plan or specification; intended.",
+            "definition": "made or created according to a plan or specification; intended.",
             "synonyms": [
                 "engineered",
                 "crafted",
@@ -242,7 +242,7 @@
     "design-ing": [
         {
             "part_of_speech": "noun",
-            "definition": "The act of planning and creating something, especially a plan or drawings.",
+            "definition": "the act of planning and creating something, especially a plan or drawings.",
             "synonyms": [
                 "planning",
                 "drafting",
@@ -255,7 +255,7 @@
         },
         {
             "part_of_speech": "verb",
-            "definition": "To plan and create the form, structure, or appearance of something.",
+            "definition": "to plan and create the form, structure, or appearance of something.",
             "synonyms": [
                 "plan",
                 "draft",
@@ -271,7 +271,7 @@
     "droll": [
         {
             "part_of_speech": "adjective",
-            "definition": "Amusing in a dry or odd way; pleasantly humorous.",
+            "definition": "amusing in a dry or odd way; pleasantly humorous.",
             "synonyms": [
                 "amusing",
                 "funny",
@@ -505,7 +505,7 @@
     "doggedly": [
         {
             "part_of_speech": "adverb",
-            "definition": "In a stubborn and determined way, even when it is difficult",
+            "definition": "in a stubborn and determined way, even when it is difficult",
             "synonyms": [
                 "persistently",
                 "stubbornly",
@@ -522,7 +522,7 @@
     "dismal": [
         {
             "part_of_speech": "adjective",
-            "definition": "Very gloomy or depressing, or of poor quality",
+            "definition": "very gloomy or depressing, or of poor quality",
             "synonyms": [
                 "bleak",
                 "dreary",
@@ -539,7 +539,7 @@
     "doubt": [
         {
             "part_of_speech": "noun",
-            "definition": "Uncertainty about whether something is true or right",
+            "definition": "uncertainty about whether something is true or right",
             "synonyms": [
                 "uncertainty",
                 "suspicion",
@@ -554,7 +554,7 @@
         },
         {
             "part_of_speech": "verb",
-            "definition": "To feel uncertain or not believe something is true",
+            "definition": "to feel uncertain or not believe something is true",
             "synonyms": [
                 "suspect",
                 "question",
@@ -571,7 +571,7 @@
     "dash": [
         {
             "part_of_speech": "verb",
-            "definition": "To move quickly and suddenly",
+            "definition": "to move quickly and suddenly",
             "synonyms": [
                 "run",
                 "rush",
@@ -586,7 +586,7 @@
         },
         {
             "part_of_speech": "noun",
-            "definition": "A quick run or short burst of movement",
+            "definition": "a quick run or short burst of movement",
             "synonyms": [
                 "rush",
                 "dash",
@@ -603,7 +603,7 @@
     "decode": [
         {
             "part_of_speech": "verb",
-            "definition": "To change coded information into a form that can be understood",
+            "definition": "to change coded information into a form that can be understood",
             "synonyms": [
                 "decrypt",
                 "interpret",
@@ -620,7 +620,7 @@
     "decipher": [
         {
             "part_of_speech": "verb",
-            "definition": "To figure out the meaning of something that is difficult to understand",
+            "definition": "to figure out the meaning of something that is difficult to understand",
             "synonyms": [
                 "decode",
                 "interpret",
@@ -637,7 +637,7 @@
     "dread": [
         {
             "part_of_speech": "noun",
-            "definition": "A strong feeling of fear that something unpleasant will happen",
+            "definition": "a strong feeling of fear that something unpleasant will happen",
             "synonyms": [
                 "fear",
                 "apprehension",
@@ -652,7 +652,7 @@
         },
         {
             "part_of_speech": "verb",
-            "definition": "To feel afraid that something unpleasant will happen",
+            "definition": "to feel afraid that something unpleasant will happen",
             "synonyms": [
                 "fear",
                 "anticipate",
@@ -669,7 +669,7 @@
     "dimmed": [
         {
             "part_of_speech": "adjective",
-            "definition": "Made less bright or less clear",
+            "definition": "made less bright or less clear",
             "synonyms": [
                 "faded",
                 "darkened",
@@ -686,7 +686,7 @@
     "doubtful": [
         {
             "part_of_speech": "adjective",
-            "definition": "Uncertain; likely not true or not expected",
+            "definition": "uncertain; likely not true or not expected",
             "synonyms": [
                 "uncertain",
                 "skeptical",
@@ -703,7 +703,7 @@
     "diminish": [
         {
             "part_of_speech": "verb",
-            "definition": "To become smaller or less intense",
+            "definition": "to become smaller or less intense",
             "synonyms": [
                 "reduce",
                 "decrease",
@@ -720,7 +720,7 @@
     "decline": [
         {
             "part_of_speech": "verb",
-            "definition": "To become less; to get worse or smaller over time",
+            "definition": "to become less; to get worse or smaller over time",
             "synonyms": [
                 "decrease",
                 "reduce",
@@ -735,7 +735,7 @@
         },
         {
             "part_of_speech": "noun",
-            "definition": "A decrease in something such as quality, quantity, or health",
+            "definition": "a decrease in something such as quality, quantity, or health",
             "synonyms": [
                 "decrease",
                 "drop",
@@ -752,7 +752,7 @@
     "demand": [
         {
             "part_of_speech": "verb",
-            "definition": "To ask for something strongly or officially",
+            "definition": "to ask for something strongly or officially",
             "synonyms": [
                 "request",
                 "require",
@@ -767,7 +767,7 @@
         },
         {
             "part_of_speech": "noun",
-            "definition": "A strong need or request for something",
+            "definition": "a strong need or request for something",
             "synonyms": [
                 "need",
                 "request",
@@ -784,7 +784,7 @@
     "desolate": [
         {
             "part_of_speech": "adjective",
-            "definition": "Empty, lonely, and without comfort or hope",
+            "definition": "empty, lonely, and without comfort or hope",
             "synonyms": [
                 "lonely",
                 "forsaken",
@@ -801,7 +801,7 @@
     "dodgy": [
         {
             "part_of_speech": "adjective",
-            "definition": "Unreliable, suspicious, or of low quality",
+            "definition": "unreliable, suspicious, or of low quality",
             "synonyms": [
                 "shady",
                 "questionable",
@@ -818,7 +818,7 @@
     "dubious": [
         {
             "part_of_speech": "adjective",
-            "definition": "Not confident that something is true or good; doubtful",
+            "definition": "not confident that something is true or good; doubtful",
             "synonyms": [
                 "doubtful",
                 "skeptical",
@@ -835,7 +835,7 @@
     "decay": [
         {
             "part_of_speech": "noun",
-            "definition": "The process of becoming worse or breaking down over time",
+            "definition": "the process of becoming worse or breaking down over time",
             "synonyms": [
                 "deterioration",
                 "decline",
@@ -850,7 +850,7 @@
         },
         {
             "part_of_speech": "verb",
-            "definition": "To break down or become worse over time",
+            "definition": "to break down or become worse over time",
             "synonyms": [
                 "deteriorate",
                 "rot",
@@ -867,7 +867,7 @@
     "deteriorate": [
         {
             "part_of_speech": "verb",
-            "definition": "To become worse over time",
+            "definition": "to become worse over time",
             "synonyms": [
                 "worsen",
                 "decline",
@@ -884,7 +884,7 @@
     "didactic": [
         {
             "part_of_speech": "adjective",
-            "definition": "Teaching in a way that is meant to instruct or explain moral or learning lessons",
+            "definition": "teaching in a way that is meant to instruct or explain moral or learning lessons",
             "synonyms": [
                 "instructive",
                 "educational",
@@ -901,7 +901,7 @@
     "discern": [
         {
             "part_of_speech": "verb",
-            "definition": "To notice or understand something that is not obvious",
+            "definition": "to notice or understand something that is not obvious",
             "synonyms": [
                 "detect",
                 "recognize",
@@ -918,7 +918,7 @@
     "distinguish": [
         {
             "part_of_speech": "verb",
-            "definition": "To recognize the difference between two things",
+            "definition": "to recognize the difference between two things",
             "synonyms": [
                 "tell apart",
                 "separate",
@@ -935,7 +935,7 @@
     "decide": [
         {
             "part_of_speech": "verb",
-            "definition": "To make a choice after thinking about something",
+            "definition": "to make a choice after thinking about something",
             "synonyms": [
                 "choose",
                 "determine",
@@ -952,7 +952,7 @@
     "determine": [
         {
             "part_of_speech": "verb",
-            "definition": "To find out or decide something after careful thinking or research",
+            "definition": "to find out or decide something after careful thinking or research",
             "synonyms": [
                 "decide",
                 "settle",
@@ -969,7 +969,7 @@
     "debt": [
         {
             "part_of_speech": "noun",
-            "definition": "Money that one person or organization owes to another",
+            "definition": "money that one person or organization owes to another",
             "synonyms": [
                 "owe money",
                 "liability",
@@ -985,7 +985,7 @@
     "diagnosis": [
         {
             "part_of_speech": "noun",
-            "definition": "The process of identifying what illness or condition a person has",
+            "definition": "the process of identifying what illness or condition a person has",
             "synonyms": [
                 "identification",
                 "finding",
@@ -1002,7 +1002,7 @@
     "dialogue": [
         {
             "part_of_speech": "noun",
-            "definition": "A conversation between two or more people",
+            "definition": "a conversation between two or more people",
             "synonyms": [
                 "conversation",
                 "talk",
@@ -1017,7 +1017,7 @@
         },
         {
             "part_of_speech": "noun",
-            "definition": "In writing, the spoken lines of characters",
+            "definition": "in writing, the spoken lines of characters",
             "synonyms": [
                 "speech",
                 "lines",
@@ -1812,6 +1812,475 @@
             "examples": [
                 "The committee will deliberate on the proposal.",
                 "We need time to deliberate."
+            ]
+        }
+    ],
+    "daybreak": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the time when morning light first appears",
+            "synonyms": [
+                "dawn",
+                "first light",
+                "morning light"
+            ],
+            "examples": [
+                "We left at daybreak to avoid traffic.",
+                "Daybreak brought clear skies."
+            ]
+        }
+    ],
+    "delicate": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "easily damaged; also gentle and not strong or forceful",
+            "synonyms": [
+                "fragile",
+                "sensitive",
+                "fine",
+                "light",
+                "tender"
+            ],
+            "examples": [
+                "Handle the delicate glass carefully.",
+                "She has a delicate voice."
+            ]
+        }
+    ],
+    "dashy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "stylish and showy in a bold way",
+            "synonyms": [
+                "flashy",
+                "stylish",
+                "showy",
+                "dapper",
+                "flashy"
+            ],
+            "examples": [
+                "He wore a dashy jacket to the party.",
+                "The dashy design caught everyone’s attention."
+            ]
+        }
+    ],
+    "doughty": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "brave and determined, even in difficult situations",
+            "synonyms": [
+                "valiant",
+                "courageous",
+                "brave",
+                "bold",
+                "hardy"
+            ],
+            "examples": [
+                "The doughty firefighter saved the family.",
+                "She felt doughty enough to start over."
+            ]
+        }
+    ],
+    "dentist": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a doctor who treats problems with teeth and gums",
+            "synonyms": [
+                "dental doctor",
+                "oral health professional"
+            ],
+            "examples": [
+                "I have a dentist appointment tomorrow.",
+                "The dentist checked my teeth."
+            ]
+        }
+    ],
+    "drizzle": [
+        {
+            "part_of_speech": "noun",
+            "definition": "light rain with small drops",
+            "synonyms": [
+                "light rain",
+                "misty rain",
+                "showers"
+            ],
+            "examples": [
+                "It was just drizzle, so we kept walking.",
+                "The window was blurred by drizzle."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to fall in the form of light rain with small drops",
+            "synonyms": [
+                "rain lightly",
+                "mist",
+                "spatter"
+            ],
+            "examples": [
+                "It started to drizzle in the afternoon.",
+                "The forecast says it may drizzle."
+            ]
+        }
+    ],
+    "dim": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "not bright; giving off little light",
+            "synonyms": [
+                "dark",
+                "weak",
+                "faint",
+                "low-lit",
+                "shadowy"
+            ],
+            "examples": [
+                "The room became dim when the lights went out.",
+                "I could see only a dim outline of the building."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make light less bright",
+            "synonyms": [
+                "darken",
+                "weaken",
+                "reduce",
+                "lower",
+                "dim"
+            ],
+            "examples": [
+                "The sun dimmed behind the clouds.",
+                "He dimmed the screen to save power."
+            ]
+        }
+    ],
+    "despondent": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "feeling very sad, hopeless, or without energy",
+            "synonyms": [
+                "downhearted",
+                "discouraged",
+                "dejected",
+                "hopeless",
+                "glum"
+            ],
+            "examples": [
+                "She felt despondent after the rejection.",
+                "He became despondent and stopped calling his friends."
+            ]
+        }
+    ],
+    "disposition": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person’s usual attitude or way of behaving.",
+            "synonyms": [
+                "attitude",
+                "temperament",
+                "disposition",
+                "inclination",
+                "tendency"
+            ],
+            "examples": [
+                "His disposition is friendly, even with strangers.",
+                "The job requires a patient disposition."
+            ]
+        }
+    ],
+    "dissonance": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a lack of harmony, or disagreement among ideas, feelings, or sounds.",
+            "synonyms": [
+                "conflict",
+                "clash",
+                "discord",
+                "lack of harmony",
+                "unharmony"
+            ],
+            "examples": [
+                "Their different opinions created dissonance.",
+                "The music sounded like intentional dissonance."
+            ]
+        }
+    ],
+    "deterrence": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the act of discouraging someone from doing something by threatening consequences.",
+            "synonyms": [
+                "prevention",
+                "discouragement",
+                "deterrent effect",
+                "warning",
+                "deterrent"
+            ],
+            "examples": [
+                "The government focused on deterrence to reduce attacks.",
+                "Strong penalties provide deterrence."
+            ]
+        }
+    ],
+    "debate": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a discussion where people argue for or against something.",
+            "synonyms": [
+                "discussion",
+                "argument",
+                "dispute",
+                "consideration",
+                "deliberation"
+            ],
+            "examples": [
+                "The class had a debate about climate policy.",
+                "They held a debate on the new rules."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to discuss something by arguing different ideas.",
+            "synonyms": [
+                "argue",
+                "discuss",
+                "contend",
+                "dispute",
+                "deliberate"
+            ],
+            "examples": [
+                "Experts debate the best way to solve the problem.",
+                "People debated whether the plan was fair."
+            ]
+        }
+    ],
+    "dispute": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a disagreement or argument about something important.",
+            "synonyms": [
+                "argument",
+                "disagreement",
+                "quarrel",
+                "controversy",
+                "conflict"
+            ],
+            "examples": [
+                "They settled the dispute peacefully.",
+                "The dispute lasted for months."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to argue that something is not true or is not correct.",
+            "synonyms": [
+                "challenge",
+                "argue against",
+                "question",
+                "contest",
+                "disagree"
+            ],
+            "examples": [
+                "She disputes the claim.",
+                "The lawyer disputed the evidence."
+            ]
+        }
+    ],
+    "denouement": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the final part of a story where events are explained and conflicts are resolved.",
+            "synonyms": [
+                "ending",
+                "conclusion",
+                "finale",
+                "resolution",
+                "wrap-up"
+            ],
+            "examples": [
+                "The denouement clarified what happened to the missing money.",
+                "After many twists, the denouement arrived quickly."
+            ]
+        }
+    ],
+    "downpour": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a heavy rain that falls for a period of time.",
+            "synonyms": [
+                "heavy rain",
+                "rainstorm",
+                "shower",
+                "torrent",
+                "pour"
+            ],
+            "examples": [
+                "A sudden downpour forced us inside.",
+                "The downpour lasted for an hour."
+            ]
+        }
+    ],
+    "dissemble": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to hide your true feelings or intentions.",
+            "synonyms": [
+                "pretend",
+                "conceal",
+                "hide",
+                "disguise",
+                "mask"
+            ],
+            "examples": [
+                "She dissembled and acted like she was not upset.",
+                "He dissembled his plans until the right moment."
+            ]
+        }
+    ],
+    "defendant": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person or organization accused in a court case.",
+            "synonyms": [
+                "accused person",
+                "respondent",
+                "litigant",
+                "sued party"
+            ],
+            "examples": [
+                "The defendant denied the charges.",
+                "Both sides presented evidence to the defendant’s lawyer."
+            ]
+        }
+    ],
+    "divagation": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a departure from the main topic, often in writing or speech.",
+            "synonyms": [
+                "digression",
+                "departure",
+                "wandering",
+                "off-topic talk"
+            ],
+            "examples": [
+                "His divagation made the presentation hard to follow.",
+                "The essay suffered from divagation into unrelated points."
+            ]
+        }
+    ],
+    "digression": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a temporary change to a different topic while speaking or writing.",
+            "synonyms": [
+                "side track",
+                "departure",
+                "divagation",
+                "wandering",
+                "off-topic comment"
+            ],
+            "examples": [
+                "Sorry for the digression, but it matters.",
+                "The lecture included several digressions from the main subject."
+            ]
+        }
+    ],
+    "dodge": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to avoid something by moving quickly or by acting in a clever way.",
+            "synonyms": [
+                "avoid",
+                "evade",
+                "sidestep",
+                "escape",
+                "shy away"
+            ],
+            "examples": [
+                "He dodged the question and changed the subject.",
+                "The driver dodged the obstacle in time."
+            ]
+        }
+    ],
+    "duke": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a high noble title, usually below a king and above a marquis.",
+            "synonyms": [
+                "noble",
+                "ducal lord",
+                "titled noble"
+            ],
+            "examples": [
+                "The duke arrived with a small group of officials.",
+                "She became the duke’s wife after the marriage."
+            ]
+        }
+    ],
+    "duration": [
+        {
+            "part_of_speech": "noun",
+            "definition": "how long something lasts.",
+            "synonyms": [
+                "length",
+                "time",
+                "extent",
+                "period",
+                "span"
+            ],
+            "examples": [
+                "The duration of the meeting was two hours.",
+                "They discussed the duration of the treatment."
+            ]
+        }
+    ],
+    "detached": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "not emotionally involved, calm, and not easily affected",
+            "synonyms": [
+                "unemotional",
+                "distant",
+                "aloof",
+                "cool",
+                "objective"
+            ],
+            "examples": [
+                "He gave a detached explanation of what happened.",
+                "Try to stay detached during stressful situations."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "separate from something, especially not connected",
+            "synonyms": [
+                "separate",
+                "independent",
+                "unattached",
+                "not joined"
+            ],
+            "examples": [
+                "The keychain is detached from the main ring.",
+                "The report is a detached section of the document."
+            ]
+        }
+    ],
+    "dawdle": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to waste time by moving or acting slowly without a good reason",
+            "synonyms": [
+                "loiter",
+                "drag",
+                "waste time",
+                "linger",
+                "idle"
+            ],
+            "examples": [
+                "Stop dawdling and get ready for the bus.",
+                "He dawdled at the store and missed the train."
             ]
         }
     ]

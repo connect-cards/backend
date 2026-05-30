@@ -1,0 +1,53 @@
+{
+    "date": "2026-02-01",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "easy",
+            "difficulty": "easy",
+            "title": "shop talk, not formality",
+            "words": [
+                "stroll",
+                "ramble",
+                "wander",
+                "roam"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "medium",
+            "difficulty": "medium",
+            "title": "half-muted speech",
+            "words": [
+                "lacquered",
+                "garrulous",
+                "rumpled",
+                "mumbled"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "hard",
+            "difficulty": "hard",
+            "title": "tools of the trade",
+            "words": [
+                "solder",
+                "tongs",
+                "caliper",
+                "tether"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "very_hard",
+            "difficulty": "very_hard",
+            "title": "the writer’s loom",
+            "words": [
+                "quatrain",
+                "tercet",
+                "canto",
+                "tmesis"
+            ]
+        }
+    ]
+}

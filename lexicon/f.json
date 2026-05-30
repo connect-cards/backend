@@ -125,7 +125,7 @@
     "facetious": [
         {
             "part_of_speech": "adjective",
-            "definition": "Treating serious issues with deliberately inappropriate humor.",
+            "definition": "treating serious issues with deliberately inappropriate humor.",
             "synonyms": [
                 "flippant",
                 "joking",
@@ -140,7 +140,7 @@
     "fella": [
         {
             "part_of_speech": "noun",
-            "definition": "A man; a fellow (informal).",
+            "definition": "a man; a fellow (informal).",
             "synonyms": [
                 "guy",
                 "chap",
@@ -213,7 +213,7 @@
     "forged": [
         {
             "part_of_speech": "adjective",
-            "definition": "Made in a dishonest way to look real, especially for documents or money",
+            "definition": "made in a dishonest way to look real, especially for documents or money",
             "synonyms": [
                 "fake",
                 "counterfeit",
@@ -228,7 +228,7 @@
         },
         {
             "part_of_speech": "verb",
-            "definition": "To create something false in order to deceive people",
+            "definition": "to create something false in order to deceive people",
             "synonyms": [
                 "forge",
                 "fake",
@@ -245,7 +245,7 @@
     "fictitious": [
         {
             "part_of_speech": "adjective",
-            "definition": "Invented, not real, often used for stories or names",
+            "definition": "invented, not real, often used for stories or names",
             "synonyms": [
                 "imaginary",
                 "made-up",
@@ -262,7 +262,7 @@
     "fumble": [
         {
             "part_of_speech": "verb",
-            "definition": "To handle something clumsily, or to fail to do something because you are nervous or unprepared",
+            "definition": "to handle something clumsily, or to fail to do something because you are nervous or unprepared",
             "synonyms": [
                 "botch",
                 "mishandle",
@@ -279,7 +279,7 @@
     "flaky": [
         {
             "part_of_speech": "adjective",
-            "definition": "Breaking easily into small pieces; also, not reliable",
+            "definition": "breaking easily into small pieces; also, not reliable",
             "synonyms": [
                 "crumbly",
                 "fragile",
@@ -296,7 +296,7 @@
     "fetter": [
         {
             "part_of_speech": "verb",
-            "definition": "To restrict someone’s freedom or ability to act",
+            "definition": "to restrict someone’s freedom or ability to act",
             "synonyms": [
                 "restrain",
                 "bind",
@@ -311,7 +311,7 @@
         },
         {
             "part_of_speech": "noun",
-            "definition": "A chain or device used to restrain someone",
+            "definition": "a chain or device used to restrain someone",
             "synonyms": [
                 "chain",
                 "restraint",
@@ -327,7 +327,7 @@
     "feathery": [
         {
             "part_of_speech": "adjective",
-            "definition": "Like feathers; very light and soft, or looking light and delicate",
+            "definition": "like feathers; very light and soft, or looking light and delicate",
             "synonyms": [
                 "light",
                 "soft",
@@ -344,7 +344,7 @@
     "foreboding": [
         {
             "part_of_speech": "noun",
-            "definition": "A feeling that something unpleasant may happen in the future",
+            "definition": "a feeling that something unpleasant may happen in the future",
             "synonyms": [
                 "dread",
                 "unease",
@@ -359,7 +359,7 @@
         },
         {
             "part_of_speech": "adjective",
-            "definition": "Making you feel that something bad may happen",
+            "definition": "making you feel that something bad may happen",
             "synonyms": [
                 "ominous",
                 "threatening",
@@ -375,7 +375,7 @@
     "forbear": [
         {
             "part_of_speech": "verb",
-            "definition": "To hold back from doing something, especially out of restraint",
+            "definition": "to hold back from doing something, especially out of restraint",
             "synonyms": [
                 "refrain",
                 "avoid",
@@ -392,7 +392,7 @@
     "freckle": [
         {
             "part_of_speech": "noun",
-            "definition": "A small brown or red spot on the skin",
+            "definition": "a small brown or red spot on the skin",
             "synonyms": [
                 "spot",
                 "mark",
@@ -405,7 +405,7 @@
         },
         {
             "part_of_speech": "verb",
-            "definition": "To develop small brown or red spots on the skin, often from sunlight",
+            "definition": "to develop small brown or red spots on the skin, often from sunlight",
             "synonyms": [
                 "spot",
                 "develop spots (skin)",
@@ -420,7 +420,7 @@
     "frostbite": [
         {
             "part_of_speech": "noun",
-            "definition": "Injury to the skin and tissues caused by freezing cold",
+            "definition": "injury to the skin and tissues caused by freezing cold",
             "synonyms": [
                 "cold injury",
                 "freezing injury",
@@ -435,7 +435,7 @@
     "fret": [
         {
             "part_of_speech": "verb",
-            "definition": "To worry or be annoyed repeatedly about something",
+            "definition": "to worry or be annoyed repeatedly about something",
             "synonyms": [
                 "worry",
                 "wince",
@@ -452,7 +452,7 @@
     "framework": [
         {
             "part_of_speech": "noun",
-            "definition": "A basic structure that supports something or gives it organization",
+            "definition": "a basic structure that supports something or gives it organization",
             "synonyms": [
                 "structure",
                 "skeleton",
@@ -955,6 +955,425 @@
             "examples": [
                 "Forensics helped identify the source of the blood.",
                 "They sent the samples to forensics."
+            ]
+        }
+    ],
+    "fable": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a short story that teaches a moral lesson, often using animals or simple characters",
+            "synonyms": [
+                "parable",
+                "story",
+                "folk tale",
+                "allegory"
+            ],
+            "examples": [
+                "The class read a fable about honesty.",
+                "Many cultures have fables for children."
+            ]
+        }
+    ],
+    "freckled": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having small spots, often light brown, on the skin",
+            "synonyms": [
+                "spotted",
+                "speckled",
+                "mottled"
+            ],
+            "examples": [
+                "She is freckled and gets sun easily.",
+                "His freckled cheeks turned red in the cold."
+            ]
+        }
+    ],
+    "friendly": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "kind, pleasant, and easy to talk to",
+            "synonyms": [
+                "kind",
+                "helpful",
+                "warm",
+                "amiable",
+                "affable"
+            ],
+            "examples": [
+                "She gave me a friendly smile.",
+                "They were friendly neighbors who checked on us."
+            ]
+        }
+    ],
+    "frangible": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "easy to break or breakable",
+            "synonyms": [
+                "fragile",
+                "breakable",
+                "brittle",
+                "crackable"
+            ],
+            "examples": [
+                "The frangible material shattered when dropped.",
+                "Be careful with this frangible cover."
+            ]
+        }
+    ],
+    "fragile": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "easily broken or damaged",
+            "synonyms": [
+                "delicate",
+                "breakable",
+                "brittle",
+                "frail",
+                "weak"
+            ],
+            "examples": [
+                "The fragile vase was wrapped in paper.",
+                "She has a fragile health condition."
+            ]
+        }
+    ],
+    "fury": [
+        {
+            "part_of_speech": "noun",
+            "definition": "extreme anger",
+            "synonyms": [
+                "anger",
+                "rage",
+                "wrath",
+                "madness",
+                "ferocity"
+            ],
+            "examples": [
+                "He shouted in fury after hearing the news.",
+                "The crowd’s fury grew quickly."
+            ]
+        }
+    ],
+    "frugal": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "careful with money; not spending more than necessary",
+            "synonyms": [
+                "economical",
+                "thrifty",
+                "careful",
+                "budget-conscious",
+                "stingy"
+            ],
+            "examples": [
+                "She is frugal and saves for future trips.",
+                "They live in a frugal way to reduce expenses."
+            ]
+        }
+    ],
+    "forgery": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the crime of making or copying something such as a document or signature in order to deceive",
+            "synonyms": [
+                "counterfeiting",
+                "fake",
+                "fraud",
+                "falsification"
+            ],
+            "examples": [
+                "He was arrested for forgery.",
+                "The document turned out to be a forgery."
+            ]
+        }
+    ],
+    "forbearance": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the decision to wait patiently or avoid doing something harsh",
+            "synonyms": [
+                "patience",
+                "restraint",
+                "tolerance",
+                "mercy",
+                "leniency"
+            ],
+            "examples": [
+                "Her forbearance helped calm the argument.",
+                "The manager showed forbearance and allowed another chance."
+            ]
+        }
+    ],
+    "flood": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a large amount of water that covers land that is usually dry",
+            "synonyms": [
+                "inundation",
+                "overflow",
+                "deluge",
+                "waters"
+            ],
+            "examples": [
+                "The flood damaged several houses.",
+                "Heavy rain caused a flood in the valley."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to fill an area with a lot of water",
+            "synonyms": [
+                "inundate",
+                "overflow",
+                "submerge",
+                "flood",
+                "cover"
+            ],
+            "examples": [
+                "The river flooded the streets.",
+                "Rain can flood basements quickly."
+            ]
+        }
+    ],
+    "footsteps": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the sounds made by walking; also the action of walking toward a place",
+            "synonyms": [
+                "steps",
+                "step sounds",
+                "marching",
+                "tread"
+            ],
+            "examples": [
+                "I heard footsteps outside the door.",
+                "Her footsteps moved closer to my room."
+            ]
+        }
+    ],
+    "forge": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a workshop where metal is heated and shaped",
+            "synonyms": [
+                "blacksmith shop",
+                "smithy",
+                "metalworking shop"
+            ],
+            "examples": [
+                "The blacksmith worked in the forge.",
+                "They visited the old forge."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to create something by heating metal and shaping it",
+            "synonyms": [
+                "shape",
+                "make",
+                "smith",
+                "manufacture",
+                "form"
+            ],
+            "examples": [
+                "He learned to forge tools.",
+                "They forged the metal into a new shape."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to create a fake document or signature with the intention to deceive",
+            "synonyms": [
+                "counterfeit",
+                "fabricate",
+                "fake",
+                "forge",
+                "pass off"
+            ],
+            "examples": [
+                "Someone tried to forge her signature.",
+                "The court charged him with forgery and forging documents."
+            ]
+        }
+    ],
+    "foreclose": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to prevent something from happening, especially by taking away choices or rights",
+            "synonyms": [
+                "prevent",
+                "block",
+                "end",
+                "shut off",
+                "eliminate"
+            ],
+            "examples": [
+                "The rules foreclose any appeal.",
+                "The lender foreclosed on the property."
+            ]
+        }
+    ],
+    "forceps": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a medical tool with pincers for gripping or holding tissue.",
+            "synonyms": [
+                "tweezers",
+                "pincer",
+                "clamp",
+                "grasping instrument"
+            ],
+            "examples": [
+                "The nurse used forceps to hold the gauze.",
+                "The doctor removed the sample with forceps."
+            ]
+        }
+    ],
+    "frank": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "truthful and direct; not hiding feelings or intentions.",
+            "synonyms": [
+                "honest",
+                "candid",
+                "open",
+                "straightforward",
+                "plain-spoken"
+            ],
+            "examples": [
+                "She gave a frank opinion about the plan.",
+                "He was frank about his concerns."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a notice or privilege in writing that allows free mailing in some systems.",
+            "synonyms": [
+                "free-mailing permission",
+                "mailing privilege"
+            ],
+            "examples": [
+                "He used the frank to send the letter at no cost."
+            ]
+        }
+    ],
+    "forlorn": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "feeling abandoned, lonely, or hopeless.",
+            "synonyms": [
+                "desolate",
+                "hopeless",
+                "lonely",
+                "miserable",
+                "heartbroken"
+            ],
+            "examples": [
+                "He looked forlorn after the defeat.",
+                "The abandoned house seemed forlorn."
+            ]
+        }
+    ],
+    "factious": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "causing division or conflict within a group.",
+            "synonyms": [
+                "divisive",
+                "splitting",
+                "disruptive",
+                "factional",
+                "contentious"
+            ],
+            "examples": [
+                "The factious debate damaged trust in the group.",
+                "Factional leaders created a factious atmosphere."
+            ]
+        }
+    ],
+    "factual": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "based on facts; not false or made up.",
+            "synonyms": [
+                "true",
+                "accurate",
+                "real",
+                "verifiable",
+                "factually correct"
+            ],
+            "examples": [
+                "Only factual information should be included in the report.",
+                "The article provides factual details about the event."
+            ]
+        }
+    ],
+    "fictional": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "made up; not based on real events or people.",
+            "synonyms": [
+                "imaginary",
+                "made-up",
+                "invented",
+                "not real",
+                "fictitious"
+            ],
+            "examples": [
+                "The story is fictional, but the emotions are real.",
+                "They wrote a fictional account of the detective."
+            ]
+        }
+    ],
+    "factoid": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small and often trivial piece of information, especially one repeated as if important.",
+            "synonyms": [
+                "trivia",
+                "piece of information",
+                "small fact",
+                "tidbit",
+                "quick fact"
+            ],
+            "examples": [
+                "It was just a factoid, not a real study.",
+                "He shared a factoid about sea turtles."
+            ]
+        }
+    ],
+    "factually": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "in a way that is based on facts.",
+            "synonyms": [
+                "accurately",
+                "truly",
+                "based on facts",
+                "correctly",
+                "verifiably"
+            ],
+            "examples": [
+                "Please state the information factually.",
+                "The claim was presented factually, with sources."
+            ]
+        }
+    ],
+    "fie": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a word used to express strong disapproval or scolding",
+            "synonyms": [
+                "shame",
+                "scolding",
+                "tut",
+                "bah"
+            ],
+            "examples": [
+                "Fie! That was not a polite thing to say.",
+                "The teacher said fie when the student broke the rule."
             ]
         }
     ]

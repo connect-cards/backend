@@ -1,0 +1,53 @@
+{
+    "date": "2026-01-14",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "easy",
+            "difficulty": "easy",
+            "title": "common lanes of movement",
+            "words": [
+                "stroll",
+                "wander",
+                "ramble",
+                "roam"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "medium",
+            "difficulty": "medium",
+            "title": "people you might name informally",
+            "words": [
+                "bloke",
+                "chap",
+                "lad",
+                "fella"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "hard",
+            "difficulty": "hard",
+            "title": "a mind bent toward doubt",
+            "words": [
+                "skeptical",
+                "dubious",
+                "questioning",
+                "incredulous"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "very_hard",
+            "difficulty": "very_hard",
+            "title": "shades of silence and withholding",
+            "words": [
+                "reticent",
+                "taciturn",
+                "unctuous",
+                "lacunose"
+            ]
+        }
+    ]
+}

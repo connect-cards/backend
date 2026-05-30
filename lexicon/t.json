@@ -315,7 +315,7 @@
     "tint": [
         {
             "part_of_speech": "verb",
-            "definition": "To color something slightly or give it a shade of a color.",
+            "definition": "to color something slightly or give it a shade of a color.",
             "synonyms": [
                 "color",
                 "colorize",
@@ -329,7 +329,7 @@
     "terse": [
         {
             "part_of_speech": "adjective",
-            "definition": "Brief and to the point; using few words.",
+            "definition": "brief and to the point; using few words.",
             "synonyms": [
                 "concise",
                 "succinct",
@@ -343,7 +343,7 @@
     "tercet": [
         {
             "part_of_speech": "noun",
-            "definition": "A group of three lines of verse forming a unit.",
+            "definition": "a group of three lines of verse forming a unit.",
             "synonyms": [
                 "triplet",
                 "triple",
@@ -357,7 +357,7 @@
     "terzetto": [
         {
             "part_of_speech": "noun",
-            "definition": "A short piece of opera for three singers; a trio.",
+            "definition": "a short piece of opera for three singers; a trio.",
             "synonyms": [
                 "trio",
                 "triple"
@@ -370,7 +370,7 @@
     "ternion": [
         {
             "part_of_speech": "noun",
-            "definition": "A group or set of three; a triad.",
+            "definition": "a group or set of three; a triad.",
             "synonyms": [
                 "trio",
                 "triad",
@@ -384,7 +384,7 @@
     "trine": [
         {
             "part_of_speech": "noun",
-            "definition": "A group or set of three; a triad; in astrology a favorable aspect to the earth.",
+            "definition": "a group or set of three; a triad; in astrology a favorable aspect to the earth.",
             "synonyms": [
                 "trio",
                 "triad",
@@ -731,7 +731,7 @@
     "topographer": [
         {
             "part_of_speech": "noun",
-            "definition": "A person who studies and describes the features of land, such as hills and valleys",
+            "definition": "a person who studies and describes the features of land, such as hills and valleys",
             "synonyms": [
                 "geographer",
                 "land describer",
@@ -747,7 +747,7 @@
     "track": [
         {
             "part_of_speech": "noun",
-            "definition": "A path or route made for walking, vehicles, or racing",
+            "definition": "a path or route made for walking, vehicles, or racing",
             "synonyms": [
                 "trail",
                 "route",
@@ -762,7 +762,7 @@
         },
         {
             "part_of_speech": "verb",
-            "definition": "To follow someone or something to find them or learn where they are",
+            "definition": "to follow someone or something to find them or learn where they are",
             "synonyms": [
                 "follow",
                 "monitor",
@@ -777,7 +777,7 @@
         },
         {
             "part_of_speech": "noun",
-            "definition": "A line of sound recording or playback on audio or video",
+            "definition": "a line of sound recording or playback on audio or video",
             "synonyms": [
                 "audio track",
                 "recording track",
@@ -793,7 +793,7 @@
     "triage": [
         {
             "part_of_speech": "noun",
-            "definition": "The process of sorting patients based on how urgent their medical needs are",
+            "definition": "the process of sorting patients based on how urgent their medical needs are",
             "synonyms": [
                 "sorting",
                 "prioritization",
@@ -808,7 +808,7 @@
         },
         {
             "part_of_speech": "verb",
-            "definition": "To sort patients to decide the order of treatment based on urgency",
+            "definition": "to sort patients to decide the order of treatment based on urgency",
             "synonyms": [
                 "prioritize",
                 "sort",
@@ -825,7 +825,7 @@
     "terror": [
         {
             "part_of_speech": "noun",
-            "definition": "Great fear or intense feeling of being afraid",
+            "definition": "great fear or intense feeling of being afraid",
             "synonyms": [
                 "fear",
                 "dread",
@@ -842,7 +842,7 @@
     "template": [
         {
             "part_of_speech": "noun",
-            "definition": "A pre-made form or design that helps you create something in the same way",
+            "definition": "a pre-made form or design that helps you create something in the same way",
             "synonyms": [
                 "model",
                 "pattern",
@@ -859,7 +859,7 @@
     "thump": [
         {
             "part_of_speech": "verb",
-            "definition": "To hit something heavily and make a loud sound",
+            "definition": "to hit something heavily and make a loud sound",
             "synonyms": [
                 "bang",
                 "thud",
@@ -874,7 +874,7 @@
         },
         {
             "part_of_speech": "noun",
-            "definition": "A loud heavy hit or sound",
+            "definition": "a loud heavy hit or sound",
             "synonyms": [
                 "thud",
                 "bang",
@@ -891,7 +891,7 @@
     "tackle": [
         {
             "part_of_speech": "verb",
-            "definition": "To deal with a problem or task, usually using effort",
+            "definition": "to deal with a problem or task, usually using effort",
             "synonyms": [
                 "deal with",
                 "address",
@@ -906,7 +906,7 @@
         },
         {
             "part_of_speech": "noun",
-            "definition": "A set of equipment used in fishing or climbing, or in sports equipment used to stop an opponent",
+            "definition": "a set of equipment used in fishing or climbing, or in sports equipment used to stop an opponent",
             "synonyms": [
                 "equipment",
                 "gear",
@@ -922,7 +922,7 @@
     "tidal": [
         {
             "part_of_speech": "adjective",
-            "definition": "Relating to tides, especially the rise and fall of sea water",
+            "definition": "relating to tides, especially the rise and fall of sea water",
             "synonyms": [
                 "related to tides",
                 "coastal",
@@ -938,7 +938,7 @@
     "tide": [
         {
             "part_of_speech": "noun",
-            "definition": "The regular rise and fall of sea level caused by the Moon’s gravity",
+            "definition": "the regular rise and fall of sea level caused by the Moon’s gravity",
             "synonyms": [
                 "sea level change",
                 "tide",
@@ -953,7 +953,7 @@
     "tideway": [
         {
             "part_of_speech": "noun",
-            "definition": "A channel or route along which tidal currents flow",
+            "definition": "a channel or route along which tidal currents flow",
             "synonyms": [
                 "tidal channel",
                 "waterway",
@@ -969,7 +969,7 @@
     "tie": [
         {
             "part_of_speech": "noun",
-            "definition": "A piece of clothing worn around the neck, usually under a collar",
+            "definition": "a piece of clothing worn around the neck, usually under a collar",
             "synonyms": [
                 "necktie",
                 "bow (tie)",
@@ -983,7 +983,7 @@
         },
         {
             "part_of_speech": "noun",
-            "definition": "An equal result in a competition or game",
+            "definition": "an equal result in a competition or game",
             "synonyms": [
                 "draw",
                 "dead heat",
@@ -997,7 +997,7 @@
         },
         {
             "part_of_speech": "verb",
-            "definition": "To fasten something with rope, string, or a knot",
+            "definition": "to fasten something with rope, string, or a knot",
             "synonyms": [
                 "fasten",
                 "secure",
@@ -1012,7 +1012,7 @@
         },
         {
             "part_of_speech": "verb",
-            "definition": "To end with an equal result",
+            "definition": "to end with an equal result",
             "synonyms": [
                 "draw",
                 "match",
@@ -1028,7 +1028,7 @@
     "thereunto": [
         {
             "part_of_speech": "adverb",
-            "definition": "To that purpose or for that reason; to it",
+            "definition": "to that purpose or for that reason; to it",
             "synonyms": [
                 "for that",
                 "to that",
@@ -1042,7 +1042,7 @@
     "tactile": [
         {
             "part_of_speech": "adjective",
-            "definition": "Related to touch and the sense of touch",
+            "definition": "related to touch and the sense of touch",
             "synonyms": [
                 "touch-related",
                 "hand-feel (informal)",
@@ -1058,7 +1058,7 @@
     "tenuous": [
         {
             "part_of_speech": "adjective",
-            "definition": "Weak or not strongly supported; not certain",
+            "definition": "weak or not strongly supported; not certain",
             "synonyms": [
                 "weak",
                 "slight",
@@ -1075,7 +1075,7 @@
     "tremulous": [
         {
             "part_of_speech": "adjective",
-            "definition": "Shaking slightly, often because of fear, emotion, or weakness",
+            "definition": "shaking slightly, often because of fear, emotion, or weakness",
             "synonyms": [
                 "shaky",
                 "shivering",
@@ -1092,7 +1092,7 @@
     "threnody": [
         {
             "part_of_speech": "noun",
-            "definition": "A song or speech that expresses deep sorrow, especially for someone who has died",
+            "definition": "a song or speech that expresses deep sorrow, especially for someone who has died",
             "synonyms": [
                 "lament",
                 "elegy",
@@ -1109,7 +1109,7 @@
     "testimony": [
         {
             "part_of_speech": "noun",
-            "definition": "Statements made in court about what someone saw, heard, or believes",
+            "definition": "statements made in court about what someone saw, heard, or believes",
             "synonyms": [
                 "evidence",
                 "statement",
@@ -1126,7 +1126,7 @@
     "tussle": [
         {
             "part_of_speech": "noun",
-            "definition": "A short fight or struggle, especially with pushing and grabbing",
+            "definition": "a short fight or struggle, especially with pushing and grabbing",
             "synonyms": [
                 "scuffle",
                 "struggle",
@@ -1141,7 +1141,7 @@
         },
         {
             "part_of_speech": "verb",
-            "definition": "To struggle or fight briefly, often with pushing",
+            "definition": "to struggle or fight briefly, often with pushing",
             "synonyms": [
                 "scuffle",
                 "struggle",
@@ -1158,7 +1158,7 @@
     "tacet": [
         {
             "part_of_speech": "adjective",
-            "definition": "To be silent or stop speaking, especially in a musical or performance context",
+            "definition": "to be silent or stop speaking, especially in a musical or performance context",
             "synonyms": [
                 "silent (performance)",
                 "remain quiet",
@@ -1173,7 +1173,7 @@
     "trespasser": [
         {
             "part_of_speech": "noun",
-            "definition": "A person who enters land or property without permission",
+            "definition": "a person who enters land or property without permission",
             "synonyms": [
                 "intruder",
                 "poacher (context)",
@@ -1190,7 +1190,7 @@
     "therein": [
         {
             "part_of_speech": "adverb",
-            "definition": "In that place or in that document; inside it",
+            "definition": "in that place or in that document; inside it",
             "synonyms": [
                 "in it",
                 "within that",
@@ -1205,7 +1205,7 @@
     "trepidation": [
         {
             "part_of_speech": "noun",
-            "definition": "Fear or anxious worry about something that may happen",
+            "definition": "fear or anxious worry about something that may happen",
             "synonyms": [
                 "anxiety",
                 "dread",
@@ -1724,6 +1724,683 @@
             "examples": [
                 "The library has a treatise on economics.",
                 "She wrote a treatise about ancient architecture."
+            ]
+        }
+    ],
+    "tongs": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a tool with two arms that you squeeze to hold or lift things",
+            "synonyms": [
+                "grippers",
+                "pliers",
+                "grabbers",
+                "clamps"
+            ],
+            "examples": [
+                "Use the tongs to move the hot pan.",
+                "The chef grabbed the meat with metal tongs."
+            ]
+        }
+    ],
+    "tether": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a rope, chain, or strap that limits an animal or object to a specific place",
+            "synonyms": [
+                "leash",
+                "chain",
+                "rope",
+                "restraining line"
+            ],
+            "examples": [
+                "The dog’s tether was tied to a post.",
+                "She used a short tether to keep the equipment steady."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to fasten something with a rope or chain so it cannot move freely",
+            "synonyms": [
+                "tie",
+                "bind",
+                "restrain",
+                "secure",
+                "attach"
+            ],
+            "examples": [
+                "Please tether the boat to the dock.",
+                "The tent was tethered with strong ropes."
+            ]
+        }
+    ],
+    "tmesis": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a grammar term for splitting a word by inserting another word inside it",
+            "synonyms": [
+                "word splitting",
+                "syntactic split"
+            ],
+            "examples": [
+                "Tmesis can be heard in some informal speech patterns.",
+                "The lesson included tmesis as an example of word splitting."
+            ]
+        }
+    ],
+    "truncate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to cut off the end of something so it becomes shorter",
+            "synonyms": [
+                "cut off",
+                "shorten",
+                "abridge",
+                "reduce",
+                "end"
+            ],
+            "examples": [
+                "The document was truncated to fit the page size.",
+                "Truncate the text if it exceeds the limit."
+            ]
+        }
+    ],
+    "turmoil": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a state of great confusion, disorder, or emotional stress",
+            "synonyms": [
+                "chaos",
+                "upheaval",
+                "conflict",
+                "disturbance",
+                "commotion"
+            ],
+            "examples": [
+                "The country faced political turmoil.",
+                "She was in turmoil after the unexpected news."
+            ]
+        }
+    ],
+    "tremor": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a shaking movement, often small and repeated",
+            "synonyms": [
+                "shake",
+                "shivering",
+                "vibration",
+                "quiver",
+                "twitch"
+            ],
+            "examples": [
+                "The tremor lasted only a few seconds.",
+                "Her voice had a tremor when she spoke."
+            ]
+        }
+    ],
+    "twitch": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a sudden small movement in a muscle",
+            "synonyms": [
+                "jerk",
+                "spasm",
+                "tremor",
+                "spasm"
+            ],
+            "examples": [
+                "She had a twitch in her eye.",
+                "The video showed a twitch in the hand."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a sudden small movement, often in a muscle",
+            "synonyms": [
+                "jerk",
+                "spasm",
+                "tremble",
+                "flutter",
+                "twitch"
+            ],
+            "examples": [
+                "His shoulder twitched when he heard the noise.",
+                "The cat twitched its tail."
+            ]
+        }
+    ],
+    "tender": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "showing care and kindness; also soft and easy to chew or hurt",
+            "synonyms": [
+                "gentle",
+                "kind",
+                "soft",
+                "sensitive",
+                "compassionate"
+            ],
+            "examples": [
+                "He was tender with his little sister.",
+                "The meat was tender after slow cooking."
+            ]
+        }
+    ],
+    "tranquil": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "calm and peaceful; not disturbed",
+            "synonyms": [
+                "peaceful",
+                "calm",
+                "serene",
+                "quiet",
+                "untroubled"
+            ],
+            "examples": [
+                "The lake is tranquil at sunrise.",
+                "We spent a tranquil evening at home."
+            ]
+        }
+    ],
+    "taciturn": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "tending to speak very little; quiet",
+            "synonyms": [
+                "quiet",
+                "reserved",
+                "silent",
+                "uncommunicative",
+                "close-mouthed"
+            ],
+            "examples": [
+                "He is taciturn in meetings.",
+                "The taciturn man nodded without speaking."
+            ]
+        }
+    ],
+    "torpid": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "slow, inactive, and lacking energy",
+            "synonyms": [
+                "sluggish",
+                "inactive",
+                "dull",
+                "lethargic",
+                "listless"
+            ],
+            "examples": [
+                "After lunch, I felt torpid and sleepy.",
+                "The torpid pace made the meeting drag on."
+            ]
+        }
+    ],
+    "thrifty": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "careful about spending money; good at saving",
+            "synonyms": [
+                "frugal",
+                "economical",
+                "budget-minded",
+                "saving",
+                "careful with money"
+            ],
+            "examples": [
+                "She is thrifty and shops for discounts.",
+                "He made a thrifty choice by buying in bulk."
+            ]
+        }
+    ],
+    "thicken": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to become thicker or denser",
+            "synonyms": [
+                "thicken",
+                "make thicker",
+                "condense",
+                "increase",
+                "gel"
+            ],
+            "examples": [
+                "Stir the soup until it thickens.",
+                "The cream will thicken in a few minutes."
+            ]
+        }
+    ],
+    "telescope": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an instrument used to look at distant objects, especially in space",
+            "synonyms": [
+                "scope",
+                "astronomical telescope",
+                "optical telescope"
+            ],
+            "examples": [
+                "We saw Jupiter through the telescope.",
+                "The telescope helped scientists study distant stars."
+            ]
+        }
+    ],
+    "testify": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to give evidence or speak under oath in court",
+            "synonyms": [
+                "give evidence",
+                "witness",
+                "declare",
+                "testify",
+                "attest"
+            ],
+            "examples": [
+                "She agreed to testify in court.",
+                "He testified that he saw the accident."
+            ]
+        }
+    ],
+    "tempered": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "not too extreme; controlled or steady.",
+            "synonyms": [
+                "controlled",
+                "balanced",
+                "restrained",
+                "mellow",
+                "measured"
+            ],
+            "examples": [
+                "He became more tempered after hearing both sides.",
+                "Her tempered response helped calm the room."
+            ]
+        }
+    ],
+    "temperament": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person’s natural style of behavior, especially how they react to situations.",
+            "synonyms": [
+                "disposition",
+                "personality",
+                "character",
+                "temper",
+                "nature"
+            ],
+            "examples": [
+                "Her temperament makes her calm in emergencies.",
+                "He has a stubborn temperament."
+            ]
+        }
+    ],
+    "trocar": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a surgical instrument used to create an entry passage into the body for a procedure.",
+            "synonyms": [
+                "surgical port",
+                "entry instrument",
+                "trocar cannula"
+            ],
+            "examples": [
+                "The trocar was inserted carefully during the operation.",
+                "The surgeon checked the position of the trocar."
+            ]
+        }
+    ],
+    "torque": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a twisting force that makes something rotate.",
+            "synonyms": [
+                "twist",
+                "turning force",
+                "moment",
+                "rotational force",
+                "turning effect"
+            ],
+            "examples": [
+                "The wrench applied enough torque to loosen the bolt.",
+                "Too much torque can damage the motor."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to apply a twisting force to an object.",
+            "synonyms": [
+                "twist",
+                "rotate",
+                "turn",
+                "apply a twist",
+                "tighten"
+            ],
+            "examples": [
+                "Use the tool to torque the bolts evenly.",
+                "The technician torqued the head bolts to the correct setting."
+            ]
+        }
+    ],
+    "torqued": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "tightened or adjusted using a specified twisting force.",
+            "synonyms": [
+                "tightened",
+                "secured",
+                "set",
+                "adjusted",
+                "torque-adjusted"
+            ],
+            "examples": [
+                "The wheels are torqued to the recommended level.",
+                "The bolt was torqued properly."
+            ]
+        }
+    ],
+    "torquing": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the process of tightening with a twisting force measured to a specific value.",
+            "synonyms": [
+                "tightening",
+                "torque adjustment",
+                "tightening process"
+            ],
+            "examples": [
+                "Torquing the bolts evenly prevents vibration.",
+                "Proper torquing is required for safety."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to tighten using a measured twisting force.",
+            "synonyms": [
+                "tighten",
+                "torque",
+                "adjust",
+                "secure"
+            ],
+            "examples": [
+                "They are torquing the bolts now.",
+                "The mechanic finished torquing the wheel."
+            ]
+        }
+    ],
+    "torqueing": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a nonstandard spelling of torqueing.",
+            "synonyms": [
+                "torquing"
+            ],
+            "examples": [
+                "The manual used torqueing instead of torquing."
+            ]
+        }
+    ],
+    "tergiversate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to change your position or avoid commitment by giving unclear or shifting reasons.",
+            "synonyms": [
+                "waver",
+                "evade",
+                "prevaricate",
+                "backpedal",
+                "dodge"
+            ],
+            "examples": [
+                "He kept tergiversating instead of answering directly.",
+                "They accused him of tergiversating during the negotiation."
+            ]
+        }
+    ],
+    "trespass": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an act of entering or using land or property without permission.",
+            "synonyms": [
+                "encroachment",
+                "violation",
+                "invasion",
+                "illegal entry",
+                "intrusion"
+            ],
+            "examples": [
+                "They were charged with trespass.",
+                "The sign warned about trespass on the property."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to enter or use someone’s property without permission.",
+            "synonyms": [
+                "intrude",
+                "encroach",
+                "invade",
+                "enter illegally",
+                "break in"
+            ],
+            "examples": [
+                "He trespassed on private land.",
+                "The hikers accidentally trespassed into the protected area."
+            ]
+        }
+    ],
+    "tarry": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to stay longer than necessary; to delay leaving or acting.",
+            "synonyms": [
+                "delay",
+                "linger",
+                "stay",
+                "hold back",
+                "postpone"
+            ],
+            "examples": [
+                "Don’t tarry; we need to leave now.",
+                "She tarried at the door before entering."
+            ]
+        }
+    ],
+    "tenure": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the period of time someone holds a job or position.",
+            "synonyms": [
+                "term",
+                "period",
+                "duration",
+                "employment period",
+                "holding"
+            ],
+            "examples": [
+                "His tenure as director lasted five years.",
+                "They discussed tenure rules at the university."
+            ]
+        }
+    ],
+    "term": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a set period of time, especially in education or employment.",
+            "synonyms": [
+                "period",
+                "duration",
+                "length",
+                "session",
+                "term length"
+            ],
+            "examples": [
+                "Her term at the company ends in June.",
+                "The course runs for one term."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a word or expression used with a specific meaning in a field.",
+            "synonyms": [
+                "word",
+                "phrase",
+                "expression",
+                "concept",
+                "label"
+            ],
+            "examples": [
+                "The term biodiversity is widely used in science.",
+                "He learned new terms for the exam."
+            ]
+        }
+    ],
+    "throb": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to beat with a strong, regular feeling of pain or pressure.",
+            "synonyms": [
+                "pulse",
+                "beat",
+                "pound",
+                "thump",
+                "jar"
+            ],
+            "examples": [
+                "My head throbbed after the long day.",
+                "The wound throbbed all night."
+            ]
+        }
+    ],
+    "tartarean": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "relating to tartarus, or used to describe an infernal or hell-like place in literature.",
+            "synonyms": [
+                "infernal",
+                "hellish",
+                "underworld-related",
+                "fiendish"
+            ],
+            "examples": [
+                "The tartarean setting matched the dark story.",
+                "The artwork had tartarean imagery."
+            ]
+        }
+    ],
+    "tersely": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "in a short, direct way with few words.",
+            "synonyms": [
+                "briefly",
+                "concisely",
+                "shortly",
+                "sharply",
+                "to the point"
+            ],
+            "examples": [
+                "She answered tersely and moved on.",
+                "He spoke tersely about the problem."
+            ]
+        }
+    ],
+    "tetrarchy": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a form of rule where a region is governed by four rulers",
+            "synonyms": [
+                "fourfold rule",
+                "four-ruler government",
+                "quaternion rule"
+            ],
+            "examples": [
+                "The historian explained how a tetrarchy worked in ancient times.",
+                "In the lesson, students compared a kingdom with a tetrarchy."
+            ]
+        }
+    ],
+    "trudge": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to walk slowly with difficulty, often because of heavy, tiring effort",
+            "synonyms": [
+                "plod",
+                "march",
+                "stomp",
+                "struggle",
+                "go on"
+            ],
+            "examples": [
+                "They trudge home after work when it is already dark.",
+                "He trudged up the hill, tired but determined."
+            ]
+        }
+    ],
+    "tread": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the part of a staircase that you step on",
+            "synonyms": [
+                "step",
+                "stair",
+                "tread step"
+            ],
+            "examples": [
+                "The wooden tread felt solid under my shoe.",
+                "Be careful on the second tread near the bottom."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to walk or step on something, usually carefully",
+            "synonyms": [
+                "step",
+                "walk",
+                "press",
+                "place a foot",
+                "venture"
+            ],
+            "examples": [
+                "Don’t tread on the wet paint.",
+                "She slowly treads along the path."
+            ]
+        }
+    ],
+    "topple": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to fall down or collapse, especially from standing upright",
+            "synonyms": [
+                "fall",
+                "collapse",
+                "overturn",
+                "bring down",
+                "tip over"
+            ],
+            "examples": [
+                "The strong wind toppled the tree.",
+                "He bumped the table and it started to topple."
+            ]
+        }
+    ],
+    "tiff": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a short argument or disagreement, especially between people who know each other",
+            "synonyms": [
+                "dispute",
+                "argument",
+                "quarrel",
+                "tussle",
+                "minor fight"
+            ],
+            "examples": [
+                "They had a quick tiff and then made up.",
+                "There was a tiff over the bill, but it was resolved fast."
             ]
         }
     ]

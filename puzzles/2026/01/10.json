@@ -1,0 +1,53 @@
+{
+    "date": "2026-01-10",
+    "groups": [
+        {
+            "id": "easy",
+            "type": "physical_trait",
+            "difficulty": "easy",
+            "title": "ways to describe height and thickness",
+            "words": [
+                "stature",
+                "brawn",
+                "bulk",
+                "girder"
+            ]
+        },
+        {
+            "id": "medium",
+            "type": "sound_association",
+            "difficulty": "medium",
+            "title": "auditory",
+            "words": [
+                "whisper",
+                "murmur",
+                "hush",
+                "sonorous"
+            ]
+        },
+        {
+            "id": "hard",
+            "type": "literary_register",
+            "difficulty": "hard",
+            "title": "courtroom language",
+            "words": [
+                "counsel",
+                "barrister",
+                "testimony",
+                "affidavit"
+            ]
+        },
+        {
+            "id": "very_hard",
+            "type": "sound_association",
+            "difficulty": "very_hard",
+            "title": "technical or archaic specters",
+            "words": [
+                "sinecure",
+                "inure",
+                "acuity",
+                "invariable"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "date": "2026-01-30",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "easy",
+            "difficulty": "easy",
+            "title": "meander",
+            "words": [
+                "stroll",
+                "wander",
+                "ramble",
+                "roam"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "medium",
+            "difficulty": "medium",
+            "title": "waste time",
+            "words": [
+                "dawdle",
+                "linger",
+                "loiter",
+                "stall"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "hard",
+            "difficulty": "hard",
+            "title": "thoughtful mood",
+            "words": [
+                "pensive",
+                "brooding",
+                "somnolent",
+                "gazing"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "very_hard",
+            "difficulty": "very_hard",
+            "title": "movement mechanics",
+            "words": [
+                "trudge",
+                "tread",
+                "stride",
+                "topple"
+            ]
+        }
+    ]
+}

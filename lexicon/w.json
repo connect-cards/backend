@@ -151,7 +151,7 @@
     "wry": [
         {
             "part_of_speech": "adjective",
-            "definition": "Containing or showing a dry, especially mocking, humor.",
+            "definition": "containing or showing a dry, especially mocking, humor.",
             "synonyms": [
                 "dry",
                 "ironic",
@@ -166,7 +166,7 @@
     "weird": [
         {
             "part_of_speech": "adjective",
-            "definition": "Very strange or unusual; unsettling.",
+            "definition": "very strange or unusual; unsettling.",
             "synonyms": [
                 "strange",
                 "odd",
@@ -346,7 +346,7 @@
     "wrath": [
         {
             "part_of_speech": "noun",
-            "definition": "Strong anger, especially when it lasts for a long time",
+            "definition": "strong anger, especially when it lasts for a long time",
             "synonyms": [
                 "anger",
                 "rage",
@@ -363,7 +363,7 @@
     "waver": [
         {
             "part_of_speech": "verb",
-            "definition": "To change your mind or become less certain; to hesitate",
+            "definition": "to change your mind or become less certain; to hesitate",
             "synonyms": [
                 "hesitate",
                 "vacillate",
@@ -380,7 +380,7 @@
     "wayfarer": [
         {
             "part_of_speech": "noun",
-            "definition": "A person traveling on foot, especially for a long distance",
+            "definition": "a person traveling on foot, especially for a long distance",
             "synonyms": [
                 "traveler",
                 "walker",
@@ -397,7 +397,7 @@
     "whisper": [
         {
             "part_of_speech": "verb",
-            "definition": "To speak very quietly, usually so that only a person nearby can hear",
+            "definition": "to speak very quietly, usually so that only a person nearby can hear",
             "synonyms": [
                 "speak softly",
                 "murmur",
@@ -412,7 +412,7 @@
         },
         {
             "part_of_speech": "noun",
-            "definition": "Soft speech or a quiet sound made by speaking quietly",
+            "definition": "soft speech or a quiet sound made by speaking quietly",
             "synonyms": [
                 "hush",
                 "murmur",
@@ -429,7 +429,7 @@
     "warp": [
         {
             "part_of_speech": "verb",
-            "definition": "To twist or change shape out of normal form, often slowly or due to heat or pressure",
+            "definition": "to twist or change shape out of normal form, often slowly or due to heat or pressure",
             "synonyms": [
                 "bend",
                 "twist",
@@ -444,7 +444,7 @@
         },
         {
             "part_of_speech": "noun",
-            "definition": "A distortion or change in shape, especially caused by heat or pressure",
+            "definition": "a distortion or change in shape, especially caused by heat or pressure",
             "synonyms": [
                 "distortion",
                 "twist",
@@ -461,7 +461,7 @@
     "wane": [
         {
             "part_of_speech": "verb",
-            "definition": "To gradually become less strong or less common",
+            "definition": "to gradually become less strong or less common",
             "synonyms": [
                 "diminish",
                 "decline",
@@ -478,7 +478,7 @@
     "wretched": [
         {
             "part_of_speech": "adjective",
-            "definition": "Very unhappy, uncomfortable, or of poor quality",
+            "definition": "very unhappy, uncomfortable, or of poor quality",
             "synonyms": [
                 "miserable",
                 "terrible",
@@ -495,7 +495,7 @@
     "whence": [
         {
             "part_of_speech": "adverb",
-            "definition": "From what place or origin",
+            "definition": "from what place or origin",
             "synonyms": [
                 "from where",
                 "from which place",
@@ -511,7 +511,7 @@
     "whereby": [
         {
             "part_of_speech": "adverb",
-            "definition": "By means of which; in the way that leads to a result",
+            "definition": "by means of which; in the way that leads to a result",
             "synonyms": [
                 "thereby",
                 "by which",
@@ -528,7 +528,7 @@
     "whilst": [
         {
             "part_of_speech": "adverb",
-            "definition": "During the time that; at the same time as",
+            "definition": "during the time that; at the same time as",
             "synonyms": [
                 "while",
                 "as",
@@ -543,7 +543,7 @@
     "worsen": [
         {
             "part_of_speech": "verb",
-            "definition": "To become worse",
+            "definition": "to become worse",
             "synonyms": [
                 "deteriorate",
                 "decline",
@@ -560,7 +560,7 @@
     "withhold": [
         {
             "part_of_speech": "verb",
-            "definition": "To keep something back or not give it to someone",
+            "definition": "to keep something back or not give it to someone",
             "synonyms": [
                 "hold back",
                 "refuse",
@@ -577,7 +577,7 @@
     "withstand": [
         {
             "part_of_speech": "verb",
-            "definition": "To resist something and not be harmed or affected by it",
+            "definition": "to resist something and not be harmed or affected by it",
             "synonyms": [
                 "resist",
                 "endure",
@@ -594,7 +594,7 @@
     "wherein": [
         {
             "part_of_speech": "adverb",
-            "definition": "In which; in the place, part, or condition mentioned",
+            "definition": "in which; in the place, part, or condition mentioned",
             "synonyms": [
                 "in which",
                 "in the part that",
@@ -608,7 +608,7 @@
     "whereas": [
         {
             "part_of_speech": "adverb",
-            "definition": "Used to introduce a contrast or explanation, especially in legal or formal writing",
+            "definition": "used to introduce a contrast or explanation, especially in legal or formal writing",
             "synonyms": [
                 "while (formal contrast)",
                 "although (context)",
@@ -624,7 +624,7 @@
     "watchful": [
         {
             "part_of_speech": "adjective",
-            "definition": "Carefully observing to notice possible danger or problems",
+            "definition": "carefully observing to notice possible danger or problems",
             "synonyms": [
                 "alert",
                 "careful",
@@ -641,7 +641,7 @@
     "wroughtiron": [
         {
             "part_of_speech": "noun",
-            "definition": "Iron that has been worked and shaped, often used for fences or decorative structures",
+            "definition": "iron that has been worked and shaped, often used for fences or decorative structures",
             "synonyms": [
                 "wrought iron",
                 "metal (iron)"
@@ -838,7 +838,7 @@
     "withdrawal": [
         {
             "part_of_speech": "noun",
-            "definition": "The act of taking money from an account or getting it back",
+            "definition": "the act of taking money from an account or getting it back",
             "synonyms": [
                 "cash withdrawal",
                 "payout",
@@ -851,7 +851,7 @@
         },
         {
             "part_of_speech": "noun",
-            "definition": "A move away from a place or from an activity",
+            "definition": "a move away from a place or from an activity",
             "synonyms": [
                 "retreat",
                 "pullback",
@@ -865,7 +865,7 @@
         },
         {
             "part_of_speech": "noun",
-            "definition": "Health or mental symptoms that can happen when someone stops using a drug or alcohol",
+            "definition": "health or mental symptoms that can happen when someone stops using a drug or alcohol",
             "synonyms": [
                 "detox",
                 "withdrawal symptoms",
@@ -1030,6 +1030,153 @@
             "examples": [
                 "She is the guardian of the ward.",
                 "The ward needs constant supervision."
+            ]
+        }
+    ],
+    "warped": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "twisted or bent out of shape, often by heat or force",
+            "synonyms": [
+                "bent",
+                "twisted",
+                "distorted",
+                "deformed",
+                "misshapen"
+            ],
+            "examples": [
+                "The plastic board became warped in the sun.",
+                "His idea was warped by anger."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to bend or change the shape of something so it no longer stays normal",
+            "synonyms": [
+                "twist",
+                "warp",
+                "deform",
+                "bend",
+                "distort"
+            ],
+            "examples": [
+                "Cold weather can warp wood.",
+                "The metal was warped by the pressure."
+            ]
+        }
+    ],
+    "wrinkled": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "covered with wrinkles or small folds in the skin or material",
+            "synonyms": [
+                "creased",
+                "crumpled",
+                "ridged",
+                "folded",
+                "textured"
+            ],
+            "examples": [
+                "The wrinkled paper would not lie flat.",
+                "His forehead became wrinkled with worry."
+            ]
+        }
+    ],
+    "wheedle": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to persuade someone gradually using gentle promises or repeated requests.",
+            "synonyms": [
+                "twist",
+                "coax",
+                "soften",
+                "pressure",
+                "nag"
+            ],
+            "examples": [
+                "She tried to wheedle an extra hour off the schedule.",
+                "He wheedled his way into the meeting."
+            ]
+        }
+    ],
+    "whetstone": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a stone used to sharpen a knife or blade.",
+            "synonyms": [
+                "sharpening stone",
+                "hone",
+                "stone for sharpening"
+            ],
+            "examples": [
+                "He used a whetstone to sharpen the blade.",
+                "The whetstone was kept in the workshop."
+            ]
+        }
+    ],
+    "wail": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to cry loudly, showing sadness or pain.",
+            "synonyms": [
+                "cry",
+                "weep",
+                "howl",
+                "wail",
+                "lament"
+            ],
+            "examples": [
+                "She wailed after hearing the news.",
+                "The wind wails through the trees."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a loud cry of sadness or pain.",
+            "synonyms": [
+                "cry",
+                "scream",
+                "lament",
+                "howl",
+                "whimper"
+            ],
+            "examples": [
+                "The wail of the siren was heard for miles.",
+                "There was a wail from the crowd."
+            ]
+        }
+    ],
+    "withered": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "shriveled and dry because of lack of water or health.",
+            "synonyms": [
+                "shriveled",
+                "dried",
+                "worn",
+                "blighted",
+                "seared"
+            ],
+            "examples": [
+                "The withered leaves fell from the tree.",
+                "After the heatwave, the flowers looked withered."
+            ]
+        }
+    ],
+    "wince": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a small movement of the face when you feel pain or unpleasant surprise.",
+            "synonyms": [
+                "flinch",
+                "start",
+                "shudder",
+                "grimace",
+                "cower"
+            ],
+            "examples": [
+                "He winced when the doctor touched the wound.",
+                "She winced at the loud sound."
             ]
         }
     ]

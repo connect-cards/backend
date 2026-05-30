@@ -223,7 +223,7 @@
     "erudite": [
         {
             "part_of_speech": "adjective",
-            "definition": "Having or showing extensive knowledge gained from studying.",
+            "definition": "having or showing extensive knowledge gained from studying.",
             "synonyms": [
                 "learned",
                 "scholarly",
@@ -238,7 +238,7 @@
     "eldritch": [
         {
             "part_of_speech": "adjective",
-            "definition": "Strange or uncanny in a spooky way.",
+            "definition": "strange or uncanny in a spooky way.",
             "synonyms": [
                 "eerie",
                 "uncanny",
@@ -252,7 +252,7 @@
     "emerald": [
         {
             "part_of_speech": "adjective",
-            "definition": "Green in color, like the gemstone emerald.",
+            "definition": "green in color, like the gemstone emerald.",
             "synonyms": [
                 "green",
                 "verdant",
@@ -266,7 +266,7 @@
     "engineering": [
         {
             "part_of_speech": "noun",
-            "definition": "The branch of science and technology concerned with designing, building, and using engines, machines, and structures.",
+            "definition": "the branch of science and technology concerned with designing, building, and using engines, machines, and structures.",
             "synonyms": [
                 "tech",
                 "construction",
@@ -280,7 +280,7 @@
     "epistolary": [
         {
             "part_of_speech": "adjective",
-            "definition": "Relating to or consisting of letters; written as letters.",
+            "definition": "relating to or consisting of letters; written as letters.",
             "synonyms": [
                 "letter",
                 "correspondence",
@@ -294,7 +294,7 @@
     "elegiac": [
         {
             "part_of_speech": "adjective",
-            "definition": "In the style of an elegy; mournful or reflective in tone.",
+            "definition": "in the style of an elegy; mournful or reflective in tone.",
             "synonyms": [
                 "melancholic",
                 "lamenting",
@@ -573,7 +573,7 @@
     "evade": [
         {
             "part_of_speech": "verb",
-            "definition": "To avoid something, especially responsibility or an answer",
+            "definition": "to avoid something, especially responsibility or an answer",
             "synonyms": [
                 "avoid",
                 "dodge",
@@ -590,7 +590,7 @@
     "exasperated": [
         {
             "part_of_speech": "adjective",
-            "definition": "Very annoyed, often because something has happened repeatedly or is difficult to solve",
+            "definition": "very annoyed, often because something has happened repeatedly or is difficult to solve",
             "synonyms": [
                 "frustrated",
                 "angry",
@@ -607,7 +607,7 @@
     "entangle": [
         {
             "part_of_speech": "verb",
-            "definition": "To trap or catch something so that it becomes difficult to separate or escape",
+            "definition": "to trap or catch something so that it becomes difficult to separate or escape",
             "synonyms": [
                 "trap",
                 "snare",
@@ -624,7 +624,7 @@
     "ear": [
         {
             "part_of_speech": "noun",
-            "definition": "The body part used for hearing",
+            "definition": "the body part used for hearing",
             "synonyms": [
                 "auditory organ",
                 "hearing organ"
@@ -636,7 +636,7 @@
         },
         {
             "part_of_speech": "noun",
-            "definition": "A hanging part of grain, such as corn or wheat",
+            "definition": "a hanging part of grain, such as corn or wheat",
             "synonyms": [
                 "grain head",
                 "kernel (related)",
@@ -651,7 +651,7 @@
     "examine": [
         {
             "part_of_speech": "verb",
-            "definition": "To look at something carefully or test it to find out more",
+            "definition": "to look at something carefully or test it to find out more",
             "synonyms": [
                 "inspect",
                 "check",
@@ -668,7 +668,7 @@
     "equivocal": [
         {
             "part_of_speech": "adjective",
-            "definition": "Unclear and open to different interpretations, sometimes to avoid being honest",
+            "definition": "unclear and open to different interpretations, sometimes to avoid being honest",
             "synonyms": [
                 "unclear",
                 "ambiguous",
@@ -685,7 +685,7 @@
     "erosion": [
         {
             "part_of_speech": "noun",
-            "definition": "The gradual destruction of soil, rock, or land by wind or water",
+            "definition": "the gradual destruction of soil, rock, or land by wind or water",
             "synonyms": [
                 "wearing away",
                 "degradation",
@@ -702,7 +702,7 @@
     "emphatic": [
         {
             "part_of_speech": "adjective",
-            "definition": "Strongly expressed, clear, and focused",
+            "definition": "strongly expressed, clear, and focused",
             "synonyms": [
                 "strong",
                 "certain",
@@ -719,7 +719,7 @@
     "evidence": [
         {
             "part_of_speech": "noun",
-            "definition": "Information or facts that support a belief or show whether something is true",
+            "definition": "information or facts that support a belief or show whether something is true",
             "synonyms": [
                 "proof",
                 "data",
@@ -736,7 +736,7 @@
     "evasive": [
         {
             "part_of_speech": "adjective",
-            "definition": "Avoiding direct answers or details, often to hide the truth",
+            "definition": "avoiding direct answers or details, often to hide the truth",
             "synonyms": [
                 "unclear",
                 "dodging",
@@ -969,7 +969,7 @@
     "enunciate": [
         {
             "part_of_speech": "verb",
-            "definition": "To say something clearly and distinctly",
+            "definition": "to say something clearly and distinctly",
             "synonyms": [
                 "pronounce",
                 "articulate",
@@ -1195,6 +1195,142 @@
             "examples": [
                 "It was expedient to postpone the meeting.",
                 "They chose an expedient solution."
+            ]
+        }
+    ],
+    "envision": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to imagine or picture something as a possible future or goal",
+            "synonyms": [
+                "imagine",
+                "visualize",
+                "picture",
+                "anticipate",
+                "conceive"
+            ],
+            "examples": [
+                "I envision a world where everyone has clean water.",
+                "Can you envision how the project will look when finished?"
+            ]
+        }
+    ],
+    "equable": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "calm and steady in behavior or feelings; not easily upset",
+            "synonyms": [
+                "steady",
+                "calm",
+                "even-tempered",
+                "unflustered",
+                "balanced"
+            ],
+            "examples": [
+                "She remained equable during the delays.",
+                "His equable mood helped the group stay focused."
+            ]
+        }
+    ],
+    "extol": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to praise something highly",
+            "synonyms": [
+                "praise",
+                "commend",
+                "laud",
+                "celebrate",
+                "glorify"
+            ],
+            "examples": [
+                "They extolled her work in their speech.",
+                "He extolled the benefits of regular exercise."
+            ]
+        }
+    ],
+    "economical": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "costing less or using fewer resources; avoiding waste",
+            "synonyms": [
+                "efficient",
+                "frugal",
+                "cost-saving",
+                "thrifty",
+                "budget-friendly"
+            ],
+            "examples": [
+                "This model is economical on electricity.",
+                "We chose an economical route."
+            ]
+        }
+    ],
+    "effort": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the work or energy you put into achieving something",
+            "synonyms": [
+                "attempt",
+                "work",
+                "exertion",
+                "endeavor",
+                "try"
+            ],
+            "examples": [
+                "It took a lot of effort to finish on time.",
+                "Her effort improved the results."
+            ]
+        }
+    ],
+    "equanimity": [
+        {
+            "part_of_speech": "noun",
+            "definition": "calmness and steadiness of mind, especially when things are difficult.",
+            "synonyms": [
+                "calm",
+                "composure",
+                "self-control",
+                "serenity",
+                "balance"
+            ],
+            "examples": [
+                "She handled the crisis with equanimity.",
+                "His equanimity helped the team stay focused."
+            ]
+        }
+    ],
+    "exculpate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to prove that someone is not responsible for a wrongdoing.",
+            "synonyms": [
+                "clear",
+                "vindicate",
+                "absolve",
+                "prove innocent",
+                "release from blame"
+            ],
+            "examples": [
+                "The new evidence exculpated the defendant.",
+                "The witness statement may exculpate him."
+            ]
+        }
+    ],
+    "elate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make someone very happy and excited.",
+            "synonyms": [
+                "cheer",
+                "rejoice",
+                "uplift",
+                "excite",
+                "thrill"
+            ],
+            "examples": [
+                "The news elated her.",
+                "He was elated by the promotion."
             ]
         }
     ]

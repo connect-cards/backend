@@ -2,7 +2,7 @@
     "ocean": [
         {
             "part_of_speech": "noun",
-            "definition": "A large body of salt water that covers most of the Earth's surface.",
+            "definition": "a large body of salt water that covers most of the Earth's surface.",
             "synonyms": [
                 "sea",
                 "main"
@@ -126,7 +126,7 @@
     "orate": [
         {
             "part_of_speech": "verb",
-            "definition": "To speak formally or at length, especially in public",
+            "definition": "to speak formally or at length, especially in public",
             "synonyms": [
                 "speak",
                 "deliver",
@@ -143,7 +143,7 @@
     "oration": [
         {
             "part_of_speech": "noun",
-            "definition": "A formal speech, often given for a special occasion",
+            "definition": "a formal speech, often given for a special occasion",
             "synonyms": [
                 "speech",
                 "address",
@@ -160,7 +160,7 @@
     "oratory": [
         {
             "part_of_speech": "noun",
-            "definition": "The skill or art of public speaking",
+            "definition": "the skill or art of public speaking",
             "synonyms": [
                 "eloquence",
                 "public speaking",
@@ -177,7 +177,7 @@
     "orator": [
         {
             "part_of_speech": "noun",
-            "definition": "A person who speaks in public in an effective or persuasive way",
+            "definition": "a person who speaks in public in an effective or persuasive way",
             "synonyms": [
                 "speaker",
                 "eloquent speaker",
@@ -194,7 +194,7 @@
     "obviate": [
         {
             "part_of_speech": "verb",
-            "definition": "To remove the need for something or prevent a problem from happening",
+            "definition": "to remove the need for something or prevent a problem from happening",
             "synonyms": [
                 "prevent",
                 "eliminate",
@@ -211,7 +211,7 @@
     "oops": [
         {
             "part_of_speech": "noun",
-            "definition": "A short word used to show surprise or admitting a mistake",
+            "definition": "a short word used to show surprise or admitting a mistake",
             "synonyms": [
                 "whoops",
                 "oops",
@@ -225,7 +225,7 @@
         },
         {
             "part_of_speech": "adverb",
-            "definition": "Used to show a small mistake or accidental action",
+            "definition": "used to show a small mistake or accidental action",
             "synonyms": [
                 "whoops",
                 "oops",
@@ -240,7 +240,7 @@
     "observe": [
         {
             "part_of_speech": "verb",
-            "definition": "To watch something carefully",
+            "definition": "to watch something carefully",
             "synonyms": [
                 "watch",
                 "see",
@@ -257,7 +257,7 @@
     "obscure": [
         {
             "part_of_speech": "adjective",
-            "definition": "Not well known or hard to understand",
+            "definition": "not well known or hard to understand",
             "synonyms": [
                 "unclear",
                 "vague",
@@ -272,7 +272,7 @@
         },
         {
             "part_of_speech": "verb",
-            "definition": "To make something unclear or less visible",
+            "definition": "to make something unclear or less visible",
             "synonyms": [
                 "cloud",
                 "hide",
@@ -289,7 +289,7 @@
     "olfactory": [
         {
             "part_of_speech": "adjective",
-            "definition": "Related to smell and the sense of smell",
+            "definition": "related to smell and the sense of smell",
             "synonyms": [
                 "smell-related",
                 "scent-related",
@@ -305,7 +305,7 @@
     "ominous": [
         {
             "part_of_speech": "adjective",
-            "definition": "Giving the feeling that something bad might happen",
+            "definition": "giving the feeling that something bad might happen",
             "synonyms": [
                 "threatening",
                 "foreboding",
@@ -477,6 +477,232 @@
             "examples": [
                 "The oppressive regime restricted basic rights.",
                 "Her boss has an oppressive management style."
+            ]
+        }
+    ],
+    "object": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a thing that can be seen or touched",
+            "synonyms": [
+                "thing",
+                "item",
+                "article",
+                "subject"
+            ],
+            "examples": [
+                "Place the object on the table.",
+                "This object is important for the experiment."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to say that you disagree with something or think it should not happen",
+            "synonyms": [
+                "oppose",
+                "protest",
+                "disagree",
+                "object",
+                "withhold approval"
+            ],
+            "examples": [
+                "I object to the plan as it is.",
+                "She objected when they changed the schedule."
+            ]
+        }
+    ],
+    "orchestrate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to plan and organize something in detail; also to arrange music for instruments",
+            "synonyms": [
+                "organize",
+                "plan",
+                "coordinate",
+                "arrange",
+                "execute"
+            ],
+            "examples": [
+                "They orchestrated the event from start to finish.",
+                "The composer orchestrated the piece for the orchestra."
+            ]
+        }
+    ],
+    "orchestrator": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who plans and coordinates something, or arranges music for an orchestra",
+            "synonyms": [
+                "planner",
+                "arranger",
+                "coordinator",
+                "composer of arrangements"
+            ],
+            "examples": [
+                "The orchestrator of the project handled every deadline.",
+                "In music, the orchestrator prepares the parts for instruments."
+            ]
+        }
+    ],
+    "obdurate": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "stubbornly refusing to change one’s opinion or behavior",
+            "synonyms": [
+                "stubborn",
+                "inflexible",
+                "unyielding",
+                "hardheaded",
+                "resistant"
+            ],
+            "examples": [
+                "He was obdurate and would not accept the apology.",
+                "The committee remained obdurate despite the evidence."
+            ]
+        }
+    ],
+    "obduracy": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the quality of being stubborn and refusing to change",
+            "synonyms": [
+                "stubbornness",
+                "inflexibility",
+                "unyieldingness",
+                "resistance",
+                "hardness"
+            ],
+            "examples": [
+                "Her obduracy made negotiation difficult.",
+                "The leader’s obduracy prevented a compromise."
+            ]
+        }
+    ],
+    "oppress": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to keep someone under cruel or unfair control, often by using power",
+            "synonyms": [
+                "tyrannize",
+                "press",
+                "burden",
+                "exploit",
+                "harass"
+            ],
+            "examples": [
+                "The government oppressed people for years.",
+                "High costs can oppress small businesses."
+            ]
+        }
+    ],
+    "ornament": [
+        {
+            "part_of_speech": "noun",
+            "definition": "something added to make something more beautiful.",
+            "synonyms": [
+                "decoration",
+                "adornment",
+                "embellishment",
+                "ornamental piece",
+                "trimming"
+            ],
+            "examples": [
+                "The room had simple ornaments on the shelves.",
+                "She wore an ornament on her necklace."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to decorate something.",
+            "synonyms": [
+                "decorate",
+                "adorn",
+                "embellish",
+                "trim",
+                "adorn"
+            ],
+            "examples": [
+                "The hall was ornamented with lights.",
+                "They ornamented the cake with fruit."
+            ]
+        }
+    ],
+    "obfuscate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make something unclear or hard to understand on purpose or by mistake.",
+            "synonyms": [
+                "confuse",
+                "cloud",
+                "mask",
+                "conceal",
+                "complicate"
+            ],
+            "examples": [
+                "The report obfuscated the real costs.",
+                "He tried to obfuscate the details in his explanation."
+            ]
+        }
+    ],
+    "open": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "not closed; allowing access or passage.",
+            "synonyms": [
+                "accessible",
+                "unlocked",
+                "available",
+                "not shut",
+                "unblocked"
+            ],
+            "examples": [
+                "Keep the door open while we load the boxes.",
+                "The meeting is open to the public."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "not hidden; honest and ready to share information.",
+            "synonyms": [
+                "frank",
+                "honest",
+                "candid",
+                "transparent",
+                "sincere"
+            ],
+            "examples": [
+                "She was open about her mistakes.",
+                "He gave an open explanation."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make something not closed; to allow access.",
+            "synonyms": [
+                "unseal",
+                "unlock",
+                "unblock",
+                "uncover",
+                "start"
+            ],
+            "examples": [
+                "Please open the package carefully.",
+                "They opened the meeting with a short introduction."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to begin or start an event or business.",
+            "synonyms": [
+                "start",
+                "begin",
+                "launch",
+                "commence",
+                "kick off"
+            ],
+            "examples": [
+                "The store opens at 9 a.m.",
+                "They opened a new branch downtown."
             ]
         }
     ]

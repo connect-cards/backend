@@ -88,5 +88,56 @@
                 "Don’t trust that knave."
             ]
         }
+    ],
+    "knotted": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having a knot or knots; also tightly twisted or tangled",
+            "synonyms": [
+                "tied",
+                "wound",
+                "tangled",
+                "bound",
+                "knotty"
+            ],
+            "examples": [
+                "Her scarf was knotted at the end.",
+                "The rope was knotted and hard to pull."
+            ]
+        }
+    ],
+    "kindness": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the quality of being friendly, caring, and helpful toward others",
+            "synonyms": [
+                "benevolence",
+                "compassion",
+                "consideration",
+                "warmth",
+                "charity"
+            ],
+            "examples": [
+                "Her kindness made the students feel welcome.",
+                "He showed kindness by returning the lost wallet."
+            ]
+        }
+    ],
+    "knavish": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "behaving in a dishonest or tricking way",
+            "synonyms": [
+                "dishonest",
+                "shady",
+                "tricky",
+                "crooked",
+                "deceitful"
+            ],
+            "examples": [
+                "He made a knavish offer that sounded too good to be true.",
+                "The knavish salesman lied about the price."
+            ]
+        }
     ]
 }

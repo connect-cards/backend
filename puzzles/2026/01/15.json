@@ -1,0 +1,53 @@
+{
+    "date": "2026-01-15",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "easy",
+            "difficulty": "easy",
+            "title": "means of cutting and shaping",
+            "words": [
+                "shear",
+                "slice",
+                "chisel",
+                "carve"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "medium",
+            "difficulty": "medium",
+            "title": "talk that refuses to clarify",
+            "words": [
+                "equivocate",
+                "hedge",
+                "dodge",
+                "prevaricate"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "hard",
+            "difficulty": "hard",
+            "title": "frictionless persuasion vs. doubt",
+            "words": [
+                "ingenuous",
+                "candid",
+                "plausible",
+                "credible"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "very_hard",
+            "difficulty": "very_hard",
+            "title": "rarer tones of disorder",
+            "words": [
+                "haphazard",
+                "capricious",
+                "lawless",
+                "anarchic"
+            ]
+        }
+    ]
+}

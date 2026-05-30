@@ -1,0 +1,53 @@
+{
+    "date": "2026-01-19",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "easy",
+            "difficulty": "easy",
+            "title": "near-seeing",
+            "words": [
+                "candid",
+                "open",
+                "frank",
+                "plain"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "medium",
+            "difficulty": "medium",
+            "title": "emotional chill",
+            "words": [
+                "melancholy",
+                "sorrowful",
+                "wretched",
+                "forlorn"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "hard",
+            "difficulty": "hard",
+            "title": "speech",
+            "words": [
+                "locution",
+                "pronunciation",
+                "utterance",
+                "connotation"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "very_hard",
+            "difficulty": "very_hard",
+            "title": "courtly titles",
+            "words": [
+                "baron",
+                "viscount",
+                "marquis",
+                "duke"
+            ]
+        }
+    ]
+}
