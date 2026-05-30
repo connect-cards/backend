@@ -1,0 +1,53 @@
+{
+    "date": "2026-02-03",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "easy",
+            "difficulty": "easy",
+            "title": "measure and mark",
+            "words": [
+                "caliper",
+                "ruler",
+                "compass",
+                "gauge"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "medium",
+            "difficulty": "medium",
+            "title": "building the plot",
+            "words": [
+                "fable",
+                "allegory",
+                "parable",
+                "myth"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "hard",
+            "difficulty": "hard",
+            "title": "surgery of the Mind",
+            "words": [
+                "truncate",
+                "abridge",
+                "censure",
+                "condemn"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "very_hard",
+            "difficulty": "very_hard",
+            "title": "rare family resemblance",
+            "words": [
+                "luculent",
+                "illustrious",
+                "clarion",
+                "lucid"
+            ]
+        }
+    ]
+}

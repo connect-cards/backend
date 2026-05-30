@@ -1,0 +1,53 @@
+{
+    "date": "2026-02-07",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "thematic_association",
+            "difficulty": "easy",
+            "title": "to shine",
+            "words": [
+                "glow",
+                "radiance",
+                "gleam",
+                "luster"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "etymological_relation",
+            "difficulty": "medium",
+            "title": "near kin through latin endings",
+            "words": [
+                "delicate",
+                "frangible",
+                "fragile",
+                "tender"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "literary_register",
+            "difficulty": "hard",
+            "title": "motives dressed as scholarship",
+            "words": [
+                "ambition",
+                "aspiration",
+                "covetousness",
+                "avidity"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "synonym",
+            "difficulty": "very_hard",
+            "title": "unsettling, uncanny",
+            "words": [
+                "eldritch",
+                "unearthly",
+                "uncanny",
+                "inexplicable"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "date": "2026-02-13",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "semantic_field",
+            "difficulty": "easy",
+            "title": "blade and weapon materials",
+            "words": [
+                "sword",
+                "blade",
+                "steel",
+                "brand"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "synonym",
+            "difficulty": "medium",
+            "title": "murmur of concealment",
+            "words": [
+                "murmur",
+                "whisper",
+                "hush",
+                "rumor"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "sound_association",
+            "difficulty": "hard",
+            "title": "light that dazzles",
+            "words": [
+                "scintillate",
+                "glitter",
+                "spark",
+                "radiant"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "morphological_family",
+            "difficulty": "very_hard",
+            "title": "insistence and defiance",
+            "words": [
+                "obdurate",
+                "obduracy",
+                "indurate",
+                "induration"
+            ]
+        }
+    ]
+}

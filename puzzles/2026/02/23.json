@@ -1,0 +1,53 @@
+{
+    "date": "2026-02-23",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "thematic_association",
+            "difficulty": "easy",
+            "title": "the setting of a mystery walk",
+            "words": [
+                "alley",
+                "lantern",
+                "mosaic",
+                "footsteps"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "semantic_field",
+            "difficulty": "medium",
+            "title": "lacking brightness, but not always darkness",
+            "words": [
+                "dim",
+                "bleak",
+                "somber",
+                "dreary"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "informal_register",
+            "difficulty": "hard",
+            "title": "complaints you might mutter",
+            "words": [
+                "grumble",
+                "snarl",
+                "murmur",
+                "bicker"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "emotional_tone",
+            "difficulty": "very_hard",
+            "title": "a restrained dread, nearly archaic",
+            "words": [
+                "unquiet",
+                "eldritch",
+                "uncanny",
+                "foreboding"
+            ]
+        }
+    ]
+}

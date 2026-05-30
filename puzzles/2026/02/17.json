@@ -1,0 +1,53 @@
+{
+    "date": "2026-02-17",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "sound_association",
+            "difficulty": "easy",
+            "title": "metals and a blade-like artifact",
+            "words": [
+                "blade",
+                "brand",
+                "steel",
+                "sword"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "physical_trait",
+            "difficulty": "medium",
+            "title": "eyes that don't quite focus",
+            "words": [
+                "murky",
+                "dingy",
+                "somber",
+                "dreary"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "morphological_family",
+            "difficulty": "hard",
+            "title": "family of words built around a common root meaning 'shine'",
+            "words": [
+                "scintillating",
+                "luminous",
+                "glittering",
+                "radiant"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "etymological_relation",
+            "difficulty": "very_hard",
+            "title": "words tracing back to a root for 'three'",
+            "words": [
+                "ternion",
+                "trine",
+                "tercet",
+                "terzetto"
+            ]
+        }
+    ]
+}

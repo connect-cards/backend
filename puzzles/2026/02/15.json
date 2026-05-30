@@ -1,0 +1,53 @@
+{
+    "date": "2026-02-15",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "informal_register",
+            "difficulty": "easy",
+            "title": "people you might meet",
+            "words": [
+                "bloke",
+                "chap",
+                "lad",
+                "fella"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "synonym",
+            "difficulty": "medium",
+            "title": "dark and dreary atmosphere",
+            "words": [
+                "murky",
+                "dingy",
+                "somber",
+                "dreary"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "etymological_relation",
+            "difficulty": "hard",
+            "title": "judgment about reliability",
+            "words": [
+                "probity",
+                "credibility",
+                "veracity",
+                "authenticity"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "morphological_family",
+            "difficulty": "very_hard",
+            "title": "to persuade by argument",
+            "words": [
+                "rhetoric",
+                "rhetorical",
+                "persuade",
+                "persuasive"
+            ]
+        }
+    ]
+}

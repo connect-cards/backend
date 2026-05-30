@@ -1,0 +1,53 @@
+{
+    "date": "2026-02-11",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "synonym",
+            "difficulty": "easy",
+            "title": "small, precise disagreement",
+            "words": [
+                "quibble",
+                "object",
+                "cavil",
+                "censure"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "etymological_relation",
+            "difficulty": "medium",
+            "title": "words from the same root",
+            "words": [
+                "frugal",
+                "economical",
+                "thrifty",
+                "spare"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "morphological_family",
+            "difficulty": "hard",
+            "title": "artful, restrained speech",
+            "words": [
+                "laconic",
+                "terse",
+                "curt",
+                "brusque"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "literary_register",
+            "difficulty": "very_hard",
+            "title": "courtly bravery",
+            "words": [
+                "doughty",
+                "valiant",
+                "gallant",
+                "heroical"
+            ]
+        }
+    ]
+}

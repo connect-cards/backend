@@ -1,0 +1,53 @@
+{
+    "date": "2026-02-24",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "sound_association",
+            "difficulty": "easy",
+            "title": "metallic and torch-side",
+            "words": [
+                "copper",
+                "glisten",
+                "flame",
+                "ignite"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "morphological_family",
+            "difficulty": "medium",
+            "title": "the logic of 'scope'",
+            "words": [
+                "microscope",
+                "telescope",
+                "periscope",
+                "monoscope"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "profession_domain",
+            "difficulty": "hard",
+            "title": "courtroom roles, not exactly judges",
+            "words": [
+                "advocate",
+                "bailiff",
+                "plaintiff",
+                "testify"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "emotional_tone",
+            "difficulty": "very_hard",
+            "title": "archaic-sounding despair variants",
+            "words": [
+                "wretched",
+                "hapless",
+                "miserly",
+                "despondent"
+            ]
+        }
+    ]
+}

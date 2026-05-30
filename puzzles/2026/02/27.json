@@ -1,0 +1,53 @@
+{
+    "date": "2026-02-27",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "emotional_tone",
+            "difficulty": "easy",
+            "title": "walking steadily",
+            "words": [
+                "stroll",
+                "wander",
+                "ramble",
+                "roam"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "informal_register",
+            "difficulty": "medium",
+            "title": "dull, murky ambience",
+            "words": [
+                "murky",
+                "dingy",
+                "somber",
+                "dreary"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "synonym",
+            "difficulty": "hard",
+            "title": "quick, sharp, and abrupt",
+            "words": [
+                "laconic",
+                "terse",
+                "curt",
+                "brusque"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "thematic_association",
+            "difficulty": "very_hard",
+            "title": "triadic geometry and liturgy",
+            "words": [
+                "ternion",
+                "trine",
+                "tercet",
+                "terzetto"
+            ]
+        }
+    ]
+}

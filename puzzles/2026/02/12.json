@@ -1,0 +1,53 @@
+{
+    "date": "2026-02-12",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "synonym",
+            "difficulty": "easy",
+            "title": "from liquid to firm",
+            "words": [
+                "congeal",
+                "coagulate",
+                "solidify",
+                "thicken"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "sound_association",
+            "difficulty": "medium",
+            "title": "muted, dim surroundings",
+            "words": [
+                "murky",
+                "dingy",
+                "somber",
+                "dreary"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "semantic_field",
+            "difficulty": "hard",
+            "title": "subtle control by design",
+            "words": [
+                "orchestrate",
+                "manipulate",
+                "engineer",
+                "orchestrator"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "emotional_tone",
+            "difficulty": "very_hard",
+            "title": "a disciplined kind of awe",
+            "words": [
+                "austere",
+                "numinous",
+                "reverent",
+                "tremulous"
+            ]
+        }
+    ]
+}

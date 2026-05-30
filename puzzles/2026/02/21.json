@@ -1,0 +1,53 @@
+{
+    "date": "2026-02-21",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "informal_register",
+            "difficulty": "easy",
+            "title": "street-level brand talk",
+            "words": [
+                "brand",
+                "sword",
+                "blade",
+                "steel"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "profession_domain",
+            "difficulty": "medium",
+            "title": "investigative verb in journalism",
+            "words": [
+                "scribe",
+                "report",
+                "interview",
+                "column"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "thematic_association",
+            "difficulty": "hard",
+            "title": "sounds like a verdict, but read closely",
+            "words": [
+                "verdict",
+                "audible",
+                "arraign",
+                "sentence"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "sound_association",
+            "difficulty": "very_hard",
+            "title": "homophones with a forensic flavor",
+            "words": [
+                "forgery",
+                "forbear",
+                "forbearance",
+                "forged"
+            ]
+        }
+    ]
+}

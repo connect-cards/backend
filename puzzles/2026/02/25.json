@@ -1,0 +1,53 @@
+{
+    "date": "2026-02-25",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "semantic_field",
+            "difficulty": "easy",
+            "title": "metalwork & edge tools",
+            "words": [
+                "blade",
+                "brand",
+                "steel",
+                "sword"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "sound_association",
+            "difficulty": "medium",
+            "title": "vocal beginnings and calls",
+            "words": [
+                "intonation",
+                "chant",
+                "murmur",
+                "whisper"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "emotional_tone",
+            "difficulty": "hard",
+            "title": "temperamental warmth vs. sting",
+            "words": [
+                "affable",
+                "taciturn",
+                "snide",
+                "acerbic"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "synonym",
+            "difficulty": "very_hard",
+            "title": "shaping by subtle design",
+            "words": [
+                "mold",
+                "forge",
+                "craft",
+                "fabricate"
+            ]
+        }
+    ]
+}

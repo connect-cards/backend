@@ -1,0 +1,53 @@
+{
+    "date": "2026-02-09",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "thematic_association",
+            "difficulty": "easy",
+            "title": "calm before conflict",
+            "words": [
+                "serene",
+                "placid",
+                "tranquil",
+                "equable"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "synonym",
+            "difficulty": "medium",
+            "title": "wary afterglow",
+            "words": [
+                "dubious",
+                "mistrustful",
+                "suspicious",
+                "guarded"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "emotional_tone",
+            "difficulty": "hard",
+            "title": "a carefully managed silence",
+            "words": [
+                "reticent",
+                "circumspect",
+                "taciturn",
+                "guardrail"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "informal_register",
+            "difficulty": "very_hard",
+            "title": "indignation",
+            "words": [
+                "resent",
+                "spite",
+                "ire",
+                "choleric"
+            ]
+        }
+    ]
+}

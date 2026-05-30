@@ -1,0 +1,53 @@
+{
+    "date": "2026-02-06",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "morphological_family",
+            "difficulty": "easy",
+            "title": "roots that spawn related nouns",
+            "words": [
+                "kindness",
+                "friendly",
+                "benign",
+                "benevolent"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "semantic_field",
+            "difficulty": "medium",
+            "title": "loose discussion of disorder",
+            "words": [
+                "chaos",
+                "anarchy",
+                "turmoil",
+                "confusion"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "physical_trait",
+            "difficulty": "hard",
+            "title": "hands that suggest tension",
+            "words": [
+                "tremor",
+                "shiver",
+                "twitch",
+                "quiver"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "informal_register",
+            "difficulty": "very_hard",
+            "title": "understated insults",
+            "words": [
+                "knavish",
+                "meanly",
+                "wretched",
+                "craven"
+            ]
+        }
+    ]
+}

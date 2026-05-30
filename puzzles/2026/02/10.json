@@ -1,0 +1,53 @@
+{
+    "date": "2026-02-10",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "sound_association",
+            "difficulty": "easy",
+            "title": "quick, sharp starts",
+            "words": [
+                "dart",
+                "dash",
+                "dashy",
+                "scat"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "informal_register",
+            "difficulty": "medium",
+            "title": "believable chatter",
+            "words": [
+                "plausible",
+                "believable",
+                "credible",
+                "likely"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "morphological_family",
+            "difficulty": "hard",
+            "title": "to praise indirectly",
+            "words": [
+                "commend",
+                "praise",
+                "approve",
+                "extol"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "emotional_tone",
+            "difficulty": "very_hard",
+            "title": "cold restraint",
+            "words": [
+                "impassive",
+                "stoic",
+                "phlegmatic",
+                "torpid"
+            ]
+        }
+    ]
+}

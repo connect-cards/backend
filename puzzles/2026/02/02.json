@@ -1,0 +1,53 @@
+{
+    "date": "2026-02-02",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "easy",
+            "difficulty": "easy",
+            "title": "unsettling sounds",
+            "words": [
+                "buzz",
+                "hiss",
+                "clatter",
+                "whisper"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "medium",
+            "difficulty": "medium",
+            "title": "shape that slips out of order",
+            "words": [
+                "crooked",
+                "knotted",
+                "warped",
+                "misaligned"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "hard",
+            "difficulty": "hard",
+            "title": "fear",
+            "words": [
+                "foreboding",
+                "dread",
+                "apprehension",
+                "unease"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "very_hard",
+            "difficulty": "very_hard",
+            "title": "something else in the room",
+            "words": [
+                "eldritch",
+                "unearthly",
+                "uncanny",
+                "eerie"
+            ]
+        }
+    ]
+}

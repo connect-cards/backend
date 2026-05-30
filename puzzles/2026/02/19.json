@@ -1,0 +1,53 @@
+{
+    "date": "2026-02-19",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "morphological_family",
+            "difficulty": "easy",
+            "title": "walking verbs: aimless motion",
+            "words": [
+                "stroll",
+                "wander",
+                "ramble",
+                "roam"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "physical_trait",
+            "difficulty": "medium",
+            "title": "surface qualities that look dull or aged",
+            "words": [
+                "weathered",
+                "cracked",
+                "sallow",
+                "ashen"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "synonym",
+            "difficulty": "hard",
+            "title": "sharpness of speech",
+            "words": [
+                "laconic",
+                "terse",
+                "curt",
+                "brusque"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "profession_domain",
+            "difficulty": "very_hard",
+            "title": "technical nouns for controlling heat transfer",
+            "words": [
+                "conduction",
+                "convection",
+                "radiation",
+                "insulation"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "date": "2026-02-04",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "easy",
+            "difficulty": "easy",
+            "title": "genuine vs. polished",
+            "words": [
+                "authentic",
+                "sincere",
+                "veracious",
+                "genuine"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "medium",
+            "difficulty": "medium",
+            "title": "shades of dimness",
+            "words": [
+                "murky",
+                "somber",
+                "dingy",
+                "dreary"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "hard",
+            "difficulty": "hard",
+            "title": "paperwork",
+            "words": [
+                "manuscript",
+                "codex",
+                "parchment",
+                "treatise"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "very_hard",
+            "difficulty": "very_hard",
+            "title": "seeing",
+            "words": [
+                "inspect",
+                "discern",
+                "perceive",
+                "envision"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "date": "2026-02-28",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "emotional_tone",
+            "difficulty": "easy",
+            "title": "unease that feels otherworldly",
+            "words": [
+                "uneasy",
+                "uncanny",
+                "wary",
+                "foreboding"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "informal_register",
+            "difficulty": "medium",
+            "title": "steady pressure, not dramatic",
+            "words": [
+                "tense",
+                "press",
+                "strain",
+                "effort"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "semantic_field",
+            "difficulty": "hard",
+            "title": "insistence with a hint of threat",
+            "words": [
+                "insist",
+                "demand",
+                "require",
+                "impose"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "etymological_relation",
+            "difficulty": "very_hard",
+            "title": "archaic dread and supernatural suggestion",
+            "words": [
+                "eldritch",
+                "unearthly",
+                "otherworldly",
+                "weird"
+            ]
+        }
+    ]
+}

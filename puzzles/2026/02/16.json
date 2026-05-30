@@ -1,0 +1,53 @@
+{
+    "date": "2026-02-16",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "sound_association",
+            "difficulty": "easy",
+            "title": "close to chill in feeling",
+            "words": [
+                "cold",
+                "frigid",
+                "icy",
+                "wintry"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "morphological_family",
+            "difficulty": "medium",
+            "title": "fields of study",
+            "words": [
+                "science",
+                "scientific",
+                "scientist",
+                "scientism"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "literary_register",
+            "difficulty": "hard",
+            "title": "uncanny perception in eerie scenes",
+            "words": [
+                "eldritch",
+                "uncanny",
+                "unearthly",
+                "spectral"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "thematic_association",
+            "difficulty": "very_hard",
+            "title": "threefold patterns and musical forms",
+            "words": [
+                "ternion",
+                "tercet",
+                "terzetto",
+                "trine"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "date": "2026-02-18",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "sound_association",
+            "difficulty": "easy",
+            "title": "old-world roles involving writing",
+            "words": [
+                "scribe",
+                "author",
+                "editor",
+                "journalist"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "profession_domain",
+            "difficulty": "medium",
+            "title": "those who mend what is broken",
+            "words": [
+                "surgeon",
+                "physician",
+                "dentist",
+                "paramedic"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "semantic_field",
+            "difficulty": "hard",
+            "title": "subtle lights and shadows in literature",
+            "words": [
+                "hallowed",
+                "eerie",
+                "somnambulant",
+                "languid"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "literary_register",
+            "difficulty": "very_hard",
+            "title": "poetic diction for grief and lament",
+            "words": [
+                "threnody",
+                "dirge",
+                "lament",
+                "elegy"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "date": "2026-02-26",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "emotional_tone",
+            "difficulty": "easy",
+            "title": "small talk without commitment",
+            "words": [
+                "casual",
+                "casement",
+                "casemented",
+                "casementry"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "profession_domain",
+            "difficulty": "medium",
+            "title": "medical observation and assessment",
+            "words": [
+                "diagnose",
+                "prescribe",
+                "symptom",
+                "patient"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "etymological_relation",
+            "difficulty": "hard",
+            "title": "verdicts and written judgments",
+            "words": [
+                "adjudicate",
+                "arbitrate",
+                "sentence",
+                "verdict"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "synonym",
+            "difficulty": "very_hard",
+            "title": "obscure restraints and binding limits",
+            "words": [
+                "inhibit",
+                "impede",
+                "foreclose",
+                "preclude"
+            ]
+        }
+    ]
+}

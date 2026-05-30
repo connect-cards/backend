@@ -1,0 +1,53 @@
+{
+    "date": "2026-02-22",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "semantic_field",
+            "difficulty": "easy",
+            "title": "water-and-weather commons",
+            "words": [
+                "rain",
+                "storm",
+                "flood",
+                "drizzle"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "informal_register",
+            "difficulty": "medium",
+            "title": "casual contempt, multiple angles",
+            "words": [
+                "cheesy",
+                "crooked",
+                "dodgy",
+                "shabby"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "etymological_relation",
+            "difficulty": "hard",
+            "title": "shares a root with 'press'",
+            "words": [
+                "oppress",
+                "compress",
+                "suppress",
+                "impress"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "thematic_association",
+            "difficulty": "very_hard",
+            "title": "subtle gloom in a literary register",
+            "words": [
+                "moribund",
+                "lurid",
+                "sallow",
+                "murky"
+            ]
+        }
+    ]
+}

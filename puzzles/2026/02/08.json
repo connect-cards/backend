@@ -1,0 +1,53 @@
+{
+    "date": "2026-02-08",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "synonym",
+            "difficulty": "easy",
+            "title": "calm",
+            "words": [
+                "serene",
+                "tranquil",
+                "placid",
+                "unruffled"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "literary_register",
+            "difficulty": "medium",
+            "title": "speaking with restraint",
+            "words": [
+                "laconic",
+                "terse",
+                "curt",
+                "restrained"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "emotional_tone",
+            "difficulty": "hard",
+            "title": "rage that can be both internal and outward",
+            "words": [
+                "ire",
+                "fury",
+                "resentment",
+                "indignation"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "morphological_family",
+            "difficulty": "very_hard",
+            "title": "to draw back / retract",
+            "words": [
+                "recline",
+                "retract",
+                "recoil",
+                "recess"
+            ]
+        }
+    ]
+}

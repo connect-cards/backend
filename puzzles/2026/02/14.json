@@ -1,0 +1,53 @@
+{
+    "date": "2026-02-14",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "literary_register",
+            "difficulty": "easy",
+            "title": "a slow, casual walk",
+            "words": [
+                "stroll",
+                "wander",
+                "ramble",
+                "roam"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "thematic_association",
+            "difficulty": "medium",
+            "title": "secretive behavior in company",
+            "words": [
+                "coy",
+                "reticent",
+                "guarded",
+                "circumspect"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "sound_association",
+            "difficulty": "hard",
+            "title": "resembling thunder in tone",
+            "words": [
+                "sonorous",
+                "tremulous",
+                "resonant",
+                "auditory"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "synonym",
+            "difficulty": "very_hard",
+            "title": "rhetorical restraint, not openness",
+            "words": [
+                "laconic",
+                "terse",
+                "curt",
+                "brusque"
+            ]
+        }
+    ]
+}

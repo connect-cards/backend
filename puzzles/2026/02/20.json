@@ -1,0 +1,53 @@
+{
+    "date": "2026-02-20",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "sound_association",
+            "difficulty": "easy",
+            "title": "informal greetings with a casual cadence",
+            "words": [
+                "hey",
+                "hi",
+                "yo",
+                "hiya"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "informal_register",
+            "difficulty": "medium",
+            "title": "fellow / person, common but with varied register",
+            "words": [
+                "bloke",
+                "chap",
+                "lad",
+                "fella"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "morphological_family",
+            "difficulty": "hard",
+            "title": "words sharing a root meaning 'to cut off'",
+            "words": [
+                "sever",
+                "separation",
+                "severance",
+                "severed"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "synonym",
+            "difficulty": "very_hard",
+            "title": "uncanny and unearthly shades of 'weird'",
+            "words": [
+                "eldritch",
+                "uncanny",
+                "unearthly",
+                "otherworldly"
+            ]
+        }
+    ]
+}
