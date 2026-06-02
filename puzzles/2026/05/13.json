@@ -1,53 +1,53 @@
 {
-  "date": "2026-05-13",
-  "groups": [
-    {
-      "id": "D1G1",
-      "type": "easy",
-      "difficulty": "easy",
-      "title": "kitchenware",
-      "words": [
-        "knife",
-        "spoon",
-        "plate",
-        "bowl"
-      ]
-    },
-    {
-      "id": "D1G2",
-      "type": "medium",
-      "difficulty": "medium",
-      "title": "informal terms for a man",
-      "words": [
-        "bloke",
-        "chap",
-        "lad",
-        "fella"
-      ]
-    },
-    {
-      "id": "D1G3",
-      "type": "hard",
-      "difficulty": "hard",
-      "title": "concise manner synonyms",
-      "words": [
-        "laconic",
-        "curt",
-        "terse",
-        "brusque"
-      ]
-    },
-    {
-      "id": "D1G4",
-      "type": "very-hard",
-      "difficulty": "very_hard",
-      "title": "strange",
-      "words": [
-        "eldritch",
-        "uncanny",
-        "unearthly",
-        "weird"
-      ]
-    }
-  ]
+    "date": "2026-05-13",
+    "groups": [
+        {
+            "id": "D1G1",
+            "type": "easy",
+            "difficulty": "easy",
+            "title": "kitchenware",
+            "words": [
+                "knife",
+                "spoon",
+                "plate",
+                "bowl"
+            ]
+        },
+        {
+            "id": "D1G2",
+            "type": "medium",
+            "difficulty": "medium",
+            "title": "informal terms for a man",
+            "words": [
+                "bloke",
+                "chap",
+                "lad",
+                "fella"
+            ]
+        },
+        {
+            "id": "D1G3",
+            "type": "hard",
+            "difficulty": "hard",
+            "title": "concise manner synonyms",
+            "words": [
+                "laconic",
+                "curt",
+                "terse",
+                "brusque"
+            ]
+        },
+        {
+            "id": "D1G4",
+            "type": "very-hard",
+            "difficulty": "very_hard",
+            "title": "strange",
+            "words": [
+                "eldritch",
+                "uncanny",
+                "unearthly",
+                "weird"
+            ]
+        }
+    ]
 }

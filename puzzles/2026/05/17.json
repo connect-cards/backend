@@ -1,53 +1,53 @@
 {
-  "date": "2026-05-17",
-  "groups": [
-    {
-      "id": "g1",
-      "type": "thematic_association",
-      "difficulty": "easy",
-      "title": "colors of the spectrum",
-      "words": [
-        "red",
-        "blue",
-        "green",
-        "amber"
-      ]
-    },
-    {
-      "id": "g2",
-      "type": "physical_trait",
-      "difficulty": "medium",
-      "title": "body-descriptor adjectives",
-      "words": [
-        "tall",
-        "short",
-        "stout",
-        "lean"
-      ]
-    },
-    {
-      "id": "g3",
-      "type": "literary_register",
-      "difficulty": "hard",
-      "title": "fleeting synonyms",
-      "words": [
-        "ephemeral",
-        "evanescent",
-        "transient",
-        "transitory"
-      ]
-    },
-    {
-      "id": "g4",
-      "type": "morphological_family",
-      "difficulty": "very_hard",
-      "title": "scribe-derivatives",
-      "words": [
-        "describe",
-        "prescribe",
-        "transcribe",
-        "ascribe"
-      ]
-    }
-  ]
+    "date": "2026-05-17",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "thematic_association",
+            "difficulty": "easy",
+            "title": "colors of the spectrum",
+            "words": [
+                "red",
+                "blue",
+                "green",
+                "amber"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "physical_trait",
+            "difficulty": "medium",
+            "title": "body-descriptor adjectives",
+            "words": [
+                "tall",
+                "short",
+                "stout",
+                "lean"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "literary_register",
+            "difficulty": "hard",
+            "title": "fleeting synonyms",
+            "words": [
+                "ephemeral",
+                "evanescent",
+                "transient",
+                "transitory"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "morphological_family",
+            "difficulty": "very_hard",
+            "title": "scribe-derivatives",
+            "words": [
+                "describe",
+                "prescribe",
+                "transcribe",
+                "ascribe"
+            ]
+        }
+    ]
 }

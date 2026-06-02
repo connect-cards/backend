@@ -1,53 +1,53 @@
 {
-  "date": "2026-04-28",
-  "groups": [
-    {
-      "id": "g1",
-      "type": "synonym",
-      "difficulty": "easy",
-      "title": "keep watch",
-      "words": [
-        "monitor",
-        "observe",
-        "survey",
-        "watchful"
-      ]
-    },
-    {
-      "id": "g2",
-      "type": "etymological_relation",
-      "difficulty": "medium",
-      "title": "from latin videre: to see",
-      "words": [
-        "invisible",
-        "vision",
-        "evidence",
-        "evasive"
-      ]
-    },
-    {
-      "id": "g3",
-      "type": "emotional_tone",
-      "difficulty": "hard",
-      "title": "restless anxiety",
-      "words": [
-        "unease",
-        "apprehension",
-        "fret",
-        "trepidation"
-      ]
-    },
-    {
-      "id": "g4",
-      "type": "thematic_association",
-      "difficulty": "very_hard",
-      "title": "rare literary negation",
-      "words": [
-        "ungird",
-        "unearthly",
-        "eldritch",
-        "unwonted"
-      ]
-    }
-  ]
+    "date": "2026-04-28",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "synonym",
+            "difficulty": "easy",
+            "title": "keep watch",
+            "words": [
+                "monitor",
+                "observe",
+                "survey",
+                "watchful"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "etymological_relation",
+            "difficulty": "medium",
+            "title": "from latin videre: to see",
+            "words": [
+                "invisible",
+                "vision",
+                "evidence",
+                "evasive"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "emotional_tone",
+            "difficulty": "hard",
+            "title": "restless anxiety",
+            "words": [
+                "unease",
+                "apprehension",
+                "fret",
+                "trepidation"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "thematic_association",
+            "difficulty": "very_hard",
+            "title": "rare literary negation",
+            "words": [
+                "ungird",
+                "unearthly",
+                "eldritch",
+                "unwonted"
+            ]
+        }
+    ]
 }

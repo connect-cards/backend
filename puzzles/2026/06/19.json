@@ -1,53 +1,53 @@
 {
-  "date": "2026-06-19",
-  "groups": [
-    {
-      "id": "d19-e",
-      "type": "literary_register",
-      "difficulty": "easy",
-      "title": "a cool, tidy voice",
-      "words": [
-        "laconic",
-        "terse",
-        "spare",
-        "evasive"
-      ]
-    },
-    {
-      "id": "d19-m",
-      "type": "synonym",
-      "difficulty": "medium",
-      "title": "to be appointed",
-      "words": [
-        "appoint",
-        "designate",
-        "nominate",
-        "propose"
-      ]
-    },
-    {
-      "id": "d19-h",
-      "type": "etymological_relation",
-      "difficulty": "hard",
-      "title": "from greek for 'judge'",
-      "words": [
-        "arbitrate",
-        "verdict",
-        "jurisdiction",
-        "jurisprudence"
-      ]
-    },
-    {
-      "id": "d19-v",
-      "type": "semantic_field",
-      "difficulty": "very_hard",
-      "title": "poetic units",
-      "words": [
-        "tercet",
-        "terzina",
-        "quatrain",
-        "stanza"
-      ]
-    }
-  ]
+    "date": "2026-06-19",
+    "groups": [
+        {
+            "id": "d19-e",
+            "type": "literary_register",
+            "difficulty": "easy",
+            "title": "a cool, tidy voice",
+            "words": [
+                "laconic",
+                "terse",
+                "spare",
+                "evasive"
+            ]
+        },
+        {
+            "id": "d19-m",
+            "type": "synonym",
+            "difficulty": "medium",
+            "title": "to be appointed",
+            "words": [
+                "appoint",
+                "designate",
+                "nominate",
+                "propose"
+            ]
+        },
+        {
+            "id": "d19-h",
+            "type": "etymological_relation",
+            "difficulty": "hard",
+            "title": "from greek for 'judge'",
+            "words": [
+                "arbitrate",
+                "verdict",
+                "jurisdiction",
+                "jurisprudence"
+            ]
+        },
+        {
+            "id": "d19-v",
+            "type": "semantic_field",
+            "difficulty": "very_hard",
+            "title": "poetic units",
+            "words": [
+                "tercet",
+                "terzina",
+                "quatrain",
+                "stanza"
+            ]
+        }
+    ]
 }

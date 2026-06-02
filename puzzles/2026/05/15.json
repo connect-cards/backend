@@ -1,53 +1,53 @@
 {
-  "date": "2026-05-15",
-  "groups": [
-    {
-      "id": "D3G1",
-      "type": "easy",
-      "difficulty": "easy",
-      "title": "domestic animals",
-      "words": [
-        "cat",
-        "dog",
-        "pig",
-        "hen"
-      ]
-    },
-    {
-      "id": "D3G2",
-      "type": "medium",
-      "difficulty": "medium",
-      "title": "music notation terms",
-      "words": [
-        "tempo",
-        "clef",
-        "note",
-        "rest"
-      ]
-    },
-    {
-      "id": "D3G3",
-      "type": "hard",
-      "difficulty": "hard",
-      "title": "clever descriptors",
-      "words": [
-        "astute",
-        "shrewd",
-        "adroit",
-        "dexterous"
-      ]
-    },
-    {
-      "id": "D3G4",
-      "type": "very-hard",
-      "difficulty": "very_hard",
-      "title": "obscure words",
-      "words": [
-        "defenestrate",
-        "petrichor",
-        "sesquipedalian",
-        "quixotic"
-      ]
-    }
-  ]
+    "date": "2026-05-15",
+    "groups": [
+        {
+            "id": "D3G1",
+            "type": "easy",
+            "difficulty": "easy",
+            "title": "domestic animals",
+            "words": [
+                "cat",
+                "dog",
+                "pig",
+                "hen"
+            ]
+        },
+        {
+            "id": "D3G2",
+            "type": "medium",
+            "difficulty": "medium",
+            "title": "music notation terms",
+            "words": [
+                "tempo",
+                "clef",
+                "note",
+                "rest"
+            ]
+        },
+        {
+            "id": "D3G3",
+            "type": "hard",
+            "difficulty": "hard",
+            "title": "clever descriptors",
+            "words": [
+                "astute",
+                "shrewd",
+                "adroit",
+                "dexterous"
+            ]
+        },
+        {
+            "id": "D3G4",
+            "type": "very-hard",
+            "difficulty": "very_hard",
+            "title": "obscure words",
+            "words": [
+                "defenestrate",
+                "petrichor",
+                "sesquipedalian",
+                "quixotic"
+            ]
+        }
+    ]
 }

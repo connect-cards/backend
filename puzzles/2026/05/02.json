@@ -1,53 +1,53 @@
 {
-  "date": "2026-05-02",
-  "groups": [
-    {
-      "id": "g_easy3",
-      "type": "easy",
-      "difficulty": "easy",
-      "title": "emotional states",
-      "words": [
-        "calm",
-        "happy",
-        "angry",
-        "sad"
-      ]
-    },
-    {
-      "id": "g_medium3",
-      "type": "medium",
-      "difficulty": "medium",
-      "title": "bodies of water",
-      "words": [
-        "river",
-        "stream",
-        "brook",
-        "ocean"
-      ]
-    },
-    {
-      "id": "g_hard3",
-      "type": "hard",
-      "difficulty": "hard",
-      "title": "color semantics",
-      "words": [
-        "hue",
-        "pigment",
-        "tint",
-        "shade"
-      ]
-    },
-    {
-      "id": "g_vhard3",
-      "type": "very-hard",
-      "difficulty": "very_hard",
-      "title": "morphology family of act",
-      "words": [
-        "act",
-        "action",
-        "active",
-        "activate"
-      ]
-    }
-  ]
+    "date": "2026-05-02",
+    "groups": [
+        {
+            "id": "g_easy3",
+            "type": "easy",
+            "difficulty": "easy",
+            "title": "emotional states",
+            "words": [
+                "calm",
+                "happy",
+                "angry",
+                "sad"
+            ]
+        },
+        {
+            "id": "g_medium3",
+            "type": "medium",
+            "difficulty": "medium",
+            "title": "bodies of water",
+            "words": [
+                "river",
+                "stream",
+                "brook",
+                "ocean"
+            ]
+        },
+        {
+            "id": "g_hard3",
+            "type": "hard",
+            "difficulty": "hard",
+            "title": "color semantics",
+            "words": [
+                "hue",
+                "pigment",
+                "tint",
+                "shade"
+            ]
+        },
+        {
+            "id": "g_vhard3",
+            "type": "very-hard",
+            "difficulty": "very_hard",
+            "title": "morphology family of act",
+            "words": [
+                "act",
+                "action",
+                "active",
+                "activate"
+            ]
+        }
+    ]
 }

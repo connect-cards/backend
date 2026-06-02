@@ -1,53 +1,53 @@
 {
-  "date": "2026-05-27",
-  "groups": [
-    {
-      "id": "g1",
-      "type": "thematic_association",
-      "difficulty": "easy",
-      "title": "types of travelers",
-      "words": [
-        "roamer",
-        "stroller",
-        "pilgrim",
-        "wayfarer"
-      ]
-    },
-    {
-      "id": "g2",
-      "type": "emotional_tone",
-      "difficulty": "medium",
-      "title": "a gloomy emotional cast",
-      "words": [
-        "melancholy",
-        "despair",
-        "dismay",
-        "foreboding"
-      ]
-    },
-    {
-      "id": "g3",
-      "type": "synonym",
-      "difficulty": "hard",
-      "title": "to look sharply, briefly",
-      "words": [
-        "glance",
-        "peek",
-        "glimpse",
-        "stare"
-      ]
-    },
-    {
-      "id": "g4",
-      "type": "physical_trait",
-      "difficulty": "very_hard",
-      "title": "signs of age or wear (subtle)",
-      "words": [
-        "wrinkle",
-        "scar",
-        "mottled",
-        "weathered"
-      ]
-    }
-  ]
+    "date": "2026-05-27",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "thematic_association",
+            "difficulty": "easy",
+            "title": "types of travelers",
+            "words": [
+                "roamer",
+                "stroller",
+                "pilgrim",
+                "wayfarer"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "emotional_tone",
+            "difficulty": "medium",
+            "title": "a gloomy emotional cast",
+            "words": [
+                "melancholy",
+                "despair",
+                "dismay",
+                "foreboding"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "synonym",
+            "difficulty": "hard",
+            "title": "to look sharply, briefly",
+            "words": [
+                "glance",
+                "peek",
+                "glimpse",
+                "stare"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "physical_trait",
+            "difficulty": "very_hard",
+            "title": "signs of age or wear (subtle)",
+            "words": [
+                "wrinkle",
+                "scar",
+                "mottled",
+                "weathered"
+            ]
+        }
+    ]
 }

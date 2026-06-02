@@ -1,53 +1,53 @@
 {
-  "date": "2026-06-22",
-  "groups": [
-    {
-      "id": "g1",
-      "type": "semantic_field",
-      "difficulty": "easy",
-      "title": "tales of deception",
-      "words": [
-        "fraud",
-        "scam",
-        "con",
-        "swindle"
-      ]
-    },
-    {
-      "id": "g2",
-      "type": "physical_trait",
-      "difficulty": "medium",
-      "title": "descriptions of a face in shadow",
-      "words": [
-        "murky",
-        "sallow",
-        "ashen",
-        "grim"
-      ]
-    },
-    {
-      "id": "g3",
-      "type": "profession_domain",
-      "difficulty": "hard",
-      "title": "legal decision-makers",
-      "words": [
-        "arbitrator",
-        "mediator",
-        "juror",
-        "magistrate"
-      ]
-    },
-    {
-      "id": "g4",
-      "type": "etymological_relation",
-      "difficulty": "very_hard",
-      "title": "family of words from “publish/declare” roots",
-      "words": [
-        "announce",
-        "proclaim",
-        "reveal",
-        "manifest"
-      ]
-    }
-  ]
+    "date": "2026-06-22",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "semantic_field",
+            "difficulty": "easy",
+            "title": "tales of deception",
+            "words": [
+                "fraud",
+                "scam",
+                "con",
+                "swindle"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "physical_trait",
+            "difficulty": "medium",
+            "title": "descriptions of a face in shadow",
+            "words": [
+                "murky",
+                "sallow",
+                "ashen",
+                "grim"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "profession_domain",
+            "difficulty": "hard",
+            "title": "legal decision-makers",
+            "words": [
+                "arbitrator",
+                "mediator",
+                "juror",
+                "magistrate"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "etymological_relation",
+            "difficulty": "very_hard",
+            "title": "family of words from “publish/declare” roots",
+            "words": [
+                "announce",
+                "proclaim",
+                "reveal",
+                "manifest"
+            ]
+        }
+    ]
 }

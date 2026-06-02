@@ -1,53 +1,53 @@
 {
-  "date": "2026-04-21",
-  "groups": [
-    {
-      "id": "g1",
-      "type": "semantic_field",
-      "difficulty": "easy",
-      "title": "mariners and navigation",
-      "words": [
-        "compass",
-        "sextant",
-        "nautical",
-        "porthole"
-      ]
-    },
-    {
-      "id": "g2",
-      "type": "morphological_family",
-      "difficulty": "medium",
-      "title": "words from the root of “to draw back”",
-      "words": [
-        "recoil",
-        "recant",
-        "retract",
-        "refrain"
-      ]
-    },
-    {
-      "id": "g3",
-      "type": "sound_association",
-      "difficulty": "hard",
-      "title": "near-homophones",
-      "words": [
-        "hale",
-        "tailor",
-        "vail",
-        "pale"
-      ]
-    },
-    {
-      "id": "g4",
-      "type": "literary_register",
-      "difficulty": "very_hard",
-      "title": "archaic/poetic restraint and refusal",
-      "words": [
-        "withhold",
-        "abstain",
-        "forbear",
-        "decline"
-      ]
-    }
-  ]
+    "date": "2026-04-21",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "semantic_field",
+            "difficulty": "easy",
+            "title": "mariners and navigation",
+            "words": [
+                "compass",
+                "sextant",
+                "nautical",
+                "porthole"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "morphological_family",
+            "difficulty": "medium",
+            "title": "words from the root of “to draw back”",
+            "words": [
+                "recoil",
+                "recant",
+                "retract",
+                "refrain"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "sound_association",
+            "difficulty": "hard",
+            "title": "near-homophones",
+            "words": [
+                "hale",
+                "tailor",
+                "vail",
+                "pale"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "literary_register",
+            "difficulty": "very_hard",
+            "title": "archaic/poetic restraint and refusal",
+            "words": [
+                "withhold",
+                "abstain",
+                "forbear",
+                "decline"
+            ]
+        }
+    ]
 }

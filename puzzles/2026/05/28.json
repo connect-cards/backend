@@ -1,53 +1,53 @@
 {
-  "date": "2026-05-28",
-  "groups": [
-    {
-      "id": "g1",
-      "type": "thematic_association",
-      "difficulty": "easy",
-      "title": "courtly actions",
-      "words": [
-        "defer",
-        "beseech",
-        "comply",
-        "entreat"
-      ]
-    },
-    {
-      "id": "g2",
-      "type": "morphological_family",
-      "difficulty": "medium",
-      "title": "adjectives from the same root meaning “to see”",
-      "words": [
-        "visionary",
-        "invisible",
-        "spectral",
-        "perceptive"
-      ]
-    },
-    {
-      "id": "g3",
-      "type": "sound_association",
-      "difficulty": "hard",
-      "title": "faint knocks and similar noises",
-      "words": [
-        "tapper",
-        "knocker",
-        "rattle",
-        "murmur"
-      ]
-    },
-    {
-      "id": "g4",
-      "type": "physical_trait",
-      "difficulty": "very_hard",
-      "title": "archaic descriptions of complexion",
-      "words": [
-        "sallow",
-        "swarthy",
-        "pallid",
-        "wan"
-      ]
-    }
-  ]
+    "date": "2026-05-28",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "thematic_association",
+            "difficulty": "easy",
+            "title": "courtly actions",
+            "words": [
+                "defer",
+                "beseech",
+                "comply",
+                "entreat"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "morphological_family",
+            "difficulty": "medium",
+            "title": "adjectives from the same root meaning “to see”",
+            "words": [
+                "visionary",
+                "invisible",
+                "spectral",
+                "perceptive"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "sound_association",
+            "difficulty": "hard",
+            "title": "faint knocks and similar noises",
+            "words": [
+                "tapper",
+                "knocker",
+                "rattle",
+                "murmur"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "physical_trait",
+            "difficulty": "very_hard",
+            "title": "archaic descriptions of complexion",
+            "words": [
+                "sallow",
+                "swarthy",
+                "pallid",
+                "wan"
+            ]
+        }
+    ]
 }

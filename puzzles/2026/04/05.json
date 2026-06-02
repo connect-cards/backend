@@ -1,53 +1,53 @@
 {
-  "date": "2026-04-05",
-  "groups": [
-    {
-      "id": "g1",
-      "type": "profession_domain",
-      "difficulty": "easy",
-      "title": "trades and their tools",
-      "words": [
-        "carpenter",
-        "surgeon",
-        "printer",
-        "architect"
-      ]
-    },
-    {
-      "id": "g2",
-      "type": "emotional_tone",
-      "difficulty": "medium",
-      "title": "quietly displeased",
-      "words": [
-        "irritated",
-        "annoyed",
-        "exasperated",
-        "resentful"
-      ]
-    },
-    {
-      "id": "g3",
-      "type": "thematic_association",
-      "difficulty": "hard",
-      "title": "words for seeing",
-      "words": [
-        "scrutinize",
-        "perceive",
-        "contemplate",
-        "observe"
-      ]
-    },
-    {
-      "id": "g4",
-      "type": "sound_association",
-      "difficulty": "very_hard",
-      "title": "whispery, breathy effects",
-      "words": [
-        "hush",
-        "murmur",
-        "hollow",
-        "whisper"
-      ]
-    }
-  ]
+    "date": "2026-04-05",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "profession_domain",
+            "difficulty": "easy",
+            "title": "trades and their tools",
+            "words": [
+                "carpenter",
+                "surgeon",
+                "printer",
+                "architect"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "emotional_tone",
+            "difficulty": "medium",
+            "title": "quietly displeased",
+            "words": [
+                "irritated",
+                "annoyed",
+                "exasperated",
+                "resentful"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "thematic_association",
+            "difficulty": "hard",
+            "title": "words for seeing",
+            "words": [
+                "scrutinize",
+                "perceive",
+                "contemplate",
+                "observe"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "sound_association",
+            "difficulty": "very_hard",
+            "title": "whispery, breathy effects",
+            "words": [
+                "hush",
+                "murmur",
+                "hollow",
+                "whisper"
+            ]
+        }
+    ]
 }

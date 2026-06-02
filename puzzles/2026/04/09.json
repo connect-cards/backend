@@ -1,53 +1,53 @@
 {
-  "date": "2026-04-09",
-  "groups": [
-    {
-      "id": "d1-easy",
-      "type": "informal_register",
-      "difficulty": "easy",
-      "title": "casual wanderers",
-      "words": [
-        "stroll",
-        "amble",
-        "ramble",
-        "roam"
-      ]
-    },
-    {
-      "id": "d1-medium",
-      "type": "semantic_field",
-      "difficulty": "medium",
-      "title": "signs of darkness",
-      "words": [
-        "murky",
-        "obscure",
-        "dimmed",
-        "hazy"
-      ]
-    },
-    {
-      "id": "d1-hard",
-      "type": "physical_trait",
-      "difficulty": "hard",
-      "title": "speech that cuts off",
-      "words": [
-        "laconic",
-        "terse",
-        "curt",
-        "blunt"
-      ]
-    },
-    {
-      "id": "d1-vhard",
-      "type": "etymological_relation",
-      "difficulty": "very_hard",
-      "title": "tangled threads of meaning",
-      "words": [
-        "weaver",
-        "warp",
-        "fetter",
-        "entangle"
-      ]
-    }
-  ]
+    "date": "2026-04-09",
+    "groups": [
+        {
+            "id": "d1-easy",
+            "type": "informal_register",
+            "difficulty": "easy",
+            "title": "casual wanderers",
+            "words": [
+                "stroll",
+                "amble",
+                "ramble",
+                "roam"
+            ]
+        },
+        {
+            "id": "d1-medium",
+            "type": "semantic_field",
+            "difficulty": "medium",
+            "title": "signs of darkness",
+            "words": [
+                "murky",
+                "obscure",
+                "dimmed",
+                "hazy"
+            ]
+        },
+        {
+            "id": "d1-hard",
+            "type": "physical_trait",
+            "difficulty": "hard",
+            "title": "speech that cuts off",
+            "words": [
+                "laconic",
+                "terse",
+                "curt",
+                "blunt"
+            ]
+        },
+        {
+            "id": "d1-vhard",
+            "type": "etymological_relation",
+            "difficulty": "very_hard",
+            "title": "tangled threads of meaning",
+            "words": [
+                "weaver",
+                "warp",
+                "fetter",
+                "entangle"
+            ]
+        }
+    ]
 }

@@ -1,53 +1,53 @@
 {
-  "date": "2026-05-23",
-  "groups": [
-    {
-      "id": "G1",
-      "type": "informal_register",
-      "difficulty": "easy",
-      "title": "informal",
-      "words": [
-        "pal",
-        "mate",
-        "dude",
-        "chap"
-      ]
-    },
-    {
-      "id": "G2",
-      "type": "profession_domain",
-      "difficulty": "medium",
-      "title": "professions",
-      "words": [
-        "baker",
-        "mason",
-        "tailor",
-        "weaver"
-      ]
-    },
-    {
-      "id": "G3",
-      "type": "physical_trait",
-      "difficulty": "hard",
-      "title": "appearance",
-      "words": [
-        "stature",
-        "complexion",
-        "countenance",
-        "physique"
-      ]
-    },
-    {
-      "id": "G4",
-      "type": "etymological_relation",
-      "difficulty": "very_hard",
-      "title": "etymology",
-      "words": [
-        "benevolent",
-        "benefactor",
-        "benefit",
-        "benign"
-      ]
-    }
-  ]
+    "date": "2026-05-23",
+    "groups": [
+        {
+            "id": "G1",
+            "type": "informal_register",
+            "difficulty": "easy",
+            "title": "informal",
+            "words": [
+                "pal",
+                "mate",
+                "dude",
+                "chap"
+            ]
+        },
+        {
+            "id": "G2",
+            "type": "profession_domain",
+            "difficulty": "medium",
+            "title": "professions",
+            "words": [
+                "baker",
+                "mason",
+                "tailor",
+                "weaver"
+            ]
+        },
+        {
+            "id": "G3",
+            "type": "physical_trait",
+            "difficulty": "hard",
+            "title": "appearance",
+            "words": [
+                "stature",
+                "complexion",
+                "countenance",
+                "physique"
+            ]
+        },
+        {
+            "id": "G4",
+            "type": "etymological_relation",
+            "difficulty": "very_hard",
+            "title": "etymology",
+            "words": [
+                "benevolent",
+                "benefactor",
+                "benefit",
+                "benign"
+            ]
+        }
+    ]
 }

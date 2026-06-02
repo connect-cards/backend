@@ -1,53 +1,53 @@
 {
-  "date": "2026-04-15",
-  "groups": [
-    {
-      "id": "d3_easy",
-      "type": "easy",
-      "difficulty": "easy",
-      "title": "sound-alike: hear",
-      "words": [
-        "hear",
-        "here",
-        "ear",
-        "year"
-      ]
-    },
-    {
-      "id": "d3_medium",
-      "type": "medium",
-      "difficulty": "medium",
-      "title": "legal-domain",
-      "words": [
-        "prosecutor",
-        "advocate",
-        "juror",
-        "arbiter"
-      ]
-    },
-    {
-      "id": "d3_hard",
-      "type": "hard",
-      "difficulty": "hard",
-      "title": "scrutiny",
-      "words": [
-        "interrogate",
-        "examine",
-        "scrutinize",
-        "interpose"
-      ]
-    },
-    {
-      "id": "d3_veryhard",
-      "type": "very-hard",
-      "difficulty": "very_hard",
-      "title": "the senses",
-      "words": [
-        "olfactory",
-        "tactile",
-        "auditory",
-        "gustatory"
-      ]
-    }
-  ]
+    "date": "2026-04-15",
+    "groups": [
+        {
+            "id": "d3_easy",
+            "type": "easy",
+            "difficulty": "easy",
+            "title": "sound-alike: hear",
+            "words": [
+                "hear",
+                "here",
+                "ear",
+                "year"
+            ]
+        },
+        {
+            "id": "d3_medium",
+            "type": "medium",
+            "difficulty": "medium",
+            "title": "legal-domain",
+            "words": [
+                "prosecutor",
+                "advocate",
+                "juror",
+                "arbiter"
+            ]
+        },
+        {
+            "id": "d3_hard",
+            "type": "hard",
+            "difficulty": "hard",
+            "title": "scrutiny",
+            "words": [
+                "interrogate",
+                "examine",
+                "scrutinize",
+                "interpose"
+            ]
+        },
+        {
+            "id": "d3_veryhard",
+            "type": "very-hard",
+            "difficulty": "very_hard",
+            "title": "the senses",
+            "words": [
+                "olfactory",
+                "tactile",
+                "auditory",
+                "gustatory"
+            ]
+        }
+    ]
 }

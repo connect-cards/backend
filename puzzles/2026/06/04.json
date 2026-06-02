@@ -1,53 +1,53 @@
 {
-  "date": "2026-06-04",
-  "groups": [
-    {
-      "id": "d4-easy",
-      "type": "semantic_field",
-      "difficulty": "easy",
-      "title": "quick, bright flashes",
-      "words": [
-        "glimmer",
-        "flicker",
-        "gleam",
-        "spark"
-      ]
-    },
-    {
-      "id": "d4-medium",
-      "type": "etymological_relation",
-      "difficulty": "medium",
-      "title": "roots of speaking",
-      "words": [
-        "orator",
-        "oration",
-        "oratory",
-        "eloquence"
-      ]
-    },
-    {
-      "id": "d4-hard",
-      "type": "profession_domain",
-      "difficulty": "hard",
-      "title": "medical record language",
-      "words": [
-        "prognosis",
-        "symptom",
-        "diagnosis",
-        "pathology"
-      ]
-    },
-    {
-      "id": "d4-very-hard",
-      "type": "synonym",
-      "difficulty": "very_hard",
-      "title": "subtle negation, lofty phrasing",
-      "words": [
-        "refute",
-        "disprove",
-        "invalidate",
-        "contravene"
-      ]
-    }
-  ]
+    "date": "2026-06-04",
+    "groups": [
+        {
+            "id": "d4-easy",
+            "type": "semantic_field",
+            "difficulty": "easy",
+            "title": "quick, bright flashes",
+            "words": [
+                "glimmer",
+                "flicker",
+                "gleam",
+                "spark"
+            ]
+        },
+        {
+            "id": "d4-medium",
+            "type": "etymological_relation",
+            "difficulty": "medium",
+            "title": "roots of speaking",
+            "words": [
+                "orator",
+                "oration",
+                "oratory",
+                "eloquence"
+            ]
+        },
+        {
+            "id": "d4-hard",
+            "type": "profession_domain",
+            "difficulty": "hard",
+            "title": "medical record language",
+            "words": [
+                "prognosis",
+                "symptom",
+                "diagnosis",
+                "pathology"
+            ]
+        },
+        {
+            "id": "d4-very-hard",
+            "type": "synonym",
+            "difficulty": "very_hard",
+            "title": "subtle negation, lofty phrasing",
+            "words": [
+                "refute",
+                "disprove",
+                "invalidate",
+                "contravene"
+            ]
+        }
+    ]
 }

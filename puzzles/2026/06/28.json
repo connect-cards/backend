@@ -1,53 +1,53 @@
 {
-  "date": "2026-06-28",
-  "groups": [
-    {
-      "id": "g1",
-      "type": "etymological_relation",
-      "difficulty": "easy",
-      "title": "foundations of time",
-      "words": [
-        "chronicle",
-        "chronology",
-        "chronic",
-        "synchronize"
-      ]
-    },
-    {
-      "id": "g2",
-      "type": "physical_trait",
-      "difficulty": "medium",
-      "title": "hair and the look of it",
-      "words": [
-        "mane",
-        "tresses",
-        "coiffure",
-        "frizz"
-      ]
-    },
-    {
-      "id": "g3",
-      "type": "sound_association",
-      "difficulty": "hard",
-      "title": "words that ring out",
-      "words": [
-        "resound",
-        "reverberate",
-        "intonation",
-        "resonate"
-      ]
-    },
-    {
-      "id": "g4",
-      "type": "profession_domain",
-      "difficulty": "very_hard",
-      "title": "trade of the dissecting desk",
-      "words": [
-        "surgeon",
-        "pathologist",
-        "autopsy",
-        "clinic"
-      ]
-    }
-  ]
+    "date": "2026-06-28",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "etymological_relation",
+            "difficulty": "easy",
+            "title": "foundations of time",
+            "words": [
+                "chronicle",
+                "chronology",
+                "chronic",
+                "synchronize"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "physical_trait",
+            "difficulty": "medium",
+            "title": "hair and the look of it",
+            "words": [
+                "mane",
+                "tresses",
+                "coiffure",
+                "frizz"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "sound_association",
+            "difficulty": "hard",
+            "title": "words that ring out",
+            "words": [
+                "resound",
+                "reverberate",
+                "intonation",
+                "resonate"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "profession_domain",
+            "difficulty": "very_hard",
+            "title": "trade of the dissecting desk",
+            "words": [
+                "surgeon",
+                "pathologist",
+                "autopsy",
+                "clinic"
+            ]
+        }
+    ]
 }

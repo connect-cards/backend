@@ -1,53 +1,53 @@
 {
-  "date": "2026-05-12",
-  "groups": [
-    {
-      "id": "g3e",
-      "type": "easy",
-      "difficulty": "easy",
-      "title": "cardinal directions",
-      "words": [
-        "north",
-        "east",
-        "south",
-        "west"
-      ]
-    },
-    {
-      "id": "g3m",
-      "type": "medium",
-      "difficulty": "medium",
-      "title": "cold",
-      "words": [
-        "chilly",
-        "frigid",
-        "icy",
-        "cool"
-      ]
-    },
-    {
-      "id": "g3h",
-      "type": "hard",
-      "difficulty": "hard",
-      "title": "generous/beneficent expressions",
-      "words": [
-        "benevolent",
-        "altruistic",
-        "philanthropic",
-        "magnanimous"
-      ]
-    },
-    {
-      "id": "g3vh",
-      "type": "very-hard",
-      "difficulty": "very_hard",
-      "title": "dark/eerie descriptors",
-      "words": [
-        "eldritch",
-        "tenebrous",
-        "nocturnal",
-        "occult"
-      ]
-    }
-  ]
+    "date": "2026-05-12",
+    "groups": [
+        {
+            "id": "g3e",
+            "type": "easy",
+            "difficulty": "easy",
+            "title": "cardinal directions",
+            "words": [
+                "north",
+                "east",
+                "south",
+                "west"
+            ]
+        },
+        {
+            "id": "g3m",
+            "type": "medium",
+            "difficulty": "medium",
+            "title": "cold",
+            "words": [
+                "chilly",
+                "frigid",
+                "icy",
+                "cool"
+            ]
+        },
+        {
+            "id": "g3h",
+            "type": "hard",
+            "difficulty": "hard",
+            "title": "generous/beneficent expressions",
+            "words": [
+                "benevolent",
+                "altruistic",
+                "philanthropic",
+                "magnanimous"
+            ]
+        },
+        {
+            "id": "g3vh",
+            "type": "very-hard",
+            "difficulty": "very_hard",
+            "title": "dark/eerie descriptors",
+            "words": [
+                "eldritch",
+                "tenebrous",
+                "nocturnal",
+                "occult"
+            ]
+        }
+    ]
 }

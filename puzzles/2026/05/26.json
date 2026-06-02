@@ -1,53 +1,53 @@
 {
-  "date": "2026-05-26",
-  "groups": [
-    {
-      "id": "g1",
-      "type": "synonym",
-      "difficulty": "easy",
-      "title": "swords and edges",
-      "words": [
-        "blade",
-        "brand",
-        "steel",
-        "sword"
-      ]
-    },
-    {
-      "id": "g2",
-      "type": "physical_trait",
-      "difficulty": "medium",
-      "title": "murky conditions",
-      "words": [
-        "murky",
-        "dingy",
-        "somber",
-        "dreary"
-      ]
-    },
-    {
-      "id": "g3",
-      "type": "literary_register",
-      "difficulty": "hard",
-      "title": "an elegant way to say “to move slowly”",
-      "words": [
-        "stroll",
-        "wander",
-        "ramble",
-        "roam"
-      ]
-    },
-    {
-      "id": "g4",
-      "type": "sound_association",
-      "difficulty": "very_hard",
-      "title": "close to a word for “owl” (and its echoes)",
-      "words": [
-        "hoot",
-        "caw",
-        "chime",
-        "clatter"
-      ]
-    }
-  ]
+    "date": "2026-05-26",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "synonym",
+            "difficulty": "easy",
+            "title": "swords and edges",
+            "words": [
+                "blade",
+                "brand",
+                "steel",
+                "sword"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "physical_trait",
+            "difficulty": "medium",
+            "title": "murky conditions",
+            "words": [
+                "murky",
+                "dingy",
+                "somber",
+                "dreary"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "literary_register",
+            "difficulty": "hard",
+            "title": "an elegant way to say “to move slowly”",
+            "words": [
+                "stroll",
+                "wander",
+                "ramble",
+                "roam"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "sound_association",
+            "difficulty": "very_hard",
+            "title": "close to a word for “owl” (and its echoes)",
+            "words": [
+                "hoot",
+                "caw",
+                "chime",
+                "clatter"
+            ]
+        }
+    ]
 }

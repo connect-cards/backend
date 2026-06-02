@@ -1,53 +1,53 @@
 {
-  "date": "2026-06-30",
-  "groups": [
-    {
-      "id": "g1",
-      "type": "easy",
-      "difficulty": "easy",
-      "title": "metal artifacts",
-      "words": [
-        "blade",
-        "sword",
-        "steel",
-        "brand"
-      ]
-    },
-    {
-      "id": "g2",
-      "type": "medium",
-      "difficulty": "medium",
-      "title": "overcoming unease",
-      "words": [
-        "steady",
-        "buoyant",
-        "reassure",
-        "bolster"
-      ]
-    },
-    {
-      "id": "g3",
-      "type": "hard",
-      "difficulty": "hard",
-      "title": "clever restraint",
-      "words": [
-        "laconic",
-        "terse",
-        "curt",
-        "brusque"
-      ]
-    },
-    {
-      "id": "g4",
-      "type": "very-hard",
-      "difficulty": "very_hard",
-      "title": "words for a resolved decline",
-      "words": [
-        "abjure",
-        "revoke",
-        "renounce",
-        "withdrawal"
-      ]
-    }
-  ]
+    "date": "2026-06-30",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "easy",
+            "difficulty": "easy",
+            "title": "metal artifacts",
+            "words": [
+                "blade",
+                "sword",
+                "steel",
+                "brand"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "medium",
+            "difficulty": "medium",
+            "title": "overcoming unease",
+            "words": [
+                "steady",
+                "buoyant",
+                "reassure",
+                "bolster"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "hard",
+            "difficulty": "hard",
+            "title": "clever restraint",
+            "words": [
+                "laconic",
+                "terse",
+                "curt",
+                "brusque"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "very-hard",
+            "difficulty": "very_hard",
+            "title": "words for a resolved decline",
+            "words": [
+                "abjure",
+                "revoke",
+                "renounce",
+                "withdrawal"
+            ]
+        }
+    ]
 }

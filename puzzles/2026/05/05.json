@@ -1,53 +1,53 @@
 {
-  "date": "2026-05-05",
-  "groups": [
-    {
-      "id": "p1_easy",
-      "type": "easy",
-      "difficulty": "easy",
-      "title": "tools",
-      "words": [
-        "blade",
-        "knife",
-        "saw",
-        "sword"
-      ]
-    },
-    {
-      "id": "p1_medium",
-      "type": "medium",
-      "difficulty": "medium",
-      "title": "man terms",
-      "words": [
-        "bloke",
-        "chap",
-        "lad",
-        "fella"
-      ]
-    },
-    {
-      "id": "p1_hard",
-      "type": "hard",
-      "difficulty": "hard",
-      "title": "brevity",
-      "words": [
-        "laconic",
-        "terse",
-        "succinct",
-        "curt"
-      ]
-    },
-    {
-      "id": "p1_veryhard",
-      "type": "very-hard",
-      "difficulty": "very_hard",
-      "title": "eeriness",
-      "words": [
-        "eldritch",
-        "uncanny",
-        "unearthly",
-        "weird"
-      ]
-    }
-  ]
+    "date": "2026-05-05",
+    "groups": [
+        {
+            "id": "p1_easy",
+            "type": "easy",
+            "difficulty": "easy",
+            "title": "tools",
+            "words": [
+                "blade",
+                "knife",
+                "saw",
+                "sword"
+            ]
+        },
+        {
+            "id": "p1_medium",
+            "type": "medium",
+            "difficulty": "medium",
+            "title": "man terms",
+            "words": [
+                "bloke",
+                "chap",
+                "lad",
+                "fella"
+            ]
+        },
+        {
+            "id": "p1_hard",
+            "type": "hard",
+            "difficulty": "hard",
+            "title": "brevity",
+            "words": [
+                "laconic",
+                "terse",
+                "succinct",
+                "curt"
+            ]
+        },
+        {
+            "id": "p1_veryhard",
+            "type": "very-hard",
+            "difficulty": "very_hard",
+            "title": "eeriness",
+            "words": [
+                "eldritch",
+                "uncanny",
+                "unearthly",
+                "weird"
+            ]
+        }
+    ]
 }

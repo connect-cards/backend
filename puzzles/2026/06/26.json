@@ -1,53 +1,53 @@
 {
-  "date": "2026-06-26",
-  "groups": [
-    {
-      "id": "g1",
-      "type": "semantic_field",
-      "difficulty": "easy",
-      "title": "tools of persuasion",
-      "words": [
-        "induce",
-        "urge",
-        "persuade",
-        "entreat"
-      ]
-    },
-    {
-      "id": "g2",
-      "type": "morphological_family",
-      "difficulty": "medium",
-      "title": "chill and frost",
-      "words": [
-        "frosted",
-        "icicle",
-        "wintry",
-        "glacier"
-      ]
-    },
-    {
-      "id": "g3",
-      "type": "thematic_association",
-      "difficulty": "hard",
-      "title": "mist over meaning",
-      "words": [
-        "obscure",
-        "murky",
-        "ambiguous",
-        "equivocal"
-      ]
-    },
-    {
-      "id": "g4",
-      "type": "sound_association",
-      "difficulty": "very_hard",
-      "title": "sibilant shadows",
-      "words": [
-        "hiss",
-        "sizzle",
-        "whisper",
-        "hush"
-      ]
-    }
-  ]
+    "date": "2026-06-26",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "semantic_field",
+            "difficulty": "easy",
+            "title": "tools of persuasion",
+            "words": [
+                "induce",
+                "urge",
+                "persuade",
+                "entreat"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "morphological_family",
+            "difficulty": "medium",
+            "title": "chill and frost",
+            "words": [
+                "frosted",
+                "icicle",
+                "wintry",
+                "glacier"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "thematic_association",
+            "difficulty": "hard",
+            "title": "mist over meaning",
+            "words": [
+                "obscure",
+                "murky",
+                "ambiguous",
+                "equivocal"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "sound_association",
+            "difficulty": "very_hard",
+            "title": "sibilant shadows",
+            "words": [
+                "hiss",
+                "sizzle",
+                "whisper",
+                "hush"
+            ]
+        }
+    ]
 }

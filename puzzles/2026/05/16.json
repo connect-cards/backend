@@ -1,53 +1,53 @@
 {
-  "date": "2026-05-16",
-  "groups": [
-    {
-      "id": "D4G1",
-      "type": "easy",
-      "difficulty": "easy",
-      "title": "mood synonyms",
-      "words": [
-        "happy",
-        "merry",
-        "joyous",
-        "elated"
-      ]
-    },
-    {
-      "id": "D4G2",
-      "type": "medium",
-      "difficulty": "medium",
-      "title": "professions",
-      "words": [
-        "carpenter",
-        "baker",
-        "physician",
-        "artist"
-      ]
-    },
-    {
-      "id": "D4G3",
-      "type": "hard",
-      "difficulty": "hard",
-      "title": "emotional tone descriptors",
-      "words": [
-        "melancholy",
-        "somber",
-        "wistful",
-        "tense"
-      ]
-    },
-    {
-      "id": "D4G4",
-      "type": "very-hard",
-      "difficulty": "very_hard",
-      "title": "aud-root etymology",
-      "words": [
-        "audible",
-        "audience",
-        "auditory",
-        "auditor"
-      ]
-    }
-  ]
+    "date": "2026-05-16",
+    "groups": [
+        {
+            "id": "D4G1",
+            "type": "easy",
+            "difficulty": "easy",
+            "title": "mood synonyms",
+            "words": [
+                "happy",
+                "merry",
+                "joyous",
+                "elated"
+            ]
+        },
+        {
+            "id": "D4G2",
+            "type": "medium",
+            "difficulty": "medium",
+            "title": "professions",
+            "words": [
+                "carpenter",
+                "baker",
+                "physician",
+                "artist"
+            ]
+        },
+        {
+            "id": "D4G3",
+            "type": "hard",
+            "difficulty": "hard",
+            "title": "emotional tone descriptors",
+            "words": [
+                "melancholy",
+                "somber",
+                "wistful",
+                "tense"
+            ]
+        },
+        {
+            "id": "D4G4",
+            "type": "very-hard",
+            "difficulty": "very_hard",
+            "title": "aud-root etymology",
+            "words": [
+                "audible",
+                "audience",
+                "auditory",
+                "auditor"
+            ]
+        }
+    ]
 }

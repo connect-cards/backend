@@ -1,53 +1,53 @@
 {
-  "date": "2026-04-17",
-  "groups": [
-    {
-      "id": "g1",
-      "type": "literary_register",
-      "difficulty": "easy",
-      "title": "courtly diction",
-      "words": [
-        "beget",
-        "hence",
-        "whereby",
-        "whilst"
-      ]
-    },
-    {
-      "id": "g2",
-      "type": "thematic_association",
-      "difficulty": "medium",
-      "title": "chain of causation",
-      "words": [
-        "precipitate",
-        "catalyst",
-        "consequence",
-        "corollary"
-      ]
-    },
-    {
-      "id": "g3",
-      "type": "morphological_family",
-      "difficulty": "hard",
-      "title": "reasoned argument",
-      "words": [
-        "ratiocinate",
-        "rationale",
-        "ratiocination",
-        "reasonable"
-      ]
-    },
-    {
-      "id": "g4",
-      "type": "etymological_relation",
-      "difficulty": "very_hard",
-      "title": "concerning vision and revelation",
-      "words": [
-        "lucid",
-        "illumined",
-        "lucency",
-        "reveal"
-      ]
-    }
-  ]
+    "date": "2026-04-17",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "literary_register",
+            "difficulty": "easy",
+            "title": "courtly diction",
+            "words": [
+                "beget",
+                "hence",
+                "whereby",
+                "whilst"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "thematic_association",
+            "difficulty": "medium",
+            "title": "chain of causation",
+            "words": [
+                "precipitate",
+                "catalyst",
+                "consequence",
+                "corollary"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "morphological_family",
+            "difficulty": "hard",
+            "title": "reasoned argument",
+            "words": [
+                "ratiocinate",
+                "rationale",
+                "ratiocination",
+                "reasonable"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "etymological_relation",
+            "difficulty": "very_hard",
+            "title": "concerning vision and revelation",
+            "words": [
+                "lucid",
+                "illumined",
+                "lucency",
+                "reveal"
+            ]
+        }
+    ]
 }

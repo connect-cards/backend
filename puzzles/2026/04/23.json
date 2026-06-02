@@ -1,53 +1,53 @@
 {
-  "date": "2026-04-23",
-  "groups": [
-    {
-      "id": "g1",
-      "type": "literary_register",
-      "difficulty": "easy",
-      "title": "ways to move on foot",
-      "words": [
-        "stroll",
-        "amble",
-        "wander",
-        "strut"
-      ]
-    },
-    {
-      "id": "g2",
-      "type": "semantic_field",
-      "difficulty": "medium",
-      "title": "light and its interruption",
-      "words": [
-        "glare",
-        "haze",
-        "gloom",
-        "shadow"
-      ]
-    },
-    {
-      "id": "g3",
-      "type": "informal_register",
-      "difficulty": "hard",
-      "title": "casual names for a person",
-      "words": [
-        "chap",
-        "bloke",
-        "lad",
-        "fella"
-      ]
-    },
-    {
-      "id": "g4",
-      "type": "morphological_family",
-      "difficulty": "very_hard",
-      "title": "from “to see through”",
-      "words": [
-        "discern",
-        "distinguish",
-        "perceive",
-        "conjecture"
-      ]
-    }
-  ]
+    "date": "2026-04-23",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "literary_register",
+            "difficulty": "easy",
+            "title": "ways to move on foot",
+            "words": [
+                "stroll",
+                "amble",
+                "wander",
+                "strut"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "semantic_field",
+            "difficulty": "medium",
+            "title": "light and its interruption",
+            "words": [
+                "glare",
+                "haze",
+                "gloom",
+                "shadow"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "informal_register",
+            "difficulty": "hard",
+            "title": "casual names for a person",
+            "words": [
+                "chap",
+                "bloke",
+                "lad",
+                "fella"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "morphological_family",
+            "difficulty": "very_hard",
+            "title": "from “to see through”",
+            "words": [
+                "discern",
+                "distinguish",
+                "perceive",
+                "conjecture"
+            ]
+        }
+    ]
 }

@@ -1,53 +1,53 @@
 {
-  "date": "2026-06-27",
-  "groups": [
-    {
-      "id": "g1",
-      "type": "semantic_field",
-      "difficulty": "easy",
-      "title": "clear and careful",
-      "words": [
-        "clarify",
-        "resolve",
-        "decipher",
-        "dispel"
-      ]
-    },
-    {
-      "id": "g2",
-      "type": "emotional_tone",
-      "difficulty": "medium",
-      "title": "brief annoyance",
-      "words": [
-        "irritation",
-        "annoyance",
-        "annoyed",
-        "exasperation"
-      ]
-    },
-    {
-      "id": "g3",
-      "type": "morphological_family",
-      "difficulty": "hard",
-      "title": "wordings that dodge",
-      "words": [
-        "equivocate",
-        "evasive",
-        "equivocation",
-        "equivocal"
-      ]
-    },
-    {
-      "id": "g4",
-      "type": "synonym",
-      "difficulty": "very_hard",
-      "title": "severe",
-      "words": [
-        "implacable",
-        "relentless",
-        "unforgiving",
-        "incorrigible"
-      ]
-    }
-  ]
+    "date": "2026-06-27",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "semantic_field",
+            "difficulty": "easy",
+            "title": "clear and careful",
+            "words": [
+                "clarify",
+                "resolve",
+                "decipher",
+                "dispel"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "emotional_tone",
+            "difficulty": "medium",
+            "title": "brief annoyance",
+            "words": [
+                "irritation",
+                "annoyance",
+                "annoyed",
+                "exasperation"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "morphological_family",
+            "difficulty": "hard",
+            "title": "wordings that dodge",
+            "words": [
+                "equivocate",
+                "evasive",
+                "equivocation",
+                "equivocal"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "synonym",
+            "difficulty": "very_hard",
+            "title": "severe",
+            "words": [
+                "implacable",
+                "relentless",
+                "unforgiving",
+                "incorrigible"
+            ]
+        }
+    ]
 }

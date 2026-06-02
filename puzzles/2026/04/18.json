@@ -1,53 +1,53 @@
 {
-  "date": "2026-04-18",
-  "groups": [
-    {
-      "id": "g1",
-      "type": "physical_trait",
-      "difficulty": "easy",
-      "title": "texture of lightness",
-      "words": [
-        "silken",
-        "feathery",
-        "airy",
-        "gossamer"
-      ]
-    },
-    {
-      "id": "g2",
-      "type": "sound_association",
-      "difficulty": "medium",
-      "title": "low, muffled noises",
-      "words": [
-        "murmur",
-        "muffle",
-        "rumble",
-        "hush"
-      ]
-    },
-    {
-      "id": "g3",
-      "type": "informal_register",
-      "difficulty": "hard",
-      "title": "casual evaluation",
-      "words": [
-        "dodgy",
-        "sketchy",
-        "shoddy",
-        "shabby"
-      ]
-    },
-    {
-      "id": "g4",
-      "type": "semantic_field",
-      "difficulty": "very_hard",
-      "title": "subtle suspicion about truth",
-      "words": [
-        "equivocal",
-        "tenuous",
-        "dubious",
-        "specious"
-      ]
-    }
-  ]
+    "date": "2026-04-18",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "physical_trait",
+            "difficulty": "easy",
+            "title": "texture of lightness",
+            "words": [
+                "silken",
+                "feathery",
+                "airy",
+                "gossamer"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "sound_association",
+            "difficulty": "medium",
+            "title": "low, muffled noises",
+            "words": [
+                "murmur",
+                "muffle",
+                "rumble",
+                "hush"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "informal_register",
+            "difficulty": "hard",
+            "title": "casual evaluation",
+            "words": [
+                "dodgy",
+                "sketchy",
+                "shoddy",
+                "shabby"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "semantic_field",
+            "difficulty": "very_hard",
+            "title": "subtle suspicion about truth",
+            "words": [
+                "equivocal",
+                "tenuous",
+                "dubious",
+                "specious"
+            ]
+        }
+    ]
 }

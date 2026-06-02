@@ -1,53 +1,53 @@
 {
-  "date": "2026-05-22",
-  "groups": [
-    {
-      "id": "g4e",
-      "type": "easy",
-      "difficulty": "easy",
-      "title": "fruits",
-      "words": [
-        "apple",
-        "banana",
-        "grape",
-        "orange"
-      ]
-    },
-    {
-      "id": "g4m",
-      "type": "medium",
-      "difficulty": "medium",
-      "title": "observe/look",
-      "words": [
-        "watch",
-        "peer",
-        "gaze",
-        "ogle"
-      ]
-    },
-    {
-      "id": "g4h",
-      "type": "hard",
-      "difficulty": "hard",
-      "title": "justice/equity terms",
-      "words": [
-        "equity",
-        "parity",
-        "impartiality",
-        "fairness"
-      ]
-    },
-    {
-      "id": "g4vh",
-      "type": "very-hard",
-      "difficulty": "very_hard",
-      "title": "rare lexical items",
-      "words": [
-        "zephyr",
-        "susurrus",
-        "petrichor",
-        "exeunt"
-      ]
-    }
-  ]
+    "date": "2026-05-22",
+    "groups": [
+        {
+            "id": "g4e",
+            "type": "easy",
+            "difficulty": "easy",
+            "title": "fruits",
+            "words": [
+                "apple",
+                "banana",
+                "grape",
+                "orange"
+            ]
+        },
+        {
+            "id": "g4m",
+            "type": "medium",
+            "difficulty": "medium",
+            "title": "observe/look",
+            "words": [
+                "watch",
+                "peer",
+                "gaze",
+                "ogle"
+            ]
+        },
+        {
+            "id": "g4h",
+            "type": "hard",
+            "difficulty": "hard",
+            "title": "justice/equity terms",
+            "words": [
+                "equity",
+                "parity",
+                "impartiality",
+                "fairness"
+            ]
+        },
+        {
+            "id": "g4vh",
+            "type": "very-hard",
+            "difficulty": "very_hard",
+            "title": "rare lexical items",
+            "words": [
+                "zephyr",
+                "susurrus",
+                "petrichor",
+                "exeunt"
+            ]
+        }
+    ]
 }

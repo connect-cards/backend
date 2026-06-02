@@ -1,53 +1,53 @@
 {
-  "date": "2026-05-04",
-  "groups": [
-    {
-      "id": "g_easy",
-      "type": "easy",
-      "difficulty": "easy",
-      "title": "common apparel",
-      "words": [
-        "hat",
-        "coat",
-        "sock",
-        "boot"
-      ]
-    },
-    {
-      "id": "g_medium",
-      "type": "medium",
-      "difficulty": "medium",
-      "title": "a male person",
-      "words": [
-        "bloke",
-        "chap",
-        "lad",
-        "fella"
-      ]
-    },
-    {
-      "id": "g_hard",
-      "type": "hard",
-      "difficulty": "hard",
-      "title": "brevity",
-      "words": [
-        "laconic",
-        "curt",
-        "terse",
-        "brusque"
-      ]
-    },
-    {
-      "id": "g_vhard",
-      "type": "very-hard",
-      "difficulty": "very_hard",
-      "title": "triadic",
-      "words": [
-        "tercet",
-        "terzetto",
-        "ternion",
-        "trine"
-      ]
-    }
-  ]
+    "date": "2026-05-04",
+    "groups": [
+        {
+            "id": "g_easy",
+            "type": "easy",
+            "difficulty": "easy",
+            "title": "common apparel",
+            "words": [
+                "hat",
+                "coat",
+                "sock",
+                "boot"
+            ]
+        },
+        {
+            "id": "g_medium",
+            "type": "medium",
+            "difficulty": "medium",
+            "title": "a male person",
+            "words": [
+                "bloke",
+                "chap",
+                "lad",
+                "fella"
+            ]
+        },
+        {
+            "id": "g_hard",
+            "type": "hard",
+            "difficulty": "hard",
+            "title": "brevity",
+            "words": [
+                "laconic",
+                "curt",
+                "terse",
+                "brusque"
+            ]
+        },
+        {
+            "id": "g_vhard",
+            "type": "very-hard",
+            "difficulty": "very_hard",
+            "title": "triadic",
+            "words": [
+                "tercet",
+                "terzetto",
+                "ternion",
+                "trine"
+            ]
+        }
+    ]
 }

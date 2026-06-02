@@ -1,53 +1,53 @@
 {
-  "date": "2026-06-03",
-  "groups": [
-    {
-      "id": "d3-easy",
-      "type": "profession_domain",
-      "difficulty": "easy",
-      "title": "journalistic craft",
-      "words": [
-        "editorial",
-        "byline",
-        "column",
-        "reportage"
-      ]
-    },
-    {
-      "id": "d3-medium",
-      "type": "synonym",
-      "difficulty": "medium",
-      "title": "close in meaning, different shades",
-      "words": [
-        "bewilder",
-        "confound",
-        "astonish",
-        "stun"
-      ]
-    },
-    {
-      "id": "d3-hard",
-      "type": "literary_register",
-      "difficulty": "hard",
-      "title": "poetic movements",
-      "words": [
-        "threnody",
-        "canto",
-        "sonnet",
-        "tercet"
-      ]
-    },
-    {
-      "id": "d3-very-hard",
-      "type": "sound_association",
-      "difficulty": "very_hard",
-      "title": "archaic, ominous aura",
-      "words": [
-        "eldritch",
-        "uncanny",
-        "unearthly",
-        "phantasmic"
-      ]
-    }
-  ]
+    "date": "2026-06-03",
+    "groups": [
+        {
+            "id": "d3-easy",
+            "type": "profession_domain",
+            "difficulty": "easy",
+            "title": "journalistic craft",
+            "words": [
+                "editorial",
+                "byline",
+                "column",
+                "reportage"
+            ]
+        },
+        {
+            "id": "d3-medium",
+            "type": "synonym",
+            "difficulty": "medium",
+            "title": "close in meaning, different shades",
+            "words": [
+                "bewilder",
+                "confound",
+                "astonish",
+                "stun"
+            ]
+        },
+        {
+            "id": "d3-hard",
+            "type": "literary_register",
+            "difficulty": "hard",
+            "title": "poetic movements",
+            "words": [
+                "threnody",
+                "canto",
+                "sonnet",
+                "tercet"
+            ]
+        },
+        {
+            "id": "d3-very-hard",
+            "type": "sound_association",
+            "difficulty": "very_hard",
+            "title": "archaic, ominous aura",
+            "words": [
+                "eldritch",
+                "uncanny",
+                "unearthly",
+                "phantasmic"
+            ]
+        }
+    ]
 }

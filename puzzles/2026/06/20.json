@@ -1,53 +1,53 @@
 {
-  "date": "2026-06-20",
-  "groups": [
-    {
-      "id": "d20-e",
-      "type": "semantic_field",
-      "difficulty": "easy",
-      "title": "signs of weathering",
-      "words": [
-        "decay",
-        "rot",
-        "corrode",
-        "erode"
-      ]
-    },
-    {
-      "id": "d20-m",
-      "type": "etymological_relation",
-      "difficulty": "medium",
-      "title": "speaking plainly",
-      "words": [
-        "say",
-        "utter",
-        "recount",
-        "relate"
-      ]
-    },
-    {
-      "id": "d20-h",
-      "type": "informal_register",
-      "difficulty": "hard",
-      "title": "difficult to please",
-      "words": [
-        "picky",
-        "finicky",
-        "fussy",
-        "choosy"
-      ]
-    },
-    {
-      "id": "d20-v",
-      "type": "thematic_association",
-      "difficulty": "very_hard",
-      "title": "faintly uncanny",
-      "words": [
-        "eldritch",
-        "unearthly",
-        "uncanny",
-        "otherworldly"
-      ]
-    }
-  ]
+    "date": "2026-06-20",
+    "groups": [
+        {
+            "id": "d20-e",
+            "type": "semantic_field",
+            "difficulty": "easy",
+            "title": "signs of weathering",
+            "words": [
+                "decay",
+                "rot",
+                "corrode",
+                "erode"
+            ]
+        },
+        {
+            "id": "d20-m",
+            "type": "etymological_relation",
+            "difficulty": "medium",
+            "title": "speaking plainly",
+            "words": [
+                "say",
+                "utter",
+                "recount",
+                "relate"
+            ]
+        },
+        {
+            "id": "d20-h",
+            "type": "informal_register",
+            "difficulty": "hard",
+            "title": "difficult to please",
+            "words": [
+                "picky",
+                "finicky",
+                "fussy",
+                "choosy"
+            ]
+        },
+        {
+            "id": "d20-v",
+            "type": "thematic_association",
+            "difficulty": "very_hard",
+            "title": "faintly uncanny",
+            "words": [
+                "eldritch",
+                "unearthly",
+                "uncanny",
+                "otherworldly"
+            ]
+        }
+    ]
 }

@@ -1,53 +1,53 @@
 {
-  "date": "2026-05-30",
-  "groups": [
-    {
-      "id": "G1",
-      "type": "emotional_tone",
-      "difficulty": "easy",
-      "title": "tone",
-      "words": [
-        "calm",
-        "cheerful",
-        "anxious",
-        "tense"
-      ]
-    },
-    {
-      "id": "G2",
-      "type": "semantic_field",
-      "difficulty": "medium",
-      "title": "field",
-      "words": [
-        "iris",
-        "lilac",
-        "poppy",
-        "tulip"
-      ]
-    },
-    {
-      "id": "G3",
-      "type": "morphological_family",
-      "difficulty": "hard",
-      "title": "morphology",
-      "words": [
-        "import",
-        "export",
-        "portable",
-        "porter"
-      ]
-    },
-    {
-      "id": "G4",
-      "type": "synonym",
-      "difficulty": "very_hard",
-      "title": "synonym",
-      "words": [
-        "guffaw",
-        "chortle",
-        "snicker",
-        "giggle"
-      ]
-    }
-  ]
+    "date": "2026-05-30",
+    "groups": [
+        {
+            "id": "G1",
+            "type": "emotional_tone",
+            "difficulty": "easy",
+            "title": "tone",
+            "words": [
+                "calm",
+                "cheerful",
+                "anxious",
+                "tense"
+            ]
+        },
+        {
+            "id": "G2",
+            "type": "semantic_field",
+            "difficulty": "medium",
+            "title": "field",
+            "words": [
+                "iris",
+                "lilac",
+                "poppy",
+                "tulip"
+            ]
+        },
+        {
+            "id": "G3",
+            "type": "morphological_family",
+            "difficulty": "hard",
+            "title": "morphology",
+            "words": [
+                "import",
+                "export",
+                "portable",
+                "porter"
+            ]
+        },
+        {
+            "id": "G4",
+            "type": "synonym",
+            "difficulty": "very_hard",
+            "title": "synonym",
+            "words": [
+                "guffaw",
+                "chortle",
+                "snicker",
+                "giggle"
+            ]
+        }
+    ]
 }

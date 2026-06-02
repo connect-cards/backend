@@ -1,53 +1,53 @@
 {
-  "date": "2026-04-04",
-  "groups": [
-    {
-      "id": "g1",
-      "type": "profession_domain",
-      "difficulty": "easy",
-      "title": "maritime navigation",
-      "words": [
-        "navigator",
-        "navigator's",
-        "seamanship",
-        "cartology"
-      ]
-    },
-    {
-      "id": "g2",
-      "type": "sound_association",
-      "difficulty": "medium",
-      "title": "sudden collapse sounds",
-      "words": [
-        "crash",
-        "splinter",
-        "collapse",
-        "carom"
-      ]
-    },
-    {
-      "id": "g3",
-      "type": "physical_trait",
-      "difficulty": "hard",
-      "title": "marked by crust or flake",
-      "words": [
-        "scaly",
-        "callused",
-        "crusted",
-        "flaky"
-      ]
-    },
-    {
-      "id": "g4",
-      "type": "literary_register",
-      "difficulty": "very_hard",
-      "title": "archeic stealthy tone",
-      "words": [
-        "eldritch",
-        "uncanny",
-        "unearthly",
-        "chthonic"
-      ]
-    }
-  ]
+    "date": "2026-04-04",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "profession_domain",
+            "difficulty": "easy",
+            "title": "maritime navigation",
+            "words": [
+                "navigator",
+                "navigator's",
+                "seamanship",
+                "cartology"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "sound_association",
+            "difficulty": "medium",
+            "title": "sudden collapse sounds",
+            "words": [
+                "crash",
+                "splinter",
+                "collapse",
+                "carom"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "physical_trait",
+            "difficulty": "hard",
+            "title": "marked by crust or flake",
+            "words": [
+                "scaly",
+                "callused",
+                "crusted",
+                "flaky"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "literary_register",
+            "difficulty": "very_hard",
+            "title": "archeic stealthy tone",
+            "words": [
+                "eldritch",
+                "uncanny",
+                "unearthly",
+                "chthonic"
+            ]
+        }
+    ]
 }

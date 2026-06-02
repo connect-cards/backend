@@ -1,53 +1,53 @@
 {
-  "date": "2026-06-18",
-  "groups": [
-    {
-      "id": "d18-e",
-      "type": "semantic_field",
-      "difficulty": "easy",
-      "title": "light on the water",
-      "words": [
-        "glitter",
-        "sparkle",
-        "gleam",
-        "shimmer"
-      ]
-    },
-    {
-      "id": "d18-m",
-      "type": "morphological_family",
-      "difficulty": "medium",
-      "title": "the act of reading",
-      "words": [
-        "interpret",
-        "exegesis",
-        "annotate",
-        "commentary"
-      ]
-    },
-    {
-      "id": "d18-h",
-      "type": "profession_domain",
-      "difficulty": "hard",
-      "title": "lawyers of fact",
-      "words": [
-        "forensic",
-        "litigator",
-        "prosecutor",
-        "testifier"
-      ]
-    },
-    {
-      "id": "d18-v",
-      "type": "thematic_association",
-      "difficulty": "very_hard",
-      "title": "doubt and misgiving",
-      "words": [
-        "skepticism",
-        "mistrust",
-        "suspicions",
-        "misgiving"
-      ]
-    }
-  ]
+    "date": "2026-06-18",
+    "groups": [
+        {
+            "id": "d18-e",
+            "type": "semantic_field",
+            "difficulty": "easy",
+            "title": "light on the water",
+            "words": [
+                "glitter",
+                "sparkle",
+                "gleam",
+                "shimmer"
+            ]
+        },
+        {
+            "id": "d18-m",
+            "type": "morphological_family",
+            "difficulty": "medium",
+            "title": "the act of reading",
+            "words": [
+                "interpret",
+                "exegesis",
+                "annotate",
+                "commentary"
+            ]
+        },
+        {
+            "id": "d18-h",
+            "type": "profession_domain",
+            "difficulty": "hard",
+            "title": "lawyers of fact",
+            "words": [
+                "forensic",
+                "litigator",
+                "prosecutor",
+                "testifier"
+            ]
+        },
+        {
+            "id": "d18-v",
+            "type": "thematic_association",
+            "difficulty": "very_hard",
+            "title": "doubt and misgiving",
+            "words": [
+                "skepticism",
+                "mistrust",
+                "suspicions",
+                "misgiving"
+            ]
+        }
+    ]
 }

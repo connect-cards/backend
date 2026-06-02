@@ -1,53 +1,53 @@
 {
-  "date": "2026-05-07",
-  "groups": [
-    {
-      "id": "p3_easy",
-      "type": "easy",
-      "difficulty": "easy",
-      "title": "greetings",
-      "words": [
-        "hello",
-        "hi",
-        "hey",
-        "yo"
-      ]
-    },
-    {
-      "id": "p3_medium",
-      "type": "medium",
-      "difficulty": "medium",
-      "title": "act root",
-      "words": [
-        "actor",
-        "action",
-        "active",
-        "activate"
-      ]
-    },
-    {
-      "id": "p3_hard",
-      "type": "hard",
-      "difficulty": "hard",
-      "title": "emotional tone",
-      "words": [
-        "melancholic",
-        "solemn",
-        "cheerful",
-        "ironic"
-      ]
-    },
-    {
-      "id": "p3_veryhard",
-      "type": "very-hard",
-      "difficulty": "very_hard",
-      "title": "onomatopoeia",
-      "words": [
-        "clang",
-        "hum",
-        "chirp",
-        "buzz"
-      ]
-    }
-  ]
+    "date": "2026-05-07",
+    "groups": [
+        {
+            "id": "p3_easy",
+            "type": "easy",
+            "difficulty": "easy",
+            "title": "greetings",
+            "words": [
+                "hello",
+                "hi",
+                "hey",
+                "yo"
+            ]
+        },
+        {
+            "id": "p3_medium",
+            "type": "medium",
+            "difficulty": "medium",
+            "title": "act root",
+            "words": [
+                "actor",
+                "action",
+                "active",
+                "activate"
+            ]
+        },
+        {
+            "id": "p3_hard",
+            "type": "hard",
+            "difficulty": "hard",
+            "title": "emotional tone",
+            "words": [
+                "melancholic",
+                "solemn",
+                "cheerful",
+                "ironic"
+            ]
+        },
+        {
+            "id": "p3_veryhard",
+            "type": "very-hard",
+            "difficulty": "very_hard",
+            "title": "onomatopoeia",
+            "words": [
+                "clang",
+                "hum",
+                "chirp",
+                "buzz"
+            ]
+        }
+    ]
 }

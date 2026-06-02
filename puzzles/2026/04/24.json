@@ -1,53 +1,53 @@
 {
-  "date": "2026-04-24",
-  "groups": [
-    {
-      "id": "g1",
-      "type": "thematic_association",
-      "difficulty": "easy",
-      "title": "small kinds of conflict or disorder",
-      "words": [
-        "scuffle",
-        "tussle",
-        "skirmish",
-        "brawl"
-      ]
-    },
-    {
-      "id": "g2",
-      "type": "etymological_relation",
-      "difficulty": "medium",
-      "title": "from the latin for “to bind”",
-      "words": [
-        "implicate",
-        "compel",
-        "constrain",
-        "inhibit"
-      ]
-    },
-    {
-      "id": "g3",
-      "type": "literary_register",
-      "difficulty": "hard",
-      "title": "tidy, lawlike statements",
-      "words": [
-        "terse",
-        "laconic",
-        "judicious",
-        "sententious"
-      ]
-    },
-    {
-      "id": "g4",
-      "type": "synonym",
-      "difficulty": "very_hard",
-      "title": "ruthless, relentless",
-      "words": [
-        "merciless",
-        "implacable",
-        "stern",
-        "unrelenting"
-      ]
-    }
-  ]
+    "date": "2026-04-24",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "thematic_association",
+            "difficulty": "easy",
+            "title": "small kinds of conflict or disorder",
+            "words": [
+                "scuffle",
+                "tussle",
+                "skirmish",
+                "brawl"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "etymological_relation",
+            "difficulty": "medium",
+            "title": "from the latin for “to bind”",
+            "words": [
+                "implicate",
+                "compel",
+                "constrain",
+                "inhibit"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "literary_register",
+            "difficulty": "hard",
+            "title": "tidy, lawlike statements",
+            "words": [
+                "terse",
+                "laconic",
+                "judicious",
+                "sententious"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "synonym",
+            "difficulty": "very_hard",
+            "title": "ruthless, relentless",
+            "words": [
+                "merciless",
+                "implacable",
+                "stern",
+                "unrelenting"
+            ]
+        }
+    ]
 }

@@ -1,53 +1,53 @@
 {
-  "date": "2026-04-02",
-  "groups": [
-    {
-      "id": "g1",
-      "type": "physical_trait",
-      "difficulty": "easy",
-      "title": "kinds of dimness",
-      "words": [
-        "murky",
-        "dismal",
-        "dingy",
-        "hazy"
-      ]
-    },
-    {
-      "id": "g2",
-      "type": "profession_domain",
-      "difficulty": "medium",
-      "title": "medical diagnostics",
-      "words": [
-        "pathologist",
-        "radiologist",
-        "clinician",
-        "triage"
-      ]
-    },
-    {
-      "id": "g3",
-      "type": "thematic_association",
-      "difficulty": "hard",
-      "title": "biblical-judgment imagery",
-      "words": [
-        "retribution",
-        "judgment",
-        "atonement",
-        "wrath"
-      ]
-    },
-    {
-      "id": "g4",
-      "type": "synonym",
-      "difficulty": "very_hard",
-      "title": "resist with delaying tactics",
-      "words": [
-        "obviate",
-        "stall",
-        "evade",
-        "prevaricate"
-      ]
-    }
-  ]
+    "date": "2026-04-02",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "physical_trait",
+            "difficulty": "easy",
+            "title": "kinds of dimness",
+            "words": [
+                "murky",
+                "dismal",
+                "dingy",
+                "hazy"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "profession_domain",
+            "difficulty": "medium",
+            "title": "medical diagnostics",
+            "words": [
+                "pathologist",
+                "radiologist",
+                "clinician",
+                "triage"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "thematic_association",
+            "difficulty": "hard",
+            "title": "biblical-judgment imagery",
+            "words": [
+                "retribution",
+                "judgment",
+                "atonement",
+                "wrath"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "synonym",
+            "difficulty": "very_hard",
+            "title": "resist with delaying tactics",
+            "words": [
+                "obviate",
+                "stall",
+                "evade",
+                "prevaricate"
+            ]
+        }
+    ]
 }

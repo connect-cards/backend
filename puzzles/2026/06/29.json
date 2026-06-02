@@ -1,53 +1,53 @@
 {
-  "date": "2026-06-29",
-  "groups": [
-    {
-      "id": "g1",
-      "type": "thematic_association",
-      "difficulty": "easy",
-      "title": "light and illumination",
-      "words": [
-        "radiance",
-        "luminance",
-        "glimmer",
-        "effulgence"
-      ]
-    },
-    {
-      "id": "g2",
-      "type": "profession_domain",
-      "difficulty": "medium",
-      "title": "law and court procedure",
-      "words": [
-        "plaintiff",
-        "juror",
-        "subpoena",
-        "litigation"
-      ]
-    },
-    {
-      "id": "g3",
-      "type": "sound_association",
-      "difficulty": "hard",
-      "title": "a sharp, brief kind of sound",
-      "words": [
-        "chirp",
-        "crackle",
-        "clink",
-        "snap"
-      ]
-    },
-    {
-      "id": "g4",
-      "type": "morphological_family",
-      "difficulty": "very_hard",
-      "title": "verb root related to seeking and chasing",
-      "words": [
-        "pursuit",
-        "pursue",
-        "pursuer",
-        "hunted"
-      ]
-    }
-  ]
+    "date": "2026-06-29",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "thematic_association",
+            "difficulty": "easy",
+            "title": "light and illumination",
+            "words": [
+                "radiance",
+                "luminance",
+                "glimmer",
+                "effulgence"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "profession_domain",
+            "difficulty": "medium",
+            "title": "law and court procedure",
+            "words": [
+                "plaintiff",
+                "juror",
+                "subpoena",
+                "litigation"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "sound_association",
+            "difficulty": "hard",
+            "title": "a sharp, brief kind of sound",
+            "words": [
+                "chirp",
+                "crackle",
+                "clink",
+                "snap"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "morphological_family",
+            "difficulty": "very_hard",
+            "title": "verb root related to seeking and chasing",
+            "words": [
+                "pursuit",
+                "pursue",
+                "pursuer",
+                "hunted"
+            ]
+        }
+    ]
 }

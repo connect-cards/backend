@@ -1,53 +1,53 @@
 {
-  "date": "2026-06-08",
-  "groups": [
-    {
-      "id": "D4-E",
-      "type": "thematic_association",
-      "difficulty": "easy",
-      "title": "ways to mislead an audience",
-      "words": [
-        "misdirect",
-        "baffle",
-        "deceive",
-        "camouflage"
-      ]
-    },
-    {
-      "id": "D4-M",
-      "type": "synonym",
-      "difficulty": "medium",
-      "title": "to make less severe",
-      "words": [
-        "mitigate",
-        "alleviate",
-        "moderate",
-        "temper"
-      ]
-    },
-    {
-      "id": "D4-H",
-      "type": "morphological_family",
-      "difficulty": "hard",
-      "title": "words that suggest close attention to detail",
-      "words": [
-        "scrutinize",
-        "discern",
-        "perceive",
-        "distinguish"
-      ]
-    },
-    {
-      "id": "D4-VH",
-      "type": "semantic_field",
-      "difficulty": "very_hard",
-      "title": "rarely used terms for worry or alarm",
-      "words": [
-        "anxiety",
-        "apprehension",
-        "foreboding",
-        "dreadfulness"
-      ]
-    }
-  ]
+    "date": "2026-06-08",
+    "groups": [
+        {
+            "id": "D4-E",
+            "type": "thematic_association",
+            "difficulty": "easy",
+            "title": "ways to mislead an audience",
+            "words": [
+                "misdirect",
+                "baffle",
+                "deceive",
+                "camouflage"
+            ]
+        },
+        {
+            "id": "D4-M",
+            "type": "synonym",
+            "difficulty": "medium",
+            "title": "to make less severe",
+            "words": [
+                "mitigate",
+                "alleviate",
+                "moderate",
+                "temper"
+            ]
+        },
+        {
+            "id": "D4-H",
+            "type": "morphological_family",
+            "difficulty": "hard",
+            "title": "words that suggest close attention to detail",
+            "words": [
+                "scrutinize",
+                "discern",
+                "perceive",
+                "distinguish"
+            ]
+        },
+        {
+            "id": "D4-VH",
+            "type": "semantic_field",
+            "difficulty": "very_hard",
+            "title": "rarely used terms for worry or alarm",
+            "words": [
+                "anxiety",
+                "apprehension",
+                "foreboding",
+                "dreadfulness"
+            ]
+        }
+    ]
 }

@@ -1,53 +1,53 @@
 {
-  "date": "2026-06-06",
-  "groups": [
-    {
-      "id": "D2-E",
-      "type": "morphological_family",
-      "difficulty": "easy",
-      "title": "words for a pause in action (family look-alikes)",
-      "words": [
-        "stasis",
-        "inaction",
-        "stillness",
-        "respite"
-      ]
-    },
-    {
-      "id": "D2-M",
-      "type": "synonym",
-      "difficulty": "medium",
-      "title": "skeptical or doubtful",
-      "words": [
-        "dubious",
-        "canny",
-        "guarded",
-        "wary"
-      ]
-    },
-    {
-      "id": "D2-H",
-      "type": "profession_domain",
-      "difficulty": "hard",
-      "title": "people who draft, revise, and argue texts",
-      "words": [
-        "editor",
-        "jurist",
-        "litigator",
-        "scribe"
-      ]
-    },
-    {
-      "id": "D2-VH",
-      "type": "literary_register",
-      "difficulty": "very_hard",
-      "title": "archaic or elevated ways to describe speech",
-      "words": [
-        "orison",
-        "recant",
-        "imprecation",
-        "invective"
-      ]
-    }
-  ]
+    "date": "2026-06-06",
+    "groups": [
+        {
+            "id": "D2-E",
+            "type": "morphological_family",
+            "difficulty": "easy",
+            "title": "words for a pause in action (family look-alikes)",
+            "words": [
+                "stasis",
+                "inaction",
+                "stillness",
+                "respite"
+            ]
+        },
+        {
+            "id": "D2-M",
+            "type": "synonym",
+            "difficulty": "medium",
+            "title": "skeptical or doubtful",
+            "words": [
+                "dubious",
+                "canny",
+                "guarded",
+                "wary"
+            ]
+        },
+        {
+            "id": "D2-H",
+            "type": "profession_domain",
+            "difficulty": "hard",
+            "title": "people who draft, revise, and argue texts",
+            "words": [
+                "editor",
+                "jurist",
+                "litigator",
+                "scribe"
+            ]
+        },
+        {
+            "id": "D2-VH",
+            "type": "literary_register",
+            "difficulty": "very_hard",
+            "title": "archaic or elevated ways to describe speech",
+            "words": [
+                "orison",
+                "recant",
+                "imprecation",
+                "invective"
+            ]
+        }
+    ]
 }

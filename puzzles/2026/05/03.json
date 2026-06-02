@@ -1,53 +1,53 @@
 {
-  "date": "2026-05-03",
-  "groups": [
-    {
-      "id": "g_easy4",
-      "type": "easy",
-      "difficulty": "easy",
-      "title": "emotional tones",
-      "words": [
-        "elated",
-        "mournful",
-        "irate",
-        "placid"
-      ]
-    },
-    {
-      "id": "g_medium4",
-      "type": "medium",
-      "difficulty": "medium",
-      "title": "religious terms",
-      "words": [
-        "altar",
-        "psalm",
-        "ritual",
-        "shrine"
-      ]
-    },
-    {
-      "id": "g_hard4",
-      "type": "hard",
-      "difficulty": "hard",
-      "title": "slang for friends",
-      "words": [
-        "bros",
-        "bro",
-        "bud",
-        "mate"
-      ]
-    },
-    {
-      "id": "g_vhard4",
-      "type": "very-hard",
-      "difficulty": "very_hard",
-      "title": "bene-",
-      "words": [
-        "benevolent",
-        "benefactor",
-        "benefit",
-        "benison"
-      ]
-    }
-  ]
+    "date": "2026-05-03",
+    "groups": [
+        {
+            "id": "g_easy4",
+            "type": "easy",
+            "difficulty": "easy",
+            "title": "emotional tones",
+            "words": [
+                "elated",
+                "mournful",
+                "irate",
+                "placid"
+            ]
+        },
+        {
+            "id": "g_medium4",
+            "type": "medium",
+            "difficulty": "medium",
+            "title": "religious terms",
+            "words": [
+                "altar",
+                "psalm",
+                "ritual",
+                "shrine"
+            ]
+        },
+        {
+            "id": "g_hard4",
+            "type": "hard",
+            "difficulty": "hard",
+            "title": "slang for friends",
+            "words": [
+                "bros",
+                "bro",
+                "bud",
+                "mate"
+            ]
+        },
+        {
+            "id": "g_vhard4",
+            "type": "very-hard",
+            "difficulty": "very_hard",
+            "title": "bene-",
+            "words": [
+                "benevolent",
+                "benefactor",
+                "benefit",
+                "benison"
+            ]
+        }
+    ]
 }

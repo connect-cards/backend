@@ -1,53 +1,53 @@
 {
-  "date": "2026-04-29",
-  "groups": [
-    {
-      "id": "g1",
-      "type": "morphological_family",
-      "difficulty": "easy",
-      "title": "swords and their makers",
-      "words": [
-        "blade",
-        "swordsmith",
-        "cutlass",
-        "broadsword"
-      ]
-    },
-    {
-      "id": "g2",
-      "type": "profession_domain",
-      "difficulty": "medium",
-      "title": "medical instruments and practitioners",
-      "words": [
-        "stethoscope",
-        "surgeon",
-        "anesthesia",
-        "diagnosis"
-      ]
-    },
-    {
-      "id": "g3",
-      "type": "thematic_association",
-      "difficulty": "hard",
-      "title": "manufactured metal for structures",
-      "words": [
-        "steelwork",
-        "wroughtiron",
-        "beam",
-        "framework"
-      ]
-    },
-    {
-      "id": "g4",
-      "type": "sound_association",
-      "difficulty": "very_hard",
-      "title": "resonant, echoing speech",
-      "words": [
-        "resonant",
-        "cadence",
-        "reverberate",
-        "intonation"
-      ]
-    }
-  ]
+    "date": "2026-04-29",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "morphological_family",
+            "difficulty": "easy",
+            "title": "swords and their makers",
+            "words": [
+                "blade",
+                "swordsmith",
+                "cutlass",
+                "broadsword"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "profession_domain",
+            "difficulty": "medium",
+            "title": "medical instruments and practitioners",
+            "words": [
+                "stethoscope",
+                "surgeon",
+                "anesthesia",
+                "diagnosis"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "thematic_association",
+            "difficulty": "hard",
+            "title": "manufactured metal for structures",
+            "words": [
+                "steelwork",
+                "wroughtiron",
+                "beam",
+                "framework"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "sound_association",
+            "difficulty": "very_hard",
+            "title": "resonant, echoing speech",
+            "words": [
+                "resonant",
+                "cadence",
+                "reverberate",
+                "intonation"
+            ]
+        }
+    ]
 }

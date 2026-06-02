@@ -1,53 +1,53 @@
 {
-  "date": "2026-06-10",
-  "groups": [
-    {
-      "id": "d2-easy",
-      "type": "sound_association",
-      "difficulty": "easy",
-      "title": "soft, steady percussion",
-      "words": [
-        "drum",
-        "tap",
-        "knock",
-        "rattle"
-      ]
-    },
-    {
-      "id": "d2-medium",
-      "type": "emotional_tone",
-      "difficulty": "medium",
-      "title": "deliberately cold",
-      "words": [
-        "icy",
-        "chilly",
-        "frosty",
-        "bleak"
-      ]
-    },
-    {
-      "id": "d2-hard",
-      "type": "synonym",
-      "difficulty": "hard",
-      "title": "to discover by patient reasoning",
-      "words": [
-        "deduce",
-        "infer",
-        "conclude",
-        "ascertain"
-      ]
-    },
-    {
-      "id": "d2-very-hard",
-      "type": "etymological_relation",
-      "difficulty": "very_hard",
-      "title": "converging lines of insight",
-      "words": [
-        "exegesis",
-        "hermeneutics",
-        "exegorical",
-        "hermeneutic"
-      ]
-    }
-  ]
+    "date": "2026-06-10",
+    "groups": [
+        {
+            "id": "d2-easy",
+            "type": "sound_association",
+            "difficulty": "easy",
+            "title": "soft, steady percussion",
+            "words": [
+                "drum",
+                "tap",
+                "knock",
+                "rattle"
+            ]
+        },
+        {
+            "id": "d2-medium",
+            "type": "emotional_tone",
+            "difficulty": "medium",
+            "title": "deliberately cold",
+            "words": [
+                "icy",
+                "chilly",
+                "frosty",
+                "bleak"
+            ]
+        },
+        {
+            "id": "d2-hard",
+            "type": "synonym",
+            "difficulty": "hard",
+            "title": "to discover by patient reasoning",
+            "words": [
+                "deduce",
+                "infer",
+                "conclude",
+                "ascertain"
+            ]
+        },
+        {
+            "id": "d2-very-hard",
+            "type": "etymological_relation",
+            "difficulty": "very_hard",
+            "title": "converging lines of insight",
+            "words": [
+                "exegesis",
+                "hermeneutics",
+                "exegorical",
+                "hermeneutic"
+            ]
+        }
+    ]
 }

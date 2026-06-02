@@ -1,53 +1,53 @@
 {
-  "date": "2026-04-19",
-  "groups": [
-    {
-      "id": "g1",
-      "type": "physical_trait",
-      "difficulty": "easy",
-      "title": "sharp-edged anger",
-      "words": [
-        "barbed",
-        "caustic",
-        "acerbic",
-        "vitriolic"
-      ]
-    },
-    {
-      "id": "g2",
-      "type": "sound_association",
-      "difficulty": "medium",
-      "title": "short, cutting bursts",
-      "words": [
-        "snap",
-        "crack",
-        "snarl",
-        "crisp"
-      ]
-    },
-    {
-      "id": "g3",
-      "type": "profession_domain",
-      "difficulty": "hard",
-      "title": "editorial craft",
-      "words": [
-        "proofread",
-        "annotate",
-        "catalog",
-        "index"
-      ]
-    },
-    {
-      "id": "g4",
-      "type": "emotional_tone",
-      "difficulty": "very_hard",
-      "title": "archaic dread and foreboding",
-      "words": [
-        "eldritch",
-        "uncanny",
-        "ominous",
-        "foreboding"
-      ]
-    }
-  ]
+    "date": "2026-04-19",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "physical_trait",
+            "difficulty": "easy",
+            "title": "sharp-edged anger",
+            "words": [
+                "barbed",
+                "caustic",
+                "acerbic",
+                "vitriolic"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "sound_association",
+            "difficulty": "medium",
+            "title": "short, cutting bursts",
+            "words": [
+                "snap",
+                "crack",
+                "snarl",
+                "crisp"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "profession_domain",
+            "difficulty": "hard",
+            "title": "editorial craft",
+            "words": [
+                "proofread",
+                "annotate",
+                "catalog",
+                "index"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "emotional_tone",
+            "difficulty": "very_hard",
+            "title": "archaic dread and foreboding",
+            "words": [
+                "eldritch",
+                "uncanny",
+                "ominous",
+                "foreboding"
+            ]
+        }
+    ]
 }

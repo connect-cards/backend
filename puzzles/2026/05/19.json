@@ -1,53 +1,53 @@
 {
-  "date": "2026-05-19",
-  "groups": [
-    {
-      "id": "g1",
-      "type": "emotional_tone",
-      "difficulty": "easy",
-      "title": "emotional tones",
-      "words": [
-        "happy",
-        "sad",
-        "anxious",
-        "calm"
-      ]
-    },
-    {
-      "id": "g2",
-      "type": "morphological_family",
-      "difficulty": "medium",
-      "title": "aqua- words",
-      "words": [
-        "aquatic",
-        "aquifer",
-        "aquarium",
-        "aqueous"
-      ]
-    },
-    {
-      "id": "g3",
-      "type": "literary_register",
-      "difficulty": "hard",
-      "title": "poetic forms",
-      "words": [
-        "ode",
-        "elegy",
-        "sonnet",
-        "ballad"
-      ]
-    },
-    {
-      "id": "g4",
-      "type": "physical_trait",
-      "difficulty": "very_hard",
-      "title": "physique descriptors",
-      "words": [
-        "sinewy",
-        "brawny",
-        "slender",
-        "portly"
-      ]
-    }
-  ]
+    "date": "2026-05-19",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "emotional_tone",
+            "difficulty": "easy",
+            "title": "emotional tones",
+            "words": [
+                "happy",
+                "sad",
+                "anxious",
+                "calm"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "morphological_family",
+            "difficulty": "medium",
+            "title": "aqua- words",
+            "words": [
+                "aquatic",
+                "aquifer",
+                "aquarium",
+                "aqueous"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "literary_register",
+            "difficulty": "hard",
+            "title": "poetic forms",
+            "words": [
+                "ode",
+                "elegy",
+                "sonnet",
+                "ballad"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "physical_trait",
+            "difficulty": "very_hard",
+            "title": "physique descriptors",
+            "words": [
+                "sinewy",
+                "brawny",
+                "slender",
+                "portly"
+            ]
+        }
+    ]
 }

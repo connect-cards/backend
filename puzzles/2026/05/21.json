@@ -1,53 +1,53 @@
 {
-  "date": "2026-05-21",
-  "groups": [
-    {
-      "id": "D1",
-      "type": "morphological_family",
-      "difficulty": "easy",
-      "title": "cred root words",
-      "words": [
-        "credit",
-        "credible",
-        "credence",
-        "credulous"
-      ]
-    },
-    {
-      "id": "D2",
-      "type": "informal_register",
-      "difficulty": "medium",
-      "title": "casual address terms",
-      "words": [
-        "bro",
-        "dude",
-        "man",
-        "guy"
-      ]
-    },
-    {
-      "id": "D3",
-      "type": "thematic_association",
-      "difficulty": "hard",
-      "title": "color terms",
-      "words": [
-        "scarlet",
-        "cerulean",
-        "vermilion",
-        "amber"
-      ]
-    },
-    {
-      "id": "D4",
-      "type": "semantic_field",
-      "difficulty": "very_hard",
-      "title": "astronomical terms",
-      "words": [
-        "horizon",
-        "zenith",
-        "equinox",
-        "solstice"
-      ]
-    }
-  ]
+    "date": "2026-05-21",
+    "groups": [
+        {
+            "id": "D1",
+            "type": "morphological_family",
+            "difficulty": "easy",
+            "title": "cred root words",
+            "words": [
+                "credit",
+                "credible",
+                "credence",
+                "credulous"
+            ]
+        },
+        {
+            "id": "D2",
+            "type": "informal_register",
+            "difficulty": "medium",
+            "title": "casual address terms",
+            "words": [
+                "bro",
+                "dude",
+                "man",
+                "guy"
+            ]
+        },
+        {
+            "id": "D3",
+            "type": "thematic_association",
+            "difficulty": "hard",
+            "title": "color terms",
+            "words": [
+                "scarlet",
+                "cerulean",
+                "vermilion",
+                "amber"
+            ]
+        },
+        {
+            "id": "D4",
+            "type": "semantic_field",
+            "difficulty": "very_hard",
+            "title": "astronomical terms",
+            "words": [
+                "horizon",
+                "zenith",
+                "equinox",
+                "solstice"
+            ]
+        }
+    ]
 }

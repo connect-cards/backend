@@ -1,53 +1,53 @@
 {
-  "date": "2026-05-29",
-  "groups": [
-    {
-      "id": "g1_29",
-      "type": "walking_synonyms",
-      "difficulty": "easy",
-      "title": "walking synonyms",
-      "words": [
-        "stroll",
-        "wander",
-        "ramble",
-        "roam"
-      ]
-    },
-    {
-      "id": "g2_29",
-      "type": "informal_male_terms",
-      "difficulty": "medium",
-      "title": "informal male terms",
-      "words": [
-        "chap",
-        "lad",
-        "mate",
-        "bloke"
-      ]
-    },
-    {
-      "id": "g3_29",
-      "type": "GRE_light_descriptors",
-      "difficulty": "hard",
-      "title": "bright descriptors",
-      "words": [
-        "scintillating",
-        "effulgent",
-        "lambent",
-        "opalescent"
-      ]
-    },
-    {
-      "id": "g4_29",
-      "type": "threefold_terms",
-      "difficulty": "very_hard",
-      "title": "threefold terms",
-      "words": [
-        "tercet",
-        "terzetto",
-        "ternion",
-        "trine"
-      ]
-    }
-  ]
+    "date": "2026-05-29",
+    "groups": [
+        {
+            "id": "g1_29",
+            "type": "walking_synonyms",
+            "difficulty": "easy",
+            "title": "walking synonyms",
+            "words": [
+                "stroll",
+                "wander",
+                "ramble",
+                "roam"
+            ]
+        },
+        {
+            "id": "g2_29",
+            "type": "informal_male_terms",
+            "difficulty": "medium",
+            "title": "informal male terms",
+            "words": [
+                "chap",
+                "lad",
+                "mate",
+                "bloke"
+            ]
+        },
+        {
+            "id": "g3_29",
+            "type": "GRE_light_descriptors",
+            "difficulty": "hard",
+            "title": "bright descriptors",
+            "words": [
+                "scintillating",
+                "effulgent",
+                "lambent",
+                "opalescent"
+            ]
+        },
+        {
+            "id": "g4_29",
+            "type": "threefold_terms",
+            "difficulty": "very_hard",
+            "title": "threefold terms",
+            "words": [
+                "tercet",
+                "terzetto",
+                "ternion",
+                "trine"
+            ]
+        }
+    ]
 }

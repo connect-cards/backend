@@ -1,53 +1,53 @@
 {
-  "date": "2026-05-11",
-  "groups": [
-    {
-      "id": "g2e",
-      "type": "easy",
-      "difficulty": "easy",
-      "title": "household items",
-      "words": [
-        "chair",
-        "table",
-        "lamp",
-        "sofa"
-      ]
-    },
-    {
-      "id": "g2m",
-      "type": "medium",
-      "difficulty": "medium",
-      "title": "silent letters",
-      "words": [
-        "knight",
-        "gnome",
-        "hour",
-        "psychology"
-      ]
-    },
-    {
-      "id": "g2h",
-      "type": "hard",
-      "difficulty": "hard",
-      "title": "polysemous/multiple meanings",
-      "words": [
-        "bank",
-        "spring",
-        "bat",
-        "bass"
-      ]
-    },
-    {
-      "id": "g2vh",
-      "type": "very-hard",
-      "difficulty": "very_hard",
-      "title": "groups of three",
-      "words": [
-        "triple",
-        "triad",
-        "troika",
-        "trinity"
-      ]
-    }
-  ]
+    "date": "2026-05-11",
+    "groups": [
+        {
+            "id": "g2e",
+            "type": "easy",
+            "difficulty": "easy",
+            "title": "household items",
+            "words": [
+                "chair",
+                "table",
+                "lamp",
+                "sofa"
+            ]
+        },
+        {
+            "id": "g2m",
+            "type": "medium",
+            "difficulty": "medium",
+            "title": "silent letters",
+            "words": [
+                "knight",
+                "gnome",
+                "hour",
+                "psychology"
+            ]
+        },
+        {
+            "id": "g2h",
+            "type": "hard",
+            "difficulty": "hard",
+            "title": "polysemous/multiple meanings",
+            "words": [
+                "bank",
+                "spring",
+                "bat",
+                "bass"
+            ]
+        },
+        {
+            "id": "g2vh",
+            "type": "very-hard",
+            "difficulty": "very_hard",
+            "title": "groups of three",
+            "words": [
+                "triple",
+                "triad",
+                "troika",
+                "trinity"
+            ]
+        }
+    ]
 }

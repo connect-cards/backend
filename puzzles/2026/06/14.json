@@ -1,53 +1,53 @@
 {
-  "date": "2026-06-14",
-  "groups": [
-    {
-      "id": "d14-easy",
-      "type": "etymological_relation",
-      "difficulty": "easy",
-      "title": "root of see",
-      "words": [
-        "specter",
-        "inspect",
-        "spectacle",
-        "inspection"
-      ]
-    },
-    {
-      "id": "d14-medium",
-      "type": "synonym",
-      "difficulty": "medium",
-      "title": "criticize sharply",
-      "words": [
-        "censure",
-        "denounce",
-        "reprimand",
-        "condemn"
-      ]
-    },
-    {
-      "id": "d14-hard",
-      "type": "physical_trait",
-      "difficulty": "hard",
-      "title": "signs of age or strain",
-      "words": [
-        "wrinkle",
-        "weathered",
-        "sallow",
-        "gaunt"
-      ]
-    },
-    {
-      "id": "d14-very-hard",
-      "type": "thematic_association",
-      "difficulty": "very_hard",
-      "title": "the study of shadows",
-      "words": [
-        "heraldry",
-        "iconography",
-        "hagiography",
-        "morbid"
-      ]
-    }
-  ]
+    "date": "2026-06-14",
+    "groups": [
+        {
+            "id": "d14-easy",
+            "type": "etymological_relation",
+            "difficulty": "easy",
+            "title": "root of see",
+            "words": [
+                "specter",
+                "inspect",
+                "spectacle",
+                "inspection"
+            ]
+        },
+        {
+            "id": "d14-medium",
+            "type": "synonym",
+            "difficulty": "medium",
+            "title": "criticize sharply",
+            "words": [
+                "censure",
+                "denounce",
+                "reprimand",
+                "condemn"
+            ]
+        },
+        {
+            "id": "d14-hard",
+            "type": "physical_trait",
+            "difficulty": "hard",
+            "title": "signs of age or strain",
+            "words": [
+                "wrinkle",
+                "weathered",
+                "sallow",
+                "gaunt"
+            ]
+        },
+        {
+            "id": "d14-very-hard",
+            "type": "thematic_association",
+            "difficulty": "very_hard",
+            "title": "the study of shadows",
+            "words": [
+                "heraldry",
+                "iconography",
+                "hagiography",
+                "morbid"
+            ]
+        }
+    ]
 }

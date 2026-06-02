@@ -1,53 +1,53 @@
 {
-  "date": "2026-04-08",
-  "groups": [
-    {
-      "id": "g1",
-      "type": "synonym",
-      "difficulty": "easy",
-      "title": "to solve or decipher",
-      "words": [
-        "decode",
-        "unravel",
-        "interpret",
-        "decipher"
-      ]
-    },
-    {
-      "id": "g2",
-      "type": "etymological_relation",
-      "difficulty": "medium",
-      "title": "greek-root terms for 'fear' or 'dread'",
-      "words": [
-        "phobia",
-        "panic",
-        "terror",
-        "dread"
-      ]
-    },
-    {
-      "id": "g3",
-      "type": "thematic_association",
-      "difficulty": "hard",
-      "title": "literary criticism vocabulary",
-      "words": [
-        "allusion",
-        "metaphor",
-        "motif",
-        "allegory"
-      ]
-    },
-    {
-      "id": "g4",
-      "type": "morphological_family",
-      "difficulty": "very_hard",
-      "title": "archaic negation via 'un-' meaning lack",
-      "words": [
-        "unctionless",
-        "unseasoned",
-        "unschooled",
-        "unwonted"
-      ]
-    }
-  ]
+    "date": "2026-04-08",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "synonym",
+            "difficulty": "easy",
+            "title": "to solve or decipher",
+            "words": [
+                "decode",
+                "unravel",
+                "interpret",
+                "decipher"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "etymological_relation",
+            "difficulty": "medium",
+            "title": "greek-root terms for 'fear' or 'dread'",
+            "words": [
+                "phobia",
+                "panic",
+                "terror",
+                "dread"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "thematic_association",
+            "difficulty": "hard",
+            "title": "literary criticism vocabulary",
+            "words": [
+                "allusion",
+                "metaphor",
+                "motif",
+                "allegory"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "morphological_family",
+            "difficulty": "very_hard",
+            "title": "archaic negation via 'un-' meaning lack",
+            "words": [
+                "unctionless",
+                "unseasoned",
+                "unschooled",
+                "unwonted"
+            ]
+        }
+    ]
 }

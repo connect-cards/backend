@@ -1,53 +1,53 @@
 {
-  "date": "2026-04-14",
-  "groups": [
-    {
-      "id": "d2_easy",
-      "type": "easy",
-      "difficulty": "easy",
-      "title": "near-homophones for tide",
-      "words": [
-        "tidal",
-        "tide",
-        "tideway",
-        "tie"
-      ]
-    },
-    {
-      "id": "d2_medium",
-      "type": "medium",
-      "difficulty": "medium",
-      "title": "demand",
-      "words": [
-        "require",
-        "demand",
-        "insist",
-        "request"
-      ]
-    },
-    {
-      "id": "d2_hard",
-      "type": "hard",
-      "difficulty": "hard",
-      "title": "literary register: desolation",
-      "words": [
-        "desolate",
-        "wretched",
-        "mournful",
-        "squalid"
-      ]
-    },
-    {
-      "id": "d2_veryhard",
-      "type": "very-hard",
-      "difficulty": "very_hard",
-      "title": "archaic literary phrasing",
-      "words": [
-        "perchance",
-        "whence",
-        "hitherto",
-        "thereunto"
-      ]
-    }
-  ]
+    "date": "2026-04-14",
+    "groups": [
+        {
+            "id": "d2_easy",
+            "type": "easy",
+            "difficulty": "easy",
+            "title": "near-homophones for tide",
+            "words": [
+                "tidal",
+                "tide",
+                "tideway",
+                "tie"
+            ]
+        },
+        {
+            "id": "d2_medium",
+            "type": "medium",
+            "difficulty": "medium",
+            "title": "demand",
+            "words": [
+                "require",
+                "demand",
+                "insist",
+                "request"
+            ]
+        },
+        {
+            "id": "d2_hard",
+            "type": "hard",
+            "difficulty": "hard",
+            "title": "literary register: desolation",
+            "words": [
+                "desolate",
+                "wretched",
+                "mournful",
+                "squalid"
+            ]
+        },
+        {
+            "id": "d2_veryhard",
+            "type": "very-hard",
+            "difficulty": "very_hard",
+            "title": "archaic literary phrasing",
+            "words": [
+                "perchance",
+                "whence",
+                "hitherto",
+                "thereunto"
+            ]
+        }
+    ]
 }

@@ -1,53 +1,53 @@
 {
-  "date": "2026-06-07",
-  "groups": [
-    {
-      "id": "D3-E",
-      "type": "thematic_association",
-      "difficulty": "easy",
-      "title": "small movements that feel secretive",
-      "words": [
-        "slink",
-        "creep",
-        "crouch",
-        "skulk"
-      ]
-    },
-    {
-      "id": "D3-M",
-      "type": "emotional_tone",
-      "difficulty": "medium",
-      "title": "a low, gloomy mood",
-      "words": [
-        "morose",
-        "sombre",
-        "dreary",
-        "murky"
-      ]
-    },
-    {
-      "id": "D3-H",
-      "type": "profession_domain",
-      "difficulty": "hard",
-      "title": "courtroom and legal maneuvering",
-      "words": [
-        "adduce",
-        "adversary",
-        "testimony",
-        "affidavit"
-      ]
-    },
-    {
-      "id": "D3-VH",
-      "type": "etymological_relation",
-      "difficulty": "very_hard",
-      "title": "from the same Latin root: command and prohibition",
-      "words": [
-        "proscribe",
-        "enjoin",
-        "forbid",
-        "inhibit"
-      ]
-    }
-  ]
+    "date": "2026-06-07",
+    "groups": [
+        {
+            "id": "D3-E",
+            "type": "thematic_association",
+            "difficulty": "easy",
+            "title": "small movements that feel secretive",
+            "words": [
+                "slink",
+                "creep",
+                "crouch",
+                "skulk"
+            ]
+        },
+        {
+            "id": "D3-M",
+            "type": "emotional_tone",
+            "difficulty": "medium",
+            "title": "a low, gloomy mood",
+            "words": [
+                "morose",
+                "sombre",
+                "dreary",
+                "murky"
+            ]
+        },
+        {
+            "id": "D3-H",
+            "type": "profession_domain",
+            "difficulty": "hard",
+            "title": "courtroom and legal maneuvering",
+            "words": [
+                "adduce",
+                "adversary",
+                "testimony",
+                "affidavit"
+            ]
+        },
+        {
+            "id": "D3-VH",
+            "type": "etymological_relation",
+            "difficulty": "very_hard",
+            "title": "from the same Latin root: command and prohibition",
+            "words": [
+                "proscribe",
+                "enjoin",
+                "forbid",
+                "inhibit"
+            ]
+        }
+    ]
 }

@@ -1,53 +1,53 @@
 {
-  "date": "2026-06-23",
-  "groups": [
-    {
-      "id": "g1",
-      "type": "emotional_tone",
-      "difficulty": "easy",
-      "title": "lighthearted movement",
-      "words": [
-        "stroll",
-        "wander",
-        "ramble",
-        "roam"
-      ]
-    },
-    {
-      "id": "g2",
-      "type": "synonym",
-      "difficulty": "medium",
-      "title": "mild criticism, without anger",
-      "words": [
-        "rebuke",
-        "censure",
-        "reprimand",
-        "admonish"
-      ]
-    },
-    {
-      "id": "g3",
-      "type": "literary_register",
-      "difficulty": "hard",
-      "title": "elevated ways to say “look”",
-      "words": [
-        "regard",
-        "behold",
-        "perceive",
-        "contemplate"
-      ]
-    },
-    {
-      "id": "g4",
-      "type": "morphological_family",
-      "difficulty": "very_hard",
-      "title": "archaic determiners of smallness",
-      "words": [
-        "whence",
-        "whither",
-        "hither",
-        "thither"
-      ]
-    }
-  ]
+    "date": "2026-06-23",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "emotional_tone",
+            "difficulty": "easy",
+            "title": "lighthearted movement",
+            "words": [
+                "stroll",
+                "wander",
+                "ramble",
+                "roam"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "synonym",
+            "difficulty": "medium",
+            "title": "mild criticism, without anger",
+            "words": [
+                "rebuke",
+                "censure",
+                "reprimand",
+                "admonish"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "literary_register",
+            "difficulty": "hard",
+            "title": "elevated ways to say “look”",
+            "words": [
+                "regard",
+                "behold",
+                "perceive",
+                "contemplate"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "morphological_family",
+            "difficulty": "very_hard",
+            "title": "archaic determiners of smallness",
+            "words": [
+                "whence",
+                "whither",
+                "hither",
+                "thither"
+            ]
+        }
+    ]
 }

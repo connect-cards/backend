@@ -1,53 +1,53 @@
 {
-  "date": "2026-04-26",
-  "groups": [
-    {
-      "id": "g1",
-      "type": "informal_register",
-      "difficulty": "easy",
-      "title": "casual grudges",
-      "words": [
-        "snit",
-        "sulk",
-        "grudge",
-        "bicker"
-      ]
-    },
-    {
-      "id": "g2",
-      "type": "thematic_association",
-      "difficulty": "medium",
-      "title": "uninvited visitors",
-      "words": [
-        "intruder",
-        "gatecrash",
-        "trespasser",
-        "raider"
-      ]
-    },
-    {
-      "id": "g3",
-      "type": "etymological_relation",
-      "difficulty": "hard",
-      "title": "with the same core: compel",
-      "words": [
-        "coerce",
-        "compel",
-        "constrain",
-        "importune"
-      ]
-    },
-    {
-      "id": "g4",
-      "type": "semantic_field",
-      "difficulty": "very_hard",
-      "title": "subtle light",
-      "words": [
-        "glimmer",
-        "luster",
-        "radiance",
-        "luminescence"
-      ]
-    }
-  ]
+    "date": "2026-04-26",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "informal_register",
+            "difficulty": "easy",
+            "title": "casual grudges",
+            "words": [
+                "snit",
+                "sulk",
+                "grudge",
+                "bicker"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "thematic_association",
+            "difficulty": "medium",
+            "title": "uninvited visitors",
+            "words": [
+                "intruder",
+                "gatecrash",
+                "trespasser",
+                "raider"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "etymological_relation",
+            "difficulty": "hard",
+            "title": "with the same core: compel",
+            "words": [
+                "coerce",
+                "compel",
+                "constrain",
+                "importune"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "semantic_field",
+            "difficulty": "very_hard",
+            "title": "subtle light",
+            "words": [
+                "glimmer",
+                "luster",
+                "radiance",
+                "luminescence"
+            ]
+        }
+    ]
 }

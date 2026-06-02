@@ -1,53 +1,53 @@
 {
-  "date": "2026-04-30",
-  "groups": [
-    {
-      "id": "g1",
-      "type": "semantic_field",
-      "difficulty": "easy",
-      "title": "talks and conversations",
-      "words": [
-        "banter",
-        "dialogue",
-        "recital",
-        "colloquy"
-      ]
-    },
-    {
-      "id": "g2",
-      "type": "informal_register",
-      "difficulty": "medium",
-      "title": "everyday people, not titles",
-      "words": [
-        "chap",
-        "fella",
-        "bloke",
-        "lad"
-      ]
-    },
-    {
-      "id": "g3",
-      "type": "synonym",
-      "difficulty": "hard",
-      "title": "saying little",
-      "words": [
-        "laconic",
-        "terse",
-        "curt",
-        "abrupt"
-      ]
-    },
-    {
-      "id": "g4",
-      "type": "literary_register",
-      "difficulty": "very_hard",
-      "title": "a dark, uncanny chill",
-      "words": [
-        "eldritch",
-        "uncanny",
-        "unearthly",
-        "murk"
-      ]
-    }
-  ]
+    "date": "2026-04-30",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "semantic_field",
+            "difficulty": "easy",
+            "title": "talks and conversations",
+            "words": [
+                "banter",
+                "dialogue",
+                "recital",
+                "colloquy"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "informal_register",
+            "difficulty": "medium",
+            "title": "everyday people, not titles",
+            "words": [
+                "chap",
+                "fella",
+                "bloke",
+                "lad"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "synonym",
+            "difficulty": "hard",
+            "title": "saying little",
+            "words": [
+                "laconic",
+                "terse",
+                "curt",
+                "abrupt"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "literary_register",
+            "difficulty": "very_hard",
+            "title": "a dark, uncanny chill",
+            "words": [
+                "eldritch",
+                "uncanny",
+                "unearthly",
+                "murk"
+            ]
+        }
+    ]
 }

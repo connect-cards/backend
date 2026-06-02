@@ -1,53 +1,53 @@
 {
-  "date": "2026-05-06",
-  "groups": [
-    {
-      "id": "p2_easy",
-      "type": "easy",
-      "difficulty": "easy",
-      "title": "colors",
-      "words": [
-        "crimson",
-        "azure",
-        "emerald",
-        "violet"
-      ]
-    },
-    {
-      "id": "p2_medium",
-      "type": "medium",
-      "difficulty": "medium",
-      "title": "ology",
-      "words": [
-        "psychology",
-        "biology",
-        "geology",
-        "anthropology"
-      ]
-    },
-    {
-      "id": "p2_hard",
-      "type": "hard",
-      "difficulty": "hard",
-      "title": "domains",
-      "words": [
-        "medicine",
-        "law",
-        "engineering",
-        "education"
-      ]
-    },
-    {
-      "id": "p2_veryhard",
-      "type": "very-hard",
-      "difficulty": "very_hard",
-      "title": "literary",
-      "words": [
-        "epistolary",
-        "bardic",
-        "elegiac",
-        "lyrical"
-      ]
-    }
-  ]
+    "date": "2026-05-06",
+    "groups": [
+        {
+            "id": "p2_easy",
+            "type": "easy",
+            "difficulty": "easy",
+            "title": "colors",
+            "words": [
+                "crimson",
+                "azure",
+                "emerald",
+                "violet"
+            ]
+        },
+        {
+            "id": "p2_medium",
+            "type": "medium",
+            "difficulty": "medium",
+            "title": "ology",
+            "words": [
+                "psychology",
+                "biology",
+                "geology",
+                "anthropology"
+            ]
+        },
+        {
+            "id": "p2_hard",
+            "type": "hard",
+            "difficulty": "hard",
+            "title": "domains",
+            "words": [
+                "medicine",
+                "law",
+                "engineering",
+                "education"
+            ]
+        },
+        {
+            "id": "p2_veryhard",
+            "type": "very-hard",
+            "difficulty": "very_hard",
+            "title": "literary",
+            "words": [
+                "epistolary",
+                "bardic",
+                "elegiac",
+                "lyrical"
+            ]
+        }
+    ]
 }

@@ -1,53 +1,53 @@
 {
-  "date": "2026-04-06",
-  "groups": [
-    {
-      "id": "g1",
-      "type": "etymological_relation",
-      "difficulty": "easy",
-      "title": "latin-root verbs meaning to keep",
-      "words": [
-        "retain",
-        "preserve",
-        "maintain",
-        "sustain"
-      ]
-    },
-    {
-      "id": "g2",
-      "type": "synonym",
-      "difficulty": "medium",
-      "title": "unwelcoming places or moods",
-      "words": [
-        "inhospitable",
-        "unwelcoming",
-        "hostile",
-        "bleak"
-      ]
-    },
-    {
-      "id": "g3",
-      "type": "literary_register",
-      "difficulty": "hard",
-      "title": "elevated ways to say 'look'",
-      "words": [
-        "regard",
-        "behold",
-        "contemplate",
-        "regale"
-      ]
-    },
-    {
-      "id": "g4",
-      "type": "sound_association",
-      "difficulty": "very_hard",
-      "title": "near-homophones in meaning: to flee",
-      "words": [
-        "scamper",
-        "sprint",
-        "bolter",
-        "dash"
-      ]
-    }
-  ]
+    "date": "2026-04-06",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "etymological_relation",
+            "difficulty": "easy",
+            "title": "latin-root verbs meaning to keep",
+            "words": [
+                "retain",
+                "preserve",
+                "maintain",
+                "sustain"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "synonym",
+            "difficulty": "medium",
+            "title": "unwelcoming places or moods",
+            "words": [
+                "inhospitable",
+                "unwelcoming",
+                "hostile",
+                "bleak"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "literary_register",
+            "difficulty": "hard",
+            "title": "elevated ways to say 'look'",
+            "words": [
+                "regard",
+                "behold",
+                "contemplate",
+                "regale"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "sound_association",
+            "difficulty": "very_hard",
+            "title": "near-homophones in meaning: to flee",
+            "words": [
+                "scamper",
+                "sprint",
+                "bolter",
+                "dash"
+            ]
+        }
+    ]
 }

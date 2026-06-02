@@ -1,53 +1,53 @@
 {
-  "date": "2026-05-14",
-  "groups": [
-    {
-      "id": "D2G1",
-      "type": "easy",
-      "difficulty": "easy",
-      "title": "literary objects",
-      "words": [
-        "book",
-        "page",
-        "chapter",
-        "novel"
-      ]
-    },
-    {
-      "id": "D2G2",
-      "type": "medium",
-      "difficulty": "medium",
-      "title": "short reports/ tidbits",
-      "words": [
-        "tidbit",
-        "anecdote",
-        "gossip",
-        "rumor"
-      ]
-    },
-    {
-      "id": "D2G3",
-      "type": "hard",
-      "difficulty": "hard",
-      "title": "wise descriptors",
-      "words": [
-        "perspicacious",
-        "sagacious",
-        "erudite",
-        "learned"
-      ]
-    },
-    {
-      "id": "D2G4",
-      "type": "very-hard",
-      "difficulty": "very_hard",
-      "title": "esoteric terms",
-      "words": [
-        "recondite",
-        "arcane",
-        "esoteric",
-        "hermetic"
-      ]
-    }
-  ]
+    "date": "2026-05-14",
+    "groups": [
+        {
+            "id": "D2G1",
+            "type": "easy",
+            "difficulty": "easy",
+            "title": "literary objects",
+            "words": [
+                "book",
+                "page",
+                "chapter",
+                "novel"
+            ]
+        },
+        {
+            "id": "D2G2",
+            "type": "medium",
+            "difficulty": "medium",
+            "title": "short reports/ tidbits",
+            "words": [
+                "tidbit",
+                "anecdote",
+                "gossip",
+                "rumor"
+            ]
+        },
+        {
+            "id": "D2G3",
+            "type": "hard",
+            "difficulty": "hard",
+            "title": "wise descriptors",
+            "words": [
+                "perspicacious",
+                "sagacious",
+                "erudite",
+                "learned"
+            ]
+        },
+        {
+            "id": "D2G4",
+            "type": "very-hard",
+            "difficulty": "very_hard",
+            "title": "esoteric terms",
+            "words": [
+                "recondite",
+                "arcane",
+                "esoteric",
+                "hermetic"
+            ]
+        }
+    ]
 }

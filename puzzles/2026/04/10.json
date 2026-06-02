@@ -1,53 +1,53 @@
 {
-  "date": "2026-04-10",
-  "groups": [
-    {
-      "id": "d2-easy",
-      "type": "semantic_field",
-      "difficulty": "easy",
-      "title": "quiet attempts to fix",
-      "words": [
-        "mend",
-        "patch",
-        "repair",
-        "restore"
-      ]
-    },
-    {
-      "id": "d2-medium",
-      "type": "literary_register",
-      "difficulty": "medium",
-      "title": "when language turns grim",
-      "words": [
-        "sombre",
-        "dreary",
-        "somnolent",
-        "bleak"
-      ]
-    },
-    {
-      "id": "d2-hard",
-      "type": "emotional_tone",
-      "difficulty": "hard",
-      "title": "ironic disdain",
-      "words": [
-        "contempt",
-        "contemptuous",
-        "scorn",
-        "construe"
-      ]
-    },
-    {
-      "id": "d2-vhard",
-      "type": "morphological_family",
-      "difficulty": "very_hard",
-      "title": "doubting the very ground",
-      "words": [
-        "skeptical",
-        "scepticism",
-        "doubtful",
-        "unverifiable"
-      ]
-    }
-  ]
+    "date": "2026-04-10",
+    "groups": [
+        {
+            "id": "d2-easy",
+            "type": "semantic_field",
+            "difficulty": "easy",
+            "title": "quiet attempts to fix",
+            "words": [
+                "mend",
+                "patch",
+                "repair",
+                "restore"
+            ]
+        },
+        {
+            "id": "d2-medium",
+            "type": "literary_register",
+            "difficulty": "medium",
+            "title": "when language turns grim",
+            "words": [
+                "sombre",
+                "dreary",
+                "somnolent",
+                "bleak"
+            ]
+        },
+        {
+            "id": "d2-hard",
+            "type": "emotional_tone",
+            "difficulty": "hard",
+            "title": "ironic disdain",
+            "words": [
+                "contempt",
+                "contemptuous",
+                "scorn",
+                "construe"
+            ]
+        },
+        {
+            "id": "d2-vhard",
+            "type": "morphological_family",
+            "difficulty": "very_hard",
+            "title": "doubting the very ground",
+            "words": [
+                "skeptical",
+                "scepticism",
+                "doubtful",
+                "unverifiable"
+            ]
+        }
+    ]
 }

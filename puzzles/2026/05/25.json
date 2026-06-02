@@ -1,53 +1,53 @@
 {
-  "date": "2026-05-25",
-  "groups": [
-    {
-      "id": "group_easy_1c",
-      "type": "group",
-      "difficulty": "easy",
-      "title": "edged weapons",
-      "words": [
-        "blade",
-        "knife",
-        "sword",
-        "axe"
-      ]
-    },
-    {
-      "id": "group_medium_1c",
-      "type": "group",
-      "difficulty": "medium",
-      "title": "gloom",
-      "words": [
-        "dreary",
-        "somber",
-        "murky",
-        "dingy"
-      ]
-    },
-    {
-      "id": "group_hard_1c",
-      "type": "group",
-      "difficulty": "hard",
-      "title": "sparkling",
-      "words": [
-        "scintillating",
-        "glittering",
-        "sparkling",
-        "glittery"
-      ]
-    },
-    {
-      "id": "group_veryhard_1c",
-      "type": "group",
-      "difficulty": "very_hard",
-      "title": "darkness",
-      "words": [
-        "eldritch",
-        "tenebrous",
-        "caliginous",
-        "crepuscular"
-      ]
-    }
-  ]
+    "date": "2026-05-25",
+    "groups": [
+        {
+            "id": "group_easy_1c",
+            "type": "group",
+            "difficulty": "easy",
+            "title": "edged weapons",
+            "words": [
+                "blade",
+                "knife",
+                "sword",
+                "axe"
+            ]
+        },
+        {
+            "id": "group_medium_1c",
+            "type": "group",
+            "difficulty": "medium",
+            "title": "gloom",
+            "words": [
+                "dreary",
+                "somber",
+                "murky",
+                "dingy"
+            ]
+        },
+        {
+            "id": "group_hard_1c",
+            "type": "group",
+            "difficulty": "hard",
+            "title": "sparkling",
+            "words": [
+                "scintillating",
+                "glittering",
+                "sparkling",
+                "glittery"
+            ]
+        },
+        {
+            "id": "group_veryhard_1c",
+            "type": "group",
+            "difficulty": "very_hard",
+            "title": "darkness",
+            "words": [
+                "eldritch",
+                "tenebrous",
+                "caliginous",
+                "crepuscular"
+            ]
+        }
+    ]
 }

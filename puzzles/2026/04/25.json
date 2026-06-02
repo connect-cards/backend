@@ -1,53 +1,53 @@
 {
-  "date": "2026-04-25",
-  "groups": [
-    {
-      "id": "g1",
-      "type": "thematic_association",
-      "difficulty": "easy",
-      "title": "rooks in the library",
-      "words": [
-        "shelf",
-        "catalog",
-        "volume",
-        "reading"
-      ]
-    },
-    {
-      "id": "g2",
-      "type": "etymological_relation",
-      "difficulty": "medium",
-      "title": "words with a latin root: scribere",
-      "words": [
-        "inscribe",
-        "manuscript",
-        "transcribe",
-        "script"
-      ]
-    },
-    {
-      "id": "g3",
-      "type": "literary_register",
-      "difficulty": "hard",
-      "title": "poetic launchpad",
-      "words": [
-        "stanza",
-        "metre",
-        "tacet",
-        "verse"
-      ]
-    },
-    {
-      "id": "g4",
-      "type": "profession_domain",
-      "difficulty": "very_hard",
-      "title": "courtroom proof",
-      "words": [
-        "affidavit",
-        "testimony",
-        "jurisdiction",
-        "plaintiff"
-      ]
-    }
-  ]
+    "date": "2026-04-25",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "thematic_association",
+            "difficulty": "easy",
+            "title": "rooks in the library",
+            "words": [
+                "shelf",
+                "catalog",
+                "volume",
+                "reading"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "etymological_relation",
+            "difficulty": "medium",
+            "title": "words with a latin root: scribere",
+            "words": [
+                "inscribe",
+                "manuscript",
+                "transcribe",
+                "script"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "literary_register",
+            "difficulty": "hard",
+            "title": "poetic launchpad",
+            "words": [
+                "stanza",
+                "metre",
+                "tacet",
+                "verse"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "profession_domain",
+            "difficulty": "very_hard",
+            "title": "courtroom proof",
+            "words": [
+                "affidavit",
+                "testimony",
+                "jurisdiction",
+                "plaintiff"
+            ]
+        }
+    ]
 }

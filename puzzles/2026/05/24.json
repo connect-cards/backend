@@ -1,53 +1,53 @@
 {
-  "date": "2026-05-24",
-  "groups": [
-    {
-      "id": "G1",
-      "type": "physical_trait",
-      "difficulty": "easy",
-      "title": "appearance",
-      "words": [
-        "short",
-        "tall",
-        "round",
-        "slim"
-      ]
-    },
-    {
-      "id": "G2",
-      "type": "informal_register",
-      "difficulty": "medium",
-      "title": "informal",
-      "words": [
-        "guy",
-        "fella",
-        "bloke",
-        "buddy"
-      ]
-    },
-    {
-      "id": "G3",
-      "type": "etymological_relation",
-      "difficulty": "hard",
-      "title": "etymology",
-      "words": [
-        "describe",
-        "inscribe",
-        "manuscript",
-        "scribble"
-      ]
-    },
-    {
-      "id": "G4",
-      "type": "emotional_tone",
-      "difficulty": "very_hard",
-      "title": "tone",
-      "words": [
-        "lugubrious",
-        "ebullient",
-        "saturnine",
-        "effusive"
-      ]
-    }
-  ]
+    "date": "2026-05-24",
+    "groups": [
+        {
+            "id": "G1",
+            "type": "physical_trait",
+            "difficulty": "easy",
+            "title": "appearance",
+            "words": [
+                "short",
+                "tall",
+                "round",
+                "slim"
+            ]
+        },
+        {
+            "id": "G2",
+            "type": "informal_register",
+            "difficulty": "medium",
+            "title": "informal",
+            "words": [
+                "guy",
+                "fella",
+                "bloke",
+                "buddy"
+            ]
+        },
+        {
+            "id": "G3",
+            "type": "etymological_relation",
+            "difficulty": "hard",
+            "title": "etymology",
+            "words": [
+                "describe",
+                "inscribe",
+                "manuscript",
+                "scribble"
+            ]
+        },
+        {
+            "id": "G4",
+            "type": "emotional_tone",
+            "difficulty": "very_hard",
+            "title": "tone",
+            "words": [
+                "lugubrious",
+                "ebullient",
+                "saturnine",
+                "effusive"
+            ]
+        }
+    ]
 }

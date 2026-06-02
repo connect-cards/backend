@@ -1,53 +1,53 @@
 {
-  "date": "2026-04-20",
-  "groups": [
-    {
-      "id": "g1",
-      "type": "thematic_association",
-      "difficulty": "easy",
-      "title": "signs of decline",
-      "words": [
-        "decay",
-        "deteriorate",
-        "corrode",
-        "worsen"
-      ]
-    },
-    {
-      "id": "g2",
-      "type": "physical_trait",
-      "difficulty": "medium",
-      "title": "wearing down",
-      "words": [
-        "abrasion",
-        "erosion",
-        "scorch",
-        "chafing"
-      ]
-    },
-    {
-      "id": "g3",
-      "type": "literary_register",
-      "difficulty": "hard",
-      "title": "authoritative narrative voice",
-      "words": [
-        "resolute",
-        "didactic",
-        "solemn",
-        "emphatic"
-      ]
-    },
-    {
-      "id": "g4",
-      "type": "sound_association",
-      "difficulty": "very_hard",
-      "title": "a gentle, haunting sound",
-      "words": [
-        "tremulous",
-        "melodious",
-        "threnody",
-        "harmonic"
-      ]
-    }
-  ]
+    "date": "2026-04-20",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "thematic_association",
+            "difficulty": "easy",
+            "title": "signs of decline",
+            "words": [
+                "decay",
+                "deteriorate",
+                "corrode",
+                "worsen"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "physical_trait",
+            "difficulty": "medium",
+            "title": "wearing down",
+            "words": [
+                "abrasion",
+                "erosion",
+                "scorch",
+                "chafing"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "literary_register",
+            "difficulty": "hard",
+            "title": "authoritative narrative voice",
+            "words": [
+                "resolute",
+                "didactic",
+                "solemn",
+                "emphatic"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "sound_association",
+            "difficulty": "very_hard",
+            "title": "a gentle, haunting sound",
+            "words": [
+                "tremulous",
+                "melodious",
+                "threnody",
+                "harmonic"
+            ]
+        }
+    ]
 }

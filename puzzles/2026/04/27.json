@@ -1,53 +1,53 @@
 {
-  "date": "2026-04-27",
-  "groups": [
-    {
-      "id": "g1",
-      "type": "informal_register",
-      "difficulty": "easy",
-      "title": "quick decisions",
-      "words": [
-        "decide",
-        "choose",
-        "pick",
-        "determine"
-      ]
-    },
-    {
-      "id": "g2",
-      "type": "profession_domain",
-      "difficulty": "medium",
-      "title": "financial street talk",
-      "words": [
-        "ledger",
-        "debt",
-        "interest",
-        "credit"
-      ]
-    },
-    {
-      "id": "g3",
-      "type": "morphological_family",
-      "difficulty": "hard",
-      "title": "relatives of -scrib-",
-      "words": [
-        "scribble",
-        "describe",
-        "prescribe",
-        "inscription"
-      ]
-    },
-    {
-      "id": "g4",
-      "type": "thematic_association",
-      "difficulty": "very_hard",
-      "title": "archaic judgments",
-      "words": [
-        "wherein",
-        "henceforth",
-        "whereas",
-        "therein"
-      ]
-    }
-  ]
+    "date": "2026-04-27",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "informal_register",
+            "difficulty": "easy",
+            "title": "quick decisions",
+            "words": [
+                "decide",
+                "choose",
+                "pick",
+                "determine"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "profession_domain",
+            "difficulty": "medium",
+            "title": "financial street talk",
+            "words": [
+                "ledger",
+                "debt",
+                "interest",
+                "credit"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "morphological_family",
+            "difficulty": "hard",
+            "title": "relatives of -scrib-",
+            "words": [
+                "scribble",
+                "describe",
+                "prescribe",
+                "inscription"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "thematic_association",
+            "difficulty": "very_hard",
+            "title": "archaic judgments",
+            "words": [
+                "wherein",
+                "henceforth",
+                "whereas",
+                "therein"
+            ]
+        }
+    ]
 }

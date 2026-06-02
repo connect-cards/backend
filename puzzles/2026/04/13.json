@@ -1,53 +1,53 @@
 {
-  "date": "2026-04-13",
-  "groups": [
-    {
-      "id": "d1_easy",
-      "type": "easy",
-      "difficulty": "easy",
-      "title": "weapon material",
-      "words": [
-        "steel",
-        "blade",
-        "sword",
-        "brand"
-      ]
-    },
-    {
-      "id": "d1_medium",
-      "type": "medium",
-      "difficulty": "medium",
-      "title": "backstreet people",
-      "words": [
-        "bloke",
-        "fella",
-        "chap",
-        "lad"
-      ]
-    },
-    {
-      "id": "d1_hard",
-      "type": "hard",
-      "difficulty": "hard",
-      "title": "professional expertise",
-      "words": [
-        "carpenter",
-        "surveyor",
-        "librarian",
-        "apothecary"
-      ]
-    },
-    {
-      "id": "d1_veryhard",
-      "type": "very-hard",
-      "difficulty": "very_hard",
-      "title": "subtle physical cues",
-      "words": [
-        "scrawny",
-        "ruddy",
-        "slender",
-        "limp"
-      ]
-    }
-  ]
+    "date": "2026-04-13",
+    "groups": [
+        {
+            "id": "d1_easy",
+            "type": "easy",
+            "difficulty": "easy",
+            "title": "weapon material",
+            "words": [
+                "steel",
+                "blade",
+                "sword",
+                "brand"
+            ]
+        },
+        {
+            "id": "d1_medium",
+            "type": "medium",
+            "difficulty": "medium",
+            "title": "backstreet people",
+            "words": [
+                "bloke",
+                "fella",
+                "chap",
+                "lad"
+            ]
+        },
+        {
+            "id": "d1_hard",
+            "type": "hard",
+            "difficulty": "hard",
+            "title": "professional expertise",
+            "words": [
+                "carpenter",
+                "surveyor",
+                "librarian",
+                "apothecary"
+            ]
+        },
+        {
+            "id": "d1_veryhard",
+            "type": "very-hard",
+            "difficulty": "very_hard",
+            "title": "subtle physical cues",
+            "words": [
+                "scrawny",
+                "ruddy",
+                "slender",
+                "limp"
+            ]
+        }
+    ]
 }

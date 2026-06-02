@@ -1,53 +1,53 @@
 {
-  "date": "2026-04-07",
-  "groups": [
-    {
-      "id": "g1",
-      "type": "informal_register",
-      "difficulty": "easy",
-      "title": "folks, casually",
-      "words": [
-        "bloke",
-        "lad",
-        "fella",
-        "chap"
-      ]
-    },
-    {
-      "id": "g2",
-      "type": "profession_domain",
-      "difficulty": "medium",
-      "title": "medical staff roles",
-      "words": [
-        "paramedic",
-        "pharmacist",
-        "anesthetist",
-        "nurse"
-      ]
-    },
-    {
-      "id": "g3",
-      "type": "morphological_family",
-      "difficulty": "hard",
-      "title": "words built around 'audit'",
-      "words": [
-        "auditor",
-        "audit",
-        "auditable",
-        "auditing"
-      ]
-    },
-    {
-      "id": "g4",
-      "type": "emotional_tone",
-      "difficulty": "very_hard",
-      "title": "restraint, not anger",
-      "words": [
-        "stoic",
-        "composed",
-        "imperturbable",
-        "restrained"
-      ]
-    }
-  ]
+    "date": "2026-04-07",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "informal_register",
+            "difficulty": "easy",
+            "title": "folks, casually",
+            "words": [
+                "bloke",
+                "lad",
+                "fella",
+                "chap"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "profession_domain",
+            "difficulty": "medium",
+            "title": "medical staff roles",
+            "words": [
+                "paramedic",
+                "pharmacist",
+                "anesthetist",
+                "nurse"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "morphological_family",
+            "difficulty": "hard",
+            "title": "words built around 'audit'",
+            "words": [
+                "auditor",
+                "audit",
+                "auditable",
+                "auditing"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "emotional_tone",
+            "difficulty": "very_hard",
+            "title": "restraint, not anger",
+            "words": [
+                "stoic",
+                "composed",
+                "imperturbable",
+                "restrained"
+            ]
+        }
+    ]
 }

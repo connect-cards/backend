@@ -1,53 +1,53 @@
 {
-  "date": "2026-06-21",
-  "groups": [
-    {
-      "id": "g1",
-      "type": "sound_association",
-      "difficulty": "easy",
-      "title": "rhyming pairs, same ending sound",
-      "words": [
-        "mirth",
-        "earth",
-        "worth",
-        "birth"
-      ]
-    },
-    {
-      "id": "g2",
-      "type": "synonym",
-      "difficulty": "medium",
-      "title": "“not much” in different registers",
-      "words": [
-        "scant",
-        "meagre",
-        "paltry",
-        "sparse"
-      ]
-    },
-    {
-      "id": "g3",
-      "type": "semantic_field",
-      "difficulty": "hard",
-      "title": "performances of the mind and voice",
-      "words": [
-        "recite",
-        "orate",
-        "intonation",
-        "cadence"
-      ]
-    },
-    {
-      "id": "g4",
-      "type": "emotional_tone",
-      "difficulty": "very_hard",
-      "title": "cold, restrained suspicion",
-      "words": [
-        "leery",
-        "skeptical",
-        "wary",
-        "dubious"
-      ]
-    }
-  ]
+    "date": "2026-06-21",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "sound_association",
+            "difficulty": "easy",
+            "title": "rhyming pairs, same ending sound",
+            "words": [
+                "mirth",
+                "earth",
+                "worth",
+                "birth"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "synonym",
+            "difficulty": "medium",
+            "title": "“not much” in different registers",
+            "words": [
+                "scant",
+                "meagre",
+                "paltry",
+                "sparse"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "semantic_field",
+            "difficulty": "hard",
+            "title": "performances of the mind and voice",
+            "words": [
+                "recite",
+                "orate",
+                "intonation",
+                "cadence"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "emotional_tone",
+            "difficulty": "very_hard",
+            "title": "cold, restrained suspicion",
+            "words": [
+                "leery",
+                "skeptical",
+                "wary",
+                "dubious"
+            ]
+        }
+    ]
 }

@@ -1,53 +1,53 @@
 {
-  "date": "2026-06-05",
-  "groups": [
-    {
-      "id": "D1-E",
-      "type": "synonym",
-      "difficulty": "easy",
-      "title": "close in meaning (but not all interchangeable)",
-      "words": [
-        "quell",
-        "allay",
-        "soothe",
-        "abate"
-      ]
-    },
-    {
-      "id": "D1-M",
-      "type": "thematic_association",
-      "difficulty": "medium",
-      "title": "storms and their outcomes",
-      "words": [
-        "tempest",
-        "deluge",
-        "gale",
-        "squall"
-      ]
-    },
-    {
-      "id": "D1-H",
-      "type": "morphological_family",
-      "difficulty": "hard",
-      "title": "share a root: speech and refusal",
-      "words": [
-        "orate",
-        "decry",
-        "renounce",
-        "revoke"
-      ]
-    },
-    {
-      "id": "D1-VH",
-      "type": "physical_trait",
-      "difficulty": "very_hard",
-      "title": "not the same look, but the same sort of mark",
-      "words": [
-        "freckle",
-        "pockmark",
-        "scar",
-        "blemish"
-      ]
-    }
-  ]
+    "date": "2026-06-05",
+    "groups": [
+        {
+            "id": "D1-E",
+            "type": "synonym",
+            "difficulty": "easy",
+            "title": "close in meaning (but not all interchangeable)",
+            "words": [
+                "quell",
+                "allay",
+                "soothe",
+                "abate"
+            ]
+        },
+        {
+            "id": "D1-M",
+            "type": "thematic_association",
+            "difficulty": "medium",
+            "title": "storms and their outcomes",
+            "words": [
+                "tempest",
+                "deluge",
+                "gale",
+                "squall"
+            ]
+        },
+        {
+            "id": "D1-H",
+            "type": "morphological_family",
+            "difficulty": "hard",
+            "title": "share a root: speech and refusal",
+            "words": [
+                "orate",
+                "decry",
+                "renounce",
+                "revoke"
+            ]
+        },
+        {
+            "id": "D1-VH",
+            "type": "physical_trait",
+            "difficulty": "very_hard",
+            "title": "not the same look, but the same sort of mark",
+            "words": [
+                "freckle",
+                "pockmark",
+                "scar",
+                "blemish"
+            ]
+        }
+    ]
 }

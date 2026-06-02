@@ -1,53 +1,53 @@
 {
-  "date": "2026-05-20",
-  "groups": [
-    {
-      "id": "g1",
-      "type": "informal_register",
-      "difficulty": "easy",
-      "title": "slang terms of approval",
-      "words": [
-        "cool",
-        "awesome",
-        "dope",
-        "rad"
-      ]
-    },
-    {
-      "id": "g2",
-      "type": "thematic_association",
-      "difficulty": "medium",
-      "title": "classical elements",
-      "words": [
-        "earth",
-        "air",
-        "fire",
-        "water"
-      ]
-    },
-    {
-      "id": "g3",
-      "type": "synonym",
-      "difficulty": "hard",
-      "title": "quickness",
-      "words": [
-        "rapid",
-        "swift",
-        "speedy",
-        "brisk"
-      ]
-    },
-    {
-      "id": "g4",
-      "type": "sound_association",
-      "difficulty": "very_hard",
-      "title": "onomatopoeic sounds",
-      "words": [
-        "clang",
-        "whirr",
-        "hum",
-        "tinkle"
-      ]
-    }
-  ]
+    "date": "2026-05-20",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "informal_register",
+            "difficulty": "easy",
+            "title": "slang terms of approval",
+            "words": [
+                "cool",
+                "awesome",
+                "dope",
+                "rad"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "thematic_association",
+            "difficulty": "medium",
+            "title": "classical elements",
+            "words": [
+                "earth",
+                "air",
+                "fire",
+                "water"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "synonym",
+            "difficulty": "hard",
+            "title": "quickness",
+            "words": [
+                "rapid",
+                "swift",
+                "speedy",
+                "brisk"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "sound_association",
+            "difficulty": "very_hard",
+            "title": "onomatopoeic sounds",
+            "words": [
+                "clang",
+                "whirr",
+                "hum",
+                "tinkle"
+            ]
+        }
+    ]
 }

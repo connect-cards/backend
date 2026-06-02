@@ -1,53 +1,53 @@
 {
-  "date": "2026-05-10",
-  "groups": [
-    {
-      "id": "g1e",
-      "type": "easy",
-      "difficulty": "easy",
-      "title": "leisurely movements",
-      "words": [
-        "stroll",
-        "amble",
-        "saunter",
-        "meander"
-      ]
-    },
-    {
-      "id": "g1m",
-      "type": "medium",
-      "difficulty": "medium",
-      "title": "casual colloquialisms",
-      "words": [
-        "bloke",
-        "chap",
-        "lad",
-        "fella"
-      ]
-    },
-    {
-      "id": "g1h",
-      "type": "hard",
-      "difficulty": "hard",
-      "title": "radiant luminosities",
-      "words": [
-        "scintillating",
-        "effulgent",
-        "lambent",
-        "incandescent"
-      ]
-    },
-    {
-      "id": "g1vh",
-      "type": "very-hard",
-      "difficulty": "very_hard",
-      "title": "triadic terms for three",
-      "words": [
-        "triple",
-        "triad",
-        "troika",
-        "trinity"
-      ]
-    }
-  ]
+    "date": "2026-05-10",
+    "groups": [
+        {
+            "id": "g1e",
+            "type": "easy",
+            "difficulty": "easy",
+            "title": "leisurely movements",
+            "words": [
+                "stroll",
+                "amble",
+                "saunter",
+                "meander"
+            ]
+        },
+        {
+            "id": "g1m",
+            "type": "medium",
+            "difficulty": "medium",
+            "title": "casual colloquialisms",
+            "words": [
+                "bloke",
+                "chap",
+                "lad",
+                "fella"
+            ]
+        },
+        {
+            "id": "g1h",
+            "type": "hard",
+            "difficulty": "hard",
+            "title": "radiant luminosities",
+            "words": [
+                "scintillating",
+                "effulgent",
+                "lambent",
+                "incandescent"
+            ]
+        },
+        {
+            "id": "g1vh",
+            "type": "very-hard",
+            "difficulty": "very_hard",
+            "title": "triadic terms for three",
+            "words": [
+                "triple",
+                "triad",
+                "troika",
+                "trinity"
+            ]
+        }
+    ]
 }

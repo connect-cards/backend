@@ -1,53 +1,53 @@
 {
-  "date": "2026-04-03",
-  "groups": [
-    {
-      "id": "g1",
-      "type": "informal_register",
-      "difficulty": "easy",
-      "title": "effective mistakes",
-      "words": [
-        "oops",
-        "blunder",
-        "bungle",
-        "fumble"
-      ]
-    },
-    {
-      "id": "g2",
-      "type": "synonym",
-      "difficulty": "medium",
-      "title": "taken back by doubt",
-      "words": [
-        "waver",
-        "doubt",
-        "vacillate",
-        "hesitate"
-      ]
-    },
-    {
-      "id": "g3",
-      "type": "literary_register",
-      "difficulty": "hard",
-      "title": "literary persons",
-      "words": [
-        "vagrant",
-        "sojourner",
-        "wayfarer",
-        "pilgrim"
-      ]
-    },
-    {
-      "id": "g4",
-      "type": "sound_association",
-      "difficulty": "very_hard",
-      "title": "silent",
-      "words": [
-        "silted",
-        "unsaid",
-        "muted",
-        "unspoken"
-      ]
-    }
-  ]
+    "date": "2026-04-03",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "informal_register",
+            "difficulty": "easy",
+            "title": "effective mistakes",
+            "words": [
+                "oops",
+                "blunder",
+                "bungle",
+                "fumble"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "synonym",
+            "difficulty": "medium",
+            "title": "taken back by doubt",
+            "words": [
+                "waver",
+                "doubt",
+                "vacillate",
+                "hesitate"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "literary_register",
+            "difficulty": "hard",
+            "title": "literary persons",
+            "words": [
+                "vagrant",
+                "sojourner",
+                "wayfarer",
+                "pilgrim"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "sound_association",
+            "difficulty": "very_hard",
+            "title": "silent",
+            "words": [
+                "silted",
+                "unsaid",
+                "muted",
+                "unspoken"
+            ]
+        }
+    ]
 }

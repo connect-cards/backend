@@ -1,53 +1,53 @@
 {
-  "date": "2026-04-22",
-  "groups": [
-    {
-      "id": "g1",
-      "type": "physical_trait",
-      "difficulty": "easy",
-      "title": "facial features and impressions",
-      "words": [
-        "sallow",
-        "freckle",
-        "scar",
-        "moustache"
-      ]
-    },
-    {
-      "id": "g2",
-      "type": "profession_domain",
-      "difficulty": "medium",
-      "title": "fields connected to legal judgement",
-      "words": [
-        "jurist",
-        "plaintiff",
-        "testimony",
-        "verdict"
-      ]
-    },
-    {
-      "id": "g3",
-      "type": "thematic_association",
-      "difficulty": "hard",
-      "title": "cold weather and winter travel",
-      "words": [
-        "blizzard",
-        "avalanche",
-        "frostbite",
-        "sleet"
-      ]
-    },
-    {
-      "id": "g4",
-      "type": "literary_register",
-      "difficulty": "very_hard",
-      "title": "formality for talking about refusal",
-      "words": [
-        "repudiate",
-        "rebuff",
-        "withstand",
-        "resist"
-      ]
-    }
-  ]
+    "date": "2026-04-22",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "physical_trait",
+            "difficulty": "easy",
+            "title": "facial features and impressions",
+            "words": [
+                "sallow",
+                "freckle",
+                "scar",
+                "moustache"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "profession_domain",
+            "difficulty": "medium",
+            "title": "fields connected to legal judgement",
+            "words": [
+                "jurist",
+                "plaintiff",
+                "testimony",
+                "verdict"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "thematic_association",
+            "difficulty": "hard",
+            "title": "cold weather and winter travel",
+            "words": [
+                "blizzard",
+                "avalanche",
+                "frostbite",
+                "sleet"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "literary_register",
+            "difficulty": "very_hard",
+            "title": "formality for talking about refusal",
+            "words": [
+                "repudiate",
+                "rebuff",
+                "withstand",
+                "resist"
+            ]
+        }
+    ]
 }

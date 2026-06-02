@@ -1,53 +1,53 @@
 {
-  "date": "2026-04-12",
-  "groups": [
-    {
-      "id": "d4-easy",
-      "type": "synonym",
-      "difficulty": "easy",
-      "title": "a sudden, sharp decline",
-      "words": [
-        "recede",
-        "diminish",
-        "wane",
-        "decline"
-      ]
-    },
-    {
-      "id": "d4-medium",
-      "type": "emotional_tone",
-      "difficulty": "medium",
-      "title": "strained and uneasy",
-      "words": [
-        "apprehensive",
-        "uneasy",
-        "restive",
-        "jittery"
-      ]
-    },
-    {
-      "id": "d4-hard",
-      "type": "semantic_field",
-      "difficulty": "hard",
-      "title": "instruments for judging",
-      "words": [
-        "criteria",
-        "metrics",
-        "yardstick",
-        "benchmark"
-      ]
-    },
-    {
-      "id": "d4-vhard",
-      "type": "profession_domain",
-      "difficulty": "very_hard",
-      "title": "scholarly, rarely used terms",
-      "words": [
-        "tercet",
-        "terzetto",
-        "ternion",
-        "trine"
-      ]
-    }
-  ]
+    "date": "2026-04-12",
+    "groups": [
+        {
+            "id": "d4-easy",
+            "type": "synonym",
+            "difficulty": "easy",
+            "title": "a sudden, sharp decline",
+            "words": [
+                "recede",
+                "diminish",
+                "wane",
+                "decline"
+            ]
+        },
+        {
+            "id": "d4-medium",
+            "type": "emotional_tone",
+            "difficulty": "medium",
+            "title": "strained and uneasy",
+            "words": [
+                "apprehensive",
+                "uneasy",
+                "restive",
+                "jittery"
+            ]
+        },
+        {
+            "id": "d4-hard",
+            "type": "semantic_field",
+            "difficulty": "hard",
+            "title": "instruments for judging",
+            "words": [
+                "criteria",
+                "metrics",
+                "yardstick",
+                "benchmark"
+            ]
+        },
+        {
+            "id": "d4-vhard",
+            "type": "profession_domain",
+            "difficulty": "very_hard",
+            "title": "scholarly, rarely used terms",
+            "words": [
+                "tercet",
+                "terzetto",
+                "ternion",
+                "trine"
+            ]
+        }
+    ]
 }

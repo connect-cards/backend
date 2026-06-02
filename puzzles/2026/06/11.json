@@ -1,53 +1,53 @@
 {
-  "date": "2026-06-11",
-  "groups": [
-    {
-      "id": "d3-easy",
-      "type": "synonym",
-      "difficulty": "easy",
-      "title": "light, calm movement",
-      "words": [
-        "glide",
-        "float",
-        "drift",
-        "waver"
-      ]
-    },
-    {
-      "id": "d3-medium",
-      "type": "sound_association",
-      "difficulty": "medium",
-      "title": "muffled, low speech",
-      "words": [
-        "murmur",
-        "mumble",
-        "mutter",
-        "whisper"
-      ]
-    },
-    {
-      "id": "d3-hard",
-      "type": "informal_register",
-      "difficulty": "hard",
-      "title": "unclear or shaky recollection",
-      "words": [
-        "hazy",
-        "foggy",
-        "blurry",
-        "sketchy"
-      ]
-    },
-    {
-      "id": "d3-very-hard",
-      "type": "literary_register",
-      "difficulty": "very_hard",
-      "title": "a controlled, sparing style",
-      "words": [
-        "laconic",
-        "terseness",
-        "terse",
-        "brusque"
-      ]
-    }
-  ]
+    "date": "2026-06-11",
+    "groups": [
+        {
+            "id": "d3-easy",
+            "type": "synonym",
+            "difficulty": "easy",
+            "title": "light, calm movement",
+            "words": [
+                "glide",
+                "float",
+                "drift",
+                "waver"
+            ]
+        },
+        {
+            "id": "d3-medium",
+            "type": "sound_association",
+            "difficulty": "medium",
+            "title": "muffled, low speech",
+            "words": [
+                "murmur",
+                "mumble",
+                "mutter",
+                "whisper"
+            ]
+        },
+        {
+            "id": "d3-hard",
+            "type": "informal_register",
+            "difficulty": "hard",
+            "title": "unclear or shaky recollection",
+            "words": [
+                "hazy",
+                "foggy",
+                "blurry",
+                "sketchy"
+            ]
+        },
+        {
+            "id": "d3-very-hard",
+            "type": "literary_register",
+            "difficulty": "very_hard",
+            "title": "a controlled, sparing style",
+            "words": [
+                "laconic",
+                "terseness",
+                "terse",
+                "brusque"
+            ]
+        }
+    ]
 }

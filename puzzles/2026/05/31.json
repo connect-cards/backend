@@ -1,53 +1,53 @@
 {
-  "date": "2026-05-31",
-  "groups": [
-    {
-      "id": "G1",
-      "type": "informal_register",
-      "difficulty": "easy",
-      "title": "slang",
-      "words": [
-        "yo",
-        "bro",
-        "dawg",
-        "sup"
-      ]
-    },
-    {
-      "id": "G2",
-      "type": "profession_domain",
-      "difficulty": "medium",
-      "title": "professions",
-      "words": [
-        "doctor",
-        "teacher",
-        "plumber",
-        "writer"
-      ]
-    },
-    {
-      "id": "G3",
-      "type": "thematic_association",
-      "difficulty": "hard",
-      "title": "birds",
-      "words": [
-        "raven",
-        "crow",
-        "sparrow",
-        "owl"
-      ]
-    },
-    {
-      "id": "G4",
-      "type": "synonym",
-      "difficulty": "very_hard",
-      "title": "anger",
-      "words": [
-        "irate",
-        "livid",
-        "furious",
-        "wrathful"
-      ]
-    }
-  ]
+    "date": "2026-05-31",
+    "groups": [
+        {
+            "id": "G1",
+            "type": "informal_register",
+            "difficulty": "easy",
+            "title": "slang",
+            "words": [
+                "yo",
+                "bro",
+                "dawg",
+                "sup"
+            ]
+        },
+        {
+            "id": "G2",
+            "type": "profession_domain",
+            "difficulty": "medium",
+            "title": "professions",
+            "words": [
+                "doctor",
+                "teacher",
+                "plumber",
+                "writer"
+            ]
+        },
+        {
+            "id": "G3",
+            "type": "thematic_association",
+            "difficulty": "hard",
+            "title": "birds",
+            "words": [
+                "raven",
+                "crow",
+                "sparrow",
+                "owl"
+            ]
+        },
+        {
+            "id": "G4",
+            "type": "synonym",
+            "difficulty": "very_hard",
+            "title": "anger",
+            "words": [
+                "irate",
+                "livid",
+                "furious",
+                "wrathful"
+            ]
+        }
+    ]
 }

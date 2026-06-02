@@ -1,0 +1,15 @@
+{
+    "xylophone": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a musical instrument consisting of a series of wooden bars of different lengths that are struck with mallets to produce notes.",
+            "synonyms": [
+                "percussion instrument",
+                "mallet instrument"
+            ],
+            "examples": [
+                "She played a melody on the xylophone during the school concert."
+            ]
+        }
+    ]
+}

@@ -1,53 +1,53 @@
 {
-  "date": "2026-06-17",
-  "groups": [
-    {
-      "id": "g1",
-      "type": "easy",
-      "difficulty": "easy",
-      "title": "shadowy settings",
-      "words": [
-        "murky",
-        "dingy",
-        "somber",
-        "dreary"
-      ]
-    },
-    {
-      "id": "g2",
-      "type": "medium",
-      "difficulty": "medium",
-      "title": "speech-like register",
-      "words": [
-        "utter",
-        "pronounce",
-        "enunciate",
-        "articulate"
-      ]
-    },
-    {
-      "id": "g3",
-      "type": "hard",
-      "difficulty": "hard",
-      "title": "calibrated caution",
-      "words": [
-        "prudent",
-        "circumspect",
-        "cautious",
-        "wary"
-      ]
-    },
-    {
-      "id": "g4",
-      "type": "very-hard",
-      "difficulty": "very_hard",
-      "title": "poetic three-line form",
-      "words": [
-        "tercet",
-        "terzetto",
-        "ternion",
-        "trine"
-      ]
-    }
-  ]
+    "date": "2026-06-17",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "easy",
+            "difficulty": "easy",
+            "title": "shadowy settings",
+            "words": [
+                "murky",
+                "dingy",
+                "somber",
+                "dreary"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "medium",
+            "difficulty": "medium",
+            "title": "speech-like register",
+            "words": [
+                "utter",
+                "pronounce",
+                "enunciate",
+                "articulate"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "hard",
+            "difficulty": "hard",
+            "title": "calibrated caution",
+            "words": [
+                "prudent",
+                "circumspect",
+                "cautious",
+                "wary"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "very-hard",
+            "difficulty": "very_hard",
+            "title": "poetic three-line form",
+            "words": [
+                "tercet",
+                "terzetto",
+                "ternion",
+                "trine"
+            ]
+        }
+    ]
 }

@@ -1,53 +1,53 @@
 {
-  "date": "2026-05-18",
-  "groups": [
-    {
-      "id": "g1",
-      "type": "informal_register",
-      "difficulty": "easy",
-      "title": "casual address terms",
-      "words": [
-        "dude",
-        "mate",
-        "pal",
-        "bro"
-      ]
-    },
-    {
-      "id": "g2",
-      "type": "synonym",
-      "difficulty": "medium",
-      "title": "happiness",
-      "words": [
-        "glad",
-        "joyful",
-        "merry",
-        "elated"
-      ]
-    },
-    {
-      "id": "g3",
-      "type": "thematic_association",
-      "difficulty": "hard",
-      "title": "times of day",
-      "words": [
-        "dawn",
-        "noon",
-        "dusk",
-        "midnight"
-      ]
-    },
-    {
-      "id": "g4",
-      "type": "physical_trait",
-      "difficulty": "very_hard",
-      "title": "distinctive physiques",
-      "words": [
-        "gaunt",
-        "haggard",
-        "waifish",
-        "lank"
-      ]
-    }
-  ]
+    "date": "2026-05-18",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "informal_register",
+            "difficulty": "easy",
+            "title": "casual address terms",
+            "words": [
+                "dude",
+                "mate",
+                "pal",
+                "bro"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "synonym",
+            "difficulty": "medium",
+            "title": "happiness",
+            "words": [
+                "glad",
+                "joyful",
+                "merry",
+                "elated"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "thematic_association",
+            "difficulty": "hard",
+            "title": "times of day",
+            "words": [
+                "dawn",
+                "noon",
+                "dusk",
+                "midnight"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "physical_trait",
+            "difficulty": "very_hard",
+            "title": "distinctive physiques",
+            "words": [
+                "gaunt",
+                "haggard",
+                "waifish",
+                "lank"
+            ]
+        }
+    ]
 }

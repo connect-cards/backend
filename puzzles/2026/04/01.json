@@ -1,53 +1,53 @@
 {
-  "date": "2026-04-01",
-  "groups": [
-    {
-      "id": "g1",
-      "type": "profession_domain",
-      "difficulty": "easy",
-      "title": "cartographic practice",
-      "words": [
-        "surveyor",
-        "topographer",
-        "cartographer",
-        "geodesist"
-      ]
-    },
-    {
-      "id": "g2",
-      "type": "synonym",
-      "difficulty": "medium",
-      "title": "seeking with intent",
-      "words": [
-        "pursue",
-        "courser",
-        "track",
-        "doggedly"
-      ]
-    },
-    {
-      "id": "g3",
-      "type": "morphological_family",
-      "difficulty": "hard",
-      "title": "forceful speech",
-      "words": [
-        "orate",
-        "oration",
-        "oratory",
-        "orator"
-      ]
-    },
-    {
-      "id": "g4",
-      "type": "sound_association",
-      "difficulty": "very_hard",
-      "title": "counterfeit coinage",
-      "words": [
-        "spurious",
-        "forged",
-        "fictitious",
-        "coppery"
-      ]
-    }
-  ]
+    "date": "2026-04-01",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "profession_domain",
+            "difficulty": "easy",
+            "title": "cartographic practice",
+            "words": [
+                "surveyor",
+                "topographer",
+                "cartographer",
+                "geodesist"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "synonym",
+            "difficulty": "medium",
+            "title": "seeking with intent",
+            "words": [
+                "pursue",
+                "courser",
+                "track",
+                "doggedly"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "morphological_family",
+            "difficulty": "hard",
+            "title": "forceful speech",
+            "words": [
+                "orate",
+                "oration",
+                "oratory",
+                "orator"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "sound_association",
+            "difficulty": "very_hard",
+            "title": "counterfeit coinage",
+            "words": [
+                "spurious",
+                "forged",
+                "fictitious",
+                "coppery"
+            ]
+        }
+    ]
 }
