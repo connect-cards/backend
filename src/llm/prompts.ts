@@ -66,10 +66,10 @@ STRICT REQUIREMENTS:
 - Puzzles MUST be different and words across puzzles SHOULD NOT repeat
 
 DIFFICULTY DISTRIBUTION:
-- easy: accessible but not trivial. Examples:  blade / brand / steel / sword; stroll / wander / ramble / roam.
-- medium: includes informal, literary, or less common vocabulary. Examples: bloke / chap / lad / fella; murky / dingy / somber / dreary.
-- hard: uncommon GRE/IELTS vocabulary and near-synonyms preferred over exact synonyms. Examples: scintillating / glittering / sparkly / glittery; laconic / curt / terse / brusque.
-- very_hard: obscure, archaic, literary, technical, or rarely used words but should still be valid English vocabulary. Examples: tercet / terzetto / ternion / trine; eldritch / uncanny / unearthly / weird. Avoid super long words if possible.
+- easy: accessible but not trivial
+- medium: includes informal, literary, or less common vocabulary
+- hard: uncommon GRE/IELTS vocabulary and near-synonyms preferred over exact synonyms
+- very_hard: obscure, archaic, literary, technical, or rarely used words but should still be valid English vocabulary. Avoid super long words if possible.
 
 Prefer these difficulty boosters: archaic words, literary vocabulary, words with multiple meanings, misleading overlaps between categories, rare morphological relatives, thematic ambiguity
 
@@ -77,20 +77,49 @@ TARGER VOCABULARY LEVEL:
 - Suitable for IELTS band 7-9, GRE verbal, CEFR level C1-C2
 - At least 2 words should be uncommon for average native speakers
 
-PUZZLES' DATES AND SUGGESTED GROUP TYPES for EACH DAY (use as inspiration -- not label):
+PUZZLES' DATES AND SUGGESTED GROUP TYPES for EACH DAY:
 ${dates.map((date: string) => `- Date ${date}: ${pickTypes(types).join(", ")}`).join("\n")}
+
+TITLE RULES:
+- The title is shown to players.
+- The title must be 1-6 words long uisng plain English
+- The title must describe the category, not the puzzle difficulty or type
+- For every group, imagine the sentence: "These words belong together because they are _____." The title should complete that sentence naturally.
 
 Return ONLY JSON.
 `
 
 export const repairPrompt = (json: string) => `
-The following puzzle is ambiguous. 
+You are an ESL Connections puzzle validator and repairer. Analyze the puzzle before making changes.
 
-Fix it to meet rules:
+REPAIR RULES (in order):
+1. If all word groups are valid and the puzzle has a unique solution:
+    - Keep ALL words unchanged.
+    - Keep ALL group memberships unchanged.
+    - Fix ONLY titles that are unclear, vague, metaphorical, poetic, cryptic, or developer-oriented.
+2. If groupings are mostly valid but one or more groups are weak or ambiguous:
+    - Modify the minimum number of words necessary.
+    - Preserve as much of the original puzzle as possible.
+    - Rewrite titles as needed.
+3. If the puzzle does not have a unique solution, contains overlapping categories, or multiple groups can reasonably claim the same words:
+    - Regenerate only the problematic groups.
+    - Keep valid groups intact whenever possible.
+4. Only regenerate the entire puzzle if the overall structure is unsalvageable.
+
+TITLE RULES:
+- The title is player-facing.
+- A good title should clearly explain why the 4 words belong together using plain English within 1-6 words
+
+VALIDATION REQUIREMENTS:
 - Exactly 4 groups
-- No overlap
-- Unique solution
-- ESL-friendly
+- Exactly 4 words per group
+- 16 unique words total
+- No word appears twice
+- Single-word entries only
+- No proper nouns
+- ESL-friendly vocabulary
+- One unique intended solution
+- Titles must be more descriptive than the type field
 
 Return ONLY fixed JSON.
 
