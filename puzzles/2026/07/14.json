@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-14",
+    "groups": [
+        {
+            "id": "easy",
+            "type": "emotional_tone",
+            "difficulty": "easy",
+            "title": "tension that keeps returning",
+            "words": [
+                "anxiety",
+                "dread",
+                "unease",
+                "foreboding"
+            ]
+        },
+        {
+            "id": "medium",
+            "type": "semantic_field",
+            "difficulty": "medium",
+            "title": "kinds of careful observation",
+            "words": [
+                "scrutinize",
+                "peruse",
+                "discern",
+                "monitor"
+            ]
+        },
+        {
+            "id": "hard",
+            "type": "profession_domain",
+            "difficulty": "hard",
+            "title": "work of a legal advocate",
+            "words": [
+                "litigate",
+                "brief",
+                "testify",
+                "jurisprudence"
+            ]
+        },
+        {
+            "id": "very_hard",
+            "type": "etymological_relation",
+            "difficulty": "very_hard",
+            "title": "words sharing a latin root for judging",
+            "words": [
+                "censor",
+                "censure",
+                "decide",
+                "decree"
+            ]
+        }
+    ]
+}

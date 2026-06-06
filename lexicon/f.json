@@ -1376,5 +1376,163 @@
                 "The teacher said fie when the student broke the rule."
             ]
         }
+    ],
+    "flustered": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "confused and nervous, often because of sudden pressure or surprise",
+            "synonyms": [
+                "confused",
+                "nervous",
+                "upset",
+                "panicked"
+            ],
+            "examples": [
+                "She looked flustered when the interviewer asked unexpected questions.",
+                "I was flustered because I lost my notes."
+            ]
+        }
+    ],
+    "floodplain": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an area of land next to a river that can be covered with water during floods",
+            "synonyms": [
+                "river plain",
+                "flood zone",
+                "bottom land"
+            ],
+            "examples": [
+                "The house was built on higher ground outside the floodplain.",
+                "Heavy rain increased the water level on the floodplain."
+            ]
+        }
+    ],
+    "fore": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "in golf, the term used to warn others when a ball might hit them",
+            "synonyms": [],
+            "examples": [
+                "He shouted fore to warn the players ahead."
+            ]
+        }
+    ],
+    "four": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the number 4",
+            "synonyms": [
+                "iv (roman numeral)"
+            ],
+            "examples": [
+                "There are four people in the room.",
+                "Four is my favorite number."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "of the number 4 in order or quantity",
+            "synonyms": [
+                "4th (context depending)"
+            ],
+            "examples": [
+                "We need four chairs for the meeting.",
+                "She lives on the fourth floor."
+            ]
+        }
+    ],
+    "ferry": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a boat or ship that carries passengers and vehicles across a body of water",
+            "synonyms": [
+                "boat",
+                "passenger vessel",
+                "ferryboat"
+            ],
+            "examples": [
+                "We took the ferry to the island.",
+                "The ferry leaves every hour."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to transport people or goods across water on a ferry",
+            "synonyms": [
+                "transport",
+                "carry",
+                "carry across",
+                "shuttle"
+            ],
+            "examples": [
+                "They will ferry passengers across the bay.",
+                "The company ferried workers to the offshore site."
+            ]
+        }
+    ],
+    "forsake": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to leave someone or something permanently or stop supporting it",
+            "synonyms": [
+                "abandon",
+                "leave",
+                "discard",
+                "renounce"
+            ],
+            "examples": [
+                "She refused to forsake her friends.",
+                "He forsook his old habits after the accident."
+            ]
+        }
+    ],
+    "flee": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to run away to escape danger or arrest",
+            "synonyms": [
+                "run",
+                "escape",
+                "bolt",
+                "scram"
+            ],
+            "examples": [
+                "He tried to flee the scene.",
+                "The animals fled when the noise started."
+            ]
+        }
+    ],
+    "fearful": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "feeling afraid or showing fear",
+            "synonyms": [
+                "afraid",
+                "scared",
+                "anxious",
+                "frightened"
+            ],
+            "examples": [
+                "She was fearful of the dark.",
+                "He became fearful after hearing the warning."
+            ]
+        }
+    ],
+    "foray": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a short attempt to enter an activity, field, or place",
+            "synonyms": [
+                "attempt",
+                "trial",
+                "short trip",
+                "venture"
+            ],
+            "examples": [
+                "The band’s foray into pop music surprised fans.",
+                "This is our first foray into the market."
+            ]
+        }
     ]
 }

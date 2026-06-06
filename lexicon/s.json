@@ -4847,5 +4847,645 @@
                 "The spar lasted three rounds."
             ]
         }
+    ],
+    "shifty": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "not trustworthy or likely to change plans in an unfair or dishonest way",
+            "synonyms": [
+                "deceptive",
+                "unreliable",
+                "dodgy",
+                "sly"
+            ],
+            "examples": [
+                "He gave me a shifty excuse for being late.",
+                "The buyer seemed shifty during the deal."
+            ]
+        }
+    ],
+    "serrated": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having a edge with small pointed teeth, like a saw",
+            "synonyms": [
+                "toothed",
+                "notched",
+                "jagged",
+                "sawtoothed"
+            ],
+            "examples": [
+                "The knife has a serrated edge.",
+                "A serrated blade is useful for cutting bread."
+            ]
+        }
+    ],
+    "sting": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a sharp painful sensation, often lasting briefly",
+            "synonyms": [
+                "pain",
+                "burn",
+                "sharpness",
+                "twinge"
+            ],
+            "examples": [
+                "The sting of the cold water made her gasp.",
+                "I felt a sting in my ankle."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to cause a sharp painful feeling, often like an insect bite or cold liquid",
+            "synonyms": [
+                "burn",
+                "pain",
+                "hurt",
+                "twinge"
+            ],
+            "examples": [
+                "The wind stung my eyes.",
+                "The soap stings if it gets in your cut."
+            ]
+        }
+    ],
+    "succor": [
+        {
+            "part_of_speech": "noun",
+            "definition": "help, especially practical help during a difficult situation",
+            "synonyms": [
+                "help",
+                "assistance",
+                "support",
+                "relief"
+            ],
+            "examples": [
+                "The storm left people in need of succor.",
+                "They organized succor for the victims."
+            ]
+        }
+    ],
+    "succour": [
+        {
+            "part_of_speech": "noun",
+            "definition": "help, especially practical help during a difficult situation",
+            "synonyms": [
+                "help",
+                "assistance",
+                "support",
+                "relief"
+            ],
+            "examples": [
+                "The victims received succour from local groups.",
+                "She was grateful for succour after the accident."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to provide help during danger or trouble",
+            "synonyms": [
+                "help",
+                "assist",
+                "support",
+                "relieve"
+            ],
+            "examples": [
+                "The firefighters succoured trapped residents.",
+                "The organization aims to succour refugees."
+            ]
+        }
+    ],
+    "screwy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "not organized or not working correctly; also used informally to mean strange or unreasonable",
+            "synonyms": [
+                "broken",
+                "messy",
+                "odd",
+                "bizarre"
+            ],
+            "examples": [
+                "The instructions are screwy and confusing.",
+                "That plan sounds screwy to me."
+            ]
+        }
+    ],
+    "stammer": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to speak with repeated stops or sounds, often because of anxiety or a speech difficulty",
+            "synonyms": [
+                "stutter",
+                "hesitate",
+                "break speech",
+                "draw out words"
+            ],
+            "examples": [
+                "He stammered during the presentation.",
+                "Some children stammer when they feel nervous."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a speech problem where the person repeats sounds or gets stuck while speaking",
+            "synonyms": [
+                "stutter",
+                "speech difficulty"
+            ],
+            "examples": [
+                "She worked with a therapist to reduce her stammer.",
+                "His stammer improved over time."
+            ]
+        }
+    ],
+    "snitchy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "informal and slang meaning likely to report others or complain, often in a negative way",
+            "synonyms": [
+                "tattling",
+                "informing",
+                "snitching",
+                "self-serving"
+            ],
+            "examples": [
+                "He’s snitchy and always tells on people.",
+                "Don’t be snitchy with personal information."
+            ]
+        }
+    ],
+    "surveillance": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the close watching of people or places, often for security or investigation",
+            "synonyms": [
+                "monitoring",
+                "watching",
+                "observation",
+                "scrutiny"
+            ],
+            "examples": [
+                "The police used surveillance to track the suspect.",
+                "Surveillance cameras cover the parking lot."
+            ]
+        }
+    ],
+    "statistical": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "related to statistics or to the analysis of data",
+            "synonyms": [
+                "numerical",
+                "data-based",
+                "based on statistics",
+                "quantitative"
+            ],
+            "examples": [
+                "The statistical report shows clear trends.",
+                "We used statistical methods to compare groups."
+            ]
+        }
+    ],
+    "showy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "designed to attract attention, sometimes in an excessive way",
+            "synonyms": [
+                "flashy",
+                "attention-seeking",
+                "glitzy",
+                "ornate"
+            ],
+            "examples": [
+                "She wore a showy dress to the party.",
+                "His showy behavior annoyed the others."
+            ]
+        }
+    ],
+    "snappy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "quick and energetic, or said in a short, sharp way",
+            "synonyms": [
+                "quick",
+                "lively",
+                "brief",
+                "sharp"
+            ],
+            "examples": [
+                "She gave a snappy response and moved on.",
+                "The laptop startup is snappy."
+            ]
+        }
+    ],
+    "sprinkle": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to scatter small amounts of something over a surface",
+            "synonyms": [
+                "scatter",
+                "drizzle",
+                "dampen lightly",
+                "splash"
+            ],
+            "examples": [
+                "Sprinkle salt on the vegetables.",
+                "She sprinkled a little flour on the table."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a small amount that is scattered",
+            "synonyms": [
+                "scattering",
+                "light shower",
+                "bit",
+                "dash"
+            ],
+            "examples": [
+                "Add a sprinkle of cinnamon before baking.",
+                "I only need a sprinkle of sugar."
+            ]
+        }
+    ],
+    "solicit": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to ask for something formally or to try to obtain help, support, or business",
+            "synonyms": [
+                "request",
+                "ask",
+                "seek",
+                "appeal for"
+            ],
+            "examples": [
+                "They solicited donations for the shelter.",
+                "The company solicits feedback from customers."
+            ]
+        }
+    ],
+    "steer": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to control the direction of something moving, such as a vehicle or ship",
+            "synonyms": [
+                "guide",
+                "direct",
+                "pilot",
+                "manage"
+            ],
+            "examples": [
+                "He steered the car into the driveway.",
+                "The captain steered the ship toward the harbor."
+            ]
+        }
+    ],
+    "swiftly": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "in a fast and quick way",
+            "synonyms": [
+                "quickly",
+                "rapidly",
+                "speedily",
+                "promptly"
+            ],
+            "examples": [
+                "She replied swiftly to the message.",
+                "The car moved swiftly down the road."
+            ]
+        }
+    ],
+    "seaweed": [
+        {
+            "part_of_speech": "noun",
+            "definition": "plants that grow in the sea",
+            "synonyms": [
+                "algae",
+                "marine plants"
+            ],
+            "examples": [
+                "The beach was covered with seaweed after the storm.",
+                "Seaweed is used in some foods."
+            ]
+        }
+    ],
+    "screwup": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a mistake or failure, especially one that causes problems",
+            "synonyms": [
+                "mistake",
+                "blunder",
+                "error",
+                "mess-up"
+            ],
+            "examples": [
+                "It was a screwup, but we fixed it quickly.",
+                "She admitted the screwup and apologized."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a mistake and cause a failure",
+            "synonyms": [
+                "mess up",
+                "botch",
+                "ruin",
+                "make a blunder"
+            ],
+            "examples": [
+                "I screwup the form, so we had to redo it.",
+                "Don’t screw up this time."
+            ]
+        }
+    ],
+    "stair": [
+        {
+            "part_of_speech": "noun",
+            "definition": "one step of a staircase; also used for a staircase in everyday speech",
+            "synonyms": [
+                "step",
+                "flight of steps (context)"
+            ],
+            "examples": [
+                "Watch your step on the stair.",
+                "He slipped on the first stair."
+            ]
+        }
+    ],
+    "spur": [
+        {
+            "part_of_speech": "noun",
+            "definition": "something that encourages action or motivates progress",
+            "synonyms": [
+                "motivation",
+                "incentive",
+                "encouragement",
+                "push"
+            ],
+            "examples": [
+                "The award was a spur to keep working hard.",
+                "Her support became a spur for the whole team."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to encourage or cause someone to act, often by motivating them",
+            "synonyms": [
+                "encourage",
+                "motivate",
+                "prompt",
+                "stimulate"
+            ],
+            "examples": [
+                "New evidence spurred the investigation.",
+                "The plan spurred people to get involved."
+            ]
+        }
+    ],
+    "sojourn": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a temporary stay in a place",
+            "synonyms": [
+                "stay",
+                "residence (temporary)",
+                "visit",
+                "temporary stay"
+            ],
+            "examples": [
+                "They planned a short sojourn in the city.",
+                "Her sojourn abroad changed her perspective."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to stay temporarily in a place",
+            "synonyms": [
+                "stay",
+                "reside briefly",
+                "visit",
+                "stop over"
+            ],
+            "examples": [
+                "We sojourned in Lisbon for a week.",
+                "He sojourned with relatives during the holidays."
+            ]
+        }
+    ],
+    "sincerity": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the quality of being honest and showing true feelings",
+            "synonyms": [
+                "honesty",
+                "truthfulness",
+                "genuineness",
+                "candor"
+            ],
+            "examples": [
+                "Her sincerity impressed everyone.",
+                "I believe him, but sincerity is important to me."
+            ]
+        }
+    ],
+    "summarize": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to give a short statement of the main points of something",
+            "synonyms": [
+                "sum up",
+                "condense",
+                "outline",
+                "brief"
+            ],
+            "examples": [
+                "Can you summarize the article in two sentences?",
+                "He summarized the meeting for those who missed it."
+            ]
+        }
+    ],
+    "scatter": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to spread out and move in different directions",
+            "synonyms": [
+                "spread",
+                "disperse",
+                "scatter",
+                "toss"
+            ],
+            "examples": [
+                "The crowd scattered when the fire started.",
+                "Leaves scattered across the path."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a spread or group moving in different directions",
+            "synonyms": [
+                "dispersion",
+                "spread"
+            ],
+            "examples": [
+                "The scatter of the birds was sudden."
+            ]
+        }
+    ],
+    "speechwriter": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who writes speeches for someone else to deliver",
+            "synonyms": [
+                "speech author",
+                "writer (for speeches)",
+                "ghostwriter",
+                "speech consultant"
+            ],
+            "examples": [
+                "The speechwriter prepared the governor’s address.",
+                "He worked as a speechwriter for the senator."
+            ]
+        }
+    ],
+    "scram": [
+        {
+            "part_of_speech": "verb",
+            "definition": "informal and rude meaning to leave quickly, usually because you are not wanted",
+            "synonyms": [
+                "go away",
+                "scramble off",
+                "beat it",
+                "get out"
+            ],
+            "examples": [
+                "Scram! You can’t stay here.",
+                "When the guard arrived, they scrammed."
+            ]
+        }
+    ],
+    "skedaddle": [
+        {
+            "part_of_speech": "verb",
+            "definition": "informal meaning to leave quickly, often to escape trouble",
+            "synonyms": [
+                "scurry off",
+                "run away",
+                "scram",
+                "bolt"
+            ],
+            "examples": [
+                "They skedaddled when the police showed up.",
+                "We skedaddled before the rain got worse."
+            ]
+        }
+    ],
+    "salubrious": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "good for health or promoting well-being",
+            "synonyms": [
+                "healthy",
+                "beneficial",
+                "wholesome",
+                "helpful"
+            ],
+            "examples": [
+                "Fresh air can be salubrious.",
+                "The climate is salubrious for her condition."
+            ]
+        }
+    ],
+    "scornful": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "showing contempt or disrespect; treating someone as unimportant or worthless",
+            "synonyms": [
+                "contemptuous",
+                "derisive",
+                "disrespectful",
+                "mocking"
+            ],
+            "examples": [
+                "He gave a scornful smile.",
+                "The review was scornful of the new product."
+            ]
+        }
+    ],
+    "spindrift": [
+        {
+            "part_of_speech": "noun",
+            "definition": "fine spray or wind-blown snow and salt near the surface of snow or waves",
+            "synonyms": [
+                "spray",
+                "driven snow",
+                "snow spray"
+            ],
+            "examples": [
+                "Spindrift covered the deck during the storm.",
+                "They saw spindrift blowing across the rocks."
+            ]
+        }
+    ],
+    "snivel": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to cry in a weak, whining way",
+            "synonyms": [
+                "whimper",
+                "sob",
+                "cry",
+                "whine"
+            ],
+            "examples": [
+                "He sniveled when he didn’t get the toy.",
+                "Stop sniveling and tell us what happened."
+            ]
+        }
+    ],
+    "suspect": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person thought to be involved in a crime or wrongdoing, though not proven guilty",
+            "synonyms": [
+                "accused person",
+                "suspect",
+                "prime suspect"
+            ],
+            "examples": [
+                "The police questioned the suspect for hours.",
+                "A suspect was seen near the scene."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to think that something is likely, especially without having full proof",
+            "synonyms": [
+                "think",
+                "assume",
+                "believe",
+                "doubt"
+            ],
+            "examples": [
+                "I suspect he forgot to send the email.",
+                "We suspect foul play."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "not proven but believed to be involved in wrongdoing or danger",
+            "synonyms": [
+                "questionable",
+                "doubtful",
+                "likely to be guilty"
+            ],
+            "examples": [
+                "A suspect package was found near the entrance.",
+                "The suspect account showed unusual activity."
+            ]
+        }
     ]
 }

@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-05",
+    "groups": [
+        {
+            "id": "d1-easy",
+            "type": "sound_association",
+            "difficulty": "easy",
+            "title": "words that rhyme in meaning",
+            "words": [
+                "censor",
+                "rebut",
+                "mender",
+                "tremor"
+            ]
+        },
+        {
+            "id": "d1-medium",
+            "type": "profession_domain",
+            "difficulty": "medium",
+            "title": "words that fit legal work",
+            "words": [
+                "affidavit",
+                "litigator",
+                "subpoena",
+                "plaintiff"
+            ]
+        },
+        {
+            "id": "d1-hard",
+            "type": "literary_register",
+            "difficulty": "hard",
+            "title": "words that sound literary",
+            "words": [
+                "wherewithal",
+                "besiege",
+                "henceforth",
+                "verily"
+            ]
+        },
+        {
+            "id": "d1-very_hard",
+            "type": "informal_register",
+            "difficulty": "very_hard",
+            "title": "words that feel casually dismissive",
+            "words": [
+                "nah",
+                "whatever",
+                "sketchy",
+                "gimcrack"
+            ]
+        }
+    ]
+}

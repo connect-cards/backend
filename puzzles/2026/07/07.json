@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-07",
+    "groups": [
+        {
+            "id": "d3-easy",
+            "type": "morphological_family",
+            "difficulty": "easy",
+            "title": "words from the same word family",
+            "words": [
+                "clarify",
+                "clarity",
+                "unclear",
+                "clarion"
+            ]
+        },
+        {
+            "id": "d3-medium",
+            "type": "profession_domain",
+            "difficulty": "medium",
+            "title": "words from engineering tasks",
+            "words": [
+                "prototype",
+                "calibrate",
+                "tolerance",
+                "bearing"
+            ]
+        },
+        {
+            "id": "d3-hard",
+            "type": "semantic_field",
+            "difficulty": "hard",
+            "title": "words about blame and fault",
+            "words": [
+                "culpability",
+                "accusation",
+                "liability",
+                "exonerate"
+            ]
+        },
+        {
+            "id": "d3-very_hard",
+            "type": "informal_register",
+            "difficulty": "very_hard",
+            "title": "words that sound like street sarcasm",
+            "words": [
+                "clowning",
+                "wack",
+                "bogus",
+                "snitchy"
+            ]
+        }
+    ]
+}

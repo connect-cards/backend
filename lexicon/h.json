@@ -1058,5 +1058,244 @@
                 "His hoarse voice made it hard to understand him."
             ]
         }
+    ],
+    "holloweyed": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having sunken or dark areas around the eyes, often from lack of sleep or illness",
+            "synonyms": [
+                "sunken-eyed",
+                "gaunt",
+                "drawn",
+                "dark-circled"
+            ],
+            "examples": [
+                "After the flu, she looked holloweyed.",
+                "He stayed up all night and became holloweyed."
+            ]
+        }
+    ],
+    "hunched": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having the shoulders raised and body bent forward",
+            "synonyms": [
+                "stooped",
+                "rounded-shouldered",
+                "bent forward",
+                "crouched"
+            ],
+            "examples": [
+                "He walked with a hunched posture.",
+                "The child was hunched over the desk."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "past tense and past participle of hunch; bent the body forward",
+            "synonyms": [
+                "stooped",
+                "bent",
+                "shrugged forward"
+            ],
+            "examples": [
+                "She hunched her shoulders against the cold.",
+                "He hunched over the work table."
+            ]
+        }
+    ],
+    "humming": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a continuous low sound, often produced by vibrations in a machine or insect",
+            "synonyms": [
+                "buzzing",
+                "drone",
+                "whirring",
+                "low sound"
+            ],
+            "examples": [
+                "The humming from the refrigerator kept me awake.",
+                "I heard a humming sound in the wall."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "present participle of hum; making a continuous low sound",
+            "synonyms": [
+                "buzz",
+                "drone",
+                "whir",
+                "sing softly"
+            ],
+            "examples": [
+                "The fan is humming softly.",
+                "She was humming while she worked."
+            ]
+        }
+    ],
+    "hymn": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a song of praise or worship, often sung in a religious service",
+            "synonyms": [
+                "song",
+                "religious song",
+                "psalm",
+                "anthem"
+            ],
+            "examples": [
+                "They sang a hymn in church.",
+                "The hymn was well known in the community."
+            ]
+        }
+    ],
+    "hirsute": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having a lot of hair; hairy",
+            "synonyms": [
+                "hairy",
+                "furred",
+                "wild-haired",
+                "shaggy"
+            ],
+            "examples": [
+                "He is naturally hirsute.",
+                "The animal’s hirsute coat helps it survive cold weather."
+            ]
+        }
+    ],
+    "hazard": [
+        {
+            "part_of_speech": "noun",
+            "definition": "something that can cause harm or danger",
+            "synonyms": [
+                "danger",
+                "risk",
+                "peril",
+                "threat"
+            ],
+            "examples": [
+                "Ice is a hazard on this road.",
+                "The chemicals are a serious hazard."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to put something at risk of harm",
+            "synonyms": [
+                "endanger",
+                "risk",
+                "jeopardize",
+                "threaten"
+            ],
+            "examples": [
+                "Don’t hazard your safety for a photo.",
+                "The careless driver hazarded other people."
+            ]
+        }
+    ],
+    "hype": [
+        {
+            "part_of_speech": "noun",
+            "definition": "excessive advertising or talk that makes something seem more impressive than it really is",
+            "synonyms": [
+                "promotion",
+                "buzz",
+                "publicity",
+                "overstatement"
+            ],
+            "examples": [
+                "There was so much hype around the product.",
+                "The hype disappeared after the first week."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to promote something in an exaggerated way",
+            "synonyms": [
+                "promote",
+                "advertise",
+                "publicize",
+                "oversell"
+            ],
+            "examples": [
+                "They hype the new app, but it has many problems.",
+                "Don’t hype it too much."
+            ]
+        }
+    ],
+    "harbor": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a protected area of water where ships can safely stay",
+            "synonyms": [
+                "port",
+                "haven",
+                "bay"
+            ],
+            "examples": [
+                "The ship entered the harbor at dusk.",
+                "We stayed near the harbor."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to keep or have a feeling or plan, especially something negative",
+            "synonyms": [
+                "hold",
+                "carry",
+                "nurture",
+                "keep"
+            ],
+            "examples": [
+                "He harbored resentment for years.",
+                "She harbored doubts about the plan."
+            ]
+        }
+    ],
+    "hightail": [
+        {
+            "part_of_speech": "verb",
+            "definition": "informal meaning to leave quickly",
+            "synonyms": [
+                "hurry",
+                "speed off",
+                "bolt",
+                "run"
+            ],
+            "examples": [
+                "We hightailed it to the station before the train left.",
+                "He hightailed out of the room."
+            ]
+        }
+    ],
+    "hearing": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a meeting in a court where people give statements and evidence",
+            "synonyms": [
+                "court session",
+                "trial hearing",
+                "legal proceeding"
+            ],
+            "examples": [
+                "The hearing will start at 10 a.m.",
+                "She attended the hearing and gave testimony."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "the sense of hearing or the act of hearing sounds",
+            "synonyms": [
+                "ability to hear",
+                "audition"
+            ],
+            "examples": [
+                "The doctor tested her hearing.",
+                "His hearing is fine."
+            ]
+        }
     ]
 }

@@ -273,5 +273,60 @@
                 "The storm finally quieted in the evening."
             ]
         }
+    ],
+    "quietude": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a state of being quiet and peaceful",
+            "synonyms": [
+                "silence",
+                "calm",
+                "stillness",
+                "peace"
+            ],
+            "examples": [
+                "She enjoyed the quietude of the morning.",
+                "The room filled with quietude after the speeches ended."
+            ]
+        }
+    ],
+    "quirnel": [
+        {
+            "part_of_speech": "noun",
+            "definition": "no standard modern english word or common usage found for this form. did you mean quirel, quern, or another spelling?",
+            "synonyms": [],
+            "examples": [
+                "If you share the correct spelling, I will generate an accurate dictionary entry."
+            ]
+        }
+    ],
+    "quarry": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a place where stone or other materials are taken from the ground for building or industry",
+            "synonyms": [
+                "stone pit",
+                "rock quarry",
+                "mine (for stone)"
+            ],
+            "examples": [
+                "The quarry provided limestone for the construction.",
+                "Cars passed the quarry every morning."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to search for something, often resources, by digging or seeking",
+            "synonyms": [
+                "seek",
+                "hunt",
+                "look for",
+                "extract"
+            ],
+            "examples": [
+                "They quarry the region for valuable stone.",
+                "The team quarries new ideas in meetings."
+            ]
+        }
     ]
 }

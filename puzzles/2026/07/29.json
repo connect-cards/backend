@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-29",
+    "groups": [
+        {
+            "id": "day1-easy",
+            "type": "profession_domain",
+            "difficulty": "easy",
+            "title": "skills in court",
+            "words": [
+                "testify",
+                "litigate",
+                "plead",
+                "verdict"
+            ]
+        },
+        {
+            "id": "day1-medium",
+            "type": "literary_register",
+            "difficulty": "medium",
+            "title": "writers' diction",
+            "words": [
+                "murmur",
+                "cincture",
+                "writ",
+                "spindrift"
+            ]
+        },
+        {
+            "id": "day1-hard",
+            "type": "informal_register",
+            "difficulty": "hard",
+            "title": "casual ways to complain",
+            "words": [
+                "bitch",
+                "rant",
+                "snivel",
+                "gripe"
+            ]
+        },
+        {
+            "id": "day1-very_hard",
+            "type": "morphological_family",
+            "difficulty": "very_hard",
+            "title": "words from the same root",
+            "words": [
+                "auditory",
+                "hearing",
+                "audition",
+                "audible"
+            ]
+        }
+    ]
+}

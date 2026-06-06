@@ -1695,5 +1695,358 @@
                 "There was only babble on the recording."
             ]
         }
+    ],
+    "brief": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a short written statement of facts and arguments in a legal case",
+            "synonyms": [
+                "legal brief",
+                "submission",
+                "memorandum"
+            ],
+            "examples": [
+                "The attorney submitted the brief to the court.",
+                "We reviewed the brief before the hearing."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "lasting for a short time",
+            "synonyms": [
+                "short",
+                "momentary",
+                "temporary",
+                "briefly"
+            ],
+            "examples": [
+                "We had a brief meeting after class.",
+                "The storm caused only a brief delay."
+            ]
+        }
+    ],
+    "balding": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "losing hair gradually or having less hair than before",
+            "synonyms": [
+                "thinning",
+                "getting bald",
+                "hairless",
+                "receding"
+            ],
+            "examples": [
+                "He is balding on the top of his head.",
+                "Her hair started thinning when she was in her thirties."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "the process of becoming bald, especially gradually",
+            "synonyms": [
+                "baldness",
+                "hair loss",
+                "thinning"
+            ],
+            "examples": [
+                "Balding can begin slowly and go unnoticed.",
+                "Many people worry about balding."
+            ]
+        }
+    ],
+    "bagged": [
+        {
+            "part_of_speech": "verb",
+            "definition": "past tense and past participle of bag; put something into a bag, or successfully obtain something",
+            "synonyms": [
+                "collected",
+                "obtained",
+                "secured",
+                "caught"
+            ],
+            "examples": [
+                "She bagged the groceries and left.",
+                "They bagged the contract after a long process."
+            ]
+        }
+    ],
+    "besiege": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to surround a place with troops or people, usually to force surrender",
+            "synonyms": [
+                "lay siege to",
+                "surround",
+                "blockade",
+                "encircle"
+            ],
+            "examples": [
+                "The army besieged the city for months.",
+                "They tried to besiege the building with protests."
+            ]
+        }
+    ],
+    "bearing": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a direction in degrees, especially in navigation",
+            "synonyms": [
+                "direction",
+                "heading",
+                "angle",
+                "bearing angle"
+            ],
+            "examples": [
+                "The pilot changed the bearing to avoid the storm.",
+                "I noted the bearing on the map."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "behavior or conduct, especially a person’s attitude or way of moving",
+            "synonyms": [
+                "posture",
+                "demeanor",
+                "carriage",
+                "conduct"
+            ],
+            "examples": [
+                "Her calm bearing helped the team relax.",
+                "He walked with confidence and bearing."
+            ]
+        }
+    ],
+    "bogus": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "not real, not genuine, or not based on truth",
+            "synonyms": [
+                "fake",
+                "fraudulent",
+                "false",
+                "spurious"
+            ],
+            "examples": [
+                "They filed bogus documents to get the money.",
+                "His story was bogus."
+            ]
+        }
+    ],
+    "broadchested": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having a wide chest",
+            "synonyms": [
+                "wide-chested",
+                "chest-out",
+                "big-bodied"
+            ],
+            "examples": [
+                "He looked broadchested in the uniform.",
+                "The broadchested man greeted us first."
+            ]
+        }
+    ],
+    "bas-relief": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a sculpture technique where figures project slightly from a flat background",
+            "synonyms": [
+                "low relief",
+                "sculpture relief",
+                "carved relief"
+            ],
+            "examples": [
+                "The bas-relief shows historical figures.",
+                "The museum displayed a bas-relief panel."
+            ]
+        }
+    ],
+    "broadbrim": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a hat with a wide brim",
+            "synonyms": [
+                "wide-brimmed hat",
+                "sun hat",
+                "broad-brimmed hat"
+            ],
+            "examples": [
+                "She wore a broadbrim to protect herself from the sun.",
+                "The costume included a broadbrim hat."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "having a wide brim",
+            "synonyms": [
+                "wide-brimmed"
+            ],
+            "examples": [
+                "She bought a broadbrim hat for the beach."
+            ]
+        }
+    ],
+    "botch": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to do something badly or make a serious mistake",
+            "synonyms": [
+                "mess up",
+                "bungle",
+                "ruin",
+                "fumble"
+            ],
+            "examples": [
+                "They botched the schedule and missed the event.",
+                "I botched the instructions and made it worse."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a serious mistake or failure resulting from doing something badly",
+            "synonyms": [
+                "blunder",
+                "mistake",
+                "mess-up",
+                "bungling"
+            ],
+            "examples": [
+                "The project became a botch because of poor planning.",
+                "It was a botch, but we learned from it."
+            ]
+        }
+    ],
+    "bellow": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to shout loudly with a deep, strong voice",
+            "synonyms": [
+                "roar",
+                "shout",
+                "yell",
+                "cry out"
+            ],
+            "examples": [
+                "He bellowed for help from the back of the house.",
+                "The crowd bellowed in excitement."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a loud deep shout",
+            "synonyms": [
+                "roar",
+                "shout",
+                "yell"
+            ],
+            "examples": [
+                "We heard a bellow in the distance.",
+                "His bellow startled everyone."
+            ]
+        }
+    ],
+    "benediction": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a blessing, often spoken at the end of a religious service",
+            "synonyms": [
+                "blessing",
+                "blessings",
+                "prayer",
+                "goodwill"
+            ],
+            "examples": [
+                "The benediction was given by the priest.",
+                "At the end, the pastor offered a benediction."
+            ]
+        }
+    ],
+    "bolt": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to run away suddenly, especially to escape",
+            "synonyms": [
+                "run",
+                "flee",
+                "dash",
+                "escape"
+            ],
+            "examples": [
+                "When the alarm rang, she bolted.",
+                "He bolted out the door."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a sudden escape or quick movement away",
+            "synonyms": [
+                "dash",
+                "rush",
+                "sudden run",
+                "bolt (from danger)"
+            ],
+            "examples": [
+                "The suspect made a bolt for the exit."
+            ]
+        }
+    ],
+    "bitch": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an informal insult for a rude or unpleasant person, or a female dog",
+            "synonyms": [
+                "female dog (context)",
+                "insult term (informal)"
+            ],
+            "examples": [
+                "The dog barked like a bitch.",
+                "Don’t call people names like that."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "informal meaning to complain or speak in an angry, complaining way",
+            "synonyms": [
+                "complain",
+                "gripe",
+                "moan",
+                "vent"
+            ],
+            "examples": [
+                "She kept bitching about the long wait.",
+                "Stop bitching and focus on the plan."
+            ]
+        }
+    ],
+    "billow": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a large swelling movement of cloth, smoke, or air",
+            "synonyms": [
+                "wave",
+                "swelling",
+                "puff",
+                "cloud movement"
+            ],
+            "examples": [
+                "The billow of smoke rose quickly.",
+                "The sail caught a billow of wind."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to move or expand outward as if forming waves, especially cloth or smoke",
+            "synonyms": [
+                "swell",
+                "roll",
+                "inflate",
+                "puff"
+            ],
+            "examples": [
+                "The curtain billowed in the wind.",
+                "Smoke billowed from the chimney."
+            ]
+        }
     ]
 }

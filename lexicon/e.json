@@ -1333,5 +1333,213 @@
                 "He was elated by the promotion."
             ]
         }
+    ],
+    "essay": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a short piece of writing about a topic, usually with arguments or explanations",
+            "synonyms": [
+                "composition",
+                "article",
+                "paper",
+                "treatise"
+            ],
+            "examples": [
+                "She wrote an essay for history class.",
+                "My essay focuses on climate policy."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to try or attempt, usually with some uncertainty",
+            "synonyms": [
+                "attempt",
+                "try",
+                "seek",
+                "endeavor"
+            ],
+            "examples": [
+                "He essayed a new method for the experiment.",
+                "She essayed to speak to the manager."
+            ]
+        }
+    ],
+    "essayist": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who writes essays",
+            "synonyms": [
+                "writer",
+                "essay writer",
+                "nonfiction writer",
+                "columnist"
+            ],
+            "examples": [
+                "He is a well-known essayist on politics.",
+                "The magazine invited a guest essayist."
+            ]
+        }
+    ],
+    "edged": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having a sharp or slightly rough outline or boundary; bordering on something in a gradual way",
+            "synonyms": [
+                "bordered",
+                "tapered",
+                "lined",
+                "slight"
+            ],
+            "examples": [
+                "The edge of the paper is edged with gold.",
+                "I feel edged with worry about the test."
+            ]
+        }
+    ],
+    "exonerate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to clear someone from blame or guilt",
+            "synonyms": [
+                "absolve",
+                "clear",
+                "acquit",
+                "vindicate"
+            ],
+            "examples": [
+                "The evidence helped exonerate her.",
+                "The investigation exonerated the suspect."
+            ]
+        }
+    ],
+    "early": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "happening or existing near the beginning of a period of time",
+            "synonyms": [
+                "initial",
+                "early-stage",
+                "soon",
+                "before long"
+            ],
+            "examples": [
+                "We met at an early hour.",
+                "Her early work showed great promise."
+            ]
+        },
+        {
+            "part_of_speech": "adverb",
+            "definition": "at or near the start of a process or time",
+            "synonyms": [
+                "soon",
+                "in advance",
+                "beforehand"
+            ],
+            "examples": [
+                "We arrived early for the show.",
+                "He finished early today."
+            ]
+        }
+    ],
+    "exacting": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very demanding and requiring high standards",
+            "synonyms": [
+                "demanding",
+                "strict",
+                "rigorous",
+                "difficult"
+            ],
+            "examples": [
+                "He is an exacting manager and expects quality work.",
+                "The job is exacting but rewarding."
+            ]
+        }
+    ],
+    "expeditious": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "done quickly and efficiently",
+            "synonyms": [
+                "efficient",
+                "prompt",
+                "speedy",
+                "rapid"
+            ],
+            "examples": [
+                "They made expeditious progress on the repairs.",
+                "The team handled the request in an expeditious manner."
+            ]
+        }
+    ],
+    "ephemeris": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a table or data source that gives the positions or movements of celestial objects for specific times",
+            "synonyms": [
+                "astronomical table",
+                "almanac (astronomical)"
+            ],
+            "examples": [
+                "The ephemeris listed the planet’s position for each day.",
+                "Astronomers used an ephemeris to plan observations."
+            ]
+        }
+    ],
+    "evacuate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to move people away from a dangerous or unsafe place",
+            "synonyms": [
+                "empty",
+                "clear",
+                "remove people",
+                "relocate"
+            ],
+            "examples": [
+                "They evacuated the building after the fire alarm.",
+                "The city evacuated residents near the river."
+            ]
+        }
+    ],
+    "egg": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an oval food produced by a chicken or other bird",
+            "synonyms": [
+                "egg (food)"
+            ],
+            "examples": [
+                "I bought eggs for breakfast.",
+                "She used two eggs in the cake."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to encourage someone, especially by provoking or influencing them",
+            "synonyms": [
+                "encourage",
+                "spur",
+                "incite",
+                "prompt"
+            ],
+            "examples": [
+                "He egged me on to take the risk.",
+                "Don’t egg him into trouble."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to throw an egg at someone to insult them",
+            "synonyms": [
+                "throw eggs at",
+                "pelt",
+                "target with eggs"
+            ],
+            "examples": [
+                "They egged the politician during the event."
+            ]
+        }
     ]
 }

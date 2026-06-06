@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-30",
+    "groups": [
+        {
+            "id": "day2-easy",
+            "type": "profession_domain",
+            "difficulty": "easy",
+            "title": "tools of investigation",
+            "words": [
+                "forensic",
+                "evidence",
+                "foray",
+                "suspect"
+            ]
+        },
+        {
+            "id": "day2-medium",
+            "type": "thematic_association",
+            "difficulty": "medium",
+            "title": "storm and sea imagery",
+            "words": [
+                "tempest",
+                "billow",
+                "tide",
+                "maelstrom"
+            ]
+        },
+        {
+            "id": "day2-hard",
+            "type": "morphological_family",
+            "difficulty": "hard",
+            "title": "related by meaning",
+            "words": [
+                "repair",
+                "restoration",
+                "refit",
+                "renewal"
+            ]
+        },
+        {
+            "id": "day2-very_hard",
+            "type": "etymological_relation",
+            "difficulty": "very_hard",
+            "title": "words with a shared origin",
+            "words": [
+                "choleric",
+                "melancholy",
+                "levity",
+                "venomous"
+            ]
+        }
+    ]
+}

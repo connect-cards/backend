@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-17",
+    "groups": [
+        {
+            "id": "easy",
+            "type": "sound_association",
+            "difficulty": "easy",
+            "title": "words that sound alike",
+            "words": [
+                "cairn",
+                "cerns",
+                "kernel",
+                "quirnel"
+            ]
+        },
+        {
+            "id": "medium",
+            "type": "physical_trait",
+            "difficulty": "medium",
+            "title": "words describing appearance",
+            "words": [
+                "ashen",
+                "slender",
+                "callused",
+                "hirsute"
+            ]
+        },
+        {
+            "id": "hard",
+            "type": "synonym",
+            "difficulty": "hard",
+            "title": "words meaning quickly",
+            "words": [
+                "rapid",
+                "promptly",
+                "expeditious",
+                "swiftly"
+            ]
+        },
+        {
+            "id": "very_hard",
+            "type": "semantic_field",
+            "difficulty": "very_hard",
+            "title": "words for coastal weather",
+            "words": [
+                "monsoon",
+                "squall",
+                "tidepool",
+                "seaweed"
+            ]
+        }
+    ]
+}

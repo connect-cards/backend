@@ -2277,5 +2277,415 @@
                 "They promised to redress the damage caused by the decision."
             ]
         }
+    ],
+    "reproach": [
+        {
+            "part_of_speech": "noun",
+            "definition": "strong disapproval expressed because of a mistake or wrongdoing",
+            "synonyms": [
+                "criticism",
+                "censure",
+                "rebuke",
+                "blame"
+            ],
+            "examples": [
+                "She accepted the reproach and promised to do better.",
+                "The teacher’s reproach made him stop talking."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to express disapproval because of an action or mistake",
+            "synonyms": [
+                "criticize",
+                "rebuke",
+                "censure",
+                "blame"
+            ],
+            "examples": [
+                "They reproached him for missing the meeting.",
+                "Her parents reproached her for not calling."
+            ]
+        }
+    ],
+    "reign": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the period when a king, queen, or ruler is in power",
+            "synonyms": [
+                "rule",
+                "tenure",
+                "sovereignty",
+                "kingdom period"
+            ],
+            "examples": [
+                "The reign lasted twenty years.",
+                "Many changes happened during her reign."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to be a king, queen, or ruler at a certain time",
+            "synonyms": [
+                "rule",
+                "govern",
+                "head",
+                "preside"
+            ],
+            "examples": [
+                "She reigned from 2010 to 2015.",
+                "A dynasty reigned over the region for centuries."
+            ]
+        }
+    ],
+    "revolve": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to move in a circle around a point or object",
+            "synonyms": [
+                "orbit",
+                "circle",
+                "rotate",
+                "turn"
+            ],
+            "examples": [
+                "The wheel revolves smoothly.",
+                "The planet revolves around the star."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to change or develop as the result of new events or circumstances",
+            "synonyms": [
+                "progress",
+                "develop",
+                "turn",
+                "shift"
+            ],
+            "examples": [
+                "The plan revolved around the budget.",
+                "His ideas revolve around education."
+            ]
+        }
+    ],
+    "rotation": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the act of turning around an axis or a center point",
+            "synonyms": [
+                "turning",
+                "spin",
+                "revolution",
+                "cycle of turning"
+            ],
+            "examples": [
+                "The rotation of the Earth causes day and night.",
+                "The rotation of the tire looked smooth."
+            ]
+        }
+    ],
+    "rebut": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to prove that an accusation, claim, or argument is wrong or less likely",
+            "synonyms": [
+                "refute",
+                "deny",
+                "counter",
+                "challenge"
+            ],
+            "examples": [
+                "The lawyer rebutted the claim with evidence.",
+                "She rebutted his argument politely."
+            ]
+        }
+    ],
+    "restoration": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the act of repairing damage or returning something to an earlier condition",
+            "synonyms": [
+                "repair",
+                "renewal",
+                "recovery",
+                "rebuilding"
+            ],
+            "examples": [
+                "The restoration took over a year.",
+                "They began restoration of the historic building."
+            ]
+        }
+    ],
+    "rareified": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "made more complex, unusual, or less common than normal; also used to describe something that feels distant or overly intellectual",
+            "synonyms": [
+                "exalted",
+                "elevated",
+                "artificial",
+                "overly refined"
+            ],
+            "examples": [
+                "Some people find rareified art hard to understand.",
+                "His rareified language made the discussion difficult."
+            ]
+        }
+    ],
+    "rheum": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a thick fluid or discharge from the eyes or nose, especially when someone is sick",
+            "synonyms": [
+                "discharge",
+                "mucus",
+                "tears (illness-related)"
+            ],
+            "examples": [
+                "The doctor asked about the rheum and other symptoms.",
+                "She had a sore throat and rheum from the nose."
+            ]
+        }
+    ],
+    "raucous": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "making loud, unpleasant noise; noisy and disorderly",
+            "synonyms": [
+                "noisy",
+                "rowdy",
+                "uproarious",
+                "clamorous"
+            ],
+            "examples": [
+                "The raucous music kept neighbors awake.",
+                "They heard raucous laughter in the hallway."
+            ]
+        }
+    ],
+    "rescind": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to cancel or stop a decision, law, or agreement",
+            "synonyms": [
+                "cancel",
+                "revoke",
+                "annul",
+                "abrogate"
+            ],
+            "examples": [
+                "They rescinded the contract after the mistake.",
+                "The company rescinded the offer."
+            ]
+        }
+    ],
+    "reckoning": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the process of calculating or determining an amount",
+            "synonyms": [
+                "calculation",
+                "computation",
+                "assessment",
+                "determination"
+            ],
+            "examples": [
+                "The final reckoning will come after the audit.",
+                "We made a reckoning of the total cost."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a future time when people will be judged or made to answer for actions",
+            "synonyms": [
+                "judgment",
+                "accounting",
+                "consequences",
+                "payment day"
+            ],
+            "examples": [
+                "He believes that reckoning is coming.",
+                "There will be a reckoning for what happened."
+            ]
+        }
+    ],
+    "remedy": [
+        {
+            "part_of_speech": "noun",
+            "definition": "something that improves a problem or corrects a situation",
+            "synonyms": [
+                "solution",
+                "fix",
+                "treatment",
+                "answer"
+            ],
+            "examples": [
+                "There is no quick remedy for this issue.",
+                "The medicine is a remedy for the pain."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to fix or improve a problem",
+            "synonyms": [
+                "correct",
+                "fix",
+                "solve",
+                "improve"
+            ],
+            "examples": [
+                "The new policy will remedy the delays.",
+                "They worked to remedy the mistakes."
+            ]
+        }
+    ],
+    "recalcitrant": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "resisting authority or refusing to cooperate",
+            "synonyms": [
+                "resistant",
+                "stubborn",
+                "obstinate",
+                "defiant"
+            ],
+            "examples": [
+                "The recalcitrant student refused to follow instructions.",
+                "They dealt with a recalcitrant supplier."
+            ]
+        }
+    ],
+    "refund": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an amount of money returned to a customer after a purchase or payment",
+            "synonyms": [
+                "reimbursement",
+                "repayment",
+                "return of money",
+                "return"
+            ],
+            "examples": [
+                "I requested a refund after the item arrived damaged.",
+                "The refund took a week to process."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to return money to a customer after a purchase or payment",
+            "synonyms": [
+                "reimburse",
+                "repay",
+                "return money",
+                "make a return"
+            ],
+            "examples": [
+                "They will refund your payment within 10 days.",
+                "The store refunded the full cost."
+            ]
+        }
+    ],
+    "retrograde": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "moving backward or in the opposite direction of normal progress",
+            "synonyms": [
+                "backward",
+                "backsliding",
+                "reverse",
+                "diminishing"
+            ],
+            "examples": [
+                "The project showed retrograde progress.",
+                "In astronomy, retrograde motion describes certain planet movements."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a backward motion or period of decline",
+            "synonyms": [
+                "backward motion",
+                "setback"
+            ],
+            "examples": [
+                "The company experienced a retrograde in sales."
+            ]
+        }
+    ],
+    "rant": [
+        {
+            "part_of_speech": "noun",
+            "definition": "angry speech or writing that is hard to control",
+            "synonyms": [
+                "outburst",
+                "tirade",
+                "speech (angry)",
+                "harangue"
+            ],
+            "examples": [
+                "His rant lasted ten minutes.",
+                "She made a rant about the unfair rules."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to speak or write angrily for a long time",
+            "synonyms": [
+                "rant",
+                "tirade",
+                "rage",
+                "harangue"
+            ],
+            "examples": [
+                "He ranted about the service.",
+                "Don’t rant during the meeting."
+            ]
+        }
+    ],
+    "refit": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to repair and update a ship or vehicle, often to prepare it for new use",
+            "synonyms": [
+                "rebuild",
+                "repair",
+                "modernize",
+                "renovate (for equipment)"
+            ],
+            "examples": [
+                "They will refit the ship before the next voyage.",
+                "The company refitted the aircraft for cargo use."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "the repairs and changes made to refit a vehicle or ship",
+            "synonyms": [
+                "modernization",
+                "overhaul",
+                "repairs",
+                "renovation"
+            ],
+            "examples": [
+                "The refit took three months.",
+                "The refit improved the ship’s fuel efficiency."
+            ]
+        }
+    ],
+    "renewal": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the act of making something new again or starting again",
+            "synonyms": [
+                "restarting",
+                "restoration",
+                "refreshing",
+                "renewing"
+            ],
+            "examples": [
+                "The renewal of the contract took place in May.",
+                "She applied for the renewal of her license."
+            ]
+        }
     ]
 }

@@ -4215,5 +4215,623 @@
                 "They held a charitable event to raise money for families."
             ]
         }
+    ],
+    "culpable": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "responsible for a fault or wrongdoing",
+            "synonyms": [
+                "guilty",
+                "at fault",
+                "blameworthy",
+                "responsible"
+            ],
+            "examples": [
+                "The report found the manager culpable for the error.",
+                "He was deemed culpable in the accident."
+            ]
+        }
+    ],
+    "chronicler": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who records events over time, especially history",
+            "synonyms": [
+                "historian",
+                "recorder",
+                "historical writer",
+                "annalist"
+            ],
+            "examples": [
+                "The chronicler wrote about daily life in the city.",
+                "She worked as a chronicler for the museum archive."
+            ]
+        }
+    ],
+    "canticle": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a song or hymn, especially a religious one",
+            "synonyms": [
+                "hymn",
+                "psalm",
+                "song of praise",
+                "religious song"
+            ],
+            "examples": [
+                "They sang a canticle during the service.",
+                "The choir performed an old canticle."
+            ]
+        }
+    ],
+    "circumference": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the distance around a circle or a round shape",
+            "synonyms": [
+                "perimeter",
+                "outer distance",
+                "edge distance"
+            ],
+            "examples": [
+                "The circumference of the circle is 40 cm.",
+                "Measure the circumference before you cut the rope."
+            ]
+        }
+    ],
+    "clarity": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the quality of being easy to understand or notice",
+            "synonyms": [
+                "clearness",
+                "preciseness",
+                "understandability",
+                "distinctness"
+            ],
+            "examples": [
+                "The explanation lacked clarity.",
+                "I need more clarity about the schedule."
+            ]
+        }
+    ],
+    "culpability": [
+        {
+            "part_of_speech": "noun",
+            "definition": "responsibility for wrongdoing or for causing harm",
+            "synonyms": [
+                "guilt",
+                "blame",
+                "responsibility",
+                "fault"
+            ],
+            "examples": [
+                "The court assessed his culpability based on the evidence.",
+                "Culpability is not the same as punishment."
+            ]
+        }
+    ],
+    "clowning": [
+        {
+            "part_of_speech": "noun",
+            "definition": "silly behavior or joking, especially when it interrupts serious work",
+            "synonyms": [
+                "joking",
+                "foolishness",
+                "goofing around",
+                "silliness"
+            ],
+            "examples": [
+                "There was too much clowning during the meeting.",
+                "He stopped the clowning and listened."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "present participle of clown; to behave in a silly or joking way",
+            "synonyms": [
+                "joke",
+                "fool around",
+                "act silly",
+                "goof around"
+            ],
+            "examples": [
+                "They were clowning instead of studying.",
+                "Stop clowning and get to work."
+            ]
+        }
+    ],
+    "clout": [
+        {
+            "part_of_speech": "noun",
+            "definition": "influence or power, especially in making people take action",
+            "synonyms": [
+                "influence",
+                "power",
+                "impact",
+                "pull"
+            ],
+            "examples": [
+                "She has clout in the organization.",
+                "The report had clout with decision-makers."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to influence or affect strongly",
+            "synonyms": [
+                "influence",
+                "impact",
+                "affect",
+                "shape"
+            ],
+            "examples": [
+                "That celebrity can clout the public’s opinion.",
+                "The policy change will clout how the industry works."
+            ]
+        }
+    ],
+    "chiseling": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the act of shaping or carving hard material with a chisel",
+            "synonyms": [
+                "carving",
+                "chipping",
+                "sculpting",
+                "stonework"
+            ],
+            "examples": [
+                "Chiseling requires careful control.",
+                "The chiseling created a smooth surface."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "present participle of chisel; cutting or shaping with a chisel",
+            "synonyms": [
+                "carving",
+                "carve",
+                "chip",
+                "shape"
+            ],
+            "examples": [
+                "He was chiseling the stone to fit the frame.",
+                "They chiseling details into the wall."
+            ]
+        }
+    ],
+    "correspondence": [
+        {
+            "part_of_speech": "noun",
+            "definition": "letters or messages sent between people",
+            "synonyms": [
+                "letters",
+                "mail",
+                "communication",
+                "post"
+            ],
+            "examples": [
+                "They kept all correspondence for legal reasons.",
+                "The company received correspondence from customers."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a relationship of similarity between things",
+            "synonyms": [
+                "agreement",
+                "matching",
+                "similarity",
+                "corresponding relationship"
+            ],
+            "examples": [
+                "There is correspondence between the two sets of data.",
+                "The study found a correspondence between diet and health."
+            ]
+        }
+    ],
+    "codicil": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a legal document that changes or adds details to a will",
+            "synonyms": [
+                "addendum to a will",
+                "will amendment",
+                "supplement"
+            ],
+            "examples": [
+                "He signed a codicil to update his will.",
+                "The attorney prepared a codicil after the change in plans."
+            ]
+        }
+    ],
+    "calloused": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having thickened skin from repeated pressure or work",
+            "synonyms": [
+                "thick-skinned",
+                "hardened",
+                "roughened",
+                "toughened"
+            ],
+            "examples": [
+                "His hands were calloused from rowing.",
+                "She got calloused feet after hiking."
+            ]
+        }
+    ],
+    "cataloging": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the process of recording items in a systematic way, often for a library or collection",
+            "synonyms": [
+                "listing",
+                "indexing",
+                "recording",
+                "classification"
+            ],
+            "examples": [
+                "Cataloging helps researchers find materials faster.",
+                "The cataloging took several weeks."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "present participle of catalog; organizing items in a catalog",
+            "synonyms": [
+                "listing",
+                "indexing",
+                "classifying",
+                "recording"
+            ],
+            "examples": [
+                "They are cataloging the documents.",
+                "The library team is cataloging new books."
+            ]
+        }
+    ],
+    "convoke": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to call people together officially for a meeting",
+            "synonyms": [
+                "summon",
+                "call",
+                "gather",
+                "convene"
+            ],
+            "examples": [
+                "The chair will convoke the committee next week.",
+                "The council was convoked to vote on the proposal."
+            ]
+        }
+    ],
+    "cairn": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a pile of stones built as a landmark, especially on a trail or mountain",
+            "synonyms": [
+                "stone marker",
+                "rock pile",
+                "trail marker"
+            ],
+            "examples": [
+                "We followed the cairn to find the path.",
+                "The hikers built a cairn near the summit."
+            ]
+        }
+    ],
+    "cerns": [
+        {
+            "part_of_speech": "noun",
+            "definition": "no standard modern english word or common usage found for this form. did you mean cerns (as part of a phrase) or cerns as a name?",
+            "synonyms": [],
+            "examples": [
+                "If you meant another word, tell me the correct spelling and I will generate an entry."
+            ]
+        }
+    ],
+    "clamor": [
+        {
+            "part_of_speech": "noun",
+            "definition": "loud and persistent noise, especially people demanding something",
+            "synonyms": [
+                "uproar",
+                "noise",
+                "outcry",
+                "clamour"
+            ],
+            "examples": [
+                "There was a sudden clamor outside the door.",
+                "A clamor rose when the decision was announced."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to demand something loudly or repeatedly",
+            "synonyms": [
+                "demand",
+                "insist",
+                "press",
+                "protest loudly"
+            ],
+            "examples": [
+                "Fans clamor for another concert date.",
+                "The workers clamor for safer conditions."
+            ]
+        }
+    ],
+    "calamity": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a serious event causing great damage, suffering, or loss",
+            "synonyms": [
+                "disaster",
+                "tragedy",
+                "catastrophe",
+                "misfortune"
+            ],
+            "examples": [
+                "The flood was a calamity for the whole region.",
+                "Losing his job felt like a calamity at the time."
+            ]
+        }
+    ],
+    "cushy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "comfortable and easy, often describing work or a situation",
+            "synonyms": [
+                "comfortable",
+                "easy",
+                "low-stress",
+                "pleasant"
+            ],
+            "examples": [
+                "That job sounds cushy, but it’s demanding.",
+                "He got a cushy position with good hours."
+            ]
+        }
+    ],
+    "covenant": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a formal agreement, especially one that creates duties for both sides",
+            "synonyms": [
+                "agreement",
+                "contract",
+                "pact",
+                "deal"
+            ],
+            "examples": [
+                "The covenant outlined the responsibilities of each party.",
+                "They signed a covenant with the organization."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to agree formally, especially to make a promise or contract",
+            "synonyms": [
+                "agree",
+                "contract",
+                "promise",
+                "bind"
+            ],
+            "examples": [
+                "The parties covenanted to provide support.",
+                "They covenanted to meet the conditions."
+            ]
+        }
+    ],
+    "compile": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to collect information from different sources and put it together",
+            "synonyms": [
+                "gather",
+                "assemble",
+                "collect",
+                "create"
+            ],
+            "examples": [
+                "She compiled a list of sources for her research.",
+                "They compiled the results into one report."
+            ]
+        }
+    ],
+    "concise": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "short and clear, without unnecessary details",
+            "synonyms": [
+                "brief",
+                "short",
+                "clear",
+                "to the point"
+            ],
+            "examples": [
+                "Please write a concise summary.",
+                "The instructions are concise and easy to follow."
+            ]
+        }
+    ],
+    "chronological": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "arranged in the order of time",
+            "synonyms": [
+                "time-ordered",
+                "in order",
+                "sequential (time)",
+                "ordered by date"
+            ],
+            "examples": [
+                "We wrote a chronological list of events.",
+                "The report is chronological from start to finish."
+            ]
+        }
+    ],
+    "chronicleled": [
+        {
+            "part_of_speech": "verb",
+            "definition": "no standard modern english word found for chronicleled. did you mean chronicled?",
+            "synonyms": [],
+            "examples": [
+                "If you confirm the correct word, I will generate the appropriate entry."
+            ]
+        }
+    ],
+    "cymbal": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a round percussion instrument that makes a bright sound when struck",
+            "synonyms": [
+                "drum cymbal",
+                "percussion disk"
+            ],
+            "examples": [
+                "The drummer hit the cymbal at the end.",
+                "We heard a cymbal crash during the song."
+            ]
+        }
+    ],
+    "calendar": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a chart or system that shows days, weeks, and months for planning",
+            "synonyms": [
+                "schedule",
+                "datebook",
+                "planner"
+            ],
+            "examples": [
+                "I wrote the appointment in my calendar.",
+                "The calendar shows public holidays."
+            ]
+        }
+    ],
+    "chronometer": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a precise timekeeping instrument, especially one used for navigation",
+            "synonyms": [
+                "high-precision clock",
+                "timekeeper"
+            ],
+            "examples": [
+                "Sailors used a chronometer to measure time at sea.",
+                "The chronometer was accurate to the second."
+            ]
+        }
+    ],
+    "campaign": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a planned set of activities meant to achieve a goal, such as political change or public awareness",
+            "synonyms": [
+                "drive",
+                "series of actions",
+                "initiative",
+                "public campaign"
+            ],
+            "examples": [
+                "They launched a campaign to reduce plastic use.",
+                "The candidate started a campaign in March."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to take part in a campaign or work to achieve a goal with planned activities",
+            "synonyms": [
+                "run a campaign",
+                "work",
+                "campaign for",
+                "push for"
+            ],
+            "examples": [
+                "She is campaigning for better public schools.",
+                "They campaigned against the new law."
+            ]
+        }
+    ],
+    "consultant": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person hired to give expert advice about a specific problem or field",
+            "synonyms": [
+                "advisor",
+                "specialist",
+                "expert",
+                "professional adviser"
+            ],
+            "examples": [
+                "The consultant reviewed the company’s strategy.",
+                "She works as a consultant for healthcare organizations."
+            ]
+        }
+    ],
+    "committee": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a group of people chosen to discuss and make decisions about a specific matter",
+            "synonyms": [
+                "panel",
+                "group",
+                "board",
+                "council"
+            ],
+            "examples": [
+                "The committee met to review the proposal.",
+                "A small committee will decide the winner."
+            ]
+        }
+    ],
+    "cincture": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a belt or band used to tie around the waist",
+            "synonyms": [
+                "belt",
+                "band",
+                "strap",
+                "waist belt"
+            ],
+            "examples": [
+                "The costume included a leather cincture.",
+                "He tightened the cincture to keep his robe in place."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to encircle or surround with something, often a belt or band",
+            "synonyms": [
+                "encircle",
+                "surround",
+                "surround with",
+                "bind"
+            ],
+            "examples": [
+                "The rope cinctured the bundle securely.",
+                "The ribbon cinctured her waist."
+            ]
+        }
+    ],
+    "circulate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to move around from person to person or place to place",
+            "synonyms": [
+                "spread",
+                "distribute",
+                "circulate",
+                "move around"
+            ],
+            "examples": [
+                "The rumor started to circulate quickly.",
+                "They circulated the documents among the team."
+            ]
+        }
     ]
 }

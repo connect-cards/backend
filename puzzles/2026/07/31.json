@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-31",
+    "groups": [
+        {
+            "id": "day3-easy",
+            "type": "literary_register",
+            "difficulty": "easy",
+            "title": "serious narrative tone",
+            "words": [
+                "solemn",
+                "prophecy",
+                "interdict",
+                "hallowed"
+            ]
+        },
+        {
+            "id": "day3-medium",
+            "type": "synonym",
+            "difficulty": "medium",
+            "title": "words meaning watch closely",
+            "words": [
+                "observe",
+                "monitor",
+                "scrutinize",
+                "survey"
+            ]
+        },
+        {
+            "id": "day3-hard",
+            "type": "profession_domain",
+            "difficulty": "hard",
+            "title": "work of librarians",
+            "words": [
+                "catalog",
+                "index",
+                "volume",
+                "circulate"
+            ]
+        },
+        {
+            "id": "day3-very_hard",
+            "type": "morphological_family",
+            "difficulty": "very_hard",
+            "title": "same root, different forms",
+            "words": [
+                "iterate",
+                "iteration",
+                "iterative",
+                "iterable"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-08",
+    "groups": [
+        {
+            "id": "d4-easy",
+            "type": "profession_domain",
+            "difficulty": "easy",
+            "title": "words that fit a detective story",
+            "words": [
+                "forensic",
+                "witness",
+                "motive",
+                "evidence"
+            ]
+        },
+        {
+            "id": "d4-medium",
+            "type": "morphological_family",
+            "difficulty": "medium",
+            "title": "words sharing a hidden root",
+            "words": [
+                "impartial",
+                "impart",
+                "partiality",
+                "impute"
+            ]
+        },
+        {
+            "id": "d4-hard",
+            "type": "emotional_tone",
+            "difficulty": "hard",
+            "title": "words showing quiet dread",
+            "words": [
+                "foreboding",
+                "unease",
+                "dread",
+                "sullen"
+            ]
+        },
+        {
+            "id": "d4-very_hard",
+            "type": "physical_trait",
+            "difficulty": "very_hard",
+            "title": "words describing a distinctive physique",
+            "words": [
+                "wiry",
+                "broadchested",
+                "hunched",
+                "limpid"
+            ]
+        }
+    ]
+}

@@ -1734,5 +1734,295 @@
                 "Her parents wanted her to marry sooner."
             ]
         }
+    ],
+    "mender": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person or business that repairs broken or damaged things",
+            "synonyms": [
+                "repairer",
+                "fixer",
+                "restorer",
+                "technician"
+            ],
+            "examples": [
+                "The mender repaired the torn jacket.",
+                "We called a mender for the broken chair."
+            ]
+        }
+    ],
+    "mortified": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very embarrassed, ashamed, or upset because of something that happened",
+            "synonyms": [
+                "embarrassed",
+                "ashamed",
+                "humiliated",
+                "chagrined"
+            ],
+            "examples": [
+                "He was mortified when he spilled coffee on his shirt.",
+                "I felt mortified by my mistake."
+            ]
+        }
+    ],
+    "masonry": [
+        {
+            "part_of_speech": "noun",
+            "definition": "building work made from materials such as bricks, stones, or concrete blocks",
+            "synonyms": [
+                "brickwork",
+                "stonework",
+                "construction",
+                "brick and stone work"
+            ],
+            "examples": [
+                "The restoration team repaired the masonry carefully.",
+                "Masonry requires good planning and measurement."
+            ]
+        }
+    ],
+    "molding": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a shaped piece of material, often used to decorate or finish edges, such as on a building",
+            "synonyms": [
+                "trim",
+                "wood trim",
+                "cornice",
+                "cast part"
+            ],
+            "examples": [
+                "The room has decorative molding around the ceiling.",
+                "They installed new molding on the doors."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "present participle of mold; shaping something into a specific form",
+            "synonyms": [
+                "shaping",
+                "forming",
+                "casting",
+                "modeling"
+            ],
+            "examples": [
+                "The team is molding the plastic into a new part.",
+                "She’s molding clay into small bowls."
+            ]
+        }
+    ],
+    "matted": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "pressed together into a thick, tangled surface, often describing hair",
+            "synonyms": [
+                "tangled",
+                "clumped",
+                "clotted",
+                "knotted"
+            ],
+            "examples": [
+                "His hair was matted after the rain.",
+                "The dog’s fur became matted near the ears."
+            ]
+        }
+    ],
+    "monsoon": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a seasonal wind system that brings heavy rain to many regions",
+            "synonyms": [
+                "rainy season",
+                "seasonal rains",
+                "wet season"
+            ],
+            "examples": [
+                "The monsoon begins in late spring.",
+                "Monsoon rains caused flooding in the area."
+            ]
+        }
+    ],
+    "menace": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a threat or danger that may cause harm",
+            "synonyms": [
+                "threat",
+                "danger",
+                "risk",
+                "threatening sign"
+            ],
+            "examples": [
+                "The broken bridge is a menace to drivers.",
+                "Crime is a menace in some neighborhoods."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to threaten to cause harm or danger",
+            "synonyms": [
+                "threaten",
+                "endanger",
+                "jeopardize",
+                "pose a risk"
+            ],
+            "examples": [
+                "Dark clouds menaced the coast with a storm.",
+                "The law menace him with punishment."
+            ]
+        }
+    ],
+    "mete": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to measure out or distribute, especially punishment or a feeling",
+            "synonyms": [
+                "assign",
+                "deliver",
+                "inflict",
+                "hand out"
+            ],
+            "examples": [
+                "They decided to mete out punishment fairly.",
+                "The court will mete a sentence based on the law."
+            ]
+        }
+    ],
+    "meet": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to come together at an arranged time and place",
+            "synonyms": [
+                "see",
+                "arrange to meet",
+                "convene",
+                "gather"
+            ],
+            "examples": [
+                "We will meet tomorrow after work.",
+                "I met her at the conference."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to experience something or be faced with something",
+            "synonyms": [
+                "face",
+                "encounter",
+                "experience",
+                "suffer"
+            ],
+            "examples": [
+                "She met many challenges in her career.",
+                "The team met unexpected delays."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to satisfy a requirement or standard",
+            "synonyms": [
+                "satisfy",
+                "fulfill",
+                "comply with",
+                "reach"
+            ],
+            "examples": [
+                "The new design meets safety standards.",
+                "Does the proposal meet your needs?"
+            ]
+        }
+    ],
+    "mentor": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who gives guidance and advice to someone with less experience",
+            "synonyms": [
+                "advisor",
+                "coach",
+                "guide",
+                "teacher"
+            ],
+            "examples": [
+                "She became a mentor to new employees.",
+                "He has a mentor who supports his career."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to guide and advise someone so they can grow or learn",
+            "synonyms": [
+                "guide",
+                "coach",
+                "teach",
+                "train"
+            ],
+            "examples": [
+                "The senior engineer mentors students during the program.",
+                "They mentor young leaders in the community."
+            ]
+        }
+    ],
+    "minter": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person or organization that makes coins; also used for someone who produces coins",
+            "synonyms": [
+                "coin maker",
+                "mint worker",
+                "coin producer"
+            ],
+            "examples": [
+                "The minter produced new coins for the festival.",
+                "The minter is responsible for the quality of each coin."
+            ]
+        }
+    ],
+    "meandered": [
+        {
+            "part_of_speech": "verb",
+            "definition": "past tense and past participle of meander; moved slowly in a winding, indirect way",
+            "synonyms": [
+                "wandered",
+                "drifted",
+                "wound",
+                "curved"
+            ],
+            "examples": [
+                "The river meandered through the valley.",
+                "She meandered around the market looking for souvenirs."
+            ]
+        }
+    ],
+    "metronome": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a device that produces a regular ticking sound to help keep a steady tempo in music",
+            "synonyms": [
+                "timekeeper",
+                "tempo device"
+            ],
+            "examples": [
+                "She practiced with a metronome to improve her timing.",
+                "The metronome set the pace for the rehearsal."
+            ]
+        }
+    ],
+    "maelstrom": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a violent whirlpool; also used for a situation that becomes out of control and chaotic",
+            "synonyms": [
+                "whirlpool",
+                "chaos",
+                "storm of activity",
+                "tumult"
+            ],
+            "examples": [
+                "The plane entered a maelstrom of turbulence.",
+                "Politics can turn into a maelstrom."
+            ]
+        }
     ]
 }

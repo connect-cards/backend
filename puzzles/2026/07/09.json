@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-09",
+    "groups": [
+        {
+            "id": "easy-emotional_tone",
+            "type": "emotional_tone",
+            "difficulty": "easy",
+            "title": "quiet feelings",
+            "words": [
+                "uneasy",
+                "tender",
+                "wistful",
+                "buoyant"
+            ]
+        },
+        {
+            "id": "medium-profession_domain",
+            "type": "profession_domain",
+            "difficulty": "medium",
+            "title": "work with data",
+            "words": [
+                "auditing",
+                "forensics",
+                "surveillance",
+                "statistical"
+            ]
+        },
+        {
+            "id": "hard-sound_association",
+            "type": "sound_association",
+            "difficulty": "hard",
+            "title": "sounds at night",
+            "words": [
+                "hush",
+                "murmur",
+                "clang",
+                "whisper"
+            ]
+        },
+        {
+            "id": "very_hard-informal_register",
+            "type": "informal_register",
+            "difficulty": "very_hard",
+            "title": "loose talk and brag",
+            "words": [
+                "kidding",
+                "showy",
+                "snappy",
+                "clout"
+            ]
+        }
+    ]
+}

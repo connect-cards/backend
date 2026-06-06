@@ -1369,5 +1369,81 @@
                 "The child kept gazing at the birds."
             ]
         }
+    ],
+    "govern": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to control and manage a country, organization, or system",
+            "synonyms": [
+                "rule",
+                "manage",
+                "administer",
+                "direct"
+            ],
+            "examples": [
+                "The council governs the city.",
+                "A set of laws governs how the school runs."
+            ]
+        }
+    ],
+    "gimcrack": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "cheap, showy, and not very useful",
+            "synonyms": [
+                "shoddy",
+                "trashy",
+                "tacky",
+                "cheap-looking"
+            ],
+            "examples": [
+                "That gimcrack gadget broke after one day.",
+                "He bought a gimcrack watch online."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a cheap or useless object that is meant to look impressive",
+            "synonyms": [
+                "gadget",
+                "trinket",
+                "junk",
+                "tacky item"
+            ],
+            "examples": [
+                "Don’t spend money on gimcracks.",
+                "The drawer is full of gimcracks."
+            ]
+        }
+    ],
+    "gripe": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a complaint, especially about something small or annoying",
+            "synonyms": [
+                "complaint",
+                "grievance",
+                "moan",
+                "issue"
+            ],
+            "examples": [
+                "She had a gripe about the late delivery.",
+                "I have a gripe about the noise at night."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to complain repeatedly, often about problems or unfairness",
+            "synonyms": [
+                "complain",
+                "moan",
+                "grumble",
+                "vent"
+            ],
+            "examples": [
+                "He keeps griping about his workload.",
+                "Stop griping and start solving the problem."
+            ]
+        }
     ]
 }

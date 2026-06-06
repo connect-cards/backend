@@ -1133,5 +1133,143 @@
                 "People loitered outside the café while waiting for friends."
             ]
         }
+    ],
+    "liquidity": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the ability to turn assets into cash quickly without large losses",
+            "synonyms": [
+                "cash availability",
+                "liquid funds",
+                "financial flexibility",
+                "marketability"
+            ],
+            "examples": [
+                "The company improved its liquidity after refinancing.",
+                "Low liquidity can make it hard to meet payments."
+            ]
+        }
+    ],
+    "leverage": [
+        {
+            "part_of_speech": "noun",
+            "definition": "power or advantage gained by using resources, influence, or strategy",
+            "synonyms": [
+                "advantage",
+                "edge",
+                "means",
+                "bargaining power"
+            ],
+            "examples": [
+                "She used her experience as leverage in the negotiation.",
+                "The new data gave the team leverage over competitors."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to use something to gain an advantage",
+            "synonyms": [
+                "use",
+                "apply",
+                "exploit",
+                "capitalize on"
+            ],
+            "examples": [
+                "They leveraged public support to pass the bill.",
+                "The firm leveraged technology to reduce costs."
+            ]
+        }
+    ],
+    "liability": [
+        {
+            "part_of_speech": "noun",
+            "definition": "responsibility for something, especially the legal obligation to pay for damage or loss",
+            "synonyms": [
+                "responsibility",
+                "obligation",
+                "legal duty",
+                "exposure"
+            ],
+            "examples": [
+                "The company limits its liability in the contract.",
+                "Under the policy, the liability is covered."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a person or thing that is likely to cause problems or harm",
+            "synonyms": [
+                "drawback",
+                "weakness",
+                "problem",
+                "risk"
+            ],
+            "examples": [
+                "The project became a liability for the team.",
+                "His lack of experience was a liability."
+            ]
+        }
+    ],
+    "limn": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to describe or represent something in detail, often in writing or art",
+            "synonyms": [
+                "depict",
+                "describe",
+                "portray",
+                "draw"
+            ],
+            "examples": [
+                "The author limns life in the city with clear detail.",
+                "She tried to limn the character’s emotions on paper."
+            ]
+        }
+    ],
+    "lyre": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a musical instrument with strings stretched across a frame, played by plucking or strumming",
+            "synonyms": [
+                "string instrument",
+                "ancient harp"
+            ],
+            "examples": [
+                "The musician played the lyre softly.",
+                "In the museum, we saw an old lyre."
+            ]
+        }
+    ],
+    "licensed": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having official permission to work or operate, usually after meeting requirements",
+            "synonyms": [
+                "authorized",
+                "permitted",
+                "approved",
+                "credentialed"
+            ],
+            "examples": [
+                "She is licensed to practice law.",
+                "The store is licensed to sell alcohol."
+            ]
+        }
+    ],
+    "levity": [
+        {
+            "part_of_speech": "noun",
+            "definition": "lack of seriousness, shown by joking or not taking things seriously",
+            "synonyms": [
+                "lightness",
+                "playfulness",
+                "humor",
+                "casualness"
+            ],
+            "examples": [
+                "His levity was not appropriate during the serious discussion.",
+                "The teacher asked for less levity in class."
+            ]
+        }
     ]
 }

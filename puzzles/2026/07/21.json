@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-21",
+    "groups": [
+        {
+            "id": "day1_easy",
+            "type": "easy",
+            "difficulty": "easy",
+            "title": "words from the same origin",
+            "words": [
+                "harbor",
+                "armory",
+                "column",
+                "carpenter"
+            ]
+        },
+        {
+            "id": "day1_medium",
+            "type": "medium",
+            "difficulty": "medium",
+            "title": "words linked to a profession",
+            "words": [
+                "surgeon",
+                "apprentice",
+                "ledger",
+                "quarry"
+            ]
+        },
+        {
+            "id": "day1_hard",
+            "type": "hard",
+            "difficulty": "hard",
+            "title": "words describing a physical trait",
+            "words": [
+                "ashen",
+                "slender",
+                "scarlet",
+                "mottled"
+            ]
+        },
+        {
+            "id": "day1_very_hard",
+            "type": "very_hard",
+            "difficulty": "very_hard",
+            "title": "words from a literary register",
+            "words": [
+                "whereupon",
+                "anon",
+                "henceforth",
+                "countenance"
+            ]
+        }
+    ]
+}

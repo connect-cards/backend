@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-22",
+    "groups": [
+        {
+            "id": "day2_easy",
+            "type": "easy",
+            "difficulty": "easy",
+            "title": "words with the same emotional tone",
+            "words": [
+                "elated",
+                "uneasy",
+                "wistful",
+                "resentful"
+            ]
+        },
+        {
+            "id": "day2_medium",
+            "type": "medium",
+            "difficulty": "medium",
+            "title": "words with an informal register",
+            "words": [
+                "gonna",
+                "kiddo",
+                "cushy",
+                "scribble"
+            ]
+        },
+        {
+            "id": "day2_hard",
+            "type": "hard",
+            "difficulty": "hard",
+            "title": "words connected by shared etymology",
+            "words": [
+                "vigilant",
+                "contemplate",
+                "inquest",
+                "inventory"
+            ]
+        },
+        {
+            "id": "day2_very_hard",
+            "type": "very_hard",
+            "difficulty": "very_hard",
+            "title": "words that commonly appear in shared themes",
+            "words": [
+                "pilgrim",
+                "ferry",
+                "covenant",
+                "reckoning"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-24",
+    "groups": [
+        {
+            "id": "day4_easy",
+            "type": "easy",
+            "difficulty": "easy",
+            "title": "words in the same semantic field",
+            "words": [
+                "brief",
+                "summarize",
+                "compile",
+                "concise"
+            ]
+        },
+        {
+            "id": "day4_medium",
+            "type": "medium",
+            "difficulty": "medium",
+            "title": "words that relate through sound",
+            "words": [
+                "mentor",
+                "minter",
+                "meander",
+                "meandered"
+            ]
+        },
+        {
+            "id": "day4_hard",
+            "type": "hard",
+            "difficulty": "hard",
+            "title": "words sharing a remote etymological root",
+            "words": [
+                "benefit",
+                "benediction",
+                "benign",
+                "benefactor"
+            ]
+        },
+        {
+            "id": "day4_very_hard",
+            "type": "very_hard",
+            "difficulty": "very_hard",
+            "title": "words from the same morphological family",
+            "words": [
+                "chronicle",
+                "chronological",
+                "chronic",
+                "chronicleled"
+            ]
+        }
+    ]
+}

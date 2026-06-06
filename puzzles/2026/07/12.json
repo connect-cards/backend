@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-12",
+    "groups": [
+        {
+            "id": "easy-emotional_tone",
+            "type": "emotional_tone",
+            "difficulty": "easy",
+            "title": "feelings of doubt",
+            "words": [
+                "skeptical",
+                "doubtful",
+                "guarded",
+                "suspicious"
+            ]
+        },
+        {
+            "id": "medium-physical_trait",
+            "type": "physical_trait",
+            "difficulty": "medium",
+            "title": "clues in appearance",
+            "words": [
+                "calloused",
+                "mottled",
+                "broadbrim",
+                "sinewy"
+            ]
+        },
+        {
+            "id": "hard-synonym",
+            "type": "synonym",
+            "difficulty": "hard",
+            "title": "near the edge",
+            "words": [
+                "incipient",
+                "nascent",
+                "incipience",
+                "early"
+            ]
+        },
+        {
+            "id": "very_hard-profession_domain",
+            "type": "profession_domain",
+            "difficulty": "very_hard",
+            "title": "work of the archivist",
+            "words": [
+                "cataloging",
+                "provenance",
+                "deaccession",
+                "restoration"
+            ]
+        }
+    ]
+}

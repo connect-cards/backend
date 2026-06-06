@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-20",
+    "groups": [
+        {
+            "id": "easy",
+            "type": "literary_register",
+            "difficulty": "easy",
+            "title": "words for a sudden danger",
+            "words": [
+                "peril",
+                "menace",
+                "calamity",
+                "hazard"
+            ]
+        },
+        {
+            "id": "medium",
+            "type": "sound_association",
+            "difficulty": "medium",
+            "title": "words that echo in meaning",
+            "words": [
+                "weigh",
+                "way",
+                "mete",
+                "meet"
+            ]
+        },
+        {
+            "id": "hard",
+            "type": "informal_register",
+            "difficulty": "hard",
+            "title": "words for urging someone on",
+            "words": [
+                "hype",
+                "spur",
+                "pump",
+                "egg"
+            ]
+        },
+        {
+            "id": "very_hard",
+            "type": "semantic_field",
+            "difficulty": "very_hard",
+            "title": "words for a difficult journey",
+            "words": [
+                "sojourn",
+                "pilgrimage",
+                "peregrination",
+                "odyssey"
+            ]
+        }
+    ]
+}

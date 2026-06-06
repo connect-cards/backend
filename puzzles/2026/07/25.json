@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-25",
+    "groups": [
+        {
+            "id": "d1-easy",
+            "type": "profession_domain",
+            "difficulty": "easy",
+            "title": "work in the record room",
+            "words": [
+                "archive",
+                "librarian",
+                "catalog",
+                "manuscript"
+            ]
+        },
+        {
+            "id": "d1-medium",
+            "type": "sound_association",
+            "difficulty": "medium",
+            "title": "words that sound like music tools",
+            "words": [
+                "lyre",
+                "metronome",
+                "cymbal",
+                "drone"
+            ]
+        },
+        {
+            "id": "d1-hard",
+            "type": "etymological_relation",
+            "difficulty": "hard",
+            "title": "words sharing a common root",
+            "words": [
+                "chronicle",
+                "anecdote",
+                "calendar",
+                "chronometer"
+            ]
+        },
+        {
+            "id": "d1-veryhard",
+            "type": "synonym",
+            "difficulty": "very_hard",
+            "title": "words meaning stubborn refusal",
+            "words": [
+                "obdurate",
+                "intransigent",
+                "unyielding",
+                "recalcitrant"
+            ]
+        }
+    ]
+}

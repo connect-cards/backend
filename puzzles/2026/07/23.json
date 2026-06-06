@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-23",
+    "groups": [
+        {
+            "id": "day3_easy",
+            "type": "easy",
+            "difficulty": "easy",
+            "title": "words in the same semantic field",
+            "words": [
+                "doctor",
+                "diagnose",
+                "remedy",
+                "clinic"
+            ]
+        },
+        {
+            "id": "day3_medium",
+            "type": "medium",
+            "difficulty": "medium",
+            "title": "words that sound alike in english",
+            "words": [
+                "aisle",
+                "isle",
+                "aisleway",
+                "ileal"
+            ]
+        },
+        {
+            "id": "day3_hard",
+            "type": "hard",
+            "difficulty": "hard",
+            "title": "words from a literary register",
+            "words": [
+                "forsake",
+                "therewith",
+                "perchance",
+                "lament"
+            ]
+        },
+        {
+            "id": "day3_very_hard",
+            "type": "very_hard",
+            "difficulty": "very_hard",
+            "title": "words connected by hidden origins",
+            "words": [
+                "astray",
+                "aviary",
+                "arithmetical",
+                "sincerity"
+            ]
+        }
+    ]
+}

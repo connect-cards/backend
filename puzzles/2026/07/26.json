@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-26",
+    "groups": [
+        {
+            "id": "d2-easy",
+            "type": "synonym",
+            "difficulty": "easy",
+            "title": "words for a fast escape",
+            "words": [
+                "flee",
+                "bolt",
+                "scatter",
+                "vanish"
+            ]
+        },
+        {
+            "id": "d2-medium",
+            "type": "etymological_relation",
+            "difficulty": "medium",
+            "title": "words with a shared origin in witness",
+            "words": [
+                "testify",
+                "attest",
+                "evidence",
+                "witness"
+            ]
+        },
+        {
+            "id": "d2-hard",
+            "type": "morphological_family",
+            "difficulty": "hard",
+            "title": "family of words about giving permission",
+            "words": [
+                "authorize",
+                "authorization",
+                "licensed",
+                "permit"
+            ]
+        },
+        {
+            "id": "d2-veryhard",
+            "type": "profession_domain",
+            "difficulty": "very_hard",
+            "title": "careers tied to interpreting law",
+            "words": [
+                "jurisprudence",
+                "litigant",
+                "arbitrator",
+                "barrister"
+            ]
+        }
+    ]
+}

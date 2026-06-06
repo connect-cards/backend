@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-06",
+    "groups": [
+        {
+            "id": "d2-easy",
+            "type": "profession_domain",
+            "difficulty": "easy",
+            "title": "words that belong to medicine",
+            "words": [
+                "diagnosis",
+                "symptom",
+                "pathogen",
+                "prescribe"
+            ]
+        },
+        {
+            "id": "d2-medium",
+            "type": "informal_register",
+            "difficulty": "medium",
+            "title": "words that sound like casual speech",
+            "words": [
+                "kid",
+                "chill",
+                "buddy",
+                "screwy"
+            ]
+        },
+        {
+            "id": "d2-hard",
+            "type": "synonym",
+            "difficulty": "hard",
+            "title": "words meaning conceal or hide",
+            "words": [
+                "conceal",
+                "camouflage",
+                "withhold",
+                "obscure"
+            ]
+        },
+        {
+            "id": "d2-very_hard",
+            "type": "thematic_association",
+            "difficulty": "very_hard",
+            "title": "words tied to sudden embarrassment",
+            "words": [
+                "flustered",
+                "mortified",
+                "blunder",
+                "stammer"
+            ]
+        }
+    ]
+}

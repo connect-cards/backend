@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-16",
+    "groups": [
+        {
+            "id": "easy",
+            "type": "physical_trait",
+            "difficulty": "easy",
+            "title": "signs of an untidy appearance",
+            "words": [
+                "rumpled",
+                "untrimmed",
+                "disheveled",
+                "matted"
+            ]
+        },
+        {
+            "id": "medium",
+            "type": "profession_domain",
+            "difficulty": "medium",
+            "title": "work connected to medical diagnosis",
+            "words": [
+                "pathology",
+                "auscultate",
+                "diagnose",
+                "prognosis"
+            ]
+        },
+        {
+            "id": "hard",
+            "type": "etymological_relation",
+            "difficulty": "hard",
+            "title": "words tied to writing and recording",
+            "words": [
+                "inscribe",
+                "document",
+                "notation",
+                "transcribe"
+            ]
+        },
+        {
+            "id": "very_hard",
+            "type": "synonym",
+            "difficulty": "very_hard",
+            "title": "near-synonyms for very difficult",
+            "words": [
+                "arduous",
+                "exacting",
+                "onerous",
+                "intractable"
+            ]
+        }
+    ]
+}

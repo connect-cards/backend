@@ -436,5 +436,94 @@
                 "It’s near impossible to finish today."
             ]
         }
+    ],
+    "nah": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "a casual way to say no, especially to refuse something",
+            "synonyms": [
+                "no",
+                "not",
+                "nah-uh"
+            ],
+            "examples": [
+                "Nah, I’m not coming tonight.",
+                "He said nah and hung up."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a short refusal using nah",
+            "synonyms": [
+                "no",
+                "refusal"
+            ],
+            "examples": [
+                "Her response was just a quick nah.",
+                "I gave him a firm nah."
+            ]
+        }
+    ],
+    "nascent": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "just beginning and not fully formed or developed",
+            "synonyms": [
+                "emerging",
+                "early",
+                "beginning",
+                "developing"
+            ],
+            "examples": [
+                "A nascent technology is gaining attention.",
+                "The company is in a nascent phase."
+            ]
+        }
+    ],
+    "navigate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to plan and direct a route through an area, especially while traveling",
+            "synonyms": [
+                "steer",
+                "find a way",
+                "pilot",
+                "travel through"
+            ],
+            "examples": [
+                "We navigated the city using GPS.",
+                "She navigated the boat safely through the channel."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to deal with a situation successfully, especially one that is complex",
+            "synonyms": [
+                "manage",
+                "handle",
+                "deal with",
+                "work through"
+            ],
+            "examples": [
+                "He helped us navigate the difficult contract.",
+                "They navigated their way through the negotiations."
+            ]
+        }
+    ],
+    "notation": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a system of symbols or marks used to write information, especially in math or music",
+            "synonyms": [
+                "symbol system",
+                "marking",
+                "signs",
+                "notation style"
+            ],
+            "examples": [
+                "The notation for fractions is easy to learn.",
+                "She used music notation to write the melody."
+            ]
+        }
     ]
 }

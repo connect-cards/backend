@@ -705,5 +705,98 @@
                 "They opened a new branch downtown."
             ]
         }
+    ],
+    "overawe": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make someone feel very impressed and slightly afraid so they cannot react freely",
+            "synonyms": [
+                "intimidate",
+                "overwhelm",
+                "daze",
+                "cow"
+            ],
+            "examples": [
+                "The huge building overawed the visitors.",
+                "His confidence overawed the opponent."
+            ]
+        }
+    ],
+    "orbit": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the curved path that one object in space follows around another",
+            "synonyms": [
+                "trajectory",
+                "path",
+                "revolution path"
+            ],
+            "examples": [
+                "The satellite changed its orbit.",
+                "Earth moves in an orbit around the sun."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to move in a curved path around something in space",
+            "synonyms": [
+                "revolve",
+                "circle",
+                "rotate around",
+                "encircle"
+            ],
+            "examples": [
+                "The probe will orbit the planet for a year.",
+                "The moon orbits the Earth."
+            ]
+        }
+    ],
+    "opt": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to choose a particular option",
+            "synonyms": [
+                "choose",
+                "select",
+                "decide",
+                "prefer"
+            ],
+            "examples": [
+                "You can opt for the cheaper plan.",
+                "She opted to stay home instead."
+            ]
+        }
+    ],
+    "onerous": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "difficult, tiring, or full of heavy responsibility",
+            "synonyms": [
+                "burdensome",
+                "heavy",
+                "demanding",
+                "taxing"
+            ],
+            "examples": [
+                "The tasks were onerous and took longer than expected.",
+                "Managing the project felt onerous."
+            ]
+        }
+    ],
+    "odyssey": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a long adventurous journey, often full of difficulties",
+            "synonyms": [
+                "journey",
+                "quest",
+                "adventure",
+                "travel experience"
+            ],
+            "examples": [
+                "Their odyssey across the desert lasted three weeks.",
+                "The story is an odyssey of survival."
+            ]
+        }
     ]
 }

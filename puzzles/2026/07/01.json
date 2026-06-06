@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-01",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "profession_domain",
+            "difficulty": "easy",
+            "title": "street legal services",
+            "words": [
+                "attorney",
+                "litigation",
+                "brief",
+                "plaintiff"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "literary_register",
+            "difficulty": "medium",
+            "title": "ornate, elevated writing",
+            "words": [
+                "impeccable",
+                "sonorous",
+                "therein",
+                "profound"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "semantic_field",
+            "difficulty": "hard",
+            "title": "moral evaluation and blame",
+            "words": [
+                "reproach",
+                "culpable",
+                "allegation",
+                "absolve"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "thematic_association",
+            "difficulty": "very_hard",
+            "title": "a kingdom in decline",
+            "words": [
+                "dynasty",
+                "decay",
+                "usurp",
+                "omen"
+            ]
+        }
+    ]
+}

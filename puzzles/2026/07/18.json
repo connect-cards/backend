@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-18",
+    "groups": [
+        {
+            "id": "easy",
+            "type": "morphological_family",
+            "difficulty": "easy",
+            "title": "words from the same root",
+            "words": [
+                "dictate",
+                "editorial",
+                "dictation",
+                "dictionary"
+            ]
+        },
+        {
+            "id": "medium",
+            "type": "synonym",
+            "difficulty": "medium",
+            "title": "words meaning suspicious",
+            "words": [
+                "dubious",
+                "skeptical",
+                "wary",
+                "equivocal"
+            ]
+        },
+        {
+            "id": "hard",
+            "type": "thematic_association",
+            "difficulty": "hard",
+            "title": "words from a legal dispute",
+            "words": [
+                "summons",
+                "litigation",
+                "affidavit",
+                "appeal"
+            ]
+        },
+        {
+            "id": "very_hard",
+            "type": "semantic_field",
+            "difficulty": "very_hard",
+            "title": "words from astronomy and navigation",
+            "words": [
+                "ephemeris",
+                "zenith",
+                "parallax",
+                "almanac"
+            ]
+        }
+    ]
+}

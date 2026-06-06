@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-02",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "sound_association",
+            "difficulty": "easy",
+            "title": "words that rhyme with control",
+            "words": [
+                "govern",
+                "overawe",
+                "reign",
+                "curb"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "etymological_relation",
+            "difficulty": "medium",
+            "title": "words descended from craft",
+            "words": [
+                "artisan",
+                "alchemy",
+                "atelier",
+                "artisanry"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "literary_register",
+            "difficulty": "hard",
+            "title": "formal, historical narration",
+            "words": [
+                "chronicle",
+                "chronicler",
+                "annals",
+                "canticle"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "physical_trait",
+            "difficulty": "very_hard",
+            "title": "marks of careful age",
+            "words": [
+                "wrinkle",
+                "scarred",
+                "balding",
+                "weathered"
+            ]
+        }
+    ]
+}

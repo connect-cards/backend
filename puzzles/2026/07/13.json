@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-13",
+    "groups": [
+        {
+            "id": "easy",
+            "type": "emotional_tone",
+            "difficulty": "easy",
+            "title": "feelings of restrained grief",
+            "words": [
+                "sorrow",
+                "quietude",
+                "regret",
+                "lament"
+            ]
+        },
+        {
+            "id": "medium",
+            "type": "thematic_association",
+            "difficulty": "medium",
+            "title": "words for public performance",
+            "words": [
+                "recital",
+                "pageant",
+                "spectacle",
+                "audience"
+            ]
+        },
+        {
+            "id": "hard",
+            "type": "literary_register",
+            "difficulty": "hard",
+            "title": "a formal, literary manner",
+            "words": [
+                "discursive",
+                "allegorical",
+                "rarefied",
+                "eloquent"
+            ]
+        },
+        {
+            "id": "very_hard",
+            "type": "sound_association",
+            "difficulty": "very_hard",
+            "title": "near-sounds that mislead listeners",
+            "words": [
+                "hymn",
+                "limn",
+                "wraith",
+                "rheum"
+            ]
+        }
+    ]
+}

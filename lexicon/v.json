@@ -718,5 +718,53 @@
                 "The car vibrated when the wheel was misaligned."
             ]
         }
+    ],
+    "vanish": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to disappear, especially suddenly or completely",
+            "synonyms": [
+                "disappear",
+                "evaporate",
+                "vanish from view",
+                "disperse"
+            ],
+            "examples": [
+                "The smoke vanished quickly.",
+                "He vanished into the crowd."
+            ]
+        }
+    ],
+    "vamoose": [
+        {
+            "part_of_speech": "verb",
+            "definition": "informal meaning to leave quickly",
+            "synonyms": [
+                "go",
+                "leave quickly",
+                "scram",
+                "skedaddle"
+            ],
+            "examples": [
+                "The thief vamoosed before anyone could stop him.",
+                "Vamoose, the meeting is about to start."
+            ]
+        }
+    ],
+    "venomous": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "able to cause harm, especially through poisonous venom; also used for harsh, harmful speech",
+            "synonyms": [
+                "poisonous",
+                "toxic",
+                "bitter",
+                "malicious"
+            ],
+            "examples": [
+                "The snake is venomous.",
+                "He made a venomous remark about her work."
+            ]
+        }
     ]
 }

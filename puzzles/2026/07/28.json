@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-28",
+    "groups": [
+        {
+            "id": "d4-easy",
+            "type": "profession_domain",
+            "difficulty": "easy",
+            "title": "roles in making decisions",
+            "words": [
+                "consultant",
+                "counsel",
+                "committee",
+                "adjudicate"
+            ]
+        },
+        {
+            "id": "d4-medium",
+            "type": "literary_register",
+            "difficulty": "medium",
+            "title": "literary words for watching closely",
+            "words": [
+                "regard",
+                "scrutinize",
+                "perceive",
+                "contemplate"
+            ]
+        },
+        {
+            "id": "d4-hard",
+            "type": "morphological_family",
+            "difficulty": "hard",
+            "title": "word family about fear and dread",
+            "words": [
+                "dread",
+                "dreadful",
+                "dreadnought",
+                "fearful"
+            ]
+        },
+        {
+            "id": "d4-veryhard",
+            "type": "emotional_tone",
+            "difficulty": "very_hard",
+            "title": "emotional tone of bitter contempt",
+            "words": [
+                "scornful",
+                "contemptuous",
+                "saturnine",
+                "acerbic"
+            ]
+        }
+    ]
+}

@@ -2283,5 +2283,315 @@
                 "He dawdled at the store and missed the train."
             ]
         }
+    ],
+    "dynasty": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a series of rulers from the same family or group over a long period",
+            "synonyms": [
+                "royal house",
+                "ruling family",
+                "lineage",
+                "reign"
+            ],
+            "examples": [
+                "The dynasty ruled for more than two centuries.",
+                "Historians studied how the dynasty gained power."
+            ]
+        }
+    ],
+    "drained": [
+        {
+            "part_of_speech": "verb",
+            "definition": "past tense and past participle of drain; removed liquid or caused something to lose energy or resources",
+            "synonyms": [
+                "emptied",
+                "depleted",
+                "exhausted",
+                "withdrawn"
+            ],
+            "examples": [
+                "The sink drained slowly.",
+                "The long meeting drained my energy."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "having little energy because of fatigue or lack of resources",
+            "synonyms": [
+                "tired",
+                "exhausted",
+                "depleted",
+                "worn out"
+            ],
+            "examples": [
+                "I felt drained after the exam.",
+                "The team was drained but kept going."
+            ]
+        }
+    ],
+    "declare": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to announce something clearly and officially",
+            "synonyms": [
+                "announce",
+                "state",
+                "proclaim",
+                "declare publicly"
+            ],
+            "examples": [
+                "The judge declared the trial closed.",
+                "They declared a new policy for all students."
+            ]
+        }
+    ],
+    "declared": [
+        {
+            "part_of_speech": "verb",
+            "definition": "past tense and past participle of declare; announced something clearly and officially",
+            "synonyms": [
+                "announced",
+                "stated",
+                "proclaimed",
+                "declared publicly"
+            ],
+            "examples": [
+                "The company declared its results on Friday.",
+                "He was declared the winner after the final match."
+            ]
+        }
+    ],
+    "declarative": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "referring to a sentence type that states information",
+            "synonyms": [
+                "statement",
+                "stating",
+                "assertive"
+            ],
+            "examples": [
+                "In English, many sentences are declarative.",
+                "The test asked for declarative sentences."
+            ]
+        }
+    ],
+    "deaccession": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the removal of an item from a museum or library collection",
+            "synonyms": [
+                "removal",
+                "withdrawal",
+                "collection disposal"
+            ],
+            "examples": [
+                "The museum approved the deaccession of several items.",
+                "Deaccession is part of how collections are updated."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to remove an item from a museum or library collection",
+            "synonyms": [
+                "remove",
+                "withdraw",
+                "discard from collection"
+            ],
+            "examples": [
+                "The museum deaccessioned the old equipment.",
+                "They decided to deaccession the duplicates."
+            ]
+        }
+    ],
+    "discursive": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "moving from one topic to another in a detailed, sometimes indirect way",
+            "synonyms": [
+                "rambling",
+                "wide-ranging",
+                "thoughtful",
+                "long-winded"
+            ],
+            "examples": [
+                "His discursive talk covered several unrelated issues.",
+                "The essay is discursive and not very focused."
+            ]
+        }
+    ],
+    "disheveled": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "untidy in appearance, especially hair or clothes",
+            "synonyms": [
+                "messy",
+                "unkempt",
+                "rumpled",
+                "untidy"
+            ],
+            "examples": [
+                "He arrived with disheveled clothes after the storm.",
+                "Her hair looked disheveled."
+            ]
+        }
+    ],
+    "document": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a written or recorded item that provides information",
+            "synonyms": [
+                "record",
+                "paper",
+                "file",
+                "report"
+            ],
+            "examples": [
+                "Bring your documents to the interview.",
+                "The document explains the policy in detail."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to record information in written form as evidence or to keep a history",
+            "synonyms": [
+                "record",
+                "log",
+                "register",
+                "set down"
+            ],
+            "examples": [
+                "Please document the incident with dates and times.",
+                "The team documented the results in a report."
+            ]
+        }
+    ],
+    "dictate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to say something so that someone can write it down",
+            "synonyms": [
+                "read aloud",
+                "say for writing",
+                "administer"
+            ],
+            "examples": [
+                "She dictated the letter to her assistant.",
+                "He dictated instructions over the phone."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to strongly control or decide what must happen",
+            "synonyms": [
+                "determine",
+                "decide",
+                "control",
+                "require"
+            ],
+            "examples": [
+                "Budget rules dictate what we can do.",
+                "The schedule dictates the order of tasks."
+            ]
+        }
+    ],
+    "dictation": [
+        {
+            "part_of_speech": "noun",
+            "definition": "words spoken for someone to write down",
+            "synonyms": [
+                "spelling-out",
+                "writing-by-listening",
+                "transcription"
+            ],
+            "examples": [
+                "The teacher gave us dictation practice.",
+                "Dictation helps improve listening skills."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "the act or practice of controlling people by giving orders",
+            "synonyms": [
+                "command",
+                "control",
+                "rule"
+            ],
+            "examples": [
+                "The regime relied on dictation to control society."
+            ]
+        }
+    ],
+    "dictionary": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a book or digital resource that lists words and explains their meanings",
+            "synonyms": [
+                "word list",
+                "lexicon",
+                "reference book"
+            ],
+            "examples": [
+                "I looked it up in the dictionary.",
+                "This app works like a dictionary for students."
+            ]
+        }
+    ],
+    "drone": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a low continuous sound, often from a machine or insect",
+            "synonyms": [
+                "buzz",
+                "hum",
+                "low sound",
+                "droning"
+            ],
+            "examples": [
+                "The drone of the engine filled the room.",
+                "I couldn’t sleep because of a drone outside."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a low continuous sound",
+            "synonyms": [
+                "hum",
+                "buzz",
+                "resound",
+                "murmur"
+            ],
+            "examples": [
+                "The wires began to drone softly.",
+                "He droned on in a boring voice."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a flying unmanned aircraft controlled remotely",
+            "synonyms": [
+                "uav",
+                "unmanned aircraft"
+            ],
+            "examples": [
+                "The police used a drone for surveillance.",
+                "A drone flew over the stadium."
+            ]
+        }
+    ],
+    "dreadnought": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a large heavily armed battleship, especially in earlier history",
+            "synonyms": [
+                "battleship",
+                "warship"
+            ],
+            "examples": [
+                "The dreadnought was built for long battles.",
+                "Historians study the role of dreadnoughts in naval warfare."
+            ]
+        }
     ]
 }

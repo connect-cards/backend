@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-11",
+    "groups": [
+        {
+            "id": "easy-thematic_association",
+            "type": "thematic_association",
+            "difficulty": "easy",
+            "title": "weather and water",
+            "words": [
+                "sprinkle",
+                "drizzle",
+                "torrent",
+                "floodplain"
+            ]
+        },
+        {
+            "id": "medium-profession_domain",
+            "type": "profession_domain",
+            "difficulty": "medium",
+            "title": "skills of a sculptor",
+            "words": [
+                "chiseling",
+                "masonry",
+                "molding",
+                "bas-relief"
+            ]
+        },
+        {
+            "id": "hard-physical_trait",
+            "type": "physical_trait",
+            "difficulty": "hard",
+            "title": "features of the face",
+            "words": [
+                "freckled",
+                "scarred",
+                "pallid",
+                "slender"
+            ]
+        },
+        {
+            "id": "very_hard-semantic_field",
+            "type": "semantic_field",
+            "difficulty": "very_hard",
+            "title": "old letters and notes",
+            "words": [
+                "epistolary",
+                "correspondence",
+                "manuscript",
+                "codicil"
+            ]
+        }
+    ]
+}

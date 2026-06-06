@@ -569,5 +569,116 @@
                 "She described the dream as unheimlich."
             ]
         }
+    ],
+    "usurp": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to take power or a position illegally or by force",
+            "synonyms": [
+                "seize",
+                "take over",
+                "overthrow",
+                "grab"
+            ],
+            "examples": [
+                "He tried to usurp the throne.",
+                "The general usurped control after the leader disappeared."
+            ]
+        }
+    ],
+    "underwriter": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person or company that agrees to cover a financial risk, often in insurance or investment",
+            "synonyms": [
+                "insurer",
+                "risk-taker",
+                "guarantor"
+            ],
+            "examples": [
+                "The underwriter approved the policy.",
+                "An underwriter reviewed the application carefully."
+            ]
+        }
+    ],
+    "untrustworthy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "not reliable or likely to tell the truth",
+            "synonyms": [
+                "dishonest",
+                "unreliable",
+                "questionable",
+                "not credible"
+            ],
+            "examples": [
+                "He is untrustworthy, so don’t share sensitive information with him.",
+                "The source turned out to be untrustworthy."
+            ]
+        }
+    ],
+    "unclear": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "not easy to understand; not certain",
+            "synonyms": [
+                "vague",
+                "ambiguous",
+                "uncertain",
+                "uncertain"
+            ],
+            "examples": [
+                "The instructions were unclear, so we asked questions.",
+                "Her response was unclear."
+            ]
+        }
+    ],
+    "untrimmed": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "not cut or shaped to a neat finish",
+            "synonyms": [
+                "uncut",
+                "not trimmed",
+                "long",
+                "overgrown"
+            ],
+            "examples": [
+                "Her hair is untrimmed and needs a haircut.",
+                "The hedge was untrimmed and too tall."
+            ]
+        }
+    ],
+    "uproar": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a loud and sudden disturbance, often with strong emotional reaction",
+            "synonyms": [
+                "commotion",
+                "outcry",
+                "chaos",
+                "disturbance"
+            ],
+            "examples": [
+                "There was an uproar when the speaker insulted the audience.",
+                "The decision caused an uproar online."
+            ]
+        }
+    ],
+    "unyielding": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "not willing to change or stop; determined in a difficult situation",
+            "synonyms": [
+                "inflexible",
+                "unyielding",
+                "stubborn",
+                "resolute"
+            ],
+            "examples": [
+                "Her unyielding focus helped her finish the project.",
+                "The unyielding rules made exceptions impossible."
+            ]
+        }
     ]
 }

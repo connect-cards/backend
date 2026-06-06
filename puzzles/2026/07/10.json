@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-10",
+    "groups": [
+        {
+            "id": "easy-sound_association",
+            "type": "sound_association",
+            "difficulty": "easy",
+            "title": "soft ringing",
+            "words": [
+                "chime",
+                "tinkle",
+                "buzz",
+                "humming"
+            ]
+        },
+        {
+            "id": "medium-profession_domain",
+            "type": "profession_domain",
+            "difficulty": "medium",
+            "title": "law and procedure",
+            "words": [
+                "litigant",
+                "arbitration",
+                "subpoena",
+                "jurisdiction"
+            ]
+        },
+        {
+            "id": "hard-morphological_family",
+            "type": "morphological_family",
+            "difficulty": "hard",
+            "title": "words from public",
+            "words": [
+                "declare",
+                "declaration",
+                "declared",
+                "declarative"
+            ]
+        },
+        {
+            "id": "very_hard-synonym",
+            "type": "synonym",
+            "difficulty": "very_hard",
+            "title": "resembling restraint",
+            "words": [
+                "reticent",
+                "spare",
+                "laconic",
+                "restrained"
+            ]
+        }
+    ]
+}

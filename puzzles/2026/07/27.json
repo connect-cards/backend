@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-27",
+    "groups": [
+        {
+            "id": "d3-easy",
+            "type": "profession_domain",
+            "difficulty": "easy",
+            "title": "work involving public persuasion",
+            "words": [
+                "campaign",
+                "advocate",
+                "speechwriter",
+                "platform"
+            ]
+        },
+        {
+            "id": "d3-medium",
+            "type": "etymological_relation",
+            "difficulty": "medium",
+            "title": "words linked to the idea of turning back",
+            "words": [
+                "recant",
+                "revert",
+                "refund",
+                "retrograde"
+            ]
+        },
+        {
+            "id": "d3-hard",
+            "type": "informal_register",
+            "difficulty": "hard",
+            "title": "informal words for going away quickly",
+            "words": [
+                "scram",
+                "skedaddle",
+                "hightail",
+                "vamoose"
+            ]
+        },
+        {
+            "id": "d3-veryhard",
+            "type": "literary_register",
+            "difficulty": "very_hard",
+            "title": "literary words for quiet authority",
+            "words": [
+                "imperious",
+                "salubrious",
+                "sonorous",
+                "imperceptible"
+            ]
+        }
+    ]
+}

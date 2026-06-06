@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-19",
+    "groups": [
+        {
+            "id": "easy",
+            "type": "informal_register",
+            "difficulty": "easy",
+            "title": "casual words for mistakes",
+            "words": [
+                "screwup",
+                "blunder",
+                "botch",
+                "fumble"
+            ]
+        },
+        {
+            "id": "medium",
+            "type": "semantic_field",
+            "difficulty": "medium",
+            "title": "words for discussing loudly",
+            "words": [
+                "raucous",
+                "clamor",
+                "bellow",
+                "uproar"
+            ]
+        },
+        {
+            "id": "hard",
+            "type": "thematic_association",
+            "difficulty": "hard",
+            "title": "words connected to a retreat",
+            "words": [
+                "withdraw",
+                "recoil",
+                "rescind",
+                "evacuate"
+            ]
+        },
+        {
+            "id": "very_hard",
+            "type": "sound_association",
+            "difficulty": "very_hard",
+            "title": "words that can mislead by sound",
+            "words": [
+                "fore",
+                "four",
+                "stare",
+                "stair"
+            ]
+        }
+    ]
+}

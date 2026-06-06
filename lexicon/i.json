@@ -1655,5 +1655,311 @@
                 "We need impartial advice before making a decision."
             ]
         }
+    ],
+    "impeccable": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "perfect in quality or behavior with no serious faults",
+            "synonyms": [
+                "flawless",
+                "faultless",
+                "spotless",
+                "unimpeachable"
+            ],
+            "examples": [
+                "Her manners were impeccable.",
+                "The plan was impeccable and well organized."
+            ]
+        }
+    ],
+    "impart": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to give information or a quality to someone",
+            "synonyms": [
+                "give",
+                "provide",
+                "convey",
+                "infuse"
+            ],
+            "examples": [
+                "She imparted her knowledge to new students.",
+                "The teacher imparted confidence to the class."
+            ]
+        }
+    ],
+    "impute": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to believe that someone is responsible for something, often a negative quality or wrongdoing",
+            "synonyms": [
+                "attribute",
+                "assign",
+                "blame",
+                "consider responsible"
+            ],
+            "examples": [
+                "They imputed bad motives to her question.",
+                "Don’t impute guilt without evidence."
+            ]
+        }
+    ],
+    "incipient": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "starting to happen, but not fully developed yet",
+            "synonyms": [
+                "emerging",
+                "beginning",
+                "early-stage",
+                "developing"
+            ],
+            "examples": [
+                "The project is in an incipient stage.",
+                "There were incipient signs of trouble."
+            ]
+        }
+    ],
+    "incipience": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the beginning stage when something first starts to develop",
+            "synonyms": [
+                "beginning",
+                "start",
+                "emergence",
+                "early development"
+            ],
+            "examples": [
+                "The doctors monitored the incipience of the disease.",
+                "Her incipience of interest grew into a passion."
+            ]
+        }
+    ],
+    "invite": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to ask someone to come to an event or to take part in something",
+            "synonyms": [
+                "ask",
+                "request",
+                "extend an invitation",
+                "summon"
+            ],
+            "examples": [
+                "We invited her to our birthday party.",
+                "He invited me to join the meeting."
+            ]
+        }
+    ],
+    "implore": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to ask someone earnestly, often in a desperate way",
+            "synonyms": [
+                "beg",
+                "plead",
+                "entreat",
+                "beseech"
+            ],
+            "examples": [
+                "She implored him to stay calm.",
+                "They implored the judge to reconsider the decision."
+            ]
+        }
+    ],
+    "intractable": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "difficult to control, solve, or manage",
+            "synonyms": [
+                "hard to manage",
+                "resistant",
+                "unsolved",
+                "stubborn"
+            ],
+            "examples": [
+                "The dispute became intractable.",
+                "They faced an intractable technical problem."
+            ]
+        }
+    ],
+    "inventory": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a complete list of items, especially items in a store or warehouse",
+            "synonyms": [
+                "stock list",
+                "stock",
+                "records",
+                "catalog of items"
+            ],
+            "examples": [
+                "We need to update the inventory every month.",
+                "The inventory shows the items currently available."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to count and record items to prepare an inventory list",
+            "synonyms": [
+                "count",
+                "record",
+                "stocktake",
+                "check"
+            ],
+            "examples": [
+                "They are inventorying the warehouse this week.",
+                "We inventoried the tools before the audit."
+            ]
+        }
+    ],
+    "isle": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small island",
+            "synonyms": [
+                "island",
+                "small island"
+            ],
+            "examples": [
+                "They visited a quiet isle in the south.",
+                "Our boat stopped at an isle for lunch."
+            ]
+        }
+    ],
+    "ileal": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "related to the ileum, a part of the small intestine",
+            "synonyms": [
+                "intestinal (specific)"
+            ],
+            "examples": [
+                "The ileal tissue showed signs of inflammation.",
+                "Doctors performed tests on the ileal area."
+            ]
+        }
+    ],
+    "intransigent": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "refusing to change one’s opinion or position, especially during a disagreement",
+            "synonyms": [
+                "unyielding",
+                "stubborn",
+                "refusing compromise",
+                "stiff-necked"
+            ],
+            "examples": [
+                "The intransigent negotiator refused any compromise.",
+                "They couldn’t reach agreement because of intransigent demands."
+            ]
+        }
+    ],
+    "imperious": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "bossy and commanding, often in an unpleasant way",
+            "synonyms": [
+                "authoritative",
+                "domineering",
+                "bossy",
+                "commanding"
+            ],
+            "examples": [
+                "He was imperious and refused to listen.",
+                "An imperious tone made the conversation tense."
+            ]
+        }
+    ],
+    "imperceptible": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "so small or slow that it is difficult to notice",
+            "synonyms": [
+                "undetectable",
+                "minute",
+                "barely noticeable",
+                "unnoticeable"
+            ],
+            "examples": [
+                "The change was imperceptible at first.",
+                "His imperceptible movements made it hard to track him."
+            ]
+        }
+    ],
+    "interdict": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an official order that stops an activity or forbids something",
+            "synonyms": [
+                "ban",
+                "prohibition",
+                "injunction",
+                "restriction"
+            ],
+            "examples": [
+                "The court issued an interdict against the company.",
+                "The interdict prevented further construction."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to forbid an activity by official order",
+            "synonyms": [
+                "ban",
+                "prohibit",
+                "forbid",
+                "restrict"
+            ],
+            "examples": [
+                "They interdict travel to the area.",
+                "The judge interdict the sale of the property."
+            ]
+        }
+    ],
+    "iteration": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a repeated version or process, especially in problem-solving or technology development",
+            "synonyms": [
+                "version",
+                "repeat",
+                "cycle",
+                "repetition"
+            ],
+            "examples": [
+                "The software update was the third iteration of the design.",
+                "We plan another iteration next week."
+            ]
+        }
+    ],
+    "iterative": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "happening in repeated steps where results are improved each time",
+            "synonyms": [
+                "repetitive (process)",
+                "step-by-step",
+                "recurrent",
+                "cycling"
+            ],
+            "examples": [
+                "The iterative method helps refine the prototype.",
+                "They used an iterative approach to reduce errors."
+            ]
+        }
+    ],
+    "iterable": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "in programming, able to be looped over to produce elements one by one",
+            "synonyms": [],
+            "examples": [
+                "In Python, a list is iterable.",
+                "This object is iterable, so you can loop through it."
+            ]
+        }
     ]
 }

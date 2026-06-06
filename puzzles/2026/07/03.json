@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-03",
+    "groups": [
+        {
+            "id": "g1",
+            "type": "sound_association",
+            "difficulty": "easy",
+            "title": "words that sound like a test",
+            "words": [
+                "assay",
+                "essay",
+                "essayist",
+                "perse"
+            ]
+        },
+        {
+            "id": "g2",
+            "type": "synonym",
+            "difficulty": "medium",
+            "title": "informal ways to say very tired",
+            "words": [
+                "knackered",
+                "wiped",
+                "drained",
+                "bagged"
+            ]
+        },
+        {
+            "id": "g3",
+            "type": "profession_domain",
+            "difficulty": "hard",
+            "title": "skills used in finance",
+            "words": [
+                "liquidity",
+                "underwriter",
+                "leverage",
+                "portfolio"
+            ]
+        },
+        {
+            "id": "g4",
+            "type": "informal_register",
+            "difficulty": "very_hard",
+            "title": "dismissive talk about unreliable people",
+            "words": [
+                "dodgy",
+                "shifty",
+                "holloweyed",
+                "untrustworthy"
+            ]
+        }
+    ]
+}

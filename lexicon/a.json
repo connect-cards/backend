@@ -2303,5 +2303,540 @@
                 "Doctors are trying to ameliorate the patient’s pain."
             ]
         }
+    ],
+    "attorney": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a lawyer who gives legal advice and represents people in court",
+            "synonyms": [
+                "lawyer",
+                "solicitor",
+                "counsel",
+                "legal representative"
+            ],
+            "examples": [
+                "The attorney filed the motion before the deadline.",
+                "She hired an attorney to handle the divorce case."
+            ]
+        }
+    ],
+    "allegation": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a claim that someone has done something wrong or illegal, which may not be proven",
+            "synonyms": [
+                "claim",
+                "accusation",
+                "charge",
+                "assertion"
+            ],
+            "examples": [
+                "The police are investigating the allegation.",
+                "She denied the allegation in a public statement."
+            ]
+        }
+    ],
+    "absolve": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to officially clear someone from blame or guilt",
+            "synonyms": [
+                "exonerate",
+                "clear",
+                "acquit",
+                "forgive"
+            ],
+            "examples": [
+                "The judge absolved him of all charges.",
+                "She was absolved after the investigation."
+            ]
+        }
+    ],
+    "artisan": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who makes things by hand with skill, often using traditional methods",
+            "synonyms": [
+                "craftsman",
+                "craftsperson",
+                "maker",
+                "skilled worker"
+            ],
+            "examples": [
+                "The artisan carved the wooden bowl carefully.",
+                "Local artisans produce handmade jewelry."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "made in a skilled way by hand, not mass-produced",
+            "synonyms": [
+                "handmade",
+                "craft",
+                "traditional",
+                "small-batch"
+            ],
+            "examples": [
+                "They sell artisan bread every morning.",
+                "The restaurant uses artisan cheese."
+            ]
+        }
+    ],
+    "alchemy": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an old belief and practice that tried to change materials into valuable substances",
+            "synonyms": [
+                "magic chemistry",
+                "medieval science",
+                "mysticism"
+            ],
+            "examples": [
+                "Alchemy was common in medieval times.",
+                "The story uses alchemy as a symbol of transformation."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "the process of making something change into a better or different form",
+            "synonyms": [
+                "transformation",
+                "process",
+                "mixing",
+                "metamorphosis"
+            ],
+            "examples": [
+                "Cooking is her alchemy, turning simple ingredients into great meals.",
+                "The team’s alchemy made the project succeed."
+            ]
+        }
+    ],
+    "atelier": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a workshop or studio where an artist works",
+            "synonyms": [
+                "studio",
+                "workshop",
+                "art studio",
+                "maker’s space"
+            ],
+            "examples": [
+                "She paints in a small atelier near the river.",
+                "The atelier hosted an open-house event."
+            ]
+        }
+    ],
+    "artisanry": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the skilled work of artisans, especially traditional craft work",
+            "synonyms": [
+                "craftsmanship",
+                "craft work",
+                "artisanal tradition",
+                "handcraft"
+            ],
+            "examples": [
+                "The city supports artisanry through training programs.",
+                "Artisanal artisanry was on display at the market."
+            ]
+        }
+    ],
+    "annals": [
+        {
+            "part_of_speech": "noun",
+            "definition": "records of events from year to year, usually in history",
+            "synonyms": [
+                "records",
+                "chronicles",
+                "history book",
+                "year-by-year accounts"
+            ],
+            "examples": [
+                "The annals describe major events for each century.",
+                "We used the annals to check the dates."
+            ]
+        }
+    ],
+    "assay": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a test used to measure the amount or quality of something, especially in science or industry",
+            "synonyms": [
+                "test",
+                "analysis",
+                "examination",
+                "measurement"
+            ],
+            "examples": [
+                "The lab ran an assay to check the metal content.",
+                "They performed an assay before approving the batch."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to test or measure the amount or quality of a substance",
+            "synonyms": [
+                "test",
+                "analyze",
+                "measure",
+                "examine"
+            ],
+            "examples": [
+                "The scientists assayed the sample for toxins.",
+                "We need to assay the water before release."
+            ]
+        }
+    ],
+    "aid": [
+        {
+            "part_of_speech": "noun",
+            "definition": "help or support, especially in an emergency or for a project",
+            "synonyms": [
+                "help",
+                "assistance",
+                "support",
+                "backing"
+            ],
+            "examples": [
+                "The charity provides aid to families after disasters.",
+                "They sent food aid to the region."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to help someone or something by providing resources or support",
+            "synonyms": [
+                "help",
+                "assist",
+                "support",
+                "contribute"
+            ],
+            "examples": [
+                "A volunteer team will aid the cleanup.",
+                "The new software aids faster planning."
+            ]
+        }
+    ],
+    "accusation": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a statement that someone is responsible for wrongdoing or a crime",
+            "synonyms": [
+                "charge",
+                "allegation",
+                "accusation",
+                "claim"
+            ],
+            "examples": [
+                "The accusation was serious, but not proven.",
+                "He faced an accusation of fraud."
+            ]
+        }
+    ],
+    "allegorical": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "relating to a story or meaning that stands for something else, often with a moral lesson",
+            "synonyms": [
+                "symbolic",
+                "figurative",
+                "metaphorical",
+                "representational"
+            ],
+            "examples": [
+                "It is an allegorical tale about power and responsibility.",
+                "The painting is allegorical, not literal."
+            ]
+        }
+    ],
+    "archive": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a collection of historical records or documents stored for reference",
+            "synonyms": [
+                "repository",
+                "collection",
+                "records",
+                "data library"
+            ],
+            "examples": [
+                "The archive holds newspapers from the 1800s.",
+                "We searched the archive for the original letter."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to store information or documents so they can be found later",
+            "synonyms": [
+                "store",
+                "save",
+                "file",
+                "record"
+            ],
+            "examples": [
+                "Please archive the files in the folder marked 2025.",
+                "They will archive the emails after the project ends."
+            ]
+        }
+    ],
+    "auscultate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to listen to the internal sounds of a person’s body, especially the heart and lungs, using a stethoscope",
+            "synonyms": [
+                "listen",
+                "examine",
+                "check sounds",
+                "audition"
+            ],
+            "examples": [
+                "The nurse auscultated his lungs.",
+                "Doctors auscultate the chest to hear breathing sounds."
+            ]
+        }
+    ],
+    "appeal": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a request for help, support, or a decision to be changed",
+            "synonyms": [
+                "request",
+                "plea",
+                "petition",
+                "bid"
+            ],
+            "examples": [
+                "She made an appeal to the committee.",
+                "The charity launched an appeal for donations."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to ask for a decision to be changed, especially in law",
+            "synonyms": [
+                "request",
+                "challenge",
+                "take to court",
+                "contest"
+            ],
+            "examples": [
+                "He appealed the ruling.",
+                "The case will appeal to a higher court."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to be attractive or interesting to someone",
+            "synonyms": [
+                "attract",
+                "interest",
+                "please",
+                "catch on"
+            ],
+            "examples": [
+                "That style of music appeals to teenagers.",
+                "The offer appeals to families."
+            ]
+        }
+    ],
+    "almanac": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an annual reference book that includes information such as weather, dates, and calendars",
+            "synonyms": [
+                "calendar book",
+                "reference calendar"
+            ],
+            "examples": [
+                "The almanac lists sunrise times for the week.",
+                "We checked the almanac for the festival date."
+            ]
+        }
+    ],
+    "armory": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a place where weapons are stored",
+            "synonyms": [
+                "weapons store",
+                "arsenal",
+                "armament store"
+            ],
+            "examples": [
+                "The soldiers checked the armory before leaving.",
+                "The armory was locked and guarded."
+            ]
+        }
+    ],
+    "apprentice": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who learns a trade or skill from an experienced person",
+            "synonyms": [
+                "trainee",
+                "learner",
+                "student (vocational)",
+                "apprentice worker"
+            ],
+            "examples": [
+                "She worked as an apprentice in a bakery.",
+                "The mechanic took on an apprentice."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to train someone as an apprentice",
+            "synonyms": [
+                "train",
+                "take on as apprentice",
+                "mentor"
+            ],
+            "examples": [
+                "They apprenticed him to a master carpenter.",
+                "The company apprentices new technicians."
+            ]
+        }
+    ],
+    "anon": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "soon; at a later but unspecified time",
+            "synonyms": [
+                "soon",
+                "shortly",
+                "in a moment",
+                "before long"
+            ],
+            "examples": [
+                "I’ll call you anon.",
+                "Wait here and I will return anon."
+            ]
+        }
+    ],
+    "aisle": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the passage between rows of seats, shelves, or benches",
+            "synonyms": [
+                "passage",
+                "walkway",
+                "walk-through"
+            ],
+            "examples": [
+                "We sat in the aisle seat.",
+                "Please keep to the aisle."
+            ]
+        }
+    ],
+    "aisleway": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a passageway like an aisle, especially inside a building",
+            "synonyms": [
+                "aisle",
+                "walkway",
+                "passage"
+            ],
+            "examples": [
+                "People moved through the aisleway to exit.",
+                "The sign pointed to the nearest aisleway."
+            ]
+        }
+    ],
+    "astray": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "in the wrong direction or not on the correct path",
+            "synonyms": [
+                "wrong",
+                "off course",
+                "lost",
+                "away from the right way"
+            ],
+            "examples": [
+                "I wandered astray and missed the entrance.",
+                "The child was not far from going astray."
+            ]
+        }
+    ],
+    "aviary": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a structure or enclosure for keeping birds",
+            "synonyms": [
+                "bird house",
+                "bird enclosure",
+                "bird aviarium"
+            ],
+            "examples": [
+                "The aviary had colorful parrots.",
+                "We visited the aviary at the zoo."
+            ]
+        }
+    ],
+    "arithmetical": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "related to arithmetic, such as calculations and number operations",
+            "synonyms": [
+                "mathematical (arithmetic)",
+                "numerical",
+                "calculation-related"
+            ],
+            "examples": [
+                "The test included arithmetical problems.",
+                "Arithmetical accuracy matters in engineering."
+            ]
+        }
+    ],
+    "attest": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to confirm that something is true, especially based on evidence or official statement",
+            "synonyms": [
+                "confirm",
+                "verify",
+                "establish",
+                "testify"
+            ],
+            "examples": [
+                "The document will attest that the payment was received.",
+                "Her signature attests her agreement."
+            ]
+        }
+    ],
+    "authorize": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to give official permission to do something",
+            "synonyms": [
+                "permit",
+                "allow",
+                "approve",
+                "grant permission"
+            ],
+            "examples": [
+                "The manager authorized the purchase.",
+                "They authorized a new project."
+            ]
+        }
+    ],
+    "authorization": [
+        {
+            "part_of_speech": "noun",
+            "definition": "official permission to do something",
+            "synonyms": [
+                "approval",
+                "permission",
+                "permit",
+                "grant"
+            ],
+            "examples": [
+                "You need authorization to access the files.",
+                "The authorization was approved by the director."
+            ]
+        }
     ]
 }

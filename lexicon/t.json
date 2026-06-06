@@ -2403,5 +2403,79 @@
                 "There was a tiff over the bill, but it was resolved fast."
             ]
         }
+    ],
+    "tolerance": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the ability or willingness to accept differences or ideas without anger",
+            "synonyms": [
+                "acceptance",
+                "patience",
+                "forbearance",
+                "open-mindedness"
+            ],
+            "examples": [
+                "Tolerance helps people live peacefully in diverse communities.",
+                "The program teaches tolerance and respect."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "the maximum allowed difference from a standard measurement or value in engineering or manufacturing",
+            "synonyms": [
+                "allowance",
+                "permitted range",
+                "margin of error"
+            ],
+            "examples": [
+                "The part fits within the required tolerance.",
+                "Tolerances are strict for the engine components."
+            ]
+        }
+    ],
+    "torrent": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a strong, fast-flowing stream of water",
+            "synonyms": [
+                "flood",
+                "downpour",
+                "waterfall flow",
+                "rush"
+            ],
+            "examples": [
+                "The storm created a torrent in the street.",
+                "A torrent of rain hit the town."
+            ]
+        }
+    ],
+    "tidepool": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small pool of seawater that forms in rocky areas when the tide moves out",
+            "synonyms": [
+                "rock pool",
+                "pool"
+            ],
+            "examples": [
+                "We found a tidepool full of tiny crabs.",
+                "Kids watched sea creatures in the tidepool."
+            ]
+        }
+    ],
+    "therewith": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "with that; together with what has just been mentioned",
+            "synonyms": [
+                "along with that",
+                "with it",
+                "together with that"
+            ],
+            "examples": [
+                "He signed the form therewith.",
+                "The letter included payment therewith."
+            ]
+        }
     ]
 }
