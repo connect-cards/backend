@@ -81,10 +81,13 @@ PUZZLES' DATES AND SUGGESTED GROUP TYPES for EACH DAY:
 ${dates.map((date: string) => `- Date ${date}: ${pickTypes(types).join(", ")}`).join("\n")}
 
 TITLE RULES:
-- The title is shown to players.
-- The title must be 1-6 words long uisng plain English
-- The title must describe the category, not the puzzle difficulty or type
-- For every group, imagine the sentence: "These words belong together because they are _____." The title should complete that sentence naturally.
+- The title is shown to players
+- The title is a SHORT CATEGORY LABEL, not a sentence
+- The title must describe the SHARED TOPIC OR MEANING of the words
+- Do not describe the relationship itself
+- Use 1-4 words whenever possible
+- Prefer noun phrases over full descriptions
+- Use plain English
 
 Return ONLY JSON.
 `
@@ -94,20 +97,20 @@ You are an ESL Connections puzzle validator and repairer. Analyze the puzzle bef
 
 REPAIR RULES (in order):
 1. If all word groups are valid and the puzzle has a unique solution:
-    - Keep ALL words unchanged.
-    - Keep ALL group memberships unchanged.
-    - Fix ONLY titles that are unclear, vague, metaphorical, poetic, cryptic, or developer-oriented.
+    - Keep ALL words unchanged
+    - Keep ALL group memberships unchanged
+    - Fix ONLY titles that are unclear, vague, metaphorical, poetic, cryptic, or developer-oriented. Titles should be the shortest clear category label possible.
 2. If groupings are mostly valid but one or more groups are weak or ambiguous:
-    - Modify the minimum number of words necessary.
-    - Preserve as much of the original puzzle as possible.
-    - Rewrite titles as needed.
+    - Modify the minimum number of words necessary
+    - Preserve as much of the original puzzle as possible
+    - Rewrite titles as needed
 3. If the puzzle does not have a unique solution, contains overlapping categories, or multiple groups can reasonably claim the same words:
-    - Regenerate only the problematic groups.
-    - Keep valid groups intact whenever possible.
-4. Only regenerate the entire puzzle if the overall structure is unsalvageable.
+    - Regenerate only the problematic groups
+    - Keep valid groups intact whenever possible
+4. Only regenerate the entire puzzle if the overall structure is unsalvageable
 
 TITLE RULES:
-- The title is player-facing.
+- The title is player-facing
 - A good title should clearly explain why the 4 words belong together using plain English within 1-6 words
 
 VALIDATION REQUIREMENTS:
