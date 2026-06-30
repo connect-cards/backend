@@ -17,7 +17,7 @@
             "id": "g2",
             "type": "synonym",
             "difficulty": "medium",
-            "title": "mild criticism, without anger",
+            "title": "mild criticism",
             "words": [
                 "rebuke",
                 "censure",
@@ -41,7 +41,7 @@
             "id": "g4",
             "type": "morphological_family",
             "difficulty": "very_hard",
-            "title": "archaic determiners of smallness",
+            "title": "directional adverbs",
             "words": [
                 "whence",
                 "whither",

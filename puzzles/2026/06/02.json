@@ -1,11 +1,12 @@
 {
     "date": "2026-06-02",
+    "version": 2,
     "groups": [
         {
             "id": "d2-easy",
             "type": "synonym",
             "difficulty": "easy",
-            "title": "agreeable in character",
+            "title": "friendly",
             "words": [
                 "amicable",
                 "cordial",
@@ -17,7 +18,7 @@
             "id": "d2-medium",
             "type": "sound_association",
             "difficulty": "medium",
-            "title": "near-sounds",
+            "title": "calm and sincere",
             "words": [
                 "solemn",
                 "serene",
@@ -29,7 +30,7 @@
             "id": "d2-hard",
             "type": "morphological_family",
             "difficulty": "hard",
-            "title": "imparting guidance",
+            "title": "guidance words",
             "words": [
                 "instructive",
                 "advisory",
@@ -41,7 +42,7 @@
             "id": "d2-very-hard",
             "type": "profession_domain",
             "difficulty": "very_hard",
-            "title": "legal-tech disputes",
+            "title": "legal disputes",
             "words": [
                 "arbitration",
                 "litigation",
