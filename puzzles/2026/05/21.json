@@ -2,7 +2,7 @@
     "date": "2026-05-21",
     "groups": [
         {
-            "id": "D1",
+            "id": "2026-05-21-861c4f-1",
             "type": "morphological_family",
             "difficulty": "easy",
             "title": "cred root words",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "D2",
+            "id": "2026-05-21-20af41-1",
             "type": "informal_register",
             "difficulty": "medium",
             "title": "casual address terms",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "D3",
+            "id": "2026-05-21-cae597-1",
             "type": "thematic_association",
             "difficulty": "hard",
             "title": "color terms",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "D4",
+            "id": "2026-05-21-e68da3-1",
             "type": "semantic_field",
             "difficulty": "very_hard",
             "title": "astronomical terms",

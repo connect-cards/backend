@@ -2,7 +2,7 @@
     "date": "2026-07-16",
     "groups": [
         {
-            "id": "2026-07-16-g1",
+            "id": "2026-07-16-861c4f-1",
             "type": "thematic_association",
             "difficulty": "easy",
             "title": "winter weather",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "2026-07-16-g2",
+            "id": "2026-07-16-20af41-1",
             "type": "profession_domain",
             "difficulty": "medium",
             "title": "tailoring",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "2026-07-16-g3",
+            "id": "2026-07-16-cae597-1",
             "type": "physical_trait",
             "difficulty": "hard",
             "title": "gaunt",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "2026-07-16-g4",
+            "id": "2026-07-16-e68da3-1",
             "type": "semantic_field",
             "difficulty": "very_hard",
             "title": "swirling motion",

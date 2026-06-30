@@ -2,7 +2,7 @@
     "date": "2026-04-11",
     "groups": [
         {
-            "id": "d3-easy",
+            "id": "2026-04-11-861c4f-1",
             "type": "profession_domain",
             "difficulty": "easy",
             "title": "drafting tools",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "d3-medium",
+            "id": "2026-04-11-20af41-1",
             "type": "informal_register",
             "difficulty": "medium",
             "title": "to handle roughly",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "d3-hard",
+            "id": "2026-04-11-cae597-1",
             "type": "sound_association",
             "difficulty": "hard",
             "title": "vibrations and impacts",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "d3-vhard",
+            "id": "2026-04-11-e68da3-1",
             "type": "emotional_tone",
             "difficulty": "very_hard",
             "title": "overtly pleasing, faintly menacing",

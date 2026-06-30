@@ -2,7 +2,7 @@
     "date": "2026-02-06",
     "groups": [
         {
-            "id": "g1",
+            "id": "2026-02-06-861c4f-1",
             "type": "morphological_family",
             "difficulty": "easy",
             "title": "roots that spawn related nouns",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g2",
+            "id": "2026-02-06-20af41-1",
             "type": "semantic_field",
             "difficulty": "medium",
             "title": "loose discussion of disorder",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g3",
+            "id": "2026-02-06-cae597-1",
             "type": "physical_trait",
             "difficulty": "hard",
             "title": "hands that suggest tension",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "g4",
+            "id": "2026-02-06-e68da3-1",
             "type": "informal_register",
             "difficulty": "very_hard",
             "title": "understated insults",

@@ -2,7 +2,7 @@
     "date": "2026-06-14",
     "groups": [
         {
-            "id": "d14-easy",
+            "id": "2026-06-14-861c4f-1",
             "type": "etymological_relation",
             "difficulty": "easy",
             "title": "to see",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "d14-medium",
+            "id": "2026-06-14-20af41-1",
             "type": "synonym",
             "difficulty": "medium",
             "title": "criticize sharply",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "d14-hard",
+            "id": "2026-06-14-cae597-1",
             "type": "physical_trait",
             "difficulty": "hard",
             "title": "signs of age or strain",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "d14-very-hard",
+            "id": "2026-06-14-e68da3-1",
             "type": "thematic_association",
             "difficulty": "very_hard",
             "title": "the study of shadows",

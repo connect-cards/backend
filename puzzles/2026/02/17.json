@@ -2,7 +2,7 @@
     "date": "2026-02-17",
     "groups": [
         {
-            "id": "g1",
+            "id": "2026-02-17-861c4f-1",
             "type": "sound_association",
             "difficulty": "easy",
             "title": "metals and a blade-like artifact",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g2",
+            "id": "2026-02-17-20af41-1",
             "type": "physical_trait",
             "difficulty": "medium",
             "title": "eyes that don't quite focus",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g3",
+            "id": "2026-02-17-cae597-1",
             "type": "morphological_family",
             "difficulty": "hard",
             "title": "family of words built around a common root meaning 'shine'",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "g4",
+            "id": "2026-02-17-e68da3-1",
             "type": "etymological_relation",
             "difficulty": "very_hard",
             "title": "words tracing back to a root for 'three'",

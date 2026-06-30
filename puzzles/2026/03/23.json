@@ -2,7 +2,7 @@
     "date": "2026-03-23",
     "groups": [
         {
-            "id": "g1",
+            "id": "2026-03-23-861c4f-1",
             "type": "morphological_family",
             "difficulty": "easy",
             "title": "-scribe: writing agents/acts",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g2",
+            "id": "2026-03-23-20af41-1",
             "type": "etymological_relation",
             "difficulty": "medium",
             "title": "freedom vs. restraint",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g3",
+            "id": "2026-03-23-cae597-1",
             "type": "emotional_tone",
             "difficulty": "hard",
             "title": "worry shaded with skepticism",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "g4",
+            "id": "2026-03-23-e68da3-1",
             "type": "semantic_field",
             "difficulty": "very_hard",
             "title": "archaic/rare literary terms for fear",

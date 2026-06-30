@@ -2,7 +2,7 @@
     "date": "2026-01-13",
     "groups": [
         {
-            "id": "g1",
+            "id": "2026-01-13-861c4f-1",
             "type": "easy",
             "difficulty": "easy",
             "title": "steel vs. questioning",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g2",
+            "id": "2026-01-13-20af41-1",
             "type": "medium",
             "difficulty": "medium",
             "title": "heavy atmospheres, not weather",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g3",
+            "id": "2026-01-13-cae597-1",
             "type": "hard",
             "difficulty": "hard",
             "title": "light as evidence of brilliance",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "g4",
+            "id": "2026-01-13-e68da3-1",
             "type": "very_hard",
             "difficulty": "very_hard",
             "title": "a cold, restrained mind",

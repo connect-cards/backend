@@ -2,7 +2,7 @@
     "date": "2026-02-19",
     "groups": [
         {
-            "id": "g1",
+            "id": "2026-02-19-861c4f-1",
             "type": "morphological_family",
             "difficulty": "easy",
             "title": "walking verbs: aimless motion",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g2",
+            "id": "2026-02-19-20af41-1",
             "type": "physical_trait",
             "difficulty": "medium",
             "title": "surface qualities that look dull or aged",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g3",
+            "id": "2026-02-19-cae597-1",
             "type": "synonym",
             "difficulty": "hard",
             "title": "sharpness of speech",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "g4",
+            "id": "2026-02-19-e68da3-1",
             "type": "profession_domain",
             "difficulty": "very_hard",
             "title": "technical nouns for controlling heat transfer",

@@ -2,7 +2,7 @@
     "date": "2026-02-10",
     "groups": [
         {
-            "id": "g1",
+            "id": "2026-02-10-861c4f-1",
             "type": "sound_association",
             "difficulty": "easy",
             "title": "quick, sharp starts",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g2",
+            "id": "2026-02-10-20af41-1",
             "type": "informal_register",
             "difficulty": "medium",
             "title": "believable chatter",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g3",
+            "id": "2026-02-10-cae597-1",
             "type": "morphological_family",
             "difficulty": "hard",
             "title": "to praise indirectly",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "g4",
+            "id": "2026-02-10-e68da3-1",
             "type": "emotional_tone",
             "difficulty": "very_hard",
             "title": "cold restraint",

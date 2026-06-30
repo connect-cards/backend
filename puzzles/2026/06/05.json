@@ -2,7 +2,7 @@
     "date": "2026-06-05",
     "groups": [
         {
-            "id": "D1-E",
+            "id": "2026-06-05-861c4f-1",
             "type": "synonym",
             "difficulty": "easy",
             "title": "reduce intensity",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "D1-M",
+            "id": "2026-06-05-20af41-1",
             "type": "thematic_association",
             "difficulty": "medium",
             "title": "storms and their outcomes",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "D1-H",
+            "id": "2026-06-05-cae597-1",
             "type": "morphological_family",
             "difficulty": "hard",
             "title": "formal repudiation",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "D1-VH",
+            "id": "2026-06-05-e68da3-1",
             "type": "physical_trait",
             "difficulty": "very_hard",
             "title": "not the same look, but the same sort of mark",

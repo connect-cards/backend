@@ -2,7 +2,7 @@
     "date": "2026-07-25",
     "groups": [
         {
-            "id": "2026-07-25-g1",
+            "id": "2026-07-25-861c4f-1",
             "type": "physical_trait",
             "difficulty": "easy",
             "title": "hair textures",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "2026-07-25-g2",
+            "id": "2026-07-25-20af41-1",
             "type": "literary_register",
             "difficulty": "medium",
             "title": "old-time speech",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "2026-07-25-g3",
+            "id": "2026-07-25-cae597-1",
             "type": "morphological_family",
             "difficulty": "hard",
             "title": "hidden under",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "2026-07-25-g4",
+            "id": "2026-07-25-e68da3-1",
             "type": "thematic_association",
             "difficulty": "very_hard",
             "title": "falconry gear",

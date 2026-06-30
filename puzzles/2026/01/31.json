@@ -2,7 +2,7 @@
     "date": "2026-01-31",
     "groups": [
         {
-            "id": "g1",
+            "id": "2026-01-31-861c4f-1",
             "type": "easy",
             "difficulty": "easy",
             "title": "no sound",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g2",
+            "id": "2026-01-31-20af41-1",
             "type": "medium",
             "difficulty": "medium",
             "title": "small conflict",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g3",
+            "id": "2026-01-31-cae597-1",
             "type": "hard",
             "difficulty": "hard",
             "title": "emitting light",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "g4",
+            "id": "2026-01-31-e68da3-1",
             "type": "very_hard",
             "difficulty": "very_hard",
             "title": "threefold forms",

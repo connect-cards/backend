@@ -2,7 +2,7 @@
     "date": "2026-05-05",
     "groups": [
         {
-            "id": "p1_easy",
+            "id": "2026-05-05-861c4f-1",
             "type": "easy",
             "difficulty": "easy",
             "title": "tools",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "p1_medium",
+            "id": "2026-05-05-20af41-1",
             "type": "medium",
             "difficulty": "medium",
             "title": "man terms",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "p1_hard",
+            "id": "2026-05-05-cae597-1",
             "type": "hard",
             "difficulty": "hard",
             "title": "brevity",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "p1_veryhard",
+            "id": "2026-05-05-e68da3-1",
             "type": "very-hard",
             "difficulty": "very_hard",
             "title": "eeriness",

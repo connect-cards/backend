@@ -2,7 +2,7 @@
     "date": "2026-03-06",
     "groups": [
         {
-            "id": "g1",
+            "id": "2026-03-06-861c4f-1",
             "type": "easy",
             "difficulty": "easy",
             "title": "casual foot-lodging",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g2",
+            "id": "2026-03-06-20af41-1",
             "type": "medium",
             "difficulty": "medium",
             "title": "street talk for a person",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g3",
+            "id": "2026-03-06-cae597-1",
             "type": "hard",
             "difficulty": "hard",
             "title": "to fabricate",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "g4",
+            "id": "2026-03-06-e68da3-1",
             "type": "very_hard",
             "difficulty": "very_hard",
             "title": "deceptive evidence",

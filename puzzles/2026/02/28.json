@@ -2,7 +2,7 @@
     "date": "2026-02-28",
     "groups": [
         {
-            "id": "g1",
+            "id": "2026-02-28-861c4f-1",
             "type": "emotional_tone",
             "difficulty": "easy",
             "title": "unease that feels otherworldly",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g2",
+            "id": "2026-02-28-20af41-1",
             "type": "informal_register",
             "difficulty": "medium",
             "title": "steady pressure, not dramatic",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g3",
+            "id": "2026-02-28-cae597-1",
             "type": "semantic_field",
             "difficulty": "hard",
             "title": "insistence with a hint of threat",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "g4",
+            "id": "2026-02-28-e68da3-1",
             "type": "etymological_relation",
             "difficulty": "very_hard",
             "title": "archaic dread and supernatural suggestion",

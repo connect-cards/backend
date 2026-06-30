@@ -2,7 +2,7 @@
     "date": "2026-02-23",
     "groups": [
         {
-            "id": "g1",
+            "id": "2026-02-23-861c4f-1",
             "type": "thematic_association",
             "difficulty": "easy",
             "title": "the setting of a mystery walk",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g2",
+            "id": "2026-02-23-20af41-1",
             "type": "semantic_field",
             "difficulty": "medium",
             "title": "lacking brightness, but not always darkness",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g3",
+            "id": "2026-02-23-cae597-1",
             "type": "informal_register",
             "difficulty": "hard",
             "title": "complaints you might mutter",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "g4",
+            "id": "2026-02-23-e68da3-1",
             "type": "emotional_tone",
             "difficulty": "very_hard",
             "title": "a restrained dread, nearly archaic",

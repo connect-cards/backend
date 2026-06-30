@@ -2,7 +2,7 @@
     "date": "2026-06-10",
     "groups": [
         {
-            "id": "d2-easy",
+            "id": "2026-06-10-861c4f-1",
             "type": "sound_association",
             "difficulty": "easy",
             "title": "soft, steady percussion",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "d2-medium",
+            "id": "2026-06-10-20af41-1",
             "type": "emotional_tone",
             "difficulty": "medium",
             "title": "deliberately cold",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "d2-hard",
+            "id": "2026-06-10-cae597-1",
             "type": "synonym",
             "difficulty": "hard",
             "title": "to discover by patient reasoning",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "d2-very-hard",
+            "id": "2026-06-10-e68da3-1",
             "type": "etymological_relation",
             "difficulty": "very_hard",
             "title": "converging lines of insight",

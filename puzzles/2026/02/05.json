@@ -2,7 +2,7 @@
     "date": "2026-02-05",
     "groups": [
         {
-            "id": "g1",
+            "id": "2026-02-05-861c4f-1",
             "type": "thematic_association",
             "difficulty": "easy",
             "title": "day vs light",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g2",
+            "id": "2026-02-05-20af41-1",
             "type": "emotional_tone",
             "difficulty": "medium",
             "title": "gloom that feels performative",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g3",
+            "id": "2026-02-05-cae597-1",
             "type": "informal_register",
             "difficulty": "hard",
             "title": "talky, street-level verbs",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "g4",
+            "id": "2026-02-05-e68da3-1",
             "type": "physical_trait",
             "difficulty": "very_hard",
             "title": "subtle facial texture, not shape",

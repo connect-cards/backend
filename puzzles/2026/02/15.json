@@ -2,7 +2,7 @@
     "date": "2026-02-15",
     "groups": [
         {
-            "id": "g1",
+            "id": "2026-02-15-861c4f-1",
             "type": "informal_register",
             "difficulty": "easy",
             "title": "people you might meet",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g2",
+            "id": "2026-02-15-20af41-1",
             "type": "synonym",
             "difficulty": "medium",
             "title": "dark and dreary atmosphere",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g3",
+            "id": "2026-02-15-cae597-1",
             "type": "etymological_relation",
             "difficulty": "hard",
             "title": "judgment about reliability",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "g4",
+            "id": "2026-02-15-e68da3-1",
             "type": "morphological_family",
             "difficulty": "very_hard",
             "title": "to persuade by argument",

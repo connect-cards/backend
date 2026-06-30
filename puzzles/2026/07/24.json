@@ -2,7 +2,7 @@
     "date": "2026-07-24",
     "groups": [
         {
-            "id": "2026-07-24-g1",
+            "id": "2026-07-24-861c4f-1",
             "type": "informal_register",
             "difficulty": "easy",
             "title": "steal",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "2026-07-24-g2",
+            "id": "2026-07-24-20af41-1",
             "type": "thematic_association",
             "difficulty": "medium",
             "title": "at sea",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "2026-07-24-g3",
+            "id": "2026-07-24-cae597-1",
             "type": "etymological_relation",
             "difficulty": "hard",
             "title": "carry roots",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "2026-07-24-g4",
+            "id": "2026-07-24-e68da3-1",
             "type": "literary_register",
             "difficulty": "very_hard",
             "title": "briefness",

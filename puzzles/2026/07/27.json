@@ -2,7 +2,7 @@
     "date": "2026-07-27",
     "groups": [
         {
-            "id": "2026-07-27-g1",
+            "id": "2026-07-27-861c4f-1",
             "type": "literary_register",
             "difficulty": "easy",
             "title": "poetic grief",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "2026-07-27-g2",
+            "id": "2026-07-27-20af41-1",
             "type": "physical_trait",
             "difficulty": "medium",
             "title": "gaunt",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "2026-07-27-g3",
+            "id": "2026-07-27-cae597-1",
             "type": "semantic_field",
             "difficulty": "hard",
             "title": "marshland",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "2026-07-27-g4",
+            "id": "2026-07-27-e68da3-1",
             "type": "morphological_family",
             "difficulty": "very_hard",
             "title": "bear root",

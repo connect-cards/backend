@@ -2,7 +2,7 @@
     "date": "2026-02-04",
     "groups": [
         {
-            "id": "g1",
+            "id": "2026-02-04-861c4f-1",
             "type": "easy",
             "difficulty": "easy",
             "title": "genuine vs. polished",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g2",
+            "id": "2026-02-04-20af41-1",
             "type": "medium",
             "difficulty": "medium",
             "title": "shades of dimness",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g3",
+            "id": "2026-02-04-cae597-1",
             "type": "hard",
             "difficulty": "hard",
             "title": "paperwork",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "g4",
+            "id": "2026-02-04-e68da3-1",
             "type": "very_hard",
             "difficulty": "very_hard",
             "title": "seeing",

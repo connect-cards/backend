@@ -2,7 +2,7 @@
     "date": "2026-07-10",
     "groups": [
         {
-            "id": "2026-07-10-g1",
+            "id": "2026-07-10-861c4f-1",
             "type": "morphological_family",
             "difficulty": "easy",
             "title": "see forms",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "2026-07-10-g2",
+            "id": "2026-07-10-20af41-1",
             "type": "profession_domain",
             "difficulty": "medium",
             "title": "legal language",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "2026-07-10-g3",
+            "id": "2026-07-10-cae597-1",
             "type": "thematic_association",
             "difficulty": "hard",
             "title": "famine signs",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "2026-07-10-g4",
+            "id": "2026-07-10-e68da3-1",
             "type": "etymological_relation",
             "difficulty": "very_hard",
             "title": "heart roots",

@@ -2,7 +2,7 @@
     "date": "2026-06-04",
     "groups": [
         {
-            "id": "d4-easy",
+            "id": "2026-06-04-861c4f-1",
             "type": "semantic_field",
             "difficulty": "easy",
             "title": "quick, bright flashes",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "d4-medium",
+            "id": "2026-06-04-20af41-1",
             "type": "etymological_relation",
             "difficulty": "medium",
             "title": "roots of speaking",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "d4-hard",
+            "id": "2026-06-04-cae597-1",
             "type": "profession_domain",
             "difficulty": "hard",
             "title": "medical record language",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "d4-very-hard",
+            "id": "2026-06-04-e68da3-1",
             "type": "synonym",
             "difficulty": "very_hard",
             "title": "subtle negation, lofty phrasing",

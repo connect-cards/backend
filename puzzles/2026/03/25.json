@@ -2,7 +2,7 @@
     "date": "2026-03-25",
     "groups": [
         {
-            "id": "easy-1",
+            "id": "2026-03-25-861c4f-1",
             "type": "easy",
             "difficulty": "easy",
             "title": "bright metal or a blade-like idea",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "medium-1",
+            "id": "2026-03-25-20af41-1",
             "type": "medium",
             "difficulty": "medium",
             "title": "informal wandering",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "hard-1",
+            "id": "2026-03-25-cae597-1",
             "type": "hard",
             "difficulty": "hard",
             "title": "to talk vaguely, evade, or hedge",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "very_hard-1",
+            "id": "2026-03-25-e68da3-1",
             "type": "very_hard",
             "difficulty": "very_hard",
             "title": "resembling truth yet dangerously misleading",

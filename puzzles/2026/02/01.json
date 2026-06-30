@@ -2,7 +2,7 @@
     "date": "2026-02-01",
     "groups": [
         {
-            "id": "g1",
+            "id": "2026-02-01-861c4f-1",
             "type": "easy",
             "difficulty": "easy",
             "title": "shop talk, not formality",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g2",
+            "id": "2026-02-01-20af41-1",
             "type": "medium",
             "difficulty": "medium",
             "title": "half-muted speech",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g3",
+            "id": "2026-02-01-cae597-1",
             "type": "hard",
             "difficulty": "hard",
             "title": "tools of the trade",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "g4",
+            "id": "2026-02-01-e68da3-1",
             "type": "very_hard",
             "difficulty": "very_hard",
             "title": "the writer’s loom",

@@ -2,7 +2,7 @@
     "date": "2026-07-18",
     "groups": [
         {
-            "id": "2026-07-18-g1",
+            "id": "2026-07-18-861c4f-1",
             "type": "semantic_field",
             "difficulty": "easy",
             "title": "wetlands",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "2026-07-18-g2",
+            "id": "2026-07-18-20af41-1",
             "type": "physical_trait",
             "difficulty": "medium",
             "title": "thinness",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "2026-07-18-g3",
+            "id": "2026-07-18-cae597-1",
             "type": "synonym",
             "difficulty": "hard",
             "title": "briefly visible",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "2026-07-18-g4",
+            "id": "2026-07-18-e68da3-1",
             "type": "etymological_relation",
             "difficulty": "very_hard",
             "title": "water roots",

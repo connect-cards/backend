@@ -2,7 +2,7 @@
     "date": "2026-05-22",
     "groups": [
         {
-            "id": "g4e",
+            "id": "2026-05-22-861c4f-1",
             "type": "easy",
             "difficulty": "easy",
             "title": "fruits",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g4m",
+            "id": "2026-05-22-20af41-1",
             "type": "medium",
             "difficulty": "medium",
             "title": "observe/look",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g4h",
+            "id": "2026-05-22-cae597-1",
             "type": "hard",
             "difficulty": "hard",
             "title": "justice/equity terms",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "g4vh",
+            "id": "2026-05-22-e68da3-1",
             "type": "very-hard",
             "difficulty": "very_hard",
             "title": "rare lexical items",

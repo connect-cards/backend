@@ -2,7 +2,7 @@
     "date": "2026-05-06",
     "groups": [
         {
-            "id": "p2_easy",
+            "id": "2026-05-06-861c4f-1",
             "type": "easy",
             "difficulty": "easy",
             "title": "colors",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "p2_medium",
+            "id": "2026-05-06-20af41-1",
             "type": "medium",
             "difficulty": "medium",
             "title": "ology",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "p2_hard",
+            "id": "2026-05-06-cae597-1",
             "type": "hard",
             "difficulty": "hard",
             "title": "domains",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "p2_veryhard",
+            "id": "2026-05-06-e68da3-1",
             "type": "very-hard",
             "difficulty": "very_hard",
             "title": "literary",

@@ -2,7 +2,7 @@
     "date": "2026-05-20",
     "groups": [
         {
-            "id": "g1",
+            "id": "2026-05-20-861c4f-1",
             "type": "informal_register",
             "difficulty": "easy",
             "title": "slang terms of approval",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g2",
+            "id": "2026-05-20-20af41-1",
             "type": "thematic_association",
             "difficulty": "medium",
             "title": "classical elements",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g3",
+            "id": "2026-05-20-cae597-1",
             "type": "synonym",
             "difficulty": "hard",
             "title": "quickness",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "g4",
+            "id": "2026-05-20-e68da3-1",
             "type": "sound_association",
             "difficulty": "very_hard",
             "title": "onomatopoeic sounds",

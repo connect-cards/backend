@@ -2,7 +2,7 @@
     "date": "2026-07-13",
     "groups": [
         {
-            "id": "2026-07-13-g1",
+            "id": "2026-07-13-861c4f-1",
             "type": "semantic_field",
             "difficulty": "easy",
             "title": "sea edges",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "2026-07-13-g2",
+            "id": "2026-07-13-20af41-1",
             "type": "emotional_tone",
             "difficulty": "medium",
             "title": "gloomy moods",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "2026-07-13-g3",
+            "id": "2026-07-13-cae597-1",
             "type": "synonym",
             "difficulty": "hard",
             "title": "briefly clear",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "2026-07-13-g4",
+            "id": "2026-07-13-e68da3-1",
             "type": "morphological_family",
             "difficulty": "very_hard",
             "title": "root kin",

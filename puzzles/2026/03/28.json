@@ -2,7 +2,7 @@
     "date": "2026-03-28",
     "groups": [
         {
-            "id": "easy-4",
+            "id": "2026-03-28-861c4f-1",
             "type": "easy",
             "difficulty": "easy",
             "title": "medical or investigative action",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "medium-4",
+            "id": "2026-03-28-20af41-1",
             "type": "medium",
             "difficulty": "medium",
             "title": "works that look like a scholarly inquiry",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "hard-4",
+            "id": "2026-03-28-cae597-1",
             "type": "hard",
             "difficulty": "hard",
             "title": "legal proceedings",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "very_hard-4",
+            "id": "2026-03-28-e68da3-1",
             "type": "very_hard",
             "difficulty": "very_hard",
             "title": "to judge",

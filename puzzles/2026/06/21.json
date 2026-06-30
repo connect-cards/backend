@@ -2,7 +2,7 @@
     "date": "2026-06-21",
     "groups": [
         {
-            "id": "g1",
+            "id": "2026-06-21-861c4f-1",
             "type": "sound_association",
             "difficulty": "easy",
             "title": "shared ending sound",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g2",
+            "id": "2026-06-21-20af41-1",
             "type": "synonym",
             "difficulty": "medium",
             "title": "“not much” in different registers",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g3",
+            "id": "2026-06-21-cae597-1",
             "type": "semantic_field",
             "difficulty": "hard",
             "title": "performances of the mind and voice",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "g4",
+            "id": "2026-06-21-e68da3-1",
             "type": "emotional_tone",
             "difficulty": "very_hard",
             "title": "cold, restrained suspicion",

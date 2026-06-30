@@ -2,7 +2,7 @@
     "date": "2026-04-12",
     "groups": [
         {
-            "id": "d4-easy",
+            "id": "2026-04-12-861c4f-1",
             "type": "synonym",
             "difficulty": "easy",
             "title": "a sudden, sharp decline",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "d4-medium",
+            "id": "2026-04-12-20af41-1",
             "type": "emotional_tone",
             "difficulty": "medium",
             "title": "strained and uneasy",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "d4-hard",
+            "id": "2026-04-12-cae597-1",
             "type": "semantic_field",
             "difficulty": "hard",
             "title": "instruments for judging",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "d4-vhard",
+            "id": "2026-04-12-e68da3-1",
             "type": "profession_domain",
             "difficulty": "very_hard",
             "title": "scholarly, rarely used terms",

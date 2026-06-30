@@ -2,7 +2,7 @@
     "date": "2026-06-08",
     "groups": [
         {
-            "id": "D4-E",
+            "id": "2026-06-08-861c4f-1",
             "type": "thematic_association",
             "difficulty": "easy",
             "title": "ways to mislead an audience",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "D4-M",
+            "id": "2026-06-08-20af41-1",
             "type": "synonym",
             "difficulty": "medium",
             "title": "to make less severe",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "D4-H",
+            "id": "2026-06-08-cae597-1",
             "type": "morphological_family",
             "difficulty": "hard",
             "title": "close attention to detail",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "D4-VH",
+            "id": "2026-06-08-e68da3-1",
             "type": "semantic_field",
             "difficulty": "very_hard",
             "title": "states of unease",

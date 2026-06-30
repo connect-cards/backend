@@ -2,7 +2,7 @@
     "date": "2026-07-29",
     "groups": [
         {
-            "id": "2026-07-29-g1",
+            "id": "2026-07-29-861c4f-1",
             "type": "thematic_association",
             "difficulty": "easy",
             "title": "harvest items",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "2026-07-29-g2",
+            "id": "2026-07-29-20af41-1",
             "type": "profession_domain",
             "difficulty": "medium",
             "title": "courtroom terms",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "2026-07-29-g3",
+            "id": "2026-07-29-cae597-1",
             "type": "semantic_field",
             "difficulty": "hard",
             "title": "stinginess",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "2026-07-29-g4",
+            "id": "2026-07-29-e68da3-1",
             "type": "emotional_tone",
             "difficulty": "very_hard",
             "title": "mournful",

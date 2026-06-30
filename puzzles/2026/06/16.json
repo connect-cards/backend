@@ -2,7 +2,7 @@
     "date": "2026-06-16",
     "groups": [
         {
-            "id": "d16-easy",
+            "id": "2026-06-16-861c4f-1",
             "type": "thematic_association",
             "difficulty": "easy",
             "title": "painting the air with movement",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "d16-medium",
+            "id": "2026-06-16-20af41-1",
             "type": "semantic_field",
             "difficulty": "medium",
             "title": "questioning without mercy",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "d16-hard",
+            "id": "2026-06-16-cae597-1",
             "type": "profession_domain",
             "difficulty": "hard",
             "title": "medical decisions under pressure",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "d16-very-hard",
+            "id": "2026-06-16-e68da3-1",
             "type": "informal_register",
             "difficulty": "very_hard",
             "title": "weirdness",

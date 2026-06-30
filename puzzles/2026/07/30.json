@@ -2,7 +2,7 @@
     "date": "2026-07-30",
     "groups": [
         {
-            "id": "2026-07-30-g1",
+            "id": "2026-07-30-861c4f-1",
             "type": "physical_trait",
             "difficulty": "easy",
             "title": "wrinkled",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "2026-07-30-g2",
+            "id": "2026-07-30-20af41-1",
             "type": "literary_register",
             "difficulty": "medium",
             "title": "poetic old forms",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "2026-07-30-g3",
+            "id": "2026-07-30-cae597-1",
             "type": "emotional_tone",
             "difficulty": "hard",
             "title": "scornful",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "2026-07-30-g4",
+            "id": "2026-07-30-e68da3-1",
             "type": "sound_association",
             "difficulty": "very_hard",
             "title": "harsh sounds",

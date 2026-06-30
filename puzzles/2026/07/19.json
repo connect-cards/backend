@@ -2,7 +2,7 @@
     "date": "2026-07-19",
     "groups": [
         {
-            "id": "2026-07-19-g1",
+            "id": "2026-07-19-861c4f-1",
             "type": "profession_domain",
             "difficulty": "easy",
             "title": "law practice",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "2026-07-19-g2",
+            "id": "2026-07-19-20af41-1",
             "type": "sound_association",
             "difficulty": "medium",
             "title": "horse sounds",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "2026-07-19-g3",
+            "id": "2026-07-19-cae597-1",
             "type": "thematic_association",
             "difficulty": "hard",
             "title": "winter weather",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "2026-07-19-g4",
+            "id": "2026-07-19-e68da3-1",
             "type": "morphological_family",
             "difficulty": "very_hard",
             "title": "star forms",

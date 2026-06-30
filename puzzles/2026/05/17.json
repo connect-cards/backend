@@ -2,7 +2,7 @@
     "date": "2026-05-17",
     "groups": [
         {
-            "id": "g1",
+            "id": "2026-05-17-861c4f-1",
             "type": "thematic_association",
             "difficulty": "easy",
             "title": "colors of the spectrum",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g2",
+            "id": "2026-05-17-20af41-1",
             "type": "physical_trait",
             "difficulty": "medium",
             "title": "body-descriptor adjectives",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g3",
+            "id": "2026-05-17-cae597-1",
             "type": "literary_register",
             "difficulty": "hard",
             "title": "fleeting synonyms",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "g4",
+            "id": "2026-05-17-e68da3-1",
             "type": "morphological_family",
             "difficulty": "very_hard",
             "title": "scribe-derivatives",

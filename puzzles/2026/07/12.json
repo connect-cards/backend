@@ -2,7 +2,7 @@
     "date": "2026-07-12",
     "groups": [
         {
-            "id": "2026-07-12-g1",
+            "id": "2026-07-12-861c4f-1",
             "type": "synonym",
             "difficulty": "easy",
             "title": "praise",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "2026-07-12-g2",
+            "id": "2026-07-12-20af41-1",
             "type": "physical_trait",
             "difficulty": "medium",
             "title": "stooped",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "2026-07-12-g3",
+            "id": "2026-07-12-cae597-1",
             "type": "literary_register",
             "difficulty": "hard",
             "title": "sadness",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "2026-07-12-g4",
+            "id": "2026-07-12-e68da3-1",
             "type": "profession_domain",
             "difficulty": "very_hard",
             "title": "sailing gear",

@@ -2,7 +2,7 @@
     "date": "2026-04-10",
     "groups": [
         {
-            "id": "d2-easy",
+            "id": "2026-04-10-861c4f-1",
             "type": "semantic_field",
             "difficulty": "easy",
             "title": "quiet attempts to fix",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "d2-medium",
+            "id": "2026-04-10-20af41-1",
             "type": "literary_register",
             "difficulty": "medium",
             "title": "when language turns grim",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "d2-hard",
+            "id": "2026-04-10-cae597-1",
             "type": "emotional_tone",
             "difficulty": "hard",
             "title": "ironic disdain",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "d2-vhard",
+            "id": "2026-04-10-e68da3-1",
             "type": "morphological_family",
             "difficulty": "very_hard",
             "title": "doubting the very ground",

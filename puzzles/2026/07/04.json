@@ -2,7 +2,7 @@
     "date": "2026-07-04",
     "groups": [
         {
-            "id": "2026-07-04-g1",
+            "id": "2026-07-04-861c4f-1",
             "type": "profession_domain",
             "difficulty": "easy",
             "title": "legal verbs",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "2026-07-04-g2",
+            "id": "2026-07-04-20af41-1",
             "type": "physical_trait",
             "difficulty": "medium",
             "title": "rough texture",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "2026-07-04-g3",
+            "id": "2026-07-04-cae597-1",
             "type": "emotional_tone",
             "difficulty": "hard",
             "title": "irritable",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "2026-07-04-g4",
+            "id": "2026-07-04-e68da3-1",
             "type": "semantic_field",
             "difficulty": "very_hard",
             "title": "sea winds",

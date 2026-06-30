@@ -2,7 +2,7 @@
     "date": "2026-07-01",
     "groups": [
         {
-            "id": "2026-07-01-g1",
+            "id": "2026-07-01-861c4f-1",
             "type": "informal_register",
             "difficulty": "easy",
             "title": "casual talk",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "2026-07-01-g2",
+            "id": "2026-07-01-20af41-1",
             "type": "physical_trait",
             "difficulty": "medium",
             "title": "thinness",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "2026-07-01-g3",
+            "id": "2026-07-01-cae597-1",
             "type": "sound_association",
             "difficulty": "hard",
             "title": "harsh sounds",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "2026-07-01-g4",
+            "id": "2026-07-01-e68da3-1",
             "type": "synonym",
             "difficulty": "very_hard",
             "title": "brief",

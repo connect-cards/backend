@@ -2,7 +2,7 @@
     "date": "2026-01-09",
     "groups": [
         {
-            "id": "easy",
+            "id": "2026-01-09-861c4f-1",
             "type": "semantic_field",
             "difficulty": "easy",
             "title": "feelings that color perception",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "medium",
+            "id": "2026-01-09-20af41-1",
             "type": "emotional_tone",
             "difficulty": "medium",
             "title": "restless and dark moods",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "hard",
+            "id": "2026-01-09-cae597-1",
             "type": "morphological_family",
             "difficulty": "hard",
             "title": "-concil-",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "very_hard",
+            "id": "2026-01-09-e68da3-1",
             "type": "sound_association",
             "difficulty": "very_hard",
             "title": "same sounding",

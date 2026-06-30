@@ -2,7 +2,7 @@
     "date": "2026-06-07",
     "groups": [
         {
-            "id": "D3-E",
+            "id": "2026-06-07-861c4f-1",
             "type": "thematic_association",
             "difficulty": "easy",
             "title": "small movements that feel secretive",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "D3-M",
+            "id": "2026-06-07-20af41-1",
             "type": "emotional_tone",
             "difficulty": "medium",
             "title": "a low, gloomy mood",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "D3-H",
+            "id": "2026-06-07-cae597-1",
             "type": "profession_domain",
             "difficulty": "hard",
             "title": "courtroom and legal maneuvering",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "D3-VH",
+            "id": "2026-06-07-e68da3-1",
             "type": "etymological_relation",
             "difficulty": "very_hard",
             "title": "to restrict or command",

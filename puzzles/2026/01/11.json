@@ -2,7 +2,7 @@
     "date": "2026-01-11",
     "groups": [
         {
-            "id": "easy",
+            "id": "2026-01-11-861c4f-1",
             "type": "informal_register",
             "difficulty": "easy",
             "title": "casual labels for people",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "medium",
+            "id": "2026-01-11-20af41-1",
             "type": "thematic_association",
             "difficulty": "medium",
             "title": "weather you might fear",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "hard",
+            "id": "2026-01-11-cae597-1",
             "type": "profession_domain",
             "difficulty": "hard",
             "title": "related to workshop",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "very_hard",
+            "id": "2026-01-11-e68da3-1",
             "type": "semantic_field",
             "difficulty": "very_hard",
             "title": "subtle acts of misdirection",

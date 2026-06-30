@@ -2,7 +2,7 @@
     "date": "2026-04-03",
     "groups": [
         {
-            "id": "g1",
+            "id": "2026-04-03-861c4f-1",
             "type": "informal_register",
             "difficulty": "easy",
             "title": "effective mistakes",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g2",
+            "id": "2026-04-03-20af41-1",
             "type": "synonym",
             "difficulty": "medium",
             "title": "taken back by doubt",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g3",
+            "id": "2026-04-03-cae597-1",
             "type": "literary_register",
             "difficulty": "hard",
             "title": "literary persons",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "g4",
+            "id": "2026-04-03-e68da3-1",
             "type": "sound_association",
             "difficulty": "very_hard",
             "title": "silent",

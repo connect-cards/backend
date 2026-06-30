@@ -2,7 +2,7 @@
     "date": "2026-03-26",
     "groups": [
         {
-            "id": "easy-2",
+            "id": "2026-03-26-861c4f-1",
             "type": "easy",
             "difficulty": "easy",
             "title": "faint but steady light or glow",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "medium-2",
+            "id": "2026-03-26-20af41-1",
             "type": "medium",
             "difficulty": "medium",
             "title": "when emotions feel heavy",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "hard-2",
+            "id": "2026-03-26-cae597-1",
             "type": "hard",
             "difficulty": "hard",
             "title": "speech or writing that is excessively wordy",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "very_hard-2",
+            "id": "2026-03-26-e68da3-1",
             "type": "very_hard",
             "difficulty": "very_hard",
             "title": "literary forms of short verse",

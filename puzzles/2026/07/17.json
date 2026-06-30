@@ -2,7 +2,7 @@
     "date": "2026-07-17",
     "groups": [
         {
-            "id": "2026-07-17-g1",
+            "id": "2026-07-17-861c4f-1",
             "type": "physical_trait",
             "difficulty": "easy",
             "title": "hair textures",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "2026-07-17-g2",
+            "id": "2026-07-17-20af41-1",
             "type": "synonym",
             "difficulty": "medium",
             "title": "insincere",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "2026-07-17-g3",
+            "id": "2026-07-17-cae597-1",
             "type": "sound_association",
             "difficulty": "hard",
             "title": "bell sounds",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "2026-07-17-g4",
+            "id": "2026-07-17-e68da3-1",
             "type": "profession_domain",
             "difficulty": "very_hard",
             "title": "printing",

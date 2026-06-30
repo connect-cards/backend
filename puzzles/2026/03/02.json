@@ -2,7 +2,7 @@
     "date": "2026-03-02",
     "groups": [
         {
-            "id": "g1",
+            "id": "2026-03-02-861c4f-1",
             "type": "physical_trait",
             "difficulty": "easy",
             "title": "walks with rhythm",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g2",
+            "id": "2026-03-02-20af41-1",
             "type": "literary_register",
             "difficulty": "medium",
             "title": "threadbare emotion",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g3",
+            "id": "2026-03-02-cae597-1",
             "type": "informal_register",
             "difficulty": "hard",
             "title": "casual male references",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "g4",
+            "id": "2026-03-02-e68da3-1",
             "type": "emotional_tone",
             "difficulty": "very_hard",
             "title": "subtle distrust and suspicion",

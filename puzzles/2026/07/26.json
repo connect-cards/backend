@@ -2,7 +2,7 @@
     "date": "2026-07-26",
     "groups": [
         {
-            "id": "2026-07-26-g1",
+            "id": "2026-07-26-861c4f-1",
             "type": "profession_domain",
             "difficulty": "easy",
             "title": "legal work",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "2026-07-26-g2",
+            "id": "2026-07-26-20af41-1",
             "type": "thematic_association",
             "difficulty": "medium",
             "title": "volcanic matter",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "2026-07-26-g3",
+            "id": "2026-07-26-cae597-1",
             "type": "synonym",
             "difficulty": "hard",
             "title": "stingy",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "2026-07-26-g4",
+            "id": "2026-07-26-e68da3-1",
             "type": "sound_association",
             "difficulty": "very_hard",
             "title": "bell sounds",

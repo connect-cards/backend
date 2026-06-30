@@ -2,7 +2,7 @@
     "date": "2026-06-24",
     "groups": [
         {
-            "id": "g1",
+            "id": "2026-06-24-861c4f-1",
             "type": "literary_register",
             "difficulty": "easy",
             "title": "swift, forceful action",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g2",
+            "id": "2026-06-24-20af41-1",
             "type": "synonym",
             "difficulty": "medium",
             "title": "to end a discussion or argument",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g3",
+            "id": "2026-06-24-cae597-1",
             "type": "thematic_association",
             "difficulty": "hard",
             "title": "threads of fate and design",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "g4",
+            "id": "2026-06-24-e68da3-1",
             "type": "physical_trait",
             "difficulty": "very_hard",
             "title": "eye qualities",

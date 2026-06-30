@@ -2,7 +2,7 @@
     "date": "2026-05-13",
     "groups": [
         {
-            "id": "D1G1",
+            "id": "2026-05-13-861c4f-1",
             "type": "easy",
             "difficulty": "easy",
             "title": "kitchenware",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "D1G2",
+            "id": "2026-05-13-20af41-1",
             "type": "medium",
             "difficulty": "medium",
             "title": "informal terms for a man",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "D1G3",
+            "id": "2026-05-13-cae597-1",
             "type": "hard",
             "difficulty": "hard",
             "title": "concise manner synonyms",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "D1G4",
+            "id": "2026-05-13-e68da3-1",
             "type": "very-hard",
             "difficulty": "very_hard",
             "title": "strange",

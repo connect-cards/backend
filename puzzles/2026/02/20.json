@@ -2,7 +2,7 @@
     "date": "2026-02-20",
     "groups": [
         {
-            "id": "g1",
+            "id": "2026-02-20-861c4f-1",
             "type": "sound_association",
             "difficulty": "easy",
             "title": "informal greetings with a casual cadence",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g2",
+            "id": "2026-02-20-20af41-1",
             "type": "informal_register",
             "difficulty": "medium",
             "title": "fellow / person, common but with varied register",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g3",
+            "id": "2026-02-20-cae597-1",
             "type": "morphological_family",
             "difficulty": "hard",
             "title": "words sharing a root meaning 'to cut off'",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "g4",
+            "id": "2026-02-20-e68da3-1",
             "type": "synonym",
             "difficulty": "very_hard",
             "title": "uncanny and unearthly shades of 'weird'",

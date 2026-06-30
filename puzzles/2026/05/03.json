@@ -2,7 +2,7 @@
     "date": "2026-05-03",
     "groups": [
         {
-            "id": "g_easy4",
+            "id": "2026-05-03-861c4f-1",
             "type": "easy",
             "difficulty": "easy",
             "title": "emotional tones",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g_medium4",
+            "id": "2026-05-03-20af41-1",
             "type": "medium",
             "difficulty": "medium",
             "title": "religious terms",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g_hard4",
+            "id": "2026-05-03-cae597-1",
             "type": "hard",
             "difficulty": "hard",
             "title": "slang for friends",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "g_vhard4",
+            "id": "2026-05-03-e68da3-1",
             "type": "very-hard",
             "difficulty": "very_hard",
             "title": "bene-",

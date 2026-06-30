@@ -2,7 +2,7 @@
     "date": "2026-03-12",
     "groups": [
         {
-            "id": "g1",
+            "id": "2026-03-12-861c4f-1",
             "type": "literary_register",
             "difficulty": "easy",
             "title": "official document or claim",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g2",
+            "id": "2026-03-12-20af41-1",
             "type": "synonym",
             "difficulty": "medium",
             "title": "to lessen or relieve pressure",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g3",
+            "id": "2026-03-12-cae597-1",
             "type": "emotional_tone",
             "difficulty": "hard",
             "title": "a sudden, unsettling terror",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "g4",
+            "id": "2026-03-12-e68da3-1",
             "type": "sound_association",
             "difficulty": "very_hard",
             "title": "obscure terms for three connected parts",

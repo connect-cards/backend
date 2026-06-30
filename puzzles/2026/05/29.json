@@ -2,7 +2,7 @@
     "date": "2026-05-29",
     "groups": [
         {
-            "id": "g1_29",
+            "id": "2026-05-29-861c4f-1",
             "type": "walking_synonyms",
             "difficulty": "easy",
             "title": "walking synonyms",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g2_29",
+            "id": "2026-05-29-20af41-1",
             "type": "informal_male_terms",
             "difficulty": "medium",
             "title": "informal male terms",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g3_29",
+            "id": "2026-05-29-cae597-1",
             "type": "GRE_light_descriptors",
             "difficulty": "hard",
             "title": "bright descriptors",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "g4_29",
+            "id": "2026-05-29-e68da3-1",
             "type": "threefold_terms",
             "difficulty": "very_hard",
             "title": "threefold terms",

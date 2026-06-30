@@ -2,7 +2,7 @@
     "date": "2026-03-19",
     "groups": [
         {
-            "id": "g1",
+            "id": "2026-03-19-861c4f-1",
             "type": "etymological_relation",
             "difficulty": "easy",
             "title": "small, quick movement",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g2",
+            "id": "2026-03-19-20af41-1",
             "type": "synonym",
             "difficulty": "medium",
             "title": "careful thinking",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g3",
+            "id": "2026-03-19-cae597-1",
             "type": "morphological_family",
             "difficulty": "hard",
             "title": "to speak indirectly",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "g4",
+            "id": "2026-03-19-e68da3-1",
             "type": "thematic_association",
             "difficulty": "very_hard",
             "title": "numbers and fates",

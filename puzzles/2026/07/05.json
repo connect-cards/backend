@@ -2,7 +2,7 @@
     "date": "2026-07-05",
     "groups": [
         {
-            "id": "2026-07-05-g1",
+            "id": "2026-07-05-861c4f-1",
             "type": "emotional_tone",
             "difficulty": "easy",
             "title": "irritable moods",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "2026-07-05-g2",
+            "id": "2026-07-05-20af41-1",
             "type": "informal_register",
             "difficulty": "medium",
             "title": "idle chatter",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "2026-07-05-g3",
+            "id": "2026-07-05-cae597-1",
             "type": "etymological_relation",
             "difficulty": "hard",
             "title": "carried within",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "2026-07-05-g4",
+            "id": "2026-07-05-e68da3-1",
             "type": "morphological_family",
             "difficulty": "very_hard",
             "title": "root kin",

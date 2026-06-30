@@ -2,7 +2,7 @@
     "date": "2026-03-27",
     "groups": [
         {
-            "id": "easy-3",
+            "id": "2026-03-27-861c4f-1",
             "type": "easy",
             "difficulty": "easy",
             "title": "physical sharpness or edge-like features",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "medium-3",
+            "id": "2026-03-27-20af41-1",
             "type": "medium",
             "difficulty": "medium",
             "title": "a temperament that is prickly or easily offended",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "hard-3",
+            "id": "2026-03-27-cae597-1",
             "type": "hard",
             "difficulty": "hard",
             "title": "rapid movement",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "very_hard-3",
+            "id": "2026-03-27-e68da3-1",
             "type": "very_hard",
             "difficulty": "very_hard",
             "title": "a slight bend or twist",

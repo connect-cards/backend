@@ -2,7 +2,7 @@
     "date": "2026-05-15",
     "groups": [
         {
-            "id": "D3G1",
+            "id": "2026-05-15-861c4f-1",
             "type": "easy",
             "difficulty": "easy",
             "title": "domestic animals",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "D3G2",
+            "id": "2026-05-15-20af41-1",
             "type": "medium",
             "difficulty": "medium",
             "title": "music notation terms",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "D3G3",
+            "id": "2026-05-15-cae597-1",
             "type": "hard",
             "difficulty": "hard",
             "title": "clever descriptors",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "D3G4",
+            "id": "2026-05-15-e68da3-1",
             "type": "very-hard",
             "difficulty": "very_hard",
             "title": "obscure words",

@@ -2,7 +2,7 @@
     "date": "2026-04-27",
     "groups": [
         {
-            "id": "g1",
+            "id": "2026-04-27-861c4f-1",
             "type": "informal_register",
             "difficulty": "easy",
             "title": "quick decisions",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g2",
+            "id": "2026-04-27-20af41-1",
             "type": "profession_domain",
             "difficulty": "medium",
             "title": "financial street talk",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g3",
+            "id": "2026-04-27-cae597-1",
             "type": "morphological_family",
             "difficulty": "hard",
             "title": "relatives of -scrib-",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "g4",
+            "id": "2026-04-27-e68da3-1",
             "type": "thematic_association",
             "difficulty": "very_hard",
             "title": "archaic judgments",

@@ -2,7 +2,7 @@
     "date": "2026-07-09",
     "groups": [
         {
-            "id": "2026-07-09-g1",
+            "id": "2026-07-09-861c4f-1",
             "type": "informal_register",
             "difficulty": "easy",
             "title": "casual talk",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "2026-07-09-g2",
+            "id": "2026-07-09-20af41-1",
             "type": "synonym",
             "difficulty": "medium",
             "title": "stinginess",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "2026-07-09-g3",
+            "id": "2026-07-09-cae597-1",
             "type": "sound_association",
             "difficulty": "hard",
             "title": "hissing sounds",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "2026-07-09-g4",
+            "id": "2026-07-09-e68da3-1",
             "type": "etymological_relation",
             "difficulty": "very_hard",
             "title": "bearer roots",
