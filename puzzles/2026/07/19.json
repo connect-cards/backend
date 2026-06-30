@@ -2,51 +2,51 @@
     "date": "2026-07-19",
     "groups": [
         {
-            "id": "easy",
-            "type": "informal_register",
+            "id": "2026-07-19-g1",
+            "type": "profession_domain",
             "difficulty": "easy",
-            "title": "casual words for mistakes",
+            "title": "law practice",
             "words": [
-                "screwup",
-                "blunder",
-                "botch",
-                "fumble"
+                "brief",
+                "depose",
+                "tort",
+                "venue"
             ]
         },
         {
-            "id": "medium",
-            "type": "semantic_field",
+            "id": "2026-07-19-g2",
+            "type": "sound_association",
             "difficulty": "medium",
-            "title": "words for discussing loudly",
+            "title": "horse sounds",
             "words": [
-                "raucous",
-                "clamor",
-                "bellow",
-                "uproar"
+                "neigh",
+                "snort",
+                "whicker",
+                "whinny"
             ]
         },
         {
-            "id": "hard",
+            "id": "2026-07-19-g3",
             "type": "thematic_association",
             "difficulty": "hard",
-            "title": "words connected to a retreat",
+            "title": "winter weather",
             "words": [
-                "withdraw",
-                "recoil",
-                "rescind",
-                "evacuate"
+                "rime",
+                "sleet",
+                "thaw",
+                "slush"
             ]
         },
         {
-            "id": "very_hard",
-            "type": "sound_association",
+            "id": "2026-07-19-g4",
+            "type": "morphological_family",
             "difficulty": "very_hard",
-            "title": "words that can mislead by sound",
+            "title": "star forms",
             "words": [
-                "fore",
-                "four",
-                "stare",
-                "stair"
+                "astral",
+                "aster",
+                "asterisk",
+                "disaster"
             ]
         }
     ]

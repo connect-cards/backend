@@ -1297,5 +1297,80 @@
                 "His hearing is fine."
             ]
         }
+    ],
+    "hawkish": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "supporting aggressive action, especially in politics or war",
+            "synonyms": [
+                "aggressive",
+                "militaristic",
+                "warlike",
+                "combative",
+                "tough-minded"
+            ],
+            "examples": [
+                "Some critics called the leader hawkish.",
+                "The debate focused on whether the policy is hawkish."
+            ]
+        }
+    ],
+    "halyard": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a rope or line used for raising and lowering a sail on a boat",
+            "synonyms": [
+                "sail line",
+                "rope (nautical)",
+                "rigging line"
+            ],
+            "examples": [
+                "Pull the halyard to raise the sail.",
+                "The halyard was tangled in the mast."
+            ]
+        }
+    ],
+    "hem": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the edge of a piece of clothing that is folded and sewn to finish it",
+            "synonyms": [
+                "edge",
+                "seam (edge)",
+                "folded edge"
+            ],
+            "examples": [
+                "She pinned the hem before sewing.",
+                "The hem of the dress was uneven."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to sew the edge of clothing or fold it to make it neat",
+            "synonyms": [
+                "sew",
+                "finish (edge)",
+                "turn up",
+                "stitch"
+            ],
+            "examples": [
+                "I need to hem these curtains before Saturday.",
+                "The tailor hemmed the pants."
+            ]
+        }
+    ],
+    "hull": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the main body of a ship or boat",
+            "synonyms": [
+                "ship body",
+                "boat body"
+            ],
+            "examples": [
+                "The hull was damaged by the rocks.",
+                "Divers checked the hull for leaks."
+            ]
+        }
     ]
 }

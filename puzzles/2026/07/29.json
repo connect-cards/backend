@@ -2,51 +2,51 @@
     "date": "2026-07-29",
     "groups": [
         {
-            "id": "day1-easy",
-            "type": "profession_domain",
+            "id": "2026-07-29-g1",
+            "type": "thematic_association",
             "difficulty": "easy",
-            "title": "skills in court",
+            "title": "harvest items",
             "words": [
-                "testify",
-                "litigate",
-                "plead",
+                "sheaf",
+                "sickle",
+                "thresh",
+                "granary"
+            ]
+        },
+        {
+            "id": "2026-07-29-g2",
+            "type": "profession_domain",
+            "difficulty": "medium",
+            "title": "courtroom terms",
+            "words": [
+                "affidavit",
+                "deponent",
+                "tort",
                 "verdict"
             ]
         },
         {
-            "id": "day1-medium",
-            "type": "literary_register",
-            "difficulty": "medium",
-            "title": "writers' diction",
-            "words": [
-                "murmur",
-                "cincture",
-                "writ",
-                "spindrift"
-            ]
-        },
-        {
-            "id": "day1-hard",
-            "type": "informal_register",
+            "id": "2026-07-29-g3",
+            "type": "semantic_field",
             "difficulty": "hard",
-            "title": "casual ways to complain",
+            "title": "stinginess",
             "words": [
-                "bitch",
-                "rant",
-                "snivel",
-                "gripe"
+                "niggardly",
+                "parsimonious",
+                "penurious",
+                "closefisted"
             ]
         },
         {
-            "id": "day1-very_hard",
-            "type": "morphological_family",
+            "id": "2026-07-29-g4",
+            "type": "emotional_tone",
             "difficulty": "very_hard",
-            "title": "words from the same root",
+            "title": "mournful",
             "words": [
-                "auditory",
-                "hearing",
-                "audition",
-                "audible"
+                "lachrymose",
+                "sepulchral",
+                "threnodic",
+                "dolorous"
             ]
         }
     ]

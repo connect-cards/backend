@@ -2048,5 +2048,388 @@
                 "Smoke billowed from the chimney."
             ]
         }
+    ],
+    "bog": [
+        {
+            "part_of_speech": "noun",
+            "definition": "soft, wet ground with decaying plants that can be difficult to walk on",
+            "synonyms": [
+                "swamp",
+                "marsh",
+                "fen",
+                "mire",
+                "wetland"
+            ],
+            "examples": [
+                "The hikers avoided the bog.",
+                "Cattle sometimes get stuck in the bog."
+            ]
+        }
+    ],
+    "beaked": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having a beak-like shape, often referring to a prominent nose or mouth",
+            "synonyms": [
+                "hook-nosed",
+                "bird-like",
+                "beak-shaped",
+                "pointed-nosed"
+            ],
+            "examples": [
+                "The sculpture has a beaked face.",
+                "She wore a costume with a beaked mask."
+            ]
+        }
+    ],
+    "bora": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a strong cold, dry wind that blows from inland toward the adriatic in parts of europe",
+            "synonyms": [
+                "cold wind (regional)",
+                "strong cold wind"
+            ],
+            "examples": [
+                "The forecast warned of a bora near the coast.",
+                "During the bora, temperatures dropped quickly."
+            ]
+        }
+    ],
+    "brass": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an alloy of copper and zinc, often used for musical instruments and decorations",
+            "synonyms": [
+                "metal alloy",
+                "copper-zinc alloy"
+            ],
+            "examples": [
+                "The trumpet was made of brass.",
+                "The railing is polished brass."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "loudness or boldness, especially in rude or confident behavior",
+            "synonyms": [
+                "boldness",
+                "impudence",
+                "audacity",
+                "cheek",
+                "nerve"
+            ],
+            "examples": [
+                "He had the brass to ask for more money.",
+                "She couldn’t believe his brass remark."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to cover something with brass or to make it look shiny like brass",
+            "synonyms": [
+                "polish",
+                "plate with brass",
+                "cover with brass"
+            ],
+            "examples": [
+                "They brass the edges to match the rest of the model."
+            ]
+        }
+    ],
+    "ballast": [
+        {
+            "part_of_speech": "noun",
+            "definition": "heavy material placed in a vehicle or ship to improve stability",
+            "synonyms": [
+                "weight",
+                "counterweight",
+                "load",
+                "stabilizer"
+            ],
+            "examples": [
+                "The ship needs ballast to stay level.",
+                "They added ballast to the boat."
+            ]
+        }
+    ],
+    "bend": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make something curve or turn from a straight line",
+            "synonyms": [
+                "curve",
+                "fold",
+                "coil",
+                "tilt",
+                "curve over"
+            ],
+            "examples": [
+                "Don’t bend the metal too much.",
+                "She bent down to pick up the book."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a curved part or change in direction",
+            "synonyms": [
+                "curve",
+                "turn",
+                "crook",
+                "angle"
+            ],
+            "examples": [
+                "There is a bend in the road after the bridge.",
+                "Take the sharp bend slowly."
+            ]
+        }
+    ],
+    "blight": [
+        {
+            "part_of_speech": "noun",
+            "definition": "serious damage that makes plants, areas, or plans fail or become unhealthy",
+            "synonyms": [
+                "decay",
+                "ruin",
+                "deterioration",
+                "disease (plants)",
+                "harm"
+            ],
+            "examples": [
+                "The blight killed many of the crops.",
+                "The area suffered from years of blight."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to ruin or damage badly, or to cause plants to become sick",
+            "synonyms": [
+                "ruin",
+                "damage",
+                "corrupt",
+                "wither",
+                "infect"
+            ],
+            "examples": [
+                "Bad weather can blight young plants.",
+                "The disease blighted the entire garden."
+            ]
+        }
+    ],
+    "bent": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "directed or curved; having a tendency toward a particular kind of action or behavior",
+            "synonyms": [
+                "curved",
+                "inclined",
+                "disposed",
+                "ready (informal)",
+                "aimed"
+            ],
+            "examples": [
+                "The bent metal needed to be replaced.",
+                "He’s bent on quitting his job."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a group’s or person’s tendency or typical style of thinking",
+            "synonyms": [
+                "inclination",
+                "tendency",
+                "disposition",
+                "leaning"
+            ],
+            "examples": [
+                "She has a bent for teaching.",
+                "His bent is toward practical solutions."
+            ]
+        }
+    ],
+    "beach": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a strip of sand or small stones next to the sea where people can walk or swim",
+            "synonyms": [
+                "shore",
+                "seaside",
+                "strand (near-synonym)",
+                "coast"
+            ],
+            "examples": [
+                "We spent the afternoon on the beach.",
+                "The beach was crowded on Saturday."
+            ]
+        }
+    ],
+    "beef": [
+        {
+            "part_of_speech": "noun",
+            "definition": "meat from cattle, used as food; also a complaint or problem in informal speech",
+            "synonyms": [
+                "meat",
+                "cattle meat",
+                "complaint (informal)",
+                "problem (informal)"
+            ],
+            "examples": [
+                "She cooked beef with vegetables.",
+                "He has a beef with the manager."
+            ]
+        }
+    ],
+    "baste": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to sew with loose stitches temporarily to hold fabric in place before final sewing",
+            "synonyms": [
+                "tack",
+                "stitch temporarily",
+                "pin (with stitches)"
+            ],
+            "examples": [
+                "Baste the layers together, then sew them permanently.",
+                "She basted the skirt before hemming it."
+            ]
+        }
+    ],
+    "bucks": [
+        {
+            "part_of_speech": "noun",
+            "definition": "money, especially in informal american english",
+            "synonyms": [
+                "money",
+                "dollars",
+                "cash (informal)"
+            ],
+            "examples": [
+                "It cost me twenty bucks.",
+                "Do you have any bucks to spare?"
+            ]
+        }
+    ],
+    "barren": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "not able to produce life or growth, often because of lack of water or nutrients",
+            "synonyms": [
+                "unproductive",
+                "empty",
+                "lifeless",
+                "desolate",
+                "unfertile"
+            ],
+            "examples": [
+                "The land was barren after years of drought.",
+                "Her ideas seemed barren of new information."
+            ]
+        }
+    ],
+    "baloney": [
+        {
+            "part_of_speech": "noun",
+            "definition": "nonsense talk or ideas, used informally to show strong disagreement",
+            "synonyms": [
+                "nonsense",
+                "rubbish",
+                "balderdash",
+                "twaddle",
+                "crap (informal)"
+            ],
+            "examples": [
+                "That’s baloney, the numbers don’t match.",
+                "He called the rumor baloney."
+            ]
+        }
+    ],
+    "brindled": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having stripes or streaks of different colors, often describing fur",
+            "synonyms": [
+                "striped",
+                "mottled",
+                "tiger-striped",
+                "spotted (not exact)"
+            ],
+            "examples": [
+                "They adopted a brindled cat.",
+                "The brindled horse had a dark mane."
+            ]
+        }
+    ],
+    "brevity": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the quality of being short and not using extra words",
+            "synonyms": [
+                "conciseness",
+                "shortness",
+                "succinctness",
+                "terse style"
+            ],
+            "examples": [
+                "Her speech was clear because of its brevity.",
+                "Brevity is important in technical writing."
+            ]
+        }
+    ],
+    "betwixt": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "between two things or in the time between them, used in older english",
+            "synonyms": [
+                "between",
+                "in between"
+            ],
+            "examples": [
+                "Don’t stand betwixt the doors.",
+                "The choice lies betwixt two options."
+            ]
+        }
+    ],
+    "bony": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having bones showing or looking thin and lean",
+            "synonyms": [
+                "thin",
+                "skeletal",
+                "gaunt",
+                "bone-like",
+                "emaciated"
+            ],
+            "examples": [
+                "The patient looked bony and exhausted.",
+                "He became bony after losing weight."
+            ]
+        }
+    ],
+    "bilge": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the lowest part of a boat’s hull where water collects",
+            "synonyms": [
+                "hold (lowest part)",
+                "boat bottom (contextual)"
+            ],
+            "examples": [
+                "The crew pumped out the bilge.",
+                "Bilge water built up during the trip."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "low, unpleasant behavior or talk, especially in slang",
+            "synonyms": [
+                "filth",
+                "nonsense (informal)",
+                "trashy talk"
+            ],
+            "examples": [
+                "He stopped speaking bilge and answered the question."
+            ]
+        }
     ]
 }

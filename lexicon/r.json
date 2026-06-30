@@ -2687,5 +2687,233 @@
                 "She applied for the renewal of her license."
             ]
         }
+    ],
+    "rangy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having a long, thin body or unusual length and reach",
+            "synonyms": [
+                "long-legged",
+                "lean",
+                "lanky",
+                "spindly",
+                "staggy"
+            ],
+            "examples": [
+                "He is a rangy runner with long strides.",
+                "The dog looked rangy and graceful."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "able to perform or cover a wide range of activities or subjects",
+            "synonyms": [
+                "broad",
+                "wide-ranging",
+                "versatile",
+                "varied",
+                "comprehensive"
+            ],
+            "examples": [
+                "Her job requires rangy skills in planning and communication.",
+                "The team has a rangy set of strengths across different projects."
+            ]
+        }
+    ],
+    "rasp": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a rough, unpleasant sound by rubbing or scraping",
+            "synonyms": [
+                "scrape",
+                "rub",
+                "grind",
+                "scratch",
+                "scuff"
+            ],
+            "examples": [
+                "His voice rasped when he tried to speak loudly.",
+                "The chain rasped against the metal."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a rough sound made by scraping or rubbing",
+            "synonyms": [
+                "scratch",
+                "grind",
+                "rasping sound",
+                "scrape sound"
+            ],
+            "examples": [
+                "I heard a rasp from the pipes.",
+                "There was a rasp as the metal moved."
+            ]
+        }
+    ],
+    "rostrate": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having a beak-like or pointed front end",
+            "synonyms": [
+                "beak-shaped",
+                "pointed",
+                "tapering"
+            ],
+            "examples": [
+                "The rostrate leaves pointed forward.",
+                "The rostrate beak of the bird was clearly visible."
+            ]
+        }
+    ],
+    "rugose": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having a wrinkled or rough surface",
+            "synonyms": [
+                "wrinkled",
+                "ridged",
+                "crumpled",
+                "wrinkly",
+                "textured"
+            ],
+            "examples": [
+                "The fruit skin looked rugose.",
+                "The stone had a rugose surface."
+            ]
+        }
+    ],
+    "rudder": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a device at the back of a boat that controls its direction",
+            "synonyms": [
+                "steering blade",
+                "steering device",
+                "helm part"
+            ],
+            "examples": [
+                "The rudder turned the boat to the left.",
+                "He adjusted the rudder to avoid the rocks."
+            ]
+        }
+    ],
+    "recognizance": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a legal promise to appear in court, often instead of paying bail",
+            "synonyms": [
+                "bail (legal context)",
+                "court promise",
+                "bond (court context)"
+            ],
+            "examples": [
+                "He was released on recognizance.",
+                "The judge granted recognizance after the hearing."
+            ]
+        }
+    ],
+    "ration": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an amount of food or supplies given to a person or group, often because of limited availability",
+            "synonyms": [
+                "allowance",
+                "share",
+                "supply (limited)",
+                "portion (controlled)"
+            ],
+            "examples": [
+                "During the storm, they survived on a ration of water.",
+                "The ration was smaller than last month’s."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to limit the amount of something that each person can have because of shortage",
+            "synonyms": [
+                "limit",
+                "distribute",
+                "allocate (limited)",
+                "restrict"
+            ],
+            "examples": [
+                "The government rationed fuel during the crisis.",
+                "We had to ration our water."
+            ]
+        }
+    ],
+    "retort": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a vessel used in chemistry to heat substances, or a quick sharp reply to someone",
+            "synonyms": [
+                "reply",
+                "response (quick)",
+                "flask (lab)",
+                "chemical vessel"
+            ],
+            "examples": [
+                "The retort held the liquid for heating.",
+                "He gave a clever retort during the debate."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to reply quickly and sharply",
+            "synonyms": [
+                "answer",
+                "respond",
+                "shoot back",
+                "retaliate with words"
+            ],
+            "examples": [
+                "She retorted with a question that ended the argument."
+            ]
+        }
+    ],
+    "rime": [
+        {
+            "part_of_speech": "noun",
+            "definition": "small ice crystals formed on cold surfaces, similar to frost",
+            "synonyms": [
+                "frost",
+                "ice crystals",
+                "white frost"
+            ],
+            "examples": [
+                "Rime covered the grass before sunrise.",
+                "We saw rime on the branches after the cold night."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a rhyming sound or group of rhyming words in poetry",
+            "synonyms": [
+                "rhyming (sound)",
+                "rhyme (close)"
+            ],
+            "examples": [
+                "The poem uses the same rime throughout.",
+                "Rime helps listeners notice the pattern."
+            ]
+        }
+    ],
+    "rawboned": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very thin and bony in appearance",
+            "synonyms": [
+                "bony",
+                "gaunt",
+                "skinny",
+                "emaciated",
+                "thin"
+            ],
+            "examples": [
+                "The rawboned dog looked tired.",
+                "He was rawboned after weeks without proper food."
+            ]
+        }
     ]
 }

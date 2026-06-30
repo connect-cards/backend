@@ -2,51 +2,51 @@
     "date": "2026-07-03",
     "groups": [
         {
-            "id": "g1",
-            "type": "sound_association",
+            "id": "2026-07-03-g1",
+            "type": "literary_register",
             "difficulty": "easy",
-            "title": "words that sound like a test",
+            "title": "old-fashioned pronouns",
             "words": [
-                "assay",
-                "essay",
-                "essayist",
-                "perse"
+                "thee",
+                "thou",
+                "thy",
+                "thine"
             ]
         },
         {
-            "id": "g2",
-            "type": "synonym",
+            "id": "2026-07-03-g2",
+            "type": "morphological_family",
             "difficulty": "medium",
-            "title": "informal ways to say very tired",
+            "title": "bearing carry",
             "words": [
-                "knackered",
-                "wiped",
-                "drained",
-                "bagged"
+                "carnage",
+                "carriage",
+                "cart",
+                "charge"
             ]
         },
         {
-            "id": "g3",
+            "id": "2026-07-03-g3",
             "type": "profession_domain",
             "difficulty": "hard",
-            "title": "skills used in finance",
+            "title": "printer's marks",
             "words": [
-                "liquidity",
-                "underwriter",
-                "leverage",
-                "portfolio"
+                "caret",
+                "dingbat",
+                "pilcrow",
+                "stet"
             ]
         },
         {
-            "id": "g4",
-            "type": "informal_register",
+            "id": "2026-07-03-g4",
+            "type": "physical_trait",
             "difficulty": "very_hard",
-            "title": "dismissive talk about unreliable people",
+            "title": "hooked nose",
             "words": [
-                "dodgy",
-                "shifty",
-                "holloweyed",
-                "untrustworthy"
+                "aquiline",
+                "beaked",
+                "hawkish",
+                "rostrate"
             ]
         }
     ]

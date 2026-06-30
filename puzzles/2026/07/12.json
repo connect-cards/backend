@@ -2,51 +2,51 @@
     "date": "2026-07-12",
     "groups": [
         {
-            "id": "easy-emotional_tone",
-            "type": "emotional_tone",
+            "id": "2026-07-12-g1",
+            "type": "synonym",
             "difficulty": "easy",
-            "title": "feelings of doubt",
+            "title": "praise",
             "words": [
-                "skeptical",
-                "doubtful",
-                "guarded",
-                "suspicious"
+                "extol",
+                "laud",
+                "commend",
+                "acclaim"
             ]
         },
         {
-            "id": "medium-physical_trait",
+            "id": "2026-07-12-g2",
             "type": "physical_trait",
             "difficulty": "medium",
-            "title": "clues in appearance",
+            "title": "stooped",
             "words": [
-                "calloused",
-                "mottled",
-                "broadbrim",
-                "sinewy"
+                "hunched",
+                "crooked",
+                "bent",
+                "stooping"
             ]
         },
         {
-            "id": "hard-synonym",
-            "type": "synonym",
+            "id": "2026-07-12-g3",
+            "type": "literary_register",
             "difficulty": "hard",
-            "title": "near the edge",
+            "title": "sadness",
             "words": [
-                "incipient",
-                "nascent",
-                "incipience",
-                "early"
+                "dolor",
+                "melancholy",
+                "despond",
+                "spleen"
             ]
         },
         {
-            "id": "very_hard-profession_domain",
+            "id": "2026-07-12-g4",
             "type": "profession_domain",
             "difficulty": "very_hard",
-            "title": "work of the archivist",
+            "title": "sailing gear",
             "words": [
-                "cataloging",
-                "provenance",
-                "deaccession",
-                "restoration"
+                "mizzen",
+                "halyard",
+                "gunwale",
+                "cleat"
             ]
         }
     ]

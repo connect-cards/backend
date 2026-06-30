@@ -2,51 +2,51 @@
     "date": "2026-07-24",
     "groups": [
         {
-            "id": "day4_easy",
-            "type": "easy",
+            "id": "2026-07-24-g1",
+            "type": "informal_register",
             "difficulty": "easy",
-            "title": "words in the same semantic field",
+            "title": "steal",
             "words": [
-                "brief",
-                "summarize",
-                "compile",
-                "concise"
+                "swipe",
+                "pinch",
+                "nab",
+                "snitch"
             ]
         },
         {
-            "id": "day4_medium",
-            "type": "medium",
+            "id": "2026-07-24-g2",
+            "type": "thematic_association",
             "difficulty": "medium",
-            "title": "words that relate through sound",
+            "title": "at sea",
             "words": [
-                "mentor",
-                "minter",
-                "meander",
-                "meandered"
+                "keel",
+                "mast",
+                "wake",
+                "starboard"
             ]
         },
         {
-            "id": "day4_hard",
-            "type": "hard",
+            "id": "2026-07-24-g3",
+            "type": "etymological_relation",
             "difficulty": "hard",
-            "title": "words sharing a remote etymological root",
+            "title": "carry roots",
             "words": [
-                "benefit",
-                "benediction",
-                "benign",
-                "benefactor"
+                "convey",
+                "vehicle",
+                "vector",
+                "vection"
             ]
         },
         {
-            "id": "day4_very_hard",
-            "type": "very_hard",
+            "id": "2026-07-24-g4",
+            "type": "literary_register",
             "difficulty": "very_hard",
-            "title": "words from the same morphological family",
+            "title": "briefness",
             "words": [
-                "chronicle",
-                "chronological",
-                "chronic",
-                "chronicleled"
+                "brevity",
+                "pith",
+                "laconicism",
+                "concision"
             ]
         }
     ]

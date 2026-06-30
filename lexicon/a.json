@@ -2838,5 +2838,305 @@
                 "The authorization was approved by the director."
             ]
         }
+    ],
+    "aquiline": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having a strongly curved, hooked shape of the nose",
+            "synonyms": [
+                "hook-nosed",
+                "eagle-nosed",
+                "curved-nosed",
+                "roman-nosed"
+            ],
+            "examples": [
+                "He described a character with an aquiline nose.",
+                "The painting shows an aquiline profile."
+            ]
+        }
+    ],
+    "aurora": [
+        {
+            "part_of_speech": "noun",
+            "definition": "natural lights in the sky near the arctic or antarctic, caused by particles interacting with the atmosphere",
+            "synonyms": [
+                "northern lights",
+                "polar lights",
+                "aurora borealis",
+                "aurora australis"
+            ],
+            "examples": [
+                "We watched the aurora from a lookout point.",
+                "The aurora appeared green and purple that night."
+            ]
+        }
+    ],
+    "apothegm": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a short, wise statement or saying",
+            "synonyms": [
+                "maxim",
+                "saying",
+                "proverb",
+                "dictum",
+                "aphorism"
+            ],
+            "examples": [
+                "The book quoted an apothegm about patience.",
+                "She wrote down an apothegm for the students."
+            ]
+        }
+    ],
+    "argent": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a silver color used in heraldry",
+            "synonyms": [
+                "silver (heraldry)",
+                "silver metal (heraldic)"
+            ],
+            "examples": [
+                "The shield lists argent in the top section.",
+                "Argent is shown as white on many heraldic designs."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "of a silver color in heraldry",
+            "synonyms": [
+                "silver (heraldry)"
+            ],
+            "examples": [
+                "The pattern was argent with black lines."
+            ]
+        }
+    ],
+    "agnostic": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who believes that the existence of god or ultimate truth is not known or cannot be proven",
+            "synonyms": [
+                "skeptic",
+                "uncertain believer",
+                "nonbeliever (not exact)"
+            ],
+            "examples": [
+                "She describes herself as an agnostic.",
+                "Many people are agnostic about religion."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "not certain about religious beliefs or the existence of something unproven",
+            "synonyms": [
+                "uncertain",
+                "not sure",
+                "skeptical"
+            ],
+            "examples": [
+                "He has agnostic views on the topic.",
+                "The study was presented in an agnostic way."
+            ]
+        }
+    ],
+    "accord": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an agreement or formal arrangement between groups",
+            "synonyms": [
+                "agreement",
+                "treaty",
+                "contract",
+                "understanding",
+                "consent"
+            ],
+            "examples": [
+                "The two countries reached an accord.",
+                "They signed an accord to end the dispute."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to give someone something or match their needs in a fair way",
+            "synonyms": [
+                "grant",
+                "give",
+                "award",
+                "provide",
+                "match"
+            ],
+            "examples": [
+                "The rules accord equal rights to all participants.",
+                "The committee accorded her the opportunity to speak."
+            ]
+        }
+    ],
+    "alembic": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a device used in distillation to separate substances based on boiling points",
+            "synonyms": [
+                "still",
+                "distillation apparatus",
+                "distiller (related)"
+            ],
+            "examples": [
+                "The old alembic was used to make essential oils.",
+                "Scientists used an alembic to purify the liquid."
+            ]
+        }
+    ],
+    "allophone": [
+        {
+            "part_of_speech": "noun",
+            "definition": "one of the different sounds that can represent the same phoneme in speech",
+            "synonyms": [
+                "speech sound variant",
+                "phoneme variant"
+            ],
+            "examples": [
+                "The lesson explained how an allophone depends on the position in a word.",
+                "In her dialect, the same phoneme has different allophones."
+            ]
+        }
+    ],
+    "astral": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "connected with stars or outer space, or used in some beliefs about the soul",
+            "synonyms": [
+                "celestial",
+                "space-related",
+                "starry"
+            ],
+            "examples": [
+                "Astral events were common in ancient stories.",
+                "Astral travel is described in some spiritual traditions."
+            ]
+        }
+    ],
+    "aster": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a type of flowering plant with star-shaped flowers",
+            "synonyms": [
+                "starflower (common name)"
+            ],
+            "examples": [
+                "The garden had purple asters.",
+                "Aster blooms appeared in late summer."
+            ]
+        }
+    ],
+    "asterisk": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a symbol (*) used in writing to mark a footnote or to indicate a missing or important piece of information",
+            "synonyms": [
+                "* symbol",
+                "footnote symbol"
+            ],
+            "examples": [
+                "The document uses an asterisk to show extra information.",
+                "An asterisk appears next to the warning."
+            ]
+        }
+    ],
+    "arid": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very dry, with little or no rain",
+            "synonyms": [
+                "dry",
+                "parched",
+                "waterless",
+                "desert-like",
+                "barren"
+            ],
+            "examples": [
+                "The region is arid and almost never rains.",
+                "Arid conditions made farming difficult."
+            ]
+        }
+    ],
+    "aplomb": [
+        {
+            "part_of_speech": "noun",
+            "definition": "calm confidence, especially in stressful situations",
+            "synonyms": [
+                "confidence",
+                "composure",
+                "self-assurance",
+                "assurance",
+                "coolness"
+            ],
+            "examples": [
+                "He handled the crisis with aplomb.",
+                "She stayed calm with aplomb when the lights went out."
+            ]
+        }
+    ],
+    "acute": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very sharp, serious, or intense; also describing an angle less than 90 degrees in geometry",
+            "synonyms": [
+                "sharp",
+                "serious",
+                "intense",
+                "critical",
+                "pointed"
+            ],
+            "examples": [
+                "She has an acute sense of humor.",
+                "The problem became acute after the deadline."
+            ]
+        }
+    ],
+    "ash": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the grey powder left after something burns, especially wood or coal",
+            "synonyms": [
+                "powdery residue",
+                "burnt material",
+                "burning residue"
+            ],
+            "examples": [
+                "The floor was covered with ash after the fire.",
+                "Ash from the chimney needed cleaning."
+            ]
+        }
+    ],
+    "ashy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having a grey, dull color, often like ashes",
+            "synonyms": [
+                "greyish",
+                "dusty",
+                "ash-colored",
+                "pale grey"
+            ],
+            "examples": [
+                "His hands looked ash y after the fire.",
+                "The wall was ash y and dirty."
+            ]
+        }
+    ],
+    "astern": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "toward the back of a ship",
+            "synonyms": [
+                "toward the stern",
+                "to the back"
+            ],
+            "examples": [
+                "The crew moved the equipment astern.",
+                "Don’t go astern without permission."
+            ]
+        }
     ]
 }

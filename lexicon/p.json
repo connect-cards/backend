@@ -3126,5 +3126,262 @@
                 "People debated whether the prophecy was true."
             ]
         }
+    ],
+    "pithy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "expressed in a short and clear way, often with strong meaning",
+            "synonyms": [
+                "concise",
+                "succinct",
+                "terse",
+                "compact",
+                "to-the-point"
+            ],
+            "examples": [
+                "Her pithy answer saved time.",
+                "The report was pithy but very clear."
+            ]
+        }
+    ],
+    "pilcrow": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the symbol ¶ used to show the start of a paragraph in printed text or documents",
+            "synonyms": [
+                "paragraph mark",
+                "paragraph symbol",
+                "¶"
+            ],
+            "examples": [
+                "In the document, the pilcrow shows where each paragraph begins.",
+                "The layout guide explains how to use the pilcrow."
+            ]
+        }
+    ],
+    "peevish": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "easily annoyed and complaining in a small way",
+            "synonyms": [
+                "irritable",
+                "petty",
+                "whiny",
+                "testy",
+                "cross"
+            ],
+            "examples": [
+                "He grew peevish when the bus was late.",
+                "Don’t be peevish just because you lost the game."
+            ]
+        }
+    ],
+    "prickly": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having small points or needles, or describing someone’s manner as unfriendly or easily offended",
+            "synonyms": [
+                "spiky",
+                "thorny",
+                "sharp",
+                "touchy",
+                "defensive"
+            ],
+            "examples": [
+                "A prickly cactus can survive dry weather.",
+                "Her prickly response surprised me."
+            ]
+        }
+    ],
+    "prattle": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to talk in a foolish or excited way, often about unimportant things",
+            "synonyms": [
+                "natter",
+                "chatter",
+                "babble",
+                "prattle on",
+                "jabber"
+            ],
+            "examples": [
+                "Stop prattling and help me with the homework.",
+                "They prattled about trivial topics."
+            ]
+        }
+    ],
+    "parsimonious": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very unwilling to spend money, often in a way that seems too careful",
+            "synonyms": [
+                "stingy",
+                "frugal",
+                "miserly",
+                "economical (careful)",
+                "thrifty (positive)"
+            ],
+            "examples": [
+                "He was parsimonious with tips.",
+                "The parsimonious budget limited their options."
+            ]
+        }
+    ],
+    "portage": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the act of carrying a boat and gear over land between two water areas",
+            "synonyms": [
+                "carry",
+                "overland transport",
+                "boat carry"
+            ],
+            "examples": [
+                "They planned a short portage around the waterfall.",
+                "A portage is needed when the river becomes too shallow."
+            ]
+        }
+    ],
+    "peal": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a loud ringing sound, especially of bells",
+            "synonyms": [
+                "ring",
+                "bell sound",
+                "chime",
+                "clang (sound)"
+            ],
+            "examples": [
+                "A peal of laughter filled the room.",
+                "We heard a peal of bells at noon."
+            ]
+        }
+    ],
+    "plaint": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a formal statement of someone’s complaint, especially in court",
+            "synonyms": [
+                "complaint (legal)",
+                "petition",
+                "lawsuit filing",
+                "claim"
+            ],
+            "examples": [
+                "The plaint described the injuries in detail.",
+                "The court received the plaint."
+            ]
+        }
+    ],
+    "poise": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a calm, controlled way of standing or speaking, often showing confidence",
+            "synonyms": [
+                "balance",
+                "confidence",
+                "self-control",
+                "composure",
+                "ease"
+            ],
+            "examples": [
+                "She spoke with poise during the interview.",
+                "The athlete kept her poise even under pressure."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to balance or keep something steady in position; also to consider or judge carefully",
+            "synonyms": [
+                "balance",
+                "steady",
+                "weigh",
+                "consider"
+            ],
+            "examples": [
+                "Poise the glass carefully on the tray.",
+                "She poised her decision after reviewing the facts."
+            ]
+        }
+    ],
+    "piebald": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having black and white patches, often describing animals such as dogs or horses",
+            "synonyms": [
+                "patchy (black and white)",
+                "spotted (black and white)"
+            ],
+            "examples": [
+                "The piebald dog had one black ear.",
+                "A piebald pattern covered the horse’s coat."
+            ]
+        }
+    ],
+    "pinch": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to squeeze something slightly between fingers; also to take a small amount from a supply",
+            "synonyms": [
+                "squeeze",
+                "clamp",
+                "grip",
+                "take a little",
+                "nick (informal)"
+            ],
+            "examples": [
+                "Pinch the fabric to see if it is loose.",
+                "I’ll pinch a bit of sugar from the jar."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a small painful squeeze or a small amount of something",
+            "synonyms": [
+                "squeeze",
+                "small amount",
+                "dash (informal)",
+                "bit"
+            ],
+            "examples": [
+                "Be careful, the pinch is small but it hurts.",
+                "Add a pinch of salt."
+            ]
+        }
+    ],
+    "pith": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the most important part or main meaning of something",
+            "synonyms": [
+                "essence",
+                "core",
+                "heart",
+                "main point",
+                "substance"
+            ],
+            "examples": [
+                "Tell me the pith of the argument.",
+                "The pith of the story is simple."
+            ]
+        }
+    ],
+    "penurious": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very unwilling to spend money; extremely cheap",
+            "synonyms": [
+                "stingy",
+                "miserly",
+                "niggardly",
+                "thrifty (positive)",
+                "mean (informal)"
+            ],
+            "examples": [
+                "He is penurious with even small expenses.",
+                "The penurious landlord refused to fix the plumbing."
+            ]
+        }
     ]
 }

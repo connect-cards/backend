@@ -2024,5 +2024,221 @@
                 "Politics can turn into a maelstrom."
             ]
         }
+    ],
+    "marsh": [
+        {
+            "part_of_speech": "noun",
+            "definition": "wet, soft land that is often full of grasses and low plants",
+            "synonyms": [
+                "swamp",
+                "bog",
+                "fen",
+                "wetland",
+                "mire"
+            ],
+            "examples": [
+                "We saw deer in the marsh.",
+                "The house was built on firm ground, not a marsh."
+            ]
+        }
+    ],
+    "mire": [
+        {
+            "part_of_speech": "noun",
+            "definition": "wet, muddy ground that is hard to move through",
+            "synonyms": [
+                "bog",
+                "swamp",
+                "quagmire",
+                "marsh",
+                "boggy mud"
+            ],
+            "examples": [
+                "The horse sank into the mire.",
+                "The car got stuck in the mire."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to trap someone or something in a difficult situation or in mud",
+            "synonyms": [
+                "entangle",
+                "trap",
+                "ensnare",
+                "entwine",
+                "snare"
+            ],
+            "examples": [
+                "The project began to mire in delays.",
+                "He sank deeper as the mud mired his boots."
+            ]
+        }
+    ],
+    "mistral": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a strong cold wind that blows from the north in southern france",
+            "synonyms": [
+                "cold wind (regional)",
+                "strong northern wind"
+            ],
+            "examples": [
+                "The mistral made the beach very windy.",
+                "We stayed indoors when the mistral started."
+            ]
+        }
+    ],
+    "morn": [
+        {
+            "part_of_speech": "noun",
+            "definition": "early morning, especially in older or poetic english",
+            "synonyms": [
+                "morning",
+                "daybreak"
+            ],
+            "examples": [
+                "The journey began at dawn and morn.",
+                "In the poem, the morn comes quietly."
+            ]
+        }
+    ],
+    "maxim": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a general rule or principle that is often used to guide behavior",
+            "synonyms": [
+                "rule",
+                "principle",
+                "guideline",
+                "saying",
+                "adage"
+            ],
+            "examples": [
+                "One maxim is to plan before acting.",
+                "The manager’s maxim was honesty first."
+            ]
+        }
+    ],
+    "mizzen": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a sail on the rear part of a ship (on some types of boats)",
+            "synonyms": [
+                "stern sail (context)",
+                "rear sail"
+            ],
+            "examples": [
+                "The mizzen caught the wind and helped steer the boat.",
+                "They adjusted the mizzen to slow down."
+            ]
+        }
+    ],
+    "morpheme": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the smallest meaningful unit in a language, such as a prefix or root",
+            "synonyms": [
+                "word part",
+                "meaningful unit",
+                "linguistic unit"
+            ],
+            "examples": [
+                "A morpheme can change meaning when added to a word.",
+                "In the lesson, students identified morphemes in the sentences."
+            ]
+        }
+    ],
+    "momentary": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "lasting only for a very short moment",
+            "synonyms": [
+                "brief",
+                "instant",
+                "temporary",
+                "short-lived",
+                "transient"
+            ],
+            "examples": [
+                "There was a momentary pause before she answered.",
+                "The momentary power cut ended quickly."
+            ]
+        }
+    ],
+    "mast": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a tall pole on a ship that supports sails and other equipment",
+            "synonyms": [
+                "sailing pole",
+                "pole (nautical)"
+            ],
+            "examples": [
+                "The mast rose high above the deck.",
+                "A rope connected to the mast snapped."
+            ]
+        }
+    ],
+    "mews": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a loud sound made by a cat",
+            "synonyms": [
+                "meow",
+                "cat sound"
+            ],
+            "examples": [
+                "I heard a mews outside the window.",
+                "The kitten let out a mews."
+            ]
+        }
+    ],
+    "magma": [
+        {
+            "part_of_speech": "noun",
+            "definition": "hot melted rock beneath the earth’s surface that can rise and form lava",
+            "synonyms": [
+                "molten rock",
+                "lava precursor"
+            ],
+            "examples": [
+                "The volcano was fed by magma from deep underground.",
+                "Scientists studied the magma chamber."
+            ]
+        }
+    ],
+    "mourn": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to feel and show sadness because of someone’s or something’s death or loss",
+            "synonyms": [
+                "grieve",
+                "lament",
+                "sorrow",
+                "weep",
+                "be sad"
+            ],
+            "examples": [
+                "They mourned for weeks after the accident.",
+                "She mourns the loss of her friend."
+            ]
+        }
+    ],
+    "morass": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a difficult situation that is hard to escape, or wet, muddy land",
+            "synonyms": [
+                "quagmire",
+                "trap (metaphor)",
+                "swamp",
+                "bog",
+                "tangle"
+            ],
+            "examples": [
+                "The project turned into a morass of paperwork.",
+                "They couldn’t cross the morass at night."
+            ]
+        }
     ]
 }

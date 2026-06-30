@@ -2,51 +2,51 @@
     "date": "2026-07-16",
     "groups": [
         {
-            "id": "easy",
-            "type": "physical_trait",
+            "id": "2026-07-16-g1",
+            "type": "thematic_association",
             "difficulty": "easy",
-            "title": "signs of an untidy appearance",
+            "title": "winter weather",
             "words": [
-                "rumpled",
-                "untrimmed",
-                "disheveled",
-                "matted"
+                "sleet",
+                "frost",
+                "hail",
+                "thaw"
             ]
         },
         {
-            "id": "medium",
+            "id": "2026-07-16-g2",
             "type": "profession_domain",
             "difficulty": "medium",
-            "title": "work connected to medical diagnosis",
+            "title": "tailoring",
             "words": [
-                "pathology",
-                "auscultate",
-                "diagnose",
-                "prognosis"
+                "hem",
+                "gusset",
+                "selvage",
+                "baste"
             ]
         },
         {
-            "id": "hard",
-            "type": "etymological_relation",
+            "id": "2026-07-16-g3",
+            "type": "physical_trait",
             "difficulty": "hard",
-            "title": "words tied to writing and recording",
+            "title": "gaunt",
             "words": [
-                "inscribe",
-                "document",
-                "notation",
-                "transcribe"
+                "lean",
+                "cadaverous",
+                "scrawny",
+                "rangy"
             ]
         },
         {
-            "id": "very_hard",
-            "type": "synonym",
+            "id": "2026-07-16-g4",
+            "type": "semantic_field",
             "difficulty": "very_hard",
-            "title": "near-synonyms for very difficult",
+            "title": "swirling motion",
             "words": [
-                "arduous",
-                "exacting",
-                "onerous",
-                "intractable"
+                "eddy",
+                "gyre",
+                "whorl",
+                "vortex"
             ]
         }
     ]

@@ -2,51 +2,51 @@
     "date": "2026-07-21",
     "groups": [
         {
-            "id": "day1_easy",
-            "type": "easy",
+            "id": "2026-07-21-g1",
+            "type": "literary_register",
             "difficulty": "easy",
-            "title": "words from the same origin",
+            "title": "ancient books",
             "words": [
-                "harbor",
-                "armory",
-                "column",
-                "carpenter"
+                "folio",
+                "tome",
+                "scroll",
+                "codex"
             ]
         },
         {
-            "id": "day1_medium",
-            "type": "medium",
+            "id": "2026-07-21-g2",
+            "type": "informal_register",
             "difficulty": "medium",
-            "title": "words linked to a profession",
+            "title": "criticize",
             "words": [
-                "surgeon",
-                "apprentice",
-                "ledger",
-                "quarry"
+                "slam",
+                "trash",
+                "dump",
+                "knock"
             ]
         },
         {
-            "id": "day1_hard",
-            "type": "hard",
+            "id": "2026-07-21-g3",
+            "type": "sound_association",
             "difficulty": "hard",
-            "title": "words describing a physical trait",
+            "title": "harsh sounds",
             "words": [
-                "ashen",
-                "slender",
-                "scarlet",
-                "mottled"
+                "clang",
+                "clatter",
+                "rattle",
+                "jangle"
             ]
         },
         {
-            "id": "day1_very_hard",
-            "type": "very_hard",
+            "id": "2026-07-21-g4",
+            "type": "physical_trait",
             "difficulty": "very_hard",
-            "title": "words from a literary register",
+            "title": "leanness",
             "words": [
-                "whereupon",
-                "anon",
-                "henceforth",
-                "countenance"
+                "gaunt",
+                "rangy",
+                "rawboned",
+                "spare"
             ]
         }
     ]

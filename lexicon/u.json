@@ -680,5 +680,21 @@
                 "The unyielding rules made exceptions impossible."
             ]
         }
+    ],
+    "ululation": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a long loud crying sound, often like a wailing call",
+            "synonyms": [
+                "wail",
+                "howling",
+                "crying",
+                "wailing sound"
+            ],
+            "examples": [
+                "Ululation could be heard outside during the storm.",
+                "The ululation of the wind sounded eerie."
+            ]
+        }
     ]
 }

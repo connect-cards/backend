@@ -2,51 +2,51 @@
     "date": "2026-07-07",
     "groups": [
         {
-            "id": "d3-easy",
-            "type": "morphological_family",
+            "id": "2026-07-07-g1",
+            "type": "sound_association",
             "difficulty": "easy",
-            "title": "words from the same word family",
+            "title": "sharp sounds",
             "words": [
-                "clarify",
-                "clarity",
-                "unclear",
-                "clarion"
+                "clang",
+                "clank",
+                "clash",
+                "clatter"
             ]
         },
         {
-            "id": "d3-medium",
-            "type": "profession_domain",
-            "difficulty": "medium",
-            "title": "words from engineering tasks",
-            "words": [
-                "prototype",
-                "calibrate",
-                "tolerance",
-                "bearing"
-            ]
-        },
-        {
-            "id": "d3-hard",
-            "type": "semantic_field",
-            "difficulty": "hard",
-            "title": "words about blame and fault",
-            "words": [
-                "culpability",
-                "accusation",
-                "liability",
-                "exonerate"
-            ]
-        },
-        {
-            "id": "d3-very_hard",
+            "id": "2026-07-07-g2",
             "type": "informal_register",
-            "difficulty": "very_hard",
-            "title": "words that sound like street sarcasm",
+            "difficulty": "medium",
+            "title": "money slang",
             "words": [
-                "clowning",
-                "wack",
-                "bogus",
-                "snitchy"
+                "brass",
+                "dough",
+                "gelt",
+                "scratch"
+            ]
+        },
+        {
+            "id": "2026-07-07-g3",
+            "type": "thematic_association",
+            "difficulty": "hard",
+            "title": "sea voyage",
+            "words": [
+                "ballast",
+                "keel",
+                "rudder",
+                "wake"
+            ]
+        },
+        {
+            "id": "2026-07-07-g4",
+            "type": "profession_domain",
+            "difficulty": "very_hard",
+            "title": "heraldry",
+            "words": [
+                "argent",
+                "bend",
+                "chevron",
+                "gules"
             ]
         }
     ]

@@ -2,51 +2,51 @@
     "date": "2026-07-14",
     "groups": [
         {
-            "id": "easy",
-            "type": "emotional_tone",
+            "id": "2026-07-14-g1",
+            "type": "synonym",
             "difficulty": "easy",
-            "title": "tension that keeps returning",
+            "title": "inspect",
             "words": [
-                "anxiety",
-                "dread",
-                "unease",
-                "foreboding"
-            ]
-        },
-        {
-            "id": "medium",
-            "type": "semantic_field",
-            "difficulty": "medium",
-            "title": "kinds of careful observation",
-            "words": [
+                "scan",
                 "scrutinize",
-                "peruse",
-                "discern",
-                "monitor"
+                "survey",
+                "peruse"
             ]
         },
         {
-            "id": "hard",
+            "id": "2026-07-14-g2",
             "type": "profession_domain",
-            "difficulty": "hard",
-            "title": "work of a legal advocate",
+            "difficulty": "medium",
+            "title": "legal work",
             "words": [
-                "litigate",
-                "brief",
-                "testify",
-                "jurisprudence"
+                "tort",
+                "statute",
+                "affidavit",
+                "injunction"
             ]
         },
         {
-            "id": "very_hard",
-            "type": "etymological_relation",
-            "difficulty": "very_hard",
-            "title": "words sharing a latin root for judging",
+            "id": "2026-07-14-g3",
+            "type": "sound_association",
+            "difficulty": "hard",
+            "title": "harsh sounds",
             "words": [
-                "censor",
-                "censure",
-                "decide",
-                "decree"
+                "clang",
+                "clatter",
+                "rattle",
+                "cacophony"
+            ]
+        },
+        {
+            "id": "2026-07-14-g4",
+            "type": "thematic_association",
+            "difficulty": "very_hard",
+            "title": "alchemy",
+            "words": [
+                "crucible",
+                "retort",
+                "alembic",
+                "elixir"
             ]
         }
     ]

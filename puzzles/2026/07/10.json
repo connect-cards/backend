@@ -2,51 +2,51 @@
     "date": "2026-07-10",
     "groups": [
         {
-            "id": "easy-sound_association",
-            "type": "sound_association",
+            "id": "2026-07-10-g1",
+            "type": "morphological_family",
             "difficulty": "easy",
-            "title": "soft ringing",
+            "title": "see forms",
             "words": [
-                "chime",
-                "tinkle",
-                "buzz",
-                "humming"
+                "vision",
+                "visible",
+                "revise",
+                "evidence"
             ]
         },
         {
-            "id": "medium-profession_domain",
+            "id": "2026-07-10-g2",
             "type": "profession_domain",
             "difficulty": "medium",
-            "title": "law and procedure",
+            "title": "legal language",
             "words": [
-                "litigant",
-                "arbitration",
-                "subpoena",
-                "jurisdiction"
+                "tort",
+                "statute",
+                "plaintiff",
+                "deposition"
             ]
         },
         {
-            "id": "hard-morphological_family",
-            "type": "morphological_family",
+            "id": "2026-07-10-g3",
+            "type": "thematic_association",
             "difficulty": "hard",
-            "title": "words from public",
+            "title": "famine signs",
             "words": [
-                "declare",
-                "declaration",
-                "declared",
-                "declarative"
+                "blight",
+                "dearth",
+                "gaunt",
+                "ration"
             ]
         },
         {
-            "id": "very_hard-synonym",
-            "type": "synonym",
+            "id": "2026-07-10-g4",
+            "type": "etymological_relation",
             "difficulty": "very_hard",
-            "title": "resembling restraint",
+            "title": "heart roots",
             "words": [
-                "reticent",
-                "spare",
-                "laconic",
-                "restrained"
+                "cordial",
+                "accord",
+                "discord",
+                "concord"
             ]
         }
     ]

@@ -301,5 +301,49 @@
                 "Coins jingle in his pocket as he searches for change."
             ]
         }
+    ],
+    "jangle": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a repeated sharp ringing sound",
+            "synonyms": [
+                "clink",
+                "clink (similar)",
+                "ring",
+                "clatter",
+                "tinkle"
+            ],
+            "examples": [
+                "The keys jangled in her pocket.",
+                "I heard a jangle as the chain moved."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a sharp ringing noise, often repeated",
+            "synonyms": [
+                "clatter",
+                "tinkle",
+                "ringing sound"
+            ],
+            "examples": [
+                "There was a jangle of metal from the gate.",
+                "The jangle made her look up."
+            ]
+        }
+    ],
+    "jess": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a strap or leather band, used to attach a falcon to something or to control it in falconry",
+            "synonyms": [
+                "falconry strap",
+                "leather band"
+            ],
+            "examples": [
+                "The trainer fitted the jess to the bird.",
+                "A jess keeps the falcon under control."
+            ]
+        }
     ]
 }

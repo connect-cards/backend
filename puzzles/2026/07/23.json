@@ -2,51 +2,51 @@
     "date": "2026-07-23",
     "groups": [
         {
-            "id": "day3_easy",
-            "type": "easy",
+            "id": "2026-07-23-g1",
+            "type": "informal_register",
             "difficulty": "easy",
-            "title": "words in the same semantic field",
+            "title": "leave quickly",
             "words": [
-                "doctor",
-                "diagnose",
-                "remedy",
-                "clinic"
+                "bolt",
+                "dash",
+                "scram",
+                "skedaddle"
             ]
         },
         {
-            "id": "day3_medium",
-            "type": "medium",
+            "id": "2026-07-23-g2",
+            "type": "emotional_tone",
             "difficulty": "medium",
-            "title": "words that sound alike in english",
+            "title": "calmness",
             "words": [
-                "aisle",
-                "isle",
-                "aisleway",
-                "ileal"
+                "poise",
+                "equanimity",
+                "composure",
+                "aplomb"
             ]
         },
         {
-            "id": "day3_hard",
-            "type": "hard",
+            "id": "2026-07-23-g3",
+            "type": "synonym",
             "difficulty": "hard",
-            "title": "words from a literary register",
+            "title": "keen",
             "words": [
-                "forsake",
-                "therewith",
-                "perchance",
-                "lament"
+                "acute",
+                "incisive",
+                "trenchant",
+                "piercing"
             ]
         },
         {
-            "id": "day3_very_hard",
-            "type": "very_hard",
+            "id": "2026-07-23-g4",
+            "type": "physical_trait",
             "difficulty": "very_hard",
-            "title": "words connected by hidden origins",
+            "title": "patchy color",
             "words": [
-                "astray",
-                "aviary",
-                "arithmetical",
-                "sincerity"
+                "brindled",
+                "dappled",
+                "flecked",
+                "piebald"
             ]
         }
     ]

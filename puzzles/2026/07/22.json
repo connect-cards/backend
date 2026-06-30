@@ -2,51 +2,51 @@
     "date": "2026-07-22",
     "groups": [
         {
-            "id": "day2_easy",
-            "type": "easy",
+            "id": "2026-07-22-g1",
+            "type": "thematic_association",
             "difficulty": "easy",
-            "title": "words with the same emotional tone",
+            "title": "drought",
             "words": [
-                "elated",
-                "uneasy",
-                "wistful",
-                "resentful"
+                "arid",
+                "parched",
+                "barren",
+                "withered"
             ]
         },
         {
-            "id": "day2_medium",
-            "type": "medium",
+            "id": "2026-07-22-g2",
+            "type": "literary_register",
             "difficulty": "medium",
-            "title": "words with an informal register",
+            "title": "fate",
             "words": [
-                "gonna",
-                "kiddo",
-                "cushy",
-                "scribble"
+                "doom",
+                "destiny",
+                "providence",
+                "foreordination"
             ]
         },
         {
-            "id": "day2_hard",
-            "type": "hard",
+            "id": "2026-07-22-g3",
+            "type": "emotional_tone",
             "difficulty": "hard",
-            "title": "words connected by shared etymology",
+            "title": "brooding mood",
             "words": [
-                "vigilant",
-                "contemplate",
-                "inquest",
-                "inventory"
+                "sullen",
+                "morose",
+                "dour",
+                "saturnine"
             ]
         },
         {
-            "id": "day2_very_hard",
-            "type": "very_hard",
+            "id": "2026-07-22-g4",
+            "type": "informal_register",
             "difficulty": "very_hard",
-            "title": "words that commonly appear in shared themes",
+            "title": "nonsense",
             "words": [
-                "pilgrim",
-                "ferry",
-                "covenant",
-                "reckoning"
+                "baloney",
+                "drivel",
+                "twaddle",
+                "claptrap"
             ]
         }
     ]

@@ -328,5 +328,20 @@
                 "The team quarries new ideas in meetings."
             ]
         }
+    ],
+    "quoin": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a wedge-shaped stone or block at the corner of a building, often used for structural support or decoration",
+            "synonyms": [
+                "corner stone",
+                "wedge block",
+                "corner block"
+            ],
+            "examples": [
+                "The house has decorative quoins at each corner.",
+                "Workers repaired a damaged quoin."
+            ]
+        }
     ]
 }

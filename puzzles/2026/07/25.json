@@ -2,51 +2,51 @@
     "date": "2026-07-25",
     "groups": [
         {
-            "id": "d1-easy",
-            "type": "profession_domain",
+            "id": "2026-07-25-g1",
+            "type": "physical_trait",
             "difficulty": "easy",
-            "title": "work in the record room",
+            "title": "hair textures",
             "words": [
-                "archive",
-                "librarian",
-                "catalog",
-                "manuscript"
+                "curly",
+                "wiry",
+                "silky",
+                "coarse"
             ]
         },
         {
-            "id": "d1-medium",
-            "type": "sound_association",
+            "id": "2026-07-25-g2",
+            "type": "literary_register",
             "difficulty": "medium",
-            "title": "words that sound like music tools",
+            "title": "old-time speech",
             "words": [
-                "lyre",
-                "metronome",
-                "cymbal",
-                "drone"
+                "hence",
+                "therein",
+                "whereof",
+                "betwixt"
             ]
         },
         {
-            "id": "d1-hard",
-            "type": "etymological_relation",
+            "id": "2026-07-25-g3",
+            "type": "morphological_family",
             "difficulty": "hard",
-            "title": "words sharing a common root",
+            "title": "hidden under",
             "words": [
-                "chronicle",
-                "anecdote",
-                "calendar",
-                "chronometer"
+                "latent",
+                "latter",
+                "collate",
+                "dilate"
             ]
         },
         {
-            "id": "d1-veryhard",
-            "type": "synonym",
+            "id": "2026-07-25-g4",
+            "type": "thematic_association",
             "difficulty": "very_hard",
-            "title": "words meaning stubborn refusal",
+            "title": "falconry gear",
             "words": [
-                "obdurate",
-                "intransigent",
-                "unyielding",
-                "recalcitrant"
+                "jess",
+                "lure",
+                "mews",
+                "creance"
             ]
         }
     ]

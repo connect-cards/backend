@@ -1534,5 +1534,275 @@
                 "This is our first foray into the market."
             ]
         }
+    ],
+    "fen": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a wetland area with soft ground and plants, usually less open and less salty than a marsh",
+            "synonyms": [
+                "marsh",
+                "bog",
+                "swamp",
+                "wetland"
+            ],
+            "examples": [
+                "Birds nested in the fen.",
+                "The path crossed a fen near the river."
+            ]
+        }
+    ],
+    "fractious": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "tending to be irritable, restless, or likely to cause trouble",
+            "synonyms": [
+                "irritable",
+                "restless",
+                "unruly",
+                "difficult",
+                "volatile"
+            ],
+            "examples": [
+                "The class became fractious when the game started.",
+                "She is usually calm, but the meeting was fractious."
+            ]
+        }
+    ],
+    "fervid": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "full of strong feelings, enthusiasm, or intense emotion",
+            "synonyms": [
+                "passionate",
+                "ardent",
+                "enthusiastic",
+                "intense",
+                "zealous"
+            ],
+            "examples": [
+                "He made a fervid speech about education.",
+                "Her fervid support for the project inspired others."
+            ]
+        }
+    ],
+    "ferment": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to develop or intensify over time, or to cause a chemical change that produces gas in liquids",
+            "synonyms": [
+                "grow",
+                "develop",
+                "build",
+                "brew",
+                "develop (tension)"
+            ],
+            "examples": [
+                "Rumors ferment quickly in small communities.",
+                "Yeast ferments the sugar into alcohol."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a process in which a substance changes due to chemical action, often involving yeast or bacteria",
+            "synonyms": [
+                "brewing",
+                "process of fermentation",
+                "fermentation process"
+            ],
+            "examples": [
+                "The beer requires several days of fermentation.",
+                "Scientists studied the ferment in the lab."
+            ]
+        }
+    ],
+    "flurry": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a sudden short period of busy activity, movement, or wind",
+            "synonyms": [
+                "burst",
+                "spate",
+                "rush",
+                "flap",
+                "spasm (brief)"
+            ],
+            "examples": [
+                "There was a flurry of calls after the announcement.",
+                "A flurry of snow swept across the field."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to move or act quickly and suddenly, often in a short burst",
+            "synonyms": [
+                "rush",
+                "hurry",
+                "sprinkle (light movement)",
+                "swirl",
+                "whirl"
+            ],
+            "examples": [
+                "The kids flurried around the room looking for their coats.",
+                "Leaves flurried across the sidewalk."
+            ]
+        }
+    ],
+    "frost": [
+        {
+            "part_of_speech": "noun",
+            "definition": "ice crystals that form on surfaces when the air is below freezing",
+            "synonyms": [
+                "ice",
+                "ice crystals",
+                "white frost"
+            ],
+            "examples": [
+                "The windows were covered with frost in the morning.",
+                "Frost made the pavement slippery."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to cover something with frost",
+            "synonyms": [
+                "ice over",
+                "coat with frost",
+                "cover with frost"
+            ],
+            "examples": [
+                "The lake froze and the grass frosted overnight.",
+                "Early night temperatures frosted the roof."
+            ]
+        }
+    ],
+    "frizzy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having hair that looks rough, with uneven curls and little control",
+            "synonyms": [
+                "puffy",
+                "wild",
+                "wildly curly",
+                "unruly",
+                "tangled"
+            ],
+            "examples": [
+                "Her frizzy hair needs conditioner.",
+                "The frizzy ends made the style difficult."
+            ]
+        }
+    ],
+    "forme": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a printing plate or type page used to produce printed text",
+            "synonyms": [
+                "printing plate",
+                "type form",
+                "printing block"
+            ],
+            "examples": [
+                "The printer loaded the forme into the press.",
+                "Old books list details about the forme."
+            ]
+        }
+    ],
+    "fount": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a source of something, especially a place where water flows or a person who provides something",
+            "synonyms": [
+                "source",
+                "spring",
+                "origin",
+                "well (of)"
+            ],
+            "examples": [
+                "The town’s fount of clean water is well protected.",
+                "Her writing became a fount of useful ideas."
+            ]
+        }
+    ],
+    "fleeting": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "lasting for a very short time",
+            "synonyms": [
+                "brief",
+                "short-lived",
+                "momentary",
+                "transient",
+                "passing"
+            ],
+            "examples": [
+                "The feeling was fleeting, but it was real.",
+                "We only had a fleeting chance to talk."
+            ]
+        }
+    ],
+    "folio": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a large book or a sheet of paper in bookmaking; also a numbered page in some manuscripts",
+            "synonyms": [
+                "volume (large)",
+                "book (large)",
+                "page (manuscript context)"
+            ],
+            "examples": [
+                "The library kept the folio in a special case.",
+                "He turned to the folio number the teacher provided."
+            ]
+        }
+    ],
+    "foreordination": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the belief that events are planned in advance, especially by god",
+            "synonyms": [
+                "predestination",
+                "prearrangement",
+                "divine plan",
+                "planned in advance"
+            ],
+            "examples": [
+                "The doctrine of foreordination shaped their faith.",
+                "He believed in foreordination and destiny."
+            ]
+        }
+    ],
+    "flecked": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having small spots or pieces of a different color",
+            "synonyms": [
+                "speckled",
+                "spotted",
+                "mottled",
+                "flecked (same)",
+                "stippled (similar)"
+            ],
+            "examples": [
+                "The jacket was flecked with paint.",
+                "Her cheeks were flecked with freckles."
+            ]
+        }
+    ],
+    "furrowed": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having lines or grooves, often on the face from worry or on soil from plowing",
+            "synonyms": [
+                "lined",
+                "wrinkled",
+                "creased",
+                "grooved",
+                "lined with worry"
+            ],
+            "examples": [
+                "His furrowed brow showed concern.",
+                "The furrowed field held young plants."
+            ]
+        }
     ]
 }

@@ -1961,5 +1961,84 @@
                 "This object is iterable, so you can loop through it."
             ]
         }
+    ],
+    "incognito": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "hidden or not showing your identity; known under a false name",
+            "synonyms": [
+                "anonymous",
+                "hidden",
+                "disguised",
+                "in disguise"
+            ],
+            "examples": [
+                "He traveled incognito to avoid attention.",
+                "The actor stayed incognito at the hotel."
+            ]
+        }
+    ],
+    "inundate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to overwhelm with a large amount of something, or to flood with water",
+            "synonyms": [
+                "flood",
+                "overwhelm",
+                "drown",
+                "saturate",
+                "flood with"
+            ],
+            "examples": [
+                "The emails inundated her inbox.",
+                "Heavy rain inundated the streets."
+            ]
+        }
+    ],
+    "isogloss": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a line on a map that separates areas where a language feature changes",
+            "synonyms": [
+                "language boundary",
+                "linguistic boundary"
+            ],
+            "examples": [
+                "Linguists use isoglosses to study regional variation.",
+                "The map shows several isoglosses."
+            ]
+        }
+    ],
+    "incisive": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "showing clear understanding and expressing it in a smart and effective way",
+            "synonyms": [
+                "sharp",
+                "clear",
+                "perspicacious",
+                "penetrating",
+                "effective"
+            ],
+            "examples": [
+                "His questions were incisive.",
+                "The editor’s comments were incisive and helpful."
+            ]
+        }
+    ],
+    "indenture": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a legal agreement, especially historically involving service under contract",
+            "synonyms": [
+                "contract",
+                "agreement (legal)",
+                "employment contract (historical)"
+            ],
+            "examples": [
+                "The indenture required years of service.",
+                "He studied the indenture terms."
+            ]
+        }
     ]
 }

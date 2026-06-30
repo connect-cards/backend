@@ -2,51 +2,51 @@
     "date": "2026-07-28",
     "groups": [
         {
-            "id": "d4-easy",
-            "type": "profession_domain",
+            "id": "2026-07-28-g1",
+            "type": "thematic_association",
             "difficulty": "easy",
-            "title": "roles in making decisions",
+            "title": "ship parts",
             "words": [
-                "consultant",
-                "counsel",
-                "committee",
-                "adjudicate"
+                "keel",
+                "mast",
+                "hull",
+                "stern"
             ]
         },
         {
-            "id": "d4-medium",
-            "type": "literary_register",
-            "difficulty": "medium",
-            "title": "literary words for watching closely",
-            "words": [
-                "regard",
-                "scrutinize",
-                "perceive",
-                "contemplate"
-            ]
-        },
-        {
-            "id": "d4-hard",
+            "id": "2026-07-28-g2",
             "type": "morphological_family",
-            "difficulty": "hard",
-            "title": "word family about fear and dread",
+            "difficulty": "medium",
+            "title": "carry root",
             "words": [
-                "dread",
-                "dreadful",
-                "dreadnought",
-                "fearful"
+                "convey",
+                "vehicle",
+                "vector",
+                "vection"
             ]
         },
         {
-            "id": "d4-veryhard",
-            "type": "emotional_tone",
-            "difficulty": "very_hard",
-            "title": "emotional tone of bitter contempt",
+            "id": "2026-07-28-g3",
+            "type": "physical_trait",
+            "difficulty": "hard",
+            "title": "pale complexion",
             "words": [
-                "scornful",
-                "contemptuous",
-                "saturnine",
-                "acerbic"
+                "sallow",
+                "wan",
+                "livid",
+                "ashy"
+            ]
+        },
+        {
+            "id": "2026-07-28-g4",
+            "type": "etymological_relation",
+            "difficulty": "very_hard",
+            "title": "tooth origin",
+            "words": [
+                "dent",
+                "dandelion",
+                "trident",
+                "indenture"
             ]
         }
     ]

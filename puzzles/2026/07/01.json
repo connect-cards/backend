@@ -2,51 +2,51 @@
     "date": "2026-07-01",
     "groups": [
         {
-            "id": "g1",
-            "type": "profession_domain",
+            "id": "2026-07-01-g1",
+            "type": "informal_register",
             "difficulty": "easy",
-            "title": "street legal services",
+            "title": "casual talk",
             "words": [
-                "attorney",
-                "litigation",
-                "brief",
-                "plaintiff"
+                "banter",
+                "chatter",
+                "gab",
+                "natter"
             ]
         },
         {
-            "id": "g2",
-            "type": "literary_register",
+            "id": "2026-07-01-g2",
+            "type": "physical_trait",
             "difficulty": "medium",
-            "title": "ornate, elevated writing",
+            "title": "thinness",
             "words": [
-                "impeccable",
-                "sonorous",
-                "therein",
-                "profound"
+                "gaunt",
+                "lanky",
+                "rangy",
+                "spare"
             ]
         },
         {
-            "id": "g3",
-            "type": "semantic_field",
+            "id": "2026-07-01-g3",
+            "type": "sound_association",
             "difficulty": "hard",
-            "title": "moral evaluation and blame",
+            "title": "harsh sounds",
             "words": [
-                "reproach",
-                "culpable",
-                "allegation",
-                "absolve"
+                "clang",
+                "grate",
+                "rasp",
+                "scrape"
             ]
         },
         {
-            "id": "g4",
-            "type": "thematic_association",
+            "id": "2026-07-01-g4",
+            "type": "synonym",
             "difficulty": "very_hard",
-            "title": "a kingdom in decline",
+            "title": "brief",
             "words": [
-                "dynasty",
-                "decay",
-                "usurp",
-                "omen"
+                "curt",
+                "laconic",
+                "pithy",
+                "succinct"
             ]
         }
     ]

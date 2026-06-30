@@ -2,51 +2,51 @@
     "date": "2026-07-20",
     "groups": [
         {
-            "id": "easy",
-            "type": "literary_register",
+            "id": "2026-07-20-g1",
+            "type": "informal_register",
             "difficulty": "easy",
-            "title": "words for a sudden danger",
+            "title": "money slang",
             "words": [
-                "peril",
-                "menace",
-                "calamity",
-                "hazard"
+                "bucks",
+                "dough",
+                "loot",
+                "scratch"
             ]
         },
         {
-            "id": "medium",
+            "id": "2026-07-20-g2",
             "type": "sound_association",
             "difficulty": "medium",
-            "title": "words that echo in meaning",
+            "title": "crow sounds",
             "words": [
-                "weigh",
-                "way",
-                "mete",
-                "meet"
+                "caw",
+                "croak",
+                "cackle",
+                "rattle"
             ]
         },
         {
-            "id": "hard",
-            "type": "informal_register",
+            "id": "2026-07-20-g3",
+            "type": "emotional_tone",
             "difficulty": "hard",
-            "title": "words for urging someone on",
+            "title": "gloomy moods",
             "words": [
-                "hype",
-                "spur",
-                "pump",
-                "egg"
+                "bleak",
+                "sullen",
+                "morose",
+                "dour"
             ]
         },
         {
-            "id": "very_hard",
-            "type": "semantic_field",
+            "id": "2026-07-20-g4",
+            "type": "literary_register",
             "difficulty": "very_hard",
-            "title": "words for a difficult journey",
+            "title": "poetic lament",
             "words": [
-                "sojourn",
-                "pilgrimage",
-                "peregrination",
-                "odyssey"
+                "dirge",
+                "threnody",
+                "elegy",
+                "plaint"
             ]
         }
     ]

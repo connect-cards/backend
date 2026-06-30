@@ -2593,5 +2593,464 @@
                 "Historians study the role of dreadnoughts in naval warfare."
             ]
         }
+    ],
+    "dour": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "serious and unfriendly in a way that makes someone seem unhappy or not cheerful",
+            "synonyms": [
+                "grim",
+                "gloomy",
+                "severe",
+                "stern",
+                "unfriendly"
+            ],
+            "examples": [
+                "He gave a dour reply and turned away.",
+                "Her dour expression made the meeting feel tense."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "not lively or not showing much hope or optimism",
+            "synonyms": [
+                "bleak",
+                "grim",
+                "hopeless",
+                "somber",
+                "pessimistic"
+            ],
+            "examples": [
+                "The forecast looked dour for the rest of the week.",
+                "There was a dour mood in the room after the results."
+            ]
+        }
+    ],
+    "dingbat": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a foolish or annoying person, often used as a mild insult",
+            "synonyms": [
+                "idiot",
+                "jerk",
+                "fool",
+                "goof",
+                "moron"
+            ],
+            "examples": [
+                "Don’t be a dingbat, check the schedule first.",
+                "He called me a dingbat for forgetting the keys."
+            ]
+        }
+    ],
+    "defervescence": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a decrease in fever or intense symptoms",
+            "synonyms": [
+                "decline",
+                "cooling down",
+                "recovery phase",
+                "fever reduction"
+            ],
+            "examples": [
+                "Her defervescence began after the treatment started.",
+                "Doctors monitored defervescence over the next two days."
+            ]
+        }
+    ],
+    "dictum": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a formal statement of principle or rule, often used in law or philosophy",
+            "synonyms": [
+                "statement",
+                "proposition",
+                "principle",
+                "rule",
+                "maxim"
+            ],
+            "examples": [
+                "The judge repeated a dictum from an earlier case.",
+                "His speech included several dictums about ethics."
+            ]
+        }
+    ],
+    "dough": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a thick mixture of flour and water, often with yeast or fat, used for baking",
+            "synonyms": [
+                "batter (sometimes)",
+                "baking mixture",
+                "bread mixture"
+            ],
+            "examples": [
+                "Knead the dough until it feels smooth.",
+                "We made pizza dough at home."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "money, especially informal or slang use",
+            "synonyms": [
+                "money",
+                "cash",
+                "funds (informal)"
+            ],
+            "examples": [
+                "I need some dough for rent.",
+                "Do you have the dough for the trip?"
+            ]
+        }
+    ],
+    "diaphanous": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "so light that you can see through it, especially cloth",
+            "synonyms": [
+                "transparent",
+                "sheer",
+                "see-through",
+                "lightweight (see-through)"
+            ],
+            "examples": [
+                "She wore a diaphanous scarf in the heat.",
+                "The light fabric was diaphanous."
+            ]
+        }
+    ],
+    "dearth": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a lack of something, especially something necessary",
+            "synonyms": [
+                "shortage",
+                "scarcity",
+                "lack",
+                "deficiency",
+                "absence"
+            ],
+            "examples": [
+                "There was a dearth of jobs in the region.",
+                "The dearth of rain affected the crops."
+            ]
+        }
+    ],
+    "discord": [
+        {
+            "part_of_speech": "noun",
+            "definition": "lack of agreement or harmony, often causing conflict",
+            "synonyms": [
+                "conflict",
+                "disagreement",
+                "disharmony",
+                "strife",
+                "tension"
+            ],
+            "examples": [
+                "Their discord affected the whole team.",
+                "The music sounded like discord at first."
+            ]
+        }
+    ],
+    "dolor": [
+        {
+            "part_of_speech": "noun",
+            "definition": "deep sadness or suffering, used especially in formal or literary writing",
+            "synonyms": [
+                "sorrow",
+                "pain",
+                "suffering",
+                "grief",
+                "anguish"
+            ],
+            "examples": [
+                "The novel explores dolor after a loss.",
+                "The poem expresses dolor and regret."
+            ]
+        }
+    ],
+    "despond": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to lose hope and feel very discouraged",
+            "synonyms": [
+                "discourage",
+                "dampen",
+                "depress",
+                "despair",
+                "lose heart"
+            ],
+            "examples": [
+                "Don’t despond after one failure.",
+                "She began to despond when the results were delayed."
+            ]
+        }
+    ],
+    "deport": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to force someone to leave a country, usually by government order",
+            "synonyms": [
+                "expel",
+                "remove",
+                "force out",
+                "send away (legal context)"
+            ],
+            "examples": [
+                "The government decided to deport him after the court ruling.",
+                "They were deported to another country."
+            ]
+        }
+    ],
+    "deixis": [
+        {
+            "part_of_speech": "noun",
+            "definition": "language features that show meaning based on context, such as this, that, here, and now",
+            "synonyms": [
+                "context-based reference",
+                "pointing words (contextual)"
+            ],
+            "examples": [
+                "Deixis includes words like here and there.",
+                "The teacher explained deixis using time and place references."
+            ]
+        }
+    ],
+    "depose": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to remove someone from an official position, especially by force",
+            "synonyms": [
+                "remove",
+                "overthrow",
+                "oust",
+                "topple",
+                "dismiss (from position)"
+            ],
+            "examples": [
+                "The rebels tried to depose the president.",
+                "He was deposed after the election dispute."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to give evidence in a formal legal statement",
+            "synonyms": [
+                "testify (formal)",
+                "give testimony",
+                "swear in statement"
+            ],
+            "examples": [
+                "The witness was asked to depose in court.",
+                "They deposed facts under oath."
+            ]
+        }
+    ],
+    "disaster": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a serious event with great damage or loss of life",
+            "synonyms": [
+                "catastrophe",
+                "tragedy",
+                "calamity",
+                "emergency",
+                "calamity event"
+            ],
+            "examples": [
+                "The earthquake was a disaster for the whole region.",
+                "The plan turned into a disaster."
+            ]
+        }
+    ],
+    "dump": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a place where waste is taken and thrown away",
+            "synonyms": [
+                "landfill",
+                "waste site",
+                "refuse dump"
+            ],
+            "examples": [
+                "The city sends trash to a dump outside town.",
+                "They closed the old dump."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to put something down carelessly or in large quantities; also to get rid of something quickly",
+            "synonyms": [
+                "dispose",
+                "discard",
+                "drop",
+                "cast",
+                "dump off"
+            ],
+            "examples": [
+                "He dumped the boxes in the hallway.",
+                "They dumped the trash before the storm."
+            ]
+        }
+    ],
+    "doom": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a serious and inevitable fate, often meaning something terrible will happen",
+            "synonyms": [
+                "fate",
+                "destiny",
+                "end",
+                "downfall",
+                "ruin"
+            ],
+            "examples": [
+                "The rumor suggested doom for the project.",
+                "They feared doom if the plan failed."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to decide that someone or something will be harmed or will fail",
+            "synonyms": [
+                "condemn",
+                "sentence",
+                "bring about",
+                "destine",
+                "lead to ruin"
+            ],
+            "examples": [
+                "Bad decisions can doom a company.",
+                "The evidence seemed to doom his case."
+            ]
+        }
+    ],
+    "dappled": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "marked with spots or patches of different shades of color",
+            "synonyms": [
+                "spotted",
+                "mottled",
+                "speckled",
+                "streaked",
+                "patchy"
+            ],
+            "examples": [
+                "Sunlight made a dappled pattern on the floor.",
+                "The dappled coat looked brown and cream."
+            ]
+        }
+    ],
+    "dilate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to expand or become wider, or to explain something in more detail",
+            "synonyms": [
+                "expand",
+                "expand on",
+                "widen",
+                "grow",
+                "enlarge"
+            ],
+            "examples": [
+                "The pupil dilates in low light.",
+                "He dilated on his reasons for changing the plan."
+            ]
+        }
+    ],
+    "dent": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small hollow or depression made when something is hit",
+            "synonyms": [
+                "dimple",
+                "hollow",
+                "crack (different)",
+                "impression"
+            ],
+            "examples": [
+                "There is a dent in the door.",
+                "He noticed a dent on the car."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a dent by hitting or pressing something",
+            "synonyms": [
+                "dimple",
+                "make a dent in",
+                "press in",
+                "crush (lightly)"
+            ],
+            "examples": [
+                "The skateboard dented the wall.",
+                "Careful, don’t dent the metal."
+            ]
+        }
+    ],
+    "dandelion": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a common plant with yellow flowers that later turn into fluffy seed heads",
+            "synonyms": [
+                "dent-de-lion (same)"
+            ],
+            "examples": [
+                "The yard is full of dandelions.",
+                "She made tea from dandelion leaves."
+            ]
+        }
+    ],
+    "deponent": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who gives testimony in a formal written statement, especially under oath",
+            "synonyms": [
+                "witness (legal)",
+                "person giving testimony",
+                "declarant (contextual)"
+            ],
+            "examples": [
+                "The deponent answered questions under oath.",
+                "The attorney prepared the deponent for the deposition."
+            ]
+        }
+    ],
+    "dolorous": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "full of deep sorrow; very sad",
+            "synonyms": [
+                "sorrowful",
+                "heartbreaking",
+                "grief-stricken",
+                "mournful",
+                "tragic"
+            ],
+            "examples": [
+                "His dolorous expression showed how much he was hurting.",
+                "The song was dolorous and slow."
+            ]
+        }
+    ],
+    "disdainful": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "showing that you think someone or something is not worth respect",
+            "synonyms": [
+                "contemptuous",
+                "scornful",
+                "haughty",
+                "derisive",
+                "disrespectful"
+            ],
+            "examples": [
+                "He was disdainful toward people who disagreed with him.",
+                "A disdainful smile crossed her face."
+            ]
+        }
     ]
 }

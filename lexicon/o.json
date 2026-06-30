@@ -798,5 +798,50 @@
                 "The story is an odyssey of survival."
             ]
         }
+    ],
+    "oily": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "covered with or containing oil, or describing speech that seems dishonest or unpleasantly smooth",
+            "synonyms": [
+                "greasy",
+                "slick",
+                "slickly persuasive",
+                "slippery",
+                "insincere"
+            ],
+            "examples": [
+                "The oily residue wouldn’t come off easily.",
+                "He used an oily tone to persuade her."
+            ]
+        }
+    ],
+    "oblate": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "flattened at the poles and wider at the middle, like a shape of a squashed sphere in geometry",
+            "synonyms": [
+                "flattened",
+                "squashed (informal)"
+            ],
+            "examples": [
+                "The planet is modeled as an oblate spheroid.",
+                "Scientists described the figure as oblate."
+            ]
+        }
+    ],
+    "oft": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "often; used in older or literary english",
+            "synonyms": [
+                "often",
+                "frequently"
+            ],
+            "examples": [
+                "He oft visited the library in his youth.",
+                "The word is used oft in older texts."
+            ]
+        }
     ]
 }

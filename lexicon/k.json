@@ -300,5 +300,52 @@
                 "He’s always kiddoing his brother."
             ]
         }
+    ],
+    "kyphotic": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having or relating to an excessive outward curve of the upper spine",
+            "synonyms": [
+                "hunched",
+                "rounded-shouldered",
+                "spinally curved"
+            ],
+            "examples": [
+                "The doctor noted a kyphotic posture.",
+                "He exercises to reduce kyphotic curvature."
+            ]
+        }
+    ],
+    "keel": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the main structural beam along the bottom of a boat or ship",
+            "synonyms": [
+                "bottom beam",
+                "ship’s backbone",
+                "longitudinal beam"
+            ],
+            "examples": [
+                "The keel helps the boat stay steady.",
+                "Shipbuilders checked the keel for damage."
+            ]
+        }
+    ],
+    "kvetch": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to complain repeatedly, often in an annoying way",
+            "synonyms": [
+                "complain",
+                "moan",
+                "whine",
+                "grumble",
+                "bicker (not exact)"
+            ],
+            "examples": [
+                "Stop kvetching and focus on finding a solution.",
+                "He was kvetching about the weather all day."
+            ]
+        }
     ]
 }

@@ -2,51 +2,51 @@
     "date": "2026-07-17",
     "groups": [
         {
-            "id": "easy",
-            "type": "sound_association",
-            "difficulty": "easy",
-            "title": "words that sound alike",
-            "words": [
-                "cairn",
-                "cerns",
-                "kernel",
-                "quirnel"
-            ]
-        },
-        {
-            "id": "medium",
+            "id": "2026-07-17-g1",
             "type": "physical_trait",
-            "difficulty": "medium",
-            "title": "words describing appearance",
+            "difficulty": "easy",
+            "title": "hair textures",
             "words": [
-                "ashen",
-                "slender",
-                "callused",
-                "hirsute"
+                "curly",
+                "frizzy",
+                "wavy",
+                "coarse"
             ]
         },
         {
-            "id": "hard",
+            "id": "2026-07-17-g2",
             "type": "synonym",
-            "difficulty": "hard",
-            "title": "words meaning quickly",
+            "difficulty": "medium",
+            "title": "insincere",
             "words": [
-                "rapid",
-                "promptly",
-                "expeditious",
-                "swiftly"
+                "glib",
+                "oily",
+                "unctuous",
+                "smarmy"
             ]
         },
         {
-            "id": "very_hard",
-            "type": "semantic_field",
-            "difficulty": "very_hard",
-            "title": "words for coastal weather",
+            "id": "2026-07-17-g3",
+            "type": "sound_association",
+            "difficulty": "hard",
+            "title": "bell sounds",
             "words": [
-                "monsoon",
-                "squall",
-                "tidepool",
-                "seaweed"
+                "chime",
+                "clang",
+                "peal",
+                "toll"
+            ]
+        },
+        {
+            "id": "2026-07-17-g4",
+            "type": "profession_domain",
+            "difficulty": "very_hard",
+            "title": "printing",
+            "words": [
+                "forme",
+                "quoin",
+                "galley",
+                "fount"
             ]
         }
     ]

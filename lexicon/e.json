@@ -1541,5 +1541,164 @@
                 "They egged the politician during the event."
             ]
         }
+    ],
+    "ebb": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a decrease, especially in strength, activity, or movement",
+            "synonyms": [
+                "decline",
+                "reduction",
+                "diminution",
+                "falloff",
+                "retreat"
+            ],
+            "examples": [
+                "There was a noticeable ebb in customer traffic after the reopening.",
+                "The first signs of ebb appeared in the company’s sales."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to decrease gradually, especially in strength or movement",
+            "synonyms": [
+                "decrease",
+                "decline",
+                "diminish",
+                "fall",
+                "recede"
+            ],
+            "examples": [
+                "Interest ebbed after the news cycle ended.",
+                "The tide began to ebb."
+            ]
+        }
+    ],
+    "effervesce": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to produce bubbles and become lively, or to show excitement and energy",
+            "synonyms": [
+                "bubble",
+                "sparkle",
+                "foam",
+                "seethe (in excitement)",
+                "flare up"
+            ],
+            "examples": [
+                "The soda effervesces when you open the bottle.",
+                "His laugh seemed to effervesce with energy."
+            ]
+        }
+    ],
+    "euphoria": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a feeling of great happiness or excitement",
+            "synonyms": [
+                "joy",
+                "elation",
+                "excitement",
+                "thrill",
+                "high"
+            ],
+            "examples": [
+                "After the win, she felt euphoria.",
+                "The crowd was in euphoria for hours."
+            ]
+        }
+    ],
+    "engorge": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to fill or swell with liquid or food, often making something larger and tighter",
+            "synonyms": [
+                "fill",
+                "swollen (with)",
+                "flood (with)",
+                "inflate (slightly)"
+            ],
+            "examples": [
+                "The artery can engorge with blood.",
+                "The leaves engorged after heavy rain."
+            ]
+        }
+    ],
+    "engender": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to cause something to begin or exist, often a feeling or situation",
+            "synonyms": [
+                "cause",
+                "bring about",
+                "create",
+                "produce",
+                "lead to"
+            ],
+            "examples": [
+                "The speech engendered strong support.",
+                "This policy can engender confusion."
+            ]
+        }
+    ],
+    "elixir": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a substance believed to have special healing or magical properties, or a flavored liquid used as a medicine",
+            "synonyms": [
+                "medicine",
+                "tonic (real-life context)",
+                "remedy",
+                "healing drink"
+            ],
+            "examples": [
+                "The book described a powerful elixir for health.",
+                "The pharmacist mixed a vitamin elixir."
+            ]
+        }
+    ],
+    "eddy": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small circular movement in a fluid, especially water, that flows opposite to the main current",
+            "synonyms": [
+                "whirl",
+                "swirl",
+                "vortex (small)",
+                "turn"
+            ],
+            "examples": [
+                "An eddy formed behind the rock.",
+                "The fisherman waited for the eddy to carry the boat."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to move in circular currents, often against the main flow",
+            "synonyms": [
+                "swirl",
+                "whirl",
+                "circulate",
+                "turn"
+            ],
+            "examples": [
+                "Leaves eddied around the drain.",
+                "The water eddied near the pier."
+            ]
+        }
+    ],
+    "ere": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "before; used in older english",
+            "synonyms": [
+                "before",
+                "earlier (contextual)"
+            ],
+            "examples": [
+                "Ere you go, please read the instructions.",
+                "He left ere the meeting began."
+            ]
+        }
     ]
 }

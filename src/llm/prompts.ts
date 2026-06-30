@@ -1,5 +1,6 @@
-export const generationGPTModel = "gpt-5.4-nano";
-export const validationGPTModel = "gpt-5.4-mini";
+export const generationLexiconGPTModel = "gpt-5.4-nano";
+export const generationPuzzleGPTModel = "gpt-5.4";
+export const validationPuzzleGPTModel = "gpt-5.4-mini";
 
 const pickTypes = (types: string[]) => types.sort(() => 0.5 - Math.random()).slice(0, 4);
 
@@ -44,49 +45,47 @@ Return ONLY JSON.
 `
 
 export const puzzlesPrompt = (types: string[], dates: string[]) => `
-You are an expert ESL puzzle designer. Generate ${dates.length} DIFFERENT Connections-style puzzles for ${dates.length} days -- each day has ONE DISTINCT puzzle.
+You are an expert ESL puzzle designer. Generate ${dates.length} DIFFERENT Connections-style puzzles (ONE puzzle per date).
 
-OBJECTIVE: Create a challenging word-grouping puzzle with:
-- sophisticated vocabulary
-- subtle semantic relationships
-- deliberate misdirection
-- multiple plausible false groupings
-- but ONLY ONE fully correct solution
+GOAL: 
+- Create challenging word-grouping puzzles with sophisticated vocabulary, subtle relationships, misleading overlaps, and EXACTLY ONE valid solution.
 
-STRICT REQUIREMENTS:
-- EXACTLY 16 UNIQUE words
-- EXACTLY 4 groups corresponding to 4 DIFFICULTY LEVELS (easy, medium, hard, very_hard)
-- EACH group has EXACTLY 4 words
-- EACH difficulty level appears ONCE
-- EXACTLY ONE valid grouping solution
-- NO word overlaps between groups
-- NO proper nouns
-- NO hyphenated phrases
-- SINGLE-WORD entries only
-- Puzzles MUST be different and words across puzzles SHOULD NOT repeat
+OUTPUT RULES:
+- Return ONLY JSON
+- Generate exactly ${dates.length} puzzles
+- Words should rarely repeat across puzzles
 
-DIFFICULTY DISTRIBUTION:
+PUZZLE RULES (each puzzle):
+- EXACTLY 16 UNIQUE English words
+- Exactly 4 groups x 4 words
+- One group per difficulty: easy, medium, hard, very_hard
+- Only ONE correct grouping
+- No word overlap between groups
+- No proper nouns
+- No hyphenated phrases
+- Single-word entries only
+
+DIFFICULTY:
 - easy: accessible but not trivial
-- medium: includes informal, literary, or less common vocabulary
-- hard: uncommon GRE/IELTS vocabulary and near-synonyms preferred over exact synonyms
-- very_hard: obscure, archaic, literary, technical, or rarely used words but should still be valid English vocabulary. Avoid super long words if possible.
+- medium: literary, informal, or less common vocabulary
+- hard: uncommon GRE/IELTS-level words; prefer nuanced relationships over exact synonyms
+- very_hard: obscure, archaic, literary, technical, or rare vocabulary (avoid excessively long words)
 
-Prefer these difficulty boosters: archaic words, literary vocabulary, words with multiple meanings, misleading overlaps between categories, rare morphological relatives, thematic ambiguity
+TARGET LEVEL:
+- Overall vocabulary: CEFR C1-C2 / IELTS 7-9 / GRE verbal
+- Include at least 1 word uncommon to average native speakers
+- Prefer ambiguity, multiple meanings, rare morphological relatives, and misleading cross-group similarities
 
-TARGER VOCABULARY LEVEL:
-- Suitable for IELTS band 7-9, GRE verbal, CEFR level C1-C2
-- At least 2 words should be uncommon for average native speakers
-
-PUZZLES' DATES AND SUGGESTED GROUP TYPES for EACH DAY:
+DATES AND SUGGESTED GROUP TYPES:
 ${dates.map((date: string) => `- Date ${date}: ${pickTypes(types).join(", ")}`).join("\n")}
 
-TITLE RULES:
-- The title is shown to players.
-- The title must be 1-6 words long uisng plain English
-- The title must describe the category, not the puzzle difficulty or type
-- For every group, imagine the sentence: "These words belong together because they are _____." The title should complete that sentence naturally.
-
-Return ONLY JSON.
+GROUP TITLE RULES (IMPORTANT): Each group needs a short player-facing category title. Requirements:
+- Must be 1-4 words long using plain English
+- Describe what the words have in common
+- Prefer CATEGORY LABELS (noun phrases) than sentences
+- Complete this pattern naturally: "These words are _____"
+- Prefer the shortest title that stays specific
+- Avoid phrases like: "words for", "terms meaning", "ways of", or difficulty labels
 `
 
 export const repairPrompt = (json: string) => `

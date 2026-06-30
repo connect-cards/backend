@@ -2,51 +2,51 @@
     "date": "2026-07-26",
     "groups": [
         {
-            "id": "d2-easy",
-            "type": "synonym",
-            "difficulty": "easy",
-            "title": "words for a fast escape",
-            "words": [
-                "flee",
-                "bolt",
-                "scatter",
-                "vanish"
-            ]
-        },
-        {
-            "id": "d2-medium",
-            "type": "etymological_relation",
-            "difficulty": "medium",
-            "title": "words with a shared origin in witness",
-            "words": [
-                "testify",
-                "attest",
-                "evidence",
-                "witness"
-            ]
-        },
-        {
-            "id": "d2-hard",
-            "type": "morphological_family",
-            "difficulty": "hard",
-            "title": "family of words about giving permission",
-            "words": [
-                "authorize",
-                "authorization",
-                "licensed",
-                "permit"
-            ]
-        },
-        {
-            "id": "d2-veryhard",
+            "id": "2026-07-26-g1",
             "type": "profession_domain",
-            "difficulty": "very_hard",
-            "title": "careers tied to interpreting law",
+            "difficulty": "easy",
+            "title": "legal work",
             "words": [
-                "jurisprudence",
-                "litigant",
-                "arbitrator",
-                "barrister"
+                "statute",
+                "tort",
+                "depose",
+                "affidavit"
+            ]
+        },
+        {
+            "id": "2026-07-26-g2",
+            "type": "thematic_association",
+            "difficulty": "medium",
+            "title": "volcanic matter",
+            "words": [
+                "magma",
+                "ash",
+                "cinder",
+                "tephra"
+            ]
+        },
+        {
+            "id": "2026-07-26-g3",
+            "type": "synonym",
+            "difficulty": "hard",
+            "title": "stingy",
+            "words": [
+                "miserly",
+                "penurious",
+                "niggardly",
+                "closefisted"
+            ]
+        },
+        {
+            "id": "2026-07-26-g4",
+            "type": "sound_association",
+            "difficulty": "very_hard",
+            "title": "bell sounds",
+            "words": [
+                "clang",
+                "peal",
+                "tocsin",
+                "tintinnabulation"
             ]
         }
     ]

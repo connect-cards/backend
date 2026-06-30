@@ -2,51 +2,51 @@
     "date": "2026-07-18",
     "groups": [
         {
-            "id": "easy",
-            "type": "morphological_family",
-            "difficulty": "easy",
-            "title": "words from the same root",
-            "words": [
-                "dictate",
-                "editorial",
-                "dictation",
-                "dictionary"
-            ]
-        },
-        {
-            "id": "medium",
-            "type": "synonym",
-            "difficulty": "medium",
-            "title": "words meaning suspicious",
-            "words": [
-                "dubious",
-                "skeptical",
-                "wary",
-                "equivocal"
-            ]
-        },
-        {
-            "id": "hard",
-            "type": "thematic_association",
-            "difficulty": "hard",
-            "title": "words from a legal dispute",
-            "words": [
-                "summons",
-                "litigation",
-                "affidavit",
-                "appeal"
-            ]
-        },
-        {
-            "id": "very_hard",
+            "id": "2026-07-18-g1",
             "type": "semantic_field",
-            "difficulty": "very_hard",
-            "title": "words from astronomy and navigation",
+            "difficulty": "easy",
+            "title": "wetlands",
             "words": [
-                "ephemeris",
-                "zenith",
-                "parallax",
-                "almanac"
+                "bog",
+                "fen",
+                "marsh",
+                "swamp"
+            ]
+        },
+        {
+            "id": "2026-07-18-g2",
+            "type": "physical_trait",
+            "difficulty": "medium",
+            "title": "thinness",
+            "words": [
+                "gaunt",
+                "lanky",
+                "rangy",
+                "spare"
+            ]
+        },
+        {
+            "id": "2026-07-18-g3",
+            "type": "synonym",
+            "difficulty": "hard",
+            "title": "briefly visible",
+            "words": [
+                "fleeting",
+                "momentary",
+                "evanescent",
+                "ephemeral"
+            ]
+        },
+        {
+            "id": "2026-07-18-g4",
+            "type": "etymological_relation",
+            "difficulty": "very_hard",
+            "title": "water roots",
+            "words": [
+                "aquatic",
+                "aqueous",
+                "aquifer",
+                "aquiline"
             ]
         }
     ]

@@ -525,5 +525,71 @@
                 "She used music notation to write the melody."
             ]
         }
+    ],
+    "natter": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to talk in a silly or continuous way, often about unimportant things",
+            "synonyms": [
+                "chatter",
+                "prattle",
+                "babble",
+                "jabber",
+                "ramble"
+            ],
+            "examples": [
+                "Stop nattering and listen for a minute.",
+                "They nattered about movies all evening."
+            ]
+        }
+    ],
+    "neigh": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make the sound that a horse makes",
+            "synonyms": [
+                "whinny",
+                "bray (some)",
+                "call (horse)"
+            ],
+            "examples": [
+                "The horse neighed when the rider approached.",
+                "I heard a neigh in the stable."
+            ]
+        }
+    ],
+    "nab": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to catch someone or get something quickly, often by surprise",
+            "synonyms": [
+                "catch",
+                "snatch",
+                "grab",
+                "seize",
+                "bag (informal)"
+            ],
+            "examples": [
+                "The police nabbed the suspect near the station.",
+                "She nabbed a good deal at the sale."
+            ]
+        }
+    ],
+    "niggardly": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "unwilling to give or spend money in a way that seems unfairly small",
+            "synonyms": [
+                "stingy",
+                "miserly",
+                "parsimonious",
+                "mean",
+                "economical (too much)"
+            ],
+            "examples": [
+                "She was called niggardly for refusing extra help.",
+                "They offered a niggardly amount of funding."
+            ]
+        }
     ]
 }

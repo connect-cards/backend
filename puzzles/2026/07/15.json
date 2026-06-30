@@ -2,51 +2,51 @@
     "date": "2026-07-15",
     "groups": [
         {
-            "id": "easy",
-            "type": "profession_domain",
+            "id": "2026-07-15-g1",
+            "type": "synonym",
             "difficulty": "easy",
-            "title": "tools and tasks of editing",
+            "title": "praise",
             "words": [
-                "rewrite",
-                "proof",
-                "manuscript",
-                "archive"
+                "laud",
+                "extol",
+                "acclaim",
+                "commend"
             ]
         },
         {
-            "id": "medium",
-            "type": "etymological_relation",
+            "id": "2026-07-15-g2",
+            "type": "morphological_family",
             "difficulty": "medium",
-            "title": "family of words meaning to summon",
+            "title": "carry root",
             "words": [
-                "invite",
-                "implore",
-                "solicit",
-                "convoke"
+                "portage",
+                "deport",
+                "portfolio",
+                "importune"
             ]
         },
         {
-            "id": "hard",
-            "type": "thematic_association",
+            "id": "2026-07-15-g3",
+            "type": "profession_domain",
             "difficulty": "hard",
-            "title": "related to choosing a direction",
+            "title": "linguistics",
             "words": [
-                "endorse",
-                "navigate",
-                "opt",
-                "steer"
+                "morpheme",
+                "allophone",
+                "deixis",
+                "isogloss"
             ]
         },
         {
-            "id": "very_hard",
-            "type": "semantic_field",
+            "id": "2026-07-15-g4",
+            "type": "informal_register",
             "difficulty": "very_hard",
-            "title": "subtle forms of resistance",
+            "title": "petty complaints",
             "words": [
-                "equivocate",
-                "obviate",
-                "stall",
-                "evasion"
+                "beef",
+                "gripe",
+                "kvetch",
+                "whinge"
             ]
         }
     ]

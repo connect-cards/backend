@@ -2,51 +2,51 @@
     "date": "2026-07-31",
     "groups": [
         {
-            "id": "day3-easy",
-            "type": "literary_register",
+            "id": "2026-07-31-g1",
+            "type": "physical_trait",
             "difficulty": "easy",
-            "title": "serious narrative tone",
+            "title": "thin",
             "words": [
-                "solemn",
-                "prophecy",
-                "interdict",
-                "hallowed"
+                "gaunt",
+                "lanky",
+                "spare",
+                "rangy"
             ]
         },
         {
-            "id": "day3-medium",
-            "type": "synonym",
+            "id": "2026-07-31-g2",
+            "type": "literary_register",
             "difficulty": "medium",
-            "title": "words meaning watch closely",
+            "title": "archaic pronouns",
             "words": [
-                "observe",
-                "monitor",
-                "scrutinize",
-                "survey"
+                "thou",
+                "thee",
+                "thy",
+                "thine"
             ]
         },
         {
-            "id": "day3-hard",
-            "type": "profession_domain",
+            "id": "2026-07-31-g3",
+            "type": "thematic_association",
             "difficulty": "hard",
-            "title": "work of librarians",
+            "title": "sea voyage",
             "words": [
-                "catalog",
-                "index",
-                "volume",
-                "circulate"
+                "bilge",
+                "keel",
+                "astern",
+                "starboard"
             ]
         },
         {
-            "id": "day3-very_hard",
-            "type": "morphological_family",
+            "id": "2026-07-31-g4",
+            "type": "synonym",
             "difficulty": "very_hard",
-            "title": "same root, different forms",
+            "title": "talkative",
             "words": [
-                "iterate",
-                "iteration",
-                "iterative",
-                "iterable"
+                "garrulous",
+                "loquacious",
+                "voluble",
+                "effusive"
             ]
         }
     ]

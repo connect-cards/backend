@@ -2,51 +2,51 @@
     "date": "2026-07-11",
     "groups": [
         {
-            "id": "easy-thematic_association",
-            "type": "thematic_association",
+            "id": "2026-07-11-g1",
+            "type": "synonym",
             "difficulty": "easy",
-            "title": "weather and water",
+            "title": "anger",
             "words": [
-                "sprinkle",
-                "drizzle",
-                "torrent",
-                "floodplain"
+                "ire",
+                "wrath",
+                "resentment",
+                "indignation"
             ]
         },
         {
-            "id": "medium-profession_domain",
-            "type": "profession_domain",
-            "difficulty": "medium",
-            "title": "skills of a sculptor",
-            "words": [
-                "chiseling",
-                "masonry",
-                "molding",
-                "bas-relief"
-            ]
-        },
-        {
-            "id": "hard-physical_trait",
+            "id": "2026-07-11-g2",
             "type": "physical_trait",
-            "difficulty": "hard",
-            "title": "features of the face",
+            "difficulty": "medium",
+            "title": "bony",
             "words": [
-                "freckled",
-                "scarred",
-                "pallid",
-                "slender"
+                "gaunt",
+                "cadaverous",
+                "haggard",
+                "skeletal"
             ]
         },
         {
-            "id": "very_hard-semantic_field",
+            "id": "2026-07-11-g3",
+            "type": "literary_register",
+            "difficulty": "hard",
+            "title": "old pronouns",
+            "words": [
+                "thou",
+                "thee",
+                "thy",
+                "thine"
+            ]
+        },
+        {
+            "id": "2026-07-11-g4",
             "type": "semantic_field",
             "difficulty": "very_hard",
-            "title": "old letters and notes",
+            "title": "flooding",
             "words": [
-                "epistolary",
-                "correspondence",
-                "manuscript",
-                "codicil"
+                "inundate",
+                "deluge",
+                "spate",
+                "engorge"
             ]
         }
     ]

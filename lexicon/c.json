@@ -4833,5 +4833,680 @@
                 "They circulated the documents among the team."
             ]
         }
+    ],
+    "clerk": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who works in an office or shop, doing administrative or customer service work",
+            "synonyms": [
+                "assistant",
+                "sales assistant",
+                "office worker",
+                "administrative clerk"
+            ],
+            "examples": [
+                "The clerk helped me find the right form.",
+                "She works as a shop clerk at the local grocery store."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a person employed to keep records or carry out routine business tasks",
+            "synonyms": [
+                "record-keeper",
+                "bookkeeper",
+                "administrative worker",
+                "file clerk"
+            ],
+            "examples": [
+                "The clerk updated the company records every week.",
+                "He was hired as a clerk to handle paperwork."
+            ]
+        }
+    ],
+    "crookback": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person with a bent or curved back",
+            "synonyms": [
+                "hunchback",
+                "bent-backed person",
+                "stoop-backed person"
+            ],
+            "examples": [
+                "The story described a lonely crookback living in an old house.",
+                "In the photo, the crookback looked uncomfortable."
+            ]
+        }
+    ],
+    "carnage": [
+        {
+            "part_of_speech": "noun",
+            "definition": "great destruction and many deaths, especially in war or violence",
+            "synonyms": [
+                "slaughter",
+                "massacre",
+                "destruction",
+                "bloodshed",
+                "atrocity"
+            ],
+            "examples": [
+                "The battle left terrible carnage behind.",
+                "The report described the carnage after the attack."
+            ]
+        }
+    ],
+    "carriage": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a vehicle for carrying people or goods, especially a covered rail vehicle or an old horse-drawn vehicle",
+            "synonyms": [
+                "cart",
+                "wagon",
+                "railcar",
+                "coach",
+                "cab"
+            ],
+            "examples": [
+                "A carriage waited at the platform for passengers.",
+                "They restored an old carriage from the 1800s."
+            ]
+        }
+    ],
+    "cart": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small vehicle with wheels that is pushed or pulled to carry things",
+            "synonyms": [
+                "wagon",
+                "trolley",
+                "dray",
+                "handcart",
+                "truck (small)"
+            ],
+            "examples": [
+                "The shop filled the cart with groceries.",
+                "We used a cart to move boxes to the basement."
+            ]
+        }
+    ],
+    "caret": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a mark (^) used in writing or programming to show an insertion point or missing character",
+            "synonyms": [
+                "insert symbol",
+                "^ mark",
+                "control mark"
+            ],
+            "examples": [
+                "The editor displayed a caret at the cursor location.",
+                "In the code, the caret indicates an error position."
+            ]
+        }
+    ],
+    "coarse": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "rough in texture or not finely made, or using rude or offensive language",
+            "synonyms": [
+                "rough",
+                "harsh",
+                "uncouth",
+                "vulgar",
+                "crude"
+            ],
+            "examples": [
+                "This soap is too coarse for my skin.",
+                "He used coarse jokes at dinner."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a coarse or rough part, often in relation to fabric or materials",
+            "synonyms": [
+                "roughness",
+                "coarseness"
+            ],
+            "examples": [
+                "The coarse was uncomfortable against the cloth."
+            ]
+        }
+    ],
+    "clank": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a loud hard sound when metal hits metal",
+            "synonyms": [
+                "clang",
+                "clatter",
+                "ring",
+                "rattle",
+                "bang"
+            ],
+            "examples": [
+                "The tools clanked in the drawer.",
+                "Bicycles clanked as they rolled past."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a loud hard metallic sound made when objects hit together",
+            "synonyms": [
+                "clang",
+                "clatter",
+                "clanging sound",
+                "rattle"
+            ],
+            "examples": [
+                "I heard a clank from the garage.",
+                "There was a clank when the door closed."
+            ]
+        }
+    ],
+    "clash": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to hit or come together with a loud sound, or to disagree strongly",
+            "synonyms": [
+                "collide",
+                "strike",
+                "hit",
+                "conflict",
+                "disagree"
+            ],
+            "examples": [
+                "Two cars clashed at the intersection.",
+                "Their opinions clash on many issues."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a disagreement or a fight between groups, or a loud collision sound",
+            "synonyms": [
+                "conflict",
+                "collision",
+                "fight",
+                "confrontation",
+                "dispute"
+            ],
+            "examples": [
+                "There was a clash between the two teams.",
+                "The clash of metal woke everyone up."
+            ]
+        }
+    ],
+    "chevron": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a v-shaped mark, used in clothing designs or on signs and badges",
+            "synonyms": [
+                "v-shape",
+                "v sign",
+                "stripe (v-shaped)"
+            ],
+            "examples": [
+                "The uniform had three chevrons on the sleeve.",
+                "A chevron pattern covered the bag."
+            ]
+        }
+    ],
+    "character": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a particular quality or feature of a person, place, or thing",
+            "synonyms": [
+                "quality",
+                "trait",
+                "feature",
+                "nature",
+                "personality"
+            ],
+            "examples": [
+                "Kindness is an important character trait.",
+                "The town has a friendly character."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a letter, number, or symbol used in writing",
+            "synonyms": [
+                "letter",
+                "symbol",
+                "sign",
+                "glyph"
+            ],
+            "examples": [
+                "Type only one character at a time.",
+                "The character does not appear on this keyboard."
+            ]
+        }
+    ],
+    "cognate": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a word in another language that has the same origin as a word in your language",
+            "synonyms": [
+                "related word",
+                "linguistic relative"
+            ],
+            "examples": [
+                "English and Spanish have many cognates.",
+                "The two terms are cognates in different languages."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "having the same origin or related origins",
+            "synonyms": [
+                "related",
+                "origin-related",
+                "genetically related (linguistics)"
+            ],
+            "examples": [
+                "These words are cognate forms.",
+                "The cognate terms look similar in spelling."
+            ]
+        }
+    ],
+    "chitchat": [
+        {
+            "part_of_speech": "noun",
+            "definition": "casual friendly talk about unimportant things",
+            "synonyms": [
+                "small talk",
+                "chat",
+                "idle talk",
+                "gossip (not always)"
+            ],
+            "examples": [
+                "We had some chitchat before the meeting.",
+                "No more chitchat, please focus on the task."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to talk casually in a friendly way about unimportant things",
+            "synonyms": [
+                "chat",
+                "make small talk",
+                "natter",
+                "talk",
+                "converse (casual)"
+            ],
+            "examples": [
+                "We chitchatted in the hallway.",
+                "They were chitchatting about weekend plans."
+            ]
+        }
+    ],
+    "concord": [
+        {
+            "part_of_speech": "noun",
+            "definition": "agreement or harmony between people, groups, or ideas",
+            "synonyms": [
+                "agreement",
+                "harmony",
+                "accord",
+                "unity",
+                "accordance"
+            ],
+            "examples": [
+                "They worked in concord to finish the project.",
+                "The treaty created concord between the sides."
+            ]
+        }
+    ],
+    "cadaverous": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having a sickly, extremely pale appearance, often like a dead body",
+            "synonyms": [
+                "gaunt",
+                "sallow",
+                "pallid",
+                "haggard",
+                "deathly pale"
+            ],
+            "examples": [
+                "After the illness, she looked cadaverous.",
+                "His cadaverous face worried everyone."
+            ]
+        }
+    ],
+    "cleat": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a strong fitting on a boat or wall where rope is fastened",
+            "synonyms": [
+                "bollard (similar function)",
+                "tie-down point",
+                "horn (nautical)"
+            ],
+            "examples": [
+                "Loop the rope around the cleat.",
+                "The boat has cleats on both sides."
+            ]
+        }
+    ],
+    "coast": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the land area next to the sea, including beaches and cliffs",
+            "synonyms": [
+                "shoreline",
+                "seashore",
+                "seaboard (regional)",
+                "coastline"
+            ],
+            "examples": [
+                "We drove along the coast all day.",
+                "The storms battered the coast."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to move without using power, usually by letting a vehicle slow down naturally",
+            "synonyms": [
+                "glide",
+                "drift",
+                "roll",
+                "let slow"
+            ],
+            "examples": [
+                "After turning off the engine, the car coasted to a stop.",
+                "She coasted downhill instead of braking."
+            ]
+        }
+    ],
+    "congenial": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "pleasant, friendly, and suitable for you",
+            "synonyms": [
+                "friendly",
+                "agreeable",
+                "harmonious",
+                "compatible",
+                "pleasant"
+            ],
+            "examples": [
+                "We had a congenial conversation.",
+                "The job environment is congenial and supportive."
+            ]
+        }
+    ],
+    "cacophony": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a harsh mixture of sounds that is unpleasant to hear",
+            "synonyms": [
+                "noise",
+                "uproar",
+                "discord",
+                "din",
+                "clatter"
+            ],
+            "examples": [
+                "The street was a cacophony of horns and shouting.",
+                "Their plan failed under a cacophony of criticism."
+            ]
+        }
+    ],
+    "crucible": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a container made to withstand very high temperatures, used in experiments or metalwork; also a situation that tests people seriously",
+            "synonyms": [
+                "furnace vessel",
+                "test",
+                "trial",
+                "trial ground",
+                "container (lab)"
+            ],
+            "examples": [
+                "Heat the sample in a crucible.",
+                "The new job became a crucible for her skills."
+            ]
+        }
+    ],
+    "curly": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having curls or waves in the hair or forming curves",
+            "synonyms": [
+                "wavy",
+                "ringletted",
+                "coiled",
+                "ringlet (hair-related)",
+                "curved (general)"
+            ],
+            "examples": [
+                "She has curly hair.",
+                "The rope is curly and hard to straighten."
+            ]
+        }
+    ],
+    "croak": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a rough low sound, especially the sound made by frogs; also to speak in a rough way",
+            "synonyms": [
+                "rasp",
+                "cackle (not exact)",
+                "croak out",
+                "grumble (voice)"
+            ],
+            "examples": [
+                "The frog croaked from the pond.",
+                "My voice croaked when I tried to sing."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a rough low sound like a frog’s call",
+            "synonyms": [
+                "croaking sound",
+                "rasp",
+                "quack (not exact)"
+            ],
+            "examples": [
+                "There was a croak in the dark.",
+                "I heard a croak from the trees."
+            ]
+        }
+    ],
+    "cackle": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to laugh in a loud, unpleasant way",
+            "synonyms": [
+                "cough-laugh (close)",
+                "laugh loudly",
+                "cackler (no)",
+                "guffaw (different tone)",
+                "gobble (no)"
+            ],
+            "examples": [
+                "She cackled when she heard the joke.",
+                "Don’t cackle in class, it’s distracting."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a loud unpleasant laugh",
+            "synonyms": [
+                "laugh",
+                "cackle sound"
+            ],
+            "examples": [
+                "Her cackle echoed down the hall.",
+                "There was a cackle behind us."
+            ]
+        }
+    ],
+    "claptrap": [
+        {
+            "part_of_speech": "noun",
+            "definition": "cheap tricks or misleading statements meant to attract attention",
+            "synonyms": [
+                "gimmick",
+                "hype",
+                "propaganda (context)",
+                "nonsense",
+                "sales talk"
+            ],
+            "examples": [
+                "The speech was clapped with claps and claptrap.",
+                "They criticized the product for being clapping claptrap."
+            ]
+        }
+    ],
+    "convey": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to carry or transport something from one place to another",
+            "synonyms": [
+                "transport",
+                "carry",
+                "send",
+                "transfer",
+                "deliver"
+            ],
+            "examples": [
+                "The truck will convey the boxes to the warehouse.",
+                "A good map conveys information clearly."
+            ]
+        }
+    ],
+    "concision": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the quality of using fewer words while still being clear",
+            "synonyms": [
+                "brevity",
+                "conciseness",
+                "succinctness",
+                "shortness"
+            ],
+            "examples": [
+                "The editor praised concision in the final draft.",
+                "Concision helps the message reach the reader faster."
+            ]
+        }
+    ],
+    "collate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to collect different items and arrange them in order for comparison or use",
+            "synonyms": [
+                "compile",
+                "gather",
+                "assemble",
+                "compare (with)",
+                "organize"
+            ],
+            "examples": [
+                "Collate the pages in the correct order.",
+                "They collated the data from three sources."
+            ]
+        }
+    ],
+    "creance": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a falconry term for the line of slack or the distance the bird can fly while attached",
+            "synonyms": [
+                "falconry line",
+                "slack line (contextual)"
+            ],
+            "examples": [
+                "The creance allowed the bird some freedom.",
+                "In falconry practice, the creance is carefully adjusted."
+            ]
+        }
+    ],
+    "cinder": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small piece of burning or burnt material, often like a small black or grey fragment",
+            "synonyms": [
+                "ember (small)",
+                "burnt fragment",
+                "char",
+                "burnt piece"
+            ],
+            "examples": [
+                "Cinders fell onto the roof.",
+                "The street had cinders after the fire."
+            ]
+        }
+    ],
+    "closefisted": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very unwilling to share or spend money",
+            "synonyms": [
+                "stingy",
+                "miserly",
+                "tight-fisted",
+                "parsimonious",
+                "economical (too much)"
+            ],
+            "examples": [
+                "He is closefisted with tips.",
+                "The closefisted company gave little support."
+            ]
+        }
+    ],
+    "creased": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "made with wrinkles or lines, often because something has been folded or pressed",
+            "synonyms": [
+                "wrinkled",
+                "creased",
+                "folded",
+                "crumpled (some)"
+            ],
+            "examples": [
+                "The paper looked creased after being in the bag.",
+                "Her shirt is creased from traveling."
+            ]
+        }
+    ],
+    "craggy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having rough rocks and an uneven surface",
+            "synonyms": [
+                "rocky",
+                "rugged",
+                "jagged",
+                "rough",
+                "uneven"
+            ],
+            "examples": [
+                "We climbed a craggy path to reach the view.",
+                "The coast was craggy and difficult to walk on."
+            ]
+        }
+    ],
+    "clangor": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a loud harsh ringing sound",
+            "synonyms": [
+                "clanging",
+                "noise",
+                "roar",
+                "alarm sound",
+                "metal ringing"
+            ],
+            "examples": [
+                "The clangor of the factory filled the air.",
+                "He flinched at the clangor."
+            ]
+        }
     ]
 }

@@ -2,51 +2,51 @@
     "date": "2026-07-27",
     "groups": [
         {
-            "id": "d3-easy",
-            "type": "profession_domain",
-            "difficulty": "easy",
-            "title": "work involving public persuasion",
-            "words": [
-                "campaign",
-                "advocate",
-                "speechwriter",
-                "platform"
-            ]
-        },
-        {
-            "id": "d3-medium",
-            "type": "etymological_relation",
-            "difficulty": "medium",
-            "title": "words linked to the idea of turning back",
-            "words": [
-                "recant",
-                "revert",
-                "refund",
-                "retrograde"
-            ]
-        },
-        {
-            "id": "d3-hard",
-            "type": "informal_register",
-            "difficulty": "hard",
-            "title": "informal words for going away quickly",
-            "words": [
-                "scram",
-                "skedaddle",
-                "hightail",
-                "vamoose"
-            ]
-        },
-        {
-            "id": "d3-veryhard",
+            "id": "2026-07-27-g1",
             "type": "literary_register",
-            "difficulty": "very_hard",
-            "title": "literary words for quiet authority",
+            "difficulty": "easy",
+            "title": "poetic grief",
             "words": [
-                "imperious",
-                "salubrious",
-                "sonorous",
-                "imperceptible"
+                "woe",
+                "dirge",
+                "mourn",
+                "lament"
+            ]
+        },
+        {
+            "id": "2026-07-27-g2",
+            "type": "physical_trait",
+            "difficulty": "medium",
+            "title": "gaunt",
+            "words": [
+                "bony",
+                "haggard",
+                "cadaverous",
+                "rawboned"
+            ]
+        },
+        {
+            "id": "2026-07-27-g3",
+            "type": "semantic_field",
+            "difficulty": "hard",
+            "title": "marshland",
+            "words": [
+                "fen",
+                "bog",
+                "mire",
+                "morass"
+            ]
+        },
+        {
+            "id": "2026-07-27-g4",
+            "type": "morphological_family",
+            "difficulty": "very_hard",
+            "title": "bear root",
+            "words": [
+                "tolerate",
+                "collate",
+                "translate",
+                "oblate"
             ]
         }
     ]

@@ -2,51 +2,51 @@
     "date": "2026-07-13",
     "groups": [
         {
-            "id": "easy",
-            "type": "emotional_tone",
+            "id": "2026-07-13-g1",
+            "type": "semantic_field",
             "difficulty": "easy",
-            "title": "feelings of restrained grief",
+            "title": "sea edges",
             "words": [
-                "sorrow",
-                "quietude",
-                "regret",
-                "lament"
+                "coast",
+                "shore",
+                "beach",
+                "strand"
             ]
         },
         {
-            "id": "medium",
-            "type": "thematic_association",
+            "id": "2026-07-13-g2",
+            "type": "emotional_tone",
             "difficulty": "medium",
-            "title": "words for public performance",
+            "title": "gloomy moods",
             "words": [
-                "recital",
-                "pageant",
-                "spectacle",
-                "audience"
+                "morose",
+                "sullen",
+                "dour",
+                "glum"
             ]
         },
         {
-            "id": "hard",
-            "type": "literary_register",
+            "id": "2026-07-13-g3",
+            "type": "synonym",
             "difficulty": "hard",
-            "title": "a formal, literary manner",
+            "title": "briefly clear",
             "words": [
-                "discursive",
-                "allegorical",
-                "rarefied",
-                "eloquent"
+                "terse",
+                "succinct",
+                "laconic",
+                "pithy"
             ]
         },
         {
-            "id": "very_hard",
-            "type": "sound_association",
+            "id": "2026-07-13-g4",
+            "type": "morphological_family",
             "difficulty": "very_hard",
-            "title": "near-sounds that mislead listeners",
+            "title": "root kin",
             "words": [
-                "hymn",
-                "limn",
-                "wraith",
-                "rheum"
+                "genial",
+                "congenial",
+                "genesis",
+                "engender"
             ]
         }
     ]

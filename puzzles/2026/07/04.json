@@ -2,51 +2,51 @@
     "date": "2026-07-04",
     "groups": [
         {
-            "id": "g1",
-            "type": "physical_trait",
+            "id": "2026-07-04-g1",
+            "type": "profession_domain",
             "difficulty": "easy",
-            "title": "signs of sharpness in tools",
+            "title": "legal verbs",
             "words": [
-                "serrated",
-                "keenness",
-                "pointed",
-                "edged"
+                "appeal",
+                "plead",
+                "sue",
+                "testify"
             ]
         },
         {
-            "id": "g2",
-            "type": "semantic_field",
+            "id": "2026-07-04-g2",
+            "type": "physical_trait",
             "difficulty": "medium",
-            "title": "movement around a fixed point",
+            "title": "rough texture",
             "words": [
-                "orbit",
-                "revolve",
-                "circumference",
-                "rotation"
+                "coarse",
+                "gnarled",
+                "rugose",
+                "scabrous"
             ]
         },
         {
-            "id": "g3",
-            "type": "sound_association",
+            "id": "2026-07-04-g3",
+            "type": "emotional_tone",
             "difficulty": "hard",
-            "title": "words that evoke a cold sting",
+            "title": "irritable",
             "words": [
-                "icicle",
-                "bitter",
-                "sting",
-                "icy"
+                "fractious",
+                "peevish",
+                "prickly",
+                "testy"
             ]
         },
         {
-            "id": "g4",
-            "type": "synonym",
+            "id": "2026-07-04-g4",
+            "type": "semantic_field",
             "difficulty": "very_hard",
-            "title": "old-fashioned words for help",
+            "title": "sea winds",
             "words": [
-                "aid",
-                "succor",
-                "alleviate",
-                "succour"
+                "bora",
+                "mistral",
+                "sirocco",
+                "tramontane"
             ]
         }
     ]

@@ -1445,5 +1445,311 @@
                 "Stop griping and start solving the problem."
             ]
         }
+    ],
+    "grate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a harsh scratching sound, or to rub painfully against something",
+            "synonyms": [
+                "scrape",
+                "worry",
+                "abrade",
+                "jangle",
+                "grind"
+            ],
+            "examples": [
+                "The old door grates when I open it.",
+                "Sandpaper can grate your skin."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a metal or stone frame with open spaces, used to cover an opening",
+            "synonyms": [
+                "grid",
+                "mesh",
+                "screen",
+                "bar grate"
+            ],
+            "examples": [
+                "The drain is covered by a grate.",
+                "A grate under the window lets air circulate."
+            ]
+        }
+    ],
+    "gurgle": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a bubbling sound as liquid moves",
+            "synonyms": [
+                "bubble",
+                "churn",
+                "burble",
+                "guzzle",
+                "hiss"
+            ],
+            "examples": [
+                "The water gurgled in the sink.",
+                "I could hear the stream gurgling under the bridge."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a sound of bubbling liquid",
+            "synonyms": [
+                "burble",
+                "bubble sound",
+                "gurgling sound",
+                "churn"
+            ],
+            "examples": [
+                "The gurgle of the tap went away after I turned it off.",
+                "There was a soft gurgle from the pipes."
+            ]
+        }
+    ],
+    "gnarled": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having twisted, knotted, and rough growth, often describing wood or branches",
+            "synonyms": [
+                "knotted",
+                "twisted",
+                "crooked",
+                "rugged",
+                "bumpy (texture)"
+            ],
+            "examples": [
+                "A gnarled tree stood at the edge of the field.",
+                "The roots were gnarled and hard to pull out."
+            ]
+        }
+    ],
+    "gelt": [
+        {
+            "part_of_speech": "noun",
+            "definition": "money, especially as a payment or income used in informal contexts",
+            "synonyms": [
+                "cash",
+                "money",
+                "earnings",
+                "wages (context)"
+            ],
+            "examples": [
+                "The job provides steady gelt.",
+                "He spent his gelt on repairs."
+            ]
+        }
+    ],
+    "gules": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a red color used in heraldry",
+            "synonyms": [
+                "red (heraldry)"
+            ],
+            "examples": [
+                "The flag uses gules for the main field.",
+                "Gules is represented by red in the design."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "of a red color in heraldry",
+            "synonyms": [
+                "red (heraldry)"
+            ],
+            "examples": [
+                "The lion was on a gules background."
+            ]
+        }
+    ],
+    "grammar": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the rules for how words are formed and combined to make correct sentences",
+            "synonyms": [
+                "language rules",
+                "word structure",
+                "syntax (related)"
+            ],
+            "examples": [
+                "Learning grammar helps you write clearly.",
+                "Her grammar is good, even though she makes a few mistakes."
+            ]
+        }
+    ],
+    "graph": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a diagram that shows data or relationships using lines, bars, or points",
+            "synonyms": [
+                "chart",
+                "diagram",
+                "plot",
+                "curve graph"
+            ],
+            "examples": [
+                "The graph shows how sales changed over time.",
+                "Draw a graph from the numbers."
+            ]
+        }
+    ],
+    "groove": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a long narrow channel or cut in a surface",
+            "synonyms": [
+                "channel",
+                "slot",
+                "track",
+                "rill"
+            ],
+            "examples": [
+                "The wheel fits into the groove.",
+                "A groove runs along the metal bar."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a narrow cut or channel in a surface",
+            "synonyms": [
+                "channel",
+                "cut",
+                "carve",
+                "score",
+                "notch"
+            ],
+            "examples": [
+                "The machine grooved the metal for the cable.",
+                "He grooved the wood with a thin tool."
+            ]
+        }
+    ],
+    "gunwale": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the upper edge of the side of a boat",
+            "synonyms": [
+                "gunwale edge",
+                "rim (nautical)"
+            ],
+            "examples": [
+                "Sit carefully below the gunwale.",
+                "The rope was tied along the gunwale."
+            ]
+        }
+    ],
+    "glum": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "looking or feeling sad and without much enthusiasm",
+            "synonyms": [
+                "downcast",
+                "sullen",
+                "morose",
+                "dour",
+                "blue (informal)"
+            ],
+            "examples": [
+                "He looked glum after hearing the news.",
+                "Don’t get glum, things can improve."
+            ]
+        }
+    ],
+    "genesis": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the beginning or origin of something",
+            "synonyms": [
+                "origin",
+                "beginning",
+                "start",
+                "formation",
+                "creation"
+            ],
+            "examples": [
+                "The genesis of the idea came from a small problem.",
+                "Her book explains the genesis of the tradition."
+            ]
+        }
+    ],
+    "gusset": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a piece of fabric added to strengthen or add room in a garment, often in underarms or between seams",
+            "synonyms": [
+                "panel",
+                "insert",
+                "triangle (fabric)"
+            ],
+            "examples": [
+                "The gusset gave the jeans more movement.",
+                "Her jacket had a gusset at the elbow."
+            ]
+        }
+    ],
+    "gyre": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a large circular movement, especially of water, air, or something moving in a loop",
+            "synonyms": [
+                "vortex",
+                "whirl",
+                "circulation",
+                "turn"
+            ],
+            "examples": [
+                "A gyre slowly rotated the debris in the bay.",
+                "The model shows a gyre in the ocean current."
+            ]
+        }
+    ],
+    "glib": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "talking or writing smoothly but in a way that may be dishonest or not serious",
+            "synonyms": [
+                "smooth",
+                "slick",
+                "ready",
+                "witty (not exact)",
+                "insincere"
+            ],
+            "examples": [
+                "He gave a glib answer, but it wasn’t accurate.",
+                "Her glib remarks made the manager suspicious."
+            ]
+        }
+    ],
+    "galley": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a historical type of ship powered mainly by oars, or a kitchen on a ship or plane",
+            "synonyms": [
+                "ship",
+                "rowing vessel",
+                "kitchen area (ship/plane)"
+            ],
+            "examples": [
+                "The museum displayed a model of a galley.",
+                "Guests boarded early to see the plane’s galley."
+            ]
+        }
+    ],
+    "granary": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a building used for storing grain",
+            "synonyms": [
+                "grain storage",
+                "warehouse (grain)",
+                "storehouse"
+            ],
+            "examples": [
+                "The farmers kept corn in the granary.",
+                "A granary protects grain from moisture."
+            ]
+        }
     ]
 }

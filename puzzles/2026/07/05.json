@@ -2,51 +2,51 @@
     "date": "2026-07-05",
     "groups": [
         {
-            "id": "d1-easy",
-            "type": "sound_association",
+            "id": "2026-07-05-g1",
+            "type": "emotional_tone",
             "difficulty": "easy",
-            "title": "words that rhyme in meaning",
+            "title": "irritable moods",
             "words": [
-                "censor",
-                "rebut",
-                "mender",
-                "tremor"
+                "testy",
+                "snappish",
+                "tetchy",
+                "peevish"
             ]
         },
         {
-            "id": "d1-medium",
-            "type": "profession_domain",
-            "difficulty": "medium",
-            "title": "words that fit legal work",
-            "words": [
-                "affidavit",
-                "litigator",
-                "subpoena",
-                "plaintiff"
-            ]
-        },
-        {
-            "id": "d1-hard",
-            "type": "literary_register",
-            "difficulty": "hard",
-            "title": "words that sound literary",
-            "words": [
-                "wherewithal",
-                "besiege",
-                "henceforth",
-                "verily"
-            ]
-        },
-        {
-            "id": "d1-very_hard",
+            "id": "2026-07-05-g2",
             "type": "informal_register",
-            "difficulty": "very_hard",
-            "title": "words that feel casually dismissive",
+            "difficulty": "medium",
+            "title": "idle chatter",
             "words": [
-                "nah",
-                "whatever",
-                "sketchy",
-                "gimcrack"
+                "banter",
+                "chatter",
+                "gossip",
+                "prattle"
+            ]
+        },
+        {
+            "id": "2026-07-05-g3",
+            "type": "etymological_relation",
+            "difficulty": "hard",
+            "title": "carried within",
+            "words": [
+                "metaphor",
+                "transfer",
+                "translate",
+                "traffic"
+            ]
+        },
+        {
+            "id": "2026-07-05-g4",
+            "type": "morphological_family",
+            "difficulty": "very_hard",
+            "title": "root kin",
+            "words": [
+                "fervid",
+                "defervescence",
+                "effervesce",
+                "ferment"
             ]
         }
     ]

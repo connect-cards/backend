@@ -1,6 +1,6 @@
 import fs from "fs-extra";
 import { zodTextFormat } from "openai/helpers/zod.mjs";
-import { validationGPTModel, repairPrompt, client, PuzzleSchema } from "../llm";
+import { validationPuzzleGPTModel, repairPrompt, client, PuzzleSchema } from "../llm";
 
 function getPuzzleFilePath(date: string) {
     const [year, month, day] = date.split("-");
@@ -39,7 +39,7 @@ export function validatePuzzle(json: any) {
 
 export async function repairPuzzle(jsonStr: string) {
     const response = await client.responses.parse({
-        model: validationGPTModel,
+        model: validationPuzzleGPTModel,
         input: repairPrompt(jsonStr),
         text: {
             format: zodTextFormat(PuzzleSchema, 'puzzle'),

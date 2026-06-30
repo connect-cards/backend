@@ -2,51 +2,51 @@
     "date": "2026-07-08",
     "groups": [
         {
-            "id": "d4-easy",
-            "type": "profession_domain",
+            "id": "2026-07-08-g1",
+            "type": "thematic_association",
             "difficulty": "easy",
-            "title": "words that fit a detective story",
+            "title": "winter weather",
             "words": [
-                "forensic",
-                "witness",
-                "motive",
-                "evidence"
+                "flurry",
+                "frost",
+                "sleet",
+                "thaw"
             ]
         },
         {
-            "id": "d4-medium",
-            "type": "morphological_family",
+            "id": "2026-07-08-g2",
+            "type": "etymological_relation",
             "difficulty": "medium",
-            "title": "words sharing a hidden root",
+            "title": "written marks",
             "words": [
-                "impartial",
-                "impart",
-                "partiality",
-                "impute"
+                "character",
+                "grammar",
+                "graph",
+                "groove"
             ]
         },
         {
-            "id": "d4-hard",
-            "type": "emotional_tone",
+            "id": "2026-07-08-g3",
+            "type": "informal_register",
             "difficulty": "hard",
-            "title": "words showing quiet dread",
+            "title": "nonsense talk",
             "words": [
-                "foreboding",
-                "unease",
-                "dread",
-                "sullen"
+                "balderdash",
+                "drivel",
+                "rot",
+                "tripe"
             ]
         },
         {
-            "id": "d4-very_hard",
-            "type": "physical_trait",
+            "id": "2026-07-08-g4",
+            "type": "morphological_family",
             "difficulty": "very_hard",
-            "title": "words describing a distinctive physique",
+            "title": "know root",
             "words": [
-                "wiry",
-                "broadchested",
-                "hunched",
-                "limpid"
+                "agnostic",
+                "cognate",
+                "incognito",
+                "recognizance"
             ]
         }
     ]

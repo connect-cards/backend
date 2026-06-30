@@ -2,51 +2,51 @@
     "date": "2026-07-30",
     "groups": [
         {
-            "id": "day2-easy",
-            "type": "profession_domain",
+            "id": "2026-07-30-g1",
+            "type": "physical_trait",
             "difficulty": "easy",
-            "title": "tools of investigation",
+            "title": "wrinkled",
             "words": [
-                "forensic",
-                "evidence",
-                "foray",
-                "suspect"
+                "creased",
+                "furrowed",
+                "gnarled",
+                "craggy"
             ]
         },
         {
-            "id": "day2-medium",
-            "type": "thematic_association",
+            "id": "2026-07-30-g2",
+            "type": "literary_register",
             "difficulty": "medium",
-            "title": "storm and sea imagery",
+            "title": "poetic old forms",
             "words": [
-                "tempest",
-                "billow",
-                "tide",
-                "maelstrom"
+                "oft",
+                "ere",
+                "whence",
+                "thence"
             ]
         },
         {
-            "id": "day2-hard",
-            "type": "morphological_family",
+            "id": "2026-07-30-g3",
+            "type": "emotional_tone",
             "difficulty": "hard",
-            "title": "related by meaning",
+            "title": "scornful",
             "words": [
-                "repair",
-                "restoration",
-                "refit",
-                "renewal"
+                "supercilious",
+                "snide",
+                "disdainful",
+                "sardonic"
             ]
         },
         {
-            "id": "day2-very_hard",
-            "type": "etymological_relation",
+            "id": "2026-07-30-g4",
+            "type": "sound_association",
             "difficulty": "very_hard",
-            "title": "words with a shared origin",
+            "title": "harsh sounds",
             "words": [
-                "choleric",
-                "melancholy",
-                "levity",
-                "venomous"
+                "clangor",
+                "skirl",
+                "stridor",
+                "ululation"
             ]
         }
     ]

@@ -2,51 +2,51 @@
     "date": "2026-07-06",
     "groups": [
         {
-            "id": "d2-easy",
-            "type": "profession_domain",
+            "id": "2026-07-06-g1",
+            "type": "physical_trait",
             "difficulty": "easy",
-            "title": "words that belong to medicine",
+            "title": "lean body types",
             "words": [
-                "diagnosis",
-                "symptom",
-                "pathogen",
-                "prescribe"
+                "gaunt",
+                "lanky",
+                "spare",
+                "rangy"
             ]
         },
         {
-            "id": "d2-medium",
-            "type": "informal_register",
+            "id": "2026-07-06-g2",
+            "type": "literary_register",
             "difficulty": "medium",
-            "title": "words that sound like casual speech",
+            "title": "poetic dawn",
             "words": [
-                "kid",
-                "chill",
-                "buddy",
-                "screwy"
+                "aurora",
+                "daybreak",
+                "morn",
+                "sunrise"
             ]
         },
         {
-            "id": "d2-hard",
+            "id": "2026-07-06-g3",
             "type": "synonym",
             "difficulty": "hard",
-            "title": "words meaning conceal or hide",
+            "title": "brief statements",
             "words": [
-                "conceal",
-                "camouflage",
-                "withhold",
-                "obscure"
+                "apothegm",
+                "dictum",
+                "maxim",
+                "saw"
             ]
         },
         {
-            "id": "d2-very_hard",
-            "type": "thematic_association",
+            "id": "2026-07-06-g4",
+            "type": "semantic_field",
             "difficulty": "very_hard",
-            "title": "words tied to sudden embarrassment",
+            "title": "text criticism",
             "words": [
-                "flustered",
-                "mortified",
-                "blunder",
-                "stammer"
+                "lemma",
+                "scholium",
+                "siglum",
+                "variorum"
             ]
         }
     ]

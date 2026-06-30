@@ -1415,5 +1415,141 @@
                 "He received a writ to appear in court."
             ]
         }
+    ],
+    "wake": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the trail of disturbed water left behind by a moving boat",
+            "synonyms": [
+                "wave trail",
+                "ship’s trail",
+                "water trail"
+            ],
+            "examples": [
+                "The wake spread out behind the motorboat.",
+                "We watched the wake fade into calm water."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to move across water and create waves or to make someone stop sleeping and become alert",
+            "synonyms": [
+                "stir",
+                "wake up",
+                "rouse",
+                "disturb"
+            ],
+            "examples": [
+                "The boat woke the water and made a wake.",
+                "The loud noise woke me up."
+            ]
+        }
+    ],
+    "whorl": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a circular arrangement or pattern, especially of hair, plant growth, or fluid motion",
+            "synonyms": [
+                "circle",
+                "coil",
+                "spiral (shape)",
+                "vortex (motion)"
+            ],
+            "examples": [
+                "Her hair has a whorl near the crown.",
+                "The whorl in the water pulled the leaves downward."
+            ]
+        }
+    ],
+    "wavy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having a pattern of gentle waves or curves",
+            "synonyms": [
+                "curved",
+                "rippling",
+                "undulating",
+                "wavering",
+                "bendy (informal)"
+            ],
+            "examples": [
+                "She wore wavy hair in loose curls.",
+                "The fence has a wavy line."
+            ]
+        }
+    ],
+    "whicker": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a long, high sound that a horse makes",
+            "synonyms": [
+                "whinny",
+                "neigh",
+                "call (horse sound)"
+            ],
+            "examples": [
+                "The pony whickered as we entered the field.",
+                "I heard a whicker from the stable."
+            ]
+        }
+    ],
+    "whinny": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a high sound that a horse makes",
+            "synonyms": [
+                "neigh",
+                "whicker",
+                "horse call"
+            ],
+            "examples": [
+                "The horse whinnied when it saw food.",
+                "She heard a whinny from the next stall."
+            ]
+        }
+    ],
+    "whereof": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "an older form meaning of which or about which",
+            "synonyms": [
+                "of which",
+                "about which"
+            ],
+            "examples": [
+                "The agreement whereof you speak is missing here.",
+                "The clause whereof the lawyer wrote was added later."
+            ]
+        }
+    ],
+    "woe": [
+        {
+            "part_of_speech": "noun",
+            "definition": "great sadness, suffering, or distress",
+            "synonyms": [
+                "sorrow",
+                "misery",
+                "suffering",
+                "distress",
+                "anguish"
+            ],
+            "examples": [
+                "He spoke of his woe after the breakup.",
+                "The storm caused widespread woe."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to feel great sadness or distress",
+            "synonyms": [
+                "suffer",
+                "grieve",
+                "lament",
+                "mourn"
+            ],
+            "examples": [
+                "She wept and woe-ed in silence."
+            ]
+        }
     ]
 }

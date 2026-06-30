@@ -2,51 +2,51 @@
     "date": "2026-07-09",
     "groups": [
         {
-            "id": "easy-emotional_tone",
-            "type": "emotional_tone",
+            "id": "2026-07-09-g1",
+            "type": "informal_register",
             "difficulty": "easy",
-            "title": "quiet feelings",
+            "title": "casual talk",
             "words": [
-                "uneasy",
-                "tender",
-                "wistful",
-                "buoyant"
+                "banter",
+                "gossip",
+                "chitchat",
+                "natter"
             ]
         },
         {
-            "id": "medium-profession_domain",
-            "type": "profession_domain",
+            "id": "2026-07-09-g2",
+            "type": "synonym",
             "difficulty": "medium",
-            "title": "work with data",
+            "title": "stinginess",
             "words": [
-                "auditing",
-                "forensics",
-                "surveillance",
-                "statistical"
+                "frugal",
+                "miserly",
+                "parsimonious",
+                "thrifty"
             ]
         },
         {
-            "id": "hard-sound_association",
+            "id": "2026-07-09-g3",
             "type": "sound_association",
             "difficulty": "hard",
-            "title": "sounds at night",
+            "title": "hissing sounds",
             "words": [
-                "hush",
+                "sibilant",
+                "susurrus",
                 "murmur",
-                "clang",
                 "whisper"
             ]
         },
         {
-            "id": "very_hard-informal_register",
-            "type": "informal_register",
+            "id": "2026-07-09-g4",
+            "type": "etymological_relation",
             "difficulty": "very_hard",
-            "title": "loose talk and brag",
+            "title": "bearer roots",
             "words": [
-                "kidding",
-                "showy",
-                "snappy",
-                "clout"
+                "metaphor",
+                "diaphanous",
+                "semaphore",
+                "euphoria"
             ]
         }
     ]
