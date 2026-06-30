@@ -2,7 +2,7 @@
     "date": "2026-01-10",
     "groups": [
         {
-            "id": "easy",
+            "id": "2026-01-10-861c4f-1",
             "type": "physical_trait",
             "difficulty": "easy",
             "title": "ways to describe height and thickness",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "medium",
+            "id": "2026-01-10-20af41-1",
             "type": "sound_association",
             "difficulty": "medium",
             "title": "auditory",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "hard",
+            "id": "2026-01-10-cae597-1",
             "type": "literary_register",
             "difficulty": "hard",
             "title": "courtroom language",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "very_hard",
+            "id": "2026-01-10-e68da3-1",
             "type": "sound_association",
             "difficulty": "very_hard",
             "title": "technical or archaic specters",

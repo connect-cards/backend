@@ -2,7 +2,7 @@
     "date": "2026-01-23",
     "groups": [
         {
-            "id": "g1",
+            "id": "2026-01-23-861c4f-1",
             "type": "informal_register",
             "difficulty": "easy",
             "title": "walk off the straight line",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g2",
+            "id": "2026-01-23-20af41-1",
             "type": "thematic_association",
             "difficulty": "medium",
             "title": "low-grade distress",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g3",
+            "id": "2026-01-23-cae597-1",
             "type": "emotional_tone",
             "difficulty": "hard",
             "title": "dread wearing a smile",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "g4",
+            "id": "2026-01-23-e68da3-1",
             "type": "physical_trait",
             "difficulty": "very_hard",
             "title": "signs that something is off",

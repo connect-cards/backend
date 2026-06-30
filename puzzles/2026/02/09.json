@@ -2,7 +2,7 @@
     "date": "2026-02-09",
     "groups": [
         {
-            "id": "g1",
+            "id": "2026-02-09-861c4f-1",
             "type": "thematic_association",
             "difficulty": "easy",
             "title": "calm before conflict",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g2",
+            "id": "2026-02-09-20af41-1",
             "type": "synonym",
             "difficulty": "medium",
             "title": "wary afterglow",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g3",
+            "id": "2026-02-09-cae597-1",
             "type": "emotional_tone",
             "difficulty": "hard",
             "title": "a carefully managed silence",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "g4",
+            "id": "2026-02-09-e68da3-1",
             "type": "informal_register",
             "difficulty": "very_hard",
             "title": "indignation",

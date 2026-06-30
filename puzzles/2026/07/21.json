@@ -2,7 +2,7 @@
     "date": "2026-07-21",
     "groups": [
         {
-            "id": "2026-07-21-g1",
+            "id": "2026-07-21-861c4f-1",
             "type": "literary_register",
             "difficulty": "easy",
             "title": "ancient books",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "2026-07-21-g2",
+            "id": "2026-07-21-20af41-1",
             "type": "informal_register",
             "difficulty": "medium",
             "title": "criticize",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "2026-07-21-g3",
+            "id": "2026-07-21-cae597-1",
             "type": "sound_association",
             "difficulty": "hard",
             "title": "harsh sounds",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "2026-07-21-g4",
+            "id": "2026-07-21-e68da3-1",
             "type": "physical_trait",
             "difficulty": "very_hard",
             "title": "leanness",

@@ -2,7 +2,7 @@
     "date": "2026-06-15",
     "groups": [
         {
-            "id": "d15-easy",
+            "id": "2026-06-15-861c4f-1",
             "type": "informal_register",
             "difficulty": "easy",
             "title": "casual talk about plans",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "d15-medium",
+            "id": "2026-06-15-20af41-1",
             "type": "emotional_tone",
             "difficulty": "medium",
             "title": "softly admiring",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "d15-hard",
+            "id": "2026-06-15-cae597-1",
             "type": "sound_association",
             "difficulty": "hard",
             "title": "whirring inevitability",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "d15-very-hard",
+            "id": "2026-06-15-e68da3-1",
             "type": "profession_domain",
             "difficulty": "very_hard",
             "title": "high-stakes legal work",

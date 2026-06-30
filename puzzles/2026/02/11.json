@@ -2,7 +2,7 @@
     "date": "2026-02-11",
     "groups": [
         {
-            "id": "g1",
+            "id": "2026-02-11-861c4f-1",
             "type": "synonym",
             "difficulty": "easy",
             "title": "small, precise disagreement",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g2",
+            "id": "2026-02-11-20af41-1",
             "type": "etymological_relation",
             "difficulty": "medium",
             "title": "words from the same root",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g3",
+            "id": "2026-02-11-cae597-1",
             "type": "morphological_family",
             "difficulty": "hard",
             "title": "artful, restrained speech",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "g4",
+            "id": "2026-02-11-e68da3-1",
             "type": "literary_register",
             "difficulty": "very_hard",
             "title": "courtly bravery",

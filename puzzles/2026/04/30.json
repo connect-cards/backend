@@ -2,7 +2,7 @@
     "date": "2026-04-30",
     "groups": [
         {
-            "id": "g1",
+            "id": "2026-04-30-861c4f-1",
             "type": "semantic_field",
             "difficulty": "easy",
             "title": "talks and conversations",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g2",
+            "id": "2026-04-30-20af41-1",
             "type": "informal_register",
             "difficulty": "medium",
             "title": "everyday people, not titles",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g3",
+            "id": "2026-04-30-cae597-1",
             "type": "synonym",
             "difficulty": "hard",
             "title": "saying little",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "g4",
+            "id": "2026-04-30-e68da3-1",
             "type": "literary_register",
             "difficulty": "very_hard",
             "title": "a dark, uncanny chill",

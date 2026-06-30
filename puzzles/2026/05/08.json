@@ -2,7 +2,7 @@
     "date": "2026-05-08",
     "groups": [
         {
-            "id": "p4_easy",
+            "id": "2026-05-08-861c4f-1",
             "type": "easy",
             "difficulty": "easy",
             "title": "weather",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "p4_medium",
+            "id": "2026-05-08-20af41-1",
             "type": "medium",
             "difficulty": "medium",
             "title": "informal",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "p4_hard",
+            "id": "2026-05-08-cae597-1",
             "type": "hard",
             "difficulty": "hard",
             "title": "physical traits",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "p4_veryhard",
+            "id": "2026-05-08-e68da3-1",
             "type": "very-hard",
             "difficulty": "very_hard",
             "title": "ports",

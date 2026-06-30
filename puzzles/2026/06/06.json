@@ -2,10 +2,10 @@
     "date": "2026-06-06",
     "groups": [
         {
-            "id": "D2-E",
+            "id": "2026-06-06-861c4f-1",
             "type": "morphological_family",
             "difficulty": "easy",
-            "title": "words for a pause in action (family look-alikes)",
+            "title": "a pause in action",
             "words": [
                 "stasis",
                 "inaction",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "D2-M",
+            "id": "2026-06-06-20af41-1",
             "type": "synonym",
             "difficulty": "medium",
             "title": "skeptical or doubtful",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "D2-H",
+            "id": "2026-06-06-cae597-1",
             "type": "profession_domain",
             "difficulty": "hard",
             "title": "people who draft, revise, and argue texts",
@@ -38,10 +38,10 @@
             ]
         },
         {
-            "id": "D2-VH",
+            "id": "2026-06-06-e68da3-1",
             "type": "literary_register",
             "difficulty": "very_hard",
-            "title": "archaic or elevated ways to describe speech",
+            "title": "ways to describe speech",
             "words": [
                 "orison",
                 "recant",

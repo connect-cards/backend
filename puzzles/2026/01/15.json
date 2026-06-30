@@ -2,7 +2,7 @@
     "date": "2026-01-15",
     "groups": [
         {
-            "id": "g1",
+            "id": "2026-01-15-861c4f-1",
             "type": "easy",
             "difficulty": "easy",
             "title": "means of cutting and shaping",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g2",
+            "id": "2026-01-15-20af41-1",
             "type": "medium",
             "difficulty": "medium",
             "title": "talk that refuses to clarify",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g3",
+            "id": "2026-01-15-cae597-1",
             "type": "hard",
             "difficulty": "hard",
             "title": "frictionless persuasion vs. doubt",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "g4",
+            "id": "2026-01-15-e68da3-1",
             "type": "very_hard",
             "difficulty": "very_hard",
             "title": "rarer tones of disorder",

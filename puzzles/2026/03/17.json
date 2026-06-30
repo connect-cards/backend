@@ -2,7 +2,7 @@
     "date": "2026-03-17",
     "groups": [
         {
-            "id": "g1",
+            "id": "2026-03-17-861c4f-1",
             "type": "etymological_relation",
             "difficulty": "easy",
             "title": "“old trade” roots",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g2",
+            "id": "2026-03-17-20af41-1",
             "type": "profession_domain",
             "difficulty": "medium",
             "title": "documents and courts",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g3",
+            "id": "2026-03-17-cae597-1",
             "type": "literary_register",
             "difficulty": "hard",
             "title": "poised, indirect praise",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "g4",
+            "id": "2026-03-17-e68da3-1",
             "type": "morphological_family",
             "difficulty": "very_hard",
             "title": "unlabeled forms of refusal",

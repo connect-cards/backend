@@ -2,7 +2,7 @@
     "date": "2026-05-11",
     "groups": [
         {
-            "id": "g2e",
+            "id": "2026-05-11-861c4f-1",
             "type": "easy",
             "difficulty": "easy",
             "title": "household items",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g2m",
+            "id": "2026-05-11-20af41-1",
             "type": "medium",
             "difficulty": "medium",
             "title": "silent letters",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g2h",
+            "id": "2026-05-11-cae597-1",
             "type": "hard",
             "difficulty": "hard",
             "title": "polysemous/multiple meanings",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "g2vh",
+            "id": "2026-05-11-e68da3-1",
             "type": "very-hard",
             "difficulty": "very_hard",
             "title": "groups of three",

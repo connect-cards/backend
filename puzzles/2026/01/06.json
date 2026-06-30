@@ -2,7 +2,7 @@
     "date": "2026-01-06",
     "groups": [
         {
-            "id": "g1",
+            "id": "2026-01-06-861c4f-1",
             "type": "physical_trait",
             "difficulty": "easy",
             "title": "hard-edged surfaces",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g2",
+            "id": "2026-01-06-20af41-1",
             "type": "etymological_relation",
             "difficulty": "medium",
             "title": "words that trace back to speech",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g3",
+            "id": "2026-01-06-cae597-1",
             "type": "profession_domain",
             "difficulty": "hard",
             "title": "legal procedure moves",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "g4",
+            "id": "2026-01-06-e68da3-1",
             "type": "semantic_field",
             "difficulty": "very_hard",
             "title": "archaic measures of rank and rule",

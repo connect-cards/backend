@@ -2,7 +2,7 @@
     "date": "2026-05-09",
     "groups": [
         {
-            "id": "G1",
+            "id": "2026-05-09-861c4f-1",
             "type": "category",
             "difficulty": "easy",
             "title": "weather phenomena",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "G2",
+            "id": "2026-05-09-20af41-1",
             "type": "category",
             "difficulty": "medium",
             "title": "professions",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "G3",
+            "id": "2026-05-09-cae597-1",
             "type": "category",
             "difficulty": "hard",
             "title": "silent-letter words",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "G4",
+            "id": "2026-05-09-e68da3-1",
             "type": "category",
             "difficulty": "very_hard",
             "title": "liturgical vestments",

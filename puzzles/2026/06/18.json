@@ -2,7 +2,7 @@
     "date": "2026-06-18",
     "groups": [
         {
-            "id": "d18-e",
+            "id": "2026-06-18-861c4f-1",
             "type": "semantic_field",
             "difficulty": "easy",
             "title": "light on the water",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "d18-m",
+            "id": "2026-06-18-20af41-1",
             "type": "morphological_family",
             "difficulty": "medium",
             "title": "the act of reading",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "d18-h",
+            "id": "2026-06-18-cae597-1",
             "type": "profession_domain",
             "difficulty": "hard",
             "title": "lawyers of fact",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "d18-v",
+            "id": "2026-06-18-e68da3-1",
             "type": "thematic_association",
             "difficulty": "very_hard",
             "title": "doubt and misgiving",

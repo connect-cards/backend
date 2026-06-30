@@ -2,7 +2,7 @@
     "date": "2026-01-21",
     "groups": [
         {
-            "id": "g1",
+            "id": "2026-01-21-861c4f-1",
             "type": "etymological_relation",
             "difficulty": "easy",
             "title": "steelwork origins",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g2",
+            "id": "2026-01-21-20af41-1",
             "type": "semantic_field",
             "difficulty": "medium",
             "title": "tangled threads of speech",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g3",
+            "id": "2026-01-21-cae597-1",
             "type": "morphological_family",
             "difficulty": "hard",
             "title": "quiet observation vs. concealment",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "g4",
+            "id": "2026-01-21-e68da3-1",
             "type": "literary_register",
             "difficulty": "very_hard",
             "title": "old literary masks",

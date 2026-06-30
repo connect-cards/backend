@@ -2,7 +2,7 @@
     "date": "2026-05-31",
     "groups": [
         {
-            "id": "G1",
+            "id": "2026-05-31-861c4f-1",
             "type": "informal_register",
             "difficulty": "easy",
             "title": "slang",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "G2",
+            "id": "2026-05-31-20af41-1",
             "type": "profession_domain",
             "difficulty": "medium",
             "title": "professions",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "G3",
+            "id": "2026-05-31-cae597-1",
             "type": "thematic_association",
             "difficulty": "hard",
             "title": "birds",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "G4",
+            "id": "2026-05-31-e68da3-1",
             "type": "synonym",
             "difficulty": "very_hard",
             "title": "anger",

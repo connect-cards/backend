@@ -2,7 +2,7 @@
     "date": "2026-04-16",
     "groups": [
         {
-            "id": "d4_easy",
+            "id": "2026-04-16-861c4f-1",
             "type": "thematic_association",
             "difficulty": "easy",
             "title": "movement",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "d4_medium",
+            "id": "2026-04-16-20af41-1",
             "type": "medium",
             "difficulty": "medium",
             "title": "speech style",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "d4_hard",
+            "id": "2026-04-16-cae597-1",
             "type": "sound_association",
             "difficulty": "hard",
             "title": "sound association",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "d4_veryhard",
+            "id": "2026-04-16-e68da3-1",
             "type": "very-hard",
             "difficulty": "very_hard",
             "title": "occult-like",

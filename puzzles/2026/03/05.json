@@ -2,7 +2,7 @@
     "date": "2026-03-05",
     "groups": [
         {
-            "id": "g1",
+            "id": "2026-03-05-861c4f-1",
             "type": "easy",
             "difficulty": "easy",
             "title": "sword-making lexicon",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g2",
+            "id": "2026-03-05-20af41-1",
             "type": "medium",
             "difficulty": "medium",
             "title": "clandestine pursuit",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g3",
+            "id": "2026-03-05-cae597-1",
             "type": "hard",
             "difficulty": "hard",
             "title": "lament",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "g4",
+            "id": "2026-03-05-e68da3-1",
             "type": "very_hard",
             "difficulty": "very_hard",
             "title": "-graphy of writing",

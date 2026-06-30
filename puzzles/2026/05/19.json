@@ -2,7 +2,7 @@
     "date": "2026-05-19",
     "groups": [
         {
-            "id": "g1",
+            "id": "2026-05-19-861c4f-1",
             "type": "emotional_tone",
             "difficulty": "easy",
             "title": "emotional tones",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g2",
+            "id": "2026-05-19-20af41-1",
             "type": "morphological_family",
             "difficulty": "medium",
             "title": "aqua- words",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g3",
+            "id": "2026-05-19-cae597-1",
             "type": "literary_register",
             "difficulty": "hard",
             "title": "poetic forms",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "g4",
+            "id": "2026-05-19-e68da3-1",
             "type": "physical_trait",
             "difficulty": "very_hard",
             "title": "physique descriptors",

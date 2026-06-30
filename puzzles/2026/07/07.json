@@ -2,7 +2,7 @@
     "date": "2026-07-07",
     "groups": [
         {
-            "id": "2026-07-07-g1",
+            "id": "2026-07-07-861c4f-1",
             "type": "sound_association",
             "difficulty": "easy",
             "title": "sharp sounds",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "2026-07-07-g2",
+            "id": "2026-07-07-20af41-1",
             "type": "informal_register",
             "difficulty": "medium",
             "title": "money slang",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "2026-07-07-g3",
+            "id": "2026-07-07-cae597-1",
             "type": "thematic_association",
             "difficulty": "hard",
             "title": "sea voyage",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "2026-07-07-g4",
+            "id": "2026-07-07-e68da3-1",
             "type": "profession_domain",
             "difficulty": "very_hard",
             "title": "heraldry",

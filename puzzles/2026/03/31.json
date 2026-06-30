@@ -2,7 +2,7 @@
     "date": "2026-03-31",
     "groups": [
         {
-            "id": "g1",
+            "id": "2026-03-31-861c4f-1",
             "type": "informal_register",
             "difficulty": "easy",
             "title": "go about, relaxed",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g2",
+            "id": "2026-03-31-20af41-1",
             "type": "sound_association",
             "difficulty": "medium",
             "title": "whispery, airy effects",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g3",
+            "id": "2026-03-31-cae597-1",
             "type": "thematic_association",
             "difficulty": "hard",
             "title": "artifacts of crime and investigation",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "g4",
+            "id": "2026-03-31-e68da3-1",
             "type": "semantic_field",
             "difficulty": "very_hard",
             "title": "uncanny, otherworldly quality",

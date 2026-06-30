@@ -2,7 +2,7 @@
     "date": "2026-01-27",
     "groups": [
         {
-            "id": "g1",
+            "id": "2026-01-27-861c4f-1",
             "type": "literary_register",
             "difficulty": "easy",
             "title": "moods of dusk",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g2",
+            "id": "2026-01-27-20af41-1",
             "type": "semantic_field",
             "difficulty": "medium",
             "title": "words for smallness",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g3",
+            "id": "2026-01-27-cae597-1",
             "type": "sound_association",
             "difficulty": "hard",
             "title": "sustained, pressing stress",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "g4",
+            "id": "2026-01-27-e68da3-1",
             "type": "thematic_association",
             "difficulty": "very_hard",
             "title": "ancient measures and orders",

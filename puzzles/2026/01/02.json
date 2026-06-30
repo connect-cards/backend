@@ -2,7 +2,7 @@
     "date": "2026-01-02",
     "groups": [
         {
-            "id": "g1",
+            "id": "2026-01-02-861c4f-1",
             "type": "literary_register",
             "difficulty": "easy",
             "title": "streetwise language",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g2",
+            "id": "2026-01-02-20af41-1",
             "type": "semantic_field",
             "difficulty": "medium",
             "title": "moody atmospheres",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g3",
+            "id": "2026-01-02-cae597-1",
             "type": "informal_register",
             "difficulty": "hard",
             "title": "small talk of insistence",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "g4",
+            "id": "2026-01-02-e68da3-1",
             "type": "thematic_association",
             "difficulty": "very_hard",
             "title": "gloom",

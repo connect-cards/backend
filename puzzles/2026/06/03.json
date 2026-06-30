@@ -2,7 +2,7 @@
     "date": "2026-06-03",
     "groups": [
         {
-            "id": "d3-easy",
+            "id": "2026-06-03-861c4f-1",
             "type": "profession_domain",
             "difficulty": "easy",
             "title": "journalistic craft",
@@ -14,10 +14,10 @@
             ]
         },
         {
-            "id": "d3-medium",
+            "id": "2026-06-03-20af41-1",
             "type": "synonym",
             "difficulty": "medium",
-            "title": "close in meaning, different shades",
+            "title": "different shades",
             "words": [
                 "bewilder",
                 "confound",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "d3-hard",
+            "id": "2026-06-03-cae597-1",
             "type": "literary_register",
             "difficulty": "hard",
             "title": "poetic movements",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "d3-very-hard",
+            "id": "2026-06-03-e68da3-1",
             "type": "sound_association",
             "difficulty": "very_hard",
             "title": "archaic, ominous aura",

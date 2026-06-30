@@ -2,7 +2,7 @@
     "date": "2026-07-03",
     "groups": [
         {
-            "id": "2026-07-03-g1",
+            "id": "2026-07-03-861c4f-1",
             "type": "literary_register",
             "difficulty": "easy",
             "title": "old-fashioned pronouns",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "2026-07-03-g2",
+            "id": "2026-07-03-20af41-1",
             "type": "morphological_family",
             "difficulty": "medium",
             "title": "bearing carry",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "2026-07-03-g3",
+            "id": "2026-07-03-cae597-1",
             "type": "profession_domain",
             "difficulty": "hard",
             "title": "printer's marks",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "2026-07-03-g4",
+            "id": "2026-07-03-e68da3-1",
             "type": "physical_trait",
             "difficulty": "very_hard",
             "title": "hooked nose",

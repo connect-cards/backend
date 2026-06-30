@@ -2,7 +2,7 @@
     "date": "2026-06-12",
     "groups": [
         {
-            "id": "d4-easy",
+            "id": "2026-06-12-861c4f-1",
             "type": "informal_register",
             "difficulty": "easy",
             "title": "sensible outcomes",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "d4-medium",
+            "id": "2026-06-12-20af41-1",
             "type": "synonym",
             "difficulty": "medium",
             "title": "to accuse with evidence",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "d4-hard",
+            "id": "2026-06-12-cae597-1",
             "type": "morphological_family",
             "difficulty": "hard",
             "title": "from watchfulness to vigilance",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "d4-very-hard",
+            "id": "2026-06-12-e68da3-1",
             "type": "sound_association",
             "difficulty": "very_hard",
             "title": "eerie, otherworldly atmosphere",

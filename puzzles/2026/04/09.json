@@ -2,7 +2,7 @@
     "date": "2026-04-09",
     "groups": [
         {
-            "id": "d1-easy",
+            "id": "2026-04-09-861c4f-1",
             "type": "informal_register",
             "difficulty": "easy",
             "title": "casual wanderers",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "d1-medium",
+            "id": "2026-04-09-20af41-1",
             "type": "semantic_field",
             "difficulty": "medium",
             "title": "signs of darkness",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "d1-hard",
+            "id": "2026-04-09-cae597-1",
             "type": "physical_trait",
             "difficulty": "hard",
             "title": "speech that cuts off",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "d1-vhard",
+            "id": "2026-04-09-e68da3-1",
             "type": "etymological_relation",
             "difficulty": "very_hard",
             "title": "tangled threads of meaning",

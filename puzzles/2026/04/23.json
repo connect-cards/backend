@@ -2,7 +2,7 @@
     "date": "2026-04-23",
     "groups": [
         {
-            "id": "g1",
+            "id": "2026-04-23-861c4f-1",
             "type": "literary_register",
             "difficulty": "easy",
             "title": "ways to move on foot",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g2",
+            "id": "2026-04-23-20af41-1",
             "type": "semantic_field",
             "difficulty": "medium",
             "title": "light and its interruption",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g3",
+            "id": "2026-04-23-cae597-1",
             "type": "informal_register",
             "difficulty": "hard",
             "title": "casual names for a person",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "g4",
+            "id": "2026-04-23-e68da3-1",
             "type": "morphological_family",
             "difficulty": "very_hard",
             "title": "from “to see through”",

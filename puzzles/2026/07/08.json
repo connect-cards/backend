@@ -2,7 +2,7 @@
     "date": "2026-07-08",
     "groups": [
         {
-            "id": "2026-07-08-g1",
+            "id": "2026-07-08-861c4f-1",
             "type": "thematic_association",
             "difficulty": "easy",
             "title": "winter weather",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "2026-07-08-g2",
+            "id": "2026-07-08-20af41-1",
             "type": "etymological_relation",
             "difficulty": "medium",
             "title": "written marks",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "2026-07-08-g3",
+            "id": "2026-07-08-cae597-1",
             "type": "informal_register",
             "difficulty": "hard",
             "title": "nonsense talk",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "2026-07-08-g4",
+            "id": "2026-07-08-e68da3-1",
             "type": "morphological_family",
             "difficulty": "very_hard",
             "title": "know root",

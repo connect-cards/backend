@@ -2,7 +2,7 @@
     "date": "2026-05-04",
     "groups": [
         {
-            "id": "g_easy",
+            "id": "2026-05-04-861c4f-1",
             "type": "easy",
             "difficulty": "easy",
             "title": "common apparel",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g_medium",
+            "id": "2026-05-04-20af41-1",
             "type": "medium",
             "difficulty": "medium",
             "title": "a male person",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g_hard",
+            "id": "2026-05-04-cae597-1",
             "type": "hard",
             "difficulty": "hard",
             "title": "brevity",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "g_vhard",
+            "id": "2026-05-04-e68da3-1",
             "type": "very-hard",
             "difficulty": "very_hard",
             "title": "triadic",

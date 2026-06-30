@@ -2,7 +2,7 @@
     "date": "2026-06-20",
     "groups": [
         {
-            "id": "d20-e",
+            "id": "2026-06-20-861c4f-1",
             "type": "semantic_field",
             "difficulty": "easy",
             "title": "signs of weathering",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "d20-m",
+            "id": "2026-06-20-20af41-1",
             "type": "etymological_relation",
             "difficulty": "medium",
             "title": "speaking plainly",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "d20-h",
+            "id": "2026-06-20-cae597-1",
             "type": "informal_register",
             "difficulty": "hard",
             "title": "difficult to please",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "d20-v",
+            "id": "2026-06-20-e68da3-1",
             "type": "thematic_association",
             "difficulty": "very_hard",
             "title": "faintly uncanny",

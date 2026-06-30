@@ -2,7 +2,7 @@
     "date": "2026-05-25",
     "groups": [
         {
-            "id": "group_easy_1c",
+            "id": "2026-05-25-861c4f-1",
             "type": "group",
             "difficulty": "easy",
             "title": "edged weapons",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "group_medium_1c",
+            "id": "2026-05-25-20af41-1",
             "type": "group",
             "difficulty": "medium",
             "title": "gloom",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "group_hard_1c",
+            "id": "2026-05-25-cae597-1",
             "type": "group",
             "difficulty": "hard",
             "title": "sparkling",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "group_veryhard_1c",
+            "id": "2026-05-25-e68da3-1",
             "type": "group",
             "difficulty": "very_hard",
             "title": "darkness",

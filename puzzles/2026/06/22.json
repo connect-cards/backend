@@ -2,7 +2,7 @@
     "date": "2026-06-22",
     "groups": [
         {
-            "id": "g1",
+            "id": "2026-06-22-861c4f-1",
             "type": "semantic_field",
             "difficulty": "easy",
             "title": "tales of deception",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g2",
+            "id": "2026-06-22-20af41-1",
             "type": "physical_trait",
             "difficulty": "medium",
             "title": "descriptions of a face in shadow",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g3",
+            "id": "2026-06-22-cae597-1",
             "type": "profession_domain",
             "difficulty": "hard",
             "title": "legal decision-makers",
@@ -38,10 +38,10 @@
             ]
         },
         {
-            "id": "g4",
+            "id": "2026-06-22-e68da3-1",
             "type": "etymological_relation",
             "difficulty": "very_hard",
-            "title": "family of words from “publish/declare” roots",
+            "title": "public declaration",
             "words": [
                 "announce",
                 "proclaim",

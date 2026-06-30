@@ -2,7 +2,7 @@
     "date": "2026-04-15",
     "groups": [
         {
-            "id": "d3_easy",
+            "id": "2026-04-15-861c4f-1",
             "type": "easy",
             "difficulty": "easy",
             "title": "sound-alike: hear",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "d3_medium",
+            "id": "2026-04-15-20af41-1",
             "type": "medium",
             "difficulty": "medium",
             "title": "legal-domain",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "d3_hard",
+            "id": "2026-04-15-cae597-1",
             "type": "hard",
             "difficulty": "hard",
             "title": "scrutiny",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "d3_veryhard",
+            "id": "2026-04-15-e68da3-1",
             "type": "very-hard",
             "difficulty": "very_hard",
             "title": "the senses",

@@ -2,7 +2,7 @@
     "date": "2026-07-14",
     "groups": [
         {
-            "id": "2026-07-14-g1",
+            "id": "2026-07-14-861c4f-1",
             "type": "synonym",
             "difficulty": "easy",
             "title": "inspect",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "2026-07-14-g2",
+            "id": "2026-07-14-20af41-1",
             "type": "profession_domain",
             "difficulty": "medium",
             "title": "legal work",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "2026-07-14-g3",
+            "id": "2026-07-14-cae597-1",
             "type": "sound_association",
             "difficulty": "hard",
             "title": "harsh sounds",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "2026-07-14-g4",
+            "id": "2026-07-14-e68da3-1",
             "type": "thematic_association",
             "difficulty": "very_hard",
             "title": "alchemy",

@@ -2,7 +2,7 @@
     "date": "2026-04-20",
     "groups": [
         {
-            "id": "g1",
+            "id": "2026-04-20-861c4f-1",
             "type": "thematic_association",
             "difficulty": "easy",
             "title": "signs of decline",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g2",
+            "id": "2026-04-20-20af41-1",
             "type": "physical_trait",
             "difficulty": "medium",
             "title": "wearing down",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g3",
+            "id": "2026-04-20-cae597-1",
             "type": "literary_register",
             "difficulty": "hard",
             "title": "authoritative narrative voice",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "g4",
+            "id": "2026-04-20-e68da3-1",
             "type": "sound_association",
             "difficulty": "very_hard",
             "title": "a gentle, haunting sound",

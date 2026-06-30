@@ -2,7 +2,7 @@
     "date": "2026-02-08",
     "groups": [
         {
-            "id": "g1",
+            "id": "2026-02-08-861c4f-1",
             "type": "synonym",
             "difficulty": "easy",
             "title": "calm",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g2",
+            "id": "2026-02-08-20af41-1",
             "type": "literary_register",
             "difficulty": "medium",
             "title": "speaking with restraint",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g3",
+            "id": "2026-02-08-cae597-1",
             "type": "emotional_tone",
             "difficulty": "hard",
             "title": "rage that can be both internal and outward",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "g4",
+            "id": "2026-02-08-e68da3-1",
             "type": "morphological_family",
             "difficulty": "very_hard",
             "title": "to draw back / retract",

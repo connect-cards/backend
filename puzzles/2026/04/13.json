@@ -2,7 +2,7 @@
     "date": "2026-04-13",
     "groups": [
         {
-            "id": "d1_easy",
+            "id": "2026-04-13-861c4f-1",
             "type": "easy",
             "difficulty": "easy",
             "title": "weapon material",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "d1_medium",
+            "id": "2026-04-13-20af41-1",
             "type": "medium",
             "difficulty": "medium",
             "title": "backstreet people",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "d1_hard",
+            "id": "2026-04-13-cae597-1",
             "type": "hard",
             "difficulty": "hard",
             "title": "professional expertise",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "d1_veryhard",
+            "id": "2026-04-13-e68da3-1",
             "type": "very-hard",
             "difficulty": "very_hard",
             "title": "subtle physical cues",

@@ -2,7 +2,7 @@
     "date": "2026-05-16",
     "groups": [
         {
-            "id": "D4G1",
+            "id": "2026-05-16-861c4f-1",
             "type": "easy",
             "difficulty": "easy",
             "title": "mood synonyms",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "D4G2",
+            "id": "2026-05-16-20af41-1",
             "type": "medium",
             "difficulty": "medium",
             "title": "professions",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "D4G3",
+            "id": "2026-05-16-cae597-1",
             "type": "hard",
             "difficulty": "hard",
             "title": "emotional tone descriptors",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "D4G4",
+            "id": "2026-05-16-e68da3-1",
             "type": "very-hard",
             "difficulty": "very_hard",
             "title": "aud-root etymology",

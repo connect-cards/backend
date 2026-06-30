@@ -2,7 +2,7 @@
     "date": "2026-03-04",
     "groups": [
         {
-            "id": "g1",
+            "id": "2026-03-04-861c4f-1",
             "type": "literary_register",
             "difficulty": "easy",
             "title": "talk like a story",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g2",
+            "id": "2026-03-04-20af41-1",
             "type": "etymological_relation",
             "difficulty": "medium",
             "title": "related to vision",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g3",
+            "id": "2026-03-04-cae597-1",
             "type": "profession_domain",
             "difficulty": "hard",
             "title": "medical practice",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "g4",
+            "id": "2026-03-04-e68da3-1",
             "type": "physical_trait",
             "difficulty": "very_hard",
             "title": "archaic body/appearance terms",

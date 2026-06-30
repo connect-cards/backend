@@ -2,7 +2,7 @@
     "date": "2026-05-24",
     "groups": [
         {
-            "id": "G1",
+            "id": "2026-05-24-861c4f-1",
             "type": "physical_trait",
             "difficulty": "easy",
             "title": "appearance",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "G2",
+            "id": "2026-05-24-20af41-1",
             "type": "informal_register",
             "difficulty": "medium",
             "title": "informal",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "G3",
+            "id": "2026-05-24-cae597-1",
             "type": "etymological_relation",
             "difficulty": "hard",
             "title": "etymology",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "G4",
+            "id": "2026-05-24-e68da3-1",
             "type": "emotional_tone",
             "difficulty": "very_hard",
             "title": "tone",

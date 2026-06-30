@@ -2,7 +2,7 @@
     "date": "2026-05-14",
     "groups": [
         {
-            "id": "D2G1",
+            "id": "2026-05-14-861c4f-1",
             "type": "easy",
             "difficulty": "easy",
             "title": "literary objects",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "D2G2",
+            "id": "2026-05-14-20af41-1",
             "type": "medium",
             "difficulty": "medium",
             "title": "short reports/ tidbits",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "D2G3",
+            "id": "2026-05-14-cae597-1",
             "type": "hard",
             "difficulty": "hard",
             "title": "wise descriptors",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "D2G4",
+            "id": "2026-05-14-e68da3-1",
             "type": "very-hard",
             "difficulty": "very_hard",
             "title": "esoteric terms",

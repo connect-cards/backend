@@ -2,7 +2,7 @@
     "date": "2026-06-26",
     "groups": [
         {
-            "id": "g1",
+            "id": "2026-06-26-861c4f-1",
             "type": "semantic_field",
             "difficulty": "easy",
             "title": "tools of persuasion",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g2",
+            "id": "2026-06-26-20af41-1",
             "type": "morphological_family",
             "difficulty": "medium",
             "title": "chill and frost",
@@ -26,10 +26,10 @@
             ]
         },
         {
-            "id": "g3",
+            "id": "2026-06-26-cae597-1",
             "type": "thematic_association",
             "difficulty": "hard",
-            "title": "mist over meaning",
+            "title": "uncertainty",
             "words": [
                 "obscure",
                 "murky",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "g4",
+            "id": "2026-06-26-e68da3-1",
             "type": "sound_association",
             "difficulty": "very_hard",
             "title": "sibilant shadows",

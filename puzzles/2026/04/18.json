@@ -2,7 +2,7 @@
     "date": "2026-04-18",
     "groups": [
         {
-            "id": "g1",
+            "id": "2026-04-18-861c4f-1",
             "type": "physical_trait",
             "difficulty": "easy",
             "title": "texture of lightness",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g2",
+            "id": "2026-04-18-20af41-1",
             "type": "sound_association",
             "difficulty": "medium",
             "title": "low, muffled noises",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g3",
+            "id": "2026-04-18-cae597-1",
             "type": "informal_register",
             "difficulty": "hard",
             "title": "casual evaluation",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "g4",
+            "id": "2026-04-18-e68da3-1",
             "type": "semantic_field",
             "difficulty": "very_hard",
             "title": "subtle suspicion about truth",

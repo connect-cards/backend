@@ -2,7 +2,7 @@
     "date": "2026-07-28",
     "groups": [
         {
-            "id": "2026-07-28-g1",
+            "id": "2026-07-28-861c4f-1",
             "type": "thematic_association",
             "difficulty": "easy",
             "title": "ship parts",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "2026-07-28-g2",
+            "id": "2026-07-28-20af41-1",
             "type": "morphological_family",
             "difficulty": "medium",
             "title": "carry root",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "2026-07-28-g3",
+            "id": "2026-07-28-cae597-1",
             "type": "physical_trait",
             "difficulty": "hard",
             "title": "pale complexion",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "2026-07-28-g4",
+            "id": "2026-07-28-e68da3-1",
             "type": "etymological_relation",
             "difficulty": "very_hard",
             "title": "tooth origin",

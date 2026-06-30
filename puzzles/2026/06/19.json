@@ -2,7 +2,7 @@
     "date": "2026-06-19",
     "groups": [
         {
-            "id": "d19-e",
+            "id": "2026-06-19-861c4f-1",
             "type": "literary_register",
             "difficulty": "easy",
             "title": "a cool, tidy voice",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "d19-m",
+            "id": "2026-06-19-20af41-1",
             "type": "synonym",
             "difficulty": "medium",
             "title": "to be appointed",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "d19-h",
+            "id": "2026-06-19-cae597-1",
             "type": "etymological_relation",
             "difficulty": "hard",
             "title": "from greek for 'judge'",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "d19-v",
+            "id": "2026-06-19-e68da3-1",
             "type": "semantic_field",
             "difficulty": "very_hard",
             "title": "poetic units",

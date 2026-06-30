@@ -7,7 +7,7 @@ async function main() {
     if (!filePath) {
         console.error("\
         Usage: npm run repair [path-to-puzzle-json] \n\
-        Example: npm run repair /puzzles/2026/06/01.json"
+        Example: npm run repair ./puzzles/2026/06/01.json"
         );
         return;
     }

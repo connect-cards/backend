@@ -2,7 +2,7 @@
     "date": "2026-03-24",
     "groups": [
         {
-            "id": "g1",
+            "id": "2026-03-24-861c4f-1",
             "type": "emotional_tone",
             "difficulty": "easy",
             "title": "mild positive evaluation",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g2",
+            "id": "2026-03-24-20af41-1",
             "type": "thematic_association",
             "difficulty": "medium",
             "title": "money and negotiation",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g3",
+            "id": "2026-03-24-cae597-1",
             "type": "morphological_family",
             "difficulty": "hard",
             "title": "-tract",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "g4",
+            "id": "2026-03-24-e68da3-1",
             "type": "semantic_field",
             "difficulty": "very_hard",
             "title": "geometry/astrology",

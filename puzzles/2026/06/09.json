@@ -2,7 +2,7 @@
     "date": "2026-06-09",
     "groups": [
         {
-            "id": "d1-easy",
+            "id": "2026-06-09-861c4f-1",
             "type": "thematic_association",
             "difficulty": "easy",
             "title": "an outing in the mind",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "d1-medium",
+            "id": "2026-06-09-20af41-1",
             "type": "informal_register",
             "difficulty": "medium",
             "title": "chatty talkers",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "d1-hard",
+            "id": "2026-06-09-cae597-1",
             "type": "synonym",
             "difficulty": "hard",
             "title": "quietly resentful",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "d1-very-hard",
+            "id": "2026-06-09-e68da3-1",
             "type": "emotional_tone",
             "difficulty": "very_hard",
             "title": "a chilling undercurrent",

@@ -2,7 +2,7 @@
     "date": "2026-03-22",
     "groups": [
         {
-            "id": "g1",
+            "id": "2026-03-22-861c4f-1",
             "type": "synonym",
             "difficulty": "easy",
             "title": "amicable strolling",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "g2",
+            "id": "2026-03-22-20af41-1",
             "type": "profession_domain",
             "difficulty": "medium",
             "title": "culinary roles and tools",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g3",
+            "id": "2026-03-22-cae597-1",
             "type": "physical_trait",
             "difficulty": "hard",
             "title": "descriptions of dimness and low visibility",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "g4",
+            "id": "2026-03-22-e68da3-1",
             "type": "informal_register",
             "difficulty": "very_hard",
             "title": "casual, slightly archaic slurs for a person",

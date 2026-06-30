@@ -2,7 +2,7 @@
     "date": "2026-07-15",
     "groups": [
         {
-            "id": "2026-07-15-g1",
+            "id": "2026-07-15-861c4f-1",
             "type": "synonym",
             "difficulty": "easy",
             "title": "praise",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "2026-07-15-g2",
+            "id": "2026-07-15-20af41-1",
             "type": "morphological_family",
             "difficulty": "medium",
             "title": "carry root",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "2026-07-15-g3",
+            "id": "2026-07-15-cae597-1",
             "type": "profession_domain",
             "difficulty": "hard",
             "title": "linguistics",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "2026-07-15-g4",
+            "id": "2026-07-15-e68da3-1",
             "type": "informal_register",
             "difficulty": "very_hard",
             "title": "petty complaints",

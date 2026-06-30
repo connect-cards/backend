@@ -2,7 +2,7 @@
     "date": "2026-07-23",
     "groups": [
         {
-            "id": "2026-07-23-g1",
+            "id": "2026-07-23-861c4f-1",
             "type": "informal_register",
             "difficulty": "easy",
             "title": "leave quickly",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "2026-07-23-g2",
+            "id": "2026-07-23-20af41-1",
             "type": "emotional_tone",
             "difficulty": "medium",
             "title": "calmness",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "2026-07-23-g3",
+            "id": "2026-07-23-cae597-1",
             "type": "synonym",
             "difficulty": "hard",
             "title": "keen",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "2026-07-23-g4",
+            "id": "2026-07-23-e68da3-1",
             "type": "physical_trait",
             "difficulty": "very_hard",
             "title": "patchy color",

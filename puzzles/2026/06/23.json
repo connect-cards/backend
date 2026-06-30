@@ -2,7 +2,7 @@
     "date": "2026-06-23",
     "groups": [
         {
-            "id": "g1",
+            "id": "2026-06-23-861c4f-1",
             "type": "emotional_tone",
             "difficulty": "easy",
             "title": "lighthearted movement",
@@ -14,10 +14,10 @@
             ]
         },
         {
-            "id": "g2",
+            "id": "2026-06-23-20af41-1",
             "type": "synonym",
             "difficulty": "medium",
-            "title": "mild criticism, without anger",
+            "title": "mild criticism",
             "words": [
                 "rebuke",
                 "censure",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "g3",
+            "id": "2026-06-23-cae597-1",
             "type": "literary_register",
             "difficulty": "hard",
             "title": "elevated ways to say “look”",
@@ -38,10 +38,10 @@
             ]
         },
         {
-            "id": "g4",
+            "id": "2026-06-23-e68da3-1",
             "type": "morphological_family",
             "difficulty": "very_hard",
-            "title": "archaic determiners of smallness",
+            "title": "directional adverbs",
             "words": [
                 "whence",
                 "whither",

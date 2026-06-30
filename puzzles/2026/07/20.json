@@ -2,7 +2,7 @@
     "date": "2026-07-20",
     "groups": [
         {
-            "id": "2026-07-20-g1",
+            "id": "2026-07-20-861c4f-1",
             "type": "informal_register",
             "difficulty": "easy",
             "title": "money slang",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "2026-07-20-g2",
+            "id": "2026-07-20-20af41-1",
             "type": "sound_association",
             "difficulty": "medium",
             "title": "crow sounds",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "2026-07-20-g3",
+            "id": "2026-07-20-cae597-1",
             "type": "emotional_tone",
             "difficulty": "hard",
             "title": "gloomy moods",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "2026-07-20-g4",
+            "id": "2026-07-20-e68da3-1",
             "type": "literary_register",
             "difficulty": "very_hard",
             "title": "poetic lament",

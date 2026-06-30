@@ -2,7 +2,7 @@
     "date": "2026-07-31",
     "groups": [
         {
-            "id": "2026-07-31-g1",
+            "id": "2026-07-31-861c4f-1",
             "type": "physical_trait",
             "difficulty": "easy",
             "title": "thin",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "2026-07-31-g2",
+            "id": "2026-07-31-20af41-1",
             "type": "literary_register",
             "difficulty": "medium",
             "title": "archaic pronouns",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "2026-07-31-g3",
+            "id": "2026-07-31-cae597-1",
             "type": "thematic_association",
             "difficulty": "hard",
             "title": "sea voyage",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "2026-07-31-g4",
+            "id": "2026-07-31-e68da3-1",
             "type": "synonym",
             "difficulty": "very_hard",
             "title": "talkative",

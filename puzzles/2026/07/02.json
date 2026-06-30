@@ -2,7 +2,7 @@
     "date": "2026-07-02",
     "groups": [
         {
-            "id": "2026-07-02-g1",
+            "id": "2026-07-02-861c4f-1",
             "type": "semantic_field",
             "difficulty": "easy",
             "title": "marshland",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "2026-07-02-g2",
+            "id": "2026-07-02-20af41-1",
             "type": "emotional_tone",
             "difficulty": "medium",
             "title": "gloomy moods",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": "2026-07-02-g3",
+            "id": "2026-07-02-cae597-1",
             "type": "sound_association",
             "difficulty": "hard",
             "title": "murmuring sounds",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": "2026-07-02-g4",
+            "id": "2026-07-02-e68da3-1",
             "type": "physical_trait",
             "difficulty": "very_hard",
             "title": "stooped",
