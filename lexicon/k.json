@@ -139,5 +139,213 @@
                 "The knavish salesman lied about the price."
             ]
         }
+    ],
+    "knackered": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very tired, especially because of work or effort",
+            "synonyms": [
+                "exhausted",
+                "worn out",
+                "tired",
+                "beat"
+            ],
+            "examples": [
+                "I’m completely knackered after the shift.",
+                "We were knackered by the time we reached home."
+            ]
+        }
+    ],
+    "keenness": [
+        {
+            "part_of_speech": "noun",
+            "definition": "strong interest or sharp attention to something",
+            "synonyms": [
+                "eagerness",
+                "enthusiasm",
+                "intensity",
+                "alertness"
+            ],
+            "examples": [
+                "Her keenness for learning helped her succeed.",
+                "He showed keenness to solve the problem quickly."
+            ]
+        }
+    ],
+    "kid": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a young child, especially in an informal context",
+            "synonyms": [
+                "child",
+                "youngster",
+                "toddler"
+            ],
+            "examples": [
+                "The kid was afraid of the dark.",
+                "Two kids played in the yard."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to speak to someone in a joking way, not seriously, often to tease them",
+            "synonyms": [
+                "tease",
+                "joke",
+                "mock",
+                "kid around"
+            ],
+            "examples": [
+                "He is always kidding me about my height.",
+                "Don’t kid, are you serious?"
+            ]
+        }
+    ],
+    "kidding": [
+        {
+            "part_of_speech": "noun",
+            "definition": "joking or playful teasing, not meant seriously",
+            "synonyms": [
+                "joking",
+                "teasing",
+                "play",
+                "banter"
+            ],
+            "examples": [
+                "His comment was meant as kidding, not an insult.",
+                "Stop with the kidding and tell me the truth."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "present participle of kid; jokes or teases someone in an informal way",
+            "synonyms": [
+                "joking",
+                "teasing",
+                "mocking lightly"
+            ],
+            "examples": [
+                "I’m not kidding, that’s what the email said.",
+                "He’s kidding about the test being easy."
+            ]
+        }
+    ],
+    "kernel": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the seed of certain plants, such as corn or nuts",
+            "synonyms": [
+                "seed",
+                "grain",
+                "nut",
+                "corn kernel"
+            ],
+            "examples": [
+                "We removed the kernels from the corn.",
+                "The kernel of truth is easy to see."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "the main or most important part of something",
+            "synonyms": [
+                "core",
+                "essence",
+                "main point",
+                "heart"
+            ],
+            "examples": [
+                "The kernel of his argument is correct.",
+                "There is a kernel of truth in the rumor."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "the central part of a computer’s operating system",
+            "synonyms": [
+                "os core",
+                "system kernel",
+                "core program"
+            ],
+            "examples": [
+                "The kernel manages hardware resources.",
+                "Most systems rely on the kernel for basic functions."
+            ]
+        }
+    ],
+    "kiddo": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an informal word for a child or young person",
+            "synonyms": [
+                "kid",
+                "child",
+                "youngster"
+            ],
+            "examples": [
+                "Come here, kiddo.",
+                "The kiddo enjoyed the playground."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to tease or joke with someone in an informal way",
+            "synonyms": [
+                "kid",
+                "tease",
+                "joke"
+            ],
+            "examples": [
+                "Stop kiddoing me, I’m serious.",
+                "He’s always kiddoing his brother."
+            ]
+        }
+    ],
+    "kyphotic": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having or relating to an excessive outward curve of the upper spine",
+            "synonyms": [
+                "hunched",
+                "rounded-shouldered",
+                "spinally curved"
+            ],
+            "examples": [
+                "The doctor noted a kyphotic posture.",
+                "He exercises to reduce kyphotic curvature."
+            ]
+        }
+    ],
+    "keel": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the main structural beam along the bottom of a boat or ship",
+            "synonyms": [
+                "bottom beam",
+                "ship’s backbone",
+                "longitudinal beam"
+            ],
+            "examples": [
+                "The keel helps the boat stay steady.",
+                "Shipbuilders checked the keel for damage."
+            ]
+        }
+    ],
+    "kvetch": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to complain repeatedly, often in an annoying way",
+            "synonyms": [
+                "complain",
+                "moan",
+                "whine",
+                "grumble",
+                "bicker (not exact)"
+            ],
+            "examples": [
+                "Stop kvetching and focus on finding a solution.",
+                "He was kvetching about the weather all day."
+            ]
+        }
     ]
 }

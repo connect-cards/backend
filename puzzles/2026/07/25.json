@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-25",
+    "groups": [
+        {
+            "id": "2026-07-25-g1",
+            "type": "physical_trait",
+            "difficulty": "easy",
+            "title": "hair textures",
+            "words": [
+                "curly",
+                "wiry",
+                "silky",
+                "coarse"
+            ]
+        },
+        {
+            "id": "2026-07-25-g2",
+            "type": "literary_register",
+            "difficulty": "medium",
+            "title": "old-time speech",
+            "words": [
+                "hence",
+                "therein",
+                "whereof",
+                "betwixt"
+            ]
+        },
+        {
+            "id": "2026-07-25-g3",
+            "type": "morphological_family",
+            "difficulty": "hard",
+            "title": "hidden under",
+            "words": [
+                "latent",
+                "latter",
+                "collate",
+                "dilate"
+            ]
+        },
+        {
+            "id": "2026-07-25-g4",
+            "type": "thematic_association",
+            "difficulty": "very_hard",
+            "title": "falconry gear",
+            "words": [
+                "jess",
+                "lure",
+                "mews",
+                "creance"
+            ]
+        }
+    ]
+}

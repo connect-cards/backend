@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-01",
+    "groups": [
+        {
+            "id": "2026-07-01-g1",
+            "type": "informal_register",
+            "difficulty": "easy",
+            "title": "casual talk",
+            "words": [
+                "banter",
+                "chatter",
+                "gab",
+                "natter"
+            ]
+        },
+        {
+            "id": "2026-07-01-g2",
+            "type": "physical_trait",
+            "difficulty": "medium",
+            "title": "thinness",
+            "words": [
+                "gaunt",
+                "lanky",
+                "rangy",
+                "spare"
+            ]
+        },
+        {
+            "id": "2026-07-01-g3",
+            "type": "sound_association",
+            "difficulty": "hard",
+            "title": "harsh sounds",
+            "words": [
+                "clang",
+                "grate",
+                "rasp",
+                "scrape"
+            ]
+        },
+        {
+            "id": "2026-07-01-g4",
+            "type": "synonym",
+            "difficulty": "very_hard",
+            "title": "brief",
+            "words": [
+                "curt",
+                "laconic",
+                "pithy",
+                "succinct"
+            ]
+        }
+    ]
+}

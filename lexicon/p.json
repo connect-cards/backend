@@ -2743,5 +2743,645 @@
                 "He gave a pensive look when he heard the news."
             ]
         }
+    ],
+    "profound": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very great in seriousness, meaning, or level of understanding",
+            "synonyms": [
+                "deep",
+                "powerful",
+                "significant",
+                "intense"
+            ],
+            "examples": [
+                "He had a profound influence on the team.",
+                "The lecture offered profound insights into human behavior."
+            ]
+        }
+    ],
+    "perse": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "in literature, in a formal style meaning through or by means of; also used as a wordplay form in some writing",
+            "synonyms": [],
+            "examples": [
+                "The book’s notes used the word in the formal style.",
+                "In that passage, perse functions as a literary device."
+            ]
+        }
+    ],
+    "pathogen": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a microorganism that causes disease",
+            "synonyms": [
+                "germ",
+                "disease-causing agent",
+                "infectious agent"
+            ],
+            "examples": [
+                "The lab studied how the pathogen spreads.",
+                "Vaccines help the body fight a pathogen."
+            ]
+        }
+    ],
+    "prototype": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an early model of a product used to test and improve the design",
+            "synonyms": [
+                "sample",
+                "model",
+                "trial version",
+                "first draft"
+            ],
+            "examples": [
+                "They built a prototype before starting mass production.",
+                "The prototype worked, but they changed a few parts."
+            ]
+        }
+    ],
+    "partiality": [
+        {
+            "part_of_speech": "noun",
+            "definition": "unfair preference for one person or group",
+            "synonyms": [
+                "bias",
+                "favoritism",
+                "preference",
+                "leaning"
+            ],
+            "examples": [
+                "The judge showed no partiality.",
+                "People noticed favoritism and accused him of partiality."
+            ]
+        }
+    ],
+    "provenance": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the history of ownership and the origin of an object, especially an artwork or document",
+            "synonyms": [
+                "origin",
+                "history of ownership",
+                "background",
+                "record of ownership"
+            ],
+            "examples": [
+                "The provenance of the painting was carefully documented.",
+                "Experts confirmed the provenance before selling the item."
+            ]
+        }
+    ],
+    "peruse": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to read something carefully and slowly",
+            "synonyms": [
+                "read",
+                "study",
+                "examine",
+                "review"
+            ],
+            "examples": [
+                "I perused the document before signing it.",
+                "She perused the menu and ordered quickly."
+            ]
+        }
+    ],
+    "proof": [
+        {
+            "part_of_speech": "noun",
+            "definition": "information or evidence that shows something is true or correct",
+            "synonyms": [
+                "evidence",
+                "confirmation",
+                "verification",
+                "support"
+            ],
+            "examples": [
+                "The video was proof of what happened.",
+                "We need proof before we make a decision."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a test or attempt that shows something can work or exist",
+            "synonyms": [
+                "test",
+                "trial",
+                "demonstration",
+                "experiment"
+            ],
+            "examples": [
+                "They did a proof of the concept before building the full system.",
+                "The results are a proof that the method works."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "material, such as protective coating, that resists water or fire",
+            "synonyms": [
+                "resistance",
+                "barrier",
+                "protective coating"
+            ],
+            "examples": [
+                "The jacket is waterproof and proof against wind.",
+                "They used proof material for the roof."
+            ]
+        }
+    ],
+    "promptly": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "in a quick and timely way, without delay",
+            "synonyms": [
+                "quickly",
+                "immediately",
+                "on time",
+                "without delay"
+            ],
+            "examples": [
+                "Please respond promptly.",
+                "He arrived promptly at 9 o’clock."
+            ]
+        }
+    ],
+    "parallax": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an apparent shift in the position of something when viewed from different angles",
+            "synonyms": [
+                "apparent shift",
+                "visual displacement"
+            ],
+            "examples": [
+                "The camera can measure distance using parallax.",
+                "Parallax made the object seem closer than it was."
+            ]
+        }
+    ],
+    "peril": [
+        {
+            "part_of_speech": "noun",
+            "definition": "serious danger that threatens someone or something",
+            "synonyms": [
+                "danger",
+                "risk",
+                "hazard",
+                "threat"
+            ],
+            "examples": [
+                "The hikers were in peril after the storm.",
+                "Driving fast in the rain is a peril."
+            ]
+        }
+    ],
+    "pump": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to move liquid or gas by forcing it through a device",
+            "synonyms": [
+                "press",
+                "circulate",
+                "compress",
+                "transfer"
+            ],
+            "examples": [
+                "They pump water from the river.",
+                "The machine pumps air into the tires."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a machine that moves liquids or gases by pumping",
+            "synonyms": [
+                "pump unit",
+                "device"
+            ],
+            "examples": [
+                "The pump broke and flooded the basement.",
+                "We need a new pump for the water system."
+            ]
+        }
+    ],
+    "pilgrimage": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a long journey to visit a religious place, usually for spiritual reasons",
+            "synonyms": [
+                "journey",
+                "religious journey",
+                "pilgrim trip"
+            ],
+            "examples": [
+                "They made a pilgrimage to the holy site.",
+                "Her pilgrimage took several months."
+            ]
+        }
+    ],
+    "peregrination": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a long journey or travel, especially involving many places",
+            "synonyms": [
+                "journey",
+                "travel",
+                "wanderings",
+                "trip"
+            ],
+            "examples": [
+                "His peregrination across the country ended in exhaustion.",
+                "The book describes her peregrination through different cities."
+            ]
+        }
+    ],
+    "permit": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an official document that allows someone to do something",
+            "synonyms": [
+                "license",
+                "approval",
+                "authorization",
+                "pass"
+            ],
+            "examples": [
+                "You need a permit to park here.",
+                "The permit expires at the end of the month."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to allow something to happen",
+            "synonyms": [
+                "allow",
+                "enable",
+                "authorize",
+                "let"
+            ],
+            "examples": [
+                "This policy permits online applications.",
+                "The rules permit smoking only in this area."
+            ]
+        }
+    ],
+    "platform": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a raised structure for speaking or performing",
+            "synonyms": [
+                "stage",
+                "podium",
+                "raised platform"
+            ],
+            "examples": [
+                "The speaker stood on the platform.",
+                "They took questions from the platform."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a set of ideas or promises used by a political group or candidate",
+            "synonyms": [
+                "policy platform",
+                "program",
+                "agenda",
+                "manifesto"
+            ],
+            "examples": [
+                "The party’s platform focuses on jobs and education.",
+                "Her campaign outlined a platform of reforms."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a system or technology that lets people use services or run software",
+            "synonyms": [
+                "system",
+                "software platform",
+                "service platform"
+            ],
+            "examples": [
+                "The company built a platform for online learning.",
+                "This platform supports mobile apps."
+            ]
+        }
+    ],
+    "plead": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to ask for something earnestly, often because you need help or forgiveness",
+            "synonyms": [
+                "beg",
+                "implore",
+                "request",
+                "entreat"
+            ],
+            "examples": [
+                "She pleaded for a second chance.",
+                "He pleaded not guilty in court."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to state a legal position in court, such as guilty or not guilty",
+            "synonyms": [
+                "enter a plea (legal)",
+                "claim (legal context)"
+            ],
+            "examples": [
+                "He pleaded guilty to the charge.",
+                "The defendant pleaded not guilty."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "an earnest request, or in law a defendant’s statement in court",
+            "synonyms": [
+                "request",
+                "appeal",
+                "plea (legal)"
+            ],
+            "examples": [
+                "The plead for help was ignored.",
+                "Her plead in court was recorded by the clerk."
+            ]
+        }
+    ],
+    "prophecy": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a statement that predicts something that will happen in the future",
+            "synonyms": [
+                "prediction",
+                "forecast",
+                "foretelling",
+                "divination"
+            ],
+            "examples": [
+                "The prophecy claimed the king would fall.",
+                "People debated whether the prophecy was true."
+            ]
+        }
+    ],
+    "pithy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "expressed in a short and clear way, often with strong meaning",
+            "synonyms": [
+                "concise",
+                "succinct",
+                "terse",
+                "compact",
+                "to-the-point"
+            ],
+            "examples": [
+                "Her pithy answer saved time.",
+                "The report was pithy but very clear."
+            ]
+        }
+    ],
+    "pilcrow": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the symbol ¶ used to show the start of a paragraph in printed text or documents",
+            "synonyms": [
+                "paragraph mark",
+                "paragraph symbol",
+                "¶"
+            ],
+            "examples": [
+                "In the document, the pilcrow shows where each paragraph begins.",
+                "The layout guide explains how to use the pilcrow."
+            ]
+        }
+    ],
+    "peevish": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "easily annoyed and complaining in a small way",
+            "synonyms": [
+                "irritable",
+                "petty",
+                "whiny",
+                "testy",
+                "cross"
+            ],
+            "examples": [
+                "He grew peevish when the bus was late.",
+                "Don’t be peevish just because you lost the game."
+            ]
+        }
+    ],
+    "prickly": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having small points or needles, or describing someone’s manner as unfriendly or easily offended",
+            "synonyms": [
+                "spiky",
+                "thorny",
+                "sharp",
+                "touchy",
+                "defensive"
+            ],
+            "examples": [
+                "A prickly cactus can survive dry weather.",
+                "Her prickly response surprised me."
+            ]
+        }
+    ],
+    "prattle": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to talk in a foolish or excited way, often about unimportant things",
+            "synonyms": [
+                "natter",
+                "chatter",
+                "babble",
+                "prattle on",
+                "jabber"
+            ],
+            "examples": [
+                "Stop prattling and help me with the homework.",
+                "They prattled about trivial topics."
+            ]
+        }
+    ],
+    "parsimonious": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very unwilling to spend money, often in a way that seems too careful",
+            "synonyms": [
+                "stingy",
+                "frugal",
+                "miserly",
+                "economical (careful)",
+                "thrifty (positive)"
+            ],
+            "examples": [
+                "He was parsimonious with tips.",
+                "The parsimonious budget limited their options."
+            ]
+        }
+    ],
+    "portage": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the act of carrying a boat and gear over land between two water areas",
+            "synonyms": [
+                "carry",
+                "overland transport",
+                "boat carry"
+            ],
+            "examples": [
+                "They planned a short portage around the waterfall.",
+                "A portage is needed when the river becomes too shallow."
+            ]
+        }
+    ],
+    "peal": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a loud ringing sound, especially of bells",
+            "synonyms": [
+                "ring",
+                "bell sound",
+                "chime",
+                "clang (sound)"
+            ],
+            "examples": [
+                "A peal of laughter filled the room.",
+                "We heard a peal of bells at noon."
+            ]
+        }
+    ],
+    "plaint": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a formal statement of someone’s complaint, especially in court",
+            "synonyms": [
+                "complaint (legal)",
+                "petition",
+                "lawsuit filing",
+                "claim"
+            ],
+            "examples": [
+                "The plaint described the injuries in detail.",
+                "The court received the plaint."
+            ]
+        }
+    ],
+    "poise": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a calm, controlled way of standing or speaking, often showing confidence",
+            "synonyms": [
+                "balance",
+                "confidence",
+                "self-control",
+                "composure",
+                "ease"
+            ],
+            "examples": [
+                "She spoke with poise during the interview.",
+                "The athlete kept her poise even under pressure."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to balance or keep something steady in position; also to consider or judge carefully",
+            "synonyms": [
+                "balance",
+                "steady",
+                "weigh",
+                "consider"
+            ],
+            "examples": [
+                "Poise the glass carefully on the tray.",
+                "She poised her decision after reviewing the facts."
+            ]
+        }
+    ],
+    "piebald": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having black and white patches, often describing animals such as dogs or horses",
+            "synonyms": [
+                "patchy (black and white)",
+                "spotted (black and white)"
+            ],
+            "examples": [
+                "The piebald dog had one black ear.",
+                "A piebald pattern covered the horse’s coat."
+            ]
+        }
+    ],
+    "pinch": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to squeeze something slightly between fingers; also to take a small amount from a supply",
+            "synonyms": [
+                "squeeze",
+                "clamp",
+                "grip",
+                "take a little",
+                "nick (informal)"
+            ],
+            "examples": [
+                "Pinch the fabric to see if it is loose.",
+                "I’ll pinch a bit of sugar from the jar."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a small painful squeeze or a small amount of something",
+            "synonyms": [
+                "squeeze",
+                "small amount",
+                "dash (informal)",
+                "bit"
+            ],
+            "examples": [
+                "Be careful, the pinch is small but it hurts.",
+                "Add a pinch of salt."
+            ]
+        }
+    ],
+    "pith": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the most important part or main meaning of something",
+            "synonyms": [
+                "essence",
+                "core",
+                "heart",
+                "main point",
+                "substance"
+            ],
+            "examples": [
+                "Tell me the pith of the argument.",
+                "The pith of the story is simple."
+            ]
+        }
+    ],
+    "penurious": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very unwilling to spend money; extremely cheap",
+            "synonyms": [
+                "stingy",
+                "miserly",
+                "niggardly",
+                "thrifty (positive)",
+                "mean (informal)"
+            ],
+            "examples": [
+                "He is penurious with even small expenses.",
+                "The penurious landlord refused to fix the plumbing."
+            ]
+        }
     ]
 }

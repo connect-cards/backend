@@ -718,5 +718,180 @@
                 "The car vibrated when the wheel was misaligned."
             ]
         }
+    ],
+    "vanish": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to disappear, especially suddenly or completely",
+            "synonyms": [
+                "disappear",
+                "evaporate",
+                "vanish from view",
+                "disperse"
+            ],
+            "examples": [
+                "The smoke vanished quickly.",
+                "He vanished into the crowd."
+            ]
+        }
+    ],
+    "vamoose": [
+        {
+            "part_of_speech": "verb",
+            "definition": "informal meaning to leave quickly",
+            "synonyms": [
+                "go",
+                "leave quickly",
+                "scram",
+                "skedaddle"
+            ],
+            "examples": [
+                "The thief vamoosed before anyone could stop him.",
+                "Vamoose, the meeting is about to start."
+            ]
+        }
+    ],
+    "venomous": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "able to cause harm, especially through poisonous venom; also used for harsh, harmful speech",
+            "synonyms": [
+                "poisonous",
+                "toxic",
+                "bitter",
+                "malicious"
+            ],
+            "examples": [
+                "The snake is venomous.",
+                "He made a venomous remark about her work."
+            ]
+        }
+    ],
+    "variorum": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a collection of different versions or readings of a text, often shown with notes",
+            "synonyms": [
+                "text variants (collection)",
+                "critical edition (with variants)",
+                "collection of readings"
+            ],
+            "examples": [
+                "The variorum lists several ways the sentence can be read.",
+                "They consulted a variorum before finalizing the quote."
+            ]
+        }
+    ],
+    "visible": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "able to be seen, or easy to notice",
+            "synonyms": [
+                "seen",
+                "clear",
+                "noticeable",
+                "apparent",
+                "perceptible"
+            ],
+            "examples": [
+                "A visible crack runs along the wall.",
+                "The difference became visible after the repair."
+            ]
+        }
+    ],
+    "vortex": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a strong swirling motion in which liquid or air rotates around a center",
+            "synonyms": [
+                "whirlpool",
+                "whirl",
+                "spiral",
+                "gyre"
+            ],
+            "examples": [
+                "The water disappeared into a vortex.",
+                "A vortex formed as the wind increased."
+            ]
+        }
+    ],
+    "venue": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the place where an event is held",
+            "synonyms": [
+                "location",
+                "site",
+                "event space",
+                "setting"
+            ],
+            "examples": [
+                "The venue for the concert is downtown.",
+                "We chose a venue with enough seating."
+            ]
+        }
+    ],
+    "vehicle": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a machine used to carry people or goods, such as a car, bus, or truck",
+            "synonyms": [
+                "car",
+                "transport",
+                "transportation (general)",
+                "vessel (some context)",
+                "machine (general)"
+            ],
+            "examples": [
+                "We rented a vehicle for the weekend.",
+                "The vehicle stopped at the traffic light."
+            ]
+        }
+    ],
+    "vector": [
+        {
+            "part_of_speech": "noun",
+            "definition": "in mathematics, a quantity with both direction and magnitude",
+            "synonyms": [
+                "direction quantity",
+                "mathematical vector"
+            ],
+            "examples": [
+                "The diagram shows the vector clearly.",
+                "Use a vector to represent the force."
+            ]
+        }
+    ],
+    "vection": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the movement of heat or other properties through a fluid by the motion of the fluid itself",
+            "synonyms": [
+                "fluid transport",
+                "heat transport (by flow)",
+                "movement in a fluid"
+            ],
+            "examples": [
+                "In meteorology, convection is different from vection.",
+                "The report discussed vection in the fluid model."
+            ]
+        }
+    ],
+    "voluble": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "talking a lot and speaking easily, often in a way that seems hard to stop",
+            "synonyms": [
+                "talkative",
+                "chatty",
+                "loquacious",
+                "fluent",
+                "effusive"
+            ],
+            "examples": [
+                "He was voluble during the interview.",
+                "Her voluble speech made it difficult to get a word in."
+            ]
+        }
     ]
 }

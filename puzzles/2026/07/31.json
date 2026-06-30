@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-31",
+    "groups": [
+        {
+            "id": "2026-07-31-g1",
+            "type": "physical_trait",
+            "difficulty": "easy",
+            "title": "thin",
+            "words": [
+                "gaunt",
+                "lanky",
+                "spare",
+                "rangy"
+            ]
+        },
+        {
+            "id": "2026-07-31-g2",
+            "type": "literary_register",
+            "difficulty": "medium",
+            "title": "archaic pronouns",
+            "words": [
+                "thou",
+                "thee",
+                "thy",
+                "thine"
+            ]
+        },
+        {
+            "id": "2026-07-31-g3",
+            "type": "thematic_association",
+            "difficulty": "hard",
+            "title": "sea voyage",
+            "words": [
+                "bilge",
+                "keel",
+                "astern",
+                "starboard"
+            ]
+        },
+        {
+            "id": "2026-07-31-g4",
+            "type": "synonym",
+            "difficulty": "very_hard",
+            "title": "talkative",
+            "words": [
+                "garrulous",
+                "loquacious",
+                "voluble",
+                "effusive"
+            ]
+        }
+    ]
+}

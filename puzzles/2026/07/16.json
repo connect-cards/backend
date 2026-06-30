@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-16",
+    "groups": [
+        {
+            "id": "2026-07-16-g1",
+            "type": "thematic_association",
+            "difficulty": "easy",
+            "title": "winter weather",
+            "words": [
+                "sleet",
+                "frost",
+                "hail",
+                "thaw"
+            ]
+        },
+        {
+            "id": "2026-07-16-g2",
+            "type": "profession_domain",
+            "difficulty": "medium",
+            "title": "tailoring",
+            "words": [
+                "hem",
+                "gusset",
+                "selvage",
+                "baste"
+            ]
+        },
+        {
+            "id": "2026-07-16-g3",
+            "type": "physical_trait",
+            "difficulty": "hard",
+            "title": "gaunt",
+            "words": [
+                "lean",
+                "cadaverous",
+                "scrawny",
+                "rangy"
+            ]
+        },
+        {
+            "id": "2026-07-16-g4",
+            "type": "semantic_field",
+            "difficulty": "very_hard",
+            "title": "swirling motion",
+            "words": [
+                "eddy",
+                "gyre",
+                "whorl",
+                "vortex"
+            ]
+        }
+    ]
+}

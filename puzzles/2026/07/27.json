@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-27",
+    "groups": [
+        {
+            "id": "2026-07-27-g1",
+            "type": "literary_register",
+            "difficulty": "easy",
+            "title": "poetic grief",
+            "words": [
+                "woe",
+                "dirge",
+                "mourn",
+                "lament"
+            ]
+        },
+        {
+            "id": "2026-07-27-g2",
+            "type": "physical_trait",
+            "difficulty": "medium",
+            "title": "gaunt",
+            "words": [
+                "bony",
+                "haggard",
+                "cadaverous",
+                "rawboned"
+            ]
+        },
+        {
+            "id": "2026-07-27-g3",
+            "type": "semantic_field",
+            "difficulty": "hard",
+            "title": "marshland",
+            "words": [
+                "fen",
+                "bog",
+                "mire",
+                "morass"
+            ]
+        },
+        {
+            "id": "2026-07-27-g4",
+            "type": "morphological_family",
+            "difficulty": "very_hard",
+            "title": "bear root",
+            "words": [
+                "tolerate",
+                "collate",
+                "translate",
+                "oblate"
+            ]
+        }
+    ]
+}

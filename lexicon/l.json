@@ -1133,5 +1133,359 @@
                 "People loitered outside the café while waiting for friends."
             ]
         }
+    ],
+    "liquidity": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the ability to turn assets into cash quickly without large losses",
+            "synonyms": [
+                "cash availability",
+                "liquid funds",
+                "financial flexibility",
+                "marketability"
+            ],
+            "examples": [
+                "The company improved its liquidity after refinancing.",
+                "Low liquidity can make it hard to meet payments."
+            ]
+        }
+    ],
+    "leverage": [
+        {
+            "part_of_speech": "noun",
+            "definition": "power or advantage gained by using resources, influence, or strategy",
+            "synonyms": [
+                "advantage",
+                "edge",
+                "means",
+                "bargaining power"
+            ],
+            "examples": [
+                "She used her experience as leverage in the negotiation.",
+                "The new data gave the team leverage over competitors."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to use something to gain an advantage",
+            "synonyms": [
+                "use",
+                "apply",
+                "exploit",
+                "capitalize on"
+            ],
+            "examples": [
+                "They leveraged public support to pass the bill.",
+                "The firm leveraged technology to reduce costs."
+            ]
+        }
+    ],
+    "liability": [
+        {
+            "part_of_speech": "noun",
+            "definition": "responsibility for something, especially the legal obligation to pay for damage or loss",
+            "synonyms": [
+                "responsibility",
+                "obligation",
+                "legal duty",
+                "exposure"
+            ],
+            "examples": [
+                "The company limits its liability in the contract.",
+                "Under the policy, the liability is covered."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a person or thing that is likely to cause problems or harm",
+            "synonyms": [
+                "drawback",
+                "weakness",
+                "problem",
+                "risk"
+            ],
+            "examples": [
+                "The project became a liability for the team.",
+                "His lack of experience was a liability."
+            ]
+        }
+    ],
+    "limn": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to describe or represent something in detail, often in writing or art",
+            "synonyms": [
+                "depict",
+                "describe",
+                "portray",
+                "draw"
+            ],
+            "examples": [
+                "The author limns life in the city with clear detail.",
+                "She tried to limn the character’s emotions on paper."
+            ]
+        }
+    ],
+    "lyre": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a musical instrument with strings stretched across a frame, played by plucking or strumming",
+            "synonyms": [
+                "string instrument",
+                "ancient harp"
+            ],
+            "examples": [
+                "The musician played the lyre softly.",
+                "In the museum, we saw an old lyre."
+            ]
+        }
+    ],
+    "licensed": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having official permission to work or operate, usually after meeting requirements",
+            "synonyms": [
+                "authorized",
+                "permitted",
+                "approved",
+                "credentialed"
+            ],
+            "examples": [
+                "She is licensed to practice law.",
+                "The store is licensed to sell alcohol."
+            ]
+        }
+    ],
+    "levity": [
+        {
+            "part_of_speech": "noun",
+            "definition": "lack of seriousness, shown by joking or not taking things seriously",
+            "synonyms": [
+                "lightness",
+                "playfulness",
+                "humor",
+                "casualness"
+            ],
+            "examples": [
+                "His levity was not appropriate during the serious discussion.",
+                "The teacher asked for less levity in class."
+            ]
+        }
+    ],
+    "lull": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a quiet or calm period, often with less activity or less noise",
+            "synonyms": [
+                "pause",
+                "break",
+                "calm",
+                "repose",
+                "respite"
+            ],
+            "examples": [
+                "A lull in the fighting let families move safely.",
+                "There was a brief lull in conversation."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make someone feel calm or less worried",
+            "synonyms": [
+                "soothe",
+                "calm",
+                "relieve",
+                "comfort",
+                "pacify"
+            ],
+            "examples": [
+                "She tried to lull him to sleep.",
+                "The calm music helped lull me into a relaxed mood."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to reduce activity or intensity for a short time",
+            "synonyms": [
+                "reduce",
+                "ease",
+                "dampen",
+                "abate",
+                "cool"
+            ],
+            "examples": [
+                "The rain lulled the crowd into silence.",
+                "Stress sometimes lulled as work became quieter."
+            ]
+        }
+    ],
+    "lemma": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a statement proved for use in a larger proof in mathematics or logic",
+            "synonyms": [
+                "proposition",
+                "theorem (related)",
+                "supporting statement"
+            ],
+            "examples": [
+                "The lemma helps prove the main theorem.",
+                "They used a lemma to simplify the argument."
+            ]
+        }
+    ],
+    "laud": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to praise someone or something highly",
+            "synonyms": [
+                "praise",
+                "commend",
+                "celebrate",
+                "extol",
+                "compliment"
+            ],
+            "examples": [
+                "They lauded her efforts during the ceremony.",
+                "The article lauded the new design."
+            ]
+        }
+    ],
+    "loot": [
+        {
+            "part_of_speech": "noun",
+            "definition": "goods taken by force, especially during war or crime",
+            "synonyms": [
+                "stolen goods",
+                "plunder",
+                "booty",
+                "theft"
+            ],
+            "examples": [
+                "The police found hidden loot.",
+                "The soldiers carried sacks of loot."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to steal goods during a war or riot",
+            "synonyms": [
+                "plunder",
+                "rob",
+                "steal",
+                "loot (steal)",
+                "pillage"
+            ],
+            "examples": [
+                "People looted shops after the fire.",
+                "The city was looted by the invaders."
+            ]
+        }
+    ],
+    "laconicism": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the use of very few words to express ideas clearly",
+            "synonyms": [
+                "terse style",
+                "conciseness",
+                "brevity",
+                "understatement"
+            ],
+            "examples": [
+                "His laconicism made him seem serious.",
+                "Good writing often avoids unnecessary words through laconicism."
+            ]
+        }
+    ],
+    "latent": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "existing but not yet active or not yet clearly seen",
+            "synonyms": [
+                "hidden",
+                "undeveloped",
+                "dormant",
+                "secret",
+                "dormant (similar)"
+            ],
+            "examples": [
+                "Stress can be latent and appear later.",
+                "The problem was latent in the design."
+            ]
+        }
+    ],
+    "latter": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "referring to the second of two things mentioned",
+            "synonyms": [
+                "second",
+                "later (contextual)",
+                "the second one"
+            ],
+            "examples": [
+                "I preferred the latter option.",
+                "The latter part of the book is more interesting."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "the second of two things mentioned",
+            "synonyms": [
+                "second one"
+            ],
+            "examples": [
+                "The first was expensive, but the latter was better value."
+            ]
+        }
+    ],
+    "lure": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to attract someone or something by offering something tempting",
+            "synonyms": [
+                "attract",
+                "tempt",
+                "entice",
+                "draw",
+                "bait"
+            ],
+            "examples": [
+                "The offer was meant to lure customers.",
+                "They tried to lure the animal away from the yard."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "something that tempts or attracts, especially intentionally",
+            "synonyms": [
+                "temptation",
+                "enticement",
+                "bait",
+                "attraction"
+            ],
+            "examples": [
+                "The website used a lure to get personal information.",
+                "His promise was just a lure."
+            ]
+        }
+    ],
+    "lachrymose": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "tending to cry or to express sorrow in an emotional way",
+            "synonyms": [
+                "tearful",
+                "sentimental",
+                "tearful (context)",
+                "weeping",
+                "overly emotional"
+            ],
+            "examples": [
+                "His lachrymose speech sounded more like drama than truth.",
+                "She became lachrymose when she talked about the loss."
+            ]
+        }
     ]
 }

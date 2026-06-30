@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-11",
+    "groups": [
+        {
+            "id": "2026-07-11-g1",
+            "type": "synonym",
+            "difficulty": "easy",
+            "title": "anger",
+            "words": [
+                "ire",
+                "wrath",
+                "resentment",
+                "indignation"
+            ]
+        },
+        {
+            "id": "2026-07-11-g2",
+            "type": "physical_trait",
+            "difficulty": "medium",
+            "title": "bony",
+            "words": [
+                "gaunt",
+                "cadaverous",
+                "haggard",
+                "skeletal"
+            ]
+        },
+        {
+            "id": "2026-07-11-g3",
+            "type": "literary_register",
+            "difficulty": "hard",
+            "title": "old pronouns",
+            "words": [
+                "thou",
+                "thee",
+                "thy",
+                "thine"
+            ]
+        },
+        {
+            "id": "2026-07-11-g4",
+            "type": "semantic_field",
+            "difficulty": "very_hard",
+            "title": "flooding",
+            "words": [
+                "inundate",
+                "deluge",
+                "spate",
+                "engorge"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-24",
+    "groups": [
+        {
+            "id": "2026-07-24-g1",
+            "type": "informal_register",
+            "difficulty": "easy",
+            "title": "steal",
+            "words": [
+                "swipe",
+                "pinch",
+                "nab",
+                "snitch"
+            ]
+        },
+        {
+            "id": "2026-07-24-g2",
+            "type": "thematic_association",
+            "difficulty": "medium",
+            "title": "at sea",
+            "words": [
+                "keel",
+                "mast",
+                "wake",
+                "starboard"
+            ]
+        },
+        {
+            "id": "2026-07-24-g3",
+            "type": "etymological_relation",
+            "difficulty": "hard",
+            "title": "carry roots",
+            "words": [
+                "convey",
+                "vehicle",
+                "vector",
+                "vection"
+            ]
+        },
+        {
+            "id": "2026-07-24-g4",
+            "type": "literary_register",
+            "difficulty": "very_hard",
+            "title": "briefness",
+            "words": [
+                "brevity",
+                "pith",
+                "laconicism",
+                "concision"
+            ]
+        }
+    ]
+}

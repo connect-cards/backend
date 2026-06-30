@@ -1333,5 +1333,372 @@
                 "He was elated by the promotion."
             ]
         }
+    ],
+    "essay": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a short piece of writing about a topic, usually with arguments or explanations",
+            "synonyms": [
+                "composition",
+                "article",
+                "paper",
+                "treatise"
+            ],
+            "examples": [
+                "She wrote an essay for history class.",
+                "My essay focuses on climate policy."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to try or attempt, usually with some uncertainty",
+            "synonyms": [
+                "attempt",
+                "try",
+                "seek",
+                "endeavor"
+            ],
+            "examples": [
+                "He essayed a new method for the experiment.",
+                "She essayed to speak to the manager."
+            ]
+        }
+    ],
+    "essayist": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who writes essays",
+            "synonyms": [
+                "writer",
+                "essay writer",
+                "nonfiction writer",
+                "columnist"
+            ],
+            "examples": [
+                "He is a well-known essayist on politics.",
+                "The magazine invited a guest essayist."
+            ]
+        }
+    ],
+    "edged": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having a sharp or slightly rough outline or boundary; bordering on something in a gradual way",
+            "synonyms": [
+                "bordered",
+                "tapered",
+                "lined",
+                "slight"
+            ],
+            "examples": [
+                "The edge of the paper is edged with gold.",
+                "I feel edged with worry about the test."
+            ]
+        }
+    ],
+    "exonerate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to clear someone from blame or guilt",
+            "synonyms": [
+                "absolve",
+                "clear",
+                "acquit",
+                "vindicate"
+            ],
+            "examples": [
+                "The evidence helped exonerate her.",
+                "The investigation exonerated the suspect."
+            ]
+        }
+    ],
+    "early": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "happening or existing near the beginning of a period of time",
+            "synonyms": [
+                "initial",
+                "early-stage",
+                "soon",
+                "before long"
+            ],
+            "examples": [
+                "We met at an early hour.",
+                "Her early work showed great promise."
+            ]
+        },
+        {
+            "part_of_speech": "adverb",
+            "definition": "at or near the start of a process or time",
+            "synonyms": [
+                "soon",
+                "in advance",
+                "beforehand"
+            ],
+            "examples": [
+                "We arrived early for the show.",
+                "He finished early today."
+            ]
+        }
+    ],
+    "exacting": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very demanding and requiring high standards",
+            "synonyms": [
+                "demanding",
+                "strict",
+                "rigorous",
+                "difficult"
+            ],
+            "examples": [
+                "He is an exacting manager and expects quality work.",
+                "The job is exacting but rewarding."
+            ]
+        }
+    ],
+    "expeditious": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "done quickly and efficiently",
+            "synonyms": [
+                "efficient",
+                "prompt",
+                "speedy",
+                "rapid"
+            ],
+            "examples": [
+                "They made expeditious progress on the repairs.",
+                "The team handled the request in an expeditious manner."
+            ]
+        }
+    ],
+    "ephemeris": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a table or data source that gives the positions or movements of celestial objects for specific times",
+            "synonyms": [
+                "astronomical table",
+                "almanac (astronomical)"
+            ],
+            "examples": [
+                "The ephemeris listed the planet’s position for each day.",
+                "Astronomers used an ephemeris to plan observations."
+            ]
+        }
+    ],
+    "evacuate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to move people away from a dangerous or unsafe place",
+            "synonyms": [
+                "empty",
+                "clear",
+                "remove people",
+                "relocate"
+            ],
+            "examples": [
+                "They evacuated the building after the fire alarm.",
+                "The city evacuated residents near the river."
+            ]
+        }
+    ],
+    "egg": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an oval food produced by a chicken or other bird",
+            "synonyms": [
+                "egg (food)"
+            ],
+            "examples": [
+                "I bought eggs for breakfast.",
+                "She used two eggs in the cake."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to encourage someone, especially by provoking or influencing them",
+            "synonyms": [
+                "encourage",
+                "spur",
+                "incite",
+                "prompt"
+            ],
+            "examples": [
+                "He egged me on to take the risk.",
+                "Don’t egg him into trouble."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to throw an egg at someone to insult them",
+            "synonyms": [
+                "throw eggs at",
+                "pelt",
+                "target with eggs"
+            ],
+            "examples": [
+                "They egged the politician during the event."
+            ]
+        }
+    ],
+    "ebb": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a decrease, especially in strength, activity, or movement",
+            "synonyms": [
+                "decline",
+                "reduction",
+                "diminution",
+                "falloff",
+                "retreat"
+            ],
+            "examples": [
+                "There was a noticeable ebb in customer traffic after the reopening.",
+                "The first signs of ebb appeared in the company’s sales."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to decrease gradually, especially in strength or movement",
+            "synonyms": [
+                "decrease",
+                "decline",
+                "diminish",
+                "fall",
+                "recede"
+            ],
+            "examples": [
+                "Interest ebbed after the news cycle ended.",
+                "The tide began to ebb."
+            ]
+        }
+    ],
+    "effervesce": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to produce bubbles and become lively, or to show excitement and energy",
+            "synonyms": [
+                "bubble",
+                "sparkle",
+                "foam",
+                "seethe (in excitement)",
+                "flare up"
+            ],
+            "examples": [
+                "The soda effervesces when you open the bottle.",
+                "His laugh seemed to effervesce with energy."
+            ]
+        }
+    ],
+    "euphoria": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a feeling of great happiness or excitement",
+            "synonyms": [
+                "joy",
+                "elation",
+                "excitement",
+                "thrill",
+                "high"
+            ],
+            "examples": [
+                "After the win, she felt euphoria.",
+                "The crowd was in euphoria for hours."
+            ]
+        }
+    ],
+    "engorge": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to fill or swell with liquid or food, often making something larger and tighter",
+            "synonyms": [
+                "fill",
+                "swollen (with)",
+                "flood (with)",
+                "inflate (slightly)"
+            ],
+            "examples": [
+                "The artery can engorge with blood.",
+                "The leaves engorged after heavy rain."
+            ]
+        }
+    ],
+    "engender": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to cause something to begin or exist, often a feeling or situation",
+            "synonyms": [
+                "cause",
+                "bring about",
+                "create",
+                "produce",
+                "lead to"
+            ],
+            "examples": [
+                "The speech engendered strong support.",
+                "This policy can engender confusion."
+            ]
+        }
+    ],
+    "elixir": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a substance believed to have special healing or magical properties, or a flavored liquid used as a medicine",
+            "synonyms": [
+                "medicine",
+                "tonic (real-life context)",
+                "remedy",
+                "healing drink"
+            ],
+            "examples": [
+                "The book described a powerful elixir for health.",
+                "The pharmacist mixed a vitamin elixir."
+            ]
+        }
+    ],
+    "eddy": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small circular movement in a fluid, especially water, that flows opposite to the main current",
+            "synonyms": [
+                "whirl",
+                "swirl",
+                "vortex (small)",
+                "turn"
+            ],
+            "examples": [
+                "An eddy formed behind the rock.",
+                "The fisherman waited for the eddy to carry the boat."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to move in circular currents, often against the main flow",
+            "synonyms": [
+                "swirl",
+                "whirl",
+                "circulate",
+                "turn"
+            ],
+            "examples": [
+                "Leaves eddied around the drain.",
+                "The water eddied near the pier."
+            ]
+        }
+    ],
+    "ere": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "before; used in older english",
+            "synonyms": [
+                "before",
+                "earlier (contextual)"
+            ],
+            "examples": [
+                "Ere you go, please read the instructions.",
+                "He left ere the meeting began."
+            ]
+        }
     ]
 }

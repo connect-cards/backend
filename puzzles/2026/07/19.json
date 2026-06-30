@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-19",
+    "groups": [
+        {
+            "id": "2026-07-19-g1",
+            "type": "profession_domain",
+            "difficulty": "easy",
+            "title": "law practice",
+            "words": [
+                "brief",
+                "depose",
+                "tort",
+                "venue"
+            ]
+        },
+        {
+            "id": "2026-07-19-g2",
+            "type": "sound_association",
+            "difficulty": "medium",
+            "title": "horse sounds",
+            "words": [
+                "neigh",
+                "snort",
+                "whicker",
+                "whinny"
+            ]
+        },
+        {
+            "id": "2026-07-19-g3",
+            "type": "thematic_association",
+            "difficulty": "hard",
+            "title": "winter weather",
+            "words": [
+                "rime",
+                "sleet",
+                "thaw",
+                "slush"
+            ]
+        },
+        {
+            "id": "2026-07-19-g4",
+            "type": "morphological_family",
+            "difficulty": "very_hard",
+            "title": "star forms",
+            "words": [
+                "astral",
+                "aster",
+                "asterisk",
+                "disaster"
+            ]
+        }
+    ]
+}

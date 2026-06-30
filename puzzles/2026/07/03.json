@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-03",
+    "groups": [
+        {
+            "id": "2026-07-03-g1",
+            "type": "literary_register",
+            "difficulty": "easy",
+            "title": "old-fashioned pronouns",
+            "words": [
+                "thee",
+                "thou",
+                "thy",
+                "thine"
+            ]
+        },
+        {
+            "id": "2026-07-03-g2",
+            "type": "morphological_family",
+            "difficulty": "medium",
+            "title": "bearing carry",
+            "words": [
+                "carnage",
+                "carriage",
+                "cart",
+                "charge"
+            ]
+        },
+        {
+            "id": "2026-07-03-g3",
+            "type": "profession_domain",
+            "difficulty": "hard",
+            "title": "printer's marks",
+            "words": [
+                "caret",
+                "dingbat",
+                "pilcrow",
+                "stet"
+            ]
+        },
+        {
+            "id": "2026-07-03-g4",
+            "type": "physical_trait",
+            "difficulty": "very_hard",
+            "title": "hooked nose",
+            "words": [
+                "aquiline",
+                "beaked",
+                "hawkish",
+                "rostrate"
+            ]
+        }
+    ]
+}

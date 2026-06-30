@@ -2403,5 +2403,507 @@
                 "There was a tiff over the bill, but it was resolved fast."
             ]
         }
+    ],
+    "tolerance": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the ability or willingness to accept differences or ideas without anger",
+            "synonyms": [
+                "acceptance",
+                "patience",
+                "forbearance",
+                "open-mindedness"
+            ],
+            "examples": [
+                "Tolerance helps people live peacefully in diverse communities.",
+                "The program teaches tolerance and respect."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "the maximum allowed difference from a standard measurement or value in engineering or manufacturing",
+            "synonyms": [
+                "allowance",
+                "permitted range",
+                "margin of error"
+            ],
+            "examples": [
+                "The part fits within the required tolerance.",
+                "Tolerances are strict for the engine components."
+            ]
+        }
+    ],
+    "torrent": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a strong, fast-flowing stream of water",
+            "synonyms": [
+                "flood",
+                "downpour",
+                "waterfall flow",
+                "rush"
+            ],
+            "examples": [
+                "The storm created a torrent in the street.",
+                "A torrent of rain hit the town."
+            ]
+        }
+    ],
+    "tidepool": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small pool of seawater that forms in rocky areas when the tide moves out",
+            "synonyms": [
+                "rock pool",
+                "pool"
+            ],
+            "examples": [
+                "We found a tidepool full of tiny crabs.",
+                "Kids watched sea creatures in the tidepool."
+            ]
+        }
+    ],
+    "therewith": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "with that; together with what has just been mentioned",
+            "synonyms": [
+                "along with that",
+                "with it",
+                "together with that"
+            ],
+            "examples": [
+                "He signed the form therewith.",
+                "The letter included payment therewith."
+            ]
+        }
+    ],
+    "thee": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an object form of you used in older or religious english",
+            "synonyms": [
+                "you"
+            ],
+            "examples": [
+                "The letter addressed thee directly.",
+                "In the old hymn, the speaker says thee."
+            ]
+        }
+    ],
+    "thou": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a subject form of you used in older or religious english",
+            "synonyms": [
+                "you"
+            ],
+            "examples": [
+                "In many old poems, thou appears instead of you.",
+                "The play uses thou for older speech."
+            ]
+        }
+    ],
+    "thy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "an older form meaning your, used before a noun in traditional english",
+            "synonyms": [
+                "your"
+            ],
+            "examples": [
+                "Thy coat was left on the chair.",
+                "The script contains the line with thy."
+            ]
+        }
+    ],
+    "thine": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "an older form meaning your, used when the noun is not stated",
+            "synonyms": [
+                "your",
+                "yours"
+            ],
+            "examples": [
+                "The book is thine, not mine.",
+                "Thine are the answers, the prayer says."
+            ]
+        }
+    ],
+    "tramontane": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "coming from over the mountains, often used for winds from across the alps",
+            "synonyms": [
+                "foreign",
+                "from across the mountains (contextual)"
+            ],
+            "examples": [
+                "The region’s tramontane winds can be strong.",
+                "She wrote about tramontane weather in her notes."
+            ]
+        }
+    ],
+    "tetchy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "irritable and easily annoyed",
+            "synonyms": [
+                "irritable",
+                "testy",
+                "cross",
+                "peevish",
+                "touchy"
+            ],
+            "examples": [
+                "She became tetchy when people kept interrupting.",
+                "Don’t ask again, he’s tetchy today."
+            ]
+        }
+    ],
+    "translate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to change words or information from one language into another while keeping the meaning",
+            "synonyms": [
+                "interpret",
+                "render",
+                "convert",
+                "transcribe (meaning-focused)",
+                "put into another language"
+            ],
+            "examples": [
+                "Can you translate this email into Spanish?",
+                "The app translates signs in seconds."
+            ]
+        }
+    ],
+    "traffic": [
+        {
+            "part_of_speech": "noun",
+            "definition": "vehicles moving on roads or in a particular area",
+            "synonyms": [
+                "road traffic",
+                "vehicle flow",
+                "congestion (context)",
+                "gridlock (extreme)",
+                "traffic flow"
+            ],
+            "examples": [
+                "The city center has heavy traffic in the morning.",
+                "We avoided the highway because of traffic."
+            ]
+        }
+    ],
+    "thaw": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the process of ice or snow melting when the temperature rises",
+            "synonyms": [
+                "melting",
+                "warming",
+                "break (in cold weather)",
+                "ice melt"
+            ],
+            "examples": [
+                "After the thaw, the roads became muddy.",
+                "We waited for the thaw before driving."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to melt because the temperature becomes warmer",
+            "synonyms": [
+                "melt",
+                "unfreeze",
+                "loosen (ice)",
+                "warm up"
+            ],
+            "examples": [
+                "The pipes thawed after we used a heater.",
+                "Spring days thaw the snow in the yard."
+            ]
+        }
+    ],
+    "tripe": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the soft stomach tissue of an animal used as food",
+            "synonyms": [
+                "offal",
+                "stomach meat",
+                "tripe meat"
+            ],
+            "examples": [
+                "They ordered tripe as a local dish.",
+                "The restaurant served tripe with vegetables."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "nonsense talk or ideas, especially in an informal insult",
+            "synonyms": [
+                "nonsense",
+                "rubbish",
+                "baloney",
+                "twaddle",
+                "nonsense talk"
+            ],
+            "examples": [
+                "That’s just tripe, not real evidence.",
+                "I’m not listening to your tripe."
+            ]
+        }
+    ],
+    "tort": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a type of civil wrongdoing where someone’s actions cause harm and the injured person can sue for compensation",
+            "synonyms": [
+                "wrong (legal)",
+                "civil wrong",
+                "civil wrongdoing"
+            ],
+            "examples": [
+                "Negligence can be a tort under certain laws.",
+                "The case was filed as a tort claim."
+            ]
+        }
+    ],
+    "toll": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a bell ring in a slow heavy way, or to count the cost of something in lives",
+            "synonyms": [
+                "ring",
+                "count (cost)",
+                "take (lives)",
+                "claim (lives)"
+            ],
+            "examples": [
+                "The bell began to toll at midnight.",
+                "The disaster has tolled many lives."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "the number of deaths or injuries caused by an event",
+            "synonyms": [
+                "death count",
+                "casualties",
+                "body count",
+                "loss of life"
+            ],
+            "examples": [
+                "Officials reported an increasing toll as rescue teams arrived.",
+                "The toll from the accident was worse than expected."
+            ]
+        }
+    ],
+    "tome": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a large heavy book, often with serious or detailed content",
+            "synonyms": [
+                "book",
+                "volume",
+                "treatise",
+                "reference book"
+            ],
+            "examples": [
+                "She carried a huge tome to class.",
+                "The law firm has a set of legal tomes."
+            ]
+        }
+    ],
+    "trash": [
+        {
+            "part_of_speech": "noun",
+            "definition": "waste material or rubbish; also something of low quality",
+            "synonyms": [
+                "garbage",
+                "rubbish",
+                "waste",
+                "junk",
+                "refuse"
+            ],
+            "examples": [
+                "Put the trash in the bin, please.",
+                "That show is trash."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to throw away as waste or to damage or destroy someone’s work or belongings",
+            "synonyms": [
+                "throw away",
+                "dump",
+                "destroy",
+                "ruin",
+                "wreck"
+            ],
+            "examples": [
+                "They trashed the old furniture after the move.",
+                "Someone trashed the garage overnight."
+            ]
+        }
+    ],
+    "twaddle": [
+        {
+            "part_of_speech": "noun",
+            "definition": "silly or meaningless talk, especially when someone is trying to persuade others",
+            "synonyms": [
+                "nonsense",
+                "baloney",
+                "rubbish",
+                "drivel",
+                "twaddle (as noun)"
+            ],
+            "examples": [
+                "Stop spreading twaddle about the accident.",
+                "The article is full of twaddle."
+            ]
+        }
+    ],
+    "trenchant": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "able to express criticism or ideas in a sharp, direct way",
+            "synonyms": [
+                "sharp",
+                "candid",
+                "stinging",
+                "piercing",
+                "critical"
+            ],
+            "examples": [
+                "The writer’s trenchant comments made the argument stronger.",
+                "Her trenchant style impressed the audience."
+            ]
+        }
+    ],
+    "tephra": [
+        {
+            "part_of_speech": "noun",
+            "definition": "materials such as ash and rock fragments ejected from a volcano into the air",
+            "synonyms": [
+                "volcanic debris",
+                "volcanic ash and fragments"
+            ],
+            "examples": [
+                "Volcanic tephra covered the region after the eruption.",
+                "The forecast warned about tephra falling."
+            ]
+        }
+    ],
+    "tocsin": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a loud warning bell or signal used to alert people to danger",
+            "synonyms": [
+                "alarm bell",
+                "warning signal",
+                "alarm",
+                "bell"
+            ],
+            "examples": [
+                "The tocsin rang during the emergency.",
+                "They heard the tocsin and ran to safety."
+            ]
+        }
+    ],
+    "tintinnabulation": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the sound of ringing bells",
+            "synonyms": [
+                "bell ringing",
+                "chiming",
+                "tinkling",
+                "ringing sound"
+            ],
+            "examples": [
+                "The street filled with tintinnabulation from the churches.",
+                "Her video had tintinnabulation in the background."
+            ]
+        }
+    ],
+    "tolerate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to allow something or someone even if you do not like it or agree with it",
+            "synonyms": [
+                "accept",
+                "put up with",
+                "bear",
+                "stand (informal)",
+                "allow"
+            ],
+            "examples": [
+                "I can’t tolerate rude behavior.",
+                "She tolerated the noise until midnight."
+            ]
+        }
+    ],
+    "trident": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a three-point spear, often associated with the god of the sea",
+            "synonyms": [
+                "three-pronged spear",
+                "three-tined spear"
+            ],
+            "examples": [
+                "The statue held a trident.",
+                "A trident is shaped with three points."
+            ]
+        }
+    ],
+    "thresh": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to separate seeds from grain by beating or crushing it",
+            "synonyms": [
+                "separate",
+                "crush (grain)",
+                "process grain",
+                "beat out"
+            ],
+            "examples": [
+                "They thresh the wheat after it dries.",
+                "The machine threshes the grain quickly."
+            ]
+        }
+    ],
+    "threnodic": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "relating to a lament or formal mourning song",
+            "synonyms": [
+                "lamenting",
+                "mourning",
+                "dirge-like"
+            ],
+            "examples": [
+                "The threnodic music helped people grieve.",
+                "She wrote a threnodic poem for the ceremony."
+            ]
+        }
+    ],
+    "thence": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "from that place or time; used in older or formal english",
+            "synonyms": [
+                "from there",
+                "from that point",
+                "later (context)"
+            ],
+            "examples": [
+                "We left the house, thence to the station.",
+                "Take the road, thence follow the signs."
+            ]
+        }
     ]
 }

@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-08",
+    "groups": [
+        {
+            "id": "2026-07-08-g1",
+            "type": "thematic_association",
+            "difficulty": "easy",
+            "title": "winter weather",
+            "words": [
+                "flurry",
+                "frost",
+                "sleet",
+                "thaw"
+            ]
+        },
+        {
+            "id": "2026-07-08-g2",
+            "type": "etymological_relation",
+            "difficulty": "medium",
+            "title": "written marks",
+            "words": [
+                "character",
+                "grammar",
+                "graph",
+                "groove"
+            ]
+        },
+        {
+            "id": "2026-07-08-g3",
+            "type": "informal_register",
+            "difficulty": "hard",
+            "title": "nonsense talk",
+            "words": [
+                "balderdash",
+                "drivel",
+                "rot",
+                "tripe"
+            ]
+        },
+        {
+            "id": "2026-07-08-g4",
+            "type": "morphological_family",
+            "difficulty": "very_hard",
+            "title": "know root",
+            "words": [
+                "agnostic",
+                "cognate",
+                "incognito",
+                "recognizance"
+            ]
+        }
+    ]
+}

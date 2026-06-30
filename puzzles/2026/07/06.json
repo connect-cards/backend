@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-06",
+    "groups": [
+        {
+            "id": "2026-07-06-g1",
+            "type": "physical_trait",
+            "difficulty": "easy",
+            "title": "lean body types",
+            "words": [
+                "gaunt",
+                "lanky",
+                "spare",
+                "rangy"
+            ]
+        },
+        {
+            "id": "2026-07-06-g2",
+            "type": "literary_register",
+            "difficulty": "medium",
+            "title": "poetic dawn",
+            "words": [
+                "aurora",
+                "daybreak",
+                "morn",
+                "sunrise"
+            ]
+        },
+        {
+            "id": "2026-07-06-g3",
+            "type": "synonym",
+            "difficulty": "hard",
+            "title": "brief statements",
+            "words": [
+                "apothegm",
+                "dictum",
+                "maxim",
+                "saw"
+            ]
+        },
+        {
+            "id": "2026-07-06-g4",
+            "type": "semantic_field",
+            "difficulty": "very_hard",
+            "title": "text criticism",
+            "words": [
+                "lemma",
+                "scholium",
+                "siglum",
+                "variorum"
+            ]
+        }
+    ]
+}

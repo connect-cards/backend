@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-28",
+    "groups": [
+        {
+            "id": "2026-07-28-g1",
+            "type": "thematic_association",
+            "difficulty": "easy",
+            "title": "ship parts",
+            "words": [
+                "keel",
+                "mast",
+                "hull",
+                "stern"
+            ]
+        },
+        {
+            "id": "2026-07-28-g2",
+            "type": "morphological_family",
+            "difficulty": "medium",
+            "title": "carry root",
+            "words": [
+                "convey",
+                "vehicle",
+                "vector",
+                "vection"
+            ]
+        },
+        {
+            "id": "2026-07-28-g3",
+            "type": "physical_trait",
+            "difficulty": "hard",
+            "title": "pale complexion",
+            "words": [
+                "sallow",
+                "wan",
+                "livid",
+                "ashy"
+            ]
+        },
+        {
+            "id": "2026-07-28-g4",
+            "type": "etymological_relation",
+            "difficulty": "very_hard",
+            "title": "tooth origin",
+            "words": [
+                "dent",
+                "dandelion",
+                "trident",
+                "indenture"
+            ]
+        }
+    ]
+}

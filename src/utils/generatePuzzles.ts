@@ -1,7 +1,7 @@
 import fs from "fs-extra";
 import path from "path";
 import { zodTextFormat } from 'openai/helpers/zod';
-import { client, puzzlesPrompt, generationGPTModel, PuzzlesResponseSchema } from "../llm";
+import { client, puzzlesPrompt, generationPuzzleGPTModel, PuzzlesResponseSchema } from "../llm";
 
 const TYPES = [
     "synonym",
@@ -21,7 +21,7 @@ export async function generatePuzzles(dates: string[]) {
     if (dates.length == 0) return;
 
     const response = await client.responses.parse({
-        model: generationGPTModel,
+        model: generationPuzzleGPTModel,
         input: [{
             role: "user",
             content: puzzlesPrompt(TYPES, dates),

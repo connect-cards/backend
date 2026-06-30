@@ -1179,5 +1179,377 @@
                 "She winced at the loud sound."
             ]
         }
+    ],
+    "wiped": [
+        {
+            "part_of_speech": "verb",
+            "definition": "past tense and past participle of wipe; removed something by moving a cloth or liquid over it",
+            "synonyms": [
+                "cleaned",
+                "removed",
+                "erased"
+            ],
+            "examples": [
+                "She wiped the table clean.",
+                "He wiped the tears from his eyes."
+            ]
+        }
+    ],
+    "wherewithal": [
+        {
+            "part_of_speech": "noun",
+            "definition": "money or resources needed to do something",
+            "synonyms": [
+                "funds",
+                "resources",
+                "means",
+                "money"
+            ],
+            "examples": [
+                "They didn’t have the wherewithal to start the project.",
+                "Do you have the wherewithal to travel this week?"
+            ]
+        }
+    ],
+    "whatever": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "used to say that it does not matter which thing or type you choose",
+            "synonyms": [
+                "any",
+                "no matter what",
+                "whatever you choose"
+            ],
+            "examples": [
+                "Take whatever book you need.",
+                "Whatever decision you make, I will support you."
+            ]
+        },
+        {
+            "part_of_speech": "adverb",
+            "definition": "used to emphasize that something is not important or not worth worrying about",
+            "synonyms": [
+                "no matter",
+                "anyway",
+                "in any case"
+            ],
+            "examples": [
+                "I’ll do it however they want, whatever it takes.",
+                "Whatever, let’s just finish the task."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "something that does not matter which one, used when the speaker does not want to be specific",
+            "synonyms": [
+                "anything",
+                "whatever you like"
+            ],
+            "examples": [
+                "You can bring whatever, as long as it fits the dress code.",
+                "Just pick whatever and we’ll start."
+            ]
+        }
+    ],
+    "wack": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "informal and slang meaning very bad, unpleasant, or not good",
+            "synonyms": [
+                "bad",
+                "terrible",
+                "awful",
+                "lame"
+            ],
+            "examples": [
+                "That movie was wack.",
+                "His excuse sounded wack."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "slang for something that is very bad or of low quality",
+            "synonyms": [
+                "trash",
+                "junk",
+                "garbage",
+                "lame thing"
+            ],
+            "examples": [
+                "I don’t want to buy that wack.",
+                "The video was just wack."
+            ]
+        }
+    ],
+    "witness": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who sees an event happen or knows about it from direct experience",
+            "synonyms": [
+                "observer",
+                "eyewitness",
+                "party",
+                "testifier"
+            ],
+            "examples": [
+                "A witness saw the accident from across the street.",
+                "The witness gave a clear account of what happened."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to see something happen; to confirm that something is true based on observation",
+            "synonyms": [
+                "see",
+                "observe",
+                "attest",
+                "testify"
+            ],
+            "examples": [
+                "I witnessed the meeting and can confirm the timeline.",
+                "The documents witnessed that the payment was made."
+            ]
+        }
+    ],
+    "wiry": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "lean and with strong, thin muscles or hair; also used for hair that feels rough and thin",
+            "synonyms": [
+                "stringy",
+                "lean",
+                "tough",
+                "thin but strong"
+            ],
+            "examples": [
+                "He has a wiry build and moves quickly.",
+                "Her wiry hair sticks out in every direction."
+            ]
+        }
+    ],
+    "wraith": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a ghost-like figure; something that seems unreal and frightening",
+            "synonyms": [
+                "ghost",
+                "spirit",
+                "specter",
+                "phantom"
+            ],
+            "examples": [
+                "The story describes a wraith in the old house.",
+                "He felt like a wraith after weeks without sleep."
+            ]
+        }
+    ],
+    "withdraw": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to move back or leave a place; also to take back something such as a statement or offer",
+            "synonyms": [
+                "retreat",
+                "pull back",
+                "remove",
+                "retract"
+            ],
+            "examples": [
+                "Please withdraw from the building immediately.",
+                "He withdrew his offer after new information."
+            ]
+        }
+    ],
+    "way": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a method of doing something or getting from one place to another",
+            "synonyms": [
+                "method",
+                "manner",
+                "route",
+                "procedure"
+            ],
+            "examples": [
+                "I don’t know the way to the museum.",
+                "What’s the best way to study for the test?"
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a distance or progress, especially in phrases like in a way",
+            "synonyms": [
+                "distance (context)",
+                "progress (context)"
+            ],
+            "examples": [
+                "She made progress in a way that surprised everyone."
+            ]
+        }
+    ],
+    "whereupon": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "used to say that something happens immediately after something else",
+            "synonyms": [
+                "after that",
+                "and then",
+                "whereupon then (context)"
+            ],
+            "examples": [
+                "He apologized, whereupon the meeting continued.",
+                "The alarm sounded, whereupon everyone left the room."
+            ]
+        }
+    ],
+    "writ": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a formal written order from a court, requiring a person to do something or appear",
+            "synonyms": [
+                "court order",
+                "legal order",
+                "judicial writ"
+            ],
+            "examples": [
+                "The court issued a writ to bring the case forward.",
+                "He received a writ to appear in court."
+            ]
+        }
+    ],
+    "wake": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the trail of disturbed water left behind by a moving boat",
+            "synonyms": [
+                "wave trail",
+                "ship’s trail",
+                "water trail"
+            ],
+            "examples": [
+                "The wake spread out behind the motorboat.",
+                "We watched the wake fade into calm water."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to move across water and create waves or to make someone stop sleeping and become alert",
+            "synonyms": [
+                "stir",
+                "wake up",
+                "rouse",
+                "disturb"
+            ],
+            "examples": [
+                "The boat woke the water and made a wake.",
+                "The loud noise woke me up."
+            ]
+        }
+    ],
+    "whorl": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a circular arrangement or pattern, especially of hair, plant growth, or fluid motion",
+            "synonyms": [
+                "circle",
+                "coil",
+                "spiral (shape)",
+                "vortex (motion)"
+            ],
+            "examples": [
+                "Her hair has a whorl near the crown.",
+                "The whorl in the water pulled the leaves downward."
+            ]
+        }
+    ],
+    "wavy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having a pattern of gentle waves or curves",
+            "synonyms": [
+                "curved",
+                "rippling",
+                "undulating",
+                "wavering",
+                "bendy (informal)"
+            ],
+            "examples": [
+                "She wore wavy hair in loose curls.",
+                "The fence has a wavy line."
+            ]
+        }
+    ],
+    "whicker": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a long, high sound that a horse makes",
+            "synonyms": [
+                "whinny",
+                "neigh",
+                "call (horse sound)"
+            ],
+            "examples": [
+                "The pony whickered as we entered the field.",
+                "I heard a whicker from the stable."
+            ]
+        }
+    ],
+    "whinny": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a high sound that a horse makes",
+            "synonyms": [
+                "neigh",
+                "whicker",
+                "horse call"
+            ],
+            "examples": [
+                "The horse whinnied when it saw food.",
+                "She heard a whinny from the next stall."
+            ]
+        }
+    ],
+    "whereof": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "an older form meaning of which or about which",
+            "synonyms": [
+                "of which",
+                "about which"
+            ],
+            "examples": [
+                "The agreement whereof you speak is missing here.",
+                "The clause whereof the lawyer wrote was added later."
+            ]
+        }
+    ],
+    "woe": [
+        {
+            "part_of_speech": "noun",
+            "definition": "great sadness, suffering, or distress",
+            "synonyms": [
+                "sorrow",
+                "misery",
+                "suffering",
+                "distress",
+                "anguish"
+            ],
+            "examples": [
+                "He spoke of his woe after the breakup.",
+                "The storm caused widespread woe."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to feel great sadness or distress",
+            "synonyms": [
+                "suffer",
+                "grieve",
+                "lament",
+                "mourn"
+            ],
+            "examples": [
+                "She wept and woe-ed in silence."
+            ]
+        }
     ]
 }

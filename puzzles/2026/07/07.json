@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-07",
+    "groups": [
+        {
+            "id": "2026-07-07-g1",
+            "type": "sound_association",
+            "difficulty": "easy",
+            "title": "sharp sounds",
+            "words": [
+                "clang",
+                "clank",
+                "clash",
+                "clatter"
+            ]
+        },
+        {
+            "id": "2026-07-07-g2",
+            "type": "informal_register",
+            "difficulty": "medium",
+            "title": "money slang",
+            "words": [
+                "brass",
+                "dough",
+                "gelt",
+                "scratch"
+            ]
+        },
+        {
+            "id": "2026-07-07-g3",
+            "type": "thematic_association",
+            "difficulty": "hard",
+            "title": "sea voyage",
+            "words": [
+                "ballast",
+                "keel",
+                "rudder",
+                "wake"
+            ]
+        },
+        {
+            "id": "2026-07-07-g4",
+            "type": "profession_domain",
+            "difficulty": "very_hard",
+            "title": "heraldry",
+            "words": [
+                "argent",
+                "bend",
+                "chevron",
+                "gules"
+            ]
+        }
+    ]
+}

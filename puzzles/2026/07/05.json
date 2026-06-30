@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-05",
+    "groups": [
+        {
+            "id": "2026-07-05-g1",
+            "type": "emotional_tone",
+            "difficulty": "easy",
+            "title": "irritable moods",
+            "words": [
+                "testy",
+                "snappish",
+                "tetchy",
+                "peevish"
+            ]
+        },
+        {
+            "id": "2026-07-05-g2",
+            "type": "informal_register",
+            "difficulty": "medium",
+            "title": "idle chatter",
+            "words": [
+                "banter",
+                "chatter",
+                "gossip",
+                "prattle"
+            ]
+        },
+        {
+            "id": "2026-07-05-g3",
+            "type": "etymological_relation",
+            "difficulty": "hard",
+            "title": "carried within",
+            "words": [
+                "metaphor",
+                "transfer",
+                "translate",
+                "traffic"
+            ]
+        },
+        {
+            "id": "2026-07-05-g4",
+            "type": "morphological_family",
+            "difficulty": "very_hard",
+            "title": "root kin",
+            "words": [
+                "fervid",
+                "defervescence",
+                "effervesce",
+                "ferment"
+            ]
+        }
+    ]
+}

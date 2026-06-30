@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-20",
+    "groups": [
+        {
+            "id": "2026-07-20-g1",
+            "type": "informal_register",
+            "difficulty": "easy",
+            "title": "money slang",
+            "words": [
+                "bucks",
+                "dough",
+                "loot",
+                "scratch"
+            ]
+        },
+        {
+            "id": "2026-07-20-g2",
+            "type": "sound_association",
+            "difficulty": "medium",
+            "title": "crow sounds",
+            "words": [
+                "caw",
+                "croak",
+                "cackle",
+                "rattle"
+            ]
+        },
+        {
+            "id": "2026-07-20-g3",
+            "type": "emotional_tone",
+            "difficulty": "hard",
+            "title": "gloomy moods",
+            "words": [
+                "bleak",
+                "sullen",
+                "morose",
+                "dour"
+            ]
+        },
+        {
+            "id": "2026-07-20-g4",
+            "type": "literary_register",
+            "difficulty": "very_hard",
+            "title": "poetic lament",
+            "words": [
+                "dirge",
+                "threnody",
+                "elegy",
+                "plaint"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-18",
+    "groups": [
+        {
+            "id": "2026-07-18-g1",
+            "type": "semantic_field",
+            "difficulty": "easy",
+            "title": "wetlands",
+            "words": [
+                "bog",
+                "fen",
+                "marsh",
+                "swamp"
+            ]
+        },
+        {
+            "id": "2026-07-18-g2",
+            "type": "physical_trait",
+            "difficulty": "medium",
+            "title": "thinness",
+            "words": [
+                "gaunt",
+                "lanky",
+                "rangy",
+                "spare"
+            ]
+        },
+        {
+            "id": "2026-07-18-g3",
+            "type": "synonym",
+            "difficulty": "hard",
+            "title": "briefly visible",
+            "words": [
+                "fleeting",
+                "momentary",
+                "evanescent",
+                "ephemeral"
+            ]
+        },
+        {
+            "id": "2026-07-18-g4",
+            "type": "etymological_relation",
+            "difficulty": "very_hard",
+            "title": "water roots",
+            "words": [
+                "aquatic",
+                "aqueous",
+                "aquifer",
+                "aquiline"
+            ]
+        }
+    ]
+}

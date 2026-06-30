@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-22",
+    "groups": [
+        {
+            "id": "2026-07-22-g1",
+            "type": "thematic_association",
+            "difficulty": "easy",
+            "title": "drought",
+            "words": [
+                "arid",
+                "parched",
+                "barren",
+                "withered"
+            ]
+        },
+        {
+            "id": "2026-07-22-g2",
+            "type": "literary_register",
+            "difficulty": "medium",
+            "title": "fate",
+            "words": [
+                "doom",
+                "destiny",
+                "providence",
+                "foreordination"
+            ]
+        },
+        {
+            "id": "2026-07-22-g3",
+            "type": "emotional_tone",
+            "difficulty": "hard",
+            "title": "brooding mood",
+            "words": [
+                "sullen",
+                "morose",
+                "dour",
+                "saturnine"
+            ]
+        },
+        {
+            "id": "2026-07-22-g4",
+            "type": "informal_register",
+            "difficulty": "very_hard",
+            "title": "nonsense",
+            "words": [
+                "baloney",
+                "drivel",
+                "twaddle",
+                "claptrap"
+            ]
+        }
+    ]
+}

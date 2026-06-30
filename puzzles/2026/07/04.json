@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-04",
+    "groups": [
+        {
+            "id": "2026-07-04-g1",
+            "type": "profession_domain",
+            "difficulty": "easy",
+            "title": "legal verbs",
+            "words": [
+                "appeal",
+                "plead",
+                "sue",
+                "testify"
+            ]
+        },
+        {
+            "id": "2026-07-04-g2",
+            "type": "physical_trait",
+            "difficulty": "medium",
+            "title": "rough texture",
+            "words": [
+                "coarse",
+                "gnarled",
+                "rugose",
+                "scabrous"
+            ]
+        },
+        {
+            "id": "2026-07-04-g3",
+            "type": "emotional_tone",
+            "difficulty": "hard",
+            "title": "irritable",
+            "words": [
+                "fractious",
+                "peevish",
+                "prickly",
+                "testy"
+            ]
+        },
+        {
+            "id": "2026-07-04-g4",
+            "type": "semantic_field",
+            "difficulty": "very_hard",
+            "title": "sea winds",
+            "words": [
+                "bora",
+                "mistral",
+                "sirocco",
+                "tramontane"
+            ]
+        }
+    ]
+}

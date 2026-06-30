@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-12",
+    "groups": [
+        {
+            "id": "2026-07-12-g1",
+            "type": "synonym",
+            "difficulty": "easy",
+            "title": "praise",
+            "words": [
+                "extol",
+                "laud",
+                "commend",
+                "acclaim"
+            ]
+        },
+        {
+            "id": "2026-07-12-g2",
+            "type": "physical_trait",
+            "difficulty": "medium",
+            "title": "stooped",
+            "words": [
+                "hunched",
+                "crooked",
+                "bent",
+                "stooping"
+            ]
+        },
+        {
+            "id": "2026-07-12-g3",
+            "type": "literary_register",
+            "difficulty": "hard",
+            "title": "sadness",
+            "words": [
+                "dolor",
+                "melancholy",
+                "despond",
+                "spleen"
+            ]
+        },
+        {
+            "id": "2026-07-12-g4",
+            "type": "profession_domain",
+            "difficulty": "very_hard",
+            "title": "sailing gear",
+            "words": [
+                "mizzen",
+                "halyard",
+                "gunwale",
+                "cleat"
+            ]
+        }
+    ]
+}

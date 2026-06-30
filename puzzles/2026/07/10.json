@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-10",
+    "groups": [
+        {
+            "id": "2026-07-10-g1",
+            "type": "morphological_family",
+            "difficulty": "easy",
+            "title": "see forms",
+            "words": [
+                "vision",
+                "visible",
+                "revise",
+                "evidence"
+            ]
+        },
+        {
+            "id": "2026-07-10-g2",
+            "type": "profession_domain",
+            "difficulty": "medium",
+            "title": "legal language",
+            "words": [
+                "tort",
+                "statute",
+                "plaintiff",
+                "deposition"
+            ]
+        },
+        {
+            "id": "2026-07-10-g3",
+            "type": "thematic_association",
+            "difficulty": "hard",
+            "title": "famine signs",
+            "words": [
+                "blight",
+                "dearth",
+                "gaunt",
+                "ration"
+            ]
+        },
+        {
+            "id": "2026-07-10-g4",
+            "type": "etymological_relation",
+            "difficulty": "very_hard",
+            "title": "heart roots",
+            "words": [
+                "cordial",
+                "accord",
+                "discord",
+                "concord"
+            ]
+        }
+    ]
+}

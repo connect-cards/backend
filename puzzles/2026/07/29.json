@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-29",
+    "groups": [
+        {
+            "id": "2026-07-29-g1",
+            "type": "thematic_association",
+            "difficulty": "easy",
+            "title": "harvest items",
+            "words": [
+                "sheaf",
+                "sickle",
+                "thresh",
+                "granary"
+            ]
+        },
+        {
+            "id": "2026-07-29-g2",
+            "type": "profession_domain",
+            "difficulty": "medium",
+            "title": "courtroom terms",
+            "words": [
+                "affidavit",
+                "deponent",
+                "tort",
+                "verdict"
+            ]
+        },
+        {
+            "id": "2026-07-29-g3",
+            "type": "semantic_field",
+            "difficulty": "hard",
+            "title": "stinginess",
+            "words": [
+                "niggardly",
+                "parsimonious",
+                "penurious",
+                "closefisted"
+            ]
+        },
+        {
+            "id": "2026-07-29-g4",
+            "type": "emotional_tone",
+            "difficulty": "very_hard",
+            "title": "mournful",
+            "words": [
+                "lachrymose",
+                "sepulchral",
+                "threnodic",
+                "dolorous"
+            ]
+        }
+    ]
+}

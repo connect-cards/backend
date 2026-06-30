@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-09",
+    "groups": [
+        {
+            "id": "2026-07-09-g1",
+            "type": "informal_register",
+            "difficulty": "easy",
+            "title": "casual talk",
+            "words": [
+                "banter",
+                "gossip",
+                "chitchat",
+                "natter"
+            ]
+        },
+        {
+            "id": "2026-07-09-g2",
+            "type": "synonym",
+            "difficulty": "medium",
+            "title": "stinginess",
+            "words": [
+                "frugal",
+                "miserly",
+                "parsimonious",
+                "thrifty"
+            ]
+        },
+        {
+            "id": "2026-07-09-g3",
+            "type": "sound_association",
+            "difficulty": "hard",
+            "title": "hissing sounds",
+            "words": [
+                "sibilant",
+                "susurrus",
+                "murmur",
+                "whisper"
+            ]
+        },
+        {
+            "id": "2026-07-09-g4",
+            "type": "etymological_relation",
+            "difficulty": "very_hard",
+            "title": "bearer roots",
+            "words": [
+                "metaphor",
+                "diaphanous",
+                "semaphore",
+                "euphoria"
+            ]
+        }
+    ]
+}

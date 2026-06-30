@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-14",
+    "groups": [
+        {
+            "id": "2026-07-14-g1",
+            "type": "synonym",
+            "difficulty": "easy",
+            "title": "inspect",
+            "words": [
+                "scan",
+                "scrutinize",
+                "survey",
+                "peruse"
+            ]
+        },
+        {
+            "id": "2026-07-14-g2",
+            "type": "profession_domain",
+            "difficulty": "medium",
+            "title": "legal work",
+            "words": [
+                "tort",
+                "statute",
+                "affidavit",
+                "injunction"
+            ]
+        },
+        {
+            "id": "2026-07-14-g3",
+            "type": "sound_association",
+            "difficulty": "hard",
+            "title": "harsh sounds",
+            "words": [
+                "clang",
+                "clatter",
+                "rattle",
+                "cacophony"
+            ]
+        },
+        {
+            "id": "2026-07-14-g4",
+            "type": "thematic_association",
+            "difficulty": "very_hard",
+            "title": "alchemy",
+            "words": [
+                "crucible",
+                "retort",
+                "alembic",
+                "elixir"
+            ]
+        }
+    ]
+}

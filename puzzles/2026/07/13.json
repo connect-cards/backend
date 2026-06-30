@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-13",
+    "groups": [
+        {
+            "id": "2026-07-13-g1",
+            "type": "semantic_field",
+            "difficulty": "easy",
+            "title": "sea edges",
+            "words": [
+                "coast",
+                "shore",
+                "beach",
+                "strand"
+            ]
+        },
+        {
+            "id": "2026-07-13-g2",
+            "type": "emotional_tone",
+            "difficulty": "medium",
+            "title": "gloomy moods",
+            "words": [
+                "morose",
+                "sullen",
+                "dour",
+                "glum"
+            ]
+        },
+        {
+            "id": "2026-07-13-g3",
+            "type": "synonym",
+            "difficulty": "hard",
+            "title": "briefly clear",
+            "words": [
+                "terse",
+                "succinct",
+                "laconic",
+                "pithy"
+            ]
+        },
+        {
+            "id": "2026-07-13-g4",
+            "type": "morphological_family",
+            "difficulty": "very_hard",
+            "title": "root kin",
+            "words": [
+                "genial",
+                "congenial",
+                "genesis",
+                "engender"
+            ]
+        }
+    ]
+}

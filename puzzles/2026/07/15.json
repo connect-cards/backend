@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-15",
+    "groups": [
+        {
+            "id": "2026-07-15-g1",
+            "type": "synonym",
+            "difficulty": "easy",
+            "title": "praise",
+            "words": [
+                "laud",
+                "extol",
+                "acclaim",
+                "commend"
+            ]
+        },
+        {
+            "id": "2026-07-15-g2",
+            "type": "morphological_family",
+            "difficulty": "medium",
+            "title": "carry root",
+            "words": [
+                "portage",
+                "deport",
+                "portfolio",
+                "importune"
+            ]
+        },
+        {
+            "id": "2026-07-15-g3",
+            "type": "profession_domain",
+            "difficulty": "hard",
+            "title": "linguistics",
+            "words": [
+                "morpheme",
+                "allophone",
+                "deixis",
+                "isogloss"
+            ]
+        },
+        {
+            "id": "2026-07-15-g4",
+            "type": "informal_register",
+            "difficulty": "very_hard",
+            "title": "petty complaints",
+            "words": [
+                "beef",
+                "gripe",
+                "kvetch",
+                "whinge"
+            ]
+        }
+    ]
+}

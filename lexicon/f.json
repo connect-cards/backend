@@ -1376,5 +1376,433 @@
                 "The teacher said fie when the student broke the rule."
             ]
         }
+    ],
+    "flustered": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "confused and nervous, often because of sudden pressure or surprise",
+            "synonyms": [
+                "confused",
+                "nervous",
+                "upset",
+                "panicked"
+            ],
+            "examples": [
+                "She looked flustered when the interviewer asked unexpected questions.",
+                "I was flustered because I lost my notes."
+            ]
+        }
+    ],
+    "floodplain": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an area of land next to a river that can be covered with water during floods",
+            "synonyms": [
+                "river plain",
+                "flood zone",
+                "bottom land"
+            ],
+            "examples": [
+                "The house was built on higher ground outside the floodplain.",
+                "Heavy rain increased the water level on the floodplain."
+            ]
+        }
+    ],
+    "fore": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "in golf, the term used to warn others when a ball might hit them",
+            "synonyms": [],
+            "examples": [
+                "He shouted fore to warn the players ahead."
+            ]
+        }
+    ],
+    "four": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the number 4",
+            "synonyms": [
+                "iv (roman numeral)"
+            ],
+            "examples": [
+                "There are four people in the room.",
+                "Four is my favorite number."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "of the number 4 in order or quantity",
+            "synonyms": [
+                "4th (context depending)"
+            ],
+            "examples": [
+                "We need four chairs for the meeting.",
+                "She lives on the fourth floor."
+            ]
+        }
+    ],
+    "ferry": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a boat or ship that carries passengers and vehicles across a body of water",
+            "synonyms": [
+                "boat",
+                "passenger vessel",
+                "ferryboat"
+            ],
+            "examples": [
+                "We took the ferry to the island.",
+                "The ferry leaves every hour."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to transport people or goods across water on a ferry",
+            "synonyms": [
+                "transport",
+                "carry",
+                "carry across",
+                "shuttle"
+            ],
+            "examples": [
+                "They will ferry passengers across the bay.",
+                "The company ferried workers to the offshore site."
+            ]
+        }
+    ],
+    "forsake": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to leave someone or something permanently or stop supporting it",
+            "synonyms": [
+                "abandon",
+                "leave",
+                "discard",
+                "renounce"
+            ],
+            "examples": [
+                "She refused to forsake her friends.",
+                "He forsook his old habits after the accident."
+            ]
+        }
+    ],
+    "flee": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to run away to escape danger or arrest",
+            "synonyms": [
+                "run",
+                "escape",
+                "bolt",
+                "scram"
+            ],
+            "examples": [
+                "He tried to flee the scene.",
+                "The animals fled when the noise started."
+            ]
+        }
+    ],
+    "fearful": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "feeling afraid or showing fear",
+            "synonyms": [
+                "afraid",
+                "scared",
+                "anxious",
+                "frightened"
+            ],
+            "examples": [
+                "She was fearful of the dark.",
+                "He became fearful after hearing the warning."
+            ]
+        }
+    ],
+    "foray": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a short attempt to enter an activity, field, or place",
+            "synonyms": [
+                "attempt",
+                "trial",
+                "short trip",
+                "venture"
+            ],
+            "examples": [
+                "The band’s foray into pop music surprised fans.",
+                "This is our first foray into the market."
+            ]
+        }
+    ],
+    "fen": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a wetland area with soft ground and plants, usually less open and less salty than a marsh",
+            "synonyms": [
+                "marsh",
+                "bog",
+                "swamp",
+                "wetland"
+            ],
+            "examples": [
+                "Birds nested in the fen.",
+                "The path crossed a fen near the river."
+            ]
+        }
+    ],
+    "fractious": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "tending to be irritable, restless, or likely to cause trouble",
+            "synonyms": [
+                "irritable",
+                "restless",
+                "unruly",
+                "difficult",
+                "volatile"
+            ],
+            "examples": [
+                "The class became fractious when the game started.",
+                "She is usually calm, but the meeting was fractious."
+            ]
+        }
+    ],
+    "fervid": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "full of strong feelings, enthusiasm, or intense emotion",
+            "synonyms": [
+                "passionate",
+                "ardent",
+                "enthusiastic",
+                "intense",
+                "zealous"
+            ],
+            "examples": [
+                "He made a fervid speech about education.",
+                "Her fervid support for the project inspired others."
+            ]
+        }
+    ],
+    "ferment": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to develop or intensify over time, or to cause a chemical change that produces gas in liquids",
+            "synonyms": [
+                "grow",
+                "develop",
+                "build",
+                "brew",
+                "develop (tension)"
+            ],
+            "examples": [
+                "Rumors ferment quickly in small communities.",
+                "Yeast ferments the sugar into alcohol."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a process in which a substance changes due to chemical action, often involving yeast or bacteria",
+            "synonyms": [
+                "brewing",
+                "process of fermentation",
+                "fermentation process"
+            ],
+            "examples": [
+                "The beer requires several days of fermentation.",
+                "Scientists studied the ferment in the lab."
+            ]
+        }
+    ],
+    "flurry": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a sudden short period of busy activity, movement, or wind",
+            "synonyms": [
+                "burst",
+                "spate",
+                "rush",
+                "flap",
+                "spasm (brief)"
+            ],
+            "examples": [
+                "There was a flurry of calls after the announcement.",
+                "A flurry of snow swept across the field."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to move or act quickly and suddenly, often in a short burst",
+            "synonyms": [
+                "rush",
+                "hurry",
+                "sprinkle (light movement)",
+                "swirl",
+                "whirl"
+            ],
+            "examples": [
+                "The kids flurried around the room looking for their coats.",
+                "Leaves flurried across the sidewalk."
+            ]
+        }
+    ],
+    "frost": [
+        {
+            "part_of_speech": "noun",
+            "definition": "ice crystals that form on surfaces when the air is below freezing",
+            "synonyms": [
+                "ice",
+                "ice crystals",
+                "white frost"
+            ],
+            "examples": [
+                "The windows were covered with frost in the morning.",
+                "Frost made the pavement slippery."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to cover something with frost",
+            "synonyms": [
+                "ice over",
+                "coat with frost",
+                "cover with frost"
+            ],
+            "examples": [
+                "The lake froze and the grass frosted overnight.",
+                "Early night temperatures frosted the roof."
+            ]
+        }
+    ],
+    "frizzy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having hair that looks rough, with uneven curls and little control",
+            "synonyms": [
+                "puffy",
+                "wild",
+                "wildly curly",
+                "unruly",
+                "tangled"
+            ],
+            "examples": [
+                "Her frizzy hair needs conditioner.",
+                "The frizzy ends made the style difficult."
+            ]
+        }
+    ],
+    "forme": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a printing plate or type page used to produce printed text",
+            "synonyms": [
+                "printing plate",
+                "type form",
+                "printing block"
+            ],
+            "examples": [
+                "The printer loaded the forme into the press.",
+                "Old books list details about the forme."
+            ]
+        }
+    ],
+    "fount": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a source of something, especially a place where water flows or a person who provides something",
+            "synonyms": [
+                "source",
+                "spring",
+                "origin",
+                "well (of)"
+            ],
+            "examples": [
+                "The town’s fount of clean water is well protected.",
+                "Her writing became a fount of useful ideas."
+            ]
+        }
+    ],
+    "fleeting": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "lasting for a very short time",
+            "synonyms": [
+                "brief",
+                "short-lived",
+                "momentary",
+                "transient",
+                "passing"
+            ],
+            "examples": [
+                "The feeling was fleeting, but it was real.",
+                "We only had a fleeting chance to talk."
+            ]
+        }
+    ],
+    "folio": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a large book or a sheet of paper in bookmaking; also a numbered page in some manuscripts",
+            "synonyms": [
+                "volume (large)",
+                "book (large)",
+                "page (manuscript context)"
+            ],
+            "examples": [
+                "The library kept the folio in a special case.",
+                "He turned to the folio number the teacher provided."
+            ]
+        }
+    ],
+    "foreordination": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the belief that events are planned in advance, especially by god",
+            "synonyms": [
+                "predestination",
+                "prearrangement",
+                "divine plan",
+                "planned in advance"
+            ],
+            "examples": [
+                "The doctrine of foreordination shaped their faith.",
+                "He believed in foreordination and destiny."
+            ]
+        }
+    ],
+    "flecked": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having small spots or pieces of a different color",
+            "synonyms": [
+                "speckled",
+                "spotted",
+                "mottled",
+                "flecked (same)",
+                "stippled (similar)"
+            ],
+            "examples": [
+                "The jacket was flecked with paint.",
+                "Her cheeks were flecked with freckles."
+            ]
+        }
+    ],
+    "furrowed": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having lines or grooves, often on the face from worry or on soil from plowing",
+            "synonyms": [
+                "lined",
+                "wrinkled",
+                "creased",
+                "grooved",
+                "lined with worry"
+            ],
+            "examples": [
+                "His furrowed brow showed concern.",
+                "The furrowed field held young plants."
+            ]
+        }
     ]
 }

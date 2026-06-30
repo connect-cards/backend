@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-17",
+    "groups": [
+        {
+            "id": "2026-07-17-g1",
+            "type": "physical_trait",
+            "difficulty": "easy",
+            "title": "hair textures",
+            "words": [
+                "curly",
+                "frizzy",
+                "wavy",
+                "coarse"
+            ]
+        },
+        {
+            "id": "2026-07-17-g2",
+            "type": "synonym",
+            "difficulty": "medium",
+            "title": "insincere",
+            "words": [
+                "glib",
+                "oily",
+                "unctuous",
+                "smarmy"
+            ]
+        },
+        {
+            "id": "2026-07-17-g3",
+            "type": "sound_association",
+            "difficulty": "hard",
+            "title": "bell sounds",
+            "words": [
+                "chime",
+                "clang",
+                "peal",
+                "toll"
+            ]
+        },
+        {
+            "id": "2026-07-17-g4",
+            "type": "profession_domain",
+            "difficulty": "very_hard",
+            "title": "printing",
+            "words": [
+                "forme",
+                "quoin",
+                "galley",
+                "fount"
+            ]
+        }
+    ]
+}
