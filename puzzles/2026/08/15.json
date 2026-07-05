@@ -1,0 +1,53 @@
+{
+    "date": "2026-08-15",
+    "groups": [
+        {
+            "id": "2026-08-15-g1",
+            "type": "semantic_field",
+            "difficulty": "easy",
+            "title": "raising doubts",
+            "words": [
+                "query",
+                "qualm",
+                "scruple",
+                "misgiving"
+            ]
+        },
+        {
+            "id": "2026-08-15-g2",
+            "type": "etymological_relation",
+            "difficulty": "medium",
+            "title": "carry roots",
+            "words": [
+                "defer",
+                "conference",
+                "fertile",
+                "offer"
+            ]
+        },
+        {
+            "id": "2026-08-15-g3",
+            "type": "emotional_tone",
+            "difficulty": "hard",
+            "title": "austere mood",
+            "words": [
+                "grim",
+                "bleak",
+                "sour",
+                "dour"
+            ]
+        },
+        {
+            "id": "2026-08-15-g4",
+            "type": "physical_trait",
+            "difficulty": "very_hard",
+            "title": "swelling words",
+            "words": [
+                "turgid",
+                "edematous",
+                "distended",
+                "tumid"
+            ]
+        }
+    ]
+}

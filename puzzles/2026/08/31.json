@@ -1,0 +1,53 @@
+{
+    "date": "2026-08-31",
+    "groups": [
+        {
+            "id": "2026-08-31-g1",
+            "type": "semantic_field",
+            "difficulty": "easy",
+            "title": "air currents",
+            "words": [
+                "draft",
+                "gust",
+                "waft",
+                "eddy"
+            ]
+        },
+        {
+            "id": "2026-08-31-g2",
+            "type": "sound_association",
+            "difficulty": "medium",
+            "title": "bell sounds",
+            "words": [
+                "toll",
+                "peal",
+                "clang",
+                "chime"
+            ]
+        },
+        {
+            "id": "2026-08-31-g3",
+            "type": "profession_domain",
+            "difficulty": "hard",
+            "title": "bookmaking",
+            "words": [
+                "quire",
+                "recto",
+                "colophon",
+                "gathering"
+            ]
+        },
+        {
+            "id": "2026-08-31-g4",
+            "type": "literary_register",
+            "difficulty": "very_hard",
+            "title": "insignificance",
+            "words": [
+                "trifle",
+                "bagatelle",
+                "gewgaw",
+                "frippery"
+            ]
+        }
+    ]
+}

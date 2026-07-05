@@ -1372,5 +1372,123 @@
                 "Divers checked the hull for leaks."
             ]
         }
+    ],
+    "hokum": [
+        {
+            "part_of_speech": "noun",
+            "definition": "silly or fake talk, especially used to persuade people",
+            "synonyms": [
+                "nonsense",
+                "sham",
+                "bunk",
+                "trash"
+            ],
+            "examples": [
+                "The speech was full of hokum and no real plan.",
+                "He dislikes political hokum that sounds good but changes nothing."
+            ]
+        }
+    ],
+    "harvest": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the process and time of gathering crops",
+            "synonyms": [
+                "crop gathering",
+                "reaping",
+                "season"
+            ],
+            "examples": [
+                "The harvest begins in September.",
+                "The harvest was smaller this year due to drought."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to gather crops when they are ripe",
+            "synonyms": [
+                "reap",
+                "gather",
+                "collect"
+            ],
+            "examples": [
+                "They harvest the wheat in late summer.",
+                "Farmers harvest corn before the first frost."
+            ]
+        }
+    ],
+    "hawser": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a thick strong rope used to moor or tow ships",
+            "synonyms": [
+                "rope",
+                "towline",
+                "mooring rope"
+            ],
+            "examples": [
+                "The hawser held the boat steady in the harbor.",
+                "They attached the hawser to the dock."
+            ]
+        }
+    ],
+    "heedful": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "careful and paying attention to advice, safety, or details",
+            "synonyms": [
+                "careful",
+                "attentive",
+                "cautious",
+                "mindful"
+            ],
+            "examples": [
+                "Be heedful of the warning signs.",
+                "He stayed heedful during the risky experiment."
+            ]
+        }
+    ],
+    "hamate": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a bone in the wrist that is involved in hand movement",
+            "synonyms": [
+                "wrist bone"
+            ],
+            "examples": [
+                "The X-ray showed a problem near the hamate.",
+                "The surgeon examined the hamate area."
+            ]
+        }
+    ],
+    "harbinger": [
+        {
+            "part_of_speech": "noun",
+            "definition": "something that signals that an event is likely to happen soon, often something bad",
+            "synonyms": [
+                "omen",
+                "sign",
+                "warning",
+                "foretaste"
+            ],
+            "examples": [
+                "Low sales were a harbinger of layoffs.",
+                "The warning signs were a harbinger of trouble."
+            ]
+        }
+    ],
+    "heron": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a tall wading bird that catches fish and lives near water",
+            "synonyms": [
+                "wading bird",
+                "long-legged bird"
+            ],
+            "examples": [
+                "A heron stood quietly by the pond.",
+                "Herons often hunt in shallow water."
+            ]
+        }
     ]
 }

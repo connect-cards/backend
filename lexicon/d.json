@@ -3052,5 +3052,230 @@
                 "A disdainful smile crossed her face."
             ]
         }
+    ],
+    "demurrer": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a formal legal objection that claims a lawsuit or complaint is not valid because it does not show a legal reason for the case",
+            "synonyms": [
+                "legal objection",
+                "motion to dismiss"
+            ],
+            "examples": [
+                "The lawyer filed a demurrer to challenge the complaint.",
+                "The court rejected the demurrer and allowed the case to continue."
+            ]
+        }
+    ],
+    "deride": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to laugh at someone or something in a way that shows disrespect",
+            "synonyms": [
+                "mock",
+                "ridicule",
+                "jeer at",
+                "scorn"
+            ],
+            "examples": [
+                "He tried to deride her ideas, but they were well thought out.",
+                "The bully derided the new student for speaking quietly."
+            ]
+        }
+    ],
+    "drank": [
+        {
+            "part_of_speech": "verb",
+            "definition": "past tense of drink: to take liquid into the mouth",
+            "synonyms": [
+                "drunk"
+            ],
+            "examples": [
+                "Yesterday, she drank a glass of water.",
+                "He drank coffee before the meeting."
+            ]
+        }
+    ],
+    "dental": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "related to teeth and the health of the mouth",
+            "synonyms": [
+                "tooth-related",
+                "oral",
+                "dentistry-related"
+            ],
+            "examples": [
+                "She has a dental appointment tomorrow.",
+                "Dental problems can affect overall health."
+            ]
+        }
+    ],
+    "delta": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the triangular area of land formed where a river splits and enters a larger body of water",
+            "synonyms": [
+                "river mouth area",
+                "alluvial delta"
+            ],
+            "examples": [
+                "The river created a delta at the coast.",
+                "Deltas often build up rich soil."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "the fourth letter of the greek alphabet",
+            "synonyms": [
+                "greek letter delta"
+            ],
+            "examples": [
+                "In math, delta often represents change.",
+                "He wrote the delta symbol carefully."
+            ]
+        }
+    ],
+    "dibs": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a claim or right to something, often in casual talk",
+            "synonyms": [
+                "claim",
+                "right",
+                "dibs on"
+            ],
+            "examples": [
+                "I’m calling dibs on the last slice.",
+                "Do you have dibs on the seat by the window?"
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to claim a share or right to something",
+            "synonyms": [
+                "claim",
+                "reserve",
+                "call"
+            ],
+            "examples": [
+                "She dibs the best chair at every meeting.",
+                "I’ll dibs the first turn."
+            ]
+        }
+    ],
+    "distended": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "stretched out and swollen, often because of pressure or liquid",
+            "synonyms": [
+                "swollen",
+                "expanded",
+                "inflated"
+            ],
+            "examples": [
+                "The abdomen looked distended after the meal.",
+                "The balloon became distended as it filled with air."
+            ]
+        }
+    ],
+    "descry": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to see something, especially after searching or from a distance",
+            "synonyms": [
+                "discern",
+                "spot",
+                "make out",
+                "see"
+            ],
+            "examples": [
+                "From the hill, we could descry the lighthouse.",
+                "I finally descryed the entrance sign."
+            ]
+        }
+    ],
+    "duct": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a tube or channel that carries air, smoke, or other substances",
+            "synonyms": [
+                "channel",
+                "pipe",
+                "conduit"
+            ],
+            "examples": [
+                "The ventilation duct was blocked.",
+                "Warm air moves through the duct."
+            ]
+        }
+    ],
+    "digesta": [
+        {
+            "part_of_speech": "noun",
+            "definition": "materials in the digestive tract that have been partly digested",
+            "synonyms": [
+                "food contents",
+                "partly digested matter"
+            ],
+            "examples": [
+                "The exam focused on digesta in the stomach.",
+                "Digesta moves through the intestines during digestion."
+            ]
+        }
+    ],
+    "draft": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a preliminary version of a written document",
+            "synonyms": [
+                "version",
+                "rough draft",
+                "copy",
+                "first draft"
+            ],
+            "examples": [
+                "I sent you the first draft of the report.",
+                "We need to review the draft before printing."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "moving air, especially cold air that enters a room",
+            "synonyms": [
+                "air current",
+                "draft",
+                "breeze"
+            ],
+            "examples": [
+                "Close the window. There is a draft.",
+                "The draft made the room feel colder."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to write a preliminary version of something",
+            "synonyms": [
+                "write",
+                "prepare",
+                "compose",
+                "create"
+            ],
+            "examples": [
+                "He drafted a new plan for the project.",
+                "We need to draft the email today."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to cause someone to be forced to join the armed forces",
+            "synonyms": [
+                "conscript",
+                "enlist"
+            ],
+            "examples": [
+                "Many young men were drafted during the war."
+            ]
+        }
     ]
 }

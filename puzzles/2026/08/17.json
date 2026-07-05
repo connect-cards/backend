@@ -1,0 +1,53 @@
+{
+    "date": "2026-08-17",
+    "groups": [
+        {
+            "id": "2026-08-17-g1",
+            "type": "sound_association",
+            "difficulty": "easy",
+            "title": "sudden noises",
+            "words": [
+                "clang",
+                "thud",
+                "whirr",
+                "hiss"
+            ]
+        },
+        {
+            "id": "2026-08-17-g2",
+            "type": "profession_domain",
+            "difficulty": "medium",
+            "title": "legal practice",
+            "words": [
+                "tort",
+                "lien",
+                "depose",
+                "estoppel"
+            ]
+        },
+        {
+            "id": "2026-08-17-g3",
+            "type": "emotional_tone",
+            "difficulty": "hard",
+            "title": "gloomy moods",
+            "words": [
+                "morose",
+                "sullen",
+                "saturnine",
+                "dour"
+            ]
+        },
+        {
+            "id": "2026-08-17-g4",
+            "type": "informal_register",
+            "difficulty": "very_hard",
+            "title": "casual criticism",
+            "words": [
+                "gripe",
+                "snark",
+                "snipe",
+                "carp"
+            ]
+        }
+    ]
+}

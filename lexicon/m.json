@@ -2240,5 +2240,87 @@
                 "They couldn’t cross the morass at night."
             ]
         }
+    ],
+    "millennial": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "relating to the generation born around the year 1980 to the mid-1990s, or to the period around the new millennium",
+            "synonyms": [
+                "of the millennials",
+                "early-2000s generation"
+            ],
+            "examples": [
+                "Millennial workers often expect flexible schedules.",
+                "The survey focused on millennial attitudes."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who belongs to the millennial generation",
+            "synonyms": [
+                "millennial"
+            ],
+            "examples": [
+                "Many millennials prefer using apps for shopping.",
+                "She is a millennial who grew up with the internet."
+            ]
+        }
+    ],
+    "moat": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a deep wide ditch, usually filled with water, around a castle or fort for defense",
+            "synonyms": [
+                "defensive ditch",
+                "water ditch"
+            ],
+            "examples": [
+                "The moat was dry for repairs.",
+                "The castle’s moat protected the walls."
+            ]
+        }
+    ],
+    "molder": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to decay or break down over time",
+            "synonyms": [
+                "mildew",
+                "decay",
+                "rot",
+                "decompose"
+            ],
+            "examples": [
+                "Old paper can molder in a damp storage room.",
+                "The damp walls caused the wood to molder."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a substance or person that causes decay, especially in mould or waste contexts",
+            "synonyms": [
+                "mold",
+                "moldy material"
+            ],
+            "examples": [
+                "The basement smelled of molder."
+            ]
+        }
+    ],
+    "mordancy": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a bitter, sharp quality in words or behavior",
+            "synonyms": [
+                "bitterness",
+                "sharpness",
+                "causticity",
+                "cynicism"
+            ],
+            "examples": [
+                "The article’s mordancy made readers uneasy.",
+                "He used mordancy to criticize his opponent."
+            ]
+        }
     ]
 }

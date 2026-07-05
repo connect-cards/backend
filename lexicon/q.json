@@ -343,5 +343,82 @@
                 "Workers repaired a damaged quoin."
             ]
         }
+    ],
+    "query": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a question or request for information",
+            "synonyms": [
+                "question",
+                "inquiry",
+                "request",
+                "interrogation"
+            ],
+            "examples": [
+                "Send your query to the support team.",
+                "I have a query about my billing."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to ask about something or request information",
+            "synonyms": [
+                "inquire",
+                "question",
+                "ask",
+                "seek clarification"
+            ],
+            "examples": [
+                "They queried the results before accepting them.",
+                "The client queried the charge on the invoice."
+            ]
+        }
+    ],
+    "qualm": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a feeling of doubt or worry about whether something is right",
+            "synonyms": [
+                "doubt",
+                "misgiving",
+                "concern",
+                "unease"
+            ],
+            "examples": [
+                "She had no qualm about speaking up.",
+                "I felt a qualm when I realized the plan was risky."
+            ]
+        }
+    ],
+    "quagmire": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a difficult situation that is hard to escape",
+            "synonyms": [
+                "trap",
+                "bind",
+                "tough situation",
+                "entanglement"
+            ],
+            "examples": [
+                "The project became a quagmire after delays.",
+                "Negotiations turned into a quagmire."
+            ]
+        }
+    ],
+    "quire": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a group of singers, usually in church or formal settings",
+            "synonyms": [
+                "choir",
+                "chorus",
+                "singing group"
+            ],
+            "examples": [
+                "The quire sang hymns at the service.",
+                "We listened to the quire perform in the cathedral."
+            ]
+        }
     ]
 }

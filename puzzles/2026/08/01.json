@@ -1,0 +1,53 @@
+{
+    "date": "2026-08-01",
+    "groups": [
+        {
+            "id": "2026-08-01-g1",
+            "type": "informal_register",
+            "difficulty": "easy",
+            "title": "money",
+            "words": [
+                "cash",
+                "dough",
+                "loot",
+                "bucks"
+            ]
+        },
+        {
+            "id": "2026-08-01-g2",
+            "type": "semantic_field",
+            "difficulty": "medium",
+            "title": "stage parts",
+            "words": [
+                "proscenium",
+                "wing",
+                "apron",
+                "pit"
+            ]
+        },
+        {
+            "id": "2026-08-01-g3",
+            "type": "synonym",
+            "difficulty": "hard",
+            "title": "brief",
+            "words": [
+                "terse",
+                "succinct",
+                "laconic",
+                "pithy"
+            ]
+        },
+        {
+            "id": "2026-08-01-g4",
+            "type": "sound_association",
+            "difficulty": "very_hard",
+            "title": "hissing sounds",
+            "words": [
+                "sibilant",
+                "susurrus",
+                "whisper",
+                "murmur"
+            ]
+        }
+    ]
+}

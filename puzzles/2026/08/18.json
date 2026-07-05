@@ -1,0 +1,53 @@
+{
+    "date": "2026-08-18",
+    "groups": [
+        {
+            "id": "2026-08-18-g1",
+            "type": "etymological_relation",
+            "difficulty": "easy",
+            "title": "from latin lead",
+            "words": [
+                "duct",
+                "adduce",
+                "induct",
+                "aqueduct"
+            ]
+        },
+        {
+            "id": "2026-08-18-g2",
+            "type": "morphological_family",
+            "difficulty": "medium",
+            "title": "break forms",
+            "words": [
+                "rupture",
+                "abrupt",
+                "interrupt",
+                "irruption"
+            ]
+        },
+        {
+            "id": "2026-08-18-g3",
+            "type": "emotional_tone",
+            "difficulty": "hard",
+            "title": "nervous agitation",
+            "words": [
+                "restive",
+                "jittery",
+                "febrile",
+                "skittish"
+            ]
+        },
+        {
+            "id": "2026-08-18-g4",
+            "type": "sound_association",
+            "difficulty": "very_hard",
+            "title": "harsh speech sounds",
+            "words": [
+                "guttural",
+                "sibilant",
+                "plosive",
+                "strident"
+            ]
+        }
+    ]
+}

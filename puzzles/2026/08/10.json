@@ -1,0 +1,53 @@
+{
+    "date": "2026-08-10",
+    "groups": [
+        {
+            "id": "2026-08-10-g1",
+            "type": "morphological_family",
+            "difficulty": "easy",
+            "title": "carry forms",
+            "words": [
+                "bear",
+                "bore",
+                "borne",
+                "bearing"
+            ]
+        },
+        {
+            "id": "2026-08-10-g2",
+            "type": "sound_association",
+            "difficulty": "medium",
+            "title": "harsh cries",
+            "words": [
+                "shriek",
+                "screech",
+                "skirl",
+                "yowl"
+            ]
+        },
+        {
+            "id": "2026-08-10-g3",
+            "type": "etymological_relation",
+            "difficulty": "hard",
+            "title": "from tooth",
+            "words": [
+                "dent",
+                "dental",
+                "indent",
+                "trident"
+            ]
+        },
+        {
+            "id": "2026-08-10-g4",
+            "type": "physical_trait",
+            "difficulty": "very_hard",
+            "title": "blue tinges",
+            "words": [
+                "azure",
+                "cerulean",
+                "cyanotic",
+                "livid"
+            ]
+        }
+    ]
+}

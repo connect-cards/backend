@@ -1,0 +1,53 @@
+{
+    "date": "2026-08-24",
+    "groups": [
+        {
+            "id": "2026-08-24-g1",
+            "type": "synonym",
+            "difficulty": "easy",
+            "title": "careful",
+            "words": [
+                "wary",
+                "heedful",
+                "cautious",
+                "circumspect"
+            ]
+        },
+        {
+            "id": "2026-08-24-g2",
+            "type": "profession_domain",
+            "difficulty": "medium",
+            "title": "printing work",
+            "words": [
+                "typeset",
+                "imprint",
+                "justify",
+                "kern"
+            ]
+        },
+        {
+            "id": "2026-08-24-g3",
+            "type": "sound_association",
+            "difficulty": "hard",
+            "title": "low murmurs",
+            "words": [
+                "drone",
+                "hum",
+                "murmur",
+                "susurrus"
+            ]
+        },
+        {
+            "id": "2026-08-24-g4",
+            "type": "physical_trait",
+            "difficulty": "very_hard",
+            "title": "hooked shapes",
+            "words": [
+                "uncinate",
+                "falcate",
+                "hamate",
+                "recurved"
+            ]
+        }
+    ]
+}

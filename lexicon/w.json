@@ -1551,5 +1551,116 @@
                 "She wept and woe-ed in silence."
             ]
         }
+    ],
+    "wing": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a part of a building that extends from the main section",
+            "synonyms": [
+                "side",
+                "section",
+                "arm"
+            ],
+            "examples": [
+                "The hospital has a new wing for children.",
+                "We met in the north wing."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a part of an aircraft that provides lift",
+            "synonyms": [
+                "aerofoil",
+                "wing plane"
+            ],
+            "examples": [
+                "The plane banked to the left after turning.",
+                "A bird hit the wing during takeoff."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a side position in a sports team near the outer edge of the field",
+            "synonyms": [
+                "winger",
+                "side player"
+            ],
+            "examples": [
+                "He plays as a wing in the team.",
+                "The ball was passed to the wing for a quick run."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to move or extend as if to form a wing shape",
+            "synonyms": [
+                "spread",
+                "flap",
+                "flare"
+            ],
+            "examples": [
+                "The curtain seemed to wing out as the wind came through.",
+                "Her scarf winged behind her as she ran."
+            ]
+        }
+    ],
+    "wx": [
+        {
+            "part_of_speech": "noun",
+            "definition": "weather information, especially as an abbreviation used in digital messages",
+            "synonyms": [
+                "weather",
+                "weather info"
+            ],
+            "examples": [
+                "Check the wx before you go out.",
+                "The app shows hourly wx updates."
+            ]
+        }
+    ],
+    "wonga": [
+        {
+            "part_of_speech": "noun",
+            "definition": "money, used in informal british english",
+            "synonyms": [
+                "money",
+                "cash",
+                "dough",
+                "bucks"
+            ],
+            "examples": [
+                "He earns good wonga at the new job.",
+                "They offered him wonga for the car."
+            ]
+        }
+    ],
+    "waft": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to move gently through the air, especially a smell or sound",
+            "synonyms": [
+                "drift",
+                "float",
+                "carry",
+                "breathe"
+            ],
+            "examples": [
+                "The smell of food wafted from the kitchen.",
+                "Her laughter wafted across the room."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a gentle movement through the air, often of smell",
+            "synonyms": [
+                "drift",
+                "breeze",
+                "soft movement"
+            ],
+            "examples": [
+                "A waft of perfume filled the hallway.",
+                "There was a waft of smoke from outside."
+            ]
+        }
     ]
 }

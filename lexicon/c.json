@@ -5508,5 +5508,289 @@
                 "He flinched at the clangor."
             ]
         }
+    ],
+    "cash": [
+        {
+            "part_of_speech": "noun",
+            "definition": "money in the form of notes and coins",
+            "synonyms": [
+                "money",
+                "currency",
+                "funds",
+                "cash money"
+            ],
+            "examples": [
+                "Please pay in cash if the card machine is down.",
+                "He keeps a small amount of cash for emergencies."
+            ]
+        }
+    ],
+    "cattail": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a tall wetland plant with a brown, bottle-shaped seed head",
+            "synonyms": [
+                "bulrush",
+                "reed plant"
+            ],
+            "examples": [
+                "Cattails grew along the pond edge.",
+                "The cattail seed heads looked fuzzy in the wind."
+            ]
+        }
+    ],
+    "confer": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to give someone an honor, right, or benefit",
+            "synonyms": [
+                "grant",
+                "bestow",
+                "award",
+                "present"
+            ],
+            "examples": [
+                "The university conferred an honorary degree on her.",
+                "They conferred new responsibilities on the manager."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to discuss something with another person",
+            "synonyms": [
+                "consult",
+                "discuss",
+                "talk"
+            ],
+            "examples": [
+                "We need to confer before the decision.",
+                "She conferred with her lawyer for advice."
+            ]
+        }
+    ],
+    "cambered": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "slightly curved, especially upward in the middle or across the surface",
+            "synonyms": [
+                "arched",
+                "curved",
+                "arched upward"
+            ],
+            "examples": [
+                "The road was cambered to help water run off.",
+                "A cambered beam supports the roof."
+            ]
+        }
+    ],
+    "captious": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "often making unnecessary criticisms or minor objections to find fault",
+            "synonyms": [
+                "fault-finding",
+                "nitpicking",
+                "critical",
+                "quarrelsome"
+            ],
+            "examples": [
+                "He asked captious questions to delay the decision.",
+                "Her captious attitude annoyed the group."
+            ]
+        }
+    ],
+    "curfew": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a rule that requires people, especially children, to be indoors after a certain time",
+            "synonyms": [
+                "time limit",
+                "restriction",
+                "lock-in time"
+            ],
+            "examples": [
+                "The police enforced a curfew during the storm.",
+                "The curfew starts at 10 p.m."
+            ]
+        }
+    ],
+    "cyanotic": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having bluish or purple skin or lips due to low oxygen in the blood",
+            "synonyms": [
+                "bluish",
+                "blue-tinged",
+                "hypoxic"
+            ],
+            "examples": [
+                "Doctors checked whether the baby was cyanotic.",
+                "The report described cyanotic symptoms."
+            ]
+        }
+    ],
+    "colophon": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a short piece of information at the end of a book that gives details about its production",
+            "synonyms": [
+                "publication note",
+                "printing details"
+            ],
+            "examples": [
+                "The colophon lists the printer and the publication date.",
+                "Look at the colophon for the edition information."
+            ]
+        }
+    ],
+    "castigate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to strongly criticize someone or punish them for wrongdoing",
+            "synonyms": [
+                "condemn",
+                "criticize harshly",
+                "punish",
+                "rebuke"
+            ],
+            "examples": [
+                "The coach castigated the team for missed opportunities.",
+                "He was cast igated for cheating."
+            ]
+        }
+    ],
+    "conference": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a meeting where people discuss a topic, often for several days and sometimes with presentations",
+            "synonyms": [
+                "meeting",
+                "symposium",
+                "convention",
+                "summit"
+            ],
+            "examples": [
+                "The annual conference will be held in October.",
+                "I’m attending a conference on renewable energy."
+            ]
+        }
+    ],
+    "clunk": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a dull sound made when something falls or moves heavily",
+            "synonyms": [
+                "clunking sound",
+                "thump",
+                "clank"
+            ],
+            "examples": [
+                "The suitcase made a clunk when it dropped.",
+                "I heard a clunk from the basement."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make such a dull heavy sound",
+            "synonyms": [
+                "thump",
+                "clank",
+                "drop with a sound"
+            ],
+            "examples": [
+                "The door clunked shut.",
+                "The tool clunked onto the table."
+            ]
+        }
+    ],
+    "capstan": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a rotating device on a ship used to wind and control ropes",
+            "synonyms": [
+                "winch",
+                "rope winder"
+            ],
+            "examples": [
+                "The crew used a capstan to pull in the line.",
+                "A capstan helps manage heavy ropes on deck."
+            ]
+        }
+    ],
+    "circumferent": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "going around the edge or perimeter of something",
+            "synonyms": [
+                "surrounding",
+                "around-the-edge",
+                "peripheral"
+            ],
+            "examples": [
+                "The circumferent wall protects the interior space.",
+                "A circumferent path circles the building."
+            ]
+        }
+    ],
+    "canker": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a painful sore in the mouth, or a disease that damages plants",
+            "synonyms": [
+                "mouth ulcer",
+                "ulcer",
+                "plant disease"
+            ],
+            "examples": [
+                "She got a canker on her tongue.",
+                "The gardener noticed a canker on the tree."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to damage or destroy something slowly, or to cause disease in plants",
+            "synonyms": [
+                "corrode",
+                "destroy",
+                "afflict",
+                "rot"
+            ],
+            "examples": [
+                "The disease began to canker the roots.",
+                "The injury cankered and weakened the trunk."
+            ]
+        }
+    ],
+    "corrugate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to form ridges or grooves on a surface",
+            "synonyms": [
+                "wrinkle",
+                "rib",
+                "rid",
+                "flute"
+            ],
+            "examples": [
+                "Metal sheets are corrugated to add strength.",
+                "The plastic was corrugated for insulation."
+            ]
+        }
+    ],
+    "congestion": [
+        {
+            "part_of_speech": "noun",
+            "definition": "blockage or swelling that makes breathing or movement difficult, or heavy traffic",
+            "synonyms": [
+                "blockage",
+                "traffic jam",
+                "buildup",
+                "swelling"
+            ],
+            "examples": [
+                "Congestion in the nose made it hard to sleep.",
+                "There was congestion on the highway after the accident."
+            ]
+        }
     ]
 }

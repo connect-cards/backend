@@ -1,0 +1,53 @@
+{
+    "date": "2026-08-20",
+    "groups": [
+        {
+            "id": "2026-08-20-g1",
+            "type": "etymological_relation",
+            "difficulty": "easy",
+            "title": "from carry",
+            "words": [
+                "metaphor",
+                "ferry",
+                "refer",
+                "circumferent"
+            ]
+        },
+        {
+            "id": "2026-08-20-g2",
+            "type": "physical_trait",
+            "difficulty": "medium",
+            "title": "lean bodies",
+            "words": [
+                "gaunt",
+                "rangy",
+                "wiry",
+                "cadaverous"
+            ]
+        },
+        {
+            "id": "2026-08-20-g3",
+            "type": "literary_register",
+            "difficulty": "hard",
+            "title": "poetic old words",
+            "words": [
+                "ere",
+                "oft",
+                "nay",
+                "anon"
+            ]
+        },
+        {
+            "id": "2026-08-20-g4",
+            "type": "thematic_association",
+            "difficulty": "very_hard",
+            "title": "ruin and decay",
+            "words": [
+                "blight",
+                "canker",
+                "rot",
+                "taint"
+            ]
+        }
+    ]
+}

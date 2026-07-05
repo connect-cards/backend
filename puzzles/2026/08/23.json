@@ -1,0 +1,53 @@
+{
+    "date": "2026-08-23",
+    "groups": [
+        {
+            "id": "2026-08-23-g1",
+            "type": "profession_domain",
+            "difficulty": "easy",
+            "title": "surgery verbs",
+            "words": [
+                "suture",
+                "incise",
+                "graft",
+                "sterilize"
+            ]
+        },
+        {
+            "id": "2026-08-23-g2",
+            "type": "sound_association",
+            "difficulty": "medium",
+            "title": "sharp sounds",
+            "words": [
+                "clink",
+                "snap",
+                "crack",
+                "clatter"
+            ]
+        },
+        {
+            "id": "2026-08-23-g3",
+            "type": "physical_trait",
+            "difficulty": "hard",
+            "title": "thin builds",
+            "words": [
+                "gaunt",
+                "cadaverous",
+                "rangy",
+                "spindly"
+            ]
+        },
+        {
+            "id": "2026-08-23-g4",
+            "type": "morphological_family",
+            "difficulty": "very_hard",
+            "title": "bearing prefix",
+            "words": [
+                "gestation",
+                "congestion",
+                "digesta",
+                "register"
+            ]
+        }
+    ]
+}

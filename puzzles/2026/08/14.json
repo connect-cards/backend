@@ -1,0 +1,53 @@
+{
+    "date": "2026-08-14",
+    "groups": [
+        {
+            "id": "2026-08-14-g1",
+            "type": "physical_trait",
+            "difficulty": "easy",
+            "title": "hair textures",
+            "words": [
+                "wiry",
+                "silky",
+                "coarse",
+                "kinky"
+            ]
+        },
+        {
+            "id": "2026-08-14-g2",
+            "type": "literary_register",
+            "difficulty": "medium",
+            "title": "poetic sorrow",
+            "words": [
+                "woe",
+                "dolor",
+                "lament",
+                "threnody"
+            ]
+        },
+        {
+            "id": "2026-08-14-g3",
+            "type": "thematic_association",
+            "difficulty": "hard",
+            "title": "siege warfare",
+            "words": [
+                "rampart",
+                "moat",
+                "bastion",
+                "trebuchet"
+            ]
+        },
+        {
+            "id": "2026-08-14-g4",
+            "type": "etymological_relation",
+            "difficulty": "very_hard",
+            "title": "speaking roots",
+            "words": [
+                "fable",
+                "ineffable",
+                "affable",
+                "fate"
+            ]
+        }
+    ]
+}

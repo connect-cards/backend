@@ -893,5 +893,95 @@
                 "Her voluble speech made it difficult to get a word in."
             ]
         }
+    ],
+    "voirdire": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a french term used in english for a saying or expression, especially one that sounds like the original statement",
+            "synonyms": [
+                "saying",
+                "expression"
+            ],
+            "examples": [
+                "In this text, the author uses a voirdire to introduce a known phrase.",
+                "The note explains the voirdire in the previous line."
+            ]
+        }
+    ],
+    "vaunt": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to speak about your achievements in a proud and sometimes too confident way",
+            "synonyms": [
+                "boast",
+                "brag",
+                "exaggerate"
+            ],
+            "examples": [
+                "He vaunted his success to everyone he met.",
+                "Don’t vaunt your skills before you prove them."
+            ]
+        }
+    ],
+    "virga": [
+        {
+            "part_of_speech": "noun",
+            "definition": "in meteorology, a curtain of rain or snow that falls but evaporates before reaching the ground",
+            "synonyms": [
+                "virga precipitation",
+                "falling streak"
+            ],
+            "examples": [
+                "The cloud showed virga, but nothing reached the ground.",
+                "We could see virga in the distance."
+            ]
+        }
+    ],
+    "vituperate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to attack someone with harsh, insulting criticism",
+            "synonyms": [
+                "denounce",
+                "abuse",
+                "insult",
+                "criticize viciously"
+            ],
+            "examples": [
+                "He vituperated against the new policy in every interview.",
+                "The comments were meant to vituperate the opponent."
+            ]
+        }
+    ],
+    "vestibule": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small entrance area between the outside door and the main interior of a building",
+            "synonyms": [
+                "entryway",
+                "foyer",
+                "entrance hall"
+            ],
+            "examples": [
+                "The vestibule was warm even in winter.",
+                "We waited in the vestibule before going inside."
+            ]
+        }
+    ],
+    "virulence": [
+        {
+            "part_of_speech": "noun",
+            "definition": "how severe or harmful something is, especially a disease or criticism",
+            "synonyms": [
+                "severity",
+                "intensity",
+                "harmfulness",
+                "poisonousness"
+            ],
+            "examples": [
+                "The disease showed high virulence.",
+                "Her criticism had a surprising virulence."
+            ]
+        }
     ]
 }

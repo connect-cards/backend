@@ -1,0 +1,53 @@
+{
+    "date": "2026-08-03",
+    "groups": [
+        {
+            "id": "2026-08-03-g1",
+            "type": "thematic_association",
+            "difficulty": "easy",
+            "title": "ship parts",
+            "words": [
+                "mast",
+                "keel",
+                "rudder",
+                "hull"
+            ]
+        },
+        {
+            "id": "2026-08-03-g2",
+            "type": "informal_register",
+            "difficulty": "medium",
+            "title": "annoy",
+            "words": [
+                "irk",
+                "peeve",
+                "gall",
+                "rile"
+            ]
+        },
+        {
+            "id": "2026-08-03-g3",
+            "type": "morphological_family",
+            "difficulty": "hard",
+            "title": "carry forms",
+            "words": [
+                "ferry",
+                "confer",
+                "defer",
+                "offer"
+            ]
+        },
+        {
+            "id": "2026-08-03-g4",
+            "type": "physical_trait",
+            "difficulty": "very_hard",
+            "title": "curved",
+            "words": [
+                "arcuate",
+                "sigmoid",
+                "sinuate",
+                "cambered"
+            ]
+        }
+    ]
+}

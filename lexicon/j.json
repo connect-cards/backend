@@ -345,5 +345,61 @@
                 "A jess keeps the falcon under control."
             ]
         }
+    ],
+    "jeer": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to laugh or shout in an insulting way to show contempt",
+            "synonyms": [
+                "mock",
+                "ridicule",
+                "taunt",
+                "scoff"
+            ],
+            "examples": [
+                "The crowd jeered when he made that mistake.",
+                "They jeered at the performer."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "loud insulting laughter or shouts",
+            "synonyms": [
+                "mockery",
+                "ridicule",
+                "taunts"
+            ],
+            "examples": [
+                "There were jeers from the back row.",
+                "The jeer made her turn around."
+            ]
+        }
+    ],
+    "justify": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to give a good reason or proof for an action or belief",
+            "synonyms": [
+                "support",
+                "explain",
+                "defend",
+                "prove"
+            ],
+            "examples": [
+                "Can you justify your decision?",
+                "She justified the expense with receipts."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to align text so that the edges of lines look even",
+            "synonyms": [
+                "align",
+                "format"
+            ],
+            "examples": [
+                "The document is set to justify the paragraphs."
+            ]
+        }
     ]
 }

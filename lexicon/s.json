@@ -6247,5 +6247,695 @@
                 "He developed stridor after the swelling started."
             ]
         }
+    ],
+    "sedge": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a plant with narrow leaves that often grows in wet ground or near water",
+            "synonyms": [
+                "rush",
+                "wetland grass"
+            ],
+            "examples": [
+                "Sedges grew along the riverbank.",
+                "The path was lined with sedge and small flowers."
+            ]
+        }
+    ],
+    "sigmoid": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "shaped like an s curve",
+            "synonyms": [
+                "s-shaped",
+                "serpentine"
+            ],
+            "examples": [
+                "The graph shows a sigmoid curve.",
+                "The result formed a sigmoid pattern as the value increased."
+            ]
+        }
+    ],
+    "sinuate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to curve or twist in a winding way",
+            "synonyms": [
+                "wind",
+                "meander",
+                "curve"
+            ],
+            "examples": [
+                "The road sinuates through the hills.",
+                "The river sinuated toward the sea."
+            ]
+        }
+    ],
+    "scoff": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to show you do not believe something by speaking or reacting in a dismissive way",
+            "synonyms": [
+                "mock",
+                "dismiss",
+                "ridicule",
+                "snort"
+            ],
+            "examples": [
+                "She scoffed at the rumor.",
+                "He scoffed when they suggested the plan was simple."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a dismissive reaction or remark",
+            "synonyms": [
+                "mockery",
+                "ridicule",
+                "dismissal"
+            ],
+            "examples": [
+                "His scoff showed he disagreed strongly.",
+                "She answered with a scoff."
+            ]
+        }
+    ],
+    "speech": [
+        {
+            "part_of_speech": "noun",
+            "definition": "words spoken to an audience or to another person",
+            "synonyms": [
+                "talk",
+                "address",
+                "utterance",
+                "addressing"
+            ],
+            "examples": [
+                "His speech lasted thirty minutes.",
+                "We listened carefully to the keynote speech."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "the ability to speak and communicate using spoken language",
+            "synonyms": [
+                "speaking",
+                "talking",
+                "oral communication"
+            ],
+            "examples": [
+                "The doctor assessed her speech after the operation.",
+                "Speech became difficult for him due to the injury."
+            ]
+        }
+    ],
+    "sprecher": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who speaks or delivers lines, especially in theatre or language study",
+            "synonyms": [
+                "speaker",
+                "voice",
+                "performer"
+            ],
+            "examples": [
+                "The script lists each sprecher and their lines.",
+                "The director asked the sprecher to slow down."
+            ]
+        }
+    ],
+    "slough": [
+        {
+            "part_of_speech": "noun",
+            "definition": "dead or decaying material, especially skin or tissue, that separates from the body",
+            "synonyms": [
+                "debris",
+                "tissue",
+                "dead matter"
+            ],
+            "examples": [
+                "The wound healed after the slough was cleaned.",
+                "The doctor removed the slough from the damaged area."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to get rid of something slowly, often something unwanted or harmful",
+            "synonyms": [
+                "shed",
+                "discard",
+                "drop"
+            ],
+            "examples": [
+                "She sloughed off the old habits over time.",
+                "The tree began to slough its leaves in autumn."
+            ]
+        }
+    ],
+    "slosh": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to move liquid around so it makes a wet, heavy noise, or to spill it slightly",
+            "synonyms": [
+                "splash",
+                "sloshe",
+                "swing",
+                "swirl"
+            ],
+            "examples": [
+                "Be careful not to slosh the water out of the bucket.",
+                "The drink sloshed as the bus turned."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "the sound or movement of liquid sloshing",
+            "synonyms": [
+                "splash",
+                "sloshing sound"
+            ],
+            "examples": [
+                "I heard a slosh when the container moved.",
+                "There was a slosh of water in the sink."
+            ]
+        }
+    ],
+    "swish": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to move quickly through the air, making a soft sound",
+            "synonyms": [
+                "whoosh",
+                "swirl",
+                "whip"
+            ],
+            "examples": [
+                "Her bag swished as she walked past.",
+                "Leaves swished across the sidewalk in the wind."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a soft sound made by quick movement through air or water",
+            "synonyms": [
+                "whoosh",
+                "rustle",
+                "swirl"
+            ],
+            "examples": [
+                "There was a swish behind me.",
+                "He heard a swish of water near the rocks."
+            ]
+        }
+    ],
+    "sophism": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an argument that sounds reasonable but is actually misleading or false",
+            "synonyms": [
+                "fallacy",
+                "trick argument",
+                "misleading reasoning"
+            ],
+            "examples": [
+                "The teacher explained that it was a sophism, not a real solution.",
+                "His debate skills often used sophisms."
+            ]
+        }
+    ],
+    "sentinel": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person or thing that stands or watches to warn others of danger",
+            "synonyms": [
+                "guard",
+                "watchman",
+                "lookout",
+                "sentry"
+            ],
+            "examples": [
+                "A sentinel watched the gate all night.",
+                "The system works like a sentinel for unusual activity."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "watching and ready to respond to danger",
+            "synonyms": [
+                "watchful",
+                "guarding",
+                "on alert"
+            ],
+            "examples": [
+                "The team stayed sentinel during the test."
+            ]
+        }
+    ],
+    "skunk": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small north american animal known for spraying a strong-smelling liquid when threatened",
+            "synonyms": [
+                "stink animal",
+                "striped skunk"
+            ],
+            "examples": [
+                "A skunk wandered into the yard at night.",
+                "The dog smelled like skunk after the encounter."
+            ]
+        }
+    ],
+    "shagreen": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a type of leather with a rough, pebbled surface, used in bookbinding and other crafts",
+            "synonyms": [
+                "shagreene leather",
+                "textured leather"
+            ],
+            "examples": [
+                "The cover is made of shagreen leather.",
+                "Old journals sometimes used shagreen for durability."
+            ]
+        }
+    ],
+    "sequent": [
+        {
+            "part_of_speech": "noun",
+            "definition": "something that follows another thing in an order or sequence",
+            "synonyms": [
+                "successor",
+                "later item",
+                "following part"
+            ],
+            "examples": [
+                "The sequent after this step controls the next action.",
+                "The sequent in the list describes the final result."
+            ]
+        }
+    ],
+    "shriek": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to cry out loudly and sharply, usually because of fear or pain",
+            "synonyms": [
+                "scream",
+                "yell",
+                "cry out",
+                "squall"
+            ],
+            "examples": [
+                "She shrieked when she saw the spider.",
+                "The child shrieked in surprise."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a loud sharp scream",
+            "synonyms": [
+                "scream",
+                "screech",
+                "cry",
+                "yell"
+            ],
+            "examples": [
+                "I heard a shriek from the hallway.",
+                "The shriek lasted only a second."
+            ]
+        }
+    ],
+    "screech": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a loud, high sound",
+            "synonyms": [
+                "scream",
+                "squeal",
+                "shout",
+                "cry out"
+            ],
+            "examples": [
+                "The brakes screeched as the car stopped.",
+                "A bird screeched from the tree."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a loud high sound, often unpleasant",
+            "synonyms": [
+                "squeal",
+                "scream",
+                "shriek"
+            ],
+            "examples": [
+                "There was a screech from the street.",
+                "The screech of the tires filled the air."
+            ]
+        }
+    ],
+    "scriven": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to write or prepare documents, especially in an old or formal setting",
+            "synonyms": [
+                "write",
+                "draft",
+                "prepare documents"
+            ],
+            "examples": [
+                "The clerk scrivened the agreement for both parties.",
+                "He was hired to scriven legal papers."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who writes legal documents",
+            "synonyms": [
+                "legal writer",
+                "clerk",
+                "scribe"
+            ],
+            "examples": [
+                "A scriven prepared the contract for the court."
+            ]
+        }
+    ],
+    "scrivener": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who writes, especially legal documents or manuscripts",
+            "synonyms": [
+                "legal writer",
+                "clerk",
+                "scribe"
+            ],
+            "examples": [
+                "The scrivener drafted the document carefully.",
+                "A scrivener is needed to format the manuscript correctly."
+            ]
+        }
+    ],
+    "specular": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "related to reflection of light, especially on a smooth surface",
+            "synonyms": [
+                "reflective",
+                "mirror-like",
+                "shiny"
+            ],
+            "examples": [
+                "The specular highlights changed when we moved the lamp.",
+                "Specular reflection is stronger on polished metal."
+            ]
+        }
+    ],
+    "spondulicks": [
+        {
+            "part_of_speech": "noun",
+            "definition": "money, used in a humorous or informal way",
+            "synonyms": [
+                "money",
+                "cash",
+                "bucks",
+                "dough"
+            ],
+            "examples": [
+                "He spent all his spondulicks on dinner.",
+                "Do we have enough spondulicks for the tickets?"
+            ]
+        }
+    ],
+    "sour": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having a sharp, unpleasant taste or smell",
+            "synonyms": [
+                "tart",
+                "acidic",
+                "sharp",
+                "rank"
+            ],
+            "examples": [
+                "The milk tasted sour.",
+                "Her breath had a sour smell."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "unfriendly or bitter in mood",
+            "synonyms": [
+                "resentful",
+                "irritated",
+                "bitter",
+                "hostile"
+            ],
+            "examples": [
+                "His sour tone made the conversation tense.",
+                "She gave a sour look when the plan changed."
+            ]
+        }
+    ],
+    "snark": [
+        {
+            "part_of_speech": "noun",
+            "definition": "sarcastic or mocking remarks, often in an internet style",
+            "synonyms": [
+                "sarcasm",
+                "mockery",
+                "snideness"
+            ],
+            "examples": [
+                "Her post was full of snark.",
+                "He replied with snark instead of answering the question."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to respond in a sarcastic or mocking way",
+            "synonyms": [
+                "snipe",
+                "mock",
+                "sarcastically reply"
+            ],
+            "examples": [
+                "He snarked at the interviewer’s question.",
+                "Don’t snark in the comments."
+            ]
+        }
+    ],
+    "snipe": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to criticize someone indirectly in a sharp or mocking way",
+            "synonyms": [
+                "criticize",
+                "mock",
+                "jibe",
+                "snipe at"
+            ],
+            "examples": [
+                "He snipe d at her idea during the meeting.",
+                "Don’t snipe at your coworkers."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a bird that feeds in marshes and has a long pointed beak",
+            "synonyms": [
+                "wading bird"
+            ],
+            "examples": [
+                "We saw a snipe near the wetland."
+            ]
+        }
+    ],
+    "skittish": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "nervous, easily frightened, or quick to change behavior",
+            "synonyms": [
+                "nervy",
+                "easily startled",
+                "jump y",
+                "timid"
+            ],
+            "examples": [
+                "The skittish horse wouldn’t come close.",
+                "She felt skittish before giving the presentation."
+            ]
+        }
+    ],
+    "scope": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the range of what something includes or is able to do",
+            "synonyms": [
+                "range",
+                "limit",
+                "reach",
+                "extent"
+            ],
+            "examples": [
+                "The scope of the project is bigger than we expected.",
+                "This tool has a limited scope."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "the ability to see or examine something, often with an instrument",
+            "synonyms": [
+                "view",
+                "visibility",
+                "vision"
+            ],
+            "examples": [
+                "Use the scope to inspect the small parts.",
+                "The camera gives a wider scope of the area."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to examine or explore something to determine its details",
+            "synonyms": [
+                "inspect",
+                "check",
+                "survey",
+                "review"
+            ],
+            "examples": [
+                "They scoped the problem before starting repairs.",
+                "We will scope the site tomorrow."
+            ]
+        }
+    ],
+    "scupper": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to prevent something from succeeding or going as planned",
+            "synonyms": [
+                "thwart",
+                "ruin",
+                "prevent",
+                "sink"
+            ],
+            "examples": [
+                "Their delay scuppered the plan.",
+                "The technical issue scuppered our delivery schedule."
+            ]
+        }
+    ],
+    "shoal": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a group of fish swimming together in the same area",
+            "synonyms": [
+                "school",
+                "bank of fish"
+            ],
+            "examples": [
+                "A shoal of fish appeared near the surface.",
+                "We watched the shoal move slowly through the water."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a shallow area in the sea that can be dangerous for boats",
+            "synonyms": [
+                "sandbar",
+                "shallow",
+                "sandbank"
+            ],
+            "examples": [
+                "The ship changed course to avoid the shoal.",
+                "A shoal lies just off the coast."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to become shallow, or to make the water shallower",
+            "synonyms": [
+                "shallow",
+                "grow shallow"
+            ],
+            "examples": [
+                "The channel shoaled as the sand built up."
+            ]
+        }
+    ],
+    "suture": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a stitch or the process of closing a wound",
+            "synonyms": [
+                "stitch",
+                "seam",
+                "stitching"
+            ],
+            "examples": [
+                "She needed several sutures after the cut.",
+                "The doctor removed the sutures a week later."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to close a wound with stitches",
+            "synonyms": [
+                "stitch",
+                "sew up",
+                "close"
+            ],
+            "examples": [
+                "They sutured the skin after cleaning the wound.",
+                "The surgeon sutured the incision carefully."
+            ]
+        }
+    ],
+    "sterilize": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to destroy all germs so something is safe from infection",
+            "synonyms": [
+                "disinfect",
+                "sanitize",
+                "sterilise",
+                "make germ-free"
+            ],
+            "examples": [
+                "You should sterilize the baby bottles before use.",
+                "The lab sterilized the tools."
+            ]
+        }
+    ],
+    "spindly": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "thin, weak-looking, and not well developed",
+            "synonyms": [
+                "thin",
+                "scrawny",
+                "slender",
+                "fragile"
+            ],
+            "examples": [
+                "The plant looked spindly after the heat.",
+                "He has a spindly build."
+            ]
+        }
+    ],
+    "sill": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a horizontal support or ledge, especially under a window or door",
+            "synonyms": [
+                "ledge",
+                "window base",
+                "threshold support"
+            ],
+            "examples": [
+                "Water collects on the window sill.",
+                "The door sill was covered with dust."
+            ]
+        }
     ]
 }

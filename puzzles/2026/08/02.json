@@ -1,0 +1,53 @@
+{
+    "date": "2026-08-02",
+    "groups": [
+        {
+            "id": "2026-08-02-g1",
+            "type": "informal_register",
+            "difficulty": "easy",
+            "title": "nonsense",
+            "words": [
+                "baloney",
+                "drivel",
+                "hokum",
+                "tripe"
+            ]
+        },
+        {
+            "id": "2026-08-02-g2",
+            "type": "physical_trait",
+            "difficulty": "medium",
+            "title": "thin",
+            "words": [
+                "gaunt",
+                "lanky",
+                "scrawny",
+                "spare"
+            ]
+        },
+        {
+            "id": "2026-08-02-g3",
+            "type": "profession_domain",
+            "difficulty": "hard",
+            "title": "legal latin",
+            "words": [
+                "tort",
+                "estoppel",
+                "voirdire",
+                "demurrer"
+            ]
+        },
+        {
+            "id": "2026-08-02-g4",
+            "type": "semantic_field",
+            "difficulty": "very_hard",
+            "title": "marsh plants",
+            "words": [
+                "sedge",
+                "rush",
+                "reed",
+                "cattail"
+            ]
+        }
+    ]
+}

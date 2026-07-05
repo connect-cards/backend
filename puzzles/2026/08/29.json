@@ -1,0 +1,53 @@
+{
+    "date": "2026-08-29",
+    "groups": [
+        {
+            "id": "2026-08-29-g1",
+            "type": "literary_register",
+            "difficulty": "easy",
+            "title": "poetic sorrow",
+            "words": [
+                "woe",
+                "gloom",
+                "grief",
+                "lament"
+            ]
+        },
+        {
+            "id": "2026-08-29-g2",
+            "type": "thematic_association",
+            "difficulty": "medium",
+            "title": "thresholds",
+            "words": [
+                "portal",
+                "lintel",
+                "vestibule",
+                "sill"
+            ]
+        },
+        {
+            "id": "2026-08-29-g3",
+            "type": "informal_register",
+            "difficulty": "hard",
+            "title": "idle chatter",
+            "words": [
+                "banter",
+                "bantz",
+                "gab",
+                "prattle"
+            ]
+        },
+        {
+            "id": "2026-08-29-g4",
+            "type": "synonym",
+            "difficulty": "very_hard",
+            "title": "harshness",
+            "words": [
+                "asperity",
+                "acerbity",
+                "mordancy",
+                "virulence"
+            ]
+        }
+    ]
+}
