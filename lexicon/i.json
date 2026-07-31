@@ -2040,5 +2040,195 @@
                 "He studied the indenture terms."
             ]
         }
+    ],
+    "irk": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make someone feel annoyed or uncomfortable",
+            "synonyms": [
+                "bother",
+                "annoy",
+                "irritate",
+                "displease"
+            ],
+            "examples": [
+                "Long meetings always irk her.",
+                "The noise began to irk the neighbors."
+            ]
+        }
+    ],
+    "indent": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to leave a small cut or hollow in something, or to make a line with a small space",
+            "synonyms": [
+                "notch",
+                "make a dent",
+                "mark",
+                "set in"
+            ],
+            "examples": [
+                "The package had an indent on the corner.",
+                "Please indent the second paragraph."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a small hollow or cut in the surface of something",
+            "synonyms": [
+                "dent",
+                "notch",
+                "impression"
+            ],
+            "examples": [
+                "There was an indent in the wood from the tool."
+            ]
+        }
+    ],
+    "isobar": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a line on a weather map that connects points with the same air pressure",
+            "synonyms": [
+                "pressure line"
+            ],
+            "examples": [
+                "The isobar pattern showed where the low pressure system was moving.",
+                "Meteorologists used isobars to forecast the weather."
+            ]
+        }
+    ],
+    "ineffable": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "too great or too special to be expressed in words",
+            "synonyms": [
+                "inexpressible",
+                "unfathomable",
+                "unspeakable",
+                "beyond words"
+            ],
+            "examples": [
+                "The moment felt ineffable, like no description could match it.",
+                "Her joy was ineffable."
+            ]
+        }
+    ],
+    "induct": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to officially bring someone into an organization or give them a position",
+            "synonyms": [
+                "initiate",
+                "enroll",
+                "install",
+                "appoint"
+            ],
+            "examples": [
+                "They will induct new members next week.",
+                "The captain was inducted into the hall of fame."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to cause someone or something to enter a process or situation",
+            "synonyms": [
+                "lead",
+                "bring about",
+                "cause"
+            ],
+            "examples": [
+                "The investigation was designed to induct the team into the procedure."
+            ]
+        }
+    ],
+    "irruption": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a sudden entrance of people or things into a place, often causing disturbance",
+            "synonyms": [
+                "invasion",
+                "outburst",
+                "surge",
+                "intrusion"
+            ],
+            "examples": [
+                "The irruption of tourists disrupted the small town.",
+                "An irruption of snow closed the roads."
+            ]
+        }
+    ],
+    "inlet": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small arm of the sea or a lake that goes into the land",
+            "synonyms": [
+                "bay",
+                "cove",
+                "indentation"
+            ],
+            "examples": [
+                "The boat entered the inlet at sunset.",
+                "We stayed in a quiet inlet for the night."
+            ]
+        }
+    ],
+    "incise": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to cut or make a small sharp line in a surface",
+            "synonyms": [
+                "cut",
+                "slice",
+                "score",
+                "engrave"
+            ],
+            "examples": [
+                "The doctor incised the skin to remove the tissue.",
+                "He used a tool to incise a line on the metal."
+            ]
+        }
+    ],
+    "imprint": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a name used by a publishing company for a particular line of books",
+            "synonyms": [
+                "publishing imprint",
+                "publisher brand"
+            ],
+            "examples": [
+                "That novel was released under a well-known imprint.",
+                "The imprint focuses on educational books."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a mark or impression on a surface",
+            "synonyms": [
+                "press",
+                "stamp",
+                "leave an imprint",
+                "imprint on"
+            ],
+            "examples": [
+                "The coin imprinted a design on the paper.",
+                "Rain imprinted patterns on the sand."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to fix an idea or memory in someone’s mind",
+            "synonyms": [
+                "instill",
+                "embed",
+                "fix",
+                "leave a mark"
+            ],
+            "examples": [
+                "The trip imprinted a love of travel in her.",
+                "Kind words can imprint confidence."
+            ]
+        }
     ]
 }

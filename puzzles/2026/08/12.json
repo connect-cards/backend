@@ -1,0 +1,53 @@
+{
+    "date": "2026-08-12",
+    "groups": [
+        {
+            "id": "2026-08-12-g1",
+            "type": "informal_register",
+            "difficulty": "easy",
+            "title": "steal",
+            "words": [
+                "filch",
+                "lift",
+                "nicking",
+                "pinch"
+            ]
+        },
+        {
+            "id": "2026-08-12-g2",
+            "type": "etymological_relation",
+            "difficulty": "medium",
+            "title": "from seeing",
+            "words": [
+                "specimen",
+                "specter",
+                "spectacle",
+                "specular"
+            ]
+        },
+        {
+            "id": "2026-08-12-g3",
+            "type": "synonym",
+            "difficulty": "hard",
+            "title": "brief",
+            "words": [
+                "concise",
+                "curt",
+                "laconic",
+                "terse"
+            ]
+        },
+        {
+            "id": "2026-08-12-g4",
+            "type": "semantic_field",
+            "difficulty": "very_hard",
+            "title": "book parts",
+            "words": [
+                "colophon",
+                "epigraph",
+                "frontispiece",
+                "siglum"
+            ]
+        }
+    ]
+}

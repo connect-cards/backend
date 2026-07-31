@@ -1,0 +1,53 @@
+{
+    "date": "2026-08-21",
+    "groups": [
+        {
+            "id": "2026-08-21-g1",
+            "type": "physical_trait",
+            "difficulty": "easy",
+            "title": "dry textures",
+            "words": [
+                "arid",
+                "parched",
+                "brittle",
+                "withered"
+            ]
+        },
+        {
+            "id": "2026-08-21-g2",
+            "type": "profession_domain",
+            "difficulty": "medium",
+            "title": "courtroom work",
+            "words": [
+                "depose",
+                "indict",
+                "litigate",
+                "subpoena"
+            ]
+        },
+        {
+            "id": "2026-08-21-g3",
+            "type": "morphological_family",
+            "difficulty": "hard",
+            "title": "take away prefix",
+            "words": [
+                "abduct",
+                "abjure",
+                "ablate",
+                "abrade"
+            ]
+        },
+        {
+            "id": "2026-08-21-g4",
+            "type": "etymological_relation",
+            "difficulty": "very_hard",
+            "title": "from latin mouth",
+            "words": [
+                "oral",
+                "orison",
+                "orifice",
+                "oracle"
+            ]
+        }
+    ]
+}

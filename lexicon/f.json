@@ -1804,5 +1804,187 @@
                 "The furrowed field held young plants."
             ]
         }
+    ],
+    "flank": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the side of something, especially the side of a body or a line of forces",
+            "synonyms": [
+                "side",
+                "side area",
+                "wing"
+            ],
+            "examples": [
+                "He moved to the flank to avoid the attack.",
+                "The team protected its flank during the last minutes."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to move to the side of an opponent to attack from the side",
+            "synonyms": [
+                "surround",
+                "side-attack",
+                "outflank"
+            ],
+            "examples": [
+                "The soldiers flanked the enemy position.",
+                "They tried to flank him during the chase."
+            ]
+        }
+    ],
+    "filmy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "thin and not very solid; looking like a light layer",
+            "synonyms": [
+                "thin",
+                "light",
+                "hazy",
+                "delicate"
+            ],
+            "examples": [
+                "The window was covered in a filmy layer of dust.",
+                "She wore filmy fabric for the summer wedding."
+            ]
+        }
+    ],
+    "filch": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to steal something in a small amount or quietly",
+            "synonyms": [
+                "steal",
+                "snatch",
+                "pilfer",
+                "swipe"
+            ],
+            "examples": [
+                "He tried to filch a pen from the office.",
+                "Someone filched a few items from the shelf."
+            ]
+        }
+    ],
+    "frontispiece": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a picture or page at the beginning of a book, often facing the title page",
+            "synonyms": [
+                "title illustration",
+                "opening illustration"
+            ],
+            "examples": [
+                "The frontispiece shows a scene from the story.",
+                "In older books, the frontispiece is often engraved."
+            ]
+        }
+    ],
+    "fate": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the events that will happen to a person, believed to be controlled by destiny",
+            "synonyms": [
+                "destiny",
+                "doom",
+                "course of events",
+                "lot"
+            ],
+            "examples": [
+                "They thought the accident was fate.",
+                "Her fate changed when she got the scholarship."
+            ]
+        }
+    ],
+    "fertile": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "able to produce many plants or crops; good for growth",
+            "synonyms": [
+                "productive",
+                "yielding",
+                "fruitful",
+                "thrifty"
+            ],
+            "examples": [
+                "The soil is fertile and supports strong crops.",
+                "The region is fertile for farming."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "likely to produce good ideas or results",
+            "synonyms": [
+                "creative",
+                "productive",
+                "fruitful",
+                "promising"
+            ],
+            "examples": [
+                "It was a fertile discussion with new solutions.",
+                "Their partnership has been fertile for new inventions."
+            ]
+        }
+    ],
+    "fraught": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "full of worry, danger, or strong feelings",
+            "synonyms": [
+                "loaded",
+                "tense",
+                "stressful",
+                "troubled"
+            ],
+            "examples": [
+                "The meeting was fraught with tension.",
+                "Their relationship became fraught after the argument."
+            ]
+        }
+    ],
+    "febrile": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having a fever; showing symptoms of illness with high body temperature",
+            "synonyms": [
+                "feverish",
+                "temperature-raising",
+                "pyretic"
+            ],
+            "examples": [
+                "The patient was febrile when she arrived at the clinic.",
+                "They tested him because he looked febrile."
+            ]
+        }
+    ],
+    "falcate": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "curved like a sickle or hooked blade",
+            "synonyms": [
+                "sickle-shaped",
+                "hook-shaped",
+                "curved"
+            ],
+            "examples": [
+                "The falcate leaf looks like a small hook.",
+                "Her handwriting became more falcate in that letter style."
+            ]
+        }
+    ],
+    "frippery": [
+        {
+            "part_of_speech": "noun",
+            "definition": "fancy or unnecessary decoration; things kept only for show",
+            "synonyms": [
+                "trimmings",
+                "ornamentation",
+                "nonsense",
+                "frills"
+            ],
+            "examples": [
+                "She doesn’t want frippery in her home design.",
+                "He dismissed the costumes as frippery."
+            ]
+        }
     ]
 }

@@ -2915,5 +2915,316 @@
                 "He was rawboned after weeks without proper food."
             ]
         }
+    ],
+    "rush": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a sudden or intense movement or activity",
+            "synonyms": [
+                "surge",
+                "spike",
+                "flurry"
+            ],
+            "examples": [
+                "The rush of visitors started right after lunch.",
+                "There was a rush to buy tickets."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "an act of running or moving quickly toward something",
+            "synonyms": [
+                "charge",
+                "dash",
+                "bolt"
+            ],
+            "examples": [
+                "He made a rush to catch the bus.",
+                "The crowd’s rush pushed people toward the exit."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a strong desire or feeling, especially for something exciting",
+            "synonyms": [
+                "thrill",
+                "urge",
+                "hunger"
+            ],
+            "examples": [
+                "She said the job gave her a rush of energy.",
+                "He felt a rush when he solved the puzzle."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to move or do something quickly or suddenly",
+            "synonyms": [
+                "hurry",
+                "speed",
+                "dash"
+            ],
+            "examples": [
+                "Don’t rush. Take your time.",
+                "They rushed to finish before the deadline."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to provide something quickly, often without enough care",
+            "synonyms": [
+                "hustle",
+                "scramble",
+                "hurry"
+            ],
+            "examples": [
+                "They rushed the repairs, so errors were likely.",
+                "The report was rushed and needed revision."
+            ]
+        }
+    ],
+    "reed": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a tall plant that grows near water, with thin stems",
+            "synonyms": [
+                "water plant",
+                "grassy stem"
+            ],
+            "examples": [
+                "A flock of birds nested among the reeds.",
+                "The lake was surrounded by reeds."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a thin piece of material in some musical instruments that vibrates to produce sound",
+            "synonyms": [
+                "vibrating strip",
+                "vibrating part"
+            ],
+            "examples": [
+                "The clarinet reed needed replacing.",
+                "He adjusted the reed before playing."
+            ]
+        }
+    ],
+    "rile": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make someone angry or upset",
+            "synonyms": [
+                "anger",
+                "irritate",
+                "provoke",
+                "enrage"
+            ],
+            "examples": [
+                "Constant criticism riles him.",
+                "The unfair rule riled the students."
+            ]
+        }
+    ],
+    "rely": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to depend on someone or something for help, support, or results",
+            "synonyms": [
+                "depend",
+                "count on",
+                "trust",
+                "lean on"
+            ],
+            "examples": [
+                "You can rely on her to keep her word.",
+                "Don’t rely on luck. Plan ahead."
+            ]
+        }
+    ],
+    "rampart": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a defensive wall or bank built to protect a place",
+            "synonyms": [
+                "fortification",
+                "wall",
+                "defensive earthwork"
+            ],
+            "examples": [
+                "The castle has thick ramparts around the top level.",
+                "Soldiers stood on the rampart to watch."
+            ]
+        }
+    ],
+    "rupture": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a break or sudden tearing of something, often due to pressure",
+            "synonyms": [
+                "break",
+                "tear",
+                "failure",
+                "burst"
+            ],
+            "examples": [
+                "The doctor warned about the risk of rupture.",
+                "A rupture in the pipe caused the leak."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to break suddenly or tear due to pressure, damage, or force",
+            "synonyms": [
+                "break",
+                "tear",
+                "burst",
+                "split"
+            ],
+            "examples": [
+                "The membrane ruptured during childbirth.",
+                "The dam can rupture if the water level rises too much."
+            ]
+        }
+    ],
+    "relegate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to put something in a lower position or rank, or deal with it as less important",
+            "synonyms": [
+                "demote",
+                "assign to a lower priority",
+                "reduce",
+                "push aside"
+            ],
+            "examples": [
+                "They relegated the issue to a small section of the report.",
+                "The team was relegated to the second division."
+            ]
+        }
+    ],
+    "refer": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to mention something as a source or for support",
+            "synonyms": [
+                "cite",
+                "mention",
+                "allude to",
+                "consult"
+            ],
+            "examples": [
+                "Please refer to the instructions before you start.",
+                "She referred to the report during the meeting."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to speak or write about something",
+            "synonyms": [
+                "concern",
+                "relate to",
+                "address"
+            ],
+            "examples": [
+                "The letter refers to an earlier email.",
+                "This chapter refers to methods used in labs."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to send someone to a person or place for help",
+            "synonyms": [
+                "send",
+                "direct",
+                "route"
+            ],
+            "examples": [
+                "The doctor referred her to a specialist.",
+                "They referred him to legal aid."
+            ]
+        }
+    ],
+    "register": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a set of notes or information recorded in a list or system",
+            "synonyms": [
+                "record",
+                "list",
+                "database entry"
+            ],
+            "examples": [
+                "Put your name in the register.",
+                "The register shows who attended."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to record a name, event, or detail officially",
+            "synonyms": [
+                "record",
+                "list",
+                "enroll",
+                "sign up"
+            ],
+            "examples": [
+                "Please register online before the workshop.",
+                "She registered for the course."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to show or express a feeling, fact, or response",
+            "synonyms": [
+                "show",
+                "express",
+                "indicate",
+                "manifest"
+            ],
+            "examples": [
+                "The comment registered as criticism.",
+                "He didn’t register the change at first."
+            ]
+        }
+    ],
+    "recurved": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "curved backward or upward after bending forward",
+            "synonyms": [
+                "curved backward",
+                "bent back",
+                "curving back"
+            ],
+            "examples": [
+                "The hook is recurved at the tip.",
+                "The leaf shape is recurved near its end."
+            ]
+        }
+    ],
+    "recto": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the front side of a page in a book or manuscript",
+            "synonyms": [
+                "front page",
+                "front side"
+            ],
+            "examples": [
+                "The notes are on the recto page.",
+                "The text begins on the recto."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "referring to the front side of a page",
+            "synonyms": [
+                "front-page",
+                "front-side"
+            ],
+            "examples": [
+                "The recto margin is wider than the verso margin."
+            ]
+        }
     ]
 }

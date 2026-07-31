@@ -1,0 +1,53 @@
+{
+    "date": "2026-08-19",
+    "groups": [
+        {
+            "id": "2026-08-19-g1",
+            "type": "etymological_relation",
+            "difficulty": "easy",
+            "title": "from see",
+            "words": [
+                "scope",
+                "specimen",
+                "specious",
+                "descry"
+            ]
+        },
+        {
+            "id": "2026-08-19-g2",
+            "type": "synonym",
+            "difficulty": "medium",
+            "title": "briefly lasting",
+            "words": [
+                "fleeting",
+                "evanescent",
+                "transient",
+                "ephemeral"
+            ]
+        },
+        {
+            "id": "2026-08-19-g3",
+            "type": "morphological_family",
+            "difficulty": "hard",
+            "title": "bind forms",
+            "words": [
+                "ligament",
+                "oblige",
+                "relegate",
+                "legerdemain"
+            ]
+        },
+        {
+            "id": "2026-08-19-g4",
+            "type": "profession_domain",
+            "difficulty": "very_hard",
+            "title": "seafaring gear",
+            "words": [
+                "capstan",
+                "hawser",
+                "mizzen",
+                "scupper"
+            ]
+        }
+    ]
+}

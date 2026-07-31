@@ -1487,5 +1487,198 @@
                 "She became lachrymose when she talked about the loss."
             ]
         }
+    ],
+    "ligature": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a band or cord used to tie or bind something, or a thread used in medicine to close a wound",
+            "synonyms": [
+                "tie",
+                "suture",
+                "band"
+            ],
+            "examples": [
+                "The surgeon used a ligature to stop the bleeding.",
+                "The ligature was removed after the procedure."
+            ]
+        }
+    ],
+    "leaf": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a flat green part of a plant that grows from a stem and makes food using sunlight",
+            "synonyms": [
+                "foliage leaf",
+                "green part"
+            ],
+            "examples": [
+                "A new leaf appeared on the tree.",
+                "The leaves turned yellow in autumn."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a single page, sheet, or small paper used in a book or notebook",
+            "synonyms": [
+                "page",
+                "sheet"
+            ],
+            "examples": [
+                "Tear out the leaf at the back of the notebook.",
+                "The leaf containing the notes fell out."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to leave or depart from a place",
+            "synonyms": [
+                "leave",
+                "exit",
+                "depart"
+            ],
+            "examples": [
+                "We should leave before it gets dark.",
+                "She left early for the meeting."
+            ]
+        }
+    ],
+    "lift": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a machine or system that moves people or goods up and down in a building",
+            "synonyms": [
+                "elevator",
+                "lift system"
+            ],
+            "examples": [
+                "The lift in the lobby is out of order.",
+                "Take the lift to the third floor."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "an increase in speed, size, or strength",
+            "synonyms": [
+                "boost",
+                "increase",
+                "surge"
+            ],
+            "examples": [
+                "A good night’s sleep gave him a lift.",
+                "The new policy provided a lift to sales."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to raise something up from a lower position",
+            "synonyms": [
+                "raise",
+                "pick up",
+                "lift up"
+            ],
+            "examples": [
+                "Please lift the box carefully.",
+                "She lifted her head to answer."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to raise air support for an aircraft or object",
+            "synonyms": [
+                "raise",
+                "provide lift"
+            ],
+            "examples": [
+                "The wings generate lift and lift the plane into the air."
+            ]
+        }
+    ],
+    "lo": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "used to introduce or show something, often in writing or speech",
+            "synonyms": [
+                "look",
+                "behold"
+            ],
+            "examples": [
+                "Lo, the solution was already there.",
+                "Lo, the train arrived early."
+            ]
+        }
+    ],
+    "lien": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a legal claim on property, used to ensure payment of a debt",
+            "synonyms": [
+                "legal claim",
+                "charge",
+                "encumbrance"
+            ],
+            "examples": [
+                "The contractor filed a lien against the house.",
+                "A lien can be placed if a payment is not made."
+            ]
+        }
+    ],
+    "ligament": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a band of tough tissue that connects bones to other bones in the body",
+            "synonyms": [
+                "tendon-like band",
+                "fibrous band"
+            ],
+            "examples": [
+                "He injured his ligament in the knee.",
+                "Ligaments help stabilize joints."
+            ]
+        }
+    ],
+    "legerdemain": [
+        {
+            "part_of_speech": "noun",
+            "definition": "skillful trickery, often used in magic, or clever but dishonest handling of facts",
+            "synonyms": [
+                "sleight of hand",
+                "trick",
+                "deception",
+                "magic trickery"
+            ],
+            "examples": [
+                "The magician’s legerdemain made the coin disappear.",
+                "He used legerdemain in the argument to avoid the main point."
+            ]
+        }
+    ],
+    "littoral": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "relating to the coastal area near the shore",
+            "synonyms": [
+                "coastal",
+                "shoreline",
+                "nearshore"
+            ],
+            "examples": [
+                "Littoral plants grow close to the water.",
+                "The littoral zone supports many small animals."
+            ]
+        }
+    ],
+    "lintel": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a horizontal beam that supports the wall above a door or window",
+            "synonyms": [
+                "beam",
+                "support beam"
+            ],
+            "examples": [
+                "The lintel cracked and needed repair.",
+                "A new lintel was installed over the doorway."
+            ]
+        }
     ]
 }

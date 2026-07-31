@@ -843,5 +843,107 @@
                 "The word is used oft in older texts."
             ]
         }
+    ],
+    "oblige": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to do something because it is necessary or expected",
+            "synonyms": [
+                "require",
+                "necessitate",
+                "make",
+                "compel"
+            ],
+            "examples": [
+                "I’ll oblige and help you finish today.",
+                "The rules oblige drivers to stop at red lights."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to do something for someone as a favor",
+            "synonyms": [
+                "do a favor",
+                "help",
+                "grant"
+            ],
+            "examples": [
+                "They obliged by answering our questions.",
+                "Could you oblige me by closing the window?"
+            ]
+        }
+    ],
+    "occlude": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to block or close an opening so that something cannot pass",
+            "synonyms": [
+                "block",
+                "obstruct",
+                "shut",
+                "seal off"
+            ],
+            "examples": [
+                "The swelling occluded the airway.",
+                "Dust can occlude the pores."
+            ]
+        }
+    ],
+    "oral": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "spoken rather than written, or related to the mouth",
+            "synonyms": [
+                "spoken",
+                "verbal",
+                "mouth-related"
+            ],
+            "examples": [
+                "They had an oral exam instead of a written one.",
+                "Good oral hygiene is important for teeth."
+            ]
+        }
+    ],
+    "orifice": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an opening or hole in something",
+            "synonyms": [
+                "opening",
+                "hole",
+                "vent",
+                "aperture"
+            ],
+            "examples": [
+                "The machine has a small orifice for air flow.",
+                "Water entered through a damaged orifice."
+            ]
+        }
+    ],
+    "oracle": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person or source believed to give true advice or predictions",
+            "synonyms": [
+                "prophet",
+                "seer",
+                "soothsayer"
+            ],
+            "examples": [
+                "People once treated the oracle as a source of guidance.",
+                "The oracle was famous for predictions."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a company that makes software, especially databases",
+            "synonyms": [
+                "oracle corp"
+            ],
+            "examples": [
+                "Our system uses Oracle for the database.",
+                "She works at Oracle on cloud services."
+            ]
+        }
     ]
 }

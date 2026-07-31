@@ -2905,5 +2905,264 @@
                 "Take the road, thence follow the signs."
             ]
         }
+    ],
+    "taunt": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to say something to annoy or insult someone, often repeatedly",
+            "synonyms": [
+                "mock",
+                "ridicule",
+                "provoke",
+                "tease"
+            ],
+            "examples": [
+                "He taunted his opponent during the match.",
+                "They taunted her for being late."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "an insulting remark made to annoy or frighten someone",
+            "synonyms": [
+                "insult",
+                "mockery",
+                "tease",
+                "ridicule"
+            ],
+            "examples": [
+                "The taunt upset the child.",
+                "He ignored the taunts from the crowd."
+            ]
+        }
+    ],
+    "tout": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to advertise something loudly, often in a persuasive way",
+            "synonyms": [
+                "promote",
+                "advertise",
+                "publicize",
+                "push"
+            ],
+            "examples": [
+                "They were touting the new app online.",
+                "The store touts its low prices every day."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who tries to persuade or attract customers, often in a pushy way",
+            "synonyms": [
+                "agent",
+                "promoter",
+                "hustler"
+            ],
+            "examples": [
+                "A tout approached tourists outside the station.",
+                "He complained about t outs trying to sell tickets."
+            ]
+        }
+    ],
+    "thimble": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small protective cap worn on a finger while sewing",
+            "synonyms": [
+                "finger cap",
+                "sewing cap"
+            ],
+            "examples": [
+                "She put a thimble on her finger to push the needle.",
+                "A thimble makes sewing with thick fabric easier."
+            ]
+        }
+    ],
+    "tributary": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a smaller river or stream that flows into a larger river or lake",
+            "synonyms": [
+                "stream",
+                "feeder river",
+                "branch river"
+            ],
+            "examples": [
+                "The tributary joined the main river near the town.",
+                "Several tributaries feed into the lake."
+            ]
+        }
+    ],
+    "trebuchet": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a medieval siege engine that throws heavy stones using a swinging arm",
+            "synonyms": [
+                "siege engine",
+                "catapult",
+                "stone thrower"
+            ],
+            "examples": [
+                "The trebuchet was used to break down castle walls.",
+                "They modeled a trebuchet for a history project."
+            ]
+        }
+    ],
+    "turgid": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "swollen, stiff, or overly full; or written in a heavy, pompous style",
+            "synonyms": [
+                "swollen",
+                "overblown",
+                "inflated",
+                "pompous"
+            ],
+            "examples": [
+                "The turgid speech sounded rehearsed and boring.",
+                "His turgid description made the story hard to follow."
+            ]
+        }
+    ],
+    "thud": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a dull heavy sound made when something hits or lands",
+            "synonyms": [
+                "bang",
+                "impact",
+                "crash"
+            ],
+            "examples": [
+                "There was a thud at the door.",
+                "I heard a thud from the hallway."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a dull heavy sound",
+            "synonyms": [
+                "thump",
+                "bang",
+                "slam"
+            ],
+            "examples": [
+                "The box thudded to the floor.",
+                "He thudded the book down on the table."
+            ]
+        }
+    ],
+    "taint": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a trace of harmful substances or an unpleasant influence that makes something less safe or less good",
+            "synonyms": [
+                "contamination",
+                "stain",
+                "blemish",
+                "corruption"
+            ],
+            "examples": [
+                "The lab tested for taint in the water.",
+                "Rumors can create a taint on someone’s reputation."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make something harmful or less pure by introducing a negative influence or substance",
+            "synonyms": [
+                "contaminate",
+                "spoil",
+                "infect",
+                "corrupt"
+            ],
+            "examples": [
+                "The food was tainted by poor storage.",
+                "They feared the investigation would taint the results."
+            ]
+        }
+    ],
+    "typeset": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to arrange text so it is ready for printing or publishing",
+            "synonyms": [
+                "set",
+                "arrange",
+                "layout",
+                "compose"
+            ],
+            "examples": [
+                "They typeset the book in a new format.",
+                "The designer typeset the pages for the brochure."
+            ]
+        }
+    ],
+    "tiller": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a lever used to steer a boat",
+            "synonyms": [
+                "steering lever",
+                "rudder control"
+            ],
+            "examples": [
+                "The tiller controls the direction of the boat.",
+                "He held the tiller carefully in the strong wind."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who works a field by growing crops, especially historically",
+            "synonyms": [
+                "farmer",
+                "cultivator"
+            ],
+            "examples": [
+                "The tiller worked the land every day."
+            ]
+        }
+    ],
+    "trifle": [
+        {
+            "part_of_speech": "noun",
+            "definition": "something small or not very important",
+            "synonyms": [
+                "small matter",
+                "detail",
+                "minor issue",
+                "not much"
+            ],
+            "examples": [
+                "It’s just a trifle. Don’t worry.",
+                "The problem turned out to be a trifle."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a dessert made with fruit, cream, or cake pieces layered together",
+            "synonyms": [
+                "dessert cup",
+                "layered dessert"
+            ],
+            "examples": [
+                "We had strawberry trifle for dessert.",
+                "The recipe makes a quick trifle."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to treat something as unimportant or handle it carelessly",
+            "synonyms": [
+                "ignore",
+                "neglect",
+                "trifle with"
+            ],
+            "examples": [
+                "Don’t trifle with safety rules.",
+                "He was trifle ing with the idea instead of committing to it."
+            ]
+        }
     ]
 }

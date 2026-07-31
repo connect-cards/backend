@@ -1,0 +1,53 @@
+{
+    "date": "2026-08-25",
+    "groups": [
+        {
+            "id": "2026-08-25-g1",
+            "type": "profession_domain",
+            "difficulty": "easy",
+            "title": "legal work",
+            "words": [
+                "tort",
+                "brief",
+                "statute",
+                "verdict"
+            ]
+        },
+        {
+            "id": "2026-08-25-g2",
+            "type": "physical_trait",
+            "difficulty": "medium",
+            "title": "thinness",
+            "words": [
+                "gaunt",
+                "lanky",
+                "rangy",
+                "wiry"
+            ]
+        },
+        {
+            "id": "2026-08-25-g3",
+            "type": "informal_register",
+            "difficulty": "hard",
+            "title": "talk nonsense",
+            "words": [
+                "babble",
+                "prattle",
+                "blather",
+                "drivel"
+            ]
+        },
+        {
+            "id": "2026-08-25-g4",
+            "type": "sound_association",
+            "difficulty": "very_hard",
+            "title": "harsh cries",
+            "words": [
+                "caw",
+                "screech",
+                "skirl",
+                "yowl"
+            ]
+        }
+    ]
+}

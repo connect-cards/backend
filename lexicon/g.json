@@ -1751,5 +1751,267 @@
                 "A granary protects grain from moisture."
             ]
         }
+    ],
+    "gall": [
+        {
+            "part_of_speech": "noun",
+            "definition": "extreme boldness or rude confidence, especially when it is unfair",
+            "synonyms": [
+                "impudence",
+                "audacity",
+                "nerve",
+                "temerity"
+            ],
+            "examples": [
+                "She had the gall to ask for a refund after using the product.",
+                "He showed real gall by blaming her."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "bitter liquid in the body, or the dark substance used in traditional medicine and some crafts",
+            "synonyms": [
+                "bile",
+                "bitter fluid"
+            ],
+            "examples": [
+                "The doctor explained how bile works in digestion.",
+                "The label mentions gall as an ingredient."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make someone feel angry and hurt by saying or doing something unfair",
+            "synonyms": [
+                "annoy",
+                "irritate",
+                "offend",
+                "wound"
+            ],
+            "examples": [
+                "The comment that he was incompetent really galled her.",
+                "Being blamed without evidence galled the team."
+            ]
+        }
+    ],
+    "gritty": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "rough and full of small particles that feel like sand or dust",
+            "synonyms": [
+                "grainy",
+                "rough",
+                "sandy"
+            ],
+            "examples": [
+                "The sidewalk was gritty after the storm.",
+                "My hands felt gritty because of the sand."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "dealing with real problems in a direct way, often in a serious style",
+            "synonyms": [
+                "realistic",
+                "hard-edged",
+                "tough"
+            ],
+            "examples": [
+                "The movie has a gritty tone.",
+                "She likes gritty stories about daily life."
+            ]
+        }
+    ],
+    "gloam": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the dim light of early evening",
+            "synonyms": [
+                "twilight",
+                "dusk",
+                "evening light"
+            ],
+            "examples": [
+                "They walked home in the gloam.",
+                "The sky turned purple at gloam."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to become dark, especially at dusk",
+            "synonyms": [
+                "darken",
+                "dim",
+                "grow dark"
+            ],
+            "examples": [
+                "The street gloamed as the sun set.",
+                "The room gloamed slowly."
+            ]
+        }
+    ],
+    "glower": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to look at someone in an angry or unfriendly way",
+            "synonyms": [
+                "frown",
+                "scowl",
+                "stare",
+                "look darkly"
+            ],
+            "examples": [
+                "He glowered at the person who interrupted him.",
+                "She glowered when the meeting started late."
+            ]
+        }
+    ],
+    "gauzy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "thin, light, and almost see-through",
+            "synonyms": [
+                "filmy",
+                "sheer",
+                "transparent",
+                "lightweight"
+            ],
+            "examples": [
+                "The curtains were gauzy and softened the sunlight.",
+                "He wore a gauzy shirt that breathed well."
+            ]
+        }
+    ],
+    "guttural": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "produced in the throat, often sounding deep or harsh",
+            "synonyms": [
+                "throaty",
+                "throat-based",
+                "raspy"
+            ],
+            "examples": [
+                "He made a guttural sound that scared the other animals.",
+                "The guttural tone came from speaking low in his throat."
+            ]
+        }
+    ],
+    "graft": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the joining of living tissues, often plants, to grow as one",
+            "synonyms": [
+                "plant graft",
+                "transplant"
+            ],
+            "examples": [
+                "The gardener used a graft to improve the fruit tree.",
+                "The doctor performed a skin graft."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to join parts of living tissue so they heal together",
+            "synonyms": [
+                "attach",
+                "transplant",
+                "splice"
+            ],
+            "examples": [
+                "They grafted the new branch onto the tree.",
+                "The surgeon grafted skin to cover the wound."
+            ]
+        }
+    ],
+    "gestation": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the period of time a pregnancy lasts from conception to birth",
+            "synonyms": [
+                "pregnancy period",
+                "development period"
+            ],
+            "examples": [
+                "The gestation lasted about nine months.",
+                "Gestation can vary between species."
+            ]
+        }
+    ],
+    "grief": [
+        {
+            "part_of_speech": "noun",
+            "definition": "deep sadness, usually because of loss",
+            "synonyms": [
+                "sorrow",
+                "mourning",
+                "heartache",
+                "bereavement"
+            ],
+            "examples": [
+                "She still feels grief after her loss.",
+                "Grief can take time to heal."
+            ]
+        }
+    ],
+    "gust": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a sudden burst of wind",
+            "synonyms": [
+                "burst of wind",
+                "wind blast",
+                "blow"
+            ],
+            "examples": [
+                "A gust knocked over the trash bin.",
+                "The gust made the flags flutter."
+            ]
+        }
+    ],
+    "gathering": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a meeting of people for a shared purpose or event",
+            "synonyms": [
+                "meeting",
+                "event",
+                "get-together",
+                "assembly"
+            ],
+            "examples": [
+                "We’re going to a family gathering this weekend.",
+                "The gathering started at seven p.m."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to come together in a group",
+            "synonyms": [
+                "assemble",
+                "come together",
+                "gather"
+            ],
+            "examples": [
+                "People started gathering near the entrance.",
+                "Clouds gathered before the storm."
+            ]
+        }
+    ],
+    "gewgaw": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an ornament or object that is showy but not very useful",
+            "synonyms": [
+                "trinket",
+                "gadget",
+                "ornament",
+                "ornamental object"
+            ],
+            "examples": [
+                "The shop sells useless gewgaws.",
+                "He bought a flashy gewgaw for the desk."
+            ]
+        }
     ]
 }

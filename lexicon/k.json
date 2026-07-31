@@ -347,5 +347,34 @@
                 "He was kvetching about the weather all day."
             ]
         }
+    ],
+    "kinky": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "unusual or exciting in a way that some people may find sexual or strange",
+            "synonyms": [
+                "unconventional",
+                "weird",
+                "perverse"
+            ],
+            "examples": [
+                "The conversation became too kinky for the group.",
+                "He described the idea as kinky and risky."
+            ]
+        }
+    ],
+    "kern": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to adjust the spacing between letters in typography",
+            "synonyms": [
+                "adjust spacing",
+                "set letter spacing"
+            ],
+            "examples": [
+                "The designer kerned the title for better readability.",
+                "He kerned the font to reduce awkward gaps."
+            ]
+        }
     ]
 }

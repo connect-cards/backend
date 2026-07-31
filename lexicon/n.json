@@ -591,5 +591,62 @@
                 "They offered a niggardly amount of funding."
             ]
         }
+    ],
+    "nonsequitur": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a statement or answer that does not logically follow from what was said before",
+            "synonyms": [
+                "illogical remark",
+                "logical fallacy",
+                "doesn’t follow"
+            ],
+            "examples": [
+                "His response was a nonsequitur, so nobody understood the point.",
+                "The judge said the argument was a nonsequitur."
+            ]
+        }
+    ],
+    "nicking": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small cut or notch made in a surface",
+            "synonyms": [
+                "nick",
+                "small cut",
+                "notch"
+            ],
+            "examples": [
+                "He got a nick on his finger while cutting the paper.",
+                "The paint has a small nick near the handle."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a small cut or notch",
+            "synonyms": [
+                "nick",
+                "cut",
+                "notch"
+            ],
+            "examples": [
+                "I nicked the edge of the table while moving it.",
+                "Be careful not to nick the cable."
+            ]
+        }
+    ],
+    "nay": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "used to mean no, especially in formal or traditional speech",
+            "synonyms": [
+                "no",
+                "not"
+            ],
+            "examples": [
+                "The mayor said nay to the proposal.",
+                "He answered nay when asked to sign."
+            ]
+        }
     ]
 }

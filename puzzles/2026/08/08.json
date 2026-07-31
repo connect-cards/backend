@@ -1,0 +1,53 @@
+{
+    "date": "2026-08-08",
+    "groups": [
+        {
+            "id": "2026-08-08-g1",
+            "type": "thematic_association",
+            "difficulty": "easy",
+            "title": "seafaring",
+            "words": [
+                "anchor",
+                "galley",
+                "mast",
+                "rudder"
+            ]
+        },
+        {
+            "id": "2026-08-08-g2",
+            "type": "sound_association",
+            "difficulty": "medium",
+            "title": "ending nk",
+            "words": [
+                "clink",
+                "drank",
+                "flank",
+                "skunk"
+            ]
+        },
+        {
+            "id": "2026-08-08-g3",
+            "type": "profession_domain",
+            "difficulty": "hard",
+            "title": "tailoring",
+            "words": [
+                "baste",
+                "gusset",
+                "selvage",
+                "thimble"
+            ]
+        },
+        {
+            "id": "2026-08-08-g4",
+            "type": "physical_trait",
+            "difficulty": "very_hard",
+            "title": "rough texture",
+            "words": [
+                "gnarled",
+                "rugose",
+                "scabrous",
+                "shagreen"
+            ]
+        }
+    ]
+}

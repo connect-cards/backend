@@ -1,0 +1,53 @@
+{
+    "date": "2026-08-11",
+    "groups": [
+        {
+            "id": "2026-08-11-g1",
+            "type": "informal_register",
+            "difficulty": "easy",
+            "title": "nonsense",
+            "words": [
+                "baloney",
+                "claptrap",
+                "drivel",
+                "twaddle"
+            ]
+        },
+        {
+            "id": "2026-08-11-g2",
+            "type": "etymological_relation",
+            "difficulty": "medium",
+            "title": "from writing",
+            "words": [
+                "script",
+                "scribe",
+                "scriven",
+                "scrivener"
+            ]
+        },
+        {
+            "id": "2026-08-11-g3",
+            "type": "physical_trait",
+            "difficulty": "hard",
+            "title": "thin textures",
+            "words": [
+                "filmy",
+                "gauzy",
+                "gossamer",
+                "tenuous"
+            ]
+        },
+        {
+            "id": "2026-08-11-g4",
+            "type": "semantic_field",
+            "difficulty": "very_hard",
+            "title": "weather lore",
+            "words": [
+                "isobar",
+                "occlude",
+                "virga",
+                "wx"
+            ]
+        }
+    ]
+}

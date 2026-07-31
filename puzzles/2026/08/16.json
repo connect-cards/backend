@@ -1,0 +1,53 @@
+{
+    "date": "2026-08-16",
+    "groups": [
+        {
+            "id": "2026-08-16-g1",
+            "type": "emotional_tone",
+            "difficulty": "easy",
+            "title": "nervousness",
+            "words": [
+                "edgy",
+                "jittery",
+                "restive",
+                "fraught"
+            ]
+        },
+        {
+            "id": "2026-08-16-g2",
+            "type": "sound_association",
+            "difficulty": "medium",
+            "title": "dull impacts",
+            "words": [
+                "thud",
+                "clunk",
+                "plop",
+                "thump"
+            ]
+        },
+        {
+            "id": "2026-08-16-g3",
+            "type": "thematic_association",
+            "difficulty": "hard",
+            "title": "ship gear",
+            "words": [
+                "hawser",
+                "capstan",
+                "yardarm",
+                "mizzen"
+            ]
+        },
+        {
+            "id": "2026-08-16-g4",
+            "type": "literary_register",
+            "difficulty": "very_hard",
+            "title": "old behold",
+            "words": [
+                "lo",
+                "behold",
+                "descry",
+                "espial"
+            ]
+        }
+    ]
+}

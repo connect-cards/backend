@@ -3138,5 +3138,298 @@
                 "Don’t go astern without permission."
             ]
         }
+    ],
+    "apron": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a piece of protective clothing worn over the front of the body, often while cooking or working",
+            "synonyms": [
+                "smock",
+                "protective apron",
+                "bib"
+            ],
+            "examples": [
+                "She wore an apron while baking.",
+                "The mechanic put on a dirty apron before starting."
+            ]
+        }
+    ],
+    "arcuate": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "shaped like a curved line or bow",
+            "synonyms": [
+                "arched",
+                "curved",
+                "bow-shaped"
+            ],
+            "examples": [
+                "The staircase has an arcuate railing.",
+                "They built an arcuate bridge over the river."
+            ]
+        }
+    ],
+    "aqueduct": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a structure that carries water over long distances, often on arches",
+            "synonyms": [
+                "water bridge",
+                "water channel"
+            ],
+            "examples": [
+                "Ancient cities built aqueducts to bring water from far away.",
+                "The aqueduct carried clean water to the town."
+            ]
+        }
+    ],
+    "ally": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person or group that works with you to achieve a shared goal",
+            "synonyms": [
+                "partner",
+                "supporter",
+                "friend",
+                "cooperator"
+            ],
+            "examples": [
+                "They became allies during the campaign.",
+                "Our best ally is teamwork."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to join forces with someone or support them as an ally",
+            "synonyms": [
+                "join",
+                "support",
+                "team up with"
+            ],
+            "examples": [
+                "The country allied with the neighboring states.",
+                "She allies herself with the reform group."
+            ]
+        }
+    ],
+    "annual": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "happening once every year",
+            "synonyms": [
+                "yearly",
+                "perennial in yearly sense",
+                "once-a-year"
+            ],
+            "examples": [
+                "The festival is an annual event in June.",
+                "They hold an annual meeting for members."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a plant that grows, flowers, and dies within one year",
+            "synonyms": [
+                "one-year plant",
+                "yearly plant"
+            ],
+            "examples": [
+                "Tomatoes are treated as annuals in many gardens.",
+                "We planted annuals for bright color."
+            ]
+        }
+    ],
+    "annuity": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a financial plan or investment that pays a fixed amount regularly, often for retirement",
+            "synonyms": [
+                "income plan",
+                "retirement income",
+                "pension payment"
+            ],
+            "examples": [
+                "She bought an annuity to ensure steady income.",
+                "The annuity provides monthly payments."
+            ]
+        }
+    ],
+    "acid": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a chemical substance that can be corrosive and has a sour taste or low ph",
+            "synonyms": [
+                "acidic substance",
+                "corrosive"
+            ],
+            "examples": [
+                "The cleaning product contains acid and must be handled carefully.",
+                "Lemon juice is naturally acidic."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "having a sour taste or a low ph level",
+            "synonyms": [
+                "sour",
+                "tart",
+                "acidic"
+            ],
+            "examples": [
+                "The soil became too acid after years of fertilizer.",
+                "The drink has an acid flavor."
+            ]
+        }
+    ],
+    "anchor": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a heavy object attached to a ship or boat by a rope or chain to hold it in place",
+            "synonyms": [
+                "mooring",
+                "anchor weight",
+                "anchor chain"
+            ],
+            "examples": [
+                "The captain dropped the anchor near the harbor.",
+                "We anchored the boat for the night."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to attach a ship to a fixed point so it does not move",
+            "synonyms": [
+                "moor",
+                "secure",
+                "fix in place"
+            ],
+            "examples": [
+                "They anchored the boat in shallow water.",
+                "The vessel was anchored offshore."
+            ]
+        }
+    ],
+    "acorn": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the fruit of an oak tree, typically a small nut with a cap",
+            "synonyms": [
+                "oak nut"
+            ],
+            "examples": [
+                "An acorn fell from the oak tree.",
+                "Squirrels hide acorns in the yard."
+            ]
+        }
+    ],
+    "axiom": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a statement considered true and used as a starting point in reasoning or a system of mathematics",
+            "synonyms": [
+                "principle",
+                "postulate",
+                "assumption"
+            ],
+            "examples": [
+                "In geometry, an axiom is accepted without proof.",
+                "The theorem is based on several axioms."
+            ]
+        }
+    ],
+    "abduct": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to take someone away by force or by trick, usually illegally",
+            "synonyms": [
+                "kidnap",
+                "snatch",
+                "carry off",
+                "take away"
+            ],
+            "examples": [
+                "The police investigated a case of abduction.",
+                "He was abducted from outside the school."
+            ]
+        }
+    ],
+    "ablate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to remove material from a surface, often by high heat or erosion",
+            "synonyms": [
+                "erode",
+                "remove material",
+                "wear away"
+            ],
+            "examples": [
+                "The heat caused the material to ablate.",
+                "During reentry, the outer layer may ablate."
+            ]
+        }
+    ],
+    "abrade": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to wear away a surface gradually by rubbing or friction",
+            "synonyms": [
+                "wear down",
+                "erode",
+                "scrape",
+                "scuff"
+            ],
+            "examples": [
+                "Sand can abrade the surface of rocks.",
+                "The rough strap abrades the skin."
+            ]
+        }
+    ],
+    "augury": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a prediction or sign used to guess what will happen in the future",
+            "synonyms": [
+                "prediction",
+                "sign",
+                "omen",
+                "prophecy"
+            ],
+            "examples": [
+                "They treated the bird’s flight as an augury.",
+                "The diary recorded auguries before big events."
+            ]
+        }
+    ],
+    "asperity": [
+        {
+            "part_of_speech": "noun",
+            "definition": "sharpness or harshness, especially in speech or manner",
+            "synonyms": [
+                "harshness",
+                "crudeness",
+                "roughness",
+                "severity"
+            ],
+            "examples": [
+                "He replied with a little asperity.",
+                "Her tone had asperity, not kindness."
+            ]
+        }
+    ],
+    "acerbity": [
+        {
+            "part_of_speech": "noun",
+            "definition": "sharp and bitter criticism or tone",
+            "synonyms": [
+                "bitterness",
+                "sharpness",
+                "harsh criticism",
+                "cynicism"
+            ],
+            "examples": [
+                "His speech showed acerbity toward the rival company.",
+                "She spoke with acerbity in every debate."
+            ]
+        }
     ]
 }

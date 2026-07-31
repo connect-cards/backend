@@ -1,0 +1,53 @@
+{
+    "date": "2026-08-07",
+    "groups": [
+        {
+            "id": "2026-08-07-g1",
+            "type": "etymological_relation",
+            "difficulty": "easy",
+            "title": "from one root",
+            "words": [
+                "annual",
+                "annuity",
+                "millennial",
+                "perennial"
+            ]
+        },
+        {
+            "id": "2026-08-07-g2",
+            "type": "emotional_tone",
+            "difficulty": "medium",
+            "title": "irritable mood",
+            "words": [
+                "acid",
+                "captious",
+                "snappish",
+                "testy"
+            ]
+        },
+        {
+            "id": "2026-08-07-g3",
+            "type": "thematic_association",
+            "difficulty": "hard",
+            "title": "night watch",
+            "words": [
+                "curfew",
+                "lantern",
+                "patrol",
+                "sentinel"
+            ]
+        },
+        {
+            "id": "2026-08-07-g4",
+            "type": "sound_association",
+            "difficulty": "very_hard",
+            "title": "initial ps",
+            "words": [
+                "psalm",
+                "pshaw",
+                "psyche",
+                "ptisan"
+            ]
+        }
+    ]
+}

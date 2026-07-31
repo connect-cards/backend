@@ -1,0 +1,53 @@
+{
+    "date": "2026-08-30",
+    "groups": [
+        {
+            "id": "2026-08-30-g1",
+            "type": "thematic_association",
+            "difficulty": "easy",
+            "title": "marsh life",
+            "words": [
+                "reed",
+                "sedge",
+                "heron",
+                "fen"
+            ]
+        },
+        {
+            "id": "2026-08-30-g2",
+            "type": "etymological_relation",
+            "difficulty": "medium",
+            "title": "water forms",
+            "words": [
+                "aquatic",
+                "aqueous",
+                "aquifer",
+                "aquiline"
+            ]
+        },
+        {
+            "id": "2026-08-30-g3",
+            "type": "synonym",
+            "difficulty": "hard",
+            "title": "stinginess",
+            "words": [
+                "niggardly",
+                "penurious",
+                "parsimonious",
+                "miserly"
+            ]
+        },
+        {
+            "id": "2026-08-30-g4",
+            "type": "semantic_field",
+            "difficulty": "very_hard",
+            "title": "logic flaws",
+            "words": [
+                "sophism",
+                "nonsequitur",
+                "equivocation",
+                "paralogism"
+            ]
+        }
+    ]
+}

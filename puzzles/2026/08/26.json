@@ -1,0 +1,53 @@
+{
+    "date": "2026-08-26",
+    "groups": [
+        {
+            "id": "2026-08-26-g1",
+            "type": "profession_domain",
+            "difficulty": "easy",
+            "title": "sailing",
+            "words": [
+                "keel",
+                "mast",
+                "tiller",
+                "yaw"
+            ]
+        },
+        {
+            "id": "2026-08-26-g2",
+            "type": "sound_association",
+            "difficulty": "medium",
+            "title": "muffled sounds",
+            "words": [
+                "thud",
+                "clunk",
+                "plop",
+                "thump"
+            ]
+        },
+        {
+            "id": "2026-08-26-g3",
+            "type": "emotional_tone",
+            "difficulty": "hard",
+            "title": "gloomy mood",
+            "words": [
+                "morose",
+                "sullen",
+                "saturnine",
+                "dour"
+            ]
+        },
+        {
+            "id": "2026-08-26-g4",
+            "type": "thematic_association",
+            "difficulty": "very_hard",
+            "title": "decay",
+            "words": [
+                "blight",
+                "rot",
+                "molder",
+                "taint"
+            ]
+        }
+    ]
+}

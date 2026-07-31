@@ -1,0 +1,53 @@
+{
+    "date": "2026-08-04",
+    "groups": [
+        {
+            "id": "2026-08-04-g1",
+            "type": "etymological_relation",
+            "difficulty": "easy",
+            "title": "water roots",
+            "words": [
+                "aquatic",
+                "aquifer",
+                "aquiline",
+                "aqueduct"
+            ]
+        },
+        {
+            "id": "2026-08-04-g2",
+            "type": "physical_trait",
+            "difficulty": "medium",
+            "title": "rough",
+            "words": [
+                "coarse",
+                "gritty",
+                "rugose",
+                "abrasive"
+            ]
+        },
+        {
+            "id": "2026-08-04-g3",
+            "type": "synonym",
+            "difficulty": "hard",
+            "title": "mock",
+            "words": [
+                "deride",
+                "taunt",
+                "jeer",
+                "scoff"
+            ]
+        },
+        {
+            "id": "2026-08-04-g4",
+            "type": "morphological_family",
+            "difficulty": "very_hard",
+            "title": "bind forms",
+            "words": [
+                "ligature",
+                "oblige",
+                "rely",
+                "ally"
+            ]
+        }
+    ]
+}

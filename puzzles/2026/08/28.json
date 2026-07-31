@@ -1,0 +1,53 @@
+{
+    "date": "2026-08-28",
+    "groups": [
+        {
+            "id": "2026-08-28-g1",
+            "type": "informal_register",
+            "difficulty": "easy",
+            "title": "steal",
+            "words": [
+                "swipe",
+                "filch",
+                "snitch",
+                "nab"
+            ]
+        },
+        {
+            "id": "2026-08-28-g2",
+            "type": "synonym",
+            "difficulty": "medium",
+            "title": "stingy",
+            "words": [
+                "niggardly",
+                "miserly",
+                "penurious",
+                "closefisted"
+            ]
+        },
+        {
+            "id": "2026-08-28-g3",
+            "type": "literary_register",
+            "difficulty": "hard",
+            "title": "old pronouns",
+            "words": [
+                "thou",
+                "thee",
+                "thy",
+                "thine"
+            ]
+        },
+        {
+            "id": "2026-08-28-g4",
+            "type": "semantic_field",
+            "difficulty": "very_hard",
+            "title": "bogland",
+            "words": [
+                "fen",
+                "mire",
+                "morass",
+                "quagmire"
+            ]
+        }
+    ]
+}

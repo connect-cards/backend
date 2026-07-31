@@ -1,0 +1,53 @@
+{
+    "date": "2026-08-06",
+    "groups": [
+        {
+            "id": "2026-08-06-g1",
+            "type": "sound_association",
+            "difficulty": "easy",
+            "title": "ending sh",
+            "words": [
+                "brash",
+                "slosh",
+                "swish",
+                "trash"
+            ]
+        },
+        {
+            "id": "2026-08-06-g2",
+            "type": "synonym",
+            "difficulty": "medium",
+            "title": "praise",
+            "words": [
+                "extol",
+                "laud",
+                "tout",
+                "vaunt"
+            ]
+        },
+        {
+            "id": "2026-08-06-g3",
+            "type": "literary_register",
+            "difficulty": "hard",
+            "title": "old second person",
+            "words": [
+                "thee",
+                "thine",
+                "thou",
+                "thy"
+            ]
+        },
+        {
+            "id": "2026-08-06-g4",
+            "type": "semantic_field",
+            "difficulty": "very_hard",
+            "title": "argument flaws",
+            "words": [
+                "equivocation",
+                "nonsequitur",
+                "petitio",
+                "sophism"
+            ]
+        }
+    ]
+}

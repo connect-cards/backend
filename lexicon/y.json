@@ -87,5 +87,75 @@
                 "Stop yammering and let me work."
             ]
         }
+    ],
+    "yowl": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to cry or howl loudly, often in anger or distress",
+            "synonyms": [
+                "howl",
+                "yelp",
+                "cry",
+                "wail"
+            ],
+            "examples": [
+                "The cat yowled all night.",
+                "He yowled in pain after the fall."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a loud cry or howl",
+            "synonyms": [
+                "howl",
+                "wail",
+                "cry"
+            ],
+            "examples": [
+                "The yowl woke everyone up.",
+                "I heard a yowl near the building."
+            ]
+        }
+    ],
+    "yardarm": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a horizontal spar on a sailing ship, used to support the sails",
+            "synonyms": [
+                "sail spar",
+                "mast crossbeam"
+            ],
+            "examples": [
+                "A flag was tied to the yardarm.",
+                "They climbed up to the yardarm to check the rope."
+            ]
+        }
+    ],
+    "yaw": [
+        {
+            "part_of_speech": "noun",
+            "definition": "rotation of a vehicle, especially an aircraft, around its vertical axis",
+            "synonyms": [
+                "turning motion",
+                "side-to-side rotation"
+            ],
+            "examples": [
+                "The yaw increased after the turbulence.",
+                "Engineers measured yaw during the test."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to rotate around the vertical axis so the nose swings left or right",
+            "synonyms": [
+                "turn",
+                "swing",
+                "rotate sideways"
+            ],
+            "examples": [
+                "The plane began to yaw to the right.",
+                "The helicopter yawed slightly during landing."
+            ]
+        }
     ]
 }

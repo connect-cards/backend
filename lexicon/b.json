@@ -2431,5 +2431,193 @@
                 "He stopped speaking bilge and answered the question."
             ]
         }
+    ],
+    "brash": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "rude, too confident, or not careful about other people’s feelings",
+            "synonyms": [
+                "bold",
+                "reckless",
+                "impudent",
+                "cheeky"
+            ],
+            "examples": [
+                "He gave a brash reply without thinking.",
+                "The team leader was brash but effective."
+            ]
+        }
+    ],
+    "bear": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a large wild animal with thick fur and strong claws",
+            "synonyms": [
+                "ursus",
+                "brown bear",
+                "grizzly"
+            ],
+            "examples": [
+                "A bear was seen near the campground.",
+                "The kids watched a bear from a safe distance."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to carry or support something",
+            "synonyms": [
+                "carry",
+                "support",
+                "hold"
+            ],
+            "examples": [
+                "The bridge can bear heavy loads.",
+                "She bore the package carefully."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to produce or have as a result",
+            "synonyms": [
+                "produce",
+                "yield",
+                "generate"
+            ],
+            "examples": [
+                "The new plan will bear fruit later this year.",
+                "The research may bear important results."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to endure or tolerate something unpleasant",
+            "synonyms": [
+                "tolerate",
+                "endure",
+                "stand"
+            ],
+            "examples": [
+                "I can’t bear the noise anymore.",
+                "He bore the pain without complaining."
+            ]
+        }
+    ],
+    "bore": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a hole by drilling or digging into something",
+            "synonyms": [
+                "drill",
+                "perforate",
+                "make a hole"
+            ],
+            "examples": [
+                "They bore a hole in the wall for the pipe.",
+                "The machine bore through the metal quickly."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make someone feel bored",
+            "synonyms": [
+                "bore",
+                "tire",
+                "wear out",
+                "disinterest"
+            ],
+            "examples": [
+                "Long explanations bore her.",
+                "The lecture bored most of the students."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who is extremely boring",
+            "synonyms": [
+                "bore",
+                "drone",
+                "dull person"
+            ],
+            "examples": [
+                "He’s a total bore at parties."
+            ]
+        }
+    ],
+    "borne": [
+        {
+            "part_of_speech": "verb",
+            "definition": "past participle of bear: carried, supported, or endured",
+            "synonyms": [
+                "carried",
+                "supported",
+                "endured"
+            ],
+            "examples": [
+                "The goods were borne on trucks to the warehouse.",
+                "She was borne out of the difficult situation by support."
+            ]
+        }
+    ],
+    "bastion": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a strong defensive structure, often a projecting part of a wall",
+            "synonyms": [
+                "fort",
+                "fortification",
+                "defensive tower"
+            ],
+            "examples": [
+                "The bastion provided a clear view of the field.",
+                "Artillery was placed on the bastion."
+            ]
+        }
+    ],
+    "brittle": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "likely to break easily, especially when stressed or bent",
+            "synonyms": [
+                "fragile",
+                "breakable",
+                "cracking easily",
+                "dry and brittle"
+            ],
+            "examples": [
+                "The plastic became brittle in winter.",
+                "Glass is brittle and can shatter."
+            ]
+        }
+    ],
+    "bantz": [
+        {
+            "part_of_speech": "noun",
+            "definition": "jokes or teasing talk, often in a playful way",
+            "synonyms": [
+                "banter",
+                "jokes",
+                "teasing"
+            ],
+            "examples": [
+                "There was lots of ban tz during the game.",
+                "They enjoyed the ban tz between teammates."
+            ]
+        }
+    ],
+    "bagatelle": [
+        {
+            "part_of_speech": "noun",
+            "definition": "something small, unimportant, or not serious",
+            "synonyms": [
+                "trifle",
+                "minor matter",
+                "small thing",
+                "light entertainment"
+            ],
+            "examples": [
+                "The cost was a bagatelle compared to the total budget.",
+                "He treated the problem like a bagatelle."
+            ]
+        }
     ]
 }

@@ -1,0 +1,53 @@
+{
+    "date": "2026-08-13",
+    "groups": [
+        {
+            "id": "2026-08-13-g1",
+            "type": "profession_domain",
+            "difficulty": "easy",
+            "title": "courtroom roles",
+            "words": [
+                "barrister",
+                "clerk",
+                "juror",
+                "bailiff"
+            ]
+        },
+        {
+            "id": "2026-08-13-g2",
+            "type": "thematic_association",
+            "difficulty": "medium",
+            "title": "river features",
+            "words": [
+                "delta",
+                "estuary",
+                "tributary",
+                "meander"
+            ]
+        },
+        {
+            "id": "2026-08-13-g3",
+            "type": "semantic_field",
+            "difficulty": "hard",
+            "title": "harsh criticism",
+            "words": [
+                "censure",
+                "castigate",
+                "upbraid",
+                "vituperate"
+            ]
+        },
+        {
+            "id": "2026-08-13-g4",
+            "type": "informal_register",
+            "difficulty": "very_hard",
+            "title": "money slang",
+            "words": [
+                "gelt",
+                "spondulicks",
+                "wonga",
+                "dibs"
+            ]
+        }
+    ]
+}

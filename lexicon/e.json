@@ -1700,5 +1700,80 @@
                 "He left ere the meeting began."
             ]
         }
+    ],
+    "estoppel": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a legal rule that stops a person from claiming something contradictory to what they previously said or did, especially when others relied on it",
+            "synonyms": [
+                "legal bar",
+                "issue preclusion"
+            ],
+            "examples": [
+                "The judge applied estoppel because both sides acted on the same assumption.",
+                "Her prior agreement created an estoppel."
+            ]
+        }
+    ],
+    "epigraph": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a short quotation or statement at the beginning of a book or document",
+            "synonyms": [
+                "quotation",
+                "motto",
+                "opening quote"
+            ],
+            "examples": [
+                "The epigraph sets the theme of the novel.",
+                "She chose an epigraph that matches the story."
+            ]
+        }
+    ],
+    "estuary": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a coastal area where a river meets the sea and the water mixes",
+            "synonyms": [
+                "river mouth",
+                "inlet",
+                "coastal channel"
+            ],
+            "examples": [
+                "The estuary is home to many kinds of birds.",
+                "Tides strongly affect the water in the estuary."
+            ]
+        }
+    ],
+    "edgy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "nervous, tense, or slightly angry",
+            "synonyms": [
+                "tense",
+                "nervy",
+                "irritable",
+                "restless"
+            ],
+            "examples": [
+                "She sounded edgy because she was waiting for an answer.",
+                "He’s been edgy all day."
+            ]
+        }
+    ],
+    "espial": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the act of watching or observing, especially from a distance",
+            "synonyms": [
+                "surveillance",
+                "observation",
+                "watching"
+            ],
+            "examples": [
+                "The report described an espial of the area before the event.",
+                "They organized an espial to find the missing person."
+            ]
+        }
     ]
 }

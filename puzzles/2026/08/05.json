@@ -1,0 +1,53 @@
+{
+    "date": "2026-08-05",
+    "groups": [
+        {
+            "id": "2026-08-05-g1",
+            "type": "emotional_tone",
+            "difficulty": "easy",
+            "title": "quiet sadness",
+            "words": [
+                "bleak",
+                "forlorn",
+                "somber",
+                "wistful"
+            ]
+        },
+        {
+            "id": "2026-08-05-g2",
+            "type": "morphological_family",
+            "difficulty": "medium",
+            "title": "from speak",
+            "words": [
+                "speech",
+                "sprecher",
+                "spoken",
+                "unspeakable"
+            ]
+        },
+        {
+            "id": "2026-08-05-g3",
+            "type": "semantic_field",
+            "difficulty": "hard",
+            "title": "swamp land",
+            "words": [
+                "bog",
+                "fen",
+                "marsh",
+                "slough"
+            ]
+        },
+        {
+            "id": "2026-08-05-g4",
+            "type": "sound_association",
+            "difficulty": "very_hard",
+            "title": "initial gl",
+            "words": [
+                "gleam",
+                "glib",
+                "gloam",
+                "glower"
+            ]
+        }
+    ]
+}

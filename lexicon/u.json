@@ -696,5 +696,52 @@
                 "The ululation of the wind sounded eerie."
             ]
         }
+    ],
+    "unspeakable": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "so bad or shocking that it is difficult to describe",
+            "synonyms": [
+                "inexpressible",
+                "unmentionable",
+                "horrific",
+                "intolerable"
+            ],
+            "examples": [
+                "The report described unspeakable cruelty.",
+                "They used the word unspeakable to express strong horror."
+            ]
+        }
+    ],
+    "upbraid": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to criticize someone in an angry or disapproving way for something they did",
+            "synonyms": [
+                "rebuke",
+                "scold",
+                "chide",
+                "reprimand"
+            ],
+            "examples": [
+                "She upbraided him for forgetting her birthday.",
+                "They upbraided the driver for speeding."
+            ]
+        }
+    ],
+    "uncinate": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "hooked or shaped like a curved hook",
+            "synonyms": [
+                "hooked",
+                "curved",
+                "barbed"
+            ],
+            "examples": [
+                "The uncinate process is named for its hooked shape.",
+                "The uncinate hook caught on the fabric."
+            ]
+        }
     ]
 }

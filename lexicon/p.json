@@ -3383,5 +3383,284 @@
                 "The penurious landlord refused to fix the plumbing."
             ]
         }
+    ],
+    "proscenium": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the front opening of a theatre stage, framed by the stage wall",
+            "synonyms": [
+                "proscenium arch",
+                "stage opening"
+            ],
+            "examples": [
+                "The actors waited behind the proscenium before entering.",
+                "The lights changed as the performance crossed the proscenium."
+            ]
+        }
+    ],
+    "pit": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a deep hollow in the ground",
+            "synonyms": [
+                "hole",
+                "depression",
+                "crater"
+            ],
+            "examples": [
+                "They found an old pit near the fence.",
+                "The ground collapsed into a pit."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "the area of seats in a theatre directly in front of the stage, used by an orchestra",
+            "synonyms": [
+                "orchestra pit"
+            ],
+            "examples": [
+                "The conductor stood up in the pit.",
+                "The sound from the pit filled the hall."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a sports or entertainment area where an audience or activities are close to the action",
+            "synonyms": [
+                "arena",
+                "enclosure"
+            ],
+            "examples": [
+                "The event was held in a fenced pit.",
+                "Crowds gathered in the pit for the final match."
+            ]
+        }
+    ],
+    "peeve": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small thing that annoys someone repeatedly",
+            "synonyms": [
+                "annoyance",
+                "irritation",
+                "pet peeve",
+                "bother"
+            ],
+            "examples": [
+                "Clean hands are her biggest peeve.",
+                "His constant chewing is a big peeve for me."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to annoy someone",
+            "synonyms": [
+                "annoy",
+                "irritate",
+                "bother"
+            ],
+            "examples": [
+                "That comment peeved the customer.",
+                "The delay peeved everyone waiting outside."
+            ]
+        }
+    ],
+    "petitio": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a request or petition, especially in a legal or formal context",
+            "synonyms": [
+                "petition",
+                "request",
+                "application"
+            ],
+            "examples": [
+                "They filed the petitio with the court.",
+                "The document is a petitio for review."
+            ]
+        }
+    ],
+    "perennial": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "lasting for a long time; continuing year after year",
+            "synonyms": [
+                "lasting",
+                "enduring",
+                "long-term"
+            ],
+            "examples": [
+                "The plant is perennial and comes back every spring.",
+                "This is a perennial problem in the industry."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a plant that lives for more than two years and grows back each season",
+            "synonyms": [
+                "long-lived plant",
+                "returning plant"
+            ],
+            "examples": [
+                "They chose a perennial for the flower bed.",
+                "Perennials need less replanting than annuals."
+            ]
+        }
+    ],
+    "patrol": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to move around an area to watch for danger or to make sure rules are followed",
+            "synonyms": [
+                "guard",
+                "watch",
+                "monitor",
+                "survey"
+            ],
+            "examples": [
+                "Officers patrol the neighborhood at night.",
+                "They patrol the park every morning."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "an organized activity in which people watch or travel through an area for safety",
+            "synonyms": [
+                "watch",
+                "guard",
+                "surveillance"
+            ],
+            "examples": [
+                "A patrol found the lost child near the river.",
+                "The patrol lasted two hours."
+            ]
+        }
+    ],
+    "psyche": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the mind and mental processes, especially in psychology",
+            "synonyms": [
+                "mind",
+                "mental state",
+                "psyche"
+            ],
+            "examples": [
+                "Therapy can help people understand their psyche.",
+                "Stress affected his psyche during the busy season."
+            ]
+        }
+    ],
+    "ptisan": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a medicinal herbal drink or tea traditionally used for health",
+            "synonyms": [
+                "herbal tea",
+                "tisan e",
+                "drink"
+            ],
+            "examples": [
+                "Herbal ptisan was used as a gentle remedy.",
+                "The book describes how ptisan is prepared from herbs."
+            ]
+        }
+    ],
+    "plop": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a soft, heavy sound made when something falls into water or a soft surface",
+            "synonyms": [
+                "drop sound",
+                "splash",
+                "thud"
+            ],
+            "examples": [
+                "A plop came from the puddle as the rain hit.",
+                "I heard a plop in the sink."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to fall with that soft, heavy sound",
+            "synonyms": [
+                "drop",
+                "plop down",
+                "land"
+            ],
+            "examples": [
+                "The book plopped onto the floor.",
+                "He plopped into the chair."
+            ]
+        }
+    ],
+    "plosive": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "describing a speech sound made by stopping airflow and then releasing it suddenly",
+            "synonyms": [
+                "stop consonant",
+                "burst sound"
+            ],
+            "examples": [
+                "In English, p and b are plosive sounds.",
+                "The linguist studied plosive consonants."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a plosive consonant sound",
+            "synonyms": [
+                "stop"
+            ],
+            "examples": [
+                "The t is a plosive in many analyses."
+            ]
+        }
+    ],
+    "presage": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to be a sign that something will happen in the future",
+            "synonyms": [
+                "predict",
+                "foretell",
+                "signal",
+                "portend"
+            ],
+            "examples": [
+                "Dark clouds presage a storm.",
+                "Her sudden silence presaged bad news."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a sign or warning that suggests what will happen soon",
+            "synonyms": [
+                "sign",
+                "omen",
+                "forewarning",
+                "portent"
+            ],
+            "examples": [
+                "The strange smell was a presage of trouble.",
+                "He saw the decision as a presage of change."
+            ]
+        }
+    ],
+    "paralogism": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a faulty reasoning process that leads to a wrong conclusion",
+            "synonyms": [
+                "logical error",
+                "fallacy",
+                "faulty reasoning"
+            ],
+            "examples": [
+                "The debate included a paralogism that confused the issue.",
+                "She pointed out the paralogism in his argument."
+            ]
+        }
     ]
 }
