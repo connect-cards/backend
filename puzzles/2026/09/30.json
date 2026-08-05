@@ -1,0 +1,53 @@
+{
+    "date": "2026-09-30",
+    "groups": [
+        {
+            "id": "2026-09-30-g1",
+            "type": "thematic_association",
+            "difficulty": "easy",
+            "title": "sea voyage",
+            "words": [
+                "keel",
+                "mast",
+                "rudder",
+                "berth"
+            ]
+        },
+        {
+            "id": "2026-09-30-g2",
+            "type": "emotional_tone",
+            "difficulty": "medium",
+            "title": "disdain",
+            "words": [
+                "scorn",
+                "sniff",
+                "sneer",
+                "curl"
+            ]
+        },
+        {
+            "id": "2026-09-30-g3",
+            "type": "literary_register",
+            "difficulty": "hard",
+            "title": "old-fashioned words",
+            "words": [
+                "haply",
+                "ere",
+                "aught",
+                "thence"
+            ]
+        },
+        {
+            "id": "2026-09-30-g4",
+            "type": "sound_association",
+            "difficulty": "very_hard",
+            "title": "harsh cries",
+            "words": [
+                "skirl",
+                "screech",
+                "shriek",
+                "yowl"
+            ]
+        }
+    ]
+}

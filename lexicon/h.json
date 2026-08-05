@@ -1490,5 +1490,36 @@
                 "Herons often hunt in shallow water."
             ]
         }
+    ],
+    "hemeral": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "lasting a short time, like something temporary",
+            "synonyms": [
+                "brief",
+                "short-lived",
+                "temporary"
+            ],
+            "examples": [
+                "The hemeral nature of the event surprised everyone.",
+                "The plant has a hemeral flowering period."
+            ]
+        }
+    ],
+    "hark": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to pay attention and listen",
+            "synonyms": [
+                "listen",
+                "hear",
+                "pay attention",
+                "look"
+            ],
+            "examples": [
+                "Hark, there’s a strange sound outside.",
+                "Hark, I have something important to tell you."
+            ]
+        }
     ]
 }

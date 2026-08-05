@@ -1,0 +1,53 @@
+{
+    "date": "2026-09-12",
+    "groups": [
+        {
+            "id": "2026-09-12-g1",
+            "type": "thematic_association",
+            "difficulty": "easy",
+            "title": "harvest tools",
+            "words": [
+                "sickle",
+                "scythe",
+                "flail",
+                "winnow"
+            ]
+        },
+        {
+            "id": "2026-09-12-g2",
+            "type": "semantic_field",
+            "difficulty": "medium",
+            "title": "secret plots",
+            "words": [
+                "cabal",
+                "intrigue",
+                "scheme",
+                "machination"
+            ]
+        },
+        {
+            "id": "2026-09-12-g3",
+            "type": "profession_domain",
+            "difficulty": "hard",
+            "title": "printer's marks",
+            "words": [
+                "serif",
+                "glyph",
+                "ligature",
+                "kerning"
+            ]
+        },
+        {
+            "id": "2026-09-12-g4",
+            "type": "etymological_relation",
+            "difficulty": "very_hard",
+            "title": "star roots",
+            "words": [
+                "astral",
+                "aster",
+                "disaster",
+                "sidereal"
+            ]
+        }
+    ]
+}

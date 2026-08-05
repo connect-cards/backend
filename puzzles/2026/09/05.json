@@ -1,0 +1,53 @@
+{
+    "date": "2026-09-05",
+    "groups": [
+        {
+            "id": "2026-09-05-g1",
+            "type": "semantic_field",
+            "difficulty": "easy",
+            "title": "harsh criticism",
+            "words": [
+                "censure",
+                "rebuke",
+                "reproach",
+                "upbraid"
+            ]
+        },
+        {
+            "id": "2026-09-05-g2",
+            "type": "synonym",
+            "difficulty": "medium",
+            "title": "gloom",
+            "words": [
+                "dismal",
+                "dreary",
+                "bleak",
+                "mirthless"
+            ]
+        },
+        {
+            "id": "2026-09-05-g3",
+            "type": "etymological_relation",
+            "difficulty": "hard",
+            "title": "from the mouth",
+            "words": [
+                "oral",
+                "orison",
+                "oracle",
+                "orate"
+            ]
+        },
+        {
+            "id": "2026-09-05-g4",
+            "type": "literary_register",
+            "difficulty": "very_hard",
+            "title": "archaic pronouns",
+            "words": [
+                "thou",
+                "thee",
+                "thy",
+                "thine"
+            ]
+        }
+    ]
+}

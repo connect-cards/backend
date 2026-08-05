@@ -743,5 +743,37 @@
                 "The uncinate hook caught on the fabric."
             ]
         }
+    ],
+    "unbearable": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "too painful, difficult, or unpleasant to endure",
+            "synonyms": [
+                "intolerable",
+                "too much",
+                "awful",
+                "agonizing"
+            ],
+            "examples": [
+                "The noise was unbearable, so we left.",
+                "He felt unbearable stress before the exam."
+            ]
+        }
+    ],
+    "unfold": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to open or spread something that was folded",
+            "synonyms": [
+                "open",
+                "spread out",
+                "unfold",
+                "release"
+            ],
+            "examples": [
+                "Unfold the map so we can see the route.",
+                "She unfolded the blanket on the chair."
+            ]
+        }
     ]
 }

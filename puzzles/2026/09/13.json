@@ -1,0 +1,53 @@
+{
+    "date": "2026-09-13",
+    "groups": [
+        {
+            "id": "2026-09-13-g1",
+            "type": "etymological_relation",
+            "difficulty": "easy",
+            "title": "written records",
+            "words": [
+                "annal",
+                "chronicle",
+                "journal",
+                "register"
+            ]
+        },
+        {
+            "id": "2026-09-13-g2",
+            "type": "profession_domain",
+            "difficulty": "medium",
+            "title": "legal jargon",
+            "words": [
+                "tort",
+                "lien",
+                "estoppel",
+                "voirdire"
+            ]
+        },
+        {
+            "id": "2026-09-13-g3",
+            "type": "sound_association",
+            "difficulty": "hard",
+            "title": "hissing sounds",
+            "words": [
+                "sibilant",
+                "susurrus",
+                "whisper",
+                "rustle"
+            ]
+        },
+        {
+            "id": "2026-09-13-g4",
+            "type": "informal_register",
+            "difficulty": "very_hard",
+            "title": "drunk",
+            "words": [
+                "blotto",
+                "sozzled",
+                "squiffy",
+                "piecened"
+            ]
+        }
+    ]
+}

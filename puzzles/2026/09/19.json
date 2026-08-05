@@ -1,0 +1,53 @@
+{
+    "date": "2026-09-19",
+    "groups": [
+        {
+            "id": "2026-09-19-g1",
+            "type": "thematic_association",
+            "difficulty": "easy",
+            "title": "winter hazards",
+            "words": [
+                "ice",
+                "sleet",
+                "slush",
+                "frost"
+            ]
+        },
+        {
+            "id": "2026-09-19-g2",
+            "type": "literary_register",
+            "difficulty": "medium",
+            "title": "fickle mood",
+            "words": [
+                "caprice",
+                "whim",
+                "vagary",
+                "notion"
+            ]
+        },
+        {
+            "id": "2026-09-19-g3",
+            "type": "sound_association",
+            "difficulty": "hard",
+            "title": "sharp cries",
+            "words": [
+                "shriek",
+                "screech",
+                "skirl",
+                "yelp"
+            ]
+        },
+        {
+            "id": "2026-09-19-g4",
+            "type": "morphological_family",
+            "difficulty": "very_hard",
+            "title": "see roots",
+            "words": [
+                "vista",
+                "visage",
+                "revise",
+                "evident"
+            ]
+        }
+    ]
+}

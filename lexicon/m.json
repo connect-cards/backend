@@ -2322,5 +2322,276 @@
                 "He used mordancy to criticize his opponent."
             ]
         }
+    ],
+    "mirthless": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "not showing or feeling joy, laughter, or humor",
+            "synonyms": [
+                "joyless",
+                "grim",
+                "serious",
+                "dour"
+            ],
+            "examples": [
+                "He gave a mirthless smile.",
+                "The room felt mirthless after the bad news."
+            ]
+        }
+    ],
+    "manual": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a book or set of instructions for using a machine or product",
+            "synonyms": [
+                "guide",
+                "handbook",
+                "instruction book",
+                "manual"
+            ],
+            "examples": [
+                "Read the manual before using the device.",
+                "The manual explains how to change the filter."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "done with the hands or physical effort rather than by machines or computers",
+            "synonyms": [
+                "hand-made",
+                "hands-on",
+                "manual",
+                "manual-based"
+            ],
+            "examples": [
+                "They moved the boxes by manual labor.",
+                "The factory switched from manual to automated packaging."
+            ]
+        }
+    ],
+    "manage": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to control or organize something so it works well",
+            "synonyms": [
+                "run",
+                "operate",
+                "handle",
+                "organize"
+            ],
+            "examples": [
+                "She manages a small team of engineers.",
+                "They are managing the project schedule carefully."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to succeed in doing something difficult",
+            "synonyms": [
+                "manage",
+                "succeed",
+                "pull off",
+                "comply"
+            ],
+            "examples": [
+                "I managed to finish the report on time.",
+                "He could not manage the difficult task alone."
+            ]
+        }
+    ],
+    "manacle": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a pair of handcuffs or chains used to restrict a person’s movement",
+            "synonyms": [
+                "handcuff",
+                "chain",
+                "restraint"
+            ],
+            "examples": [
+                "The prisoner was left in manacles.",
+                "They removed the manacles before the trial."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to put a person in manacles or other restraints",
+            "synonyms": [
+                "shackle",
+                "cuff",
+                "restrain"
+            ],
+            "examples": [
+                "The guard manacled him to prevent escape.",
+                "He was manacled during transport."
+            ]
+        }
+    ],
+    "machination": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a secret or complicated plan, especially one made to gain power or advantage",
+            "synonyms": [
+                "plot",
+                "scheme",
+                "conspiracy",
+                "manipulation"
+            ],
+            "examples": [
+                "The investigation revealed complex machinations within the agency.",
+                "She suspected machination behind the sudden policy change."
+            ]
+        }
+    ],
+    "morrow": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the next day",
+            "synonyms": [
+                "tomorrow",
+                "the next day"
+            ],
+            "examples": [
+                "Meet me at noon tomorrow, not on the morrow.",
+                "They planned the trip for the morrow."
+            ]
+        }
+    ],
+    "mantle": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a covering garment for the shoulders, or a layer that covers something",
+            "synonyms": [
+                "cloak",
+                "cover",
+                "covering"
+            ],
+            "examples": [
+                "She wore a mantle over her dress.",
+                "The rock has a mantle of soil at the top."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "in earth science, the layer of the earth between the crust and the core",
+            "synonyms": [
+                "earth layer",
+                "inner layer"
+            ],
+            "examples": [
+                "Scientists study the mantle to understand plate movement.",
+                "Volcanic activity is influenced by the mantle."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to cover something as if with a cloak",
+            "synonyms": [
+                "cover",
+                "enwrap",
+                "surround"
+            ],
+            "examples": [
+                "A thick mist mantled the valley.",
+                "Dark clouds mantled the sky."
+            ]
+        }
+    ],
+    "mead": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a drink made from honey and water, often fermented",
+            "synonyms": [
+                "honey wine",
+                "honey drink"
+            ],
+            "examples": [
+                "They served mead at the celebration.",
+                "Mead has a sweet, distinctive taste."
+            ]
+        }
+    ],
+    "marine": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "related to the sea or living things in the sea",
+            "synonyms": [
+                "sea",
+                "ocean-related",
+                "saltwater"
+            ],
+            "examples": [
+                "They studied marine animals in deep water.",
+                "Marine life depends on oxygen levels."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a member of a military force that is trained to fight at sea and on land near coasts",
+            "synonyms": [
+                "soldier",
+                "infantryman",
+                "marine"
+            ],
+            "examples": [
+                "The marine returned home after a long deployment.",
+                "My neighbor is a marine in the navy."
+            ]
+        }
+    ],
+    "manicure": [
+        {
+            "part_of_speech": "noun",
+            "definition": "care done to keep fingernails and cuticles clean and attractive",
+            "synonyms": [
+                "nail care",
+                "nail treatment"
+            ],
+            "examples": [
+                "She booked a manicure for Friday.",
+                "A manicure makes her hands look neat."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to care for your fingernails by trimming, filing, and painting them",
+            "synonyms": [
+                "do nails",
+                "treat nails",
+                "trim and paint"
+            ],
+            "examples": [
+                "She spent an hour to manicure her nails.",
+                "I will manicure my hands before the event."
+            ]
+        }
+    ],
+    "moor": [
+        {
+            "part_of_speech": "noun",
+            "definition": "open land covered with low vegetation, often wet and not forested",
+            "synonyms": [
+                "heath",
+                "bogland",
+                "upland"
+            ],
+            "examples": [
+                "They walked across the moor in the morning.",
+                "The moor stays wet during the rainy season."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to keep a boat fixed in position using ropes and anchors",
+            "synonyms": [
+                "anchor",
+                "tie up",
+                "moor"
+            ],
+            "examples": [
+                "We moored the boat near the dock.",
+                "The captain decided to moor for the night."
+            ]
+        }
     ]
 }

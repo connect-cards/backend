@@ -1,0 +1,53 @@
+{
+    "date": "2026-09-09",
+    "groups": [
+        {
+            "id": "2026-09-09-g1",
+            "type": "physical_trait",
+            "difficulty": "easy",
+            "title": "hair textures",
+            "words": [
+                "wavy",
+                "curly",
+                "coarse",
+                "silky"
+            ]
+        },
+        {
+            "id": "2026-09-09-g2",
+            "type": "semantic_field",
+            "difficulty": "medium",
+            "title": "speech defects",
+            "words": [
+                "lisp",
+                "stammer",
+                "drawl",
+                "slur"
+            ]
+        },
+        {
+            "id": "2026-09-09-g3",
+            "type": "emotional_tone",
+            "difficulty": "hard",
+            "title": "gloomy moods",
+            "words": [
+                "sullen",
+                "morose",
+                "dour",
+                "saturnine"
+            ]
+        },
+        {
+            "id": "2026-09-09-g4",
+            "type": "sound_association",
+            "difficulty": "very_hard",
+            "title": "bell sounds",
+            "words": [
+                "clang",
+                "clangor",
+                "peal",
+                "tocsin"
+            ]
+        }
+    ]
+}

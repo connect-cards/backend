@@ -1,0 +1,53 @@
+{
+    "date": "2026-09-10",
+    "groups": [
+        {
+            "id": "2026-09-10-g1",
+            "type": "physical_trait",
+            "difficulty": "easy",
+            "title": "body builds",
+            "words": [
+                "gaunt",
+                "stocky",
+                "lithe",
+                "burly"
+            ]
+        },
+        {
+            "id": "2026-09-10-g2",
+            "type": "semantic_field",
+            "difficulty": "medium",
+            "title": "mud and mire",
+            "words": [
+                "slough",
+                "bog",
+                "quagmire",
+                "morass"
+            ]
+        },
+        {
+            "id": "2026-09-10-g3",
+            "type": "literary_register",
+            "difficulty": "hard",
+            "title": "old pronouns",
+            "words": [
+                "thou",
+                "thee",
+                "thy",
+                "thine"
+            ]
+        },
+        {
+            "id": "2026-09-10-g4",
+            "type": "profession_domain",
+            "difficulty": "very_hard",
+            "title": "seamstress tools",
+            "words": [
+                "thimble",
+                "bodkin",
+                "awl",
+                "selvage"
+            ]
+        }
+    ]
+}

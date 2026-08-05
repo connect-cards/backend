@@ -1,0 +1,53 @@
+{
+    "date": "2026-09-03",
+    "groups": [
+        {
+            "id": "2026-09-03-g1",
+            "type": "semantic_field",
+            "difficulty": "easy",
+            "title": "river features",
+            "words": [
+                "delta",
+                "estuary",
+                "meander",
+                "tributary"
+            ]
+        },
+        {
+            "id": "2026-09-03-g2",
+            "type": "synonym",
+            "difficulty": "medium",
+            "title": "cheat",
+            "words": [
+                "cozen",
+                "dupe",
+                "gull",
+                "swindle"
+            ]
+        },
+        {
+            "id": "2026-09-03-g3",
+            "type": "sound_association",
+            "difficulty": "hard",
+            "title": "soft hiss",
+            "words": [
+                "sough",
+                "susurrus",
+                "whisper",
+                "rustle"
+            ]
+        },
+        {
+            "id": "2026-09-03-g4",
+            "type": "literary_register",
+            "difficulty": "very_hard",
+            "title": "old pronouns",
+            "words": [
+                "thou",
+                "thee",
+                "thy",
+                "thine"
+            ]
+        }
+    ]
+}

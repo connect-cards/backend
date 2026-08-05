@@ -2230,5 +2230,150 @@
                 "Kind words can imprint confidence."
             ]
         }
+    ],
+    "ink": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a colored liquid used for writing or printing",
+            "synonyms": [
+                "paint",
+                "dye",
+                "tint",
+                "printer’s ink"
+            ],
+            "examples": [
+                "The pen ran out of ink.",
+                "She wrote her name in blue ink."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to put ink on paper or another surface",
+            "synonyms": [
+                "write",
+                "mark",
+                "draw",
+                "print"
+            ],
+            "examples": [
+                "He inked the final lines of the sketch.",
+                "The artist will ink the page tomorrow."
+            ]
+        }
+    ],
+    "invoice": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a document that a business sends to a customer to request payment",
+            "synonyms": [
+                "bill",
+                "statement",
+                "charge",
+                "account"
+            ],
+            "examples": [
+                "I received an invoice for the repairs.",
+                "Please pay the invoice by Friday."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to send an invoice to someone for goods or services",
+            "synonyms": [
+                "bill",
+                "charge",
+                "send a bill"
+            ],
+            "examples": [
+                "They invoiced us for the shipping costs.",
+                "The company will invoice you after the service is completed."
+            ]
+        }
+    ],
+    "intrigue": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a secret plan or a scheme, especially to influence events",
+            "synonyms": [
+                "plot",
+                "scheme",
+                "conspiracy",
+                "machination"
+            ],
+            "examples": [
+                "The book describes a political intrigue at the court.",
+                "They suspected intrigue behind the decision."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to interest you a lot and make you curious",
+            "synonyms": [
+                "interest",
+                "fascinate",
+                "captivate",
+                "pique"
+            ],
+            "examples": [
+                "The mystery intrigued me from the first chapter.",
+                "Her idea intrigued the team."
+            ]
+        }
+    ],
+    "ice": [
+        {
+            "part_of_speech": "noun",
+            "definition": "frozen water, usually solid and hard",
+            "synonyms": [
+                "frozen water",
+                "ice",
+                "glacier"
+            ],
+            "examples": [
+                "The road is covered with ice this morning.",
+                "I put ice in my drink to cool it."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "the solid part of a drink used to keep it cold",
+            "synonyms": [
+                "ice cubes",
+                "ice"
+            ],
+            "examples": [
+                "Add more ice if the drink is warm.",
+                "The glass had a few pieces of ice left."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to cover something with ice or make it hard with cold water and freezing",
+            "synonyms": [
+                "freeze",
+                "coat with ice",
+                "cover with ice"
+            ],
+            "examples": [
+                "The pipes iced up overnight.",
+                "Frost began to ice the windows."
+            ]
+        }
+    ],
+    "infold": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to fold something inward or into a smaller shape",
+            "synonyms": [
+                "fold",
+                "wrap",
+                "crease",
+                "inward fold"
+            ],
+            "examples": [
+                "Infold the corners to close the box.",
+                "She infolded the paper to make a neat packet."
+            ]
+        }
     ]
 }

@@ -1,0 +1,53 @@
+{
+    "date": "2026-09-02",
+    "groups": [
+        {
+            "id": "2026-09-02-g1",
+            "type": "thematic_association",
+            "difficulty": "easy",
+            "title": "printing",
+            "words": [
+                "ink",
+                "type",
+                "press",
+                "proof"
+            ]
+        },
+        {
+            "id": "2026-09-02-g2",
+            "type": "morphological_family",
+            "difficulty": "medium",
+            "title": "bearing carry",
+            "words": [
+                "convey",
+                "vector",
+                "deviate",
+                "invoice"
+            ]
+        },
+        {
+            "id": "2026-09-02-g3",
+            "type": "etymological_relation",
+            "difficulty": "hard",
+            "title": "moon roots",
+            "words": [
+                "lunar",
+                "lunatic",
+                "sublunary",
+                "selenic"
+            ]
+        },
+        {
+            "id": "2026-09-02-g4",
+            "type": "synonym",
+            "difficulty": "very_hard",
+            "title": "harshly brief",
+            "words": [
+                "terse",
+                "pithy",
+                "laconic",
+                "curt"
+            ]
+        }
+    ]
+}

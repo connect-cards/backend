@@ -1,0 +1,53 @@
+{
+    "date": "2026-09-25",
+    "groups": [
+        {
+            "id": "2026-09-25-g1",
+            "type": "morphological_family",
+            "difficulty": "easy",
+            "title": "break forms",
+            "words": [
+                "rupture",
+                "erupt",
+                "corrupt",
+                "abrupt"
+            ]
+        },
+        {
+            "id": "2026-09-25-g2",
+            "type": "literary_register",
+            "difficulty": "medium",
+            "title": "old pronouns",
+            "words": [
+                "thou",
+                "thee",
+                "thy",
+                "thine"
+            ]
+        },
+        {
+            "id": "2026-09-25-g3",
+            "type": "synonym",
+            "difficulty": "hard",
+            "title": "harshness",
+            "words": [
+                "asperity",
+                "acrimony",
+                "acridity",
+                "austerity"
+            ]
+        },
+        {
+            "id": "2026-09-25-g4",
+            "type": "physical_trait",
+            "difficulty": "very_hard",
+            "title": "body build",
+            "words": [
+                "gaunt",
+                "hirsute",
+                "sinewy",
+                "willowy"
+            ]
+        }
+    ]
+}

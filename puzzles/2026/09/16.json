@@ -1,0 +1,53 @@
+{
+    "date": "2026-09-16",
+    "groups": [
+        {
+            "id": "2026-09-16-g1",
+            "type": "etymological_relation",
+            "difficulty": "easy",
+            "title": "lead roots",
+            "words": [
+                "conduct",
+                "induce",
+                "seduce",
+                "aqueduct"
+            ]
+        },
+        {
+            "id": "2026-09-16-g2",
+            "type": "literary_register",
+            "difficulty": "medium",
+            "title": "harsh speech",
+            "words": [
+                "invective",
+                "billingsgate",
+                "vituperation",
+                "diatribe"
+            ]
+        },
+        {
+            "id": "2026-09-16-g3",
+            "type": "informal_register",
+            "difficulty": "hard",
+            "title": "money",
+            "words": [
+                "gelt",
+                "spondulicks",
+                "readies",
+                "wonga"
+            ]
+        },
+        {
+            "id": "2026-09-16-g4",
+            "type": "synonym",
+            "difficulty": "very_hard",
+            "title": "lean",
+            "words": [
+                "gaunt",
+                "cadaverous",
+                "rattrap",
+                "spare"
+            ]
+        }
+    ]
+}

@@ -376,5 +376,19 @@
                 "He kerned the font to reduce awkward gaps."
             ]
         }
+    ],
+    "kerning": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the adjustment of space between letters in typography",
+            "synonyms": [
+                "letter spacing",
+                "spacing adjustment"
+            ],
+            "examples": [
+                "Good kerning makes headings look smoother.",
+                "The designer changed the kerning to improve readability."
+            ]
+        }
     ]
 }

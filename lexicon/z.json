@@ -44,5 +44,19 @@
                 "Zounds, that was a loud noise!"
             ]
         }
+    ],
+    "zeugma": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a sentence style where one word is used with multiple other parts, often in different ways",
+            "synonyms": [
+                "rhetorical device",
+                "language trick"
+            ],
+            "examples": [
+                "The writer used a zeugma to make the sentence more efficient.",
+                "In rhetoric, zeugma can link different actions with one verb."
+            ]
+        }
     ]
 }

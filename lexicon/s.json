@@ -6937,5 +6937,463 @@
                 "The door sill was covered with dust."
             ]
         }
+    ],
+    "slag": [
+        {
+            "part_of_speech": "noun",
+            "definition": "waste material produced when metal is smelted",
+            "synonyms": [
+                "dross",
+                "waste",
+                "residue"
+            ],
+            "examples": [
+                "The slag was dumped in a nearby yard after the smelting process.",
+                "The factory cleaned the slag from the furnace floor."
+            ]
+        }
+    ],
+    "sublunary": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "relating to the world below the moon, often meaning earthly and imperfect things",
+            "synonyms": [
+                "earthly",
+                "human",
+                "mundane"
+            ],
+            "examples": [
+                "The poem contrasts the heavenly and the sublunary.",
+                "In the text, sublunary life is described as unstable."
+            ]
+        }
+    ],
+    "selenic": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "related to the moon",
+            "synonyms": [
+                "lunar",
+                "moon-related"
+            ],
+            "examples": [
+                "They used a selenic term to describe moon phases.",
+                "The study focused on selenic features on the surface."
+            ]
+        }
+    ],
+    "succinctness": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the quality of being short and clear",
+            "synonyms": [
+                "brevity",
+                "conciseness",
+                "clearness",
+                "directness"
+            ],
+            "examples": [
+                "The report was praised for its succinctness.",
+                "Her comments showed succinctness and focus."
+            ]
+        }
+    ],
+    "slur": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an unfair or cruel remark made about someone",
+            "synonyms": [
+                "insult",
+                "attack",
+                "put-down",
+                "smear"
+            ],
+            "examples": [
+                "The comment was a slur on her character.",
+                "He apologized for the slur."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a line or curved mark in music that shows how notes should be played or sung smoothly",
+            "synonyms": [
+                "music mark",
+                "phrase mark"
+            ],
+            "examples": [
+                "The sheet music included a slur above the notes.",
+                "She explained the slur in the melody."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to speak or pronounce sounds in a connected, unclear way",
+            "synonyms": [
+                "mumble",
+                "blur",
+                "smear"
+            ],
+            "examples": [
+                "In fast speech, some people slur their words.",
+                "He slurred the last syllable."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to say something in a way that suggests blame without stating it clearly",
+            "synonyms": [
+                "hint",
+                "imply",
+                "cast doubt",
+                "accuse"
+            ],
+            "examples": [
+                "He slurred the truth to avoid questions.",
+                "They slurred the accusation instead of proving it."
+            ]
+        }
+    ],
+    "stocky": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "short and thick in a strong, solid way",
+            "synonyms": [
+                "sturdy",
+                "broad",
+                "heavyset",
+                "compact"
+            ],
+            "examples": [
+                "The guard was stocky and strong.",
+                "She has a stocky build for a runner."
+            ]
+        }
+    ],
+    "scythe": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a long-handled tool with a curved blade used to cut grass or crops",
+            "synonyms": [
+                "harvest tool",
+                "blade",
+                "reaping tool"
+            ],
+            "examples": [
+                "Farmers used a scythe to cut the field.",
+                "She sharpened the scythe before harvesting."
+            ]
+        }
+    ],
+    "scheme": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a planned method for achieving something, often with hidden motives",
+            "synonyms": [
+                "plan",
+                "plot",
+                "strategy",
+                "plotting"
+            ],
+            "examples": [
+                "They had a scheme to raise money quickly.",
+                "The proposal sounded simple but had a hidden scheme."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to plan something, usually secretly or for a hidden purpose",
+            "synonyms": [
+                "plot",
+                "plan",
+                "conspire",
+                "engineer"
+            ],
+            "examples": [
+                "They schemed to take control of the company.",
+                "He schemed behind the scenes."
+            ]
+        }
+    ],
+    "serif": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a type of letter style that has small projecting lines at the ends of strokes",
+            "synonyms": [
+                "typeface feature",
+                "font type",
+                "serif font"
+            ],
+            "examples": [
+                "This document uses a serif font.",
+                "Serif letters are often easy to read in long text."
+            ]
+        }
+    ],
+    "sidereal": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "based on the position of stars rather than the sun or the moon",
+            "synonyms": [
+                "stellar",
+                "star-based"
+            ],
+            "examples": [
+                "They used a sidereal method to measure time.",
+                "Sidereal charts show star positions."
+            ]
+        }
+    ],
+    "sozzled": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "drunk, especially in an unpleasant or careless way",
+            "synonyms": [
+                "drunk",
+                "wasted",
+                "tipsy",
+                "intoxicated"
+            ],
+            "examples": [
+                "He arrived sozzled and could barely speak.",
+                "After two hours at the bar, they were all sozzled."
+            ]
+        }
+    ],
+    "squiffy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "slightly drunk",
+            "synonyms": [
+                "tipsy",
+                "boozy",
+                "lightly drunk",
+                "tiddly"
+            ],
+            "examples": [
+                "He was squiffy after one drink at the party.",
+                "Don’t drive if you feel squiffy."
+            ]
+        }
+    ],
+    "suffer": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to experience pain, harm, or loss",
+            "synonyms": [
+                "hurt",
+                "endure",
+                "experience",
+                "undergo"
+            ],
+            "examples": [
+                "She suffered injuries in the accident.",
+                "Many families suffer financial stress."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to have a problem or unwanted situation",
+            "synonyms": [
+                "have",
+                "face",
+                "experience",
+                "undergo"
+            ],
+            "examples": [
+                "The city suffers from heavy traffic.",
+                "He suffered from poor sleep."
+            ]
+        }
+    ],
+    "seduce": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to attract someone romantically or sexually, often using strong charm or persuasion",
+            "synonyms": [
+                "entice",
+                "tempt",
+                "lure",
+                "woo"
+            ],
+            "examples": [
+                "He tried to seduce her with compliments.",
+                "The character seduced the guard to escape."
+            ]
+        }
+    ],
+    "strata": [
+        {
+            "part_of_speech": "noun",
+            "definition": "layers of rock or other material formed over time",
+            "synonyms": [
+                "layers",
+                "layering",
+                "geological layers"
+            ],
+            "examples": [
+                "Fossils were found in one of the strata.",
+                "The geologist examined the strata along the cliff."
+            ]
+        }
+    ],
+    "submarine": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a warship that can travel underwater",
+            "synonyms": [
+                "undersea vessel",
+                "sub"
+            ],
+            "examples": [
+                "The submarine surfaced after the mission.",
+                "They spotted a submarine near the coast."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "under the sea or able to exist underwater",
+            "synonyms": [
+                "underwater",
+                "subsea"
+            ],
+            "examples": [
+                "They built a submarine cable for the network.",
+                "The submarine wreck was discovered last year."
+            ]
+        }
+    ],
+    "stooped": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "bent forward in posture, often slightly or permanently",
+            "synonyms": [
+                "bent",
+                "hunched",
+                "leaning forward",
+                "curved"
+            ],
+            "examples": [
+                "He walked with stooped shoulders.",
+                "The old man looked stooped as he entered the room."
+            ]
+        }
+    ],
+    "snitcher": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who reports others, especially to get them in trouble",
+            "synonyms": [
+                "informant",
+                "tattletale",
+                "snitch",
+                "cooperator"
+            ],
+            "examples": [
+                "Everyone avoided the snitcher because of his habit of reporting people.",
+                "He acted like a snitcher after the argument."
+            ]
+        }
+    ],
+    "slate": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a flat piece of hard stone used for roofing or writing surfaces",
+            "synonyms": [
+                "stone slab",
+                "roofing tile",
+                "slab"
+            ],
+            "examples": [
+                "They replaced the old slate on the roof.",
+                "The child wrote on a slate with chalk."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to record or schedule something officially, often by placing it on a list of events",
+            "synonyms": [
+                "schedule",
+                "book",
+                "arrange",
+                "list"
+            ],
+            "examples": [
+                "The match was slated for Saturday.",
+                "The new project has been slated to start in October."
+            ]
+        }
+    ],
+    "scrim": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a thin, delicate fabric that allows light to pass through or creates a special effect",
+            "synonyms": [
+                "mesh fabric",
+                "sheer fabric",
+                "gauze"
+            ],
+            "examples": [
+                "The stage used scrim to create a soft background.",
+                "She hung scrim behind the lights."
+            ]
+        }
+    ],
+    "sniff": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small quick breath taken through the nose",
+            "synonyms": [
+                "sneeze (small)",
+                "breath through nose",
+                "sniff"
+            ],
+            "examples": [
+                "She let out a sniff when she smelled the smoke.",
+                "I heard a sniff behind me."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to breathe in through the nose to smell something",
+            "synonyms": [
+                "smell",
+                "inhale",
+                "sniff"
+            ],
+            "examples": [
+                "He sniffed the air and frowned.",
+                "She sniffed the perfume before deciding to buy it."
+            ]
+        }
+    ],
+    "sneer": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a facial expression that shows contempt or dislike",
+            "synonyms": [
+                "grimace",
+                "smirk",
+                "disdainful expression",
+                "scorn"
+            ],
+            "examples": [
+                "He answered with a sneer instead of an apology.",
+                "Her sneer hurt his feelings."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a sneer, showing contempt or disrespect",
+            "synonyms": [
+                "smirk",
+                "mock",
+                "scorn",
+                "deride"
+            ],
+            "examples": [
+                "He sneered at the offer.",
+                "They sneered when we suggested a different plan."
+            ]
+        }
     ]
 }

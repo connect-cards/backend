@@ -2013,5 +2013,80 @@
                 "He bought a flashy gewgaw for the desk."
             ]
         }
+    ],
+    "gull": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a seabird that typically has a long beak and flies over the ocean",
+            "synonyms": [
+                "seagull",
+                "seabird"
+            ],
+            "examples": [
+                "A gull landed near our table.",
+                "We heard gulls calling from the harbor."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to trick or fool someone, usually by false promises",
+            "synonyms": [
+                "fool",
+                "deceive",
+                "trick",
+                "con"
+            ],
+            "examples": [
+                "He was gull-ed by a fake job offer.",
+                "They tried to gull her into sending money."
+            ]
+        }
+    ],
+    "guff": [
+        {
+            "part_of_speech": "noun",
+            "definition": "empty talk or foolish ideas that you do not believe",
+            "synonyms": [
+                "nonsense",
+                "nonsense talk",
+                "rubbish",
+                "balderdash"
+            ],
+            "examples": [
+                "Stop talking guff and tell me the real plan.",
+                "That explanation is just guff."
+            ]
+        }
+    ],
+    "glyph": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a symbol or character in writing or a font",
+            "synonyms": [
+                "character",
+                "symbol",
+                "letterform"
+            ],
+            "examples": [
+                "The website shows the glyph correctly in the chosen font.",
+                "She studied the meaning of each glyph."
+            ]
+        }
+    ],
+    "greed": [
+        {
+            "part_of_speech": "noun",
+            "definition": "strong desire to have more money, goods, or power than you need",
+            "synonyms": [
+                "avarice",
+                "selfishness",
+                "covetousness",
+                "materialism"
+            ],
+            "examples": [
+                "Greed drove him to break the rules.",
+                "The company was accused of greed by its customers."
+            ]
+        }
     ]
 }

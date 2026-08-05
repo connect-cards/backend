@@ -3164,5 +3164,91 @@
                 "He was trifle ing with the idea instead of committing to it."
             ]
         }
+    ],
+    "type": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a particular kind or group with similar features",
+            "synonyms": [
+                "kind",
+                "sort",
+                "variety",
+                "category"
+            ],
+            "examples": [
+                "What type of phone do you use?",
+                "This type of bread stays fresh longer."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a group of people in a shared role or character",
+            "synonyms": [
+                "sort",
+                "kind",
+                "category"
+            ],
+            "examples": [
+                "He is the type who helps others without being asked.",
+                "That type of person usually complains."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to produce text by using a keyboard",
+            "synonyms": [
+                "keyboard",
+                "enter",
+                "type",
+                "input"
+            ],
+            "examples": [
+                "Please type your address here.",
+                "I typed the email and hit send."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to print something using a set of letters or a printing method",
+            "synonyms": [
+                "print",
+                "set",
+                "produce"
+            ],
+            "examples": [
+                "The poster was typed in bold letters.",
+                "They typed the document for the meeting."
+            ]
+        }
+    ],
+    "tautology": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a statement that repeats the same idea in different words",
+            "synonyms": [
+                "repetition",
+                "redundancy",
+                "pleonasm"
+            ],
+            "examples": [
+                "The phrase is a tautology because it says the same thing twice.",
+                "In writing, tautologies can make sentences sound weak."
+            ]
+        }
+    ],
+    "translucent": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "allowing light to pass through but not clearly showing shapes or details",
+            "synonyms": [
+                "see-through",
+                "semi-transparent",
+                "hazy"
+            ],
+            "examples": [
+                "The frosted glass is translucent.",
+                "You can see the light through the translucent curtain."
+            ]
+        }
     ]
 }

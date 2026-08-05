@@ -5792,5 +5792,451 @@
                 "There was congestion on the highway after the accident."
             ]
         }
+    ],
+    "cozen": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to trick or deceive someone, often to get something from them",
+            "synonyms": [
+                "cheat",
+                "trick",
+                "deceive",
+                "swindle"
+            ],
+            "examples": [
+                "He tried to cozen the customer into paying early.",
+                "She was cozened by a fake message."
+            ]
+        }
+    ],
+    "cagey": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "careful and unwilling to share information, especially because you want to protect yourself",
+            "synonyms": [
+                "guarded",
+                "secretive",
+                "wary",
+                "evasive"
+            ],
+            "examples": [
+                "He was cagey about his plans.",
+                "Don’t be so cagey; tell us what you know."
+            ]
+        }
+    ],
+    "conduct": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the way someone behaves, especially in a formal or official situation",
+            "synonyms": [
+                "behavior",
+                "actions",
+                "demeanor",
+                "practice"
+            ],
+            "examples": [
+                "Her conduct during the meeting was professional.",
+                "The court reviewed his conduct at the time."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to guide, manage, or organize an activity",
+            "synonyms": [
+                "run",
+                "lead",
+                "carry out",
+                "perform"
+            ],
+            "examples": [
+                "They conducted an experiment in the lab.",
+                "The manager will conduct the interview tomorrow."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to cause electricity or heat to move through a material",
+            "synonyms": [
+                "transmit",
+                "transfer",
+                "carry"
+            ],
+            "examples": [
+                "Copper conducts electricity well.",
+                "This material conducts heat slowly."
+            ]
+        }
+    ],
+    "cockcrow": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the early morning sound made by a rooster",
+            "synonyms": [
+                "dawn",
+                "daybreak",
+                "rooster call"
+            ],
+            "examples": [
+                "He woke before cockcrow to start work.",
+                "The village was quiet until cockcrow."
+            ]
+        }
+    ],
+    "cliff": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a steep rock face with a big drop at the top",
+            "synonyms": [
+                "precipice",
+                "steep slope",
+                "rock face"
+            ],
+            "examples": [
+                "The path led along the cliff and ended at a viewpoint.",
+                "Waves hit the rocks below the cliff."
+            ]
+        }
+    ],
+    "crag": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a rough, rocky part of a mountain or cliff",
+            "synonyms": [
+                "rock",
+                "cliff",
+                "outcrop",
+                "craggy rock"
+            ],
+            "examples": [
+                "They climbed the crag despite the strong wind.",
+                "The trail passed through a narrow section of crags."
+            ]
+        }
+    ],
+    "cabal": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small group of people working together secretly, often for power or influence",
+            "synonyms": [
+                "plot",
+                "clique",
+                "faction",
+                "conspiracy"
+            ],
+            "examples": [
+                "A cabal tried to influence the election.",
+                "The journalist uncovered a cabal within the organization."
+            ]
+        }
+    ],
+    "crust": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the hard outer layer of something",
+            "synonyms": [
+                "outer layer",
+                "top layer",
+                "cover",
+                "shell"
+            ],
+            "examples": [
+                "The bread formed a crust as it baked.",
+                "I scraped the crust off the soup container."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a thin layer of dried material on a surface, such as on skin or food",
+            "synonyms": [
+                "layer",
+                "film",
+                "scab"
+            ],
+            "examples": [
+                "The cut formed a crust after a few days.",
+                "There was a crust of cheese on top."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to form a crust or hard outer layer",
+            "synonyms": [
+                "harden",
+                "form a crust",
+                "dry out"
+            ],
+            "examples": [
+                "The soup will crust over if you leave it uncovered.",
+                "The surface crusted after it cooled."
+            ]
+        }
+    ],
+    "core": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the central part of something",
+            "synonyms": [
+                "center",
+                "middle",
+                "heart",
+                "inner part"
+            ],
+            "examples": [
+                "The core of the problem is communication.",
+                "Remove the core from the apple."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "the most important part of an idea, system, or group",
+            "synonyms": [
+                "heart",
+                "essence",
+                "center",
+                "main point"
+            ],
+            "examples": [
+                "The core of her argument is fairness.",
+                "The core values guide the company."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to remove the center part of something, especially fruit or similar food",
+            "synonyms": [
+                "remove the center",
+                "hollow",
+                "core out"
+            ],
+            "examples": [
+                "She cored the apples for the pie.",
+                "We cored the fruit and sliced it."
+            ]
+        }
+    ],
+    "cardiac": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "related to the heart",
+            "synonyms": [
+                "heart-related",
+                "coronary",
+                "cardiovascular"
+            ],
+            "examples": [
+                "She has a cardiac condition that needs regular checkups.",
+                "The doctor discussed cardiac risk factors."
+            ]
+        }
+    ],
+    "courage": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the ability to face danger, fear, or difficulty",
+            "synonyms": [
+                "bravery",
+                "boldness",
+                "nerve",
+                "confidence"
+            ],
+            "examples": [
+                "Courage helped him speak in front of the class.",
+                "She showed courage during the emergency."
+            ]
+        }
+    ],
+    "caprice": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a sudden change in mood or behavior, especially without a clear reason",
+            "synonyms": [
+                "whim",
+                "impulse",
+                "fancy",
+                "change of mind"
+            ],
+            "examples": [
+                "Her decision seemed like caprice, not planning.",
+                "He bought the car on a caprice and later regretted it."
+            ]
+        }
+    ],
+    "croft": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small farm or area of land used for farming",
+            "synonyms": [
+                "farm",
+                "smallholding",
+                "field",
+                "farm plot"
+            ],
+            "examples": [
+                "The cottage stood on a small croft.",
+                "They lived on a croft near the river."
+            ]
+        }
+    ],
+    "canted": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "tilted or leaning to one side",
+            "synonyms": [
+                "tilted",
+                "slanted",
+                "angled",
+                "off-level"
+            ],
+            "examples": [
+                "The signpost is slightly canted.",
+                "He noticed the picture frame was canted."
+            ]
+        }
+    ],
+    "corrupt": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to change something so it becomes dishonest, harmful, or morally wrong",
+            "synonyms": [
+                "spoil",
+                "undermine",
+                "degrade",
+                "pervert"
+            ],
+            "examples": [
+                "Power can corrupt people.",
+                "The rumor was meant to corrupt his reputation."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make software or data stop working properly",
+            "synonyms": [
+                "damage",
+                "ruin",
+                "break",
+                "destroy"
+            ],
+            "examples": [
+                "The update corrupted the file.",
+                "A virus can corrupt your system."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "dishonest, especially in position of power, often for personal gain",
+            "synonyms": [
+                "dishonest",
+                "unethical",
+                "criminal",
+                "bribed"
+            ],
+            "examples": [
+                "The investigation exposed corrupt officials.",
+                "He claims the government is corrupt."
+            ]
+        }
+    ],
+    "cue": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a sign or information that helps you know what to do next",
+            "synonyms": [
+                "hint",
+                "signal",
+                "clue",
+                "prompt"
+            ],
+            "examples": [
+                "The teacher gave a cue for the next activity.",
+                "Her smile was a cue that it was time to start."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to give a cue to someone so they know what to do",
+            "synonyms": [
+                "prompt",
+                "signal",
+                "guide",
+                "direct"
+            ],
+            "examples": [
+                "A stage manager cues the actors for their lines.",
+                "The timer cues you when to change tasks."
+            ]
+        }
+    ],
+    "clamp": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a device that holds something tightly by squeezing",
+            "synonyms": [
+                "clip",
+                "fastener",
+                "vise",
+                "grip"
+            ],
+            "examples": [
+                "Use a clamp to hold the wood while you drill.",
+                "The mechanic loosened the clamp from the hose."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to hold something firmly, especially with a tight grip or mechanism",
+            "synonyms": [
+                "grip",
+                "hold",
+                "secure",
+                "pinch"
+            ],
+            "examples": [
+                "The tool clamps the metal in place.",
+                "The rope clamp shut quickly."
+            ]
+        }
+    ],
+    "curl": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a shaped bend or loop, especially in hair",
+            "synonyms": [
+                "ringlet",
+                "bend",
+                "loop"
+            ],
+            "examples": [
+                "She pulled her hair into a curl at the side.",
+                "There were curls of smoke rising from the chimney."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to bend or form loops or curves",
+            "synonyms": [
+                "bend",
+                "coil",
+                "twist",
+                "spiral"
+            ],
+            "examples": [
+                "The smoke curled upward.",
+                "His fingers curled around the cup."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a strong change in direction or path",
+            "synonyms": [
+                "curve",
+                "turn"
+            ],
+            "examples": [
+                "The road has a sharp curl near the bridge.",
+                "Take the curl to the left to reach the market."
+            ]
+        }
     ]
 }

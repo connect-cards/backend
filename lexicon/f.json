@@ -1986,5 +1986,172 @@
                 "He dismissed the costumes as frippery."
             ]
         }
+    ],
+    "fugitive": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who has escaped from custody or is avoiding arrest",
+            "synonyms": [
+                "escapee",
+                "runaway",
+                "evader"
+            ],
+            "examples": [
+                "The fugitive was found near the border.",
+                "Police searched for the fugitive for months."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "running away to avoid being caught or punished",
+            "synonyms": [
+                "on the run",
+                "escaping",
+                "unfounded"
+            ],
+            "examples": [
+                "The fugitive suspect changed locations several times.",
+                "He lived a fugitive life after the crime."
+            ]
+        }
+    ],
+    "flail": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a farming tool with a chain or a moving part used to beat grain, or a similar swinging weapon",
+            "synonyms": [
+                "hammer",
+                "club",
+                "reaping tool"
+            ],
+            "examples": [
+                "The flail was used to separate grain from the stalk.",
+                "In the sculpture, the flail hangs from the hero’s hand."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to wave your arms or move violently because you are struggling or losing balance",
+            "synonyms": [
+                "thrash",
+                "struggle",
+                "writhe"
+            ],
+            "examples": [
+                "The dog flailed as it tried to free itself.",
+                "He flailed in the water after he slipped."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to act in an uncontrolled way due to confusion or effort",
+            "synonyms": [
+                "struggle",
+                "flounder",
+                "strive"
+            ],
+            "examples": [
+                "She flailed for words when she forgot her speech.",
+                "He flailed at the controls and made the situation worse."
+            ]
+        }
+    ],
+    "ferric": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "containing iron, especially iron in the form called fe3+",
+            "synonyms": [
+                "iron(iii)",
+                "iron-containing"
+            ],
+            "examples": [
+                "Ferric compounds can change color as they react.",
+                "The test identifies ferric ions in the solution."
+            ]
+        }
+    ],
+    "folder": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a device or part used to hold documents or papers together",
+            "synonyms": [
+                "file",
+                "binder",
+                "document folder"
+            ],
+            "examples": [
+                "Put the form in the folder on your desk.",
+                "The folder contains all the reports for this month."
+            ]
+        }
+    ],
+    "flat": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "level and not raised or sloping",
+            "synonyms": [
+                "level",
+                "even",
+                "smooth",
+                "horizontal"
+            ],
+            "examples": [
+                "The ground is flat enough for a game.",
+                "Make sure the table is flat before you place the glass."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "having little strength, energy, or excitement",
+            "synonyms": [
+                "dull",
+                "lifeless",
+                "unexcited",
+                "uninspired"
+            ],
+            "examples": [
+                "The meeting felt flat, with no new ideas.",
+                "His jokes sounded flat."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "not working properly, especially for a battery or tire",
+            "synonyms": [
+                "empty",
+                "deflated",
+                "depleted",
+                "out of power"
+            ],
+            "examples": [
+                "My phone battery is flat.",
+                "We had to change the flat tire."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a set of rooms for living in one building, usually rented",
+            "synonyms": [
+                "apartment",
+                "unit",
+                "flat"
+            ],
+            "examples": [
+                "They moved into a small flat near the station.",
+                "The landlord offered a two-bedroom flat."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to become flat or stop being inflated",
+            "synonyms": [
+                "deflate",
+                "flatten"
+            ],
+            "examples": [
+                "The tire slowly flat after the nail hit it.",
+                "The balloon flatted and fell to the floor."
+            ]
+        }
     ]
 }
