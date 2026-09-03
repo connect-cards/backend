@@ -1,0 +1,53 @@
+{
+    "date": "2026-09-01",
+    "groups": [
+        {
+            "id": "2026-09-01-g1",
+            "type": "informal_register",
+            "difficulty": "easy",
+            "title": "casual criticism",
+            "words": [
+                "slag",
+                "diss",
+                "slam",
+                "rip"
+            ]
+        },
+        {
+            "id": "2026-09-01-g2",
+            "type": "etymological_relation",
+            "difficulty": "medium",
+            "title": "water roots",
+            "words": [
+                "aquatic",
+                "aqueous",
+                "aquifer",
+                "aquiline"
+            ]
+        },
+        {
+            "id": "2026-09-01-g3",
+            "type": "literary_register",
+            "difficulty": "hard",
+            "title": "poetic sorrow",
+            "words": [
+                "dolor",
+                "woe",
+                "grief",
+                "rue"
+            ]
+        },
+        {
+            "id": "2026-09-01-g4",
+            "type": "thematic_association",
+            "difficulty": "very_hard",
+            "title": "alchemy",
+            "words": [
+                "athanor",
+                "crucible",
+                "retort",
+                "alembic"
+            ]
+        }
+    ]
+}

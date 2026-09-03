@@ -1,0 +1,53 @@
+{
+    "date": "2026-09-04",
+    "groups": [
+        {
+            "id": "2026-09-04-g1",
+            "type": "sound_association",
+            "difficulty": "easy",
+            "title": "bells",
+            "words": [
+                "chime",
+                "clang",
+                "peal",
+                "toll"
+            ]
+        },
+        {
+            "id": "2026-09-04-g2",
+            "type": "informal_register",
+            "difficulty": "medium",
+            "title": "nonsense",
+            "words": [
+                "drivel",
+                "guff",
+                "tripe",
+                "twaddle"
+            ]
+        },
+        {
+            "id": "2026-09-04-g3",
+            "type": "synonym",
+            "difficulty": "hard",
+            "title": "stingy",
+            "words": [
+                "niggardly",
+                "penurious",
+                "parsimonious",
+                "miserly"
+            ]
+        },
+        {
+            "id": "2026-09-04-g4",
+            "type": "semantic_field",
+            "difficulty": "very_hard",
+            "title": "logic fallacies",
+            "words": [
+                "sophism",
+                "equivocation",
+                "nonsequitur",
+                "tautology"
+            ]
+        }
+    ]
+}

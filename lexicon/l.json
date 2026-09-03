@@ -1680,5 +1680,78 @@
                 "A new lintel was installed over the doorway."
             ]
         }
+    ],
+    "lunar": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "related to the moon or the moon’s influence",
+            "synonyms": [
+                "moon",
+                "selenic",
+                "moonlike"
+            ],
+            "examples": [
+                "The lunar calendar is based on the moon’s phases.",
+                "Astronauts studied lunar dust."
+            ]
+        }
+    ],
+    "lunatic": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who behaves in a very unreasonable or dangerous way",
+            "synonyms": [
+                "madman",
+                "maniac",
+                "crazy person",
+                "deranged person"
+            ],
+            "examples": [
+                "The movie portrayed the villain as a lunatic.",
+                "He acted like a lunatic when he ignored the warning signs."
+            ]
+        }
+    ],
+    "lisp": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a speech problem in which some sounds are pronounced incorrectly",
+            "synonyms": [
+                "speech defect",
+                "stutter",
+                "pronunciation problem"
+            ],
+            "examples": [
+                "He had a mild lisp as a child.",
+                "The teacher corrected her lisp gently."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to pronounce words with a lisp",
+            "synonyms": [
+                "speak with a lisp",
+                "mispronounce"
+            ],
+            "examples": [
+                "She lisped when she was nervous.",
+                "As a kid, he lisped a few sounds."
+            ]
+        }
+    ],
+    "lea": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a field or open grassy area, especially in the countryside",
+            "synonyms": [
+                "meadow",
+                "grassland",
+                "field"
+            ],
+            "examples": [
+                "We walked along the lea near the village.",
+                "The sheep were grazing on the lea."
+            ]
+        }
     ]
 }

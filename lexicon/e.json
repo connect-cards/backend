@@ -1775,5 +1775,96 @@
                 "They organized an espial to find the missing person."
             ]
         }
+    ],
+    "escarpment": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a long line of steep rock or cliffs created by changes in land layers",
+            "synonyms": [
+                "steep slope",
+                "cliff line",
+                "ridge face"
+            ],
+            "examples": [
+                "The escarpment rises sharply from the valley.",
+                "Scientists studied rock layers along the escarpment."
+            ]
+        }
+    ],
+    "evident": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "clear and able to be understood or seen",
+            "synonyms": [
+                "clear",
+                "obvious",
+                "apparent",
+                "plain"
+            ],
+            "examples": [
+                "It was evident that she was upset.",
+                "The damage to the car is evident."
+            ]
+        }
+    ],
+    "erupt": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to burst out suddenly, often with fire, gas, or liquid",
+            "synonyms": [
+                "burst out",
+                "explode",
+                "break out",
+                "spout"
+            ],
+            "examples": [
+                "The volcano erupted after months of quiet.",
+                "Anger erupted during the meeting."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to start suddenly and strongly, especially emotions or problems",
+            "synonyms": [
+                "break out",
+                "flare up",
+                "surface",
+                "rise suddenly"
+            ],
+            "examples": [
+                "A fight erupted in the hallway.",
+                "Laughter erupted when the joke landed."
+            ]
+        }
+    ],
+    "envy": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a feeling of wanting what someone else has",
+            "synonyms": [
+                "jealousy",
+                "resentment",
+                "covetousness",
+                "admiration with desire"
+            ],
+            "examples": [
+                "She tried to hide her envy when she saw their success.",
+                "His envy showed in the way he spoke about her."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to want something that someone else has",
+            "synonyms": [
+                "be jealous",
+                "covet",
+                "yearn for",
+                "want"
+            ],
+            "examples": [
+                "I envy her confidence.",
+                "They envy the team’s long-running success."
+            ]
+        }
     ]
 }

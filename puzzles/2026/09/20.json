@@ -1,0 +1,53 @@
+{
+    "date": "2026-09-20",
+    "groups": [
+        {
+            "id": "2026-09-20-g1",
+            "type": "profession_domain",
+            "difficulty": "easy",
+            "title": "legal actors",
+            "words": [
+                "judge",
+                "clerk",
+                "bailiff",
+                "juror"
+            ]
+        },
+        {
+            "id": "2026-09-20-g2",
+            "type": "physical_trait",
+            "difficulty": "medium",
+            "title": "rough surfaces",
+            "words": [
+                "coarse",
+                "jagged",
+                "pitted",
+                "rugose"
+            ]
+        },
+        {
+            "id": "2026-09-20-g3",
+            "type": "literary_register",
+            "difficulty": "hard",
+            "title": "rural places",
+            "words": [
+                "croft",
+                "lea",
+                "mead",
+                "wold"
+            ]
+        },
+        {
+            "id": "2026-09-20-g4",
+            "type": "etymological_relation",
+            "difficulty": "very_hard",
+            "title": "birth roots",
+            "words": [
+                "nascent",
+                "nation",
+                "native",
+                "cognate"
+            ]
+        }
+    ]
+}

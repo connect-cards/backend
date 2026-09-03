@@ -3277,5 +3277,156 @@
                 "Many young men were drafted during the war."
             ]
         }
+    ],
+    "diss": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a rude or disrespectful remark, often in public",
+            "synonyms": [
+                "insult",
+                "put-down",
+                "roast",
+                "disrespect"
+            ],
+            "examples": [
+                "That diss went too far and caused an argument.",
+                "He made a diss during the performance."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to criticize someone in an insulting or mocking way",
+            "synonyms": [
+                "insult",
+                "mock",
+                "trash",
+                "diss"
+            ],
+            "examples": [
+                "She diss-ed him online after the debate.",
+                "They tried to diss the rival team during practice."
+            ]
+        }
+    ],
+    "deviate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to change from the usual plan, rule, or direction",
+            "synonyms": [
+                "veer",
+                "stray",
+                "depart",
+                "diverge"
+            ],
+            "examples": [
+                "Do not deviate from the safety instructions.",
+                "The car began to deviate from its lane."
+            ]
+        }
+    ],
+    "dupe": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who is tricked or deceived",
+            "synonyms": [
+                "victim",
+                "sucker",
+                "mark",
+                "convictim"
+            ],
+            "examples": [
+                "The scam targeted gullible dupes.",
+                "He realized he had been the dupe in the deal."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to trick someone into believing something untrue",
+            "synonyms": [
+                "trick",
+                "deceive",
+                "con",
+                "fool"
+            ],
+            "examples": [
+                "They duped him with a fake website.",
+                "I did not want to be duped by the offer."
+            ]
+        }
+    ],
+    "ductile": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "able to be stretched into wire or shaped without breaking",
+            "synonyms": [
+                "malleable",
+                "stretchable",
+                "workable"
+            ],
+            "examples": [
+                "Gold is ductile and can be shaped easily.",
+                "The metal was ductile enough for thin wiring."
+            ]
+        }
+    ],
+    "drawl": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a slow, drawn-out way of speaking",
+            "synonyms": [
+                "slow speech",
+                "drag",
+                "drawled speech"
+            ],
+            "examples": [
+                "His drawl made the conversation feel calm.",
+                "She noticed a drawl when he spoke."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to speak slowly and with stretched sounds",
+            "synonyms": [
+                "drag",
+                "draw out",
+                "speak slowly"
+            ],
+            "examples": [
+                "He drawled the answer so slowly that everyone waited.",
+                "Don’t drawl too much; try to be clear."
+            ]
+        }
+    ],
+    "doleful": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "sad in a way that shows clearly in your voice or expression",
+            "synonyms": [
+                "sad",
+                "melancholy",
+                "sorrowful",
+                "mournful"
+            ],
+            "examples": [
+                "Her doleful tone made everyone quiet.",
+                "He gave a doleful look when he heard the news."
+            ]
+        }
+    ],
+    "diatribe": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a long angry speech or piece of writing attacking someone or something",
+            "synonyms": [
+                "rant",
+                "tirade",
+                "scolding",
+                "attack"
+            ],
+            "examples": [
+                "He gave a diatribe about the new rules.",
+                "The article turned into a diatribe against the mayor."
+            ]
+        }
     ]
 }

@@ -3226,5 +3226,223 @@
                 "The recto margin is wider than the verso margin."
             ]
         }
+    ],
+    "rip": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a sudden tear or break in something flexible",
+            "synonyms": [
+                "tear",
+                "rip",
+                "split",
+                "gash"
+            ],
+            "examples": [
+                "The rip in the sleeve widened after one wash.",
+                "He noticed a rip in the paper bag."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to pull apart or tear something quickly",
+            "synonyms": [
+                "tear",
+                "split",
+                "rend",
+                "pull"
+            ],
+            "examples": [
+                "The cat ripped the box open.",
+                "Carefully rip the label from the bottle."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a strong current of water moving away from shore",
+            "synonyms": [
+                "undertow",
+                "rip current"
+            ],
+            "examples": [
+                "He got caught in a rip and had to be rescued.",
+                "Stay calm if you feel a rip current pulling you."
+            ]
+        }
+    ],
+    "rue": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to feel sorry for a past action or choice",
+            "synonyms": [
+                "regret",
+                "be sorry",
+                "lament",
+                "repent"
+            ],
+            "examples": [
+                "She r&uacute;ed missing the meeting.",
+                "I rue the day I ignored the warning."
+            ]
+        }
+    ],
+    "rook": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a chess piece that moves horizontally or vertically any number of squares",
+            "synonyms": [
+                "chess piece"
+            ],
+            "examples": [
+                "He sacrificed a rook to win the game.",
+                "The rook protected the back row."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a type of bird that is related to crows and is often seen in groups",
+            "synonyms": [
+                "crow family bird"
+            ],
+            "examples": [
+                "A rook landed on the roof.",
+                "Rooks were flying over the fields in the morning."
+            ]
+        }
+    ],
+    "retractor": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a device or tool used to pull something back or hold it open",
+            "synonyms": [
+                "holder",
+                "pullback device",
+                "instrument"
+            ],
+            "examples": [
+                "The surgeon used a retractor to move the tissue aside.",
+                "A retractor helps keep the wound area visible."
+            ]
+        }
+    ],
+    "refulgent": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "shining brightly, especially in a way that looks impressive",
+            "synonyms": [
+                "radiant",
+                "bright",
+                "glowing",
+                "resplendent"
+            ],
+            "examples": [
+                "The refulgent lights of the stage dazzled the audience.",
+                "A refulgent sunset filled the sky."
+            ]
+        }
+    ],
+    "readies": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make something ready or prepared",
+            "synonyms": [
+                "prepare",
+                "get ready",
+                "set up",
+                "arrange"
+            ],
+            "examples": [
+                "We readied the room for the guests.",
+                "She readies her equipment before each match."
+            ]
+        }
+    ],
+    "rattrap": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small trap, often used to catch animals, or a wearable device used to catch something by snapping or catching",
+            "synonyms": [
+                "trap",
+                "snare",
+                "catch"
+            ],
+            "examples": [
+                "The farmer set a rattrap near the barn.",
+                "A rattrap can injure an animal quickly."
+            ]
+        }
+    ],
+    "ruth": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the ability or willingness to be cruel or without pity",
+            "synonyms": [
+                "pity",
+                "mercy",
+                "kindness"
+            ],
+            "examples": [
+                "He showed no ruth toward his opponent.",
+                "She acted with mercy instead of ruth."
+            ]
+        }
+    ],
+    "rigging": [
+        {
+            "part_of_speech": "noun",
+            "definition": "ropes, wires, and equipment used to control sails or support a ship’s masts",
+            "synonyms": [
+                "ropes",
+                "lines",
+                "gear"
+            ],
+            "examples": [
+                "The crew repaired the rigging before the voyage.",
+                "A storm damaged the rigging."
+            ]
+        }
+    ],
+    "roast": [
+        {
+            "part_of_speech": "noun",
+            "definition": "meat cooked in an oven, or an event where someone is teased humorously",
+            "synonyms": [
+                "roasting",
+                "meat dish",
+                "barbecue (informal)",
+                "roasting (event)"
+            ],
+            "examples": [
+                "We had a chicken roast for dinner.",
+                "At the party, they did a roast of the host."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to cook food using dry heat, especially in an oven",
+            "synonyms": [
+                "bake",
+                "toast",
+                "brown",
+                "grill"
+            ],
+            "examples": [
+                "They roasted the vegetables until they were soft.",
+                "Roast the chicken for about an hour."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to tease someone with humorous criticism",
+            "synonyms": [
+                "tease",
+                "mock",
+                "joke about",
+                "roast"
+            ],
+            "examples": [
+                "They roasted him at the graduation dinner.",
+                "The comedian roasted the politician gently."
+            ]
+        }
     ]
 }

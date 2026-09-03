@@ -1,0 +1,53 @@
+{
+    "date": "2026-09-22",
+    "groups": [
+        {
+            "id": "2026-09-22-g1",
+            "type": "literary_register",
+            "difficulty": "easy",
+            "title": "poetic dawn",
+            "words": [
+                "morn",
+                "daybreak",
+                "aurora",
+                "sunrise"
+            ]
+        },
+        {
+            "id": "2026-09-22-g2",
+            "type": "emotional_tone",
+            "difficulty": "medium",
+            "title": "gloomy mood",
+            "words": [
+                "morose",
+                "sullen",
+                "saturnine",
+                "dour"
+            ]
+        },
+        {
+            "id": "2026-09-22-g3",
+            "type": "physical_trait",
+            "difficulty": "hard",
+            "title": "rough surfaces",
+            "words": [
+                "gnarled",
+                "scabrous",
+                "rugose",
+                "knotted"
+            ]
+        },
+        {
+            "id": "2026-09-22-g4",
+            "type": "etymological_relation",
+            "difficulty": "very_hard",
+            "title": "from light",
+            "words": [
+                "lucid",
+                "translucent",
+                "elucidate",
+                "pellucid"
+            ]
+        }
+    ]
+}

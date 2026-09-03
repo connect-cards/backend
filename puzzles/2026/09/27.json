@@ -1,0 +1,53 @@
+{
+    "date": "2026-09-27",
+    "groups": [
+        {
+            "id": "2026-09-27-g1",
+            "type": "literary_register",
+            "difficulty": "easy",
+            "title": "alas words",
+            "words": [
+                "alack",
+                "anon",
+                "ere",
+                "nay"
+            ]
+        },
+        {
+            "id": "2026-09-27-g2",
+            "type": "morphological_family",
+            "difficulty": "medium",
+            "title": "write forms",
+            "words": [
+                "scribe",
+                "script",
+                "scriven",
+                "scrivener"
+            ]
+        },
+        {
+            "id": "2026-09-27-g3",
+            "type": "profession_domain",
+            "difficulty": "hard",
+            "title": "law practice",
+            "words": [
+                "tort",
+                "lien",
+                "estoppel",
+                "demurrer"
+            ]
+        },
+        {
+            "id": "2026-09-27-g4",
+            "type": "informal_register",
+            "difficulty": "very_hard",
+            "title": "criticize rudely",
+            "words": [
+                "slag",
+                "slate",
+                "diss",
+                "roast"
+            ]
+        }
+    ]
+}

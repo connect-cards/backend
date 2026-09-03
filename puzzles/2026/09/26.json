@@ -1,0 +1,53 @@
+{
+    "date": "2026-09-26",
+    "groups": [
+        {
+            "id": "2026-09-26-g1",
+            "type": "semantic_field",
+            "difficulty": "easy",
+            "title": "marsh features",
+            "words": [
+                "bog",
+                "fen",
+                "moor",
+                "reed"
+            ]
+        },
+        {
+            "id": "2026-09-26-g2",
+            "type": "emotional_tone",
+            "difficulty": "medium",
+            "title": "gloomy moods",
+            "words": [
+                "bleak",
+                "morose",
+                "sullen",
+                "saturnine"
+            ]
+        },
+        {
+            "id": "2026-09-26-g3",
+            "type": "informal_register",
+            "difficulty": "hard",
+            "title": "petty theft",
+            "words": [
+                "filch",
+                "lift",
+                "nicked",
+                "pinch"
+            ]
+        },
+        {
+            "id": "2026-09-26-g4",
+            "type": "morphological_family",
+            "difficulty": "very_hard",
+            "title": "carry forms",
+            "words": [
+                "confer",
+                "defer",
+                "infer",
+                "refer"
+            ]
+        }
+    ]
+}

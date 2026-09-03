@@ -3662,5 +3662,214 @@
                 "She pointed out the paralogism in his argument."
             ]
         }
+    ],
+    "pawn": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a chess piece with low value that moves forward and captures diagonally",
+            "synonyms": [
+                "chess piece"
+            ],
+            "examples": [
+                "He moved a pawn to open the line for his bishop.",
+                "The pawn advanced two squares."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a person used by others to achieve their goals",
+            "synonyms": [
+                "tool",
+                "victim",
+                "dupe",
+                "instrument"
+            ],
+            "examples": [
+                "He realized he had been used as a pawn.",
+                "They treated employees like pawns in the negotiation."
+            ]
+        }
+    ],
+    "piecened": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "made of pieces or in small separate parts",
+            "synonyms": [
+                "fragmented",
+                "in pieces",
+                "broken-up"
+            ],
+            "examples": [
+                "The artwork looks piecened, like it was assembled from scraps.",
+                "Her story felt piecened rather than continuous."
+            ]
+        }
+    ],
+    "pellucid": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very clear and easy to understand",
+            "synonyms": [
+                "clear",
+                "transparent",
+                "lucid",
+                "evident"
+            ],
+            "examples": [
+                "Her explanation was pellucid and well organized.",
+                "The report gives a pellucid summary of the results."
+            ]
+        }
+    ],
+    "plangent": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "loud and mournful, often used to describe sounds",
+            "synonyms": [
+                "wailing",
+                "lamenting",
+                "mournful",
+                "piercing"
+            ],
+            "examples": [
+                "The plangent alarm rang throughout the building.",
+                "A plangent whistle sounded in the distance."
+            ]
+        }
+    ],
+    "prow": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the front part of a ship",
+            "synonyms": [
+                "front of ship",
+                "fore",
+                "bow"
+            ],
+            "examples": [
+                "The waves broke against the prow.",
+                "He stood near the prow and watched the coast."
+            ]
+        }
+    ],
+    "proffer": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to offer something formally or politely",
+            "synonyms": [
+                "offer",
+                "present",
+                "submit",
+                "hand"
+            ],
+            "examples": [
+                "She proffered her help after the meeting.",
+                "The company proffered a solution to the problem."
+            ]
+        }
+    ],
+    "pelagic": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "living in the open sea rather than near the shore or sea floor",
+            "synonyms": [
+                "open-sea",
+                "oceanic"
+            ],
+            "examples": [
+                "Pelagic fish travel far across the ocean.",
+                "They observed pelagic birds during the voyage."
+            ]
+        }
+    ],
+    "pap": [
+        {
+            "part_of_speech": "noun",
+            "definition": "soft, watery food or a weak, unimportant form of writing or speech",
+            "synonyms": [
+                "mushy food",
+                "fluff",
+                "nonsense",
+                "drivel"
+            ],
+            "examples": [
+                "The baby ate pap made from grains.",
+                "His speech was pap and did not add any useful information."
+            ]
+        }
+    ],
+    "pilferer": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who steals small things, especially from places where they are kept",
+            "synonyms": [
+                "thief",
+                "stealer",
+                "shoplifter",
+                "pickpocket"
+            ],
+            "examples": [
+                "The store caught a pilferer at the checkout.",
+                "He was known as a pilferer who took small items."
+            ]
+        }
+    ],
+    "pouncer": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person or thing that jumps quickly to attack, catch, or grab",
+            "synonyms": [
+                "attacker",
+                "leaper",
+                "ambusher"
+            ],
+            "examples": [
+                "The dog was a pouncer during training, always moving fast.",
+                "He moved like a pouncer to catch the ball."
+            ]
+        }
+    ],
+    "prop": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an object used in a performance to help create the scene",
+            "synonyms": [
+                "stage item",
+                "set piece",
+                "equipment"
+            ],
+            "examples": [
+                "The actor dropped the prop by accident.",
+                "The director checked every prop before filming."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "something that supports or helps a plan, activity, or idea continue",
+            "synonyms": [
+                "support",
+                "backing",
+                "aid",
+                "basis"
+            ],
+            "examples": [
+                "The funding was a prop for the failing company.",
+                "That policy is a prop for the economy."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to support something temporarily to prevent it from falling",
+            "synonyms": [
+                "support",
+                "brace",
+                "hold up",
+                "reinforce"
+            ],
+            "examples": [
+                "They propped the door open with a chair.",
+                "The wall was propped after the earthquake."
+            ]
+        }
     ]
 }

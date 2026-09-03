@@ -1,0 +1,53 @@
+{
+    "date": "2026-09-11",
+    "groups": [
+        {
+            "id": "2026-09-11-g1",
+            "type": "thematic_association",
+            "difficulty": "easy",
+            "title": "chess pieces",
+            "words": [
+                "bishop",
+                "rook",
+                "knight",
+                "pawn"
+            ]
+        },
+        {
+            "id": "2026-09-11-g2",
+            "type": "semantic_field",
+            "difficulty": "medium",
+            "title": "steep slopes",
+            "words": [
+                "cliff",
+                "crag",
+                "bluff",
+                "escarpment"
+            ]
+        },
+        {
+            "id": "2026-09-11-g3",
+            "type": "physical_trait",
+            "difficulty": "hard",
+            "title": "spotted markings",
+            "words": [
+                "dappled",
+                "flecked",
+                "mottled",
+                "piebald"
+            ]
+        },
+        {
+            "id": "2026-09-11-g4",
+            "type": "synonym",
+            "difficulty": "very_hard",
+            "title": "briefly visible",
+            "words": [
+                "evanescent",
+                "fugitive",
+                "transient",
+                "hemeral"
+            ]
+        }
+    ]
+}

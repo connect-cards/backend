@@ -401,5 +401,104 @@
                 "The document is set to justify the paragraphs."
             ]
         }
+    ],
+    "journal": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a newspaper or magazine, especially one focused on business, academic work, or professional topics",
+            "synonyms": [
+                "magazine",
+                "periodical",
+                "trade publication",
+                "newspaper"
+            ],
+            "examples": [
+                "I read a journal about computer science.",
+                "The journal published the research results."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a book where you write your daily thoughts or experiences",
+            "synonyms": [
+                "diary",
+                "log",
+                "notebook"
+            ],
+            "examples": [
+                "She kept a journal during her travels.",
+                "He wrote in his journal every night."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to write notes or records in a journal",
+            "synonyms": [
+                "log",
+                "record",
+                "write down"
+            ],
+            "examples": [
+                "She journals her progress weekly.",
+                "He journals about his day and his feelings."
+            ]
+        }
+    ],
+    "judge": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who has authority to decide cases in a court of law",
+            "synonyms": [
+                "magistrate",
+                "justice"
+            ],
+            "examples": [
+                "The judge delivered the sentence in court.",
+                "A judge reviewed the evidence."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who decides the winners in a competition",
+            "synonyms": [
+                "referee",
+                "official",
+                "evaluator"
+            ],
+            "examples": [
+                "The judges will score each performance.",
+                "She served as a judge for the contest."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to decide or form an opinion after considering information",
+            "synonyms": [
+                "assess",
+                "evaluate",
+                "estimate",
+                "determine"
+            ],
+            "examples": [
+                "It is hard to judge his skill from one game.",
+                "She judged the situation carefully."
+            ]
+        }
+    ],
+    "jagged": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "rough and uneven, with sharp points or edges",
+            "synonyms": [
+                "rough",
+                "uneven",
+                "craggy",
+                "ragged"
+            ],
+            "examples": [
+                "The rock has jagged edges.",
+                "He cut his hand on a jagged piece of metal."
+            ]
+        }
     ]
 }

@@ -1,0 +1,53 @@
+{
+    "date": "2026-09-28",
+    "groups": [
+        {
+            "id": "2026-09-28-g1",
+            "type": "semantic_field",
+            "difficulty": "easy",
+            "title": "air currents",
+            "words": [
+                "draft",
+                "eddy",
+                "gust",
+                "waft"
+            ]
+        },
+        {
+            "id": "2026-09-28-g2",
+            "type": "profession_domain",
+            "difficulty": "medium",
+            "title": "stage directions",
+            "words": [
+                "cue",
+                "prop",
+                "scrim",
+                "flat"
+            ]
+        },
+        {
+            "id": "2026-09-28-g3",
+            "type": "literary_register",
+            "difficulty": "hard",
+            "title": "behold words",
+            "words": [
+                "lo",
+                "hark",
+                "behold",
+                "verily"
+            ]
+        },
+        {
+            "id": "2026-09-28-g4",
+            "type": "sound_association",
+            "difficulty": "very_hard",
+            "title": "bell sounds",
+            "words": [
+                "clang",
+                "clank",
+                "peal",
+                "tintinnabulation"
+            ]
+        }
+    ]
+}

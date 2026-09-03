@@ -3431,5 +3431,161 @@
                 "She spoke with acerbity in every debate."
             ]
         }
+    ],
+    "athanor": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a furnace or kiln used to maintain a steady heat, often mentioned in alchemy",
+            "synonyms": [
+                "alchemical furnace",
+                "kiln"
+            ],
+            "examples": [
+                "The book describes an athanor as a stable heat source.",
+                "In the story, the athanor keeps the mixture at the same temperature."
+            ]
+        }
+    ],
+    "abduction": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the act of taking someone away by force or without permission",
+            "synonyms": [
+                "kidnapping",
+                "seizure",
+                "capture",
+                "carrying off"
+            ],
+            "examples": [
+                "The police launched an investigation into the abduction.",
+                "An Amber Alert was issued after an abduction."
+            ]
+        }
+    ],
+    "awl": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small tool with a pointed metal tip used to make holes in hard material",
+            "synonyms": [
+                "piercer",
+                "punch",
+                "awl"
+            ],
+            "examples": [
+                "He used an awl to create a hole in the leather.",
+                "The cobbler kept an awl near the workbench."
+            ]
+        }
+    ],
+    "annal": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a record of events arranged in time order, especially in history",
+            "synonyms": [
+                "chronicle",
+                "record",
+                "history",
+                "annals"
+            ],
+            "examples": [
+                "The monks wrote annals of the kingdom.",
+                "The book includes several annals covering the same period."
+            ]
+        }
+    ],
+    "askew": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "not straight or properly aligned, with a tilt to one side",
+            "synonyms": [
+                "tilted",
+                "crooked",
+                "out of line",
+                "askew"
+            ],
+            "examples": [
+                "The shelf looked askew after the move.",
+                "Her hat was set askew in the wind."
+            ]
+        }
+    ],
+    "accrimony": [
+        {
+            "part_of_speech": "noun",
+            "definition": "bitterness and anger, often in speech or writing",
+            "synonyms": [
+                "bitter anger",
+                "resentment",
+                "hostility",
+                "spite"
+            ],
+            "examples": [
+                "The email was full of acrimony.",
+                "Their debate became acrimony quickly."
+            ]
+        }
+    ],
+    "acridity": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a sharp, unpleasant taste or smell, or a strongly harsh quality",
+            "synonyms": [
+                "sharpness",
+                "bitterness",
+                "pungency",
+                "sting"
+            ],
+            "examples": [
+                "The acridity of the smoke filled the room.",
+                "She could smell the acridity of the cleaning solution."
+            ]
+        }
+    ],
+    "austerity": [
+        {
+            "part_of_speech": "noun",
+            "definition": "strictness in spending money or living in a plain way",
+            "synonyms": [
+                "frugality",
+                "strictness",
+                "severity",
+                "economy"
+            ],
+            "examples": [
+                "The government introduced austerity measures to reduce costs.",
+                "After the move, the family practiced austerity to save money."
+            ]
+        }
+    ],
+    "alack": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "expressing regret, sadness, or disappointment (used as an interjection)",
+            "synonyms": [
+                "alas",
+                "oh no",
+                "unfortunately",
+                "sadly"
+            ],
+            "examples": [
+                "Alack, I forgot the keys again.",
+                "Alack, the plan failed at the last moment."
+            ]
+        }
+    ],
+    "aught": [
+        {
+            "part_of_speech": "noun",
+            "definition": "anything at all, used especially in negative statements",
+            "synonyms": [
+                "anything",
+                "nothing (in negatives)",
+                "a bit (in negatives)"
+            ],
+            "examples": [
+                "She did not know aught about the plan.",
+                "No aught was written on the form."
+            ]
+        }
     ]
 }

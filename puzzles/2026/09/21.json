@@ -1,0 +1,53 @@
+{
+    "date": "2026-09-21",
+    "groups": [
+        {
+            "id": "2026-09-21-g1",
+            "type": "physical_trait",
+            "difficulty": "easy",
+            "title": "thin textures",
+            "words": [
+                "gauzy",
+                "wiry",
+                "sinewy",
+                "spindly"
+            ]
+        },
+        {
+            "id": "2026-09-21-g2",
+            "type": "etymological_relation",
+            "difficulty": "medium",
+            "title": "from sea",
+            "words": [
+                "marine",
+                "pelagic",
+                "mariner",
+                "submarine"
+            ]
+        },
+        {
+            "id": "2026-09-21-g3",
+            "type": "morphological_family",
+            "difficulty": "hard",
+            "title": "bear forms",
+            "words": [
+                "forbear",
+                "unbearable",
+                "bearing",
+                "borne"
+            ]
+        },
+        {
+            "id": "2026-09-21-g4",
+            "type": "informal_register",
+            "difficulty": "very_hard",
+            "title": "dismissive slang",
+            "words": [
+                "drivel",
+                "twaddle",
+                "pap",
+                "claptrap"
+            ]
+        }
+    ]
+}

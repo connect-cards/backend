@@ -1,0 +1,53 @@
+{
+    "date": "2026-09-14",
+    "groups": [
+        {
+            "id": "2026-09-14-g1",
+            "type": "profession_domain",
+            "difficulty": "easy",
+            "title": "surgery tools",
+            "words": [
+                "scalpel",
+                "forceps",
+                "retractor",
+                "speculum"
+            ]
+        },
+        {
+            "id": "2026-09-14-g2",
+            "type": "etymological_relation",
+            "difficulty": "medium",
+            "title": "light roots",
+            "words": [
+                "lucid",
+                "translucent",
+                "pellucid",
+                "elucidate"
+            ]
+        },
+        {
+            "id": "2026-09-14-g3",
+            "type": "literary_register",
+            "difficulty": "hard",
+            "title": "mournful",
+            "words": [
+                "woebegone",
+                "lugubrious",
+                "doleful",
+                "plangent"
+            ]
+        },
+        {
+            "id": "2026-09-14-g4",
+            "type": "thematic_association",
+            "difficulty": "very_hard",
+            "title": "bog landforms",
+            "words": [
+                "fen",
+                "mire",
+                "quag",
+                "slough"
+            ]
+        }
+    ]
+}

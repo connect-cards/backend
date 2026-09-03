@@ -1,0 +1,53 @@
+{
+    "date": "2026-09-15",
+    "groups": [
+        {
+            "id": "2026-09-15-g1",
+            "type": "literary_register",
+            "difficulty": "easy",
+            "title": "shining",
+            "words": [
+                "effulgent",
+                "lambent",
+                "refulgent",
+                "lucent"
+            ]
+        },
+        {
+            "id": "2026-09-15-g2",
+            "type": "informal_register",
+            "difficulty": "medium",
+            "title": "nonsense",
+            "words": [
+                "drivel",
+                "baloney",
+                "tripe",
+                "claptrap"
+            ]
+        },
+        {
+            "id": "2026-09-15-g3",
+            "type": "profession_domain",
+            "difficulty": "hard",
+            "title": "linguistics",
+            "words": [
+                "morpheme",
+                "allophone",
+                "deixis",
+                "zeugma"
+            ]
+        },
+        {
+            "id": "2026-09-15-g4",
+            "type": "etymological_relation",
+            "difficulty": "very_hard",
+            "title": "carry roots",
+            "words": [
+                "metaphor",
+                "ferric",
+                "suffer",
+                "transfer"
+            ]
+        }
+    ]
+}

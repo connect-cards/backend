@@ -1,0 +1,53 @@
+{
+    "date": "2026-09-17",
+    "groups": [
+        {
+            "id": "2026-09-17-g1",
+            "type": "literary_register",
+            "difficulty": "easy",
+            "title": "dawn words",
+            "words": [
+                "aurora",
+                "daybreak",
+                "sunrise",
+                "morrow"
+            ]
+        },
+        {
+            "id": "2026-09-17-g2",
+            "type": "physical_trait",
+            "difficulty": "medium",
+            "title": "lean bodies",
+            "words": [
+                "gaunt",
+                "lanky",
+                "rangy",
+                "spare"
+            ]
+        },
+        {
+            "id": "2026-09-17-g3",
+            "type": "semantic_field",
+            "difficulty": "hard",
+            "title": "earth layers",
+            "words": [
+                "crust",
+                "mantle",
+                "core",
+                "strata"
+            ]
+        },
+        {
+            "id": "2026-09-17-g4",
+            "type": "etymological_relation",
+            "difficulty": "very_hard",
+            "title": "heart roots",
+            "words": [
+                "cardiac",
+                "cordial",
+                "courage",
+                "accord"
+            ]
+        }
+    ]
+}

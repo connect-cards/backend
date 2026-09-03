@@ -983,5 +983,69 @@
                 "Her criticism had a surprising virulence."
             ]
         }
+    ],
+    "vituperation": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the act of speaking or writing with harsh angry criticism",
+            "synonyms": [
+                "verbal abuse",
+                "insults",
+                "harsh criticism",
+                "condemnation"
+            ],
+            "examples": [
+                "Her vituperation shocked the audience.",
+                "He responded with vituperation instead of calm discussion."
+            ]
+        }
+    ],
+    "vagary": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a change in events or behavior that is hard to predict",
+            "synonyms": [
+                "uncertainty",
+                "variability",
+                "unpredictability",
+                "whim"
+            ],
+            "examples": [
+                "Markets are affected by the vagary of global news.",
+                "She coped with the vagaries of the weather."
+            ]
+        }
+    ],
+    "vista": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a view of an area, especially one that stretches far into the distance",
+            "synonyms": [
+                "view",
+                "scenery",
+                "panorama",
+                "landscape"
+            ],
+            "examples": [
+                "From the hill, there was a wide vista of the city.",
+                "The balcony offers a beautiful vista of the bay."
+            ]
+        }
+    ],
+    "vanity": [
+        {
+            "part_of_speech": "noun",
+            "definition": "excessive pride in appearance or achievements",
+            "synonyms": [
+                "pride",
+                "self-importance",
+                "egotism",
+                "conceit"
+            ],
+            "examples": [
+                "Her vanity made her ignore honest feedback.",
+                "He bought the expensive watch out of vanity."
+            ]
+        }
     ]
 }

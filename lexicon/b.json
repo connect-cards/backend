@@ -2619,5 +2619,186 @@
                 "He treated the problem like a bagatelle."
             ]
         }
+    ],
+    "burly": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "strong, thick, and heavy-built",
+            "synonyms": [
+                "sturdy",
+                "brawny",
+                "heavyset",
+                "muscular"
+            ],
+            "examples": [
+                "A burly man held the door open.",
+                "He looked burly, but he was gentle."
+            ]
+        }
+    ],
+    "bodkin": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small pointed tool, often used for sewing, knitting, or piercing fabric",
+            "synonyms": [
+                "needle",
+                "awl"
+            ],
+            "examples": [
+                "She used a bodkin to pull the cord through the fabric.",
+                "The bodkin made it easier to thread the ribbon."
+            ]
+        }
+    ],
+    "bishop": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a high-ranking christian leader in charge of a diocese",
+            "synonyms": [
+                "church leader",
+                "prelate"
+            ],
+            "examples": [
+                "The bishop will visit the cathedral on Sunday.",
+                "A bishop oversees several churches in his diocese."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a piece in chess that moves diagonally across the board",
+            "synonyms": [
+                "chess piece"
+            ],
+            "examples": [
+                "She moved her bishop to attack the king.",
+                "The bishop controlled the long diagonal."
+            ]
+        }
+    ],
+    "bluff": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a high steep bank or cliff, especially near water",
+            "synonyms": [
+                "cliff",
+                "bank",
+                "headland"
+            ],
+            "examples": [
+                "The town sits on a bluff above the river.",
+                "Boats stayed far from the bluff."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a strategy in a card game to make opponents think you have a better hand",
+            "synonyms": [
+                "feint",
+                "bait",
+                "ruse"
+            ],
+            "examples": [
+                "He made a bluff to win the round.",
+                "Her bluff fooled the other player."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to try to trick someone by acting as if you have something you do not actually have",
+            "synonyms": [
+                "feint",
+                "trick",
+                "dupe",
+                "con"
+            ],
+            "examples": [
+                "He bluffed during the poker game.",
+                "She bluffed to avoid answering the question."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "having an appearance of being strong or serious, but without real substance",
+            "synonyms": [
+                "sham",
+                "pretend",
+                "fake"
+            ],
+            "examples": [
+                "That was a bluff threat, not a real plan."
+            ]
+        }
+    ],
+    "blotto": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very drunk or drunk to the point of being unable to think clearly",
+            "synonyms": [
+                "drunk",
+                "intoxicated",
+                "boozed-up",
+                "wasted"
+            ],
+            "examples": [
+                "He was blotto after drinking all night.",
+                "By midnight, the whole group was blotto."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a state of being very drunk",
+            "synonyms": [
+                "drunkenness",
+                "intoxication"
+            ],
+            "examples": [
+                "He ended up in blotto and missed the meeting.",
+                "They talked about the night of blotto."
+            ]
+        }
+    ],
+    "billingsgate": [
+        {
+            "part_of_speech": "noun",
+            "definition": "loud, harsh insulting language",
+            "synonyms": [
+                "abuse",
+                "vulgar insults",
+                "harsh language"
+            ],
+            "examples": [
+                "He yelled billingsgate during the argument.",
+                "The video included billingsgate aimed at the referee."
+            ]
+        }
+    ],
+    "bifold": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a document or card that folds into two sections",
+            "synonyms": [
+                "folded card",
+                "two-fold"
+            ],
+            "examples": [
+                "I printed the brochure as a bi-fold.",
+                "The invitation is a bi-fold with a cover."
+            ]
+        }
+    ],
+    "berth": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a bed on a ship or train, or space where a ship is moored",
+            "synonyms": [
+                "sleeping place",
+                "mooring space",
+                "slip"
+            ],
+            "examples": [
+                "The ship’s berth was small but comfortable.",
+                "Our boat is in a berth at the marina."
+            ]
+        }
     ]
 }

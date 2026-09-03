@@ -157,5 +157,35 @@
                 "The helicopter yawed slightly during landing."
             ]
         }
+    ],
+    "yelp": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a short, sharp cry of pain or surprise",
+            "synonyms": [
+                "cry",
+                "squeal",
+                "yell",
+                "shriek"
+            ],
+            "examples": [
+                "I heard a yelp from the hallway.",
+                "The dog let out a yelp when I stepped on its paw."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to cry out sharply, usually because of pain or fear",
+            "synonyms": [
+                "cry out",
+                "squeal",
+                "yell",
+                "shriek"
+            ],
+            "examples": [
+                "He yelped when the hot pan touched his skin.",
+                "The child yelped and ran to his mother."
+            ]
+        }
     ]
 }

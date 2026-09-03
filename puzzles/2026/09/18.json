@@ -1,0 +1,53 @@
+{
+    "date": "2026-09-18",
+    "groups": [
+        {
+            "id": "2026-09-18-g1",
+            "type": "thematic_association",
+            "difficulty": "easy",
+            "title": "ship parts",
+            "words": [
+                "mast",
+                "keel",
+                "prow",
+                "stern"
+            ]
+        },
+        {
+            "id": "2026-09-18-g2",
+            "type": "sound_association",
+            "difficulty": "medium",
+            "title": "hushed sounds",
+            "words": [
+                "murmur",
+                "susurrus",
+                "whisper",
+                "rustle"
+            ]
+        },
+        {
+            "id": "2026-09-18-g3",
+            "type": "morphological_family",
+            "difficulty": "hard",
+            "title": "carry forms",
+            "words": [
+                "defer",
+                "offer",
+                "proffer",
+                "transfer"
+            ]
+        },
+        {
+            "id": "2026-09-18-g4",
+            "type": "literary_register",
+            "difficulty": "very_hard",
+            "title": "old grief",
+            "words": [
+                "dolor",
+                "ruth",
+                "spleen",
+                "weltschmerz"
+            ]
+        }
+    ]
+}

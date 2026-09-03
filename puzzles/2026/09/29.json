@@ -1,0 +1,53 @@
+{
+    "date": "2026-09-29",
+    "groups": [
+        {
+            "id": "2026-09-29-g1",
+            "type": "semantic_field",
+            "difficulty": "easy",
+            "title": "moral flaws",
+            "words": [
+                "vanity",
+                "envy",
+                "spite",
+                "greed"
+            ]
+        },
+        {
+            "id": "2026-09-29-g2",
+            "type": "profession_domain",
+            "difficulty": "medium",
+            "title": "surgery terms",
+            "words": [
+                "suture",
+                "graft",
+                "clamp",
+                "incise"
+            ]
+        },
+        {
+            "id": "2026-09-29-g3",
+            "type": "emotional_tone",
+            "difficulty": "hard",
+            "title": "gloomy mood",
+            "words": [
+                "bleak",
+                "morose",
+                "sullen",
+                "dour"
+            ]
+        },
+        {
+            "id": "2026-09-29-g4",
+            "type": "sound_association",
+            "difficulty": "very_hard",
+            "title": "hushed sounds",
+            "words": [
+                "susurrus",
+                "murmur",
+                "rustle",
+                "whisper"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "date": "2026-09-24",
+    "groups": [
+        {
+            "id": "2026-09-24-g1",
+            "type": "profession_domain",
+            "difficulty": "easy",
+            "title": "sailing gear",
+            "words": [
+                "mast",
+                "keel",
+                "rigging",
+                "starboard"
+            ]
+        },
+        {
+            "id": "2026-09-24-g2",
+            "type": "etymological_relation",
+            "difficulty": "medium",
+            "title": "from write",
+            "words": [
+                "scribe",
+                "inscribe",
+                "script",
+                "scrivener"
+            ]
+        },
+        {
+            "id": "2026-09-24-g3",
+            "type": "morphological_family",
+            "difficulty": "hard",
+            "title": "fold forms",
+            "words": [
+                "infold",
+                "folder",
+                "bifold",
+                "unfold"
+            ]
+        },
+        {
+            "id": "2026-09-24-g4",
+            "type": "informal_register",
+            "difficulty": "very_hard",
+            "title": "petty thief",
+            "words": [
+                "pilferer",
+                "snitcher",
+                "nicker",
+                "pouncer"
+            ]
+        }
+    ]
+}

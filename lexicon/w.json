@@ -1662,5 +1662,114 @@
                 "There was a waft of smoke from outside."
             ]
         }
+    ],
+    "winnow": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to separate seeds or grain from unwanted material using air or gentle shaking",
+            "synonyms": [
+                "separate",
+                "clean",
+                "filter",
+                "sort"
+            ],
+            "examples": [
+                "They winnowed the grain after the harvest.",
+                "The wind helps winnow the chaff from the seeds."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to gradually reduce a group until the best options remain",
+            "synonyms": [
+                "select",
+                "filter",
+                "narrow down",
+                "sort out"
+            ],
+            "examples": [
+                "The trial will winnow the applicants to the final candidates.",
+                "We need to winnow the list before the meeting."
+            ]
+        }
+    ],
+    "woebegone": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "looking or feeling very sad and unhappy",
+            "synonyms": [
+                "sad",
+                "miserable",
+                "dejected",
+                "downcast"
+            ],
+            "examples": [
+                "He seemed woebegone after the loss.",
+                "The woebegone expression worried her."
+            ]
+        }
+    ],
+    "weltschmerz": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a feeling of sadness or dissatisfaction with the world",
+            "synonyms": [
+                "world-weariness",
+                "sadness",
+                "disillusionment",
+                "pessimism"
+            ],
+            "examples": [
+                "After the move, he felt weltschmerz for a while.",
+                "The novel explores weltschmerz and loneliness."
+            ]
+        }
+    ],
+    "whim": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a sudden wish or desire to do something, often without planning",
+            "synonyms": [
+                "caprice",
+                "impulse",
+                "fancy",
+                "urge"
+            ],
+            "examples": [
+                "She changed her schedule at the whim of a friend.",
+                "He bought the ticket on a whim."
+            ]
+        }
+    ],
+    "wold": [
+        {
+            "part_of_speech": "noun",
+            "definition": "open rolling land, often in the countryside",
+            "synonyms": [
+                "hills",
+                "downland",
+                "uplands"
+            ],
+            "examples": [
+                "The village sits at the edge of the wold.",
+                "We hiked across the wold on a clear day."
+            ]
+        }
+    ],
+    "willowy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "tall, thin, and graceful like a young tree branch",
+            "synonyms": [
+                "slender",
+                "tall and thin",
+                "graceful",
+                "limber"
+            ],
+            "examples": [
+                "She is willowy and moves very lightly.",
+                "The willowy branches swayed in the wind."
+            ]
+        }
     ]
 }

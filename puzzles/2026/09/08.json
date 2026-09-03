@@ -1,0 +1,53 @@
+{
+    "date": "2026-09-08",
+    "groups": [
+        {
+            "id": "2026-09-08-g1",
+            "type": "morphological_family",
+            "difficulty": "easy",
+            "title": "bear forms",
+            "words": [
+                "bear",
+                "bore",
+                "borne",
+                "bearing"
+            ]
+        },
+        {
+            "id": "2026-09-08-g2",
+            "type": "etymological_relation",
+            "difficulty": "medium",
+            "title": "write roots",
+            "words": [
+                "scribe",
+                "script",
+                "scriven",
+                "scrivener"
+            ]
+        },
+        {
+            "id": "2026-09-08-g3",
+            "type": "synonym",
+            "difficulty": "hard",
+            "title": "briefness",
+            "words": [
+                "brevity",
+                "concision",
+                "succinctness",
+                "pith"
+            ]
+        },
+        {
+            "id": "2026-09-08-g4",
+            "type": "semantic_field",
+            "difficulty": "very_hard",
+            "title": "omen signs",
+            "words": [
+                "augury",
+                "portent",
+                "presage",
+                "auspice"
+            ]
+        }
+    ]
+}

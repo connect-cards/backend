@@ -1,0 +1,53 @@
+{
+    "date": "2026-09-06",
+    "groups": [
+        {
+            "id": "2026-09-06-g1",
+            "type": "physical_trait",
+            "difficulty": "easy",
+            "title": "thinness",
+            "words": [
+                "gaunt",
+                "lanky",
+                "scrawny",
+                "spare"
+            ]
+        },
+        {
+            "id": "2026-09-06-g2",
+            "type": "etymological_relation",
+            "difficulty": "medium",
+            "title": "hand roots",
+            "words": [
+                "manual",
+                "manage",
+                "manacle",
+                "emancipate"
+            ]
+        },
+        {
+            "id": "2026-09-06-g3",
+            "type": "semantic_field",
+            "difficulty": "hard",
+            "title": "swamp land",
+            "words": [
+                "bog",
+                "fen",
+                "marsh",
+                "mire"
+            ]
+        },
+        {
+            "id": "2026-09-06-g4",
+            "type": "thematic_association",
+            "difficulty": "very_hard",
+            "title": "alchemy",
+            "words": [
+                "alembic",
+                "athanor",
+                "retort",
+                "crucible"
+            ]
+        }
+    ]
+}

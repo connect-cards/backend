@@ -648,5 +648,108 @@
                 "He answered nay when asked to sign."
             ]
         }
+    ],
+    "notion": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an idea or belief about something",
+            "synonyms": [
+                "idea",
+                "belief",
+                "concept",
+                "thought"
+            ],
+            "examples": [
+                "I have a notion that we should start earlier.",
+                "It’s a common notion that exercise helps stress."
+            ]
+        }
+    ],
+    "nation": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a country considered as a political community or as its people",
+            "synonyms": [
+                "country",
+                "state",
+                "people",
+                "land"
+            ],
+            "examples": [
+                "The nation elected a new government.",
+                "Many nations have similar holidays."
+            ]
+        }
+    ],
+    "native": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who was born in a particular country or place",
+            "synonyms": [
+                "local",
+                "born resident",
+                "indigenous person"
+            ],
+            "examples": [
+                "She is a native of Canada.",
+                "He became friends with the native students."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "belonging naturally to a place or country",
+            "synonyms": [
+                "indigenous",
+                "local",
+                "natural",
+                "native"
+            ],
+            "examples": [
+                "This plant is native to the region.",
+                "My grandfather grew up in the area and knew the native animals."
+            ]
+        }
+    ],
+    "nicker": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a soft sound made by a horse",
+            "synonyms": [
+                "horse sound",
+                "neigh (soft)"
+            ],
+            "examples": [
+                "The horse gave a nicker as we approached.",
+                "I heard a nicker from the stable."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a soft sound like a horse",
+            "synonyms": [
+                "neigh",
+                "whinny (soft)"
+            ],
+            "examples": [
+                "The mare nickered when she saw the food.",
+                "The pony nickered to get attention."
+            ]
+        }
+    ],
+    "nicked": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having a small cut or scratch, or being lightly damaged",
+            "synonyms": [
+                "cut",
+                "scratched",
+                "damaged",
+                "nicked"
+            ],
+            "examples": [
+                "He had a nicked finger from the box cutter.",
+                "The paper was nicked at the corner."
+            ]
+        }
     ]
 }
