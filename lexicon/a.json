@@ -3587,5 +3587,172 @@
                 "No aught was written on the form."
             ]
         }
+    ],
+    "assess": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to judge or calculate the quality, size, or importance of something",
+            "synonyms": [
+                "evaluate",
+                "judge",
+                "estimate",
+                "appraise"
+            ],
+            "examples": [
+                "The doctor assessed her symptoms.",
+                "We assessed the damage after the storm."
+            ]
+        }
+    ],
+    "arctic": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "relating to the arctic region or having very cold conditions",
+            "synonyms": [
+                "freezing",
+                "polar",
+                "northern",
+                "ice-cold"
+            ],
+            "examples": [
+                "We saw arctic winds all night.",
+                "The Arctic climate is extremely cold."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "the far northern region of the earth near the north pole",
+            "synonyms": [
+                "polar region",
+                "north pole region"
+            ],
+            "examples": [
+                "The expedition traveled across the Arctic.",
+                "Many animals live in the Arctic."
+            ]
+        }
+    ],
+    "arthur": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a common male given name",
+            "synonyms": [],
+            "examples": [
+                "Arthur is coming to dinner tonight.",
+                "My uncle Arthur lives in Canada."
+            ]
+        }
+    ],
+    "attenuate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make something weaker, smaller, or less strong",
+            "synonyms": [
+                "reduce",
+                "diminish",
+                "lessen",
+                "weaken"
+            ],
+            "examples": [
+                "The medicine attenuates the pain.",
+                "The signal attenuates as it travels farther."
+            ]
+        }
+    ],
+    "acoustic": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "related to sound and hearing, or designed to improve how sound is heard in a room",
+            "synonyms": [
+                "sound-related",
+                "auditory",
+                "resonant",
+                "soundproofed"
+            ],
+            "examples": [
+                "The concert hall has excellent acoustic design.",
+                "This is an acoustic guitar, not electric."
+            ]
+        }
+    ],
+    "appendix": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a section at the end of a book or report that contains extra information",
+            "synonyms": [
+                "addendum",
+                "supplement",
+                "additional section",
+                "extra material"
+            ],
+            "examples": [
+                "The appendix includes the full data tables.",
+                "You can find definitions in the appendix."
+            ]
+        }
+    ],
+    "affray": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a public fight involving disturbance of people, often used in legal contexts",
+            "synonyms": [
+                "brawl",
+                "fight",
+                "scuffle",
+                "public fight"
+            ],
+            "examples": [
+                "The charges included affray after the incident.",
+                "Witnesses reported an affray in the street."
+            ]
+        }
+    ],
+    "antsy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "nervous or restless, especially because you are waiting",
+            "synonyms": [
+                "restless",
+                "nervous",
+                "uneasy",
+                "impatient"
+            ],
+            "examples": [
+                "I’m feeling antsy, so I’ll check my email again.",
+                "He became antsy during the long meeting."
+            ]
+        }
+    ],
+    "appease": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to calm someone or reduce anger or conflict",
+            "synonyms": [
+                "soothe",
+                "pacify",
+                "satisfy",
+                "settle"
+            ],
+            "examples": [
+                "They offered a compromise to appease everyone.",
+                "He gave a careful explanation to appease her concerns."
+            ]
+        }
+    ],
+    "assuage": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a feeling less intense, such as pain, fear, or worry",
+            "synonyms": [
+                "ease",
+                "reduce",
+                "relieve",
+                "soothe"
+            ],
+            "examples": [
+                "The medicine helped assuage the pain.",
+                "A friendly message can assuage anxiety."
+            ]
+        }
     ]
 }

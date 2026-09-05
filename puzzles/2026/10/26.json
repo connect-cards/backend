@@ -1,0 +1,53 @@
+{
+    "date": "2026-10-26",
+    "groups": [
+        {
+            "id": "2026-10-26-g1",
+            "type": "thematic_association",
+            "difficulty": "easy",
+            "title": "burial rites",
+            "words": [
+                "urn",
+                "bier",
+                "shroud",
+                "dirge"
+            ]
+        },
+        {
+            "id": "2026-10-26-g2",
+            "type": "literary_register",
+            "difficulty": "medium",
+            "title": "poetic contractions",
+            "words": [
+                "oer",
+                "oft",
+                "ere",
+                "nay"
+            ]
+        },
+        {
+            "id": "2026-10-26-g3",
+            "type": "etymological_relation",
+            "difficulty": "hard",
+            "title": "water roots",
+            "words": [
+                "aquatic",
+                "aqueous",
+                "aquifer",
+                "aquiline"
+            ]
+        },
+        {
+            "id": "2026-10-26-g4",
+            "type": "sound_association",
+            "difficulty": "very_hard",
+            "title": "hissing sounds",
+            "words": [
+                "sibilant",
+                "susurrus",
+                "whisper",
+                "murmur"
+            ]
+        }
+    ]
+}

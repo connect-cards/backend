@@ -1,0 +1,53 @@
+{
+    "date": "2026-10-01",
+    "groups": [
+        {
+            "id": "2026-10-01-g1",
+            "type": "etymological_relation",
+            "difficulty": "easy",
+            "title": "carriers",
+            "words": [
+                "bearer",
+                "porter",
+                "vector",
+                "vehicle"
+            ]
+        },
+        {
+            "id": "2026-10-01-g2",
+            "type": "synonym",
+            "difficulty": "medium",
+            "title": "harshness",
+            "words": [
+                "acerbity",
+                "asperity",
+                "rancor",
+                "virulence"
+            ]
+        },
+        {
+            "id": "2026-10-01-g3",
+            "type": "morphological_family",
+            "difficulty": "hard",
+            "title": "from break",
+            "words": [
+                "breach",
+                "brittle",
+                "broach",
+                "broken"
+            ]
+        },
+        {
+            "id": "2026-10-01-g4",
+            "type": "sound_association",
+            "difficulty": "very_hard",
+            "title": "long o start",
+            "words": [
+                "oaten",
+                "oboe",
+                "odium",
+                "ogive"
+            ]
+        }
+    ]
+}

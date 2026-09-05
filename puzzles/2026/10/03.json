@@ -1,0 +1,53 @@
+{
+    "date": "2026-10-03",
+    "groups": [
+        {
+            "id": "2026-10-03-g1",
+            "type": "profession_domain",
+            "difficulty": "easy",
+            "title": "law court",
+            "words": [
+                "brief",
+                "docket",
+                "statute",
+                "verdict"
+            ]
+        },
+        {
+            "id": "2026-10-03-g2",
+            "type": "morphological_family",
+            "difficulty": "medium",
+            "title": "from lead",
+            "words": [
+                "lode",
+                "lodestar",
+                "lodestone",
+                "load"
+            ]
+        },
+        {
+            "id": "2026-10-03-g3",
+            "type": "literary_register",
+            "difficulty": "hard",
+            "title": "lament",
+            "words": [
+                "bemoan",
+                "bewail",
+                "keen",
+                "rue"
+            ]
+        },
+        {
+            "id": "2026-10-03-g4",
+            "type": "informal_register",
+            "difficulty": "very_hard",
+            "title": "nonsense",
+            "words": [
+                "baloney",
+                "claptrap",
+                "drivel",
+                "twaddle"
+            ]
+        }
+    ]
+}

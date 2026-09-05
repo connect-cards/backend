@@ -6238,5 +6238,390 @@
                 "Take the curl to the left to reach the market."
             ]
         }
+    ],
+    "clod": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a thick piece of earth or mud",
+            "synonyms": [
+                "chunk",
+                "lump",
+                "clump",
+                "piece"
+            ],
+            "examples": [
+                "A clod of dirt fell onto my shoes.",
+                "The gardener broke up the clods of soil."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who is slow to understand or act, often in insult",
+            "synonyms": [
+                "fool",
+                "idiot",
+                "blockhead",
+                "simpleton"
+            ],
+            "examples": [
+                "Don’t be a clod; check the instructions.",
+                "He insulted her by calling her a clod."
+            ]
+        }
+    ],
+    "churl": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a rude, unkind person, especially someone who is unfriendly or ungrateful",
+            "synonyms": [
+                "lout",
+                "rude person",
+                "boor",
+                "mean person"
+            ],
+            "examples": [
+                "He acted like a churl when people offered help.",
+                "The churl refused to thank the host."
+            ]
+        }
+    ],
+    "cell": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small room where a prisoner is kept",
+            "synonyms": [
+                "prison",
+                "jail cell",
+                "detention room"
+            ],
+            "examples": [
+                "He spent a year in a cell.",
+                "The guard checked the cell each morning."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a small unit that is part of a living organism, such as in the body",
+            "synonyms": [
+                "unit",
+                "biological unit"
+            ],
+            "examples": [
+                "Skin contains many cells.",
+                "A cell divides to make new cells."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a small device that produces electrical power",
+            "synonyms": [
+                "battery cell",
+                "battery unit"
+            ],
+            "examples": [
+                "The flashlight needs a new cell.",
+                "One cell provides enough power for the device."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a room in a monastery used by a monk or nun",
+            "synonyms": [
+                "monk’s room",
+                "monastic room"
+            ],
+            "examples": [
+                "The monk lived in a quiet cell.",
+                "Visitors were allowed to see the cell."
+            ]
+        }
+    ],
+    "cowl": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a covering for the head and neck, often part of a garment or protective equipment",
+            "synonyms": [
+                "hood",
+                "head covering",
+                "cloak hood"
+            ],
+            "examples": [
+                "She pulled the cowl over her head in the rain.",
+                "The worker wore a cowl to protect against dust."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to cover with a hood or similar head covering",
+            "synonyms": [
+                "hood",
+                "cover",
+                "enclose",
+                "wrap up"
+            ],
+            "examples": [
+                "He coweled the machine to keep out dust.",
+                "They cowered with a thick cowl when it got colder."
+            ]
+        }
+    ],
+    "cloister": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a covered walkway or enclosed courtyard in a monastery or church",
+            "synonyms": [
+                "courtyard",
+                "covered passage",
+                "monastic courtyard"
+            ],
+            "examples": [
+                "The monk walked in the cloister each morning.",
+                "Tourists visited the cloister behind the cathedral."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to keep someone in a religious community and limit their contact with the outside world",
+            "synonyms": [
+                "confine",
+                "restrict",
+                "seclude",
+                "shut in"
+            ],
+            "examples": [
+                "They cloistered the novices for their training.",
+                "In the story, the leader cloistered herself."
+            ]
+        }
+    ],
+    "conscription": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the forced enlistment of people into the armed forces",
+            "synonyms": [
+                "draft",
+                "compulsory service",
+                "enlistment",
+                "military draft"
+            ],
+            "examples": [
+                "Conscription was introduced during the war.",
+                "Many countries ended conscription in the 20th century."
+            ]
+        }
+    ],
+    "confluence": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the place where two rivers, streams, or other things meet",
+            "synonyms": [
+                "junction",
+                "meeting point",
+                "convergence",
+                "joining"
+            ],
+            "examples": [
+                "They camped near the confluence of the two rivers.",
+                "The trail leads to a confluence."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "the coming together of events or forces",
+            "synonyms": [
+                "convergence",
+                "meeting",
+                "gathering",
+                "combination"
+            ],
+            "examples": [
+                "The confluence of problems made progress hard.",
+                "A confluence of factors led to the decision."
+            ]
+        }
+    ],
+    "carnal": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "related to physical or sexual desire",
+            "synonyms": [
+                "physical",
+                "sexual",
+                "sensual",
+                "worldly"
+            ],
+            "examples": [
+                "The text contrasts spiritual goals with carnal desires.",
+                "He believed in rejecting carnal pleasures."
+            ]
+        }
+    ],
+    "congest": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to become blocked or crowded, especially with blood, air, or fluid",
+            "synonyms": [
+                "clog",
+                "block",
+                "crowd",
+                "jam"
+            ],
+            "examples": [
+                "My nose feels like it’s congested because of the cold.",
+                "The street congesed with traffic during rush hour."
+            ]
+        }
+    ],
+    "creak": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a low, squeaking sound made by wood or metal under pressure",
+            "synonyms": [
+                "squeak",
+                "crack",
+                "groan",
+                "rustle"
+            ],
+            "examples": [
+                "The stairs gave a creak as I stepped on them.",
+                "I heard a creak from the door."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a low squeaking sound, especially when moving or when under strain",
+            "synonyms": [
+                "squeak",
+                "groan",
+                "crack",
+                "rustle"
+            ],
+            "examples": [
+                "The old chair creaked when she sat down.",
+                "The boat creaked in the wind."
+            ]
+        }
+    ],
+    "chariot": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a type of vehicle used in ancient times, usually pulled by horses",
+            "synonyms": [
+                "wagon",
+                "cart",
+                "two-horse cart"
+            ],
+            "examples": [
+                "In the museum, they displayed an ancient chariot.",
+                "The chariot moved quickly across the arena."
+            ]
+        }
+    ],
+    "caveat": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a warning about a limitation or condition of something",
+            "synonyms": [
+                "warning",
+                "qualification",
+                "restriction",
+                "reservation"
+            ],
+            "examples": [
+                "One caveat is that the results may not apply to everyone.",
+                "Please note this caveat before you decide."
+            ]
+        }
+    ],
+    "chump": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an awkward or foolish person, often used informally",
+            "synonyms": [
+                "fool",
+                "idiot",
+                "jerk",
+                "simpleton"
+            ],
+            "examples": [
+                "Don’t be a chump; check the details.",
+                "He realized he’d been talking to a chump."
+            ]
+        }
+    ],
+    "concisely": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "in a short and clear way, without extra information",
+            "synonyms": [
+                "briefly",
+                "succinctly",
+                "clearly",
+                "to the point"
+            ],
+            "examples": [
+                "Write your answer concisely.",
+                "The teacher explained the topic concisely."
+            ]
+        }
+    ],
+    "confabulate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to invent or create a story, sometimes to fill gaps in memory or to mislead",
+            "synonyms": [
+                "fabricate",
+                "invent",
+                "make up",
+                "concoct"
+            ],
+            "examples": [
+                "He confabulated an explanation when he couldn’t recall the facts.",
+                "The witness confabulated details during the interview."
+            ]
+        }
+    ],
+    "clarinet": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a woodwind musical instrument with a single reed and a distinct smooth tone",
+            "synonyms": [
+                "woodwind"
+            ],
+            "examples": [
+                "The clarinet carried the tune.",
+                "He started learning clarinet last year."
+            ]
+        }
+    ],
+    "compendious": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "brief but containing a lot of information",
+            "synonyms": [
+                "concise",
+                "compact",
+                "summarized",
+                "comprehensive"
+            ],
+            "examples": [
+                "The book is compendious and easy to consult.",
+                "He wrote a compendious guide for beginners."
+            ]
+        }
+    ],
+    "compositor": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who arranges text for printing, especially in traditional typesetting",
+            "synonyms": [
+                "typesetter",
+                "printer’s assistant"
+            ],
+            "examples": [
+                "The compositor prepared the pages for publication.",
+                "In the old shop, a compositor set the type by hand."
+            ]
+        }
     ]
 }

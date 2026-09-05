@@ -187,5 +187,60 @@
                 "The child yelped and ran to his mother."
             ]
         }
+    ],
+    "yak": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a large animal with long hair found in cold regions of asia",
+            "synonyms": [
+                "wild yak",
+                "bovid"
+            ],
+            "examples": [
+                "Yaks live in high mountains.",
+                "They saw a yak from the trail."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to talk or complain continuously in a loud way",
+            "synonyms": [
+                "jabber",
+                "yap",
+                "chatter",
+                "rant"
+            ],
+            "examples": [
+                "He was yaking about the same topic for hours.",
+                "Stop yaking and let me speak."
+            ]
+        }
+    ],
+    "yahoo": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a very informal word for an energetic but often silly person, or an insulting label",
+            "synonyms": [
+                "idiot",
+                "fool",
+                "clown",
+                "simpleton"
+            ],
+            "examples": [
+                "That yahoo keeps dropping everything.",
+                "He called the loud stranger a yahoo."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a company name used as the brand for a web portal or email service",
+            "synonyms": [
+                "yahoo"
+            ],
+            "examples": [
+                "I have a Yahoo email account.",
+                "Yahoo offers news and search services."
+            ]
+        }
     ]
 }

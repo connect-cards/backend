@@ -1,0 +1,53 @@
+{
+    "date": "2026-10-22",
+    "groups": [
+        {
+            "id": "2026-10-22-g1",
+            "type": "sound_association",
+            "difficulty": "easy",
+            "title": "sudden sounds",
+            "words": [
+                "clang",
+                "thud",
+                "hiss",
+                "whirr"
+            ]
+        },
+        {
+            "id": "2026-10-22-g2",
+            "type": "synonym",
+            "difficulty": "medium",
+            "title": "briefly",
+            "words": [
+                "tersely",
+                "succinctly",
+                "laconically",
+                "concisely"
+            ]
+        },
+        {
+            "id": "2026-10-22-g3",
+            "type": "semantic_field",
+            "difficulty": "hard",
+            "title": "map features",
+            "words": [
+                "isthmus",
+                "delta",
+                "lagoon",
+                "plateau"
+            ]
+        },
+        {
+            "id": "2026-10-22-g4",
+            "type": "etymological_relation",
+            "difficulty": "very_hard",
+            "title": "heart roots",
+            "words": [
+                "cordial",
+                "accord",
+                "discord",
+                "concord"
+            ]
+        }
+    ]
+}

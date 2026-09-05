@@ -1771,5 +1771,162 @@
                 "The willowy branches swayed in the wind."
             ]
         }
+    ],
+    "wort": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the sweet liquid made from grains during the brewing of beer, before fermentation",
+            "synonyms": [
+                "beer wort",
+                "brewing liquid"
+            ],
+            "examples": [
+                "The wort is boiled and then cooled for fermentation.",
+                "Brewers separate wort from the grains."
+            ]
+        }
+    ],
+    "wreath": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a ring of flowers, leaves, or other materials used for decoration or remembrance",
+            "synonyms": [
+                "garland",
+                "circle of flowers",
+                "decorative ring"
+            ],
+            "examples": [
+                "They placed a wreath at the memorial.",
+                "A wreath hung on the front door."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to surround with something, especially in a circle",
+            "synonyms": [
+                "surround",
+                "encircle",
+                "crown"
+            ],
+            "examples": [
+                "Vines wreath the fence in summer.",
+                "Smoke wreaths around the room."
+            ]
+        }
+    ],
+    "wee": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very small, in amount or size",
+            "synonyms": [
+                "tiny",
+                "small",
+                "little",
+                "minor"
+            ],
+            "examples": [
+                "I’ll take a wee bit of sugar.",
+                "She moved a wee chair into the corner."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a very small amount",
+            "synonyms": [
+                "tiny amount",
+                "little bit",
+                "smidgen",
+                "trace"
+            ],
+            "examples": [
+                "Wait a wee while and I’ll be ready.",
+                "Add a wee of salt."
+            ]
+        }
+    ],
+    "waspish": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "quick to criticize or reply in an annoying, sharp way",
+            "synonyms": [
+                "irritable",
+                "snappy",
+                "sharp-tongued",
+                "grumpy"
+            ],
+            "examples": [
+                "Her waspish tone made everyone tense.",
+                "He became waspish when the question was repeated."
+            ]
+        }
+    ],
+    "weft": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the threads that run across fabric, perpendicular to the warp",
+            "synonyms": [
+                "filling",
+                "filling threads",
+                "cross threads"
+            ],
+            "examples": [
+                "The weft holds the pattern together.",
+                "Weft threads were visible on the surface."
+            ]
+        }
+    ],
+    "wyrd": [
+        {
+            "part_of_speech": "noun",
+            "definition": "fate or destiny, especially in older literature and folklore",
+            "synonyms": [
+                "fate",
+                "destiny"
+            ],
+            "examples": [
+                "In the legend, the wyrd decided their outcome.",
+                "The story treats wyrd as unstoppable."
+            ]
+        }
+    ],
+    "weal": [
+        {
+            "part_of_speech": "noun",
+            "definition": "well-being or welfare, especially for a group of people",
+            "synonyms": [
+                "well-being",
+                "welfare",
+                "prosperity",
+                "good"
+            ],
+            "examples": [
+                "The plan supports the weal of the community.",
+                "They acted for the weal of all citizens."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a place or village of a certain kind, in old or dialect use",
+            "synonyms": [],
+            "examples": [
+                "The historical map shows a small weal near the river."
+            ]
+        }
+    ],
+    "wally": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a foolish or silly person, used informally",
+            "synonyms": [
+                "idiot",
+                "fool",
+                "jerk",
+                "simpleton"
+            ],
+            "examples": [
+                "He’s such a wally for forgetting his keys.",
+                "Stop acting like a wally and help me."
+            ]
+        }
     ]
 }

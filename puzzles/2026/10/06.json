@@ -1,0 +1,53 @@
+{
+    "date": "2026-10-06",
+    "groups": [
+        {
+            "id": "2026-10-06-g1",
+            "type": "informal_register",
+            "difficulty": "easy",
+            "title": "chatty speech",
+            "words": [
+                "yak",
+                "gab",
+                "natter",
+                "prattle"
+            ]
+        },
+        {
+            "id": "2026-10-06-g2",
+            "type": "etymological_relation",
+            "difficulty": "medium",
+            "title": "heart roots",
+            "words": [
+                "cordial",
+                "accord",
+                "discord",
+                "record"
+            ]
+        },
+        {
+            "id": "2026-10-06-g3",
+            "type": "profession_domain",
+            "difficulty": "hard",
+            "title": "mason's terms",
+            "words": [
+                "spall",
+                "plumb",
+                "lintel",
+                "quoin"
+            ]
+        },
+        {
+            "id": "2026-10-06-g4",
+            "type": "morphological_family",
+            "difficulty": "very_hard",
+            "title": "break forms",
+            "words": [
+                "fracture",
+                "fraction",
+                "refract",
+                "frangible"
+            ]
+        }
+    ]
+}

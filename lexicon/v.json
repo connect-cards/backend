@@ -1047,5 +1047,21 @@
                 "He bought the expensive watch out of vanity."
             ]
         }
+    ],
+    "viaduct": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a long bridge-like structure that carries a road or railway over a valley or another road",
+            "synonyms": [
+                "bridge",
+                "overpass",
+                "rail bridge",
+                "bridge structure"
+            ],
+            "examples": [
+                "The train crossed the viaduct at high speed.",
+                "They built a viaduct to carry the highway over the river."
+            ]
+        }
     ]
 }

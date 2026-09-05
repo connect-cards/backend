@@ -3444,5 +3444,211 @@
                 "The comedian roasted the politician gently."
             ]
         }
+    ],
+    "reside": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to live in a place",
+            "synonyms": [
+                "live",
+                "dwell",
+                "stay",
+                "inhabit"
+            ],
+            "examples": [
+                "She resides in Boston.",
+                "How long have you resided here?"
+            ]
+        }
+    ],
+    "record": [
+        {
+            "part_of_speech": "noun",
+            "definition": "information stored or written to show what happened or what someone did",
+            "synonyms": [
+                "file",
+                "log",
+                "account",
+                "history"
+            ],
+            "examples": [
+                "The record shows when the payment was made.",
+                "I kept a record of my expenses."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a set of musical tracks on a disc or tape",
+            "synonyms": [
+                "album",
+                "music disc",
+                "lp",
+                "tape"
+            ],
+            "examples": [
+                "I found an old record at the shop.",
+                "They listened to a jazz record."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to store information or events so they can be kept and checked later",
+            "synonyms": [
+                "store",
+                "log",
+                "register",
+                "document"
+            ],
+            "examples": [
+                "Please record your answers on the form.",
+                "The camera recorded the accident."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a sound or performance using an audio or video device",
+            "synonyms": [
+                "document",
+                "capture",
+                "record a performance",
+                "lay down"
+            ],
+            "examples": [
+                "We recorded the song in one afternoon.",
+                "The band will record a new album next month."
+            ]
+        }
+    ],
+    "refract": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to bend or change direction when light passes through a material",
+            "synonyms": [
+                "bend",
+                "deflect",
+                "change direction"
+            ],
+            "examples": [
+                "Light refracts when it enters water.",
+                "The lens is designed to refract the beam."
+            ]
+        }
+    ],
+    "refractory": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "refusing to obey or being difficult to control",
+            "synonyms": [
+                "uncooperative",
+                "defiant",
+                "resistant",
+                "hard to manage"
+            ],
+            "examples": [
+                "Some students were refractory and wouldn’t follow rules.",
+                "The machine became refractory to the new settings."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "able to withstand high heat without melting or breaking down",
+            "synonyms": [
+                "heat-resistant",
+                "high-temperature resistant"
+            ],
+            "examples": [
+                "Refractory materials line furnaces.",
+                "The kiln uses refractory bricks."
+            ]
+        }
+    ],
+    "rigor": [
+        {
+            "part_of_speech": "noun",
+            "definition": "strictness and careful attention to rules, standards, or procedures",
+            "synonyms": [
+                "strictness",
+                "precision",
+                "thoroughness",
+                "discipline"
+            ],
+            "examples": [
+                "The project needed rigor in the testing process.",
+                "Her work is known for its rigor."
+            ]
+        }
+    ],
+    "rule": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a statement that tells people what they must or must not do",
+            "synonyms": [
+                "regulation",
+                "guideline",
+                "principle",
+                "law"
+            ],
+            "examples": [
+                "Read the rules before playing.",
+                "The rules of the game were explained clearly."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to decide something officially, especially in law or sports",
+            "synonyms": [
+                "decide",
+                "judge",
+                "rule on",
+                "determine"
+            ],
+            "examples": [
+                "The judge ruled that the evidence could not be used.",
+                "The referee ruled against the team."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to control or have power over a group or country",
+            "synonyms": [
+                "govern",
+                "rule over",
+                "lead",
+                "administer"
+            ],
+            "examples": [
+                "She ruled the kingdom for ten years.",
+                "The dynasty ruled the region for centuries."
+            ]
+        }
+    ],
+    "ratty": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "unpleasantly worn, torn, or dirty",
+            "synonyms": [
+                "ragged",
+                "tattered",
+                "shabby",
+                "worn-out"
+            ],
+            "examples": [
+                "My old jacket is ratty, but it still works.",
+                "The room looked ratty after the party."
+            ]
+        }
+    ],
+    "recorder": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small wind instrument with finger holes, often used for learning music",
+            "synonyms": [
+                "wind instrument"
+            ],
+            "examples": [
+                "My child plays the recorder at school.",
+                "The song is written for recorder and piano."
+            ]
+        }
     ]
 }

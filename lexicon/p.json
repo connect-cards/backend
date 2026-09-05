@@ -3871,5 +3871,248 @@
                 "The wall was propped after the earthquake."
             ]
         }
+    ],
+    "parsimony": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the habit of using too little money or giving too little, especially when it is unnecessary",
+            "synonyms": [
+                "thrift",
+                "stinginess",
+                "miserliness",
+                "frugality"
+            ],
+            "examples": [
+                "His parsimony prevented him from buying helpful tools.",
+                "The company showed parsimony in its spending."
+            ]
+        }
+    ],
+    "plumb": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to measure the depth of something, especially by lowering a weight on a line",
+            "synonyms": [
+                "measure",
+                "sound",
+                "check depth",
+                "take a reading"
+            ],
+            "examples": [
+                "They plumbed the well to see how deep it was.",
+                "The diver plumbed the water near the pier."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to understand something deeply",
+            "synonyms": [
+                "fathom",
+                "understand",
+                "grasp",
+                "penetrate"
+            ],
+            "examples": [
+                "I can’t plumb why he reacted that way.",
+                "Scientists are trying to plumb the causes of the disease."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "perfectly vertical or straight up",
+            "synonyms": [
+                "vertical",
+                "straight",
+                "upright"
+            ],
+            "examples": [
+                "Hang the picture plumb on the wall.",
+                "The pole was plumb in the ground."
+            ]
+        }
+    ],
+    "preface": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an introductory statement or short section at the beginning of a book, document, or speech",
+            "synonyms": [
+                "introduction",
+                "foreword",
+                "opening",
+                "remarks"
+            ],
+            "examples": [
+                "The preface explains why the author wrote the book.",
+                "Read the preface before you start the chapters."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to introduce something with a statement that comes before it",
+            "synonyms": [
+                "introduce",
+                "begin",
+                "precede",
+                "set the stage"
+            ],
+            "examples": [
+                "She prefaced her answer with a short apology.",
+                "The report was prefaced by a summary."
+            ]
+        }
+    ],
+    "panegyrize": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to praise someone or something in a very enthusiastic way",
+            "synonyms": [
+                "praise",
+                "celebrate",
+                "extol",
+                "laud"
+            ],
+            "examples": [
+                "He panegyrized the new manager during the speech.",
+                "The article panegyrized the athlete’s achievements."
+            ]
+        }
+    ],
+    "precise": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "exact and careful; giving details that are accurate",
+            "synonyms": [
+                "exact",
+                "accurate",
+                "specific",
+                "exacting"
+            ],
+            "examples": [
+                "Use precise measurements when you bake.",
+                "She gave a precise explanation of the plan."
+            ]
+        }
+    ],
+    "patter": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a continuous series of small quick sounds, often of footsteps or rain",
+            "synonyms": [
+                "drip",
+                "tap",
+                "sound of footsteps",
+                "rustle"
+            ],
+            "examples": [
+                "We heard a patter of rain on the roof.",
+                "The patter of footsteps in the hall kept me awake."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a series of light, repeated sounds",
+            "synonyms": [
+                "tap",
+                "drip",
+                "pat",
+                "tick",
+                "drum"
+            ],
+            "examples": [
+                "Rain started to patter against the window.",
+                "The mice patter across the floor at night."
+            ]
+        }
+    ],
+    "plateau": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an area of high flat land",
+            "synonyms": [
+                "high plain",
+                "tableland",
+                "high plateau"
+            ],
+            "examples": [
+                "The town sits on a plateau above the valley.",
+                "A plateau covers much of the region."
+            ]
+        }
+    ],
+    "placate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make someone less angry by doing or saying something reassuring",
+            "synonyms": [
+                "appease",
+                "soothe",
+                "calm",
+                "pacify"
+            ],
+            "examples": [
+                "The manager tried to placate the customer with an apology.",
+                "She placated him by listening first."
+            ]
+        }
+    ],
+    "paralegal": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who assists a lawyer with legal work",
+            "synonyms": [
+                "legal assistant",
+                "assistant",
+                "law clerk"
+            ],
+            "examples": [
+                "The paralegal helped organize the case files.",
+                "She works as a paralegal at a law firm."
+            ]
+        }
+    ],
+    "pertinacious": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "refusing to give up; persistent and stubborn in continuing",
+            "synonyms": [
+                "persistent",
+                "tenacious",
+                "stubborn",
+                "hardheaded"
+            ],
+            "examples": [
+                "He was pertinacious in asking follow-up questions.",
+                "Her pertinacious efforts finally paid off."
+            ]
+        }
+    ],
+    "palimpsest": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a manuscript page where older writing was erased and new writing was added",
+            "synonyms": [
+                "reused manuscript",
+                "overwritten text"
+            ],
+            "examples": [
+                "The palimpsest revealed earlier letters beneath the new ink.",
+                "Researchers studied the palimpsest to read the hidden text."
+            ]
+        }
+    ],
+    "papermaker": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who makes paper",
+            "synonyms": [
+                "paper producer",
+                "papermill worker",
+                "paper manufacturer"
+            ],
+            "examples": [
+                "The papermaker explained how fibers become paper.",
+                "My grandfather worked as a papermaker."
+            ]
+        }
     ]
 }

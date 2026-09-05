@@ -390,5 +390,49 @@
                 "The designer changed the kerning to improve readability."
             ]
         }
+    ],
+    "keen": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "eager and excited about doing something",
+            "synonyms": [
+                "eager",
+                "enthusiastic",
+                "avid",
+                "eagerly"
+            ],
+            "examples": [
+                "I’m keen to start the project next week.",
+                "She was keen on learning Spanish."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "able to notice or understand things quickly",
+            "synonyms": [
+                "sharp",
+                "perceptive",
+                "alert",
+                "sensitive"
+            ],
+            "examples": [
+                "He has a keen eye for details.",
+                "Her keen understanding helped the team."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "strong and intense, especially of feelings or sound",
+            "synonyms": [
+                "sharp",
+                "intense",
+                "piercing",
+                "strong"
+            ],
+            "examples": [
+                "There was a keen cold in the morning air.",
+                "He heard a keen whistle in the distance."
+            ]
+        }
     ]
 }
