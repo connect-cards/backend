@@ -1,0 +1,53 @@
+{
+    "date": "2026-10-24",
+    "groups": [
+        {
+            "id": "2026-10-24-g1",
+            "type": "synonym",
+            "difficulty": "easy",
+            "title": "stingy",
+            "words": [
+                "mean",
+                "miserly",
+                "penurious",
+                "parsimonious"
+            ]
+        },
+        {
+            "id": "2026-10-24-g2",
+            "type": "emotional_tone",
+            "difficulty": "medium",
+            "title": "restless moods",
+            "words": [
+                "antsy",
+                "fretful",
+                "jittery",
+                "skittish"
+            ]
+        },
+        {
+            "id": "2026-10-24-g3",
+            "type": "etymological_relation",
+            "difficulty": "hard",
+            "title": "light roots",
+            "words": [
+                "lucid",
+                "translucent",
+                "pellucid",
+                "elucidate"
+            ]
+        },
+        {
+            "id": "2026-10-24-g4",
+            "type": "morphological_family",
+            "difficulty": "very_hard",
+            "title": "speaking roots",
+            "words": [
+                "fable",
+                "affable",
+                "ineffable",
+                "confabulate"
+            ]
+        }
+    ]
+}

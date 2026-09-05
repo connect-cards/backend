@@ -2800,5 +2800,662 @@
                 "Our boat is in a berth at the marina."
             ]
         }
+    ],
+    "bearer": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person or thing that carries, holds, or brings something",
+            "synonyms": [
+                "carrier",
+                "transporter",
+                "handler",
+                "custodian"
+            ],
+            "examples": [
+                "The bearer of the message arrived at noon.",
+                "The document lists the bearer as the legal receiver."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who carries money, documents, or a card and can use them for the transaction",
+            "synonyms": [
+                "holder",
+                "possessor",
+                "customer"
+            ],
+            "examples": [
+                "The ticket is valid for the bearer.",
+                "The bank accepts the check from the bearer."
+            ]
+        }
+    ],
+    "broach": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to start discussing a topic, especially a difficult one",
+            "synonyms": [
+                "introduce",
+                "raise",
+                "bring up",
+                "start"
+            ],
+            "examples": [
+                "She was nervous to broach the subject.",
+                "He broached the issue with his manager."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to pierce or break open something",
+            "synonyms": [
+                "pierce",
+                "break",
+                "cut into",
+                "open"
+            ],
+            "examples": [
+                "The ship’s hull was broached by the storm damage.",
+                "A leak broached the container and spilled the liquid."
+            ]
+        }
+    ],
+    "broken": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "not working or not in pieces, or damaged and unable to function properly",
+            "synonyms": [
+                "damaged",
+                "broken-down",
+                "in pieces",
+                "ruined"
+            ],
+            "examples": [
+                "The screen is broken, so I can’t see anything.",
+                "The vase fell and now it is broken."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "not controlled in a regular or orderly way",
+            "synonyms": [
+                "disordered",
+                "uneven",
+                "disruptive",
+                "chaotic"
+            ],
+            "examples": [
+                "His schedule became broken after the move.",
+                "The team’s play was broken by penalties."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "not following a plan or agreement properly",
+            "synonyms": [
+                "violated",
+                "breached",
+                "unkept",
+                "disobeyed"
+            ],
+            "examples": [
+                "They were accused of breaking the rules.",
+                "The contract includes penalties for broken promises."
+            ]
+        }
+    ],
+    "band": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a group of musicians who play together",
+            "synonyms": [
+                "group",
+                "music group",
+                "ensemble",
+                "orchestra"
+            ],
+            "examples": [
+                "Their band performs every weekend.",
+                "I bought tickets to see the band live."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a strip or ring of material around something",
+            "synonyms": [
+                "strap",
+                "ring",
+                "bandage",
+                "loop"
+            ],
+            "examples": [
+                "She wore a gold band on her finger.",
+                "The rope forms a tight band around the box."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "an organized group that does illegal or violent activities",
+            "synonyms": [
+                "gang",
+                "crew",
+                "mafia",
+                "gangster group"
+            ],
+            "examples": [
+                "Police arrested members of the robbery band.",
+                "The band robbed stores across the city."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a specified range of frequencies or wavelengths, especially in radio or audio",
+            "synonyms": [
+                "range",
+                "frequency band",
+                "spectrum band",
+                "channel"
+            ],
+            "examples": [
+                "The signal fits within a narrow band.",
+                "Switch to a clearer band for better reception."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to surround or bind with a band or bands",
+            "synonyms": [
+                "bind",
+                "strap",
+                "encircle",
+                "wrap"
+            ],
+            "examples": [
+                "They banded the stacks of paper for shipping.",
+                "The nurse banded the injury to reduce swelling."
+            ]
+        }
+    ],
+    "bond": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a legal agreement in which someone promises to pay or provide compensation if rules are not followed",
+            "synonyms": [
+                "surety",
+                "guarantee",
+                "contract",
+                "undertaking"
+            ],
+            "examples": [
+                "He posted a bond to get out of jail.",
+                "The court required a bond."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a connection that makes two things stick together, such as in science or materials",
+            "synonyms": [
+                "adhesion",
+                "connection",
+                "attachment",
+                "link"
+            ],
+            "examples": [
+                "A strong bond formed between the surfaces.",
+                "The glue creates a durable bond."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a debt security that a company or government issues and pays interest on",
+            "synonyms": [
+                "debt security",
+                "fixed-income security",
+                "note",
+                "debenture"
+            ],
+            "examples": [
+                "The government issued new bonds this year.",
+                "She bought a bond with a short maturity."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a close relationship based on trust or shared experiences",
+            "synonyms": [
+                "connection",
+                "relationship",
+                "link",
+                "rapport"
+            ],
+            "examples": [
+                "They developed a bond through volunteering.",
+                "Family bonds are important to many people."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to form a bond or stick firmly together",
+            "synonyms": [
+                "adhere",
+                "attach",
+                "join",
+                "clasp"
+            ],
+            "examples": [
+                "The two metals bond when heated properly.",
+                "The plastic can bond to glass using this adhesive."
+            ]
+        }
+    ],
+    "bundle": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a group of things tied or wrapped together",
+            "synonyms": [
+                "packet",
+                "bundle of",
+                "stack",
+                "package"
+            ],
+            "examples": [
+                "She carried a bundle of papers under her arm.",
+                "The mailman delivered a bundle of magazines."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a set of computer files or components that work together",
+            "synonyms": [
+                "package",
+                "set",
+                "collection",
+                "archive"
+            ],
+            "examples": [
+                "The update came as a bundle.",
+                "The program is installed as a bundle of modules."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to tie or wrap things together as a group",
+            "synonyms": [
+                "bundle up",
+                "package",
+                "pack",
+                "tie"
+            ],
+            "examples": [
+                "Bundle the cables so they don’t tangle.",
+                "They bundled the blankets for storage."
+            ]
+        }
+    ],
+    "bound": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "likely to happen in a certain way very soon, especially in informal speech",
+            "synonyms": [
+                "sure",
+                "certain",
+                "likely",
+                "going to"
+            ],
+            "examples": [
+                "It’s bound to rain later.",
+                "He’s bound to be late if he misses the bus."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "having a limit or boundary",
+            "synonyms": [
+                "limited",
+                "restricted",
+                "enclosed",
+                "bounded"
+            ],
+            "examples": [
+                "The problem has bound limits in the model.",
+                "The river’s bound banks reduce the flood area."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to jump or leap with force",
+            "synonyms": [
+                "jump",
+                "leap",
+                "spring",
+                "bounce"
+            ],
+            "examples": [
+                "The dog bounded across the yard.",
+                "She bounded down the stairs."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to move to a higher position or condition quickly",
+            "synonyms": [
+                "surge",
+                "shoot up",
+                "rise",
+                "leap"
+            ],
+            "examples": [
+                "Prices bounded after the announcement.",
+                "Sales bounded in the last quarter."
+            ]
+        }
+    ],
+    "bloviate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to speak at length in a confident but often empty or overly long way",
+            "synonyms": [
+                "talk",
+                "rant",
+                "ramble",
+                "bluster"
+            ],
+            "examples": [
+                "He bloviateed during the meeting instead of answering questions.",
+                "The speaker bloviateed for an hour with no clear point."
+            ]
+        }
+    ],
+    "brag": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to speak proudly about your own achievements or abilities, sometimes to impress others",
+            "synonyms": [
+                "boast",
+                "show off",
+                "vaunt",
+                "talk big"
+            ],
+            "examples": [
+                "He tends to brag about his grades.",
+                "Don’t brag; just do the work."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "self-proud talk about your achievements",
+            "synonyms": [
+                "boast",
+                "bragging",
+                "vaunt",
+                "boaster’s talk"
+            ],
+            "examples": [
+                "That kind of brag won’t help you here.",
+                "Her brag about the trip annoyed people."
+            ]
+        }
+    ],
+    "bemoan": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to express sadness or complaint about something that has happened",
+            "synonyms": [
+                "lament",
+                "mourn",
+                "deplore",
+                "complain"
+            ],
+            "examples": [
+                "She bemoaned the delay all morning.",
+                "He bemoaned his luck after the game."
+            ]
+        }
+    ],
+    "bewail": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to express strong regret or sadness about something",
+            "synonyms": [
+                "lament",
+                "mourn",
+                "deplore",
+                "grieve"
+            ],
+            "examples": [
+                "They bewail the loss of their friend.",
+                "She bewails the mistakes she made."
+            ]
+        }
+    ],
+    "boom": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a deep loud sound",
+            "synonyms": [
+                "bang",
+                "bellow",
+                "thunderous sound",
+                "boom sound"
+            ],
+            "examples": [
+                "The explosion was followed by a boom.",
+                "I heard a boom from the next room."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a period when business or the economy grows quickly",
+            "synonyms": [
+                "growth period",
+                "surge",
+                "economic upswing",
+                "boomtime"
+            ],
+            "examples": [
+                "The city’s boom brought new jobs.",
+                "They planned the expansion during the boom."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a deep loud sound",
+            "synonyms": [
+                "thunder",
+                "resound",
+                "rumble",
+                "bellow"
+            ],
+            "examples": [
+                "The speakers boomed across the hall.",
+                "A truck hit the wall and the metal boomed."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to grow or develop rapidly",
+            "synonyms": [
+                "grow",
+                "surge",
+                "expand",
+                "increase quickly"
+            ],
+            "examples": [
+                "Sales boomed after the new ad campaign.",
+                "The industry boomed in the 1990s."
+            ]
+        }
+    ],
+    "boor": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a rude, insensitive person who behaves badly in social situations",
+            "synonyms": [
+                "lout",
+                "rude person",
+                "ogre",
+                "jerk"
+            ],
+            "examples": [
+                "He was a boor at the dinner table.",
+                "The party was ruined by one boor who wouldn’t listen."
+            ]
+        }
+    ],
+    "basting": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the act of brushing meat with fat or liquid during cooking to keep it moist",
+            "synonyms": [
+                "baste",
+                "moistening"
+            ],
+            "examples": [
+                "Basting helps the chicken stay juicy.",
+                "Add basting every 20 minutes."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a sewing method where long loose stitches hold fabric temporarily",
+            "synonyms": [
+                "tacking",
+                "tack stitching"
+            ],
+            "examples": [
+                "She did some basting to hold the lining in place.",
+                "The tailor used basting before the final stitches."
+            ]
+        }
+    ],
+    "bruin": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a bear, especially in older or literary contexts",
+            "synonyms": [
+                "bear"
+            ],
+            "examples": [
+                "A bruin appeared near the campsite.",
+                "The story described a bruin in the forest."
+            ]
+        }
+    ],
+    "blackice": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a thin, nearly invisible layer of ice on a road that is very dangerous",
+            "synonyms": [
+                "ice",
+                "glaze ice"
+            ],
+            "examples": [
+                "Cars skidded because of black ice.",
+                "Be careful in the morning; black ice can form quickly."
+            ]
+        }
+    ],
+    "bier": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a frame or stand used to hold a dead body during a funeral",
+            "synonyms": [
+                "casket stand",
+                "funeral stand",
+                "platform"
+            ],
+            "examples": [
+                "They placed the flowers on the bier.",
+                "The body lay on the bier in the chapel."
+            ]
+        }
+    ],
+    "blazon": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a public symbol or design on a shield, coat of arms, or banner",
+            "synonyms": [
+                "coat of arms",
+                "arms",
+                "emblem",
+                "shield design"
+            ],
+            "examples": [
+                "The blazon showed the family name and symbols.",
+                "The museum displayed a blazon from the medieval period."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to display or describe a coat of arms or a symbol in a formal way",
+            "synonyms": [
+                "display",
+                "declare",
+                "describe"
+            ],
+            "examples": [
+                "The page blazons the family coat of arms.",
+                "Her book blazons the symbols used on historic shields."
+            ]
+        }
+    ],
+    "breviary": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a book of prayers used in christian religious services",
+            "synonyms": [
+                "prayer book",
+                "liturgical book"
+            ],
+            "examples": [
+                "He carried a breviary during his travels.",
+                "The priest’s breviary contained daily prayers."
+            ]
+        }
+    ],
+    "bane": [
+        {
+            "part_of_speech": "noun",
+            "definition": "something that causes harm or brings trouble",
+            "synonyms": [
+                "poison",
+                "harm",
+                "curse",
+                "killer"
+            ],
+            "examples": [
+                "Smoking is a bane to health.",
+                "Lack of sleep can be a bane to productivity."
+            ]
+        }
+    ],
+    "bassoon": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a woodwind musical instrument with a double reed and a deep sound",
+            "synonyms": [
+                "woodwind"
+            ],
+            "examples": [
+                "The bassoon added a deep note to the melody.",
+                "She played bassoon in the school orchestra."
+            ]
+        }
+    ],
+    "boob": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an unintelligent person, used as an informal insult",
+            "synonyms": [
+                "fool",
+                "idiot",
+                "jerk",
+                "simpleton"
+            ],
+            "examples": [
+                "Don’t be a boob; double-check the email.",
+                "He realized he’d been fooled by a boobish scam."
+            ]
+        }
     ]
 }

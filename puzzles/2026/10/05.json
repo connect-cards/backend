@@ -1,0 +1,53 @@
+{
+    "date": "2026-10-05",
+    "groups": [
+        {
+            "id": "2026-10-05-g1",
+            "type": "informal_register",
+            "difficulty": "easy",
+            "title": "casual insults",
+            "words": [
+                "twit",
+                "clod",
+                "boor",
+                "churl"
+            ]
+        },
+        {
+            "id": "2026-10-05-g2",
+            "type": "profession_domain",
+            "difficulty": "medium",
+            "title": "seamstress tools",
+            "words": [
+                "thimble",
+                "bodkin",
+                "selvage",
+                "basting"
+            ]
+        },
+        {
+            "id": "2026-10-05-g3",
+            "type": "etymological_relation",
+            "difficulty": "hard",
+            "title": "bear namesakes",
+            "words": [
+                "ursine",
+                "arctic",
+                "bruin",
+                "arthur"
+            ]
+        },
+        {
+            "id": "2026-10-05-g4",
+            "type": "physical_trait",
+            "difficulty": "very_hard",
+            "title": "gauntness",
+            "words": [
+                "cadaverous",
+                "haggard",
+                "rangy",
+                "attenuate"
+            ]
+        }
+    ]
+}

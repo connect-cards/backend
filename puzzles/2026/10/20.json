@@ -1,0 +1,53 @@
+{
+    "date": "2026-10-20",
+    "groups": [
+        {
+            "id": "2026-10-20-g1",
+            "type": "profession_domain",
+            "difficulty": "easy",
+            "title": "typography",
+            "words": [
+                "kerning",
+                "leading",
+                "ligature",
+                "serif"
+            ]
+        },
+        {
+            "id": "2026-10-20-g2",
+            "type": "sound_association",
+            "difficulty": "medium",
+            "title": "soft footfalls",
+            "words": [
+                "pad",
+                "patter",
+                "scuff",
+                "shuffle"
+            ]
+        },
+        {
+            "id": "2026-10-20-g3",
+            "type": "informal_register",
+            "difficulty": "hard",
+            "title": "worthless person",
+            "words": [
+                "chump",
+                "creep",
+                "twit",
+                "twerp"
+            ]
+        },
+        {
+            "id": "2026-10-20-g4",
+            "type": "emotional_tone",
+            "difficulty": "very_hard",
+            "title": "irritable moods",
+            "words": [
+                "testy",
+                "peevish",
+                "waspish",
+                "splenetic"
+            ]
+        }
+    ]
+}

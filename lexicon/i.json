@@ -2375,5 +2375,82 @@
                 "She infolded the paper to make a neat packet."
             ]
         }
+    ],
+    "influx": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a sudden arrival or increase in people or things",
+            "synonyms": [
+                "arrival",
+                "inflow",
+                "increase",
+                "surge"
+            ],
+            "examples": [
+                "There was an influx of tourists during summer.",
+                "The city saw an influx of new residents."
+            ]
+        }
+    ],
+    "ineluctable": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "impossible to avoid or stop; certain to happen",
+            "synonyms": [
+                "inevitable",
+                "unavoidable",
+                "certain",
+                "fated"
+            ],
+            "examples": [
+                "Death felt ineluctable in the story.",
+                "The consequences were ineluctable once the law changed."
+            ]
+        }
+    ],
+    "innate": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "existing naturally from birth; not learned",
+            "synonyms": [
+                "natural",
+                "inborn",
+                "born",
+                "built-in"
+            ],
+            "examples": [
+                "Some people have innate talent for music.",
+                "Curiosity is innate in children."
+            ]
+        }
+    ],
+    "isthmus": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a narrow strip of land connecting two larger areas of land",
+            "synonyms": [
+                "land bridge",
+                "narrow neck of land",
+                "neck of land"
+            ],
+            "examples": [
+                "The island lies on an isthmus between two bays.",
+                "The isthmus is only a few kilometers wide."
+            ]
+        }
+    ],
+    "impositor": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person or device that imposes or sets pages for printing",
+            "synonyms": [
+                "typesetter",
+                "imposing operator"
+            ],
+            "examples": [
+                "The impositor arranged the pages for the press layout.",
+                "The printer hired an impositor for the job."
+            ]
+        }
     ]
 }

@@ -1753,5 +1753,255 @@
                 "The sheep were grazing on the lea."
             ]
         }
+    ],
+    "lode": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a deposit of valuable minerals in rock",
+            "synonyms": [
+                "ore deposit",
+                "vein",
+                "mineral deposit",
+                "seam"
+            ],
+            "examples": [
+                "The mine sits on a rich lode of copper.",
+                "Explorers found a new gold lode."
+            ]
+        }
+    ],
+    "lodestar": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a guiding principle or influence that helps someone decide what to do",
+            "synonyms": [
+                "guiding star",
+                "guideline",
+                "compass",
+                "model"
+            ],
+            "examples": [
+                "Her values became her lodestar during the tough years.",
+                "The team’s mission is our lodestar."
+            ]
+        }
+    ],
+    "lodestone": [
+        {
+            "part_of_speech": "noun",
+            "definition": "something that strongly attracts or influences people",
+            "synonyms": [
+                "magnet",
+                "attractor",
+                "inspiration",
+                "guiding force"
+            ],
+            "examples": [
+                "Success became a lodestone for him.",
+                "The promise of a better life acted as a lodestone."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a naturally magnetized stone, historically used for navigation",
+            "synonyms": [
+                "magnetite",
+                "magnetic stone"
+            ],
+            "examples": [
+                "In old stories, a lodestone helped sailors find direction.",
+                "The lodestone attracts small iron objects."
+            ]
+        }
+    ],
+    "load": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the amount of something that is carried or transported",
+            "synonyms": [
+                "cargo",
+                "loadout",
+                "batch",
+                "quantity"
+            ],
+            "examples": [
+                "The truck has a heavy load.",
+                "She carried a load of groceries."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "an amount of work, stress, or responsibility placed on someone",
+            "synonyms": [
+                "workload",
+                "burden",
+                "responsibility",
+                "pressure"
+            ],
+            "examples": [
+                "The new role increased her load.",
+                "He managed the heavy load by working in stages."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "an electrical device’s demand for power",
+            "synonyms": [
+                "demand",
+                "power use",
+                "draw",
+                "requirements"
+            ],
+            "examples": [
+                "The circuit can handle the current load.",
+                "The load increased when the heater turned on."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to put something on a vehicle, machine, or container so it can be moved or used",
+            "synonyms": [
+                "pack",
+                "fill",
+                "place",
+                "load up"
+            ],
+            "examples": [
+                "They loaded the boxes into the van.",
+                "Please load the tray before printing."
+            ]
+        }
+    ],
+    "leading": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "most important or in charge, especially in a competition or industry",
+            "synonyms": [
+                "top",
+                "primary",
+                "chief",
+                "leading-edge"
+            ],
+            "examples": [
+                "The company is a leading provider of software.",
+                "She is the leading candidate for the job."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "moving forward and guiding others",
+            "synonyms": [
+                "ahead",
+                "front",
+                "guiding",
+                "pioneering"
+            ],
+            "examples": [
+                "The leading runner set a fast pace.",
+                "A leading team won the final match."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a part or material used in making windows, often a strip of lead in older construction",
+            "synonyms": [
+                "leadwork",
+                "window lead"
+            ],
+            "examples": [
+                "The old building had decorative leading in the glass."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to guide or be in front of others",
+            "synonyms": [
+                "guide",
+                "direct",
+                "bring",
+                "escort"
+            ],
+            "examples": [
+                "They are leading the group into the hall.",
+                "She led the students to the museum."
+            ]
+        }
+    ],
+    "lest": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "used to show that you want to avoid something happening",
+            "synonyms": [
+                "so that",
+                "in order that",
+                "to prevent",
+                "to avoid"
+            ],
+            "examples": [
+                "Take an umbrella lest it rains.",
+                "She saved the file lest she lose her work."
+            ]
+        }
+    ],
+    "laconically": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "in a very brief, calm, and sometimes unfriendly way",
+            "synonyms": [
+                "briefly",
+                "shortly",
+                "to the point",
+                "cuttingly"
+            ],
+            "examples": [
+                "She answered laconically and then left.",
+                "He spoke laconically about his reasons."
+            ]
+        }
+    ],
+    "lagoon": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a shallow body of water separated from the ocean by sandbars or reefs",
+            "synonyms": [
+                "bay",
+                "inlet",
+                "coastal lagoon",
+                "saltwater pool"
+            ],
+            "examples": [
+                "We swam in a lagoon near the island.",
+                "The lagoon is calm and shallow."
+            ]
+        }
+    ],
+    "lisle": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a type of fine, smooth yarn or fabric often used for socks or shirts",
+            "synonyms": [
+                "lisle thread",
+                "fabric"
+            ],
+            "examples": [
+                "They sell lisle socks in many colors.",
+                "The fabric is soft, like lisle."
+            ]
+        }
+    ],
+    "lee": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the side sheltered from the wind",
+            "synonyms": [
+                "shelter side",
+                "protected side",
+                "downwind side"
+            ],
+            "examples": [
+                "We waited on the lee of the building.",
+                "The boat stayed in the lee to avoid the waves."
+            ]
+        }
     ]
 }

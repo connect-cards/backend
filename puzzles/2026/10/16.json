@@ -1,0 +1,53 @@
+{
+    "date": "2026-10-16",
+    "groups": [
+        {
+            "id": "2026-10-16-g1",
+            "type": "semantic_field",
+            "difficulty": "easy",
+            "title": "book parts",
+            "words": [
+                "preface",
+                "appendix",
+                "index",
+                "chapter"
+            ]
+        },
+        {
+            "id": "2026-10-16-g2",
+            "type": "informal_register",
+            "difficulty": "medium",
+            "title": "nonsense",
+            "words": [
+                "drivel",
+                "twaddle",
+                "rot",
+                "tripe"
+            ]
+        },
+        {
+            "id": "2026-10-16-g3",
+            "type": "synonym",
+            "difficulty": "hard",
+            "title": "praise",
+            "words": [
+                "extol",
+                "laud",
+                "panegyrize",
+                "acclaim"
+            ]
+        },
+        {
+            "id": "2026-10-16-g4",
+            "type": "morphological_family",
+            "difficulty": "very_hard",
+            "title": "cutting roots",
+            "words": [
+                "incise",
+                "precise",
+                "concise",
+                "scissor"
+            ]
+        }
+    ]
+}

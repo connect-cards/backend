@@ -1,0 +1,53 @@
+{
+    "date": "2026-10-09",
+    "groups": [
+        {
+            "id": "2026-10-09-g1",
+            "type": "physical_trait",
+            "difficulty": "easy",
+            "title": "body builds",
+            "words": [
+                "gaunt",
+                "burly",
+                "lithe",
+                "stocky"
+            ]
+        },
+        {
+            "id": "2026-10-09-g2",
+            "type": "etymological_relation",
+            "difficulty": "medium",
+            "title": "born words",
+            "words": [
+                "natal",
+                "nation",
+                "native",
+                "innate"
+            ]
+        },
+        {
+            "id": "2026-10-09-g3",
+            "type": "thematic_association",
+            "difficulty": "hard",
+            "title": "funeral rite",
+            "words": [
+                "bier",
+                "dirge",
+                "urn",
+                "wreath"
+            ]
+        },
+        {
+            "id": "2026-10-09-g4",
+            "type": "profession_domain",
+            "difficulty": "very_hard",
+            "title": "heraldry",
+            "words": [
+                "blazon",
+                "escutcheon",
+                "gules",
+                "orle"
+            ]
+        }
+    ]
+}

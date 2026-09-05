@@ -1,0 +1,53 @@
+{
+    "date": "2026-10-30",
+    "groups": [
+        {
+            "id": "2026-10-30-g1",
+            "type": "semantic_field",
+            "difficulty": "easy",
+            "title": "wind instruments",
+            "words": [
+                "bassoon",
+                "clarinet",
+                "oboe",
+                "recorder"
+            ]
+        },
+        {
+            "id": "2026-10-30-g2",
+            "type": "literary_register",
+            "difficulty": "medium",
+            "title": "poetic sorrow",
+            "words": [
+                "dolor",
+                "heaviness",
+                "lament",
+                "woe"
+            ]
+        },
+        {
+            "id": "2026-10-30-g3",
+            "type": "synonym",
+            "difficulty": "hard",
+            "title": "brief",
+            "words": [
+                "compendious",
+                "concise",
+                "laconic",
+                "pithy"
+            ]
+        },
+        {
+            "id": "2026-10-30-g4",
+            "type": "profession_domain",
+            "difficulty": "very_hard",
+            "title": "bookmaking",
+            "words": [
+                "compositor",
+                "impositor",
+                "papermaker",
+                "typesetter"
+            ]
+        }
+    ]
+}

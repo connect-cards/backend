@@ -1,0 +1,53 @@
+{
+    "date": "2026-10-18",
+    "groups": [
+        {
+            "id": "2026-10-18-g1",
+            "type": "synonym",
+            "difficulty": "easy",
+            "title": "mock",
+            "words": [
+                "taunt",
+                "jeer",
+                "gibe",
+                "deride"
+            ]
+        },
+        {
+            "id": "2026-10-18-g2",
+            "type": "sound_association",
+            "difficulty": "medium",
+            "title": "bell sounds",
+            "words": [
+                "clang",
+                "clank",
+                "peal",
+                "tinkle"
+            ]
+        },
+        {
+            "id": "2026-10-18-g3",
+            "type": "thematic_association",
+            "difficulty": "hard",
+            "title": "tarot cards",
+            "words": [
+                "fool",
+                "tower",
+                "hermit",
+                "chariot"
+            ]
+        },
+        {
+            "id": "2026-10-18-g4",
+            "type": "literary_register",
+            "difficulty": "very_hard",
+            "title": "poetic dawn",
+            "words": [
+                "morn",
+                "aurora",
+                "daybreak",
+                "cockcrow"
+            ]
+        }
+    ]
+}

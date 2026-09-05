@@ -1,0 +1,53 @@
+{
+    "date": "2026-10-12",
+    "groups": [
+        {
+            "id": "2026-10-12-g1",
+            "type": "literary_register",
+            "difficulty": "easy",
+            "title": "old-time pronouns",
+            "words": [
+                "thou",
+                "thee",
+                "thy",
+                "thine"
+            ]
+        },
+        {
+            "id": "2026-10-12-g2",
+            "type": "etymological_relation",
+            "difficulty": "medium",
+            "title": "write roots",
+            "words": [
+                "script",
+                "scribe",
+                "scrivener",
+                "conscription"
+            ]
+        },
+        {
+            "id": "2026-10-12-g3",
+            "type": "sound_association",
+            "difficulty": "hard",
+            "title": "bell sounds",
+            "words": [
+                "tintinnabulation",
+                "peal",
+                "clangor",
+                "tocsin"
+            ]
+        },
+        {
+            "id": "2026-10-12-g4",
+            "type": "morphological_family",
+            "difficulty": "very_hard",
+            "title": "flow forms",
+            "words": [
+                "fluent",
+                "confluence",
+                "effluence",
+                "superfluous"
+            ]
+        }
+    ]
+}

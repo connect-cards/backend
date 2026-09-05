@@ -751,5 +751,153 @@
                 "The paper was nicked at the corner."
             ]
         }
+    ],
+    "niggardliness": [
+        {
+            "part_of_speech": "noun",
+            "definition": "extreme unwillingness to spend money or share, often in a petty way",
+            "synonyms": [
+                "miserliness",
+                "stinginess",
+                "parsimony",
+                "tightfistedness"
+            ],
+            "examples": [
+                "Her niggardliness kept her from tipping even a little.",
+                "He was known for his niggardliness with coworkers."
+            ]
+        }
+    ],
+    "natal": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "relating to birth",
+            "synonyms": [
+                "birth",
+                "born",
+                "prenatal"
+            ],
+            "examples": [
+                "The natal chart is used in astrology.",
+                "Her natal family moved to another city."
+            ]
+        }
+    ],
+    "nature": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the natural world, including plants, animals, weather, and land",
+            "synonyms": [
+                "the outdoors",
+                "wildlife",
+                "the natural world",
+                "environment"
+            ],
+            "examples": [
+                "We walked in nature to relax.",
+                "Nature is beautiful in spring."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "the basic character or qualities of something",
+            "synonyms": [
+                "character",
+                "essence",
+                "kind",
+                "type",
+                "temperament"
+            ],
+            "examples": [
+                "The nature of the job is stressful.",
+                "She understood the nature of his problem."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "the physical forces that control living things",
+            "synonyms": [
+                "natural forces",
+                "biology"
+            ],
+            "examples": [
+                "Nature controls how species adapt.",
+                "In nature, balance matters."
+            ]
+        }
+    ],
+    "nap": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a short sleep during the day",
+            "synonyms": [
+                "sleep",
+                "rest",
+                "power nap",
+                "doze"
+            ],
+            "examples": [
+                "I took a nap after lunch.",
+                "She had a short nap before studying."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to sleep for a short time",
+            "synonyms": [
+                "sleep",
+                "doze",
+                "rest",
+                "drowse"
+            ],
+            "examples": [
+                "He napped for 20 minutes.",
+                "Try to nap before the trip."
+            ]
+        }
+    ],
+    "notary": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a public official who verifies signatures and legal documents",
+            "synonyms": [
+                "certifier",
+                "public official",
+                "commissioner"
+            ],
+            "examples": [
+                "The notary verified the signatures.",
+                "We went to a notary to finalize the document."
+            ]
+        }
+    ],
+    "nocturne": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a musical piece that suggests night or is often played at night",
+            "synonyms": [
+                "night piece",
+                "night music"
+            ],
+            "examples": [
+                "We listened to a nocturne on the piano.",
+                "Her favorite composer wrote many nocturnes."
+            ]
+        }
+    ],
+    "noctambule": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who stays awake or moves around at night",
+            "synonyms": [
+                "night owl",
+                "sleepless person",
+                "nightwalker"
+            ],
+            "examples": [
+                "He’s a noctambule who works late at night.",
+                "The character is a noctambule in the story."
+            ]
+        }
     ]
 }

@@ -1,0 +1,53 @@
+{
+    "date": "2026-10-08",
+    "groups": [
+        {
+            "id": "2026-10-08-g1",
+            "type": "morphological_family",
+            "difficulty": "easy",
+            "title": "light roots",
+            "words": [
+                "lucid",
+                "translucent",
+                "pellucid",
+                "elucidate"
+            ]
+        },
+        {
+            "id": "2026-10-08-g2",
+            "type": "thematic_association",
+            "difficulty": "medium",
+            "title": "winter hazards",
+            "words": [
+                "blackice",
+                "drift",
+                "rime",
+                "slush"
+            ]
+        },
+        {
+            "id": "2026-10-08-g3",
+            "type": "profession_domain",
+            "difficulty": "hard",
+            "title": "brewer's terms",
+            "words": [
+                "mash",
+                "wort",
+                "tun",
+                "trub"
+            ]
+        },
+        {
+            "id": "2026-10-08-g4",
+            "type": "synonym",
+            "difficulty": "very_hard",
+            "title": "stubborn",
+            "words": [
+                "mulish",
+                "obdurate",
+                "ineluctable",
+                "refractory"
+            ]
+        }
+    ]
+}

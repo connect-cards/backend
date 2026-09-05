@@ -1521,5 +1521,51 @@
                 "Hark, I have something important to tell you."
             ]
         }
+    ],
+    "hermit": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who lives alone and avoids society",
+            "synonyms": [
+                "recluse",
+                "loner",
+                "solitary person",
+                "shut-in"
+            ],
+            "examples": [
+                "The woods were home to a hermit.",
+                "He lived as a hermit for many years."
+            ]
+        }
+    ],
+    "heaviness": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the quality of being heavy or having a strong weight or pressure",
+            "synonyms": [
+                "weight",
+                "burden",
+                "gravity",
+                "thickness"
+            ],
+            "examples": [
+                "He felt a heaviness in his chest.",
+                "The heaviness of the box surprised me."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a serious or dull feeling, especially in mood",
+            "synonyms": [
+                "sadness",
+                "somberness",
+                "gloom",
+                "dullness"
+            ],
+            "examples": [
+                "There was a heaviness in the room after the news.",
+                "She spoke with heaviness rather than excitement."
+            ]
+        }
     ]
 }

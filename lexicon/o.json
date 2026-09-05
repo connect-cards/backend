@@ -945,5 +945,149 @@
                 "She works at Oracle on cloud services."
             ]
         }
+    ],
+    "oaten": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "made from or relating to oats",
+            "synonyms": [
+                "oat",
+                "of oats",
+                "oatmeal"
+            ],
+            "examples": [
+                "She baked oaten bread for breakfast.",
+                "The recipe uses oaten flour."
+            ]
+        }
+    ],
+    "oboe": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a woodwind musical instrument with a double reed and a distinctive, sharp sound",
+            "synonyms": [
+                "woodwind"
+            ],
+            "examples": [
+                "The oboe played the main melody.",
+                "She studied the oboe for three years."
+            ]
+        }
+    ],
+    "odium": [
+        {
+            "part_of_speech": "noun",
+            "definition": "strong dislike or hatred toward a person or thing",
+            "synonyms": [
+                "hatred",
+                "contempt",
+                "enmity",
+                "dislike"
+            ],
+            "examples": [
+                "The scandal brought him public odium.",
+                "They faced widespread odium for the decision."
+            ]
+        }
+    ],
+    "ogive": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a pointed arch shape found in some buildings and designs",
+            "synonyms": [
+                "pointed arch",
+                "ogival arch"
+            ],
+            "examples": [
+                "The church windows have an ogive style.",
+                "The doorway is decorated with an ogive pattern."
+            ]
+        }
+    ],
+    "orle": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a border or band inside the edge of a shield in heraldry",
+            "synonyms": [
+                "heraldic border",
+                "inner border"
+            ],
+            "examples": [
+                "The orle adds decoration without touching the shield’s edge.",
+                "The heraldic design includes an orle."
+            ]
+        }
+    ],
+    "obey": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to follow rules, instructions, or commands",
+            "synonyms": [
+                "follow",
+                "comply with",
+                "respect",
+                "heed"
+            ],
+            "examples": [
+                "Students must obey the safety rules.",
+                "He refused to obey the order."
+            ]
+        }
+    ],
+    "optic": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "relating to the study of light and vision",
+            "synonyms": [
+                "light-related",
+                "visual",
+                "vision-related",
+                "optical"
+            ],
+            "examples": [
+                "Optic nerves send signals to the brain.",
+                "The lab tested optic materials."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a branch of science that deals with light and how it behaves",
+            "synonyms": [
+                "optics",
+                "optical science"
+            ],
+            "examples": [
+                "He works in optic and imaging.",
+                "Optic includes the study of lenses."
+            ]
+        }
+    ],
+    "ocular": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "relating to the eyes or vision",
+            "synonyms": [
+                "visual",
+                "eye-related",
+                "optical"
+            ],
+            "examples": [
+                "She wore ocular protection during the experiment.",
+                "The doctor checked her ocular health."
+            ]
+        }
+    ],
+    "oer": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "over; a shortened spelling sometimes used in writing",
+            "synonyms": [
+                "over"
+            ],
+            "examples": [
+                "The ball rolled oer the edge.",
+                "He climbed oer the wall."
+            ]
+        }
     ]
 }

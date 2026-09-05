@@ -2153,5 +2153,248 @@
                 "The balloon flatted and fell to the floor."
             ]
         }
+    ],
+    "frugality": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the habit of spending money carefully and not wasting it",
+            "synonyms": [
+                "thrift",
+                "economy",
+                "carefulness",
+                "miserliness"
+            ],
+            "examples": [
+                "Her frugality helped her save for a home.",
+                "He showed frugality by cooking at home."
+            ]
+        }
+    ],
+    "fulgent": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "bright and shining, often with a strong light",
+            "synonyms": [
+                "radiant",
+                "glowing",
+                "luminous",
+                "brilliant"
+            ],
+            "examples": [
+                "The fulgent lights reflected off the water.",
+                "Her eyes looked fulgent with excitement."
+            ]
+        }
+    ],
+    "fracture": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a break in a bone or sometimes in another hard material",
+            "synonyms": [
+                "break",
+                "crack",
+                "rupture",
+                "splinter"
+            ],
+            "examples": [
+                "He suffered a fracture in his wrist.",
+                "The bridge inspection found a fracture in the steel."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to break a bone or cause a crack in something hard",
+            "synonyms": [
+                "break",
+                "crack",
+                "rupture",
+                "split"
+            ],
+            "examples": [
+                "She fractured her ankle during the game.",
+                "The impact fractured the glass."
+            ]
+        }
+    ],
+    "fraction": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small part of a larger whole",
+            "synonyms": [
+                "part",
+                "portion",
+                "segment",
+                "share"
+            ],
+            "examples": [
+                "Only a fraction of the students attended.",
+                "A fraction of a second can matter in sports."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a number that represents part of a whole, written as a numerator over a denominator",
+            "synonyms": [
+                "ratio",
+                "number part",
+                "part number"
+            ],
+            "examples": [
+                "In math class, we learned how to work with fractions.",
+                "Two-thirds is a common fraction."
+            ]
+        }
+    ],
+    "fluent": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "able to speak or write a language smoothly and easily",
+            "synonyms": [
+                "skilled",
+                "proficient",
+                "articulate",
+                "smooth"
+            ],
+            "examples": [
+                "She is fluent in French and English.",
+                "He became fluent after a year abroad."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "flowing easily and smoothly",
+            "synonyms": [
+                "smooth",
+                "fluid",
+                "continuous",
+                "unbroken"
+            ],
+            "examples": [
+                "Her fluent style kept the audience engaged.",
+                "The speech sounded fluent and natural."
+            ]
+        }
+    ],
+    "fealty": [
+        {
+            "part_of_speech": "noun",
+            "definition": "loyalty and support to a person or ruler, especially in the past",
+            "synonyms": [
+                "loyalty",
+                "allegiance",
+                "devotion",
+                "faithfulness"
+            ],
+            "examples": [
+                "The knight pledged fealty to the king.",
+                "Her fealty to her team never wavered."
+            ]
+        }
+    ],
+    "fool": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who acts unwisely or lacks good judgment, often in a mild insult",
+            "synonyms": [
+                "idiot",
+                "foolish person",
+                "jerk",
+                "simpleton"
+            ],
+            "examples": [
+                "Don’t act like a fool; think first.",
+                "He made himself look like a fool in public."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make someone believe something that is not true or to trick them",
+            "synonyms": [
+                "trick",
+                "deceive",
+                "con",
+                "mislead"
+            ],
+            "examples": [
+                "They tried to fool him with fake documents.",
+                "I wouldn’t fool you with a joke like that."
+            ]
+        }
+    ],
+    "fray": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a fight or struggle, especially a small one",
+            "synonyms": [
+                "fight",
+                "skirmish",
+                "brawl",
+                "struggle"
+            ],
+            "examples": [
+                "A fray broke out after the argument.",
+                "They tried to stop the fray near the entrance."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to become damaged or worn at the edges",
+            "synonyms": [
+                "wear",
+                "unravel",
+                "become frayed",
+                "tear"
+            ],
+            "examples": [
+                "The rope started to fray after months of use.",
+                "His sleeve frayed at the cuff."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to become less strong or more unstable over time",
+            "synonyms": [
+                "weaken",
+                "decline",
+                "deteriorate",
+                "erode"
+            ],
+            "examples": [
+                "Their patience began to fray.",
+                "The relationship frayed over misunderstandings."
+            ]
+        }
+    ],
+    "fraternal": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "related to brothers or showing brotherly kindness and support",
+            "synonyms": [
+                "brotherly",
+                "kin",
+                "friendly",
+                "fellow"
+            ],
+            "examples": [
+                "They formed a fraternal organization for community service.",
+                "The two groups held a fraternal meeting."
+            ]
+        }
+    ],
+    "frail": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "weak and easily damaged, injured, or affected",
+            "synonyms": [
+                "weak",
+                "delicate",
+                "fragile",
+                "defenseless"
+            ],
+            "examples": [
+                "The patient was frail after the illness.",
+                "Handle the box carefully; the contents are frail."
+            ]
+        }
     ]
 }
