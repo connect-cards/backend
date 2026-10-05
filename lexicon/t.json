@@ -3250,5 +3250,210 @@
                 "You can see the light through the translucent curtain."
             ]
         }
+    ],
+    "tatty": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "old, damaged, and not attractive because it has been used a lot",
+            "synonyms": [
+                "worn",
+                "tattered",
+                "shabby",
+                "ragged"
+            ],
+            "examples": [
+                "He threw away the tatty jacket.",
+                "The curtains looked tatty after years of use."
+            ]
+        }
+    ],
+    "twit": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who behaves foolishly or annoyingly",
+            "synonyms": [
+                "idiot",
+                "fool",
+                "jerk",
+                "moron"
+            ],
+            "examples": [
+                "Don’t be a twit, think before you speak.",
+                "The coach called him a twit for his mistake."
+            ]
+        }
+    ],
+    "tariff": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a tax on imported or exported goods",
+            "synonyms": [
+                "duty",
+                "tax",
+                "import tax",
+                "trade tax"
+            ],
+            "examples": [
+                "The country raised its tariff on steel.",
+                "Consumers paid more because of the tariff."
+            ]
+        }
+    ],
+    "trickle": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small amount of liquid that flows slowly",
+            "synonyms": [
+                "stream",
+                "drip",
+                "flow",
+                "trickle"
+            ],
+            "examples": [
+                "A trickle of water ran from the faucet.",
+                "There was only a trickle of traffic on the road."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to flow slowly in small amounts",
+            "synonyms": [
+                "drip",
+                "flow",
+                "stream",
+                "pour slowly"
+            ],
+            "examples": [
+                "The water began to trickle into the sink.",
+                "Information trickled in over the next few days."
+            ]
+        }
+    ],
+    "transport": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the movement of people or goods from one place to another",
+            "synonyms": [
+                "travel",
+                "conveyance",
+                "transit",
+                "logistics"
+            ],
+            "examples": [
+                "Public transport is faster than driving in the city.",
+                "Transport of medical supplies is essential."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to move people or goods from one place to another",
+            "synonyms": [
+                "carry",
+                "move",
+                "transfer",
+                "ship"
+            ],
+            "examples": [
+                "They will transport the equipment tomorrow.",
+                "The hospital transported the patient by ambulance."
+            ]
+        }
+    ],
+    "tincture": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an alcohol-based liquid medicine made from plants or other substances",
+            "synonyms": [
+                "extract",
+                "alcohol extract",
+                "medicinal liquid"
+            ],
+            "examples": [
+                "The pharmacist prepared a tincture for the remedy.",
+                "She took the tincture with water."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a slight color or tint",
+            "synonyms": [
+                "tint",
+                "hue",
+                "shade",
+                "tinge"
+            ],
+            "examples": [
+                "The painting has a warm tincture of gold."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to color or flavor something slightly",
+            "synonyms": [
+                "tint",
+                "tinge",
+                "flavor",
+                "infuse"
+            ],
+            "examples": [
+                "The tea tinctured the water with light brown color."
+            ]
+        }
+    ],
+    "trowel": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a hand tool with a flat pointed blade, used for spreading and smoothing materials like cement or plaster",
+            "synonyms": [
+                "hand trowel",
+                "cement trowel",
+                "spreading tool"
+            ],
+            "examples": [
+                "He used a trowel to smooth the plaster.",
+                "A small trowel helped him spread the mortar."
+            ]
+        }
+    ],
+    "thrift": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the habit of saving money by using resources wisely",
+            "synonyms": [
+                "frugality",
+                "economy",
+                "thriftness",
+                "saving"
+            ],
+            "examples": [
+                "They practiced thrift during the difficult year.",
+                "Thrift can help you build savings over time."
+            ]
+        }
+    ],
+    "talus": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the part of the foot bone between the lower leg and the rest of the foot",
+            "synonyms": [
+                "ankle bone"
+            ],
+            "examples": [
+                "Doctors examined his talus after the injury.",
+                "A fracture in the talus can be serious."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a slope of loose stones at the side of a mountain",
+            "synonyms": [
+                "scree",
+                "rock slope",
+                "stonefall"
+            ],
+            "examples": [
+                "They climbed over a talus near the peak."
+            ]
+        }
     ]
 }

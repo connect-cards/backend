@@ -2153,5 +2153,156 @@
                 "The balloon flatted and fell to the floor."
             ]
         }
+    ],
+    "fraternal": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "related to brothers or based on brotherhood",
+            "synonyms": [
+                "brotherly",
+                "kinship-based",
+                "fellowship-based",
+                "friendly"
+            ],
+            "examples": [
+                "They formed a fraternal group for community service.",
+                "He showed a fraternal kindness to new members."
+            ]
+        }
+    ],
+    "fratricide": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the crime of killing your brother",
+            "synonyms": [
+                "brother-killing",
+                "homicide of a brother"
+            ],
+            "examples": [
+                "The story includes fratricide as a major event.",
+                "The trial focused on alleged fratricide."
+            ]
+        }
+    ],
+    "friar": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a religious man who is part of a christian order and often lives in a monastery or convent",
+            "synonyms": [
+                "monk",
+                "religious brother"
+            ],
+            "examples": [
+                "A friar guided the visitors through the monastery.",
+                "The village relied on the friar for prayers and help."
+            ]
+        }
+    ],
+    "frail": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "weak and easily harmed or broken",
+            "synonyms": [
+                "weak",
+                "delicate",
+                "fragile",
+                "spindly"
+            ],
+            "examples": [
+                "After the illness, she became frail.",
+                "The frail chair creaked under his weight."
+            ]
+        }
+    ],
+    "fracture": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a break in a bone or the cracking of something hard",
+            "synonyms": [
+                "break",
+                "crack",
+                "splinter",
+                "rupture"
+            ],
+            "examples": [
+                "He suffered a fracture in his wrist.",
+                "The fall caused a fracture in the wall."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to break a bone or to crack something hard",
+            "synonyms": [
+                "break",
+                "crack",
+                "split",
+                "rupture"
+            ],
+            "examples": [
+                "She fell and fractured her ankle.",
+                "The impact fractured the glass."
+            ]
+        }
+    ],
+    "fraction": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small part of a whole amount",
+            "synonyms": [
+                "part",
+                "portion",
+                "segment",
+                "share"
+            ],
+            "examples": [
+                "Only a fraction of the water was clean.",
+                "She paid a fraction of the cost."
+            ]
+        }
+    ],
+    "frugality": [
+        {
+            "part_of_speech": "noun",
+            "definition": "careful use of money and resources to avoid waste",
+            "synonyms": [
+                "economy",
+                "thrift",
+                "prudence",
+                "saving"
+            ],
+            "examples": [
+                "Frugality helped them pay off their debt.",
+                "Her frugality showed in the simple meals she cooked."
+            ]
+        }
+    ],
+    "feint": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a false move or action used to trick an opponent",
+            "synonyms": [
+                "pretend attack",
+                "deception",
+                "false move"
+            ],
+            "examples": [
+                "He made a feint to the left, then moved right.",
+                "The boxer used a feint before throwing the punch."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a false move to mislead someone",
+            "synonyms": [
+                "pretend",
+                "deceive",
+                "fake",
+                "trick"
+            ],
+            "examples": [
+                "She feinted to stop him, then ran past.",
+                "He feinted and waited for the opening."
+            ]
+        }
     ]
 }

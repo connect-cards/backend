@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-30",
+    "groups": [
+        {
+            "id": "2026-11-30-easy",
+            "type": "physical_trait",
+            "difficulty": "easy",
+            "title": "thin shapes",
+            "words": [
+                "slender",
+                "gaunt",
+                "spindly",
+                "attenuate"
+            ]
+        },
+        {
+            "id": "2026-11-30-medium",
+            "type": "literary_register",
+            "difficulty": "medium",
+            "title": "poetic sorrow",
+            "words": [
+                "woe",
+                "dolor",
+                "rue",
+                "plaint"
+            ]
+        },
+        {
+            "id": "2026-11-30-hard",
+            "type": "morphological_family",
+            "difficulty": "hard",
+            "title": "born words",
+            "words": [
+                "natal",
+                "nascent",
+                "innate",
+                "connate"
+            ]
+        },
+        {
+            "id": "2026-11-30-very_hard",
+            "type": "sound_association",
+            "difficulty": "very_hard",
+            "title": "long a sound",
+            "words": [
+                "chaise",
+                "feint",
+                "aegis",
+                "quay"
+            ]
+        }
+    ]
+}

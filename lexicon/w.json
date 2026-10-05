@@ -1771,5 +1771,140 @@
                 "The willowy branches swayed in the wind."
             ]
         }
+    ],
+    "weave": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make cloth by crossing threads over and under each other",
+            "synonyms": [
+                "interlace",
+                "enmesh",
+                "knit",
+                "fabricate"
+            ],
+            "examples": [
+                "She learned to weave on a small loom.",
+                "The workers weave cloth for traditional clothing."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to move or cause to move in a pattern that changes direction repeatedly",
+            "synonyms": [
+                "twist",
+                "thread",
+                "interweave",
+                "zigzag"
+            ],
+            "examples": [
+                "The car began to weave through traffic.",
+                "He wove through the crowd."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to create an idea, plan, or story by combining different parts",
+            "synonyms": [
+                "construct",
+                "craft",
+                "compose",
+                "form"
+            ],
+            "examples": [
+                "They wove together facts from several sources.",
+                "She wove a story to explain the delay."
+            ]
+        }
+    ],
+    "wale": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a raised line or ridge on cloth, paper, or a surface",
+            "synonyms": [
+                "ridge",
+                "rib",
+                "groove",
+                "stripe"
+            ],
+            "examples": [
+                "The fabric has a clear pattern of wales.",
+                "The paper showed thin wales under the light."
+            ]
+        }
+    ],
+    "wend": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to go or travel, especially in a slow or determined way",
+            "synonyms": [
+                "go",
+                "proceed",
+                "travel",
+                "head"
+            ],
+            "examples": [
+                "They wended through the streets toward the river.",
+                "She wended her way to the station."
+            ]
+        }
+    ],
+    "wazzock": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a rude insult for a foolish or annoying person",
+            "synonyms": [
+                "idiot",
+                "jerk",
+                "fool",
+                "nincompoop"
+            ],
+            "examples": [
+                "He called the driver a wazzock after the accident.",
+                "Don’t insult people by calling them wazzock."
+            ]
+        }
+    ],
+    "want": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a lack of something needed or desired",
+            "synonyms": [
+                "lack",
+                "shortage",
+                "deficiency",
+                "need"
+            ],
+            "examples": [
+                "They moved to the city to avoid want.",
+                "There is no want of ideas in the group."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to wish for something or to desire it",
+            "synonyms": [
+                "desire",
+                "wish",
+                "need",
+                "would like"
+            ],
+            "examples": [
+                "I want a new phone.",
+                "Do you want to come with us?"
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to be lacking or be without something",
+            "synonyms": [
+                "lack",
+                "be short of",
+                "fall short of"
+            ],
+            "examples": [
+                "The plan wants more details.",
+                "The report wants clear sources."
+            ]
+        }
     ]
 }

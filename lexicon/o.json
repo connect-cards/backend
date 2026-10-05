@@ -945,5 +945,21 @@
                 "She works at Oracle on cloud services."
             ]
         }
+    ],
+    "ordinaire": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "ordinary and not special",
+            "synonyms": [
+                "ordinary",
+                "common",
+                "unremarkable",
+                "plain"
+            ],
+            "examples": [
+                "The food was tasty but ordinaire.",
+                "It was an ordinaire day with no surprises."
+            ]
+        }
     ]
 }

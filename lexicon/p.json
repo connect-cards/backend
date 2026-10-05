@@ -3871,5 +3871,95 @@
                 "The wall was propped after the earthquake."
             ]
         }
+    ],
+    "perplex": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to confuse someone, making it hard to understand",
+            "synonyms": [
+                "confuse",
+                "baffle",
+                "puzzle",
+                "stump"
+            ],
+            "examples": [
+                "The instructions perplexed many students.",
+                "I was perplexed by his sudden change of plans."
+            ]
+        }
+    ],
+    "plumb": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to measure or check whether something is exactly vertical or straight up",
+            "synonyms": [
+                "check",
+                "measure",
+                "test",
+                "level"
+            ],
+            "examples": [
+                "Use a plumb line to plumb the wall.",
+                "The builder plumbed the door frame before fixing it."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a tool or line used to check vertical direction",
+            "synonyms": [
+                "plumb line",
+                "plummet",
+                "vertical gauge"
+            ],
+            "examples": [
+                "The carpenter used a plumb to check the angle."
+            ]
+        }
+    ],
+    "parsimony": [
+        {
+            "part_of_speech": "noun",
+            "definition": "extreme unwillingness to spend money even when it is needed",
+            "synonyms": [
+                "stinginess",
+                "frugality",
+                "meanness",
+                "economy"
+            ],
+            "examples": [
+                "Her parsimony made it hard to plan a trip.",
+                "He was known for parsimony and never bought anything."
+            ]
+        }
+    ],
+    "paucity": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small amount or an insufficient quantity of something",
+            "synonyms": [
+                "shortage",
+                "lack",
+                "scarcity",
+                "deficiency"
+            ],
+            "examples": [
+                "There was a paucity of information about the plan.",
+                "The team faced a paucity of resources."
+            ]
+        }
+    ],
+    "parka": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a warm jacket, often with a hood, designed for cold weather",
+            "synonyms": [
+                "winter jacket",
+                "hooded jacket"
+            ],
+            "examples": [
+                "The parka kept him warm during the snow.",
+                "She bought a parka for winter travel."
+            ]
+        }
     ]
 }

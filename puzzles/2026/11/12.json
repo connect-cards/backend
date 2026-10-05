@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-12",
+    "groups": [
+        {
+            "id": "2026-11-12-g1",
+            "type": "sound_association",
+            "difficulty": "easy",
+            "title": "water sounds",
+            "words": [
+                "gurgle",
+                "splash",
+                "trickle",
+                "plop"
+            ]
+        },
+        {
+            "id": "2026-11-12-g2",
+            "type": "informal_register",
+            "difficulty": "medium",
+            "title": "nonsense",
+            "words": [
+                "drivel",
+                "tripe",
+                "twaddle",
+                "rot"
+            ]
+        },
+        {
+            "id": "2026-11-12-g3",
+            "type": "thematic_association",
+            "difficulty": "hard",
+            "title": "beekeeping",
+            "words": [
+                "apiary",
+                "smoker",
+                "brood",
+                "comb"
+            ]
+        },
+        {
+            "id": "2026-11-12-g4",
+            "type": "emotional_tone",
+            "difficulty": "very_hard",
+            "title": "detached moods",
+            "words": [
+                "blasé",
+                "impassive",
+                "phlegmatic",
+                "stolid"
+            ]
+        }
+    ]
+}

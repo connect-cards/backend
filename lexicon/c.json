@@ -6238,5 +6238,423 @@
                 "Take the curl to the left to reach the market."
             ]
         }
+    ],
+    "carrack": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a large ship used in the past for long voyages",
+            "synonyms": [
+                "caravel",
+                "galleon",
+                "merchant ship",
+                "seagoing vessel"
+            ],
+            "examples": [
+                "The carrack carried goods across the ocean.",
+                "Historians describe how carracks supported trade with distant ports."
+            ]
+        }
+    ],
+    "caitiff": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a cruel and cowardly person",
+            "synonyms": [
+                "coward",
+                "wretch",
+                "cad",
+                "rogue"
+            ],
+            "examples": [
+                "The novel describes the caitiff as both cruel and afraid.",
+                "He felt ashamed calling the bully a caitiff."
+            ]
+        }
+    ],
+    "cadent": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "falling or declining in a smooth, regular way, especially in grammar or music",
+            "synonyms": [
+                "declining",
+                "falling",
+                "descending",
+                "rhythmic"
+            ],
+            "examples": [
+                "The melody moved in a cadent pattern.",
+                "The phrase ends with a cadent tone."
+            ]
+        }
+    ],
+    "cadenza": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a solo musical passage, often near the end of a concerto movement",
+            "synonyms": [
+                "solo passage",
+                "improvised section",
+                "musical climax"
+            ],
+            "examples": [
+                "The pianist played a cadenza before the final orchestra section.",
+                "The conductor waited for the cadenza to finish."
+            ]
+        }
+    ],
+    "cadency": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a pattern of rhythm or a sequence of musical notes that sounds like a complete ending",
+            "synonyms": [
+                "rhythm",
+                "ending pattern",
+                "musical cadence",
+                "cadence"
+            ],
+            "examples": [
+                "The song’s cadency made it feel complete.",
+                "Good cadency helps listeners hear the end of a phrase."
+            ]
+        }
+    ],
+    "cocky": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "too confident in a way that can seem rude or disrespectful",
+            "synonyms": [
+                "arrogant",
+                "conceited",
+                "overconfident",
+                "flippant"
+            ],
+            "examples": [
+                "He sounded cocky after winning once.",
+                "Don’t be cocky just because you passed the test."
+            ]
+        }
+    ],
+    "convene": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to come together or to call a meeting for a purpose",
+            "synonyms": [
+                "assemble",
+                "call",
+                "gather",
+                "congress"
+            ],
+            "examples": [
+                "The board will convene next week.",
+                "They convened to discuss the new plan."
+            ]
+        }
+    ],
+    "coeval": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "existing or happening at the same time",
+            "synonyms": [
+                "contemporary",
+                "same-age",
+                "of the same time",
+                "concurrent"
+            ],
+            "examples": [
+                "They were coeval with the same generation.",
+                "The buildings are coeval and were built together."
+            ]
+        }
+    ],
+    "commingle": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to mix together so they are no longer separate",
+            "synonyms": [
+                "mix",
+                "combine",
+                "intermingle",
+                "blend"
+            ],
+            "examples": [
+                "The company had to commingle the two shipments.",
+                "Coffee and sugar should be commingled well."
+            ]
+        }
+    ],
+    "comb": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a tool with rows of teeth used to arrange hair",
+            "synonyms": [
+                "hair comb",
+                "brush",
+                "grooming tool"
+            ],
+            "examples": [
+                "I can’t find my comb.",
+                "Use a comb to straighten your hair."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a ridge on the head of some birds, especially a rooster",
+            "synonyms": [
+                "crest",
+                "wattle"
+            ],
+            "examples": [
+                "The rooster’s comb was red.",
+                "You can see the bird’s comb from a distance."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to pass a comb through hair to tidy it",
+            "synonyms": [
+                "brush",
+                "groom",
+                "straighten",
+                "detangle"
+            ],
+            "examples": [
+                "She combed her hair before school.",
+                "Try to comb out the knots gently."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to search systematically through an area or group",
+            "synonyms": [
+                "search",
+                "look through",
+                "sift",
+                "scan"
+            ],
+            "examples": [
+                "Police combed the neighborhood for clues.",
+                "They combed the documents for errors."
+            ]
+        }
+    ],
+    "callous": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "uncaring and not showing sympathy for other people",
+            "synonyms": [
+                "cold-hearted",
+                "insensitive",
+                "uncaring",
+                "hardhearted"
+            ],
+            "examples": [
+                "His callous comments hurt her feelings.",
+                "It was a callous decision with no concern for others."
+            ]
+        }
+    ],
+    "cloister": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a covered walk or courtyard area attached to a monastery, often for quiet living",
+            "synonyms": [
+                "courtyard",
+                "monastery walk"
+            ],
+            "examples": [
+                "They walked through the cloister in silence.",
+                "The cloister gardens were beautiful in spring."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to keep someone away from the outside world, especially in a religious setting",
+            "synonyms": [
+                "confine",
+                "seclude",
+                "restrain",
+                "isolate"
+            ],
+            "examples": [
+                "The monks were cloistered away from the city.",
+                "She was cloistered in her studies for months."
+            ]
+        }
+    ],
+    "comport": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to behave in a certain way",
+            "synonyms": [
+                "behave",
+                "conduct",
+                "act",
+                "demean"
+            ],
+            "examples": [
+                "The rule requires students to comport themselves respectfully.",
+                "She tried to comport herself calmly under pressure."
+            ]
+        }
+    ],
+    "contumelious": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "showing strong contempt or insulting someone",
+            "synonyms": [
+                "insulting",
+                "scornful",
+                "contemptuous",
+                "abusive"
+            ],
+            "examples": [
+                "He used contumelious language during the argument.",
+                "The judge condemned the contumelious behavior."
+            ]
+        }
+    ],
+    "chiasmus": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a rhetorical pattern where ideas are repeated in reverse order",
+            "synonyms": [
+                "reversal pattern",
+                "mirror repetition"
+            ],
+            "examples": [
+                "Chiasmus is common in some speeches and literature."
+            ]
+        }
+    ],
+    "chew": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to break food into smaller pieces in your mouth using your teeth",
+            "synonyms": [
+                "masticate",
+                "gnaw",
+                "bite",
+                "work on"
+            ],
+            "examples": [
+                "Chew your food slowly.",
+                "He chewed the gum for a few minutes."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to think or consider something slowly and carefully, often repeatedly",
+            "synonyms": [
+                "consider",
+                "think over",
+                "ponder",
+                "ruminate"
+            ],
+            "examples": [
+                "I need time to chew over the idea.",
+                "She chewed on the problem all night."
+            ]
+        }
+    ],
+    "chump": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a foolish person, used as an insult",
+            "synonyms": [
+                "idiot",
+                "fool",
+                "sucker",
+                "jerk"
+            ],
+            "examples": [
+                "He realized he had been a chump for paying too much.",
+                "Don’t call people chumps."
+            ]
+        }
+    ],
+    "conscript": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person forced to join the armed forces",
+            "synonyms": [
+                "recruit",
+                "drafted soldier",
+                "consdee"
+            ],
+            "examples": [
+                "Many conscripts trained for only a short time.",
+                "The country relied on conscripts during wartime."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to force someone to join the armed forces",
+            "synonyms": [
+                "draft",
+                "enlist",
+                "compel",
+                "call up"
+            ],
+            "examples": [
+                "They conscripted young men for the war.",
+                "The government may conscript volunteers if needed."
+            ]
+        }
+    ],
+    "copula": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a verb used to link the subject to a complement, such as be in many sentences",
+            "synonyms": [
+                "linking verb"
+            ],
+            "examples": [
+                "In the sentence, the copula connects the subject to the description."
+            ]
+        }
+    ],
+    "cyst": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a sac-like lump in the body filled with liquid or other material",
+            "synonyms": [
+                "lump",
+                "sac",
+                "fluid-filled sac"
+            ],
+            "examples": [
+                "The doctor found a cyst during the exam.",
+                "Some cysts go away without treatment."
+            ]
+        }
+    ],
+    "connate": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "existing together from birth or in the same origin",
+            "synonyms": [
+                "inborn",
+                "coexisting",
+                "inherent"
+            ],
+            "examples": [
+                "The concept of connate features is common in some biology topics."
+            ]
+        }
+    ],
+    "chaise": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a type of long chair or seat, often with a back and used for reclining",
+            "synonyms": [
+                "chaise lounge",
+                "recliner chair",
+                "lounge chair"
+            ],
+            "examples": [
+                "She relaxed on the chaise after dinner.",
+                "The hotel room had a chaise near the window."
+            ]
+        }
     ]
 }

@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-27",
+    "groups": [
+        {
+            "id": "2026-11-27-g1",
+            "type": "sound_association",
+            "difficulty": "easy",
+            "title": "quiet speech sounds",
+            "words": [
+                "whisper",
+                "mutter",
+                "murmur",
+                "hiss"
+            ]
+        },
+        {
+            "id": "2026-11-27-g2",
+            "type": "morphological_family",
+            "difficulty": "medium",
+            "title": "write roots",
+            "words": [
+                "scribe",
+                "script",
+                "scriven",
+                "conscript"
+            ]
+        },
+        {
+            "id": "2026-11-27-g3",
+            "type": "thematic_association",
+            "difficulty": "hard",
+            "title": "scarcity",
+            "words": [
+                "dearth",
+                "paucity",
+                "want",
+                "deprivation"
+            ]
+        },
+        {
+            "id": "2026-11-27-g4",
+            "type": "profession_domain",
+            "difficulty": "very_hard",
+            "title": "geology terms",
+            "words": [
+                "schist",
+                "talus",
+                "moraine",
+                "esker"
+            ]
+        }
+    ]
+}

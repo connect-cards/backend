@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-10",
+    "groups": [
+        {
+            "id": "2026-11-10-g1",
+            "type": "emotional_tone",
+            "difficulty": "easy",
+            "title": "anxious states",
+            "words": [
+                "tense",
+                "jittery",
+                "fraught",
+                "apprehensive"
+            ]
+        },
+        {
+            "id": "2026-11-10-g2",
+            "type": "sound_association",
+            "difficulty": "medium",
+            "title": "bell sounds",
+            "words": [
+                "clang",
+                "peal",
+                "toll",
+                "chime"
+            ]
+        },
+        {
+            "id": "2026-11-10-g3",
+            "type": "profession_domain",
+            "difficulty": "hard",
+            "title": "law words",
+            "words": [
+                "tort",
+                "estoppel",
+                "affidavit",
+                "lien"
+            ]
+        },
+        {
+            "id": "2026-11-10-g4",
+            "type": "etymological_relation",
+            "difficulty": "very_hard",
+            "title": "borrowed from arabic",
+            "words": [
+                "alkali",
+                "saffron",
+                "zenith",
+                "tariff"
+            ]
+        }
+    ]
+}

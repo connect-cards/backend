@@ -3587,5 +3587,272 @@
                 "No aught was written on the form."
             ]
         }
+    ],
+    "abide": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to accept or follow a rule or decision",
+            "synonyms": [
+                "comply",
+                "obey",
+                "follow",
+                "adhere"
+            ],
+            "examples": [
+                "You must abide by the safety rules.",
+                "The company agreed to abide by the contract."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to continue to exist or remain in a certain state",
+            "synonyms": [
+                "remain",
+                "persist",
+                "continue",
+                "endure"
+            ],
+            "examples": [
+                "Calm patience should abide in every team.",
+                "The belief will abide for many years."
+            ]
+        }
+    ],
+    "apiary": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a place where beehives are kept",
+            "synonyms": [
+                "beeyard",
+                "bee farm",
+                "hive yard"
+            ],
+            "examples": [
+                "The apiary had several wooden hives.",
+                "They visited an apiary to see how bees live."
+            ]
+        }
+    ],
+    "amoral": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "not guided by moral principles or right and wrong",
+            "synonyms": [
+                "immoral",
+                "nonmoral",
+                "ethically neutral",
+                "unprincipled"
+            ],
+            "examples": [
+                "The character seemed amoral, acting only for personal gain.",
+                "Some critics call that policy amoral."
+            ]
+        }
+    ],
+    "atonal": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "music that does not follow the usual system of notes and keys",
+            "synonyms": [
+                "non-tonal",
+                "harmonically unorganized",
+                "keyless"
+            ],
+            "examples": [
+                "The composer wrote an atonal piece for the festival.",
+                "Atonal songs can sound strange to new listeners."
+            ]
+        }
+    ],
+    "asocial": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "not interested in social activities or avoiding social interaction",
+            "synonyms": [
+                "withdrawn",
+                "anti-social",
+                "isolated",
+                "unsociable"
+            ],
+            "examples": [
+                "He became asocial after the move.",
+                "Some people are asocial but still friendly when approached."
+            ]
+        }
+    ],
+    "apolitical": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "not interested in politics or not supporting any political side",
+            "synonyms": [
+                "nonpolitical",
+                "neutral",
+                "unbiased",
+                "indifferent"
+            ],
+            "examples": [
+                "She prefers to stay apolitical at work.",
+                "They tried to keep the group apolitical."
+            ]
+        }
+    ],
+    "alkali": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a substance that can neutralize an acid and often feels slippery",
+            "synonyms": [
+                "base",
+                "basic substance",
+                "caustic",
+                "alkaline chemical"
+            ],
+            "examples": [
+                "Lime is an alkali used in some treatments.",
+                "The lab measured how strong the alkali was."
+            ]
+        }
+    ],
+    "aspect": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a particular part or feature of a situation, subject, or problem",
+            "synonyms": [
+                "side",
+                "feature",
+                "facet",
+                "element"
+            ],
+            "examples": [
+                "We need to consider the financial aspect.",
+                "That aspect of the plan is unclear."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a time-related form of a verb that shows how an action happens, such as completed or ongoing",
+            "synonyms": [
+                "verb aspect",
+                "grammatical aspect"
+            ],
+            "examples": [
+                "English uses different verb aspects to show timing."
+            ]
+        }
+    ],
+    "abbot": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the leader of an abbey or monastery in some christian traditions",
+            "synonyms": [
+                "monastery head",
+                "religious superior"
+            ],
+            "examples": [
+                "The abbot met with the visiting students.",
+                "The abbot led the service in the chapel."
+            ]
+        }
+    ],
+    "atrabilious": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very gloomy, irritable, or bad-tempered",
+            "synonyms": [
+                "gloomy",
+                "irritable",
+                "bad-tempered",
+                "morose"
+            ],
+            "examples": [
+                "He had an atrabilious mood that affected the group."
+            ]
+        }
+    ],
+    "anaphora": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a writing or speaking style where the same word or phrase is repeated at the start of successive lines or sentences",
+            "synonyms": [
+                "repetition",
+                "word repetition",
+                "rhetorical repetition"
+            ],
+            "examples": [
+                "Anaphora can make a speech sound stronger and more memorable."
+            ]
+        }
+    ],
+    "asyndeton": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a writing style that removes conjunctions, making the sentence feel faster or more direct",
+            "synonyms": [
+                "omitted conjunctions",
+                "conjunction omission"
+            ],
+            "examples": [
+                "Asyndeton can create a dramatic, urgent rhythm in writing."
+            ]
+        }
+    ],
+    "avow": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to state clearly and openly that something is true or that you will do something",
+            "synonyms": [
+                "admit",
+                "declare",
+                "acknowledge",
+                "affirm"
+            ],
+            "examples": [
+                "He avowed his innocence in court.",
+                "She avowed her support for the plan."
+            ]
+        }
+    ],
+    "ablative": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "related to the grammatical case used in some languages to express meanings like separation or source",
+            "synonyms": [
+                "grammatical case-related"
+            ],
+            "examples": [
+                "In Latin, the ablative case is important."
+            ]
+        }
+    ],
+    "attenuate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make something weaker, smaller, or less intense",
+            "synonyms": [
+                "reduce",
+                "weaken",
+                "diminish",
+                "lessen"
+            ],
+            "examples": [
+                "The medicine can attenuate pain for a short time.",
+                "The loud sound attenuated after the door closed."
+            ]
+        }
+    ],
+    "aegis": [
+        {
+            "part_of_speech": "noun",
+            "definition": "protection or support, especially from an organization or authority",
+            "synonyms": [
+                "protection",
+                "safeguard",
+                "backing",
+                "shelter"
+            ],
+            "examples": [
+                "The project was completed under the aegis of a research group.",
+                "With the aegis of the law, they felt safer."
+            ]
+        }
     ]
 }

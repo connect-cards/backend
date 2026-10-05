@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-15",
+    "groups": [
+        {
+            "id": "2026-11-15-g1",
+            "type": "profession_domain",
+            "difficulty": "easy",
+            "title": "law practice",
+            "words": [
+                "tort",
+                "brief",
+                "statute",
+                "writ"
+            ]
+        },
+        {
+            "id": "2026-11-15-g2",
+            "type": "literary_register",
+            "difficulty": "medium",
+            "title": "poetic diction",
+            "words": [
+                "ere",
+                "oft",
+                "nay",
+                "thou"
+            ]
+        },
+        {
+            "id": "2026-11-15-g3",
+            "type": "physical_trait",
+            "difficulty": "hard",
+            "title": "thin bodies",
+            "words": [
+                "gaunt",
+                "lanky",
+                "cadaverous",
+                "rangy"
+            ]
+        },
+        {
+            "id": "2026-11-15-g4",
+            "type": "etymological_relation",
+            "difficulty": "very_hard",
+            "title": "write roots",
+            "words": [
+                "scribe",
+                "script",
+                "scrivener",
+                "inscription"
+            ]
+        }
+    ]
+}

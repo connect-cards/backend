@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-19",
+    "groups": [
+        {
+            "id": "2026-11-19-g1",
+            "type": "emotional_tone",
+            "difficulty": "easy",
+            "title": "wary moods",
+            "words": [
+                "anxious",
+                "apprehensive",
+                "uneasy",
+                "jittery"
+            ]
+        },
+        {
+            "id": "2026-11-19-g2",
+            "type": "informal_register",
+            "difficulty": "medium",
+            "title": "nonsense",
+            "words": [
+                "drivel",
+                "tripe",
+                "guff",
+                "twaddle"
+            ]
+        },
+        {
+            "id": "2026-11-19-g3",
+            "type": "sound_association",
+            "difficulty": "hard",
+            "title": "harsh sounds",
+            "words": [
+                "clang",
+                "clatter",
+                "rattle",
+                "cacophony"
+            ]
+        },
+        {
+            "id": "2026-11-19-g4",
+            "type": "semantic_field",
+            "difficulty": "very_hard",
+            "title": "rhetoric",
+            "words": [
+                "anaphora",
+                "chiasmus",
+                "zeugma",
+                "asyndeton"
+            ]
+        }
+    ]
+}

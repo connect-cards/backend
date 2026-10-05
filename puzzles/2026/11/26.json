@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-26",
+    "groups": [
+        {
+            "id": "2026-11-26-g1",
+            "type": "literary_register",
+            "difficulty": "easy",
+            "title": "speak formally",
+            "words": [
+                "utter",
+                "declare",
+                "proclaim",
+                "avow"
+            ]
+        },
+        {
+            "id": "2026-11-26-g2",
+            "type": "informal_register",
+            "difficulty": "medium",
+            "title": "fool",
+            "words": [
+                "dope",
+                "twit",
+                "bozo",
+                "chump"
+            ]
+        },
+        {
+            "id": "2026-11-26-g3",
+            "type": "sound_association",
+            "difficulty": "hard",
+            "title": "liquid sounds",
+            "words": [
+                "gurgle",
+                "burble",
+                "murmur",
+                "susurrus"
+            ]
+        },
+        {
+            "id": "2026-11-26-g4",
+            "type": "morphological_family",
+            "difficulty": "very_hard",
+            "title": "cut roots",
+            "words": [
+                "sector",
+                "bisect",
+                "segment",
+                "insect"
+            ]
+        }
+    ]
+}

@@ -500,5 +500,21 @@
                 "He cut his hand on a jagged piece of metal."
             ]
         }
+    ],
+    "jaunty": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "cheerful and confident in a lively way",
+            "synonyms": [
+                "sprightly",
+                "cheerful",
+                "confident",
+                "upbeat"
+            ],
+            "examples": [
+                "She walked with a jaunty step.",
+                "He gave a jaunty answer to the reporter."
+            ]
+        }
     ]
 }

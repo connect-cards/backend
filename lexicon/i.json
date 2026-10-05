@@ -2375,5 +2375,83 @@
                 "She infolded the paper to make a neat packet."
             ]
         }
+    ],
+    "insolent": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "rude and showing disrespect",
+            "synonyms": [
+                "rude",
+                "disrespectful",
+                "impudent",
+                "cheeky"
+            ],
+            "examples": [
+                "He gave an insolent reply to the teacher.",
+                "The customer was removed for being insolent."
+            ]
+        }
+    ],
+    "iatrogenic": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "caused by medical treatment or procedures rather than by the original condition",
+            "synonyms": [
+                "treatment-caused",
+                "medically induced",
+                "doctor-caused",
+                "hospital-caused"
+            ],
+            "examples": [
+                "The doctor warned about possible iatrogenic complications.",
+                "Iatrogenic effects can happen even with good care."
+            ]
+        }
+    ],
+    "ischemia": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a condition where blood flow to part of the body is reduced, which can damage tissue",
+            "synonyms": [
+                "poor blood flow",
+                "reduced perfusion",
+                "circulatory shortage"
+            ],
+            "examples": [
+                "Ischemia can cause pain and tissue damage.",
+                "The scan showed signs of ischemia."
+            ]
+        }
+    ],
+    "insect": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small animal with six legs, usually with wings and a body divided into parts",
+            "synonyms": [
+                "bug",
+                "creature",
+                "arthropod"
+            ],
+            "examples": [
+                "An insect flew into the room.",
+                "Many insects help pollinate flowers."
+            ]
+        }
+    ],
+    "innate": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "existing in a person or animal from birth",
+            "synonyms": [
+                "inborn",
+                "natural",
+                "inherent",
+                "hereditary"
+            ],
+            "examples": [
+                "Some abilities are innate.",
+                "Curiosity can be innate in many children."
+            ]
+        }
     ]
 }

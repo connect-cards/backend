@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-24",
+    "groups": [
+        {
+            "id": "2026-11-24-g1",
+            "type": "profession_domain",
+            "difficulty": "easy",
+            "title": "masonry",
+            "words": [
+                "grout",
+                "plumb",
+                "trowel",
+                "mortar"
+            ]
+        },
+        {
+            "id": "2026-11-24-g2",
+            "type": "synonym",
+            "difficulty": "medium",
+            "title": "stinginess",
+            "words": [
+                "parsimony",
+                "frugality",
+                "thrift",
+                "miserliness"
+            ]
+        },
+        {
+            "id": "2026-11-24-g3",
+            "type": "morphological_family",
+            "difficulty": "hard",
+            "title": "break forms",
+            "words": [
+                "broke",
+                "broken",
+                "breaker",
+                "breakage"
+            ]
+        },
+        {
+            "id": "2026-11-24-g4",
+            "type": "sound_association",
+            "difficulty": "very_hard",
+            "title": "ringing sounds",
+            "words": [
+                "peal",
+                "clang",
+                "tintinnabulation",
+                "tinkle"
+            ]
+        }
+    ]
+}

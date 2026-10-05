@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-06",
+    "groups": [
+        {
+            "id": "2026-11-06-g1",
+            "type": "informal_register",
+            "difficulty": "easy",
+            "title": "shabby",
+            "words": [
+                "ratty",
+                "grubby",
+                "tatty",
+                "scruffy"
+            ]
+        },
+        {
+            "id": "2026-11-06-g2",
+            "type": "physical_trait",
+            "difficulty": "medium",
+            "title": "thin body types",
+            "words": [
+                "gaunt",
+                "lanky",
+                "scrawny",
+                "spare"
+            ]
+        },
+        {
+            "id": "2026-11-06-g3",
+            "type": "emotional_tone",
+            "difficulty": "hard",
+            "title": "touchy",
+            "words": [
+                "huffy",
+                "testy",
+                "peevish",
+                "tetchy"
+            ]
+        },
+        {
+            "id": "2026-11-06-g4",
+            "type": "morphological_family",
+            "difficulty": "very_hard",
+            "title": "same stem forms",
+            "words": [
+                "cadence",
+                "cadent",
+                "cadenza",
+                "cadency"
+            ]
+        }
+    ]
+}

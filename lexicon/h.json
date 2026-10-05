@@ -1521,5 +1521,34 @@
                 "Hark, I have something important to tell you."
             ]
         }
+    ],
+    "huffy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "angry and showing it in an easily offended way",
+            "synonyms": [
+                "sulky",
+                "irritable",
+                "snappy",
+                "touchy"
+            ],
+            "examples": [
+                "She got huffy when he asked a second time.",
+                "Don’t be huffy about small changes."
+            ]
+        }
+    ],
+    "haruspicy": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a practice of trying to predict the future by studying the insides of animals",
+            "synonyms": [
+                "divination",
+                "fortune-telling"
+            ],
+            "examples": [
+                "Haruspicy was used in ancient cultures to interpret omens."
+            ]
+        }
     ]
 }

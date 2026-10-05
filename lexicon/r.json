@@ -3444,5 +3444,170 @@
                 "The comedian roasted the politician gently."
             ]
         }
+    ],
+    "record": [
+        {
+            "part_of_speech": "noun",
+            "definition": "information that is kept in written, digital, or other form for future use",
+            "synonyms": [
+                "data",
+                "file",
+                "archive",
+                "entry"
+            ],
+            "examples": [
+                "The office stored the record in a secure folder.",
+                "I can find my medical record online."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "the best or official result achieved by a person or team",
+            "synonyms": [
+                "record",
+                "best mark",
+                "top score",
+                "achievement"
+            ],
+            "examples": [
+                "She set a new record in the 100-meter race.",
+                "The team broke the club record."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to save or write information so it can be kept and checked later",
+            "synonyms": [
+                "log",
+                "document",
+                "record",
+                "register"
+            ],
+            "examples": [
+                "Please record your answers on the form.",
+                "The reporter recorded the interview on video."
+            ]
+        }
+    ],
+    "ratty": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "in poor condition, often old and worn",
+            "synonyms": [
+                "shabby",
+                "ragged",
+                "worn",
+                "tattered"
+            ],
+            "examples": [
+                "He was wearing ratty shoes.",
+                "The apartment had ratty furniture."
+            ]
+        }
+    ],
+    "remote": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "far away in space, distance, or time",
+            "synonyms": [
+                "far",
+                "distant",
+                "isolated",
+                "sparce"
+            ],
+            "examples": [
+                "The village is remote and hard to reach.",
+                "They live in a remote part of the country."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "not friendly or not showing interest or emotion",
+            "synonyms": [
+                "distant",
+                "aloof",
+                "unfriendly",
+                "reserved"
+            ],
+            "examples": [
+                "He seemed remote during the conversation.",
+                "She has a remote manner when she is stressed."
+            ]
+        }
+    ],
+    "retrospect": [
+        {
+            "part_of_speech": "noun",
+            "definition": "thinking about something again after it happened, especially to judge it",
+            "synonyms": [
+                "reflection",
+                "backward look",
+                "review",
+                "consideration"
+            ],
+            "examples": [
+                "In retrospect, the warning was clear.",
+                "Looking back in retrospect helped me understand the choice."
+            ]
+        }
+    ],
+    "refract": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to bend light as it passes from one material to another",
+            "synonyms": [
+                "bend",
+                "deflect",
+                "light-bend"
+            ],
+            "examples": [
+                "The prism refracts light to create a spectrum.",
+                "Light refracts when it enters water."
+            ]
+        }
+    ],
+    "rag": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a piece of cloth that is old and often used for cleaning",
+            "synonyms": [
+                "cloth",
+                "rag",
+                "cleaning cloth",
+                "tatter"
+            ],
+            "examples": [
+                "He used a rag to wipe the table.",
+                "The floor was clean because of the rag."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to annoy or disturb someone repeatedly",
+            "synonyms": [
+                "bother",
+                "hassle",
+                "annoy",
+                "pester"
+            ],
+            "examples": [
+                "Kids kept ragging the new student.",
+                "He raged less than he used to, but he still rags people sometimes."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to damage or wear something by rubbing or tearing",
+            "synonyms": [
+                "wear",
+                "tear",
+                "fray",
+                "damage"
+            ],
+            "examples": [
+                "The heavy use ragged the carpet.",
+                "Time and weather can rag old ropes."
+            ]
+        }
     ]
 }

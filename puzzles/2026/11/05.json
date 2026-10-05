@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-05",
+    "groups": [
+        {
+            "id": "2026-11-05-g1",
+            "type": "emotional_tone",
+            "difficulty": "easy",
+            "title": "gloomy moods",
+            "words": [
+                "bleak",
+                "sullen",
+                "morose",
+                "glum"
+            ]
+        },
+        {
+            "id": "2026-11-05-g2",
+            "type": "sound_association",
+            "difficulty": "medium",
+            "title": "harsh sounds",
+            "words": [
+                "clang",
+                "clatter",
+                "rattle",
+                "jangle"
+            ]
+        },
+        {
+            "id": "2026-11-05-g3",
+            "type": "literary_register",
+            "difficulty": "hard",
+            "title": "poetic pronouns",
+            "words": [
+                "thou",
+                "thee",
+                "thy",
+                "thine"
+            ]
+        },
+        {
+            "id": "2026-11-05-g4",
+            "type": "etymological_relation",
+            "difficulty": "very_hard",
+            "title": "from one root",
+            "words": [
+                "fraternal",
+                "fratricide",
+                "friar",
+                "frail"
+            ]
+        }
+    ]
+}

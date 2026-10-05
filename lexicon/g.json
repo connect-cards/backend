@@ -2088,5 +2088,122 @@
                 "The company was accused of greed by its customers."
             ]
         }
+    ],
+    "grike": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a street name for a specific condition or type of disease that affects people, often used informally in medical contexts",
+            "synonyms": [
+                "no common synonyms"
+            ],
+            "examples": [
+                "The term was used by one doctor in a local discussion."
+            ]
+        }
+    ],
+    "gibber": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to speak in an unclear or meaningless way",
+            "synonyms": [
+                "babble",
+                "chatter",
+                "stammer",
+                "ramble"
+            ],
+            "examples": [
+                "He began to gibber when he was very nervous.",
+                "The baby gibbers to itself during playtime."
+            ]
+        }
+    ],
+    "grubby": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "dirty or untidy, often in a small but noticeable way",
+            "synonyms": [
+                "dirty",
+                "filthy",
+                "smudgy",
+                "sloppy"
+            ],
+            "examples": [
+                "The kitchen floor was grubby after the party.",
+                "Her hands were grubby from gardening."
+            ]
+        }
+    ],
+    "git": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an offensive word for a foolish or unpleasant person",
+            "synonyms": [
+                "idiot",
+                "jerk",
+                "fool",
+                "scoundrel"
+            ],
+            "examples": [
+                "He’s acting like a git today.",
+                "They used the word git to insult him."
+            ]
+        }
+    ],
+    "gloat": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to feel pleasure because of someone else’s misfortune",
+            "synonyms": [
+                "revel",
+                "take pleasure",
+                "triumph",
+                "mock"
+            ],
+            "examples": [
+                "He gloatingly watched after he won.",
+                "Try not to gloat when others make mistakes."
+            ]
+        }
+    ],
+    "grout": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a thick material used to fill spaces between tiles",
+            "synonyms": [
+                "tile filler",
+                "filler",
+                "mortar"
+            ],
+            "examples": [
+                "The grout between the tiles needs cleaning.",
+                "He applied new grout to the bathroom floor."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to fill the spaces between tiles with grout",
+            "synonyms": [
+                "fill",
+                "tile-finish",
+                "point"
+            ],
+            "examples": [
+                "They grouted the tiles after installation.",
+                "The contractor will grout the shower walls tomorrow."
+            ]
+        }
+    ],
+    "gerund": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a form of a verb used like a noun, usually ending in -ing",
+            "synonyms": [
+                "-ing noun",
+                "verbal noun"
+            ],
+            "examples": [
+                "In English, the gerund can act as the subject of a sentence."
+            ]
+        }
     ]
 }

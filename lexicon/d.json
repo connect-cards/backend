@@ -3428,5 +3428,37 @@
                 "The article turned into a diatribe against the mayor."
             ]
         }
+    ],
+    "din": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a loud continuous noise",
+            "synonyms": [
+                "noise",
+                "clamor",
+                "uproar",
+                "racket"
+            ],
+            "examples": [
+                "The din outside made it hard to sleep.",
+                "There was a din in the city center."
+            ]
+        }
+    ],
+    "deprivation": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the state of not having something necessary or important",
+            "synonyms": [
+                "lack",
+                "shortage",
+                "need",
+                "privation"
+            ],
+            "examples": [
+                "Childhood deprivation can affect development.",
+                "They suffered deprivation after the disaster."
+            ]
+        }
     ]
 }

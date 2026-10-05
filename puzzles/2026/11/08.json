@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-08",
+    "groups": [
+        {
+            "id": "2026-11-08-g1",
+            "type": "emotional_tone",
+            "difficulty": "easy",
+            "title": "calmly detached",
+            "words": [
+                "cool",
+                "aloof",
+                "impassive",
+                "remote"
+            ]
+        },
+        {
+            "id": "2026-11-08-g2",
+            "type": "physical_trait",
+            "difficulty": "medium",
+            "title": "rough textures",
+            "words": [
+                "coarse",
+                "nubbly",
+                "raspy",
+                "rugose"
+            ]
+        },
+        {
+            "id": "2026-11-08-g3",
+            "type": "thematic_association",
+            "difficulty": "hard",
+            "title": "beekeeping",
+            "words": [
+                "apiary",
+                "brood",
+                "drone",
+                "smoker"
+            ]
+        },
+        {
+            "id": "2026-11-08-g4",
+            "type": "etymological_relation",
+            "difficulty": "very_hard",
+            "title": "night root",
+            "words": [
+                "nocturne",
+                "noctuid",
+                "noctambulist",
+                "equinoctial"
+            ]
+        }
+    ]
+}

@@ -2800,5 +2800,442 @@
                 "Our boat is in a berth at the marina."
             ]
         }
+    ],
+    "bash": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an informal party or event",
+            "synonyms": [
+                "party",
+                "get-together",
+                "social",
+                "bash"
+            ],
+            "examples": [
+                "We had a small bash for her birthday.",
+                "The neighbors organized a bash in the garden."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to hit something hard, usually repeatedly",
+            "synonyms": [
+                "beat",
+                "strike",
+                "smash",
+                "pound"
+            ],
+            "examples": [
+                "Don’t bash the door so loudly.",
+                "He bashed the old box to make it break."
+            ]
+        }
+    ],
+    "baleful": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "showing strong dislike or causing harm, often in a threatening way",
+            "synonyms": [
+                "menacing",
+                "malicious",
+                "harmful",
+                "ominous"
+            ],
+            "examples": [
+                "His baleful stare made everyone uncomfortable.",
+                "The baleful warning sounded serious."
+            ]
+        }
+    ],
+    "bide": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to wait for something to happen, usually without doing much",
+            "synonyms": [
+                "wait",
+                "remain",
+                "stay",
+                "hold out"
+            ],
+            "examples": [
+                "She decided to bide her time before answering.",
+                "We bided our time until the meeting ended."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to live or stay in a place for a period of time",
+            "synonyms": [
+                "stay",
+                "live",
+                "reside",
+                "remain"
+            ],
+            "examples": [
+                "He planned to bide in the city for a few months.",
+                "They bided in a small apartment while repairs were made."
+            ]
+        }
+    ],
+    "brood": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a group of young birds produced at the same time",
+            "synonyms": [
+                "litter",
+                "offspring",
+                "young",
+                "nestlings"
+            ],
+            "examples": [
+                "The mother bird fed her brood.",
+                "The farmer counted the brood in the nest."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to think about something seriously for a long time, often in an unhappy way",
+            "synonyms": [
+                "ponder",
+                "ruminate",
+                "dwell",
+                "contemplate"
+            ],
+            "examples": [
+                "She brooded over the mistake for days.",
+                "Don’t brood; talk to someone instead."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "for a bird to sit on eggs to keep them warm until they hatch",
+            "synonyms": [
+                "incubate",
+                "nest"
+            ],
+            "examples": [
+                "The hen brooded on her eggs.",
+                "She saw the bird brood over the nest."
+            ]
+        }
+    ],
+    "berk": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a rude british insult for a foolish person",
+            "synonyms": [
+                "idiot",
+                "fool",
+                "moron",
+                "jerk"
+            ],
+            "examples": [
+                "He shouted berk at the other driver.",
+                "People sometimes use berk as an insult."
+            ]
+        }
+    ],
+    "blasé": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "showing little interest because something feels too familiar or not exciting anymore",
+            "synonyms": [
+                "unenthusiastic",
+                "indifferent",
+                "world-weary",
+                "cool"
+            ],
+            "examples": [
+                "He sounded blasé about the new job.",
+                "After so many wins, she became blasé."
+            ]
+        }
+    ],
+    "bristly": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "rough or covered with stiff hairs, or easily irritated",
+            "synonyms": [
+                "spiky",
+                "rough",
+                "hairy",
+                "irritated"
+            ],
+            "examples": [
+                "The cat looked bristly after the bath.",
+                "His bristly attitude stopped the conversation."
+            ]
+        }
+    ],
+    "brag": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to talk proudly about your achievements or possessions, often more than necessary",
+            "synonyms": [
+                "boast",
+                "show off",
+                "swagger",
+                "talk big"
+            ],
+            "examples": [
+                "He bragged about his new car.",
+                "Don’t brag, just do the work."
+            ]
+        }
+    ],
+    "bluster": [
+        {
+            "part_of_speech": "noun",
+            "definition": "loud and aggressive talk that tries to intimidate people",
+            "synonyms": [
+                "threats",
+                "bragging",
+                "boast",
+                "posturing"
+            ],
+            "examples": [
+                "Her bluster didn’t convince anyone.",
+                "The report dismissed the politician’s bluster."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to talk loudly in an aggressive way, especially without real authority",
+            "synonyms": [
+                "talk big",
+                "threaten",
+                "blow hot air",
+                "rant"
+            ],
+            "examples": [
+                "He blustered but didn’t take action.",
+                "The manager blustered during the meeting."
+            ]
+        }
+    ],
+    "blithe": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "happy and carefree, showing little concern",
+            "synonyms": [
+                "carefree",
+                "lighthearted",
+                "heedless",
+                "unconcerned"
+            ],
+            "examples": [
+                "He gave a blithe answer even though the problem was serious.",
+                "She stayed blithe about the deadline."
+            ]
+        }
+    ],
+    "berate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to speak angrily to someone because you think they did something wrong",
+            "synonyms": [
+                "scold",
+                "reprimand",
+                "criticize",
+                "upbraid"
+            ],
+            "examples": [
+                "The teacher berated him for skipping class.",
+                "She berated herself for forgetting the appointment."
+            ]
+        }
+    ],
+    "blazon": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a formal description of a coat of arms, using specific heraldic language",
+            "synonyms": [
+                "coat-of-arms description",
+                "heraldic description"
+            ],
+            "examples": [
+                "The blazon explained the symbols on the shield.",
+                "You can find the blazon in the record."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to describe or display a coat of arms",
+            "synonyms": [
+                "describe",
+                "display",
+                "herald"
+            ],
+            "examples": [
+                "The book blazoned the family’s arms in detail.",
+                "The banner blazoned the official emblem."
+            ]
+        }
+    ],
+    "born": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "stated or understood as being true from the beginning of someone’s life or character",
+            "synonyms": [
+                "inherent",
+                "natural",
+                "innate",
+                "by nature"
+            ],
+            "examples": [
+                "She’s a born leader.",
+                "He was born curious."
+            ]
+        }
+    ],
+    "broke": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having no money or not enough money to pay debts",
+            "synonyms": [
+                "bankrupt",
+                "in debt",
+                "poor",
+                "out of money"
+            ],
+            "examples": [
+                "I’m broke until payday.",
+                "After the bill arrived, he felt broke."
+            ]
+        }
+    ],
+    "broken": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "not working properly or damaged",
+            "synonyms": [
+                "damaged",
+                "faulty",
+                "nonworking",
+                "in pieces"
+            ],
+            "examples": [
+                "The screen is broken.",
+                "He bought a broken chair at the market."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "finished, ended, or no longer continuing",
+            "synonyms": [
+                "ended",
+                "disrupted",
+                "interrupted",
+                "ceased"
+            ],
+            "examples": [
+                "The relationship is broken beyond repair.",
+                "The plan was broken by unexpected delays."
+            ]
+        }
+    ],
+    "breaker": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person or thing that breaks something",
+            "synonyms": [
+                "breaker",
+                "destroyer",
+                "smash",
+                "divider"
+            ],
+            "examples": [
+                "He became a breaker of records in the league.",
+                "The storm was a breaker of boats."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a device that stops or controls electrical current",
+            "synonyms": [
+                "circuit breaker",
+                "switchgear component"
+            ],
+            "examples": [
+                "The power went out because a breaker tripped.",
+                "Reset the breaker before using the outlet."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who breaks rules or laws, often used in a general sense",
+            "synonyms": [
+                "lawbreaker",
+                "violator",
+                "offender"
+            ],
+            "examples": [
+                "They warned about repeat breaker of parking rules."
+            ]
+        }
+    ],
+    "breakage": [
+        {
+            "part_of_speech": "noun",
+            "definition": "damage caused by breaking something or by being broken",
+            "synonyms": [
+                "damage",
+                "break",
+                "destruction",
+                "cracking"
+            ],
+            "examples": [
+                "The shipping company covered breakage of fragile items.",
+                "There was breakage during transport."
+            ]
+        }
+    ],
+    "bozo": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an insulting word for a foolish or silly person",
+            "synonyms": [
+                "idiot",
+                "fool",
+                "clown",
+                "moron"
+            ],
+            "examples": [
+                "Don’t be a bozo, read the instructions first.",
+                "They called him a bozo after the mistake."
+            ]
+        }
+    ],
+    "burble": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a soft, bubbling sound",
+            "synonyms": [
+                "gurgle",
+                "murmur",
+                "babble",
+                "purl"
+            ],
+            "examples": [
+                "The stream burbled over the stones.",
+                "The baby burbled in its sleep."
+            ]
+        }
+    ],
+    "bisect": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to divide something into two equal parts",
+            "synonyms": [
+                "divide",
+                "split",
+                "cut in half",
+                "separate"
+            ],
+            "examples": [
+                "Please bisect the line.",
+                "The diagram shows how to bisect the angle."
+            ]
+        }
     ]
 }

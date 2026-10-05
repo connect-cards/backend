@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-16",
+    "groups": [
+        {
+            "id": "2026-11-16-g1",
+            "type": "synonym",
+            "difficulty": "easy",
+            "title": "confuse",
+            "words": [
+                "baffle",
+                "mystify",
+                "perplex",
+                "bewilder"
+            ]
+        },
+        {
+            "id": "2026-11-16-g2",
+            "type": "morphological_family",
+            "difficulty": "medium",
+            "title": "break forms",
+            "words": [
+                "fracture",
+                "fraction",
+                "refract",
+                "fragile"
+            ]
+        },
+        {
+            "id": "2026-11-16-g3",
+            "type": "thematic_association",
+            "difficulty": "hard",
+            "title": "monastery life",
+            "words": [
+                "cloister",
+                "abbot",
+                "novice",
+                "vespers"
+            ]
+        },
+        {
+            "id": "2026-11-16-g4",
+            "type": "informal_register",
+            "difficulty": "very_hard",
+            "title": "idle chatter",
+            "words": [
+                "yak",
+                "natter",
+                "blather",
+                "prattle"
+            ]
+        }
+    ]
+}

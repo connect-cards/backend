@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-02",
+    "groups": [
+        {
+            "id": "2026-11-02-g1",
+            "type": "informal_register",
+            "difficulty": "easy",
+            "title": "nonsense talk",
+            "words": [
+                "blather",
+                "drivel",
+                "gibber",
+                "babble"
+            ]
+        },
+        {
+            "id": "2026-11-02-g2",
+            "type": "etymological_relation",
+            "difficulty": "medium",
+            "title": "heart roots",
+            "words": [
+                "cordial",
+                "discord",
+                "record",
+                "concord"
+            ]
+        },
+        {
+            "id": "2026-11-02-g3",
+            "type": "literary_register",
+            "difficulty": "hard",
+            "title": "old insults",
+            "words": [
+                "varlet",
+                "knave",
+                "caitiff",
+                "miscreant"
+            ]
+        },
+        {
+            "id": "2026-11-02-g4",
+            "type": "thematic_association",
+            "difficulty": "very_hard",
+            "title": "bog terrain",
+            "words": [
+                "fen",
+                "mire",
+                "morass",
+                "quag"
+            ]
+        }
+    ]
+}
