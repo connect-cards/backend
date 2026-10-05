@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-13",
+    "groups": [
+        {
+            "id": "2026-11-13-g1",
+            "type": "emotional_tone",
+            "difficulty": "easy",
+            "title": "dark moods",
+            "words": [
+                "morose",
+                "sullen",
+                "glum",
+                "dour"
+            ]
+        },
+        {
+            "id": "2026-11-13-g2",
+            "type": "etymological_relation",
+            "difficulty": "medium",
+            "title": "carry roots",
+            "words": [
+                "deport",
+                "import",
+                "support",
+                "transport"
+            ]
+        },
+        {
+            "id": "2026-11-13-g3",
+            "type": "physical_trait",
+            "difficulty": "hard",
+            "title": "rough textures",
+            "words": [
+                "gnarled",
+                "bristly",
+                "callous",
+                "wiry"
+            ]
+        },
+        {
+            "id": "2026-11-13-g4",
+            "type": "sound_association",
+            "difficulty": "very_hard",
+            "title": "harsh cries",
+            "words": [
+                "caw",
+                "squawk",
+                "skirl",
+                "yelp"
+            ]
+        }
+    ]
+}

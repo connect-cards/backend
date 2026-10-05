@@ -751,5 +751,148 @@
                 "The paper was nicked at the corner."
             ]
         }
+    ],
+    "nap": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a short sleep during the day",
+            "synonyms": [
+                "doze",
+                "sleep",
+                "power nap",
+                "siesta"
+            ],
+            "examples": [
+                "I took a nap after lunch.",
+                "A short nap helped her feel better."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to sleep for a short time during the day",
+            "synonyms": [
+                "doze",
+                "rest",
+                "sleep"
+            ],
+            "examples": [
+                "I need to nap before the game.",
+                "She napped for about twenty minutes."
+            ]
+        }
+    ],
+    "nubbly": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having small lumps or an uneven rough surface",
+            "synonyms": [
+                "bumpy",
+                "lumpy",
+                "rough",
+                "textured"
+            ],
+            "examples": [
+                "The apple had a nubbly skin.",
+                "The sweater felt nubbly when I touched it."
+            ]
+        }
+    ],
+    "nocturne": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a piece of music with a calm, night-like mood",
+            "synonyms": [
+                "night piece",
+                "piano nocturne",
+                "evening piece"
+            ],
+            "examples": [
+                "The composer wrote a beautiful nocturne.",
+                "I listened to a nocturne before sleep."
+            ]
+        }
+    ],
+    "noctuid": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a type of moth in the noctuidae family",
+            "synonyms": [
+                "night moth"
+            ],
+            "examples": [
+                "The garden has many noctuids after sunset."
+            ]
+        }
+    ],
+    "noctambulist": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who walks during sleep, also called a sleepwalker",
+            "synonyms": [
+                "sleepwalker",
+                "somnambulist"
+            ],
+            "examples": [
+                "Her brother is a noctambulist and sometimes wakes up far from his bed."
+            ]
+        }
+    ],
+    "novice": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who is new to an activity and has little experience",
+            "synonyms": [
+                "beginner",
+                "learner",
+                "rookie",
+                "neophyte"
+            ],
+            "examples": [
+                "She is a novice in public speaking.",
+                "I’m still a novice, so I make mistakes."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "new and with little experience in a field or activity",
+            "synonyms": [
+                "beginner",
+                "inexperienced",
+                "new",
+                "green"
+            ],
+            "examples": [
+                "He’s a novice programmer but he learns fast.",
+                "The team has novice members who need guidance."
+            ]
+        }
+    ],
+    "nosology": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the branch of medicine that classifies diseases",
+            "synonyms": [
+                "disease classification",
+                "medical taxonomy"
+            ],
+            "examples": [
+                "Nosology helps doctors use clear disease categories."
+            ]
+        }
+    ],
+    "natal": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "related to birth or the place of birth",
+            "synonyms": [
+                "birth-related",
+                "born",
+                "genetic-to-birth"
+            ],
+            "examples": [
+                "The doctor discussed natal factors in development.",
+                "They studied natal influences on health."
+            ]
+        }
     ]
 }

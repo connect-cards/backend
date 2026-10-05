@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-29",
+    "groups": [
+        {
+            "id": "2026-11-29-easy",
+            "type": "thematic_association",
+            "difficulty": "easy",
+            "title": "winter wear",
+            "words": [
+                "mitten",
+                "parka",
+                "scarf",
+                "boot"
+            ]
+        },
+        {
+            "id": "2026-11-29-medium",
+            "type": "physical_trait",
+            "difficulty": "medium",
+            "title": "rough surfaces",
+            "words": [
+                "jagged",
+                "coarse",
+                "gritty",
+                "rugose"
+            ]
+        },
+        {
+            "id": "2026-11-29-hard",
+            "type": "morphological_family",
+            "difficulty": "hard",
+            "title": "speech acts",
+            "words": [
+                "dictate",
+                "edict",
+                "verdict",
+                "dictionary"
+            ]
+        },
+        {
+            "id": "2026-11-29-very_hard",
+            "type": "sound_association",
+            "difficulty": "very_hard",
+            "title": "short i sound",
+            "words": [
+                "cyst",
+                "myth",
+                "lynx",
+                "sylph"
+            ]
+        }
+    ]
+}

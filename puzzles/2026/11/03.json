@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-03",
+    "groups": [
+        {
+            "id": "2026-11-03-g1",
+            "type": "informal_register",
+            "difficulty": "easy",
+            "title": "criticize harshly",
+            "words": [
+                "slam",
+                "trash",
+                "pan",
+                "bash"
+            ]
+        },
+        {
+            "id": "2026-11-03-g2",
+            "type": "profession_domain",
+            "difficulty": "medium",
+            "title": "legal latin",
+            "words": [
+                "tort",
+                "estoppel",
+                "voirdire",
+                "demurrer"
+            ]
+        },
+        {
+            "id": "2026-11-03-g3",
+            "type": "morphological_family",
+            "difficulty": "hard",
+            "title": "carry forms",
+            "words": [
+                "convey",
+                "vector",
+                "deviate",
+                "vehicle"
+            ]
+        },
+        {
+            "id": "2026-11-03-g4",
+            "type": "physical_trait",
+            "difficulty": "very_hard",
+            "title": "thinness",
+            "words": [
+                "gaunt",
+                "cadaverous",
+                "rangy",
+                "spare"
+            ]
+        }
+    ]
+}

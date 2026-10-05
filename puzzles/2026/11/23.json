@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-23",
+    "groups": [
+        {
+            "id": "2026-11-23-g1",
+            "type": "profession_domain",
+            "difficulty": "easy",
+            "title": "tailoring",
+            "words": [
+                "baste",
+                "hem",
+                "seam",
+                "thimble"
+            ]
+        },
+        {
+            "id": "2026-11-23-g2",
+            "type": "morphological_family",
+            "difficulty": "medium",
+            "title": "bear forms",
+            "words": [
+                "bore",
+                "borne",
+                "born",
+                "bearing"
+            ]
+        },
+        {
+            "id": "2026-11-23-g3",
+            "type": "etymological_relation",
+            "difficulty": "hard",
+            "title": "words from latin law",
+            "words": [
+                "legal",
+                "loyal",
+                "leal",
+                "legislate"
+            ]
+        },
+        {
+            "id": "2026-11-23-g4",
+            "type": "sound_association",
+            "difficulty": "very_hard",
+            "title": "nasal sounds",
+            "words": [
+                "snuffle",
+                "snivel",
+                "snort",
+                "snuffle"
+            ]
+        }
+    ]
+}

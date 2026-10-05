@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-21",
+    "groups": [
+        {
+            "id": "2026-11-21-g1",
+            "type": "literary_register",
+            "difficulty": "easy",
+            "title": "poetic sadness",
+            "words": [
+                "woe",
+                "gloom",
+                "grief",
+                "sorrow"
+            ]
+        },
+        {
+            "id": "2026-11-21-g2",
+            "type": "sound_association",
+            "difficulty": "medium",
+            "title": "soft murmurs",
+            "words": [
+                "hum",
+                "hush",
+                "whisper",
+                "murmur"
+            ]
+        },
+        {
+            "id": "2026-11-21-g3",
+            "type": "synonym",
+            "difficulty": "hard",
+            "title": "briefly lasting",
+            "words": [
+                "fleeting",
+                "evanescent",
+                "ephemeral",
+                "transient"
+            ]
+        },
+        {
+            "id": "2026-11-21-g4",
+            "type": "profession_domain",
+            "difficulty": "very_hard",
+            "title": "heraldry",
+            "words": [
+                "blazon",
+                "escutcheon",
+                "tincture",
+                "ordinaire"
+            ]
+        }
+    ]
+}

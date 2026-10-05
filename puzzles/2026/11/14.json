@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-14",
+    "groups": [
+        {
+            "id": "2026-11-14-g1",
+            "type": "sound_association",
+            "difficulty": "easy",
+            "title": "liquid sounds",
+            "words": [
+                "gurgle",
+                "babble",
+                "murmur",
+                "trickle"
+            ]
+        },
+        {
+            "id": "2026-11-14-g2",
+            "type": "etymological_relation",
+            "difficulty": "medium",
+            "title": "see roots",
+            "words": [
+                "aspect",
+                "inspect",
+                "specter",
+                "retrospect"
+            ]
+        },
+        {
+            "id": "2026-11-14-g3",
+            "type": "thematic_association",
+            "difficulty": "hard",
+            "title": "stagecraft",
+            "words": [
+                "scrim",
+                "prop",
+                "cue",
+                "wing"
+            ]
+        },
+        {
+            "id": "2026-11-14-g4",
+            "type": "synonym",
+            "difficulty": "very_hard",
+            "title": "brief sayings",
+            "words": [
+                "maxim",
+                "gnome",
+                "apothegm",
+                "saw"
+            ]
+        }
+    ]
+}

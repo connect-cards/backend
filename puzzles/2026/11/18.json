@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-18",
+    "groups": [
+        {
+            "id": "2026-11-18-g1",
+            "type": "informal_register",
+            "difficulty": "easy",
+            "title": "money",
+            "words": [
+                "cash",
+                "dough",
+                "loot",
+                "scratch"
+            ]
+        },
+        {
+            "id": "2026-11-18-g2",
+            "type": "synonym",
+            "difficulty": "medium",
+            "title": "brief",
+            "words": [
+                "terse",
+                "succinct",
+                "laconic",
+                "pithy"
+            ]
+        },
+        {
+            "id": "2026-11-18-g3",
+            "type": "profession_domain",
+            "difficulty": "hard",
+            "title": "law court",
+            "words": [
+                "affidavit",
+                "tort",
+                "deponent",
+                "estoppel"
+            ]
+        },
+        {
+            "id": "2026-11-18-g4",
+            "type": "emotional_tone",
+            "difficulty": "very_hard",
+            "title": "scornful",
+            "words": [
+                "sneering",
+                "disdainful",
+                "supercilious",
+                "contumelious"
+            ]
+        }
+    ]
+}

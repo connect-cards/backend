@@ -775,5 +775,32 @@
                 "She unfolded the blanket on the chair."
             ]
         }
+    ],
+    "upbeat": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "cheerful and optimistic",
+            "synonyms": [
+                "positive",
+                "cheerful",
+                "optimistic",
+                "encouraging"
+            ],
+            "examples": [
+                "She stayed upbeat even after the bad news.",
+                "His upbeat attitude helped the team relax."
+            ]
+        },
+        {
+            "part_of_speech": "adverb",
+            "definition": "in a cheerful and energetic way",
+            "synonyms": [
+                "cheerfully",
+                "optimistically"
+            ],
+            "examples": [
+                "The music sounds upbeat and lively."
+            ]
+        }
     ]
 }

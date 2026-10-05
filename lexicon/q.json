@@ -435,5 +435,21 @@
                 "His boot sank into the quag."
             ]
         }
+    ],
+    "quay": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a platform or wall next to water where ships can dock",
+            "synonyms": [
+                "dock",
+                "pier",
+                "harbor wall",
+                "wharf"
+            ],
+            "examples": [
+                "The boat was tied up at the quay.",
+                "We walked along the quay to watch the ships."
+            ]
+        }
     ]
 }

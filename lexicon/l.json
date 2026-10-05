@@ -1753,5 +1753,83 @@
                 "The sheep were grazing on the lea."
             ]
         }
+    ],
+    "legal": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "allowed by law or based on law",
+            "synonyms": [
+                "lawful",
+                "permitted",
+                "authorized",
+                "legitimate"
+            ],
+            "examples": [
+                "Is it legal to park here?",
+                "The agreement is legal and binding."
+            ]
+        }
+    ],
+    "loyal": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "supporting and staying faithful to a person, group, or promise",
+            "synonyms": [
+                "faithful",
+                "devoted",
+                "trustworthy",
+                "steadfast"
+            ],
+            "examples": [
+                "She is loyal to her friends.",
+                "He remained loyal to the team."
+            ]
+        }
+    ],
+    "leal": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "loyal and faithful, especially in a traditional or formal way",
+            "synonyms": [
+                "loyal",
+                "faithful",
+                "true",
+                "devoted"
+            ],
+            "examples": [
+                "He is leal to his principles.",
+                "She remained leal to her family."
+            ]
+        }
+    ],
+    "legislate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make laws or pass new laws",
+            "synonyms": [
+                "make laws",
+                "enact",
+                "pass",
+                "form legislation"
+            ],
+            "examples": [
+                "The government plans to legislate for better safety standards.",
+                "They legislate to protect consumers."
+            ]
+        }
+    ],
+    "lynx": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a wild cat with short tail, tufted ears, and spotted or striped fur",
+            "synonyms": [
+                "wildcat",
+                "big cat"
+            ],
+            "examples": [
+                "A lynx lives in cold forest areas.",
+                "The lynx has distinctive ear tufts."
+            ]
+        }
     ]
 }

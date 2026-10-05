@@ -1866,5 +1866,78 @@
                 "They envy the team’s long-running success."
             ]
         }
+    ],
+    "equinoxial": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "related to the equinox, when day and night are about equal in length",
+            "synonyms": [
+                "equinox-related",
+                "seasonal"
+            ],
+            "examples": [
+                "They mentioned equinoxial changes in the weather forecast."
+            ]
+        }
+    ],
+    "ember": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small piece of burning material that glows after a fire",
+            "synonyms": [
+                "coal",
+                "glowing coal",
+                "cinder",
+                "glow"
+            ],
+            "examples": [
+                "The ember faded into the ashes.",
+                "She watched the ember glow in the fireplace."
+            ]
+        }
+    ],
+    "escutcheon": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the shield area that displays a coat of arms, especially in heraldry",
+            "synonyms": [
+                "shield",
+                "heraldic shield",
+                "coat-of-arms shield"
+            ],
+            "examples": [
+                "The escutcheon showed the family crest.",
+                "An escutcheon hung above the entrance."
+            ]
+        }
+    ],
+    "esker": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a long ridge of sand and gravel formed by meltwater streams under glaciers",
+            "synonyms": [
+                "glacial ridge",
+                "sand-and-gravel ridge"
+            ],
+            "examples": [
+                "An esker runs across the field like a low hill."
+            ]
+        }
+    ],
+    "edict": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an official order or decree, especially from a government",
+            "synonyms": [
+                "order",
+                "decree",
+                "proclamation",
+                "directive"
+            ],
+            "examples": [
+                "The new edict changed the rules for parking.",
+                "The king issued an edict to enforce the law."
+            ]
+        }
     ]
 }

@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-09",
+    "groups": [
+        {
+            "id": "2026-11-09-g1",
+            "type": "physical_trait",
+            "difficulty": "easy",
+            "title": "body builds",
+            "words": [
+                "lithe",
+                "gaunt",
+                "stocky",
+                "willowy"
+            ]
+        },
+        {
+            "id": "2026-11-09-g2",
+            "type": "emotional_tone",
+            "difficulty": "medium",
+            "title": "brooding moods",
+            "words": [
+                "sullen",
+                "morose",
+                "petulant",
+                "glum"
+            ]
+        },
+        {
+            "id": "2026-11-09-g3",
+            "type": "morphological_family",
+            "difficulty": "hard",
+            "title": "negative prefixes",
+            "words": [
+                "amoral",
+                "atonal",
+                "asocial",
+                "apolitical"
+            ]
+        },
+        {
+            "id": "2026-11-09-g4",
+            "type": "informal_register",
+            "difficulty": "very_hard",
+            "title": "slang insults",
+            "words": [
+                "wazzock",
+                "git",
+                "twit",
+                "berk"
+            ]
+        }
+    ]
+}

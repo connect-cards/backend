@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-07",
+    "groups": [
+        {
+            "id": "2026-11-07-g1",
+            "type": "informal_register",
+            "difficulty": "easy",
+            "title": "nonsense",
+            "words": [
+                "baloney",
+                "drivel",
+                "tripe",
+                "twaddle"
+            ]
+        },
+        {
+            "id": "2026-11-07-g2",
+            "type": "profession_domain",
+            "difficulty": "medium",
+            "title": "law practice",
+            "words": [
+                "tort",
+                "lien",
+                "estoppel",
+                "demurrer"
+            ]
+        },
+        {
+            "id": "2026-11-07-g3",
+            "type": "emotional_tone",
+            "difficulty": "hard",
+            "title": "proudly defiant",
+            "words": [
+                "jaunty",
+                "cocky",
+                "brash",
+                "insolent"
+            ]
+        },
+        {
+            "id": "2026-11-07-g4",
+            "type": "literary_register",
+            "difficulty": "very_hard",
+            "title": "old verbs",
+            "words": [
+                "wend",
+                "abide",
+                "bide",
+                "tarry"
+            ]
+        }
+    ]
+}

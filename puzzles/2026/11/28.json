@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-28",
+    "groups": [
+        {
+            "id": "2026-11-28-g1",
+            "type": "sound_association",
+            "difficulty": "easy",
+            "title": "bell sounds",
+            "words": [
+                "peal",
+                "chime",
+                "tintinnabulation",
+                "tinkle"
+            ]
+        },
+        {
+            "id": "2026-11-28-g2",
+            "type": "physical_trait",
+            "difficulty": "medium",
+            "title": "leanness",
+            "words": [
+                "gaunt",
+                "rangy",
+                "scrawny",
+                "wiry"
+            ]
+        },
+        {
+            "id": "2026-11-28-g3",
+            "type": "etymological_relation",
+            "difficulty": "hard",
+            "title": "heart roots",
+            "words": [
+                "cordial",
+                "discord",
+                "record",
+                "concord"
+            ]
+        },
+        {
+            "id": "2026-11-28-g4",
+            "type": "profession_domain",
+            "difficulty": "very_hard",
+            "title": "grammar terms",
+            "words": [
+                "ablative",
+                "gerund",
+                "copula",
+                "zeugma"
+            ]
+        }
+    ]
+}

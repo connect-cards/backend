@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-17",
+    "groups": [
+        {
+            "id": "2026-11-17-g1",
+            "type": "thematic_association",
+            "difficulty": "easy",
+            "title": "campfire things",
+            "words": [
+                "ember",
+                "kindling",
+                "smoke",
+                "ash"
+            ]
+        },
+        {
+            "id": "2026-11-17-g2",
+            "type": "informal_register",
+            "difficulty": "medium",
+            "title": "boast",
+            "words": [
+                "crow",
+                "brag",
+                "vaunt",
+                "bluster"
+            ]
+        },
+        {
+            "id": "2026-11-17-g3",
+            "type": "morphological_family",
+            "difficulty": "hard",
+            "title": "bearing carry",
+            "words": [
+                "portable",
+                "deport",
+                "comport",
+                "portage"
+            ]
+        },
+        {
+            "id": "2026-11-17-g4",
+            "type": "emotional_tone",
+            "difficulty": "very_hard",
+            "title": "gloomy moods",
+            "words": [
+                "doleful",
+                "saturnine",
+                "lugubrious",
+                "atrabilious"
+            ]
+        }
+    ]
+}

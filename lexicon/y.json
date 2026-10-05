@@ -187,5 +187,33 @@
                 "The child yelped and ran to his mother."
             ]
         }
+    ],
+    "yak": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a large hairy animal related to cattle, found in cold regions of asia",
+            "synonyms": [
+                "wild ox",
+                "tibetan ox"
+            ],
+            "examples": [
+                "Yaks live in high mountain areas.",
+                "The guide described how yaks survive in cold weather."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to talk too much in a noisy or annoying way",
+            "synonyms": [
+                "chat",
+                "chatter",
+                "talk",
+                "ramble"
+            ],
+            "examples": [
+                "They started to yak during the meeting.",
+                "He always yaks about the same topic."
+            ]
+        }
     ]
 }

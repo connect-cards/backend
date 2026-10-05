@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-20",
+    "groups": [
+        {
+            "id": "2026-11-20-g1",
+            "type": "emotional_tone",
+            "difficulty": "easy",
+            "title": "cheerful",
+            "words": [
+                "buoyant",
+                "upbeat",
+                "blithe",
+                "jaunty"
+            ]
+        },
+        {
+            "id": "2026-11-20-g2",
+            "type": "literary_register",
+            "difficulty": "medium",
+            "title": "old pronouns",
+            "words": [
+                "thou",
+                "thee",
+                "thy",
+                "thine"
+            ]
+        },
+        {
+            "id": "2026-11-20-g3",
+            "type": "informal_register",
+            "difficulty": "hard",
+            "title": "rebuke",
+            "words": [
+                "scold",
+                "berate",
+                "rag",
+                "chew"
+            ]
+        },
+        {
+            "id": "2026-11-20-g4",
+            "type": "profession_domain",
+            "difficulty": "very_hard",
+            "title": "medicine",
+            "words": [
+                "iatrogenic",
+                "nosology",
+                "ischemia",
+                "stertor"
+            ]
+        }
+    ]
+}

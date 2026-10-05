@@ -7395,5 +7395,470 @@
                 "They sneered when we suggested a different plan."
             ]
         }
+    ],
+    "scruffy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "untidy in appearance, often with unclean or messy clothes or hair",
+            "synonyms": [
+                "shabby",
+                "messy",
+                "unkempt",
+                "ragged"
+            ],
+            "examples": [
+                "He looked scruffy after working outside all day.",
+                "The dog arrived with scruffy fur after the storm."
+            ]
+        }
+    ],
+    "smoker": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who smokes cigarettes or other tobacco",
+            "synonyms": [
+                "tobacco user",
+                "smoker",
+                "cigarette smoker"
+            ],
+            "examples": [
+                "Is there a place for smokers outside?",
+                "My brother is a smoker, but he smokes less now."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a device that uses smoke, often to cook food",
+            "synonyms": [
+                "smokehouse",
+                "smoker"
+            ],
+            "examples": [
+                "We used a smoker to cook the meat.",
+                "The smoker kept the flavor steady."
+            ]
+        }
+    ],
+    "saffron": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a yellow-orange spice made from the dried parts of a flower",
+            "synonyms": [
+                "saffron powder",
+                "spice"
+            ],
+            "examples": [
+                "The recipe uses a small amount of saffron.",
+                "Saffron adds color and flavor to rice."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "having a yellow-orange color like saffron",
+            "synonyms": [
+                "golden",
+                "yellow-orange"
+            ],
+            "examples": [
+                "She wore a saffron scarf.",
+                "The saffron curtains warmed the room."
+            ]
+        }
+    ],
+    "splash": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a sudden burst of liquid that hits a surface",
+            "synonyms": [
+                "spray",
+                "splash",
+                "burst",
+                "drip"
+            ],
+            "examples": [
+                "There was a splash when he jumped into the pool.",
+                "The splash of water cooled his hands."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to hit a surface with liquid in a way that makes splashes",
+            "synonyms": [
+                "spray",
+                "splatter",
+                "scatter",
+                "burst"
+            ],
+            "examples": [
+                "Rain started to splash against the windows.",
+                "He splashed water onto his face."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to throw or spread liquid around accidentally",
+            "synonyms": [
+                "spill",
+                "scatter",
+                "drip",
+                "spray"
+            ],
+            "examples": [
+                "I splashed paint on my shirt.",
+                "Be careful not to splash the hot oil."
+            ]
+        }
+    ],
+    "stolid": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "calm and showing little emotion",
+            "synonyms": [
+                "unemotional",
+                "stoic",
+                "impassive",
+                "reserved"
+            ],
+            "examples": [
+                "The stolid man rarely showed surprise.",
+                "Her stolid expression made it hard to read her feelings."
+            ]
+        }
+    ],
+    "support": [
+        {
+            "part_of_speech": "noun",
+            "definition": "help, encouragement, or the resources needed to keep something going",
+            "synonyms": [
+                "assistance",
+                "help",
+                "backing",
+                "support"
+            ],
+            "examples": [
+                "Thank you for your support during the project.",
+                "The team needs support from the community."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a thing that holds something up or keeps it steady",
+            "synonyms": [
+                "brace",
+                "support",
+                "prop",
+                "backing"
+            ],
+            "examples": [
+                "Use a support to hold the shelf.",
+                "The table has metal supports."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to help a person or plan succeed by giving money, effort, or emotional help",
+            "synonyms": [
+                "back",
+                "help",
+                "assist",
+                "sustain"
+            ],
+            "examples": [
+                "They support local businesses.",
+                "She supports her friend through tough times."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to hold up or keep something in place",
+            "synonyms": [
+                "hold",
+                "brace",
+                "prop",
+                "sustain"
+            ],
+            "examples": [
+                "The wall supports the roof.",
+                "The beam supports the ceiling."
+            ]
+        }
+    ],
+    "squawk": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a loud harsh sound, often made by a bird or a person",
+            "synonyms": [
+                "shriek",
+                "scream",
+                "cry",
+                "call"
+            ],
+            "examples": [
+                "The squawk of the bird woke me up.",
+                "I heard a squawk from the alley."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a loud harsh cry",
+            "synonyms": [
+                "scream",
+                "shriek",
+                "cry",
+                "squawk"
+            ],
+            "examples": [
+                "The parrot squawked loudly at dawn.",
+                "He started to squawk when he lost the ball."
+            ]
+        }
+    ],
+    "smoke": [
+        {
+            "part_of_speech": "noun",
+            "definition": "gas and tiny particles in the air produced when something burns",
+            "synonyms": [
+                "fumes",
+                "steam",
+                "vapors",
+                "haze"
+            ],
+            "examples": [
+                "The smoke filled the room.",
+                "The chimney vented the smoke outside."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to produce smoke or release smoke into the air",
+            "synonyms": [
+                "emit smoke",
+                "smolder",
+                "send out smoke",
+                "billow"
+            ],
+            "examples": [
+                "The engine started to smoke.",
+                "The fire smoked for a long time."
+            ]
+        }
+    ],
+    "sneering": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "showing disrespect with a mocking expression or tone",
+            "synonyms": [
+                "mocking",
+                "derisive",
+                "contemptuous",
+                "scornful"
+            ],
+            "examples": [
+                "She gave a sneering comment and walked away.",
+                "His sneering look made her feel unwelcome."
+            ]
+        }
+    ],
+    "stertor": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a deep, harsh breathing sound caused by blocked airflow in someone who is not fully awake",
+            "synonyms": [
+                "snoring sound",
+                "harsh breathing",
+                "gurgling breath"
+            ],
+            "examples": [
+                "The nurse noted stertor while monitoring him."
+            ]
+        }
+    ],
+    "swagger": [
+        {
+            "part_of_speech": "noun",
+            "definition": "confident behavior, especially when it looks too proud or arrogant",
+            "synonyms": [
+                "strut",
+                "posture",
+                "boldness",
+                "swagger"
+            ],
+            "examples": [
+                "His swagger made people notice him right away.",
+                "The movie shows a hero with swagger."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to walk in a confident and proud way, often in an annoying manner",
+            "synonyms": [
+                "strut",
+                "walk proudly",
+                "pose",
+                "prance"
+            ],
+            "examples": [
+                "He swaggered into the room.",
+                "She swaggered down the hallway like she owned it."
+            ]
+        }
+    ],
+    "seam": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a line where two pieces of material are joined, especially in clothing",
+            "synonyms": [
+                "stitch line",
+                "joint",
+                "join",
+                "edge"
+            ],
+            "examples": [
+                "The seam on the shirt split.",
+                "She ironed the seams flat."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to join two pieces of material with a line of stitches",
+            "synonyms": [
+                "stitch",
+                "join",
+                "hem",
+                "sew"
+            ],
+            "examples": [
+                "They seam the fabric carefully before cutting.",
+                "The tailor will seam the sleeve."
+            ]
+        }
+    ],
+    "snuffle": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to breathe through the nose in a noisy way, often because of a cold or sadness",
+            "synonyms": [
+                "snort",
+                "sniff",
+                "blow your nose",
+                "wheeze"
+            ],
+            "examples": [
+                "She snuffled because of her cold.",
+                "He started to snuffle when he heard the music."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a noisy breathing sound through the nose",
+            "synonyms": [
+                "sniff",
+                "snort"
+            ],
+            "examples": [
+                "The child’s snuffle got worse at night."
+            ]
+        }
+    ],
+    "sector": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a part or section of a larger area, group, or system",
+            "synonyms": [
+                "section",
+                "portion",
+                "segment",
+                "area"
+            ],
+            "examples": [
+                "The city developed the waterfront sector.",
+                "Education is a key sector of the economy."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a region of a circle, like a slice",
+            "synonyms": [
+                "slice",
+                "wedge",
+                "segment"
+            ],
+            "examples": [
+                "Measure the angle to find the sector."
+            ]
+        }
+    ],
+    "segment": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a part or section of something larger",
+            "synonyms": [
+                "portion",
+                "section",
+                "piece",
+                "segment"
+            ],
+            "examples": [
+                "The report has a short segment about finances.",
+                "They divided the route into segments."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to divide something into separate parts",
+            "synonyms": [
+                "divide",
+                "split",
+                "partition",
+                "segment"
+            ],
+            "examples": [
+                "The software can segment the customer list.",
+                "They segmented the market by age."
+            ]
+        }
+    ],
+    "schist": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a type of rock that can split into thin layers",
+            "synonyms": [
+                "layered rock",
+                "metamorphic rock"
+            ],
+            "examples": [
+                "The mountains contain schist with visible layers.",
+                "The geologist collected a sample of schist."
+            ]
+        }
+    ],
+    "scarf": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a piece of cloth worn around the neck for warmth or style",
+            "synonyms": [
+                "neck scarf",
+                "shawl",
+                "wrap"
+            ],
+            "examples": [
+                "She wrapped her scarf around her neck.",
+                "A light scarf is enough for spring evenings."
+            ]
+        }
+    ],
+    "sylph": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a light, delicate spirit or magical being in stories",
+            "synonyms": [
+                "air spirit",
+                "spirit",
+                "mythical being"
+            ],
+            "examples": [
+                "In the legend, a sylph appeared on windy days."
+            ]
+        }
     ]
 }

@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-22",
+    "groups": [
+        {
+            "id": "2026-11-22-g1",
+            "type": "semantic_field",
+            "difficulty": "easy",
+            "title": "wetland terrain",
+            "words": [
+                "bog",
+                "fen",
+                "marsh",
+                "moor"
+            ]
+        },
+        {
+            "id": "2026-11-22-g2",
+            "type": "informal_register",
+            "difficulty": "medium",
+            "title": "boasting",
+            "words": [
+                "brag",
+                "crow",
+                "gloat",
+                "swagger"
+            ]
+        },
+        {
+            "id": "2026-11-22-g3",
+            "type": "thematic_association",
+            "difficulty": "hard",
+            "title": "fortune telling",
+            "words": [
+                "augury",
+                "omen",
+                "portent",
+                "haruspicy"
+            ]
+        },
+        {
+            "id": "2026-11-22-g4",
+            "type": "sound_association",
+            "difficulty": "very_hard",
+            "title": "harsh cries",
+            "words": [
+                "caw",
+                "croak",
+                "screech",
+                "skirl"
+            ]
+        }
+    ]
+}

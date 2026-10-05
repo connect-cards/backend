@@ -390,5 +390,33 @@
                 "The designer changed the kerning to improve readability."
             ]
         }
+    ],
+    "kindling": [
+        {
+            "part_of_speech": "noun",
+            "definition": "small dry sticks or material used to start a fire",
+            "synonyms": [
+                "starter",
+                "firewood pieces",
+                "small fuel",
+                "kindling wood"
+            ],
+            "examples": [
+                "We gathered kindling before lighting the fire.",
+                "The fire needed kindling to catch."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "something that makes anger or conflict grow",
+            "synonyms": [
+                "incitement",
+                "fuel",
+                "stimulant"
+            ],
+            "examples": [
+                "Rumors were the kindling for the argument."
+            ]
+        }
     ]
 }

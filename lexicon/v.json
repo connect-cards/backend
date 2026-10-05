@@ -1047,5 +1047,19 @@
                 "He bought the expensive watch out of vanity."
             ]
         }
+    ],
+    "vespers": [
+        {
+            "part_of_speech": "noun",
+            "definition": "evening prayers in some christian churches",
+            "synonyms": [
+                "evening prayer",
+                "evening worship"
+            ],
+            "examples": [
+                "The monks gathered for vespers.",
+                "We attended vespers at the church."
+            ]
+        }
     ]
 }

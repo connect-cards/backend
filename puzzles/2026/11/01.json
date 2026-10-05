@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-01",
+    "groups": [
+        {
+            "id": "2026-11-01-g1",
+            "type": "thematic_association",
+            "difficulty": "easy",
+            "title": "winter weather",
+            "words": [
+                "sleet",
+                "slush",
+                "frost",
+                "thaw"
+            ]
+        },
+        {
+            "id": "2026-11-01-g2",
+            "type": "literary_register",
+            "difficulty": "medium",
+            "title": "poetic sadness",
+            "words": [
+                "dolor",
+                "wraith",
+                "dirge",
+                "wane"
+            ]
+        },
+        {
+            "id": "2026-11-01-g3",
+            "type": "synonym",
+            "difficulty": "hard",
+            "title": "secretive",
+            "words": [
+                "furtive",
+                "covert",
+                "stealthy",
+                "surreptitious"
+            ]
+        },
+        {
+            "id": "2026-11-01-g4",
+            "type": "sound_association",
+            "difficulty": "very_hard",
+            "title": "harsh cries",
+            "words": [
+                "caw",
+                "croak",
+                "carrack",
+                "grike"
+            ]
+        }
+    ]
+}

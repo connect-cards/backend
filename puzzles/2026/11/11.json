@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-11",
+    "groups": [
+        {
+            "id": "2026-11-11-g1",
+            "type": "synonym",
+            "difficulty": "easy",
+            "title": "praise",
+            "words": [
+                "laud",
+                "extol",
+                "commend",
+                "eulogize"
+            ]
+        },
+        {
+            "id": "2026-11-11-g2",
+            "type": "etymological_relation",
+            "difficulty": "medium",
+            "title": "latin with",
+            "words": [
+                "convene",
+                "collate",
+                "coeval",
+                "commingle"
+            ]
+        },
+        {
+            "id": "2026-11-11-g3",
+            "type": "emotional_tone",
+            "difficulty": "hard",
+            "title": "scornful moods",
+            "words": [
+                "supercilious",
+                "snide",
+                "disdainful",
+                "sardonic"
+            ]
+        },
+        {
+            "id": "2026-11-11-g4",
+            "type": "sound_association",
+            "difficulty": "very_hard",
+            "title": "harsh cries",
+            "words": [
+                "caw",
+                "yelp",
+                "screech",
+                "skirl"
+            ]
+        }
+    ]
+}

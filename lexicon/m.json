@@ -2593,5 +2593,96 @@
                 "The captain decided to moor for the night."
             ]
         }
+    ],
+    "miscreant": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who behaves badly or breaks rules",
+            "synonyms": [
+                "offender",
+                "criminal",
+                "wrongdoer",
+                "troublemaker"
+            ],
+            "examples": [
+                "The police are searching for a miscreant who stole the phones.",
+                "Teachers warned parents about known miscreants near the school."
+            ]
+        }
+    ],
+    "mystify": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to confuse or make someone unable to understand something",
+            "synonyms": [
+                "confuse",
+                "puzzle",
+                "baffle",
+                "perplex"
+            ],
+            "examples": [
+                "Her answer mystified me.",
+                "The strange behavior mystified the team."
+            ]
+        }
+    ],
+    "mortar": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a mixture used to stick bricks or stones together",
+            "synonyms": [
+                "cement",
+                "binding mixture",
+                "masonry mix"
+            ],
+            "examples": [
+                "The bricks were set with mortar.",
+                "We need fresh mortar for the next row."
+            ]
+        }
+    ],
+    "miserliness": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the quality of being extremely unwilling to share or spend money",
+            "synonyms": [
+                "stinginess",
+                "parsimony",
+                "meanness",
+                "tightfistedness"
+            ],
+            "examples": [
+                "His miserliness made him unpopular with his friends.",
+                "People criticized her for miserliness at community events."
+            ]
+        }
+    ],
+    "moraine": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a pile of rocks and soil left behind by a glacier",
+            "synonyms": [
+                "glacial deposit",
+                "ice deposit"
+            ],
+            "examples": [
+                "The landscape includes moraines formed by past glaciers.",
+                "They studied the moraine near the valley."
+            ]
+        }
+    ],
+    "mitten": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a type of glove with two sections, one for the thumb and one for the other fingers",
+            "synonyms": [
+                "glove",
+                "winter glove"
+            ],
+            "examples": [
+                "She wore a mitten on each hand.",
+                "The child lost one mitten in the snow."
+            ]
+        }
     ]
 }
