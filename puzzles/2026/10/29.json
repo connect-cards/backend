@@ -1,0 +1,53 @@
+{
+    "date": "2026-10-29",
+    "groups": [
+        {
+            "id": "2026-10-29-g1",
+            "type": "profession_domain",
+            "difficulty": "easy",
+            "title": "law workers",
+            "words": [
+                "barrister",
+                "notary",
+                "paralegal",
+                "solicitor"
+            ]
+        },
+        {
+            "id": "2026-10-29-g2",
+            "type": "synonym",
+            "difficulty": "medium",
+            "title": "stubborn",
+            "words": [
+                "dogged",
+                "mulish",
+                "obdurate",
+                "pertinacious"
+            ]
+        },
+        {
+            "id": "2026-10-29-g3",
+            "type": "semantic_field",
+            "difficulty": "hard",
+            "title": "ancient writing",
+            "words": [
+                "codex",
+                "palimpsest",
+                "scroll",
+                "tablet"
+            ]
+        },
+        {
+            "id": "2026-10-29-g4",
+            "type": "etymological_relation",
+            "difficulty": "very_hard",
+            "title": "night words",
+            "words": [
+                "nocturne",
+                "nocturnal",
+                "equinoctial",
+                "noctambule"
+            ]
+        }
+    ]
+}

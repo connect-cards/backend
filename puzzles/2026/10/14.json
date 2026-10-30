@@ -1,0 +1,53 @@
+{
+    "date": "2026-10-14",
+    "groups": [
+        {
+            "id": "2026-10-14-g1",
+            "type": "informal_register",
+            "difficulty": "easy",
+            "title": "shabby",
+            "words": [
+                "seedy",
+                "ratty",
+                "grubby",
+                "tatty"
+            ]
+        },
+        {
+            "id": "2026-10-14-g2",
+            "type": "synonym",
+            "difficulty": "medium",
+            "title": "brief",
+            "words": [
+                "terse",
+                "laconic",
+                "succinct",
+                "pithy"
+            ]
+        },
+        {
+            "id": "2026-10-14-g3",
+            "type": "profession_domain",
+            "difficulty": "hard",
+            "title": "printing work",
+            "words": [
+                "kerning",
+                "serif",
+                "ligature",
+                "leading"
+            ]
+        },
+        {
+            "id": "2026-10-14-g4",
+            "type": "morphological_family",
+            "difficulty": "very_hard",
+            "title": "bearing roots",
+            "words": [
+                "gestate",
+                "congest",
+                "register",
+                "digest"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "date": "2026-10-19",
+    "groups": [
+        {
+            "id": "2026-10-19-g1",
+            "type": "literary_register",
+            "difficulty": "easy",
+            "title": "battle words",
+            "words": [
+                "fray",
+                "melee",
+                "skirmish",
+                "affray"
+            ]
+        },
+        {
+            "id": "2026-10-19-g2",
+            "type": "thematic_association",
+            "difficulty": "medium",
+            "title": "alchemy",
+            "words": [
+                "crucible",
+                "retort",
+                "athanor",
+                "elixir"
+            ]
+        },
+        {
+            "id": "2026-10-19-g3",
+            "type": "profession_domain",
+            "difficulty": "hard",
+            "title": "law practice",
+            "words": [
+                "tort",
+                "lien",
+                "estoppel",
+                "caveat"
+            ]
+        },
+        {
+            "id": "2026-10-19-g4",
+            "type": "etymological_relation",
+            "difficulty": "very_hard",
+            "title": "words with same root",
+            "words": [
+                "fraternal",
+                "frail",
+                "fracture",
+                "fraction"
+            ]
+        }
+    ]
+}

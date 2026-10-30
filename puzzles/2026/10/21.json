@@ -1,0 +1,53 @@
+{
+    "date": "2026-10-21",
+    "groups": [
+        {
+            "id": "2026-10-21-g1",
+            "type": "morphological_family",
+            "difficulty": "easy",
+            "title": "birth roots",
+            "words": [
+                "natal",
+                "nascent",
+                "innate",
+                "nature"
+            ]
+        },
+        {
+            "id": "2026-10-21-g2",
+            "type": "literary_register",
+            "difficulty": "medium",
+            "title": "poetic diction",
+            "words": [
+                "ere",
+                "oft",
+                "hence",
+                "lest"
+            ]
+        },
+        {
+            "id": "2026-10-21-g3",
+            "type": "emotional_tone",
+            "difficulty": "hard",
+            "title": "gloomy moods",
+            "words": [
+                "morose",
+                "sullen",
+                "saturnine",
+                "dour"
+            ]
+        },
+        {
+            "id": "2026-10-21-g4",
+            "type": "thematic_association",
+            "difficulty": "very_hard",
+            "title": "seafaring gear",
+            "words": [
+                "hawser",
+                "capstan",
+                "yardarm",
+                "scupper"
+            ]
+        }
+    ]
+}

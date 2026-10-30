@@ -1,0 +1,53 @@
+{
+    "date": "2026-10-17",
+    "groups": [
+        {
+            "id": "2026-10-17-g1",
+            "type": "physical_trait",
+            "difficulty": "easy",
+            "title": "hair textures",
+            "words": [
+                "coarse",
+                "sleek",
+                "frizzy",
+                "wiry"
+            ]
+        },
+        {
+            "id": "2026-10-17-g2",
+            "type": "literary_register",
+            "difficulty": "medium",
+            "title": "old-fashioned pronouns",
+            "words": [
+                "thou",
+                "thee",
+                "thy",
+                "thine"
+            ]
+        },
+        {
+            "id": "2026-10-17-g3",
+            "type": "semantic_field",
+            "difficulty": "hard",
+            "title": "marsh plants",
+            "words": [
+                "sedge",
+                "rush",
+                "reed",
+                "cattail"
+            ]
+        },
+        {
+            "id": "2026-10-17-g4",
+            "type": "emotional_tone",
+            "difficulty": "very_hard",
+            "title": "gloomy moods",
+            "words": [
+                "doleful",
+                "saturnine",
+                "lugubrious",
+                "morose"
+            ]
+        }
+    ]
+}

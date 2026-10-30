@@ -1866,5 +1866,81 @@
                 "They envy the team’s long-running success."
             ]
         }
+    ],
+    "effluent": [
+        {
+            "part_of_speech": "noun",
+            "definition": "liquid waste that is released into the environment, especially from factories or sewage systems",
+            "synonyms": [
+                "wastewater",
+                "sewage",
+                "discharge",
+                "runoff"
+            ],
+            "examples": [
+                "The treatment plant cleans the effluent before it is released.",
+                "Farm runoff can mix with effluent in rivers."
+            ]
+        }
+    ],
+    "escutcheon": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a shield shape used to display a coat of arms or heraldic design",
+            "synonyms": [
+                "shield",
+                "heraldic shield",
+                "coat of arms plate"
+            ],
+            "examples": [
+                "The building entrance has a stone escutcheon.",
+                "The family escutcheon is carved above the door."
+            ]
+        }
+    ],
+    "effluence": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the flow or discharge of a fluid, often waste, from a source",
+            "synonyms": [
+                "effluent",
+                "discharge",
+                "flow",
+                "release"
+            ],
+            "examples": [
+                "The effluence from the plant raised concerns.",
+                "River effluence increased after the storm."
+            ]
+        }
+    ],
+    "eyed": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having eyes of a certain type or looking in a certain way, often used in descriptions",
+            "synonyms": [
+                "looking",
+                "-eyed",
+                "gazed"
+            ],
+            "examples": [
+                "He has brown-eyed eyes that stand out.",
+                "The horse is calm, wide-eyed, and patient."
+            ]
+        }
+    ],
+    "equinoctial": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "related to the time of the year when day and night are about equal length",
+            "synonyms": [
+                "equinox-related",
+                "around the equinox"
+            ],
+            "examples": [
+                "Equinoctial weather can feel balanced in temperature.",
+                "The equinoctial period marks the equinoxes."
+            ]
+        }
     ]
 }

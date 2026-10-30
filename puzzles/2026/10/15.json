@@ -1,0 +1,53 @@
+{
+    "date": "2026-10-15",
+    "groups": [
+        {
+            "id": "2026-10-15-g1",
+            "type": "profession_domain",
+            "difficulty": "easy",
+            "title": "sailing gear",
+            "words": [
+                "mast",
+                "keel",
+                "rudder",
+                "staysail"
+            ]
+        },
+        {
+            "id": "2026-10-15-g2",
+            "type": "physical_trait",
+            "difficulty": "medium",
+            "title": "thinness",
+            "words": [
+                "gaunt",
+                "spare",
+                "lanky",
+                "rangy"
+            ]
+        },
+        {
+            "id": "2026-10-15-g3",
+            "type": "synonym",
+            "difficulty": "hard",
+            "title": "mock",
+            "words": [
+                "deride",
+                "taunt",
+                "gibe",
+                "scoff"
+            ]
+        },
+        {
+            "id": "2026-10-15-g4",
+            "type": "sound_association",
+            "difficulty": "very_hard",
+            "title": "harsh sounds",
+            "words": [
+                "clang",
+                "scrape",
+                "creak",
+                "rasp"
+            ]
+        }
+    ]
+}

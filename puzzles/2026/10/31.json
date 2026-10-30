@@ -1,0 +1,53 @@
+{
+    "date": "2026-10-31",
+    "groups": [
+        {
+            "id": "2026-10-31-g1",
+            "type": "semantic_field",
+            "difficulty": "easy",
+            "title": "marsh plants",
+            "words": [
+                "cattail",
+                "reed",
+                "rush",
+                "sedge"
+            ]
+        },
+        {
+            "id": "2026-10-31-g2",
+            "type": "informal_register",
+            "difficulty": "medium",
+            "title": "foolish person",
+            "words": [
+                "boob",
+                "twit",
+                "wally",
+                "yahoo"
+            ]
+        },
+        {
+            "id": "2026-10-31-g3",
+            "type": "morphological_family",
+            "difficulty": "hard",
+            "title": "bound forms",
+            "words": [
+                "ductile",
+                "induct",
+                "aqueduct",
+                "viaduct"
+            ]
+        },
+        {
+            "id": "2026-10-31-g4",
+            "type": "etymological_relation",
+            "difficulty": "very_hard",
+            "title": "lead words",
+            "words": [
+                "malleable",
+                "metal",
+                "mettle",
+                "medal"
+            ]
+        }
+    ]
+}

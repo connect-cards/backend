@@ -2593,5 +2593,294 @@
                 "The captain decided to moor for the night."
             ]
         }
+    ],
+    "meanness": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the quality of being unkind, unfair, or harsh toward others",
+            "synonyms": [
+                "cruelty",
+                "unkindness",
+                "rudeness",
+                "spite"
+            ],
+            "examples": [
+                "The child’s meanness shocked the teacher.",
+                "His meanness made teamwork difficult."
+            ]
+        }
+    ],
+    "mash": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a mixture made by crushing or blending ingredients",
+            "synonyms": [
+                "mixture",
+                "blend",
+                "paste",
+                "purée"
+            ],
+            "examples": [
+                "The farmer fed the mash to the animals.",
+                "Potatoes become a mash when cooked and mashed."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "an uncooked mixture of grains used to make beer",
+            "synonyms": [
+                "grain mash",
+                "wort-making mixture"
+            ],
+            "examples": [
+                "The brewer prepared the mash for fermentation.",
+                "Mash is heated to extract sugars."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to crush and mix food or ingredients until they are soft and thick",
+            "synonyms": [
+                "crush",
+                "blend",
+                "purée",
+                "reduce to pulp"
+            ],
+            "examples": [
+                "Mash the potatoes until smooth.",
+                "She mashes the fruit with a fork."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to produce beer by mixing crushed grains with water and heating them",
+            "synonyms": [
+                "brewing",
+                "brew",
+                "brew up"
+            ],
+            "examples": [
+                "They mash the barley before adding hops.",
+                "Brewers mash the grains to create wort."
+            ]
+        }
+    ],
+    "mulish": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "stubborn and refusing to change one’s behavior",
+            "synonyms": [
+                "stubborn",
+                "obstinate",
+                "headstrong",
+                "unyielding"
+            ],
+            "examples": [
+                "He stayed mulish even after being asked to move.",
+                "The child became mulish when it was time to leave."
+            ]
+        }
+    ],
+    "mizzle": [
+        {
+            "part_of_speech": "noun",
+            "definition": "light misty rain",
+            "synonyms": [
+                "drizzle",
+                "mist",
+                "light rain"
+            ],
+            "examples": [
+                "We drove through mizzle for a few hours.",
+                "The forecast warns of mizzle this morning."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to rain lightly in the form of misty droplets",
+            "synonyms": [
+                "drizzle",
+                "mist",
+                "sprinkle"
+            ],
+            "examples": [
+                "It started to mizzle just after lunchtime.",
+                "The weather will mizzle later in the evening."
+            ]
+        }
+    ],
+    "melee": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a confused fight involving many people at once",
+            "synonyms": [
+                "brawl",
+                "fight",
+                "skirmish",
+                "scrimmage"
+            ],
+            "examples": [
+                "The police separated the crowd after a melee started.",
+                "A melee broke out during the match."
+            ]
+        }
+    ],
+    "mean": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "not kind; causing harm or unfair treatment",
+            "synonyms": [
+                "unkind",
+                "cruel",
+                "nasty",
+                "rude"
+            ],
+            "examples": [
+                "It was mean to tease him.",
+                "Don’t be mean to people who are new."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "small or not generous in money, gifts, or treatment",
+            "synonyms": [
+                "stingy",
+                "miserly",
+                "thrifty",
+                "parsimonious"
+            ],
+            "examples": [
+                "She’s mean about sharing food.",
+                "He was mean with tips."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "having an average value in math",
+            "synonyms": [
+                "average",
+                "arithmetic mean"
+            ],
+            "examples": [
+                "The mean of 2, 4, and 6 is 4.",
+                "Find the mean for the data set."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "intended to communicate something specific, especially a harsh or insulting meaning",
+            "synonyms": [
+                "intentional",
+                "cunning",
+                "malicious"
+            ],
+            "examples": [
+                "He didn’t mean it, but it sounded mean.",
+                "I think the comment was meant to be mean."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "the average value of a set of numbers",
+            "synonyms": [
+                "average",
+                "mean value"
+            ],
+            "examples": [
+                "The mean is higher than the median.",
+                "Calculate the mean of these numbers."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to intend something or have a particular meaning",
+            "synonyms": [
+                "intend",
+                "signify",
+                "imply",
+                "indicate"
+            ],
+            "examples": [
+                "What do you mean by that?",
+                "I meant to call you yesterday."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "average or typical in amount or level",
+            "synonyms": [
+                "average",
+                "moderate",
+                "medium"
+            ],
+            "examples": [
+                "The mean temperature in July is about 28°C.",
+                "They charge a mean price for the service."
+            ]
+        }
+    ],
+    "mollify": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make someone less angry, upset, or worried",
+            "synonyms": [
+                "soothe",
+                "calm",
+                "appease",
+                "pacify"
+            ],
+            "examples": [
+                "She tried to mollify him after the argument.",
+                "A small apology can mollify a situation."
+            ]
+        }
+    ],
+    "malleable": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "able to be shaped or formed easily, especially by heat or pressure",
+            "synonyms": [
+                "formable",
+                "ductile",
+                "flexible",
+                "workable"
+            ],
+            "examples": [
+                "Gold is malleable and can be hammered into thin sheets.",
+                "The metal is malleable when heated."
+            ]
+        }
+    ],
+    "mettle": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the ability to face difficulties with courage and strength of character",
+            "synonyms": [
+                "courage",
+                "bravery",
+                "spirit",
+                "resolve"
+            ],
+            "examples": [
+                "The storm tested her mettle.",
+                "His mettle showed when things went wrong."
+            ]
+        }
+    ],
+    "medal": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a flat metal award given for achievement, often worn on a ribbon",
+            "synonyms": [
+                "award",
+                "trophy",
+                "honor",
+                "honour"
+            ],
+            "examples": [
+                "She won a medal for first place.",
+                "He received a bronze medal at the competition."
+            ]
+        }
     ]
 }

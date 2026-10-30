@@ -1,0 +1,53 @@
+{
+    "date": "2026-10-13",
+    "groups": [
+        {
+            "id": "2026-10-13-g1",
+            "type": "morphological_family",
+            "difficulty": "easy",
+            "title": "seeing roots",
+            "words": [
+                "optic",
+                "ocular",
+                "eyed",
+                "vision"
+            ]
+        },
+        {
+            "id": "2026-10-13-g2",
+            "type": "semantic_field",
+            "difficulty": "medium",
+            "title": "wet weather",
+            "words": [
+                "drizzle",
+                "squall",
+                "mizzle",
+                "downpour"
+            ]
+        },
+        {
+            "id": "2026-10-13-g3",
+            "type": "profession_domain",
+            "difficulty": "hard",
+            "title": "law practice",
+            "words": [
+                "tort",
+                "estoppel",
+                "affidavit",
+                "lien"
+            ]
+        },
+        {
+            "id": "2026-10-13-g4",
+            "type": "etymological_relation",
+            "difficulty": "very_hard",
+            "title": "from latin",
+            "words": [
+                "regal",
+                "fealty",
+                "carnal",
+                "frugal"
+            ]
+        }
+    ]
+}

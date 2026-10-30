@@ -1,0 +1,53 @@
+{
+    "date": "2026-10-04",
+    "groups": [
+        {
+            "id": "2026-10-04-g1",
+            "type": "profession_domain",
+            "difficulty": "easy",
+            "title": "sailing gear",
+            "words": [
+                "boom",
+                "keel",
+                "mast",
+                "tiller"
+            ]
+        },
+        {
+            "id": "2026-10-04-g2",
+            "type": "morphological_family",
+            "difficulty": "medium",
+            "title": "from sit",
+            "words": [
+                "assess",
+                "reside",
+                "sedate",
+                "session"
+            ]
+        },
+        {
+            "id": "2026-10-04-g3",
+            "type": "etymological_relation",
+            "difficulty": "hard",
+            "title": "heart words",
+            "words": [
+                "accord",
+                "cordial",
+                "courage",
+                "discord"
+            ]
+        },
+        {
+            "id": "2026-10-04-g4",
+            "type": "literary_register",
+            "difficulty": "very_hard",
+            "title": "shining",
+            "words": [
+                "fulgent",
+                "lambent",
+                "lucent",
+                "refulgent"
+            ]
+        }
+    ]
+}

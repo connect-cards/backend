@@ -1,0 +1,53 @@
+{
+    "date": "2026-10-23",
+    "groups": [
+        {
+            "id": "2026-10-23-g1",
+            "type": "profession_domain",
+            "difficulty": "easy",
+            "title": "courtroom roles",
+            "words": [
+                "barrister",
+                "clerk",
+                "juror",
+                "bailiff"
+            ]
+        },
+        {
+            "id": "2026-10-23-g2",
+            "type": "semantic_field",
+            "difficulty": "medium",
+            "title": "textile terms",
+            "words": [
+                "selvage",
+                "weft",
+                "nap",
+                "lisle"
+            ]
+        },
+        {
+            "id": "2026-10-23-g3",
+            "type": "emotional_tone",
+            "difficulty": "hard",
+            "title": "scornful tones",
+            "words": [
+                "acid",
+                "snide",
+                "glib",
+                "supercilious"
+            ]
+        },
+        {
+            "id": "2026-10-23-g4",
+            "type": "morphological_family",
+            "difficulty": "very_hard",
+            "title": "carry roots",
+            "words": [
+                "defer",
+                "confer",
+                "refer",
+                "transfer"
+            ]
+        }
+    ]
+}

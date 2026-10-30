@@ -7395,5 +7395,438 @@
                 "They sneered when we suggested a different plan."
             ]
         }
+    ],
+    "sedate": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "calm and not excited",
+            "synonyms": [
+                "calm",
+                "quiet",
+                "composed",
+                "serene"
+            ],
+            "examples": [
+                "He kept a sedate expression.",
+                "The meeting was sedate and orderly."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make someone calm by giving medicine or by other means",
+            "synonyms": [
+                "calm",
+                "drug",
+                "tranquilize",
+                "soothe"
+            ],
+            "examples": [
+                "The vet sedated the dog for the exam.",
+                "They sedated him to reduce anxiety."
+            ]
+        }
+    ],
+    "session": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a period of time when a group meets for a specific activity",
+            "synonyms": [
+                "meeting",
+                "period",
+                "class",
+                "assembly"
+            ],
+            "examples": [
+                "We have a study session on Fridays.",
+                "The session lasted two hours."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a meeting of an official group, such as a parliament or court",
+            "synonyms": [
+                "meeting",
+                "sitting",
+                "council meeting",
+                "hearing"
+            ],
+            "examples": [
+                "The parliament opened a new session.",
+                "The court session begins at 9 a.m."
+            ]
+        }
+    ],
+    "spall": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small piece that breaks off from a hard surface, especially metal or stone",
+            "synonyms": [
+                "chip",
+                "fragment",
+                "flake",
+                "splinter"
+            ],
+            "examples": [
+                "The spall exposed rust under the paint.",
+                "Small spalls formed after the impact."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to break off small pieces from a surface",
+            "synonyms": [
+                "chip",
+                "flake",
+                "splinter",
+                "crack off"
+            ],
+            "examples": [
+                "The concrete spalled after the freeze-thaw cycles.",
+                "The shell spalled when hit."
+            ]
+        }
+    ],
+    "superfluous": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "more than what is necessary or useful",
+            "synonyms": [
+                "unnecessary",
+                "extra",
+                "unneeded",
+                "unrequired"
+            ],
+            "examples": [
+                "Throw away the superfluous items to save space.",
+                "He removed superfluous details from the report."
+            ]
+        }
+    ],
+    "seethe": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to become extremely hot and often bubble, like liquid boiling",
+            "synonyms": [
+                "boil",
+                "bubble",
+                "simmer",
+                "kettle"
+            ],
+            "examples": [
+                "The water began to seethe as the temperature rose.",
+                "Don’t leave it unattended while it seethes."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to feel very angry or upset and show that emotion",
+            "synonyms": [
+                "rage",
+                "fume",
+                "be furious",
+                "burn"
+            ],
+            "examples": [
+                "She seethed with anger but stayed quiet.",
+                "He seethed after hearing the unfair news."
+            ]
+        }
+    ],
+    "severity": [
+        {
+            "part_of_speech": "noun",
+            "definition": "how serious or harsh something is",
+            "synonyms": [
+                "seriousness",
+                "harshness",
+                "intensity",
+                "rigor"
+            ],
+            "examples": [
+                "The severity of the storm surprised everyone.",
+                "The report discussed the severity of the disease."
+            ]
+        }
+    ],
+    "stringency": [
+        {
+            "part_of_speech": "noun",
+            "definition": "strictness in enforcing rules or standards",
+            "synonyms": [
+                "strictness",
+                "rigor",
+                "severity",
+                "toughness"
+            ],
+            "examples": [
+                "The program faced increasing stringency in requirements.",
+                "They criticized the stringency of the new regulations."
+            ]
+        }
+    ],
+    "striated": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "marked with thin lines or grooves",
+            "synonyms": [
+                "lined",
+                "striped",
+                "grooved",
+                "furrowed"
+            ],
+            "examples": [
+                "The striated surface formed clear patterns.",
+                "The rock is striated with narrow bands."
+            ]
+        }
+    ],
+    "seedy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "run-down, dirty, and having a disreputable atmosphere",
+            "synonyms": [
+                "shabby",
+                "dirty",
+                "run-down",
+                "grimy"
+            ],
+            "examples": [
+                "The street felt seedy at night.",
+                "They refused to stay in that seedy motel."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "having seeds or seed-like things",
+            "synonyms": [
+                "seeded",
+                "grainy",
+                "seed-containing"
+            ],
+            "examples": [
+                "The sauce was seedy with peppers.",
+                "He used a seedy filling for the pastry."
+            ]
+        }
+    ],
+    "staysail": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a triangular or rectangular sail used on a stay between the mast and the deck of a ship",
+            "synonyms": [
+                "sail",
+                "auxiliary sail"
+            ],
+            "examples": [
+                "They adjusted the staysail for the wind direction.",
+                "The staysail helped the boat keep its balance."
+            ]
+        }
+    ],
+    "scissor": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a tool with two sharp blades used for cutting paper, cloth, or other materials",
+            "synonyms": [
+                "scissors",
+                "pair of scissors"
+            ],
+            "examples": [
+                "I can’t find my scissor.",
+                "Use the scissor to cut the picture."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to cut with scissors",
+            "synonyms": [
+                "cut",
+                "trim",
+                "snip",
+                "clip"
+            ],
+            "examples": [
+                "Carefully scissor the fabric along the line.",
+                "She scissored the coupon out of the newspaper."
+            ]
+        }
+    ],
+    "sleek": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "smooth and neat in appearance",
+            "synonyms": [
+                "smooth",
+                "streamlined",
+                "polished",
+                "smart"
+            ],
+            "examples": [
+                "The car has a sleek design.",
+                "She wore a sleek dress for the event."
+            ]
+        }
+    ],
+    "scuff": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small mark or damage caused by rubbing or scraping",
+            "synonyms": [
+                "scrape",
+                "scratch",
+                "scuff mark",
+                "abrasion"
+            ],
+            "examples": [
+                "There was a scuff on the side of the car.",
+                "The shoes left a scuff on the floor."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to scrape or rub lightly, often leaving marks",
+            "synonyms": [
+                "scrape",
+                "scratch",
+                "drag",
+                "scuff up"
+            ],
+            "examples": [
+                "He scuffed his shoes on the step.",
+                "Don’t scuff the table with the chair."
+            ]
+        }
+    ],
+    "shuffle": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a slow, mixed movement where you drag your feet",
+            "synonyms": [
+                "stumble",
+                "shuffle-step",
+                "drag",
+                "sidestep"
+            ],
+            "examples": [
+                "He made a shuffle toward the door.",
+                "There was a shuffle in the back of the room."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "an act of mixing playing cards by moving them around in a certain way",
+            "synonyms": [
+                "mix",
+                "card mix",
+                "deal"
+            ],
+            "examples": [
+                "Do the shuffle before dealing.",
+                "She finished a quick shuffle and then handed the cards out."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to move with dragging steps, often because you are not walking normally",
+            "synonyms": [
+                "drag",
+                "move slowly",
+                "stumble",
+                "shuffle along"
+            ],
+            "examples": [
+                "He shuffled across the floor, unsure what to say.",
+                "The crowd shuffled forward to enter."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to mix cards by moving them around",
+            "synonyms": [
+                "mix",
+                "shuffle cards",
+                "deal"
+            ],
+            "examples": [
+                "Shuffle the deck and place it face down.",
+                "I shuffled the cards for the game."
+            ]
+        }
+    ],
+    "splenetic": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "bad-tempered and often complaining, especially in a harsh way",
+            "synonyms": [
+                "irritable",
+                "bitter",
+                "cranky",
+                "grumpy"
+            ],
+            "examples": [
+                "He was splenetic after losing the match.",
+                "The meeting turned splenetic when the delays were discussed."
+            ]
+        }
+    ],
+    "succinctly": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "in a brief and clear way",
+            "synonyms": [
+                "briefly",
+                "concisely",
+                "clearly",
+                "to the point"
+            ],
+            "examples": [
+                "He explained the plan succinctly.",
+                "Please summarize the results succinctly."
+            ]
+        }
+    ],
+    "shroud": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a cloth covering used to wrap a body for burial or used to cover something",
+            "synonyms": [
+                "cover",
+                "covering",
+                "winding sheet",
+                "blanket"
+            ],
+            "examples": [
+                "They covered the body with a shroud.",
+                "A shroud of fog moved over the street."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to cover completely, especially in a mysterious or dark way",
+            "synonyms": [
+                "cover",
+                "envelop",
+                "conceal",
+                "blanket"
+            ],
+            "examples": [
+                "The hills were shrouded in mist.",
+                "Smoke shrouded the building."
+            ]
+        }
+    ],
+    "solicitor": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a lawyer who provides legal advice and handles legal matters for clients, especially in some countries",
+            "synonyms": [
+                "lawyer",
+                "attorney"
+            ],
+            "examples": [
+                "The solicitor reviewed the contract.",
+                "She met her solicitor to discuss the case."
+            ]
+        }
     ]
 }

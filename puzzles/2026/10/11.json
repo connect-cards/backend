@@ -1,0 +1,53 @@
+{
+    "date": "2026-10-11",
+    "groups": [
+        {
+            "id": "2026-10-11-g1",
+            "type": "synonym",
+            "difficulty": "easy",
+            "title": "harshness",
+            "words": [
+                "austerity",
+                "severity",
+                "rigor",
+                "stringency"
+            ]
+        },
+        {
+            "id": "2026-10-11-g2",
+            "type": "etymological_relation",
+            "difficulty": "medium",
+            "title": "lead roots",
+            "words": [
+                "duct",
+                "duke",
+                "conduct",
+                "adduce"
+            ]
+        },
+        {
+            "id": "2026-10-11-g3",
+            "type": "physical_trait",
+            "difficulty": "hard",
+            "title": "rough surfaces",
+            "words": [
+                "gnarled",
+                "pitted",
+                "scabrous",
+                "striated"
+            ]
+        },
+        {
+            "id": "2026-10-11-g4",
+            "type": "thematic_association",
+            "difficulty": "very_hard",
+            "title": "monastic life",
+            "words": [
+                "tonsure",
+                "cloister",
+                "rule",
+                "breviary"
+            ]
+        }
+    ]
+}

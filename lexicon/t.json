@@ -3250,5 +3250,155 @@
                 "You can see the light through the translucent curtain."
             ]
         }
+    ],
+    "twit": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a foolish or annoying person",
+            "synonyms": [
+                "idiot",
+                "jerk",
+                "fool",
+                "nuisance"
+            ],
+            "examples": [
+                "Don’t listen to that twit.",
+                "He called his neighbor a twit."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to criticize someone in a small, unkind way or make brief insulting remarks",
+            "synonyms": [
+                "mock",
+                "insult",
+                "jeer",
+                "taunt"
+            ],
+            "examples": [
+                "He kept twitting her about her mistakes.",
+                "They twit the referee after every decision."
+            ]
+        }
+    ],
+    "tonsure": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a shaved or partly shaved hairstyle traditionally used by monks and priests in some religions",
+            "synonyms": [
+                "shaved head",
+                "religious haircut"
+            ],
+            "examples": [
+                "The monk had a tonsure.",
+                "Historically, tonsures were common among clergy."
+            ]
+        }
+    ],
+    "tun": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a large container or barrel used to hold liquids such as beer or wine",
+            "synonyms": [
+                "barrel",
+                "cask",
+                "vat"
+            ],
+            "examples": [
+                "They stored the wine in a wooden tun.",
+                "The brewery has several large tuns."
+            ]
+        }
+    ],
+    "trub": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the leftover solid particles and protein material that separate from wort during brewing",
+            "synonyms": [
+                "sediment",
+                "brew sediment"
+            ],
+            "examples": [
+                "After boiling, the trub settles at the bottom of the tank.",
+                "The brewers remove most of the trub before fermentation."
+            ]
+        }
+    ],
+    "tatty": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "in poor condition, with worn fabric or dirty appearance",
+            "synonyms": [
+                "shabby",
+                "tattered",
+                "ragged",
+                "worn"
+            ],
+            "examples": [
+                "He wore a tatty sweater to the meeting.",
+                "The furniture looked tatty after years of use."
+            ]
+        }
+    ],
+    "tower": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a tall building, structure, or part of a building",
+            "synonyms": [
+                "high-rise",
+                "structure",
+                "spire",
+                "steeple"
+            ],
+            "examples": [
+                "The tower was visible from miles away.",
+                "They climbed the tower for a better view."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to rise or extend high above other things",
+            "synonyms": [
+                "rise",
+                "stand",
+                "loom",
+                "jut"
+            ],
+            "examples": [
+                "The mountains towered above the town.",
+                "The building towers over the street."
+            ]
+        }
+    ],
+    "twerp": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an unpleasant or foolish person, especially a child or young person, used informally",
+            "synonyms": [
+                "brat",
+                "idiot",
+                "jerk",
+                "fool"
+            ],
+            "examples": [
+                "Get out of here, twerp.",
+                "He called the neighbor’s kid a twerp."
+            ]
+        }
+    ],
+    "typesetter": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who arranges text for printing",
+            "synonyms": [
+                "compositor",
+                "printer",
+                "layout worker"
+            ],
+            "examples": [
+                "The typesetter adjusted the spacing before printing.",
+                "A skilled typesetter can make pages look neat."
+            ]
+        }
     ]
 }

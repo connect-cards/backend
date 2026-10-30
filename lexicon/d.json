@@ -3428,5 +3428,81 @@
                 "The article turned into a diatribe against the mayor."
             ]
         }
+    ],
+    "docket": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a list of court cases to be heard, or the schedule for them",
+            "synonyms": [
+                "court schedule",
+                "calendar",
+                "case list",
+                "docket list"
+            ],
+            "examples": [
+                "The judge checked the docket for the next case.",
+                "The hearing is on today’s docket."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to enter information about a legal case into the court’s record or schedule",
+            "synonyms": [
+                "file",
+                "record",
+                "list",
+                "schedule"
+            ],
+            "examples": [
+                "The clerk docketed the case for trial next month.",
+                "They docketed the motion and notified the parties."
+            ]
+        }
+    ],
+    "digest": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to break down food in the stomach and absorb nutrients",
+            "synonyms": [
+                "process",
+                "break down",
+                "metabolize",
+                "assimilate"
+            ],
+            "examples": [
+                "It usually takes a few hours to digest a heavy meal.",
+                "Your body digests food and turns it into energy."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to understand and think about information fully",
+            "synonyms": [
+                "absorb",
+                "process",
+                "consider",
+                "take in"
+            ],
+            "examples": [
+                "I need time to digest the new information.",
+                "After the meeting, she tried to digest the comments."
+            ]
+        }
+    ],
+    "dogged": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "continuing in a determined way despite difficulties",
+            "synonyms": [
+                "persistent",
+                "determined",
+                "unyielding",
+                "tenacious"
+            ],
+            "examples": [
+                "He was dogged in his search for answers.",
+                "Despite setbacks, she stayed dogged."
+            ]
+        }
     ]
 }

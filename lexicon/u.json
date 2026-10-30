@@ -775,5 +775,35 @@
                 "She unfolded the blanket on the chair."
             ]
         }
+    ],
+    "ursine": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "related to bears or having bear-like qualities",
+            "synonyms": [
+                "bearlike",
+                "bearish",
+                "of a bear"
+            ],
+            "examples": [
+                "The ursine tracks were easy to recognize.",
+                "The ursine animal growled in the cave."
+            ]
+        }
+    ],
+    "urn": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a container used to hold ashes after cremation",
+            "synonyms": [
+                "container",
+                "ash container",
+                "cremation urn"
+            ],
+            "examples": [
+                "Her grandfather’s ashes are in an urn on the shelf.",
+                "They kept the urn after the ceremony."
+            ]
+        }
     ]
 }
