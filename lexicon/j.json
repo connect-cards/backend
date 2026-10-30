@@ -500,5 +500,80 @@
                 "He cut his hand on a jagged piece of metal."
             ]
         }
+    ],
+    "jitters": [
+        {
+            "part_of_speech": "noun",
+            "definition": "nervousness or excitement that makes you feel worried or shaky",
+            "synonyms": [
+                "nerves",
+                "anxiety",
+                "nervousness",
+                "unease"
+            ],
+            "examples": [
+                "Before the interview, he had bad jitters.",
+                "Her jitters faded after the first question."
+            ]
+        }
+    ],
+    "junk": [
+        {
+            "part_of_speech": "noun",
+            "definition": "old or unwanted things that are usually kept or thrown away",
+            "synonyms": [
+                "trash",
+                "rubbish",
+                "garbage",
+                "discarded items"
+            ],
+            "examples": [
+                "He threw out the junk from the garage.",
+                "Don’t leave junk in the hallway."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "material that is not useful or of low quality",
+            "synonyms": [
+                "trash",
+                "rubbish",
+                "worthless material"
+            ],
+            "examples": [
+                "The battery was junk after a few months.",
+                "They sold junk equipment."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to throw away or discard something as useless",
+            "synonyms": [
+                "discard",
+                "throw away",
+                "get rid of",
+                "dispose of"
+            ],
+            "examples": [
+                "They junked the old refrigerator.",
+                "He junked the plan after the cost estimate."
+            ]
+        }
+    ],
+    "jaunty": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "cheerful and confident in a lively way",
+            "synonyms": [
+                "cheery",
+                "sprightly",
+                "lively",
+                "confident"
+            ],
+            "examples": [
+                "He gave a jaunty wave as he walked in.",
+                "She looked jaunty despite the bad weather."
+            ]
+        }
     ]
 }

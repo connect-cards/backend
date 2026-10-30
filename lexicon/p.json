@@ -3871,5 +3871,171 @@
                 "The wall was propped after the earthquake."
             ]
         }
+    ],
+    "perjury": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the crime of lying under oath in a legal proceeding",
+            "synonyms": [
+                "false testimony",
+                "lying under oath"
+            ],
+            "examples": [
+                "He was charged with perjury after contradicting his sworn statement.",
+                "Perjury can lead to serious penalties."
+            ]
+        }
+    ],
+    "projection": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a guess or calculation about what will happen in the future",
+            "synonyms": [
+                "forecast",
+                "estimate",
+                "prediction",
+                "outlook"
+            ],
+            "examples": [
+                "The projection shows growth over the next year.",
+                "Their sales projection was lower than expected."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a shape or image that is shown by a device",
+            "synonyms": [
+                "display",
+                "image",
+                "presentation"
+            ],
+            "examples": [
+                "The teacher used a projection of the map.",
+                "There was a projection on the wall during the talk."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "the act of claiming or expressing forcefully an idea or image",
+            "synonyms": [
+                "display",
+                "assertion",
+                "presentation"
+            ],
+            "examples": [
+                "She tried to make a projection of calmness.",
+                "The report’s projection of risk affected decisions."
+            ]
+        }
+    ],
+    "piqué": [
+        {
+            "part_of_speech": "noun",
+            "definition": "hurt pride or anger caused by something that feels insulting",
+            "synonyms": [
+                "offense",
+                "resentment",
+                "irritation"
+            ],
+            "examples": [
+                "Her comment left him in a state of piqué.",
+                "There was piqué between the two coworkers."
+            ]
+        }
+    ],
+    "port": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the left side of a ship when facing forward",
+            "synonyms": [
+                "left (side of a ship)",
+                "portside"
+            ],
+            "examples": [
+                "There was a lantern on the port side.",
+                "He stood by the port railing."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a place where ships load and unload goods",
+            "synonyms": [
+                "harbor",
+                "harbour",
+                "seaport"
+            ],
+            "examples": [
+                "The ship entered the port at dawn.",
+                "Freight moved through the port each day."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a small opening on a computer or device used for connecting cables",
+            "synonyms": [
+                "connection",
+                "interface"
+            ],
+            "examples": [
+                "The USB port is on the side of the laptop.",
+                "Plug the charger into the charging port."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to turn or steer a ship toward the left side",
+            "synonyms": [
+                "turn left",
+                "steer left"
+            ],
+            "examples": [
+                "The captain ported to avoid the rocks.",
+                "They ported when the storm began."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "relating to the left side of a ship",
+            "synonyms": [
+                "left",
+                "portside"
+            ],
+            "examples": [
+                "Port lights are usually red.",
+                "We checked the port side first."
+            ]
+        }
+    ],
+    "panegyrize": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to praise someone or something enthusiastically",
+            "synonyms": [
+                "praise",
+                "extol",
+                "laud",
+                "celebrate"
+            ],
+            "examples": [
+                "The speech panegyrized the new leader’s achievements.",
+                "He panegyrized his mentor in every interview."
+            ]
+        }
+    ],
+    "preamble": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an introduction at the beginning of a speech, document, or law that explains purpose and background",
+            "synonyms": [
+                "introduction",
+                "opening",
+                "foreword",
+                "statement of purpose"
+            ],
+            "examples": [
+                "The preamble explains why the law was created.",
+                "Before the rules, the document has a short preamble."
+            ]
+        }
     ]
 }

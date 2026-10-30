@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-23",
+    "groups": [
+        {
+            "id": "2026-11-23-g1",
+            "type": "synonym",
+            "difficulty": "easy",
+            "title": "brief",
+            "words": [
+                "terse",
+                "succinct",
+                "laconic",
+                "pithy"
+            ]
+        },
+        {
+            "id": "2026-11-23-g2",
+            "type": "thematic_association",
+            "difficulty": "medium",
+            "title": "burial",
+            "words": [
+                "urn",
+                "bier",
+                "shroud",
+                "dirge"
+            ]
+        },
+        {
+            "id": "2026-11-23-g3",
+            "type": "etymological_relation",
+            "difficulty": "hard",
+            "title": "heart roots",
+            "words": [
+                "cordial",
+                "concord",
+                "discord",
+                "record"
+            ]
+        },
+        {
+            "id": "2026-11-23-g4",
+            "type": "literary_register",
+            "difficulty": "very_hard",
+            "title": "poetic dawn",
+            "words": [
+                "morn",
+                "aurora",
+                "daybreak",
+                "cockcrow"
+            ]
+        }
+    ]
+}

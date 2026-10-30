@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-14",
+    "groups": [
+        {
+            "id": "2026-11-14-g1",
+            "type": "sound_association",
+            "difficulty": "easy",
+            "title": "animal cries",
+            "words": [
+                "bleat",
+                "bray",
+                "croak",
+                "neigh"
+            ]
+        },
+        {
+            "id": "2026-11-14-g2",
+            "type": "profession_domain",
+            "difficulty": "medium",
+            "title": "legal work",
+            "words": [
+                "brief",
+                "depose",
+                "tort",
+                "writ"
+            ]
+        },
+        {
+            "id": "2026-11-14-g3",
+            "type": "physical_trait",
+            "difficulty": "hard",
+            "title": "rough texture",
+            "words": [
+                "gnarled",
+                "gritty",
+                "rugose",
+                "scabrous"
+            ]
+        },
+        {
+            "id": "2026-11-14-g4",
+            "type": "synonym",
+            "difficulty": "very_hard",
+            "title": "stinginess",
+            "words": [
+                "avarice",
+                "cupidity",
+                "meanness",
+                "niggardliness"
+            ]
+        }
+    ]
+}

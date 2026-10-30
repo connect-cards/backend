@@ -775,5 +775,124 @@
                 "She unfolded the blanket on the chair."
             ]
         }
+    ],
+    "umbrage": [
+        {
+            "part_of_speech": "noun",
+            "definition": "offense or annoyance, especially when someone feels insulted",
+            "synonyms": [
+                "offense",
+                "resentment",
+                "irritation",
+                "resentment"
+            ],
+            "examples": [
+                "He took umbrage at the criticism.",
+                "She expressed umbrage about the unfair decision."
+            ]
+        }
+    ],
+    "upbear": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to support or carry something",
+            "synonyms": [
+                "support",
+                "carry",
+                "hold up"
+            ],
+            "examples": [
+                "The beams upbear the ceiling.",
+                "He helped upbear the heavy load."
+            ]
+        }
+    ],
+    "urn": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a container, often decorative, used to hold ashes after cremation",
+            "synonyms": [
+                "cremation container",
+                "container for ashes"
+            ],
+            "examples": [
+                "They kept the urn on a shelf.",
+                "The urn was placed in the memorial garden."
+            ]
+        }
+    ],
+    "undercut": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make something less effective by reducing its price, strength, or position",
+            "synonyms": [
+                "undermine",
+                "weaken",
+                "reduce",
+                "undercut (prices)"
+            ],
+            "examples": [
+                "They undercut the competition by lowering the prices.",
+                "The scandal undercut his credibility."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to cut the bottom part of something so it falls or weakens",
+            "synonyms": [
+                "cut below",
+                "cut out",
+                "chisel (below)"
+            ],
+            "examples": [
+                "He undercut the fence post until it collapsed."
+            ]
+        }
+    ],
+    "underbid": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to offer a lower price than someone else",
+            "synonyms": [
+                "outbid (opposite)",
+                "bid lower",
+                "undercut"
+            ],
+            "examples": [
+                "She underbid the other contractor to win the job.",
+                "They underbid to secure the contract."
+            ]
+        }
+    ],
+    "underpay": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to pay someone less money than they deserve or than agreed",
+            "synonyms": [
+                "pay too little",
+                "shortchange",
+                "under-compensate"
+            ],
+            "examples": [
+                "The company was accused of underpaying workers.",
+                "He felt he was underpaid for the work."
+            ]
+        }
+    ],
+    "underwrite": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to agree to take responsibility for financial risk, especially for an insurance policy or investment",
+            "synonyms": [
+                "guarantee",
+                "back",
+                "finance",
+                "insure"
+            ],
+            "examples": [
+                "The bank underwrote the new bonds.",
+                "An insurance company underwrote the policy."
+            ]
+        }
     ]
 }

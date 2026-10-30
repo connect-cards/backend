@@ -3428,5 +3428,160 @@
                 "The article turned into a diatribe against the mayor."
             ]
         }
+    ],
+    "demur": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to object or show hesitation about something you have been asked to do",
+            "synonyms": [
+                "object",
+                "protest",
+                "hesitate",
+                "take exception to"
+            ],
+            "examples": [
+                "She did not demur when the plan was changed.",
+                "He demurred at the idea of moving the meeting."
+            ]
+        }
+    ],
+    "depilate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to remove hair from the skin",
+            "synonyms": [
+                "shave",
+                "remove hair",
+                "wax",
+                "hair-remove"
+            ],
+            "examples": [
+                "She depilated her legs before the trip.",
+                "The salon can depilate using wax."
+            ]
+        }
+    ],
+    "denude": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to remove something and leave it bare or empty",
+            "synonyms": [
+                "strip",
+                "remove",
+                "clear",
+                "deprive"
+            ],
+            "examples": [
+                "The storm denuded the trees of leaves.",
+                "They denuded the area of vegetation."
+            ]
+        }
+    ],
+    "deem": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to consider or judge someone or something in a particular way",
+            "synonyms": [
+                "consider",
+                "judge",
+                "regard",
+                "view"
+            ],
+            "examples": [
+                "The court deemed the evidence reliable.",
+                "I deem it important to arrive early."
+            ]
+        }
+    ],
+    "deep": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "far down from the surface or ground",
+            "synonyms": [
+                "low",
+                "profound",
+                "far-reaching",
+                "bottomless"
+            ],
+            "examples": [
+                "The lake is very deep.",
+                "Be careful near the deep end of the pool."
+            ]
+        },
+        {
+            "part_of_speech": "adverb",
+            "definition": "to a great extent or degree",
+            "synonyms": [
+                "greatly",
+                "strongly",
+                "thoroughly"
+            ],
+            "examples": [
+                "She was deeply upset by the news.",
+                "He is deep in debt."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "having a strong, serious, or intense feeling",
+            "synonyms": [
+                "intense",
+                "strong",
+                "serious",
+                "profound"
+            ],
+            "examples": [
+                "They shared a deep friendship.",
+                "He felt deep regret."
+            ]
+        }
+    ],
+    "derision": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the act of mocking someone or laughing at them in a cruel way",
+            "synonyms": [
+                "ridicule",
+                "mockery",
+                "contempt",
+                "scorn"
+            ],
+            "examples": [
+                "He faced derision after making the mistake.",
+                "The comments were filled with derision."
+            ]
+        }
+    ],
+    "dreck": [
+        {
+            "part_of_speech": "noun",
+            "definition": "worthless or unpleasant things, especially when someone is angry about them",
+            "synonyms": [
+                "junk",
+                "trash",
+                "garbage",
+                "rubbish"
+            ],
+            "examples": [
+                "Don’t put that dreck in the box.",
+                "They called the broken tools dreck."
+            ]
+        }
+    ],
+    "dazzle": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make someone feel confused or amazed because of very strong light or skill",
+            "synonyms": [
+                "amaze",
+                "astonish",
+                "impress",
+                "enthrall"
+            ],
+            "examples": [
+                "The headlights dazzled me for a moment.",
+                "Her performance dazzled the audience."
+            ]
+        }
     ]
 }

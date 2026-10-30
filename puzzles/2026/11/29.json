@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-29",
+    "groups": [
+        {
+            "id": "2026-11-29-g1",
+            "type": "emotional_tone",
+            "difficulty": "easy",
+            "title": "cheerful",
+            "words": [
+                "buoyant",
+                "jaunty",
+                "merry",
+                "sunny"
+            ]
+        },
+        {
+            "id": "2026-11-29-g2",
+            "type": "informal_register",
+            "difficulty": "medium",
+            "title": "casual speech",
+            "words": [
+                "banter",
+                "chinwag",
+                "natter",
+                "yak"
+            ]
+        },
+        {
+            "id": "2026-11-29-g3",
+            "type": "synonym",
+            "difficulty": "hard",
+            "title": "stingy",
+            "words": [
+                "chary",
+                "miserly",
+                "niggardly",
+                "parsimonious"
+            ]
+        },
+        {
+            "id": "2026-11-29-g4",
+            "type": "etymological_relation",
+            "difficulty": "very_hard",
+            "title": "born words",
+            "words": [
+                "native",
+                "nascent",
+                "nation",
+                "natal"
+            ]
+        }
+    ]
+}

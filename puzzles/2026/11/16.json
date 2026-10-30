@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-16",
+    "groups": [
+        {
+            "id": "2026-11-16-g1",
+            "type": "etymological_relation",
+            "difficulty": "easy",
+            "title": "water latin",
+            "words": [
+                "aquatic",
+                "aqueduct",
+                "aquifer",
+                "aqueous"
+            ]
+        },
+        {
+            "id": "2026-11-16-g2",
+            "type": "profession_domain",
+            "difficulty": "medium",
+            "title": "sailing terms",
+            "words": [
+                "abaft",
+                "astern",
+                "keel",
+                "port"
+            ]
+        },
+        {
+            "id": "2026-11-16-g3",
+            "type": "sound_association",
+            "difficulty": "hard",
+            "title": "sharp sounds",
+            "words": [
+                "clang",
+                "clank",
+                "clink",
+                "clonk"
+            ]
+        },
+        {
+            "id": "2026-11-16-g4",
+            "type": "morphological_family",
+            "difficulty": "very_hard",
+            "title": "root cred",
+            "words": [
+                "credence",
+                "credible",
+                "credit",
+                "credulous"
+            ]
+        }
+    ]
+}

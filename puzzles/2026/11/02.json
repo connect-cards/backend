@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-02",
+    "groups": [
+        {
+            "id": "2026-11-02-g1",
+            "type": "emotional_tone",
+            "difficulty": "easy",
+            "title": "nervousness",
+            "words": [
+                "jitters",
+                "qualm",
+                "trepidation",
+                "unease"
+            ]
+        },
+        {
+            "id": "2026-11-02-g2",
+            "type": "thematic_association",
+            "difficulty": "medium",
+            "title": "courtroom",
+            "words": [
+                "affidavit",
+                "gavel",
+                "perjury",
+                "subpoena"
+            ]
+        },
+        {
+            "id": "2026-11-02-g3",
+            "type": "literary_register",
+            "difficulty": "hard",
+            "title": "poetic sorrow",
+            "words": [
+                "dolor",
+                "grief",
+                "rue",
+                "woe"
+            ]
+        },
+        {
+            "id": "2026-11-02-g4",
+            "type": "semantic_field",
+            "difficulty": "very_hard",
+            "title": "speech acts",
+            "words": [
+                "aver",
+                "cavil",
+                "demur",
+                "gainsay"
+            ]
+        }
+    ]
+}

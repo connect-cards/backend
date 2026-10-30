@@ -3444,5 +3444,211 @@
                 "The comedian roasted the politician gently."
             ]
         }
+    ],
+    "rotter": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who behaves badly or causes trouble",
+            "synonyms": [
+                "bad person",
+                "nasty person",
+                "villain"
+            ],
+            "examples": [
+                "They called him a rotter after he betrayed the team.",
+                "The rotter ruined the friendship."
+            ]
+        }
+    ],
+    "rag": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a piece of cloth used for cleaning or as a covering",
+            "synonyms": [
+                "cloth",
+                "towel",
+                "scrap of fabric",
+                "rag cloth"
+            ],
+            "examples": [
+                "Use a rag to wipe the table.",
+                "The mechanic left a rag on the floor."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to clean by rubbing with a cloth, especially to remove dirt",
+            "synonyms": [
+                "wipe",
+                "clean",
+                "scrub",
+                "rub"
+            ],
+            "examples": [
+                "She ragged the window until it looked clear.",
+                "Rag the spill before it spreads."
+            ]
+        }
+    ],
+    "resile": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to withdraw from a position or decision, often suddenly",
+            "synonyms": [
+                "back down",
+                "retract",
+                "withdraw",
+                "change your mind"
+            ],
+            "examples": [
+                "He resiled from his earlier promise.",
+                "The company resiled after public criticism."
+            ]
+        }
+    ],
+    "refract": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to bend light as it passes through a material",
+            "synonyms": [
+                "bend",
+                "disperse"
+            ],
+            "examples": [
+                "Glass can refract light and create a rainbow effect.",
+                "Water refracts light differently from air."
+            ]
+        }
+    ],
+    "rarefy": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to become less dense or less concentrated, or to make it so",
+            "synonyms": [
+                "dilute",
+                "thin",
+                "make less dense",
+                "reduce concentration"
+            ],
+            "examples": [
+                "As you climb higher, the air rarefies.",
+                "Heat can rarefy gases."
+            ]
+        }
+    ],
+    "ridicule": [
+        {
+            "part_of_speech": "noun",
+            "definition": "words or behavior meant to make someone seem foolish or unimportant",
+            "synonyms": [
+                "mockery",
+                "derision",
+                "laughter (at)",
+                "scorn"
+            ],
+            "examples": [
+                "The teacher’s speech turned into ridicule.",
+                "Her idea was met with ridicule."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make fun of someone in a way that is meant to hurt or shame them",
+            "synonyms": [
+                "mock",
+                "deride",
+                "laugh at",
+                "tease"
+            ],
+            "examples": [
+                "They ridiculed him for his accent.",
+                "Don’t ridicule people who are learning."
+            ]
+        }
+    ],
+    "record": [
+        {
+            "part_of_speech": "noun",
+            "definition": "information stored and kept for reference",
+            "synonyms": [
+                "file",
+                "document",
+                "archive",
+                "data"
+            ],
+            "examples": [
+                "We kept a record of the payments.",
+                "The report becomes part of the official record."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a previous achievement or performance, especially in sports or work",
+            "synonyms": [
+                "track record",
+                "history",
+                "performance"
+            ],
+            "examples": [
+                "Her record in math is excellent.",
+                "The team’s record improved this season."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to write down or save information so it can be used later",
+            "synonyms": [
+                "register",
+                "log",
+                "document",
+                "record"
+            ],
+            "examples": [
+                "Please record your answers on the form.",
+                "The system automatically records the time."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to capture audio or video so it can be played later",
+            "synonyms": [
+                "film",
+                "tape",
+                "digitally record",
+                "shoot"
+            ],
+            "examples": [
+                "They recorded the concert for later.",
+                "I’ll record the meeting on my phone."
+            ]
+        }
+    ],
+    "rocket": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a vehicle that flies using rocket engines to produce thrust",
+            "synonyms": [
+                "missile",
+                "spacecraft (small)"
+            ],
+            "examples": [
+                "The rocket launched at sunrise.",
+                "They watched the rocket disappear into the sky."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to move upward or increase very quickly",
+            "synonyms": [
+                "soar",
+                "surge",
+                "shoot up",
+                "rise rapidly"
+            ],
+            "examples": [
+                "Sales rocket after the advertisement goes live.",
+                "The car rockets down the road."
+            ]
+        }
     ]
 }

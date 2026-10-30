@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-26",
+    "groups": [
+        {
+            "id": "2026-11-26-g1",
+            "type": "thematic_association",
+            "difficulty": "easy",
+            "title": "seafaring",
+            "words": [
+                "keel",
+                "mast",
+                "rudder",
+                "berth"
+            ]
+        },
+        {
+            "id": "2026-11-26-g2",
+            "type": "semantic_field",
+            "difficulty": "medium",
+            "title": "speech defects",
+            "words": [
+                "lisp",
+                "stammer",
+                "drawl",
+                "slur"
+            ]
+        },
+        {
+            "id": "2026-11-26-g3",
+            "type": "literary_register",
+            "difficulty": "hard",
+            "title": "old pronouns",
+            "words": [
+                "thou",
+                "thee",
+                "thy",
+                "thine"
+            ]
+        },
+        {
+            "id": "2026-11-26-g4",
+            "type": "morphological_family",
+            "difficulty": "very_hard",
+            "title": "fore prefix",
+            "words": [
+                "forebear",
+                "forebode",
+                "foretell",
+                "foreclose"
+            ]
+        }
+    ]
+}

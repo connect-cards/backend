@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-03",
+    "groups": [
+        {
+            "id": "2026-11-03-g1",
+            "type": "sound_association",
+            "difficulty": "easy",
+            "title": "sharp sounds",
+            "words": [
+                "clack",
+                "clang",
+                "click",
+                "clink"
+            ]
+        },
+        {
+            "id": "2026-11-03-g2",
+            "type": "semantic_field",
+            "difficulty": "medium",
+            "title": "soil science",
+            "words": [
+                "humus",
+                "loam",
+                "marl",
+                "silt"
+            ]
+        },
+        {
+            "id": "2026-11-03-g3",
+            "type": "morphological_family",
+            "difficulty": "hard",
+            "title": "bearing carry",
+            "words": [
+                "cache",
+                "cargo",
+                "chariot",
+                "charge"
+            ]
+        },
+        {
+            "id": "2026-11-03-g4",
+            "type": "literary_register",
+            "difficulty": "very_hard",
+            "title": "old pronouns",
+            "words": [
+                "thee",
+                "thine",
+                "thou",
+                "ye"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-27",
+    "groups": [
+        {
+            "id": "2026-11-27-g1",
+            "type": "thematic_association",
+            "difficulty": "easy",
+            "title": "winter weather",
+            "words": [
+                "sleet",
+                "flurry",
+                "frost",
+                "thaw"
+            ]
+        },
+        {
+            "id": "2026-11-27-g2",
+            "type": "semantic_field",
+            "difficulty": "medium",
+            "title": "stinginess",
+            "words": [
+                "frugal",
+                "niggardly",
+                "parsimonious",
+                "miserly"
+            ]
+        },
+        {
+            "id": "2026-11-27-g3",
+            "type": "emotional_tone",
+            "difficulty": "hard",
+            "title": "nervous states",
+            "words": [
+                "jittery",
+                "wary",
+                "restive",
+                "skittish"
+            ]
+        },
+        {
+            "id": "2026-11-27-g4",
+            "type": "informal_register",
+            "difficulty": "very_hard",
+            "title": "reprimands",
+            "words": [
+                "bollocking",
+                "earful",
+                "rocket",
+                "wigging"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-11",
+    "groups": [
+        {
+            "id": "2026-11-11-g1",
+            "type": "morphological_family",
+            "difficulty": "easy",
+            "title": "break forms",
+            "words": [
+                "fracture",
+                "fraction",
+                "fragile",
+                "refract"
+            ]
+        },
+        {
+            "id": "2026-11-11-g2",
+            "type": "literary_register",
+            "difficulty": "medium",
+            "title": "poetic sea",
+            "words": [
+                "brine",
+                "main",
+                "deep",
+                "surge"
+            ]
+        },
+        {
+            "id": "2026-11-11-g3",
+            "type": "etymological_relation",
+            "difficulty": "hard",
+            "title": "from latin mouth",
+            "words": [
+                "oral",
+                "orison",
+                "orator",
+                "adore"
+            ]
+        },
+        {
+            "id": "2026-11-11-g4",
+            "type": "emotional_tone",
+            "difficulty": "very_hard",
+            "title": "scornful tones",
+            "words": [
+                "acidulous",
+                "snide",
+                "supercilious",
+                "trenchant"
+            ]
+        }
+    ]
+}

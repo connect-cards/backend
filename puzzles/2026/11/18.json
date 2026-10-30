@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-18",
+    "groups": [
+        {
+            "id": "2026-11-18-g1",
+            "type": "synonym",
+            "difficulty": "easy",
+            "title": "praise",
+            "words": [
+                "laud",
+                "extol",
+                "tout",
+                "panegyrize"
+            ]
+        },
+        {
+            "id": "2026-11-18-g2",
+            "type": "semantic_field",
+            "difficulty": "medium",
+            "title": "swamp life",
+            "words": [
+                "sedge",
+                "reed",
+                "heron",
+                "bog"
+            ]
+        },
+        {
+            "id": "2026-11-18-g3",
+            "type": "morphological_family",
+            "difficulty": "hard",
+            "title": "light forms",
+            "words": [
+                "lucid",
+                "translucent",
+                "pellucid",
+                "lucubrate"
+            ]
+        },
+        {
+            "id": "2026-11-18-g4",
+            "type": "emotional_tone",
+            "difficulty": "very_hard",
+            "title": "reserved manner",
+            "words": [
+                "stiff",
+                "icy",
+                "guarded",
+                "reticent"
+            ]
+        }
+    ]
+}

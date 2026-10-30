@@ -6238,5 +6238,382 @@
                 "Take the curl to the left to reach the market."
             ]
         }
+    ],
+    "comet": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an icy object that travels around the sun and shows a glowing tail when it gets close to the sun",
+            "synonyms": [
+                "icy body",
+                "tailing star",
+                "astral wanderer"
+            ],
+            "examples": [
+                "The comet became visible in the evening sky.",
+                "Scientists studied the comet’s tail as it passed by Earth."
+            ]
+        }
+    ],
+    "clack": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a short loud sound made by things knocking or hitting together",
+            "synonyms": [
+                "clatter",
+                "click",
+                "rattle"
+            ],
+            "examples": [
+                "There was a sharp clack from the door hinges.",
+                "I heard a clack as the tray landed."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a short loud sound by knocking or hitting together",
+            "synonyms": [
+                "clatter",
+                "click",
+                "rattle"
+            ],
+            "examples": [
+                "The coins clacked in the bowl.",
+                "The machine clacked as it started."
+            ]
+        }
+    ],
+    "click": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a short, sharp sound made by a switch, lock, or small object moving",
+            "synonyms": [
+                "snap",
+                "click-clack",
+                "tick"
+            ],
+            "examples": [
+                "I heard a click as the lock turned.",
+                "The camera made a click when it focused."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a short sharp sound or to activate something with a switch or button",
+            "synonyms": [
+                "press",
+                "activate",
+                "snap",
+                "trigger"
+            ],
+            "examples": [
+                "The mouse clicked twice before the page changed.",
+                "Click the button to continue."
+            ]
+        }
+    ],
+    "cache": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a temporary storage area where data or items are kept for quick access",
+            "synonyms": [
+                "storage",
+                "buffer",
+                "temporary cache"
+            ],
+            "examples": [
+                "The app is slow because the cache is full.",
+                "Clear the cache to fix the loading issue."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to store something in a hidden place for later use",
+            "synonyms": [
+                "hide",
+                "stash",
+                "store away",
+                "cache away"
+            ],
+            "examples": [
+                "They cached supplies for the trip.",
+                "The team cached the samples in a safe location."
+            ]
+        }
+    ],
+    "cargo": [
+        {
+            "part_of_speech": "noun",
+            "definition": "goods carried by a ship, plane, or truck",
+            "synonyms": [
+                "freight",
+                "shipment",
+                "load",
+                "goods"
+            ],
+            "examples": [
+                "The cargo arrived two days late.",
+                "We unloaded the cargo from the container."
+            ]
+        }
+    ],
+    "chariot": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a type of two-wheeled vehicle used in ancient times, usually pulled by horses",
+            "synonyms": [
+                "cart",
+                "wagon",
+                "two-wheeled vehicle"
+            ],
+            "examples": [
+                "In ancient art, kings are shown riding in chariots.",
+                "The museum displayed a replica chariot."
+            ]
+        }
+    ],
+    "chorus": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a group of people who sing together in a performance",
+            "synonyms": [
+                "choir",
+                "singing group",
+                "vocal group"
+            ],
+            "examples": [
+                "The chorus rehearsed every Tuesday.",
+                "She joined the school chorus."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "the repeated part of a song that comes back in the same form",
+            "synonyms": [
+                "refrain",
+                "repeated section"
+            ],
+            "examples": [
+                "The chorus is the part everyone knows.",
+                "We sang the chorus together."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to sing together in a chorus",
+            "synonyms": [
+                "sing together",
+                "harmonize"
+            ],
+            "examples": [
+                "The crowd chorused the song’s chorus.",
+                "They chorused in unison."
+            ]
+        }
+    ],
+    "conscription": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the system of forcing people to join the armed forces",
+            "synonyms": [
+                "draft",
+                "mandatory service",
+                "military draft"
+            ],
+            "examples": [
+                "Conscription ended after the new law was passed.",
+                "During wartime, conscription was common."
+            ]
+        }
+    ],
+    "cupidity": [
+        {
+            "part_of_speech": "noun",
+            "definition": "strong desire for money or possessions, often in a selfish way",
+            "synonyms": [
+                "greed",
+                "covetousness",
+                "materialism",
+                "grasping"
+            ],
+            "examples": [
+                "The trial revealed cupidity behind the scheme.",
+                "Her cupidity pushed her to take more than she needed."
+            ]
+        }
+    ],
+    "compression": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the act of pressing something together so it takes up less space",
+            "synonyms": [
+                "squeezing",
+                "compaction",
+                "pressing"
+            ],
+            "examples": [
+                "The compressor works by compression of air.",
+                "Compression can reduce the size of a file."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a technology or method that reduces the size of data",
+            "synonyms": [
+                "data compression",
+                "zipping"
+            ],
+            "examples": [
+                "Compression makes downloads faster.",
+                "Use compression to save storage space."
+            ]
+        }
+    ],
+    "clonk": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a dull, heavy sound made when something hits something else",
+            "synonyms": [
+                "thud",
+                "bang",
+                "clunk",
+                "thump"
+            ],
+            "examples": [
+                "There was a clonk from the hallway.",
+                "I heard a clonk when the box fell."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a dull heavy sound by hitting",
+            "synonyms": [
+                "thud",
+                "thump",
+                "clunk",
+                "bang"
+            ],
+            "examples": [
+                "The lid clonked shut.",
+                "The tool clonked against the metal table."
+            ]
+        }
+    ],
+    "crud": [
+        {
+            "part_of_speech": "noun",
+            "definition": "dirt or an unwanted substance on a surface",
+            "synonyms": [
+                "dirt",
+                "grime",
+                "filth",
+                "gunk"
+            ],
+            "examples": [
+                "Wash off the crud from the sink.",
+                "There was crud on the window."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "something of poor quality or that people dislike",
+            "synonyms": [
+                "trash",
+                "junk",
+                "rubbish",
+                "nonsense"
+            ],
+            "examples": [
+                "This movie is just crud.",
+                "The instructions are crud."
+            ]
+        }
+    ],
+    "chiasmus": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a style of writing where ideas are repeated in reverse order",
+            "synonyms": [
+                "reversal (rhetorical)",
+                "mirror structure"
+            ],
+            "examples": [
+                "The author used chiasmus to make the sentence memorable.",
+                "Chiasmus can create balance in persuasive writing."
+            ]
+        }
+    ],
+    "chinwag": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a friendly conversation, especially a casual one",
+            "synonyms": [
+                "chat",
+                "talk",
+                "conversation",
+                "catch-up"
+            ],
+            "examples": [
+                "We had a chinwag after work.",
+                "Let’s have a chinwag this weekend."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to have a friendly casual conversation",
+            "synonyms": [
+                "chat",
+                "talk",
+                "converse",
+                "catch up"
+            ],
+            "examples": [
+                "We chinwagged for an hour in the café.",
+                "Come by and we’ll chinwag."
+            ]
+        }
+    ],
+    "chary": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "careful about doing something because you think it may be risky",
+            "synonyms": [
+                "cautious",
+                "wary",
+                "careful",
+                "reserved"
+            ],
+            "examples": [
+                "She was chary of trusting strangers.",
+                "He’s chary about spending money on new gadgets."
+            ]
+        }
+    ],
+    "carrier": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person or thing that carries or transports something",
+            "synonyms": [
+                "transport",
+                "shipper",
+                "vehicle",
+                "bearer"
+            ],
+            "examples": [
+                "The carrier delivered the package to the store.",
+                "A carrier can spread disease."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a company that provides communication services or transportation services",
+            "synonyms": [
+                "telecom provider",
+                "shipper (context)"
+            ],
+            "examples": [
+                "She switched carriers for her phone plan.",
+                "The shipping carrier handled the logistics."
+            ]
+        }
     ]
 }

@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-28",
+    "groups": [
+        {
+            "id": "2026-11-28-g1",
+            "type": "emotional_tone",
+            "difficulty": "easy",
+            "title": "calm moods",
+            "words": [
+                "placid",
+                "serene",
+                "equable",
+                "unruffled"
+            ]
+        },
+        {
+            "id": "2026-11-28-g2",
+            "type": "semantic_field",
+            "difficulty": "medium",
+            "title": "harsh light",
+            "words": [
+                "glare",
+                "blaze",
+                "glint",
+                "dazzle"
+            ]
+        },
+        {
+            "id": "2026-11-28-g3",
+            "type": "morphological_family",
+            "difficulty": "hard",
+            "title": "out prefix",
+            "words": [
+                "outbid",
+                "outgrow",
+                "outlast",
+                "outwit"
+            ]
+        },
+        {
+            "id": "2026-11-28-g4",
+            "type": "physical_trait",
+            "difficulty": "very_hard",
+            "title": "thin textures",
+            "words": [
+                "gauzy",
+                "filmy",
+                "gossamer",
+                "diaphanous"
+            ]
+        }
+    ]
+}

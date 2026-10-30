@@ -7395,5 +7395,317 @@
                 "They sneered when we suggested a different plan."
             ]
         }
+    ],
+    "silt": [
+        {
+            "part_of_speech": "noun",
+            "definition": "fine particles of soil or rock that settle in water and form a layer",
+            "synonyms": [
+                "mud",
+                "sediment",
+                "fine sediment"
+            ],
+            "examples": [
+                "The river carried silt after heavy rain.",
+                "Too much silt can clog the waterway."
+            ]
+        }
+    ],
+    "source": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person, place, or thing that provides something",
+            "synonyms": [
+                "origin",
+                "provider",
+                "producer",
+                "cause"
+            ],
+            "examples": [
+                "Water is the source of life for many animals.",
+                "Her manager is the source of the information."
+            ]
+        }
+    ],
+    "snare": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a trap that catches animals, often by tightening around them",
+            "synonyms": [
+                "trap",
+                "trap device",
+                "catch"
+            ],
+            "examples": [
+                "The farmer checked the snare every day.",
+                "A snare is designed to hold an animal safely."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to catch in a trap or to catch someone’s attention or plans",
+            "synonyms": [
+                "trap",
+                "catch",
+                "ensnare",
+                "entangle"
+            ],
+            "examples": [
+                "The net snared the fish quickly.",
+                "The clever slogan can snare customers."
+            ]
+        }
+    ],
+    "skimp": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to use too little of something in a way that reduces quality or comfort",
+            "synonyms": [
+                "cut back",
+                "save",
+                "economize",
+                "underspend"
+            ],
+            "examples": [
+                "Don’t skimp on sleep if you want to focus.",
+                "They skimped on materials and the work looked poor."
+            ]
+        }
+    ],
+    "scrimp": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to spend or use less money, time, or effort than is needed",
+            "synonyms": [
+                "cut back",
+                "economize",
+                "save",
+                "hold back"
+            ],
+            "examples": [
+                "We scrimped on travel expenses to afford the hotel.",
+                "If you scrimp on ingredients, the dish won’t taste great."
+            ]
+        }
+    ],
+    "sot": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who drinks too much alcohol, especially habitually",
+            "synonyms": [
+                "drunk",
+                "alcoholic",
+                "heavy drinker"
+            ],
+            "examples": [
+                "He used to be a sot, but he got help.",
+                "Everyone warned her about dating a sot."
+            ]
+        }
+    ],
+    "smoker": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who smokes tobacco",
+            "synonyms": [
+                "tobacco user",
+                "cigarette smoker",
+                "smoking person"
+            ],
+            "examples": [
+                "The building has a separate area for smokers.",
+                "He is a smoker and he wants to cut down."
+            ]
+        }
+    ],
+    "supersedure": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the act of replacing something with a newer or more official version",
+            "synonyms": [
+                "supersession",
+                "replacement",
+                "abolition"
+            ],
+            "examples": [
+                "The contract includes terms for supersedure by a later agreement.",
+                "A court may approve the supersedure of older rules."
+            ]
+        }
+    ],
+    "schema": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a plan or system that shows how something works or how parts are organized",
+            "synonyms": [
+                "framework",
+                "model",
+                "system",
+                "structure"
+            ],
+            "examples": [
+                "The schema helps students understand the topic.",
+                "This database uses a schema to organize data."
+            ]
+        }
+    ],
+    "surge": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a sudden strong increase in amount, speed, or intensity",
+            "synonyms": [
+                "spike",
+                "rush",
+                "increase",
+                "upsurge"
+            ],
+            "examples": [
+                "There was a surge in demand after the announcement.",
+                "A surge of energy helped her run faster."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to increase suddenly and strongly",
+            "synonyms": [
+                "increase rapidly",
+                "rise",
+                "spike",
+                "rush"
+            ],
+            "examples": [
+                "Traffic surged after the event ended.",
+                "Prices surged within a few weeks."
+            ]
+        }
+    ],
+    "snooker": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a cue sport played with a set of balls on a table with pockets",
+            "synonyms": [
+                "cue sport",
+                "snooker game"
+            ],
+            "examples": [
+                "He plays snooker every weekend.",
+                "We watched a snooker match on TV."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to win points by making it hard for an opponent to hit the ball by placing balls strategically",
+            "synonyms": [
+                "set up (shots)",
+                "trap"
+            ],
+            "examples": [
+                "She snookered him near the end of the game.",
+                "The strategy snookered the opponent into mistakes."
+            ]
+        }
+    ],
+    "sear": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to cook quickly at high heat so the surface turns brown",
+            "synonyms": [
+                "burnish",
+                "brown",
+                "quick-cook",
+                "sear (off)"
+            ],
+            "examples": [
+                "Sear the steak for two minutes on each side.",
+                "The pan was hot enough to sear the fish."
+            ]
+        }
+    ],
+    "shroud": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a cloth used to cover a body during a funeral or to cover something for protection",
+            "synonyms": [
+                "covering",
+                "cloak",
+                "blanket"
+            ],
+            "examples": [
+                "A shroud covered the coffin.",
+                "The statue was placed under a shroud."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to cover something completely, especially in a dark or mysterious way",
+            "synonyms": [
+                "cover",
+                "envelop",
+                "cloak",
+                "hide"
+            ],
+            "examples": [
+                "Fog shrouded the street in darkness.",
+                "She shrouded the truth with vague answers."
+            ]
+        }
+    ],
+    "sunny": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "full of sunshine or producing a lot of light",
+            "synonyms": [
+                "bright",
+                "sunlit",
+                "light-filled"
+            ],
+            "examples": [
+                "It was a sunny day for the picnic.",
+                "The room is sunny in the morning."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "cheerful and optimistic",
+            "synonyms": [
+                "cheerful",
+                "optimistic",
+                "bright-minded"
+            ],
+            "examples": [
+                "She has a sunny personality.",
+                "His sunny attitude helped everyone relax."
+            ]
+        }
+    ],
+    "subdue": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make something less strong or less intense",
+            "synonyms": [
+                "reduce",
+                "weaken",
+                "calm",
+                "control"
+            ],
+            "examples": [
+                "They used music to subdue the crowd’s anger.",
+                "The medicine helped subdue the pain."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to defeat or bring under control by force",
+            "synonyms": [
+                "conquer",
+                "defeat",
+                "overpower",
+                "overcome"
+            ],
+            "examples": [
+                "The army worked to subdue the rebellion.",
+                "Guards tried to subdue the attacker."
+            ]
+        }
     ]
 }

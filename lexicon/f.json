@@ -2153,5 +2153,153 @@
                 "The balloon flatted and fell to the floor."
             ]
         }
+    ],
+    "flair": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a natural talent or skill for doing something in a stylish or effective way",
+            "synonyms": [
+                "talent",
+                "gift",
+                "style",
+                "aptitude"
+            ],
+            "examples": [
+                "She has a flair for organizing events.",
+                "His flair for design impressed the judges."
+            ]
+        }
+    ],
+    "forbore": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to hold back from doing something, especially when you have a reason to do it",
+            "synonyms": [
+                "refrain",
+                "hold back",
+                "stop yourself",
+                "avoid"
+            ],
+            "examples": [
+                "He forbore from answering, even though he was annoyed.",
+                "She forbore to criticize him during the meeting."
+            ]
+        }
+    ],
+    "fulling": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a process used in making cloth that makes wool fibers thicken and become tighter",
+            "synonyms": [
+                "fabric finishing"
+            ],
+            "examples": [
+                "The history of fulling explains how early cloth was improved.",
+                "Fulling makes the wool felt more easily."
+            ]
+        }
+    ],
+    "fracture": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a break in a bone or in something hard",
+            "synonyms": [
+                "break",
+                "crack",
+                "bone break"
+            ],
+            "examples": [
+                "He had a fracture in his wrist.",
+                "The fall caused a fracture."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to break a bone or cause a crack in something hard",
+            "synonyms": [
+                "break",
+                "crack",
+                "split",
+                "rupture"
+            ],
+            "examples": [
+                "The accident fractured his ribs.",
+                "The impact fractured the glass."
+            ]
+        }
+    ],
+    "fraction": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small part of a whole amount",
+            "synonyms": [
+                "part",
+                "portion",
+                "segment",
+                "share"
+            ],
+            "examples": [
+                "Only a fraction of the students arrived on time.",
+                "It will take a fraction of the time."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a number that represents part of a whole, written as a/b",
+            "synonyms": [
+                "fractional number"
+            ],
+            "examples": [
+                "In math, two-thirds is a fraction.",
+                "Convert the fraction into a decimal."
+            ]
+        }
+    ],
+    "forebear": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person from an earlier time who is part of someone’s family line",
+            "synonyms": [
+                "ancestor",
+                "forefather",
+                "predecessor"
+            ],
+            "examples": [
+                "Her forebears came from Ireland.",
+                "The family name traces back to her forebears."
+            ]
+        }
+    ],
+    "forebode": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to show signs that something bad may happen",
+            "synonyms": [
+                "predict",
+                "warn",
+                "signal",
+                "portend"
+            ],
+            "examples": [
+                "The dark clouds forebode a storm.",
+                "His sudden silence foreboded trouble."
+            ]
+        }
+    ],
+    "foretell": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to say in advance that something will happen",
+            "synonyms": [
+                "predict",
+                "prophesy",
+                "forecast",
+                "anticipate"
+            ],
+            "examples": [
+                "The scientist can’t foretell every outcome.",
+                "They foretold major changes in the industry."
+            ]
+        }
     ]
 }

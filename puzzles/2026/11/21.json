@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-21",
+    "groups": [
+        {
+            "id": "2026-11-21-g1",
+            "type": "semantic_field",
+            "difficulty": "easy",
+            "title": "cooking actions",
+            "words": [
+                "braise",
+                "sear",
+                "whisk",
+                "knead"
+            ]
+        },
+        {
+            "id": "2026-11-21-g2",
+            "type": "emotional_tone",
+            "difficulty": "medium",
+            "title": "gloomy moods",
+            "words": [
+                "sullen",
+                "morose",
+                "glum",
+                "dour"
+            ]
+        },
+        {
+            "id": "2026-11-21-g3",
+            "type": "informal_register",
+            "difficulty": "hard",
+            "title": "boast",
+            "words": [
+                "crow",
+                "brag",
+                "gloat",
+                "vaunt"
+            ]
+        },
+        {
+            "id": "2026-11-21-g4",
+            "type": "thematic_association",
+            "difficulty": "very_hard",
+            "title": "rhetoric",
+            "words": [
+                "trope",
+                "litotes",
+                "zeugma",
+                "chiasmus"
+            ]
+        }
+    ]
+}

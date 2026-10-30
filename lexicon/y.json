@@ -187,5 +187,69 @@
                 "The child yelped and ran to his mother."
             ]
         }
+    ],
+    "ye": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an old form of the word you, used in some religious or literary texts",
+            "synonyms": [
+                "you (old form)"
+            ],
+            "examples": [
+                "Ye shall hear the message.",
+                "In the poem, ye is used instead of you."
+            ]
+        },
+        {
+            "part_of_speech": "adverb",
+            "definition": "in old religious or literary language, used with verbs to mean you",
+            "synonyms": [],
+            "examples": [
+                "Ye are welcome to join the group.",
+                "Ye go now, and return soon."
+            ]
+        }
+    ],
+    "yclept": [
+        {
+            "part_of_speech": "verb",
+            "definition": "an old word meaning called or named",
+            "synonyms": [
+                "called",
+                "named"
+            ],
+            "examples": [
+                "The place yclept Stonebridge was familiar to everyone.",
+                "In the story, the hero is yclept Mark."
+            ]
+        }
+    ],
+    "yak": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a large animal with long hair that lives in cold regions of asia",
+            "synonyms": [
+                "wild ox",
+                "domestic yak"
+            ],
+            "examples": [
+                "A yak grazed on the hillside.",
+                "They saw yaks on the mountain trail."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to talk in a long, noisy way, often without stopping",
+            "synonyms": [
+                "talk",
+                "chatter",
+                "babble",
+                "yak away"
+            ],
+            "examples": [
+                "He yakked for so long that I lost track of time.",
+                "Stop yaking and let me explain."
+            ]
+        }
     ]
 }

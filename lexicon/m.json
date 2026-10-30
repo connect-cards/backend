@@ -2593,5 +2593,227 @@
                 "The captain decided to moor for the night."
             ]
         }
+    ],
+    "meteor": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a streak of light in the sky caused by a small rock burning up in earth’s atmosphere",
+            "synonyms": [
+                "shooting star",
+                "meteoroid",
+                "bolide"
+            ],
+            "examples": [
+                "We saw a meteor streak across the sky.",
+                "The forecast said there might be meteors tonight."
+            ]
+        }
+    ],
+    "marl": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a type of soil or rock that contains clay and calcium carbonate",
+            "synonyms": [
+                "calcareous clay",
+                "limey soil"
+            ],
+            "examples": [
+                "Farmers used marl to improve the land.",
+                "The ground near the quarry is rich in marl."
+            ]
+        }
+    ],
+    "main": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "most important or the largest part",
+            "synonyms": [
+                "primary",
+                "chief",
+                "principal",
+                "major"
+            ],
+            "examples": [
+                "Her main goal is to finish school.",
+                "We took the main road to save time."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "the principal line, road, or channel that something flows through",
+            "synonyms": [
+                "main road",
+                "main line",
+                "main channel"
+            ],
+            "examples": [
+                "The water comes from the main.",
+                "Switch to the main after the junction."
+            ]
+        }
+    ],
+    "meanness": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the quality of being unkind, stingy, or unfair",
+            "synonyms": [
+                "cruelty",
+                "stinginess",
+                "unfairness",
+                "unkindness"
+            ],
+            "examples": [
+                "His meanness made the team lose motivation.",
+                "Meanness in leadership can destroy trust."
+            ]
+        }
+    ],
+    "mildew": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a gray or white fungus growth that appears on damp surfaces",
+            "synonyms": [
+                "fungus",
+                "mold (mildew)",
+                "fungal growth"
+            ],
+            "examples": [
+                "The window had mildew on it.",
+                "Mildew can damage old clothes stored in damp places."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to develop mildew because of dampness",
+            "synonyms": [
+                "mold",
+                "develop fungus",
+                "grow mold"
+            ],
+            "examples": [
+                "The walls began to mildew after the leak.",
+                "The basement walls mildew quickly in summer."
+            ]
+        }
+    ],
+    "mere": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "only; nothing more than",
+            "synonyms": [
+                "only",
+                "simple",
+                "nothing but"
+            ],
+            "examples": [
+                "It was a mere suggestion, not a plan.",
+                "She made a mere mistake."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a large inland lake, often in old or formal writing",
+            "synonyms": [
+                "inland lake"
+            ],
+            "examples": [
+                "The novel describes a forest beside a mere."
+            ]
+        }
+    ],
+    "mislead": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to cause someone to believe something that is not true",
+            "synonyms": [
+                "deceive",
+                "trick",
+                "misinform",
+                "lead astray"
+            ],
+            "examples": [
+                "The sign was designed to mislead customers.",
+                "He misled her about the cost."
+            ]
+        }
+    ],
+    "misbear": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to behave badly toward someone who trusts you, causing harm",
+            "synonyms": [
+                "betray",
+                "fail",
+                "let down"
+            ],
+            "examples": [
+                "He misbore his responsibility and hurt the team.",
+                "They felt he misbore their trust."
+            ]
+        }
+    ],
+    "mar": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to damage something slightly so it looks worse",
+            "synonyms": [
+                "blemish",
+                "spoil",
+                "hurt",
+                "impair"
+            ],
+            "examples": [
+                "Don’t mar the surface with sharp tools.",
+                "The stain marred the tablecloth."
+            ]
+        }
+    ],
+    "mangle": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to damage something badly by twisting, cutting, or crushing it",
+            "synonyms": [
+                "cripple",
+                "tear",
+                "wound",
+                "distort"
+            ],
+            "examples": [
+                "The machine mangled the metal parts.",
+                "The accident mangled his car beyond repair."
+            ]
+        }
+    ],
+    "maim": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to injure someone so seriously that a body part is permanently damaged",
+            "synonyms": [
+                "injure",
+                "wound",
+                "cripple",
+                "disable"
+            ],
+            "examples": [
+                "The explosion maimed several people.",
+                "He suffered injuries that left him permanently maimed."
+            ]
+        }
+    ],
+    "mutilate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to damage a body part severely, often causing permanent harm",
+            "synonyms": [
+                "cripple",
+                "wound",
+                "disfigure",
+                "injure badly"
+            ],
+            "examples": [
+                "The report described injuries from a violent attack, including mutilation.",
+                "The knife fight left him mutilated."
+            ]
+        }
     ]
 }

@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-19",
+    "groups": [
+        {
+            "id": "2026-11-19-g1",
+            "type": "profession_domain",
+            "difficulty": "easy",
+            "title": "sailing gear",
+            "words": [
+                "mast",
+                "keel",
+                "tiller",
+                "stern"
+            ]
+        },
+        {
+            "id": "2026-11-19-g2",
+            "type": "informal_register",
+            "difficulty": "medium",
+            "title": "deceive",
+            "words": [
+                "dupe",
+                "con",
+                "snooker",
+                "hoodwink"
+            ]
+        },
+        {
+            "id": "2026-11-19-g3",
+            "type": "thematic_association",
+            "difficulty": "hard",
+            "title": "decay",
+            "words": [
+                "mildew",
+                "rot",
+                "blight",
+                "taint"
+            ]
+        },
+        {
+            "id": "2026-11-19-g4",
+            "type": "literary_register",
+            "difficulty": "very_hard",
+            "title": "archaic speech",
+            "words": [
+                "yclept",
+                "eftsoons",
+                "whilom",
+                "ere"
+            ]
+        }
+    ]
+}

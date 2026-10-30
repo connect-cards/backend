@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-30",
+    "groups": [
+        {
+            "id": "2026-11-30-g1",
+            "type": "physical_trait",
+            "difficulty": "easy",
+            "title": "lean",
+            "words": [
+                "gaunt",
+                "lanky",
+                "rangy",
+                "spare"
+            ]
+        },
+        {
+            "id": "2026-11-30-g2",
+            "type": "morphological_family",
+            "difficulty": "medium",
+            "title": "carry forms",
+            "words": [
+                "carriage",
+                "carrier",
+                "cargo",
+                "convey"
+            ]
+        },
+        {
+            "id": "2026-11-30-g3",
+            "type": "profession_domain",
+            "difficulty": "hard",
+            "title": "law",
+            "words": [
+                "codicil",
+                "estoppel",
+                "tort",
+                "venue"
+            ]
+        },
+        {
+            "id": "2026-11-30-g4",
+            "type": "etymological_relation",
+            "difficulty": "very_hard",
+            "title": "lead words",
+            "words": [
+                "duct",
+                "duke",
+                "educate",
+                "subdue"
+            ]
+        }
+    ]
+}

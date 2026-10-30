@@ -1753,5 +1753,148 @@
                 "The sheep were grazing on the lea."
             ]
         }
+    ],
+    "loam": [
+        {
+            "part_of_speech": "noun",
+            "definition": "fertile soil made of a balanced mixture of sand, silt, and clay",
+            "synonyms": [
+                "fertile soil",
+                "topsoil"
+            ],
+            "examples": [
+                "The plants grew well in the loam.",
+                "Good loam holds water without getting too soggy."
+            ]
+        }
+    ],
+    "lurk": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to stay hidden in a place and wait for something or someone",
+            "synonyms": [
+                "hide",
+                "lie in wait",
+                "wait",
+                "stalk"
+            ],
+            "examples": [
+                "A cat lurked behind the sofa.",
+                "Don’t lurk outside the classroom after hours."
+            ]
+        }
+    ],
+    "lexicon": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a vocabulary of words used in a particular language, field, or text",
+            "synonyms": [
+                "vocabulary",
+                "word list",
+                "dictionary of terms"
+            ],
+            "examples": [
+                "Legal lexicon can be difficult for new students.",
+                "The book has a lexicon for technical terms."
+            ]
+        }
+    ],
+    "lucubrate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to work or study for a long time in a serious, concentrated way, often late at night",
+            "synonyms": [
+                "study",
+                "work late",
+                "ponder",
+                "think deeply"
+            ],
+            "examples": [
+                "He lucubrates through the night before exams.",
+                "She lucubrated for weeks to finish the report."
+            ]
+        }
+    ],
+    "lead": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a soft, heavy metal with symbol pb",
+            "synonyms": [
+                "metal pb"
+            ],
+            "examples": [
+                "Lead is used in some batteries.",
+                "The water test showed no lead."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to guide someone or something to a place or in a direction",
+            "synonyms": [
+                "guide",
+                "direct",
+                "take",
+                "show the way"
+            ],
+            "examples": [
+                "This road leads to the station.",
+                "She led the team to success."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "the first position in a race or competition",
+            "synonyms": [
+                "advantage",
+                "front",
+                "first place"
+            ],
+            "examples": [
+                "He took the lead in the final round.",
+                "The team built a small lead."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to cause something to happen",
+            "synonyms": [
+                "cause",
+                "result in",
+                "bring about",
+                "trigger"
+            ],
+            "examples": [
+                "Poor planning led to delays.",
+                "That decision led to new problems."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "information or a clue that helps find someone or something",
+            "synonyms": [
+                "tip",
+                "clue",
+                "lead (clue)",
+                "information"
+            ],
+            "examples": [
+                "The detective followed a new lead.",
+                "We got a lead about the suspect."
+            ]
+        }
+    ],
+    "litotes": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a figure of speech that makes an idea weaker by using a negative statement to express a positive meaning",
+            "synonyms": [
+                "understatement (rhetorical)",
+                "negative statement (rhetoric)"
+            ],
+            "examples": [
+                "In English, litotes is used in phrases like not bad.",
+                "The speech includes litotes for humorous effect."
+            ]
+        }
     ]
 }

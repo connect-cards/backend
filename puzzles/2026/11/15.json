@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-15",
+    "groups": [
+        {
+            "id": "2026-11-15-g1",
+            "type": "informal_register",
+            "difficulty": "easy",
+            "title": "talkative people",
+            "words": [
+                "blabbermouth",
+                "chatterbox",
+                "gasbag",
+                "windbag"
+            ]
+        },
+        {
+            "id": "2026-11-15-g2",
+            "type": "literary_register",
+            "difficulty": "medium",
+            "title": "old pronouns",
+            "words": [
+                "thee",
+                "thine",
+                "thou",
+                "ye"
+            ]
+        },
+        {
+            "id": "2026-11-15-g3",
+            "type": "synonym",
+            "difficulty": "hard",
+            "title": "briefness",
+            "words": [
+                "brevity",
+                "compression",
+                "concision",
+                "pith"
+            ]
+        },
+        {
+            "id": "2026-11-15-g4",
+            "type": "physical_trait",
+            "difficulty": "very_hard",
+            "title": "bent shapes",
+            "words": [
+                "crooked",
+                "hunched",
+                "stooped",
+                "warp"
+            ]
+        }
+    ]
+}

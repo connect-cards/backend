@@ -751,5 +751,95 @@
                 "The paper was nicked at the corner."
             ]
         }
+    ],
+    "nebula": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a large cloud of gas and dust in space where stars can form",
+            "synonyms": [
+                "star cloud",
+                "gaseous nebula",
+                "cosmic cloud"
+            ],
+            "examples": [
+                "A nebula can be seen clearly through a telescope.",
+                "The Orion Nebula is one of the most famous nebulae."
+            ]
+        }
+    ],
+    "nap": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a short period of sleep during the day",
+            "synonyms": [
+                "sleep",
+                "power nap",
+                "rest"
+            ],
+            "examples": [
+                "I took a nap after lunch.",
+                "A quick nap helped her feel better."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to sleep for a short time during the day",
+            "synonyms": [
+                "sleep",
+                "doze",
+                "rest"
+            ],
+            "examples": [
+                "He napped for twenty minutes.",
+                "I can nap after the meeting."
+            ]
+        }
+    ],
+    "nubbly": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "rough or uneven, with small raised bumps",
+            "synonyms": [
+                "bumpy",
+                "lumpy",
+                "rough",
+                "knobbly"
+            ],
+            "examples": [
+                "The road was nubbly, so the ride felt uncomfortable.",
+                "Her sweater is nubbly after washing."
+            ]
+        }
+    ],
+    "niggardliness": [
+        {
+            "part_of_speech": "noun",
+            "definition": "extreme unwillingness to spend money or give help",
+            "synonyms": [
+                "stinginess",
+                "miserliness",
+                "parsimoniousness",
+                "cheapness"
+            ],
+            "examples": [
+                "The company faced criticism for its niggardliness on employee benefits.",
+                "Her niggardliness surprised everyone."
+            ]
+        }
+    ],
+    "natal": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "relating to birth or to the time and place of someone’s birth",
+            "synonyms": [
+                "birth-related",
+                "concerning birth",
+                "of birth"
+            ],
+            "examples": [
+                "Her natal chart is used in astrology.",
+                "The nurse recorded her natal details in the form."
+            ]
+        }
     ]
 }

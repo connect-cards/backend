@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-12",
+    "groups": [
+        {
+            "id": "2026-11-12-g1",
+            "type": "sound_association",
+            "difficulty": "easy",
+            "title": "bell sounds",
+            "words": [
+                "clang",
+                "peal",
+                "tinkle",
+                "tocsin"
+            ]
+        },
+        {
+            "id": "2026-11-12-g2",
+            "type": "morphological_family",
+            "difficulty": "medium",
+            "title": "write forms",
+            "words": [
+                "script",
+                "scribe",
+                "scrivener",
+                "conscription"
+            ]
+        },
+        {
+            "id": "2026-11-12-g3",
+            "type": "physical_trait",
+            "difficulty": "hard",
+            "title": "rough surfaces",
+            "words": [
+                "nubbly",
+                "coarse",
+                "rugose",
+                "scabrous"
+            ]
+        },
+        {
+            "id": "2026-11-12-g4",
+            "type": "synonym",
+            "difficulty": "very_hard",
+            "title": "thin",
+            "words": [
+                "attenuate",
+                "tenuous",
+                "rarefy",
+                "exiguous"
+            ]
+        }
+    ]
+}

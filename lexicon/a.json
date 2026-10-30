@@ -3587,5 +3587,189 @@
                 "No aught was written on the form."
             ]
         }
+    ],
+    "aver": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to say something as a fact or to strongly claim it",
+            "synonyms": [
+                "assert",
+                "state",
+                "maintain",
+                "declare"
+            ],
+            "examples": [
+                "She averred that she had never received the email.",
+                "He averred that the accident was not his fault."
+            ]
+        }
+    ],
+    "ambush": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a sudden attack carried out by people who are hidden nearby",
+            "synonyms": [
+                "attack",
+                "surprise attack",
+                "trap"
+            ],
+            "examples": [
+                "The police set an ambush near the road.",
+                "The soldiers prepared for an ambush."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to attack someone suddenly from a hidden place",
+            "synonyms": [
+                "trap",
+                "surprise attack",
+                "lie in wait"
+            ],
+            "examples": [
+                "The rebels ambushed the convoy at night.",
+                "We were ambushed by a group of students during the game."
+            ]
+        }
+    ],
+    "apiary": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a place where beehives are kept",
+            "synonyms": [
+                "beehouse",
+                "bee yard",
+                "bee farm"
+            ],
+            "examples": [
+                "They visited an apiary to learn about bees.",
+                "An apiary can support local honey production."
+            ]
+        }
+    ],
+    "adore": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to love someone very much or like something very strongly",
+            "synonyms": [
+                "love",
+                "cherish",
+                "treasure",
+                "be fond of"
+            ],
+            "examples": [
+                "She adores her little brother.",
+                "I adore this song."
+            ]
+        }
+    ],
+    "acidulous": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "slightly sour, or having a sharp, critical way of speaking",
+            "synonyms": [
+                "sour",
+                "tangy",
+                "sharp",
+                "biting"
+            ],
+            "examples": [
+                "The fruit has an acidulous taste.",
+                "His acidulous remarks annoyed everyone."
+            ]
+        }
+    ],
+    "attenuate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make something weaker, smaller, or less intense",
+            "synonyms": [
+                "reduce",
+                "diminish",
+                "weaken",
+                "lessen"
+            ],
+            "examples": [
+                "The drug attenuates the effects of the infection.",
+                "The sound attenuated as we walked away."
+            ]
+        }
+    ],
+    "avarice": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a strong desire for wealth, especially when it becomes selfish",
+            "synonyms": [
+                "greed",
+                "covetousness",
+                "money hunger",
+                "grasping"
+            ],
+            "examples": [
+                "His avarice made him refuse to share.",
+                "Avarice can harm relationships."
+            ]
+        }
+    ],
+    "abaft": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "toward the back of a ship",
+            "synonyms": [
+                "toward the stern",
+                "aft"
+            ],
+            "examples": [
+                "The crew stood abaft the mast.",
+                "She walked abaft to find the cabin."
+            ]
+        }
+    ],
+    "abstemious": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "careful about eating or drinking, especially in order to avoid excess",
+            "synonyms": [
+                "moderate",
+                "temperate",
+                "restrained",
+                "self-controlled"
+            ],
+            "examples": [
+                "She is abstemious and avoids too much sugar.",
+                "He kept an abstemious diet for his health."
+            ]
+        }
+    ],
+    "abstinent": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "not using alcohol or other harmful substances",
+            "synonyms": [
+                "sober",
+                "temperate",
+                "teetotal",
+                "self-restrained"
+            ],
+            "examples": [
+                "She has been abstinent for years.",
+                "He chose to stay abstinent during the program."
+            ]
+        }
+    ],
+    "abstemiousness": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the quality of being moderate and avoiding excess in eating or drinking",
+            "synonyms": [
+                "temperance",
+                "moderation",
+                "restraint"
+            ],
+            "examples": [
+                "Her abstemiousness helped her maintain a healthy lifestyle.",
+                "Abstemiousness is important in many health plans."
+            ]
+        }
     ]
 }

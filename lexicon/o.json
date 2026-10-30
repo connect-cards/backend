@@ -945,5 +945,97 @@
                 "She works at Oracle on cloud services."
             ]
         }
+    ],
+    "obsequy": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a serious and respectful act of remembering someone, especially at a funeral",
+            "synonyms": [
+                "funeral",
+                "mourning",
+                "burial service"
+            ],
+            "examples": [
+                "The family held an obsequy for their father.",
+                "They joined in the obsequy with quiet respect."
+            ]
+        }
+    ],
+    "outbear": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to bear or tolerate more than someone else, especially in a contest or hardship",
+            "synonyms": [
+                "surpass",
+                "outlast",
+                "outdo",
+                "endure more"
+            ],
+            "examples": [
+                "She managed to outbear the pain longer than the others.",
+                "The team tried to outbear their rivals in the final challenge."
+            ]
+        }
+    ],
+    "outbid": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to offer more money than another bidder",
+            "synonyms": [
+                "bid higher",
+                "surpass (a bid)",
+                "overbid"
+            ],
+            "examples": [
+                "Someone outbid him at the last minute.",
+                "They outbid the other company for the contract."
+            ]
+        }
+    ],
+    "outgrow": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to become too old for something or too advanced for it",
+            "synonyms": [
+                "outlast",
+                "move past",
+                "grow out of"
+            ],
+            "examples": [
+                "She outgrew her childhood shoes.",
+                "You will outgrow this problem with practice."
+            ]
+        }
+    ],
+    "outlast": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to last longer than something else",
+            "synonyms": [
+                "survive longer than",
+                "endure longer than",
+                "outperform in duration"
+            ],
+            "examples": [
+                "The new battery should outlast the old one.",
+                "He outlasted his rivals in the tournament."
+            ]
+        }
+    ],
+    "outwit": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to defeat someone by being smarter",
+            "synonyms": [
+                "trick",
+                "surpass",
+                "outsmart",
+                "get the better of"
+            ],
+            "examples": [
+                "She outwitted the opponent with a clever move.",
+                "They outwitted us by changing the schedule."
+            ]
+        }
     ]
 }

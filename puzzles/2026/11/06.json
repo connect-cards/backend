@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-06",
+    "groups": [
+        {
+            "id": "2026-11-06-g1",
+            "type": "literary_register",
+            "difficulty": "easy",
+            "title": "old pronouns",
+            "words": [
+                "thou",
+                "thee",
+                "thy",
+                "thine"
+            ]
+        },
+        {
+            "id": "2026-11-06-g2",
+            "type": "semantic_field",
+            "difficulty": "medium",
+            "title": "river features",
+            "words": [
+                "estuary",
+                "delta",
+                "tributary",
+                "source"
+            ]
+        },
+        {
+            "id": "2026-11-06-g3",
+            "type": "thematic_association",
+            "difficulty": "hard",
+            "title": "hidden attack",
+            "words": [
+                "ambush",
+                "snare",
+                "lurk",
+                "waylay"
+            ]
+        },
+        {
+            "id": "2026-11-06-g4",
+            "type": "morphological_family",
+            "difficulty": "very_hard",
+            "title": "bear forms",
+            "words": [
+                "forbear",
+                "forbore",
+                "borne",
+                "unbearable"
+            ]
+        }
+    ]
+}

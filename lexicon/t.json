@@ -3250,5 +3250,111 @@
                 "You can see the light through the translucent curtain."
             ]
         }
+    ],
+    "timing": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the choice of when something happens or when it is done",
+            "synonyms": [
+                "schedule",
+                "moment",
+                "coordination",
+                "right time"
+            ],
+            "examples": [
+                "Good timing can make a meeting run smoothly.",
+                "He got the timing wrong and missed the bus."
+            ]
+        }
+    ],
+    "thrum": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a continuous low sound or vibration",
+            "synonyms": [
+                "buzz",
+                "rumble",
+                "hum",
+                "vibration"
+            ],
+            "examples": [
+                "You could hear the thrum of the engine.",
+                "The thrum of traffic filled the street."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a continuous low sound or vibration",
+            "synonyms": [
+                "hum",
+                "buzz",
+                "rumble",
+                "vibrate"
+            ],
+            "examples": [
+                "The wires thrummed in the wind.",
+                "His voice thrummed with excitement."
+            ]
+        }
+    ],
+    "thesis": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a main idea or argument that a piece of writing or research is based on",
+            "synonyms": [
+                "argument",
+                "proposal",
+                "claim",
+                "main idea"
+            ],
+            "examples": [
+                "Her thesis focused on the effects of social media.",
+                "The paper’s thesis is clearly stated in the introduction."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a long academic paper submitted as part of a degree",
+            "synonyms": [
+                "dissertation",
+                "research paper"
+            ],
+            "examples": [
+                "He is working on his thesis for his master’s degree.",
+                "The committee reviewed her thesis."
+            ]
+        }
+    ],
+    "truckle": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to submit or behave submissively, often out of fear or habit",
+            "synonyms": [
+                "submit",
+                "cower",
+                "give in",
+                "grovel"
+            ],
+            "examples": [
+                "He tried not to truckle to his manager.",
+                "People who truckle may lose respect."
+            ]
+        }
+    ],
+    "trope": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a common theme or idea used in stories, art, or writing",
+            "synonyms": [
+                "theme",
+                "motif",
+                "convention",
+                "cliché"
+            ],
+            "examples": [
+                "The story uses the classic love-triangle trope.",
+                "This detective novel avoids common tropes."
+            ]
+        }
     ]
 }

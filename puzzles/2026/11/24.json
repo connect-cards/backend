@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-24",
+    "groups": [
+        {
+            "id": "2026-11-24-g1",
+            "type": "sound_association",
+            "difficulty": "easy",
+            "title": "bell sounds",
+            "words": [
+                "clang",
+                "clangor",
+                "peal",
+                "toll"
+            ]
+        },
+        {
+            "id": "2026-11-24-g2",
+            "type": "informal_register",
+            "difficulty": "medium",
+            "title": "nonsense",
+            "words": [
+                "drivel",
+                "rot",
+                "twaddle",
+                "tripe"
+            ]
+        },
+        {
+            "id": "2026-11-24-g3",
+            "type": "literary_register",
+            "difficulty": "hard",
+            "title": "harm",
+            "words": [
+                "mar",
+                "mangle",
+                "maim",
+                "mutilate"
+            ]
+        },
+        {
+            "id": "2026-11-24-g4",
+            "type": "etymological_relation",
+            "difficulty": "very_hard",
+            "title": "star roots",
+            "words": [
+                "aster",
+                "astral",
+                "disaster",
+                "sidereal"
+            ]
+        }
+    ]
+}

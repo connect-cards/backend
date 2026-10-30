@@ -390,5 +390,50 @@
                 "The designer changed the kerning to improve readability."
             ]
         }
+    ],
+    "keening": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a long, crying sound, often expressing grief",
+            "synonyms": [
+                "wailing",
+                "lamentation",
+                "crying"
+            ],
+            "examples": [
+                "The keening in the distance sounded sad.",
+                "Her keening filled the room."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to cry or make a long high sound, often because of grief",
+            "synonyms": [
+                "wail",
+                "lament",
+                "cry",
+                "whimper"
+            ],
+            "examples": [
+                "People keened after the loss.",
+                "The wind keened through the empty building."
+            ]
+        }
+    ],
+    "knead": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to press and fold dough repeatedly to make it smooth and elastic",
+            "synonyms": [
+                "work",
+                "press",
+                "mix",
+                "massage (dough)"
+            ],
+            "examples": [
+                "Knead the dough for ten minutes.",
+                "She kneaded the bread until it felt springy."
+            ]
+        }
     ]
 }

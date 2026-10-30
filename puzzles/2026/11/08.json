@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-08",
+    "groups": [
+        {
+            "id": "2026-11-08-g1",
+            "type": "informal_register",
+            "difficulty": "easy",
+            "title": "nonsense",
+            "words": [
+                "baloney",
+                "hokum",
+                "tripe",
+                "drivel"
+            ]
+        },
+        {
+            "id": "2026-11-08-g2",
+            "type": "thematic_association",
+            "difficulty": "medium",
+            "title": "faint light",
+            "words": [
+                "gleam",
+                "glimmer",
+                "glint",
+                "shimmer"
+            ]
+        },
+        {
+            "id": "2026-11-08-g3",
+            "type": "etymological_relation",
+            "difficulty": "hard",
+            "title": "heart roots",
+            "words": [
+                "cordial",
+                "accord",
+                "discord",
+                "concord"
+            ]
+        },
+        {
+            "id": "2026-11-08-g4",
+            "type": "literary_register",
+            "difficulty": "very_hard",
+            "title": "funeral sorrow",
+            "words": [
+                "dirge",
+                "keening",
+                "obsequy",
+                "threnody"
+            ]
+        }
+    ]
+}

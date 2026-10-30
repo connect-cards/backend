@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-13",
+    "groups": [
+        {
+            "id": "2026-11-13-g1",
+            "type": "physical_trait",
+            "difficulty": "easy",
+            "title": "thin bodies",
+            "words": [
+                "gaunt",
+                "lanky",
+                "spare",
+                "wiry"
+            ]
+        },
+        {
+            "id": "2026-11-13-g2",
+            "type": "synonym",
+            "difficulty": "medium",
+            "title": "mockery",
+            "words": [
+                "derision",
+                "ridicule",
+                "scorn",
+                "taunt"
+            ]
+        },
+        {
+            "id": "2026-11-13-g3",
+            "type": "literary_register",
+            "difficulty": "hard",
+            "title": "old-style adverbs",
+            "words": [
+                "anon",
+                "erewhile",
+                "perchance",
+                "therewith"
+            ]
+        },
+        {
+            "id": "2026-11-13-g4",
+            "type": "emotional_tone",
+            "difficulty": "very_hard",
+            "title": "brooding moods",
+            "words": [
+                "baleful",
+                "morose",
+                "saturnine",
+                "sullen"
+            ]
+        }
+    ]
+}

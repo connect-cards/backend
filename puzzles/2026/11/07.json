@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-07",
+    "groups": [
+        {
+            "id": "2026-11-07-g1",
+            "type": "sound_association",
+            "difficulty": "easy",
+            "title": "low murmurs",
+            "words": [
+                "hum",
+                "drone",
+                "buzz",
+                "thrum"
+            ]
+        },
+        {
+            "id": "2026-11-07-g2",
+            "type": "profession_domain",
+            "difficulty": "medium",
+            "title": "legal writing",
+            "words": [
+                "tort",
+                "writ",
+                "lien",
+                "estoppel"
+            ]
+        },
+        {
+            "id": "2026-11-07-g3",
+            "type": "thematic_association",
+            "difficulty": "hard",
+            "title": "miserly behavior",
+            "words": [
+                "hoard",
+                "skimp",
+                "begrudge",
+                "scrimp"
+            ]
+        },
+        {
+            "id": "2026-11-07-g4",
+            "type": "informal_register",
+            "difficulty": "very_hard",
+            "title": "worthless person",
+            "words": [
+                "cad",
+                "sot",
+                "heel",
+                "rotter"
+            ]
+        }
+    ]
+}

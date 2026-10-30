@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-20",
+    "groups": [
+        {
+            "id": "2026-11-20-g1",
+            "type": "emotional_tone",
+            "difficulty": "easy",
+            "title": "nervous states",
+            "words": [
+                "jittery",
+                "tense",
+                "wary",
+                "uneasy"
+            ]
+        },
+        {
+            "id": "2026-11-20-g2",
+            "type": "informal_register",
+            "difficulty": "medium",
+            "title": "worthless stuff",
+            "words": [
+                "junk",
+                "dreck",
+                "crud",
+                "trash"
+            ]
+        },
+        {
+            "id": "2026-11-20-g3",
+            "type": "literary_register",
+            "difficulty": "hard",
+            "title": "poetic landscape",
+            "words": [
+                "lea",
+                "mere",
+                "wold",
+                "heath"
+            ]
+        },
+        {
+            "id": "2026-11-20-g4",
+            "type": "etymological_relation",
+            "difficulty": "very_hard",
+            "title": "hidden lead",
+            "words": [
+                "lead",
+                "mislead",
+                "preamble",
+                "truckle"
+            ]
+        }
+    ]
+}

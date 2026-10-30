@@ -1771,5 +1771,128 @@
                 "The willowy branches swayed in the wind."
             ]
         }
+    ],
+    "waylay": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to stop someone suddenly and attack or delay them, especially on a road",
+            "synonyms": [
+                "attack",
+                "ambush",
+                "stop",
+                "intercept"
+            ],
+            "examples": [
+                "The robber waylaid a driver on the highway.",
+                "They were waylaid by protesters on their way to the station."
+            ]
+        }
+    ],
+    "weft": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the thread that goes across the width of fabric in weaving",
+            "synonyms": [
+                "filling thread",
+                "filling",
+                "cross thread"
+            ],
+            "examples": [
+                "The weft created a smooth pattern across the cloth.",
+                "Different materials change the weft texture."
+            ]
+        }
+    ],
+    "whisht": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "an old or dialect word meaning be quiet or keep silent",
+            "synonyms": [
+                "be quiet",
+                "shh",
+                "hush"
+            ],
+            "examples": [
+                "Whisht, the baby is sleeping.",
+                "The teacher told them to be quiet and whisht."
+            ]
+        }
+    ],
+    "windbag": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who talks a lot with little meaning",
+            "synonyms": [
+                "gasbag",
+                "blabbermouth",
+                "talker",
+                "long-winded person"
+            ],
+            "examples": [
+                "The speaker sounded like a windbag to many of the students.",
+                "She said he was a windbag after his endless explanation."
+            ]
+        }
+    ],
+    "whilom": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "at some earlier time in the past",
+            "synonyms": [
+                "formerly",
+                "earlier",
+                "once",
+                "previously"
+            ],
+            "examples": [
+                "Whilom, the town had been much smaller.",
+                "Whilom, they lived in another city."
+            ]
+        }
+    ],
+    "whisk": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to move quickly or to wave something rapidly",
+            "synonyms": [
+                "swing",
+                "wave",
+                "move quickly",
+                "sweep"
+            ],
+            "examples": [
+                "She whisked the cream until it thickened.",
+                "A shadow whisked across the wall."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to mix ingredients quickly using a whisk or by rapid stirring",
+            "synonyms": [
+                "beat",
+                "mix",
+                "stir",
+                "whip"
+            ],
+            "examples": [
+                "Whisk the eggs with a fork.",
+                "He whisked the sauce until smooth."
+            ]
+        }
+    ],
+    "wigging": [
+        {
+            "part_of_speech": "noun",
+            "definition": "british slang for a strong scolding or punishment",
+            "synonyms": [
+                "scolding",
+                "telling-off",
+                "punishment"
+            ],
+            "examples": [
+                "He got a wigging for missing the meeting.",
+                "The teacher gave her a wigging."
+            ]
+        }
     ]
 }

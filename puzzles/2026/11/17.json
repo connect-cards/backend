@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-17",
+    "groups": [
+        {
+            "id": "2026-11-17-g1",
+            "type": "informal_register",
+            "difficulty": "easy",
+            "title": "casual criticism",
+            "words": [
+                "diss",
+                "slam",
+                "bash",
+                "rag"
+            ]
+        },
+        {
+            "id": "2026-11-17-g2",
+            "type": "profession_domain",
+            "difficulty": "medium",
+            "title": "legal latin",
+            "words": [
+                "tort",
+                "lien",
+                "estoppel",
+                "demurrer"
+            ]
+        },
+        {
+            "id": "2026-11-17-g3",
+            "type": "emotional_tone",
+            "difficulty": "hard",
+            "title": "sullen moods",
+            "words": [
+                "glum",
+                "morose",
+                "sour",
+                "saturnine"
+            ]
+        },
+        {
+            "id": "2026-11-17-g4",
+            "type": "morphological_family",
+            "difficulty": "very_hard",
+            "title": "abstain forms",
+            "words": [
+                "abstain",
+                "abstemious",
+                "abstinent",
+                "abstemiousness"
+            ]
+        }
+    ]
+}

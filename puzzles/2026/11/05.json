@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-05",
+    "groups": [
+        {
+            "id": "2026-11-05-g1",
+            "type": "semantic_field",
+            "difficulty": "easy",
+            "title": "steep landforms",
+            "words": [
+                "cliff",
+                "crag",
+                "bluff",
+                "escarpment"
+            ]
+        },
+        {
+            "id": "2026-11-05-g2",
+            "type": "thematic_association",
+            "difficulty": "medium",
+            "title": "stage presence",
+            "words": [
+                "poise",
+                "flair",
+                "projection",
+                "timing"
+            ]
+        },
+        {
+            "id": "2026-11-05-g3",
+            "type": "emotional_tone",
+            "difficulty": "hard",
+            "title": "smoldering resentment",
+            "words": [
+                "rancor",
+                "piqué",
+                "umbrage",
+                "spleen"
+            ]
+        },
+        {
+            "id": "2026-11-05-g4",
+            "type": "physical_trait",
+            "difficulty": "very_hard",
+            "title": "hairlessness",
+            "words": [
+                "bald",
+                "glabrous",
+                "depilate",
+                "denude"
+            ]
+        }
+    ]
+}

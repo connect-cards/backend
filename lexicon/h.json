@@ -1521,5 +1521,133 @@
                 "Hark, I have something important to tell you."
             ]
         }
+    ],
+    "humus": [
+        {
+            "part_of_speech": "noun",
+            "definition": "dark, decomposed plant and animal matter in soil that helps it stay fertile",
+            "synonyms": [
+                "soil organic matter",
+                "decomposed matter"
+            ],
+            "examples": [
+                "Adding humus improved the garden soil.",
+                "Healthy soil needs humus."
+            ]
+        }
+    ],
+    "hoard": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a large amount of money, valuables, or food kept and stored by a person or group",
+            "synonyms": [
+                "stockpile",
+                "cache",
+                "accumulation",
+                "store"
+            ],
+            "examples": [
+                "They discovered a hoard of coins in the wall.",
+                "The hoard was hidden under the floor."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to collect and keep more than you need, often secretly",
+            "synonyms": [
+                "stockpile",
+                "accumulate",
+                "save up",
+                "stash"
+            ],
+            "examples": [
+                "He hoarded supplies before the storm.",
+                "Many people hoard cash during uncertain times."
+            ]
+        }
+    ],
+    "heel": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the back part of the foot between the ankle and the sole",
+            "synonyms": [
+                "back of foot",
+                "rearfoot"
+            ],
+            "examples": [
+                "She hurt her heel while running.",
+                "The shoes felt painful on the heel."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to move or turn as if adjusting direction or to change the way something is held",
+            "synonyms": [
+                "tilt",
+                "turn",
+                "adjust"
+            ],
+            "examples": [
+                "The boat heels slightly in strong wind.",
+                "Heeled to the left, the car avoided the obstacle."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a person regarded as unpleasant or cruel",
+            "synonyms": [
+                "villain",
+                "bad person",
+                "cad"
+            ],
+            "examples": [
+                "The story portrayed the heel as a greedy man.",
+                "Everyone disliked the heel who bullied younger students."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to move close to a person, especially a dog trained to follow",
+            "synonyms": [
+                "follow",
+                "keep close",
+                "stay by"
+            ],
+            "examples": [
+                "The dog heeled beside me on the walk.",
+                "Heel, and don’t pull on the leash."
+            ]
+        }
+    ],
+    "hoodwink": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to trick someone into believing something that is not true",
+            "synonyms": [
+                "deceive",
+                "trick",
+                "con",
+                "bamboozle"
+            ],
+            "examples": [
+                "They hoodwinked the buyer with fake photos.",
+                "He was hoodwinked into paying for an unwanted service."
+            ]
+        }
+    ],
+    "heath": [
+        {
+            "part_of_speech": "noun",
+            "definition": "open land with low shrubs and rough plants, often with poor soil",
+            "synonyms": [
+                "moorland",
+                "moor",
+                "wilderness"
+            ],
+            "examples": [
+                "They walked across the heath at sunset.",
+                "The heath is home to many wildflowers."
+            ]
+        }
     ]
 }

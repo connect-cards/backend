@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-01",
+    "groups": [
+        {
+            "id": "2026-11-01-g1",
+            "type": "thematic_association",
+            "difficulty": "easy",
+            "title": "night sky",
+            "words": [
+                "comet",
+                "meteor",
+                "nebula",
+                "quasar"
+            ]
+        },
+        {
+            "id": "2026-11-01-g2",
+            "type": "physical_trait",
+            "difficulty": "medium",
+            "title": "rough texture",
+            "words": [
+                "coarse",
+                "gnarled",
+                "rugose",
+                "scabrous"
+            ]
+        },
+        {
+            "id": "2026-11-01-g3",
+            "type": "emotional_tone",
+            "difficulty": "hard",
+            "title": "gloomy moods",
+            "words": [
+                "bleak",
+                "dour",
+                "lugubrious",
+                "saturnine"
+            ]
+        },
+        {
+            "id": "2026-11-01-g4",
+            "type": "etymological_relation",
+            "difficulty": "very_hard",
+            "title": "latin lead",
+            "words": [
+                "duct",
+                "duke",
+                "educate",
+                "induce"
+            ]
+        }
+    ]
+}

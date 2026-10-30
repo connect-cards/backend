@@ -1866,5 +1866,159 @@
                 "They envy the team’s long-running success."
             ]
         }
+    ],
+    "ego": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person’s sense of self-importance or identity",
+            "synonyms": [
+                "self",
+                "self-esteem",
+                "sense of self"
+            ],
+            "examples": [
+                "He has a strong ego and needs to be praised.",
+                "Her ego made her refuse helpful feedback."
+            ]
+        }
+    ],
+    "egotist": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who thinks too highly of themselves and talks about themselves often",
+            "synonyms": [
+                "self-centered person",
+                "vain person",
+                "show-off",
+                "narcissist"
+            ],
+            "examples": [
+                "He acts like an egotist in every meeting.",
+                "People stopped listening when the egotist kept bragging."
+            ]
+        }
+    ],
+    "egress": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the act or right of leaving a place",
+            "synonyms": [
+                "exit",
+                "departure",
+                "way out"
+            ],
+            "examples": [
+                "The building plan showed clear egress routes.",
+                "Emergency egress must never be blocked."
+            ]
+        }
+    ],
+    "egregious": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very bad or shocking, especially in a way that is clearly wrong",
+            "synonyms": [
+                "outrageous",
+                "flagrant",
+                "terrible",
+                "shocking"
+            ],
+            "examples": [
+                "It was an egregious mistake that cost the company money.",
+                "The reporter called the behavior egregious."
+            ]
+        }
+    ],
+    "espouse": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to support an idea or plan strongly",
+            "synonyms": [
+                "support",
+                "back",
+                "adopt",
+                "embrace"
+            ],
+            "examples": [
+                "She espoused the idea of equal opportunity.",
+                "The group espoused a new policy."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to marry someone",
+            "synonyms": [
+                "marry",
+                "wed"
+            ],
+            "examples": [
+                "He espoused his partner after many years together.",
+                "The couple espoused in a small ceremony."
+            ]
+        }
+    ],
+    "exiguous": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "very small in amount or too limited to be enough",
+            "synonyms": [
+                "scant",
+                "meager",
+                "slight",
+                "minimal"
+            ],
+            "examples": [
+                "They had exiguous funds for the project.",
+                "The team faced exiguous support from the city."
+            ]
+        }
+    ],
+    "erewhile": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "at a previous time in the past",
+            "synonyms": [
+                "formerly",
+                "previously",
+                "earlier",
+                "once"
+            ],
+            "examples": [
+                "Erewhile, people communicated mainly by letters.",
+                "I met him erewhile at a conference."
+            ]
+        }
+    ],
+    "eftsoons": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "soon afterward",
+            "synonyms": [
+                "shortly",
+                "soon",
+                "right away",
+                "before long"
+            ],
+            "examples": [
+                "Eftsoons, the group began to argue.",
+                "She left eftsoons after the call ended."
+            ]
+        }
+    ],
+    "earful": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a strong scolding or complaint told to someone",
+            "synonyms": [
+                "scolding",
+                "lecture",
+                "telling-off",
+                "roasting"
+            ],
+            "examples": [
+                "I got an earful from my teacher for my late homework.",
+                "He received an earful after the incident."
+            ]
+        }
     ]
 }

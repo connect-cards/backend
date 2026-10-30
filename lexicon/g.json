@@ -2088,5 +2088,110 @@
                 "The company was accused of greed by its customers."
             ]
         }
+    ],
+    "gavel": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small hammer used by a judge or chairperson to make an official decision",
+            "synonyms": [
+                "hammer",
+                "judge’s hammer"
+            ],
+            "examples": [
+                "The judge signaled the start of the hearing with the gavel.",
+                "The chairperson tapped the gavel to restore order."
+            ]
+        }
+    ],
+    "gainsay": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to deny or contradict a statement or claim",
+            "synonyms": [
+                "deny",
+                "contradict",
+                "refute",
+                "dispute"
+            ],
+            "examples": [
+                "No one could gainsay the evidence.",
+                "She refused to gainsay his story."
+            ]
+        }
+    ],
+    "glabrous": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having smooth skin with no hair or fuzz",
+            "synonyms": [
+                "hairless",
+                "smooth",
+                "naked"
+            ],
+            "examples": [
+                "The leaves are glabrous and shiny.",
+                "The plant variety has glabrous stems."
+            ]
+        }
+    ],
+    "glint": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small flash of light",
+            "synonyms": [
+                "spark",
+                "glimmer",
+                "flash"
+            ],
+            "examples": [
+                "A glint of sunlight appeared on the glass.",
+                "She saw a glint in his eyes."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to shine with a small flash of light",
+            "synonyms": [
+                "glimmer",
+                "spark",
+                "twinkle",
+                "flash"
+            ],
+            "examples": [
+                "The water glinted as the sun moved.",
+                "His watch glinted when he turned."
+            ]
+        }
+    ],
+    "gasbag": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who talks too much, often in a way that is not very useful",
+            "synonyms": [
+                "windbag",
+                "blabbermouth",
+                "talker"
+            ],
+            "examples": [
+                "Don’t listen to that gasbag; he never has good ideas.",
+                "The meeting turned into a long speech from a gasbag."
+            ]
+        }
+    ],
+    "gloat": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to show satisfaction because something bad happened to someone else",
+            "synonyms": [
+                "rejoice (cruelly)",
+                "take pleasure",
+                "delight (at)",
+                "triumph"
+            ],
+            "examples": [
+                "He tried not to gloat after winning.",
+                "She gloated when the team lost."
+            ]
+        }
     ]
 }

@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-09",
+    "groups": [
+        {
+            "id": "2026-11-09-g1",
+            "type": "literary_register",
+            "difficulty": "easy",
+            "title": "old-fashioned verbs",
+            "words": [
+                "beseech",
+                "espouse",
+                "deem",
+                "betide"
+            ]
+        },
+        {
+            "id": "2026-11-09-g2",
+            "type": "informal_register",
+            "difficulty": "medium",
+            "title": "criticize informally",
+            "words": [
+                "slam",
+                "bash",
+                "rag",
+                "diss"
+            ]
+        },
+        {
+            "id": "2026-11-09-g3",
+            "type": "profession_domain",
+            "difficulty": "hard",
+            "title": "legal latin",
+            "words": [
+                "tort",
+                "estoppel",
+                "voirdire",
+                "resile"
+            ]
+        },
+        {
+            "id": "2026-11-09-g4",
+            "type": "thematic_association",
+            "difficulty": "very_hard",
+            "title": "beekeeping",
+            "words": [
+                "apiary",
+                "smoker",
+                "brood",
+                "supersedure"
+            ]
+        }
+    ]
+}

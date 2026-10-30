@@ -2800,5 +2800,367 @@
                 "Our boat is in a berth at the marina."
             ]
         }
+    ],
+    "bald": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having no hair on the head",
+            "synonyms": [
+                "hairless",
+                "thinning (hair)",
+                "tone:"
+            ],
+            "examples": [
+                "The man is bald and wears glasses.",
+                "My uncle went bald in his thirties."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "having no covering or few plants",
+            "synonyms": [
+                "bare",
+                "empty",
+                "uncovered"
+            ],
+            "examples": [
+                "The hill was bald of trees.",
+                "The window frame was bald and dirty."
+            ]
+        }
+    ],
+    "begrudge": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to feel unhappy about giving or allowing something to someone else",
+            "synonyms": [
+                "resent",
+                "resent having to give",
+                "begrudge (grant)",
+                "begrudge (allow)"
+            ],
+            "examples": [
+                "She begrudged him the credit for the project.",
+                "He begrudged the time she spent with her friends."
+            ]
+        }
+    ],
+    "betide": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to happen to someone, especially something unexpected or unpleasant",
+            "synonyms": [
+                "happen",
+                "occur",
+                "take place"
+            ],
+            "examples": [
+                "Whatever betides us, we will face it together.",
+                "Let no harm betide the travelers."
+            ]
+        }
+    ],
+    "bash": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a party, especially one that happens informally or suddenly",
+            "synonyms": [
+                "party",
+                "get-together",
+                "shindig",
+                "gathering"
+            ],
+            "examples": [
+                "We’re having a bash on Saturday.",
+                "They planned a small bash for the new neighbors."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to hit something or someone hard and repeatedly",
+            "synonyms": [
+                "hit",
+                "beat",
+                "smash",
+                "pummel"
+            ],
+            "examples": [
+                "The storm bashed the boats against the dock.",
+                "He was bashed in the hallway."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to criticize or attack verbally",
+            "synonyms": [
+                "criticize",
+                "attack",
+                "slam",
+                "ridicule"
+            ],
+            "examples": [
+                "The review bashfully described the movie as dull.",
+                "Fans bashed the team after the loss."
+            ]
+        }
+    ],
+    "brood": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a group of young birds that are born at the same time and raised together",
+            "synonyms": [
+                "young birds",
+                "hatchlings"
+            ],
+            "examples": [
+                "A brood of chicks stayed near their mother.",
+                "The hawk watched the brood from a distance."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a group of children, especially when they are cared for together",
+            "synonyms": [
+                "kids",
+                "children",
+                "family of children"
+            ],
+            "examples": [
+                "She has a brood of five children.",
+                "The teacher kept an eye on the brood during recess."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to think about something unpleasant for a long time, often repeatedly",
+            "synonyms": [
+                "ruminate",
+                "ponder",
+                "dwell",
+                "brood over"
+            ],
+            "examples": [
+                "He brooded over the mistake all night.",
+                "Don’t brood; talk to someone instead."
+            ]
+        }
+    ],
+    "brine": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a very salty liquid, often used for preserving food or flavoring",
+            "synonyms": [
+                "salt water",
+                "saline solution"
+            ],
+            "examples": [
+                "The fish was soaked in brine.",
+                "Use brine to preserve the vegetables."
+            ]
+        }
+    ],
+    "baleful": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "harmful or threatening in a way that suggests danger",
+            "synonyms": [
+                "threatening",
+                "ominous",
+                "malicious",
+                "harmful"
+            ],
+            "examples": [
+                "The baleful look made everyone step back.",
+                "He spoke in a baleful tone."
+            ]
+        }
+    ],
+    "bleat": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a loud, unpleasant crying sound made by sheep or goats",
+            "synonyms": [
+                "cry",
+                "baa",
+                "bleating sound"
+            ],
+            "examples": [
+                "The lamb’s bleat could be heard from the barn.",
+                "She heard a bleat outside the window."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to cry with a sound like a sheep or goat",
+            "synonyms": [
+                "baa",
+                "cry",
+                "complain"
+            ],
+            "examples": [
+                "The kids bleat when they are hungry.",
+                "He bleated for attention."
+            ]
+        }
+    ],
+    "bray": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a loud harsh sound made by a donkey",
+            "synonyms": [
+                "donkey cry",
+                "cry",
+                "braying sound"
+            ],
+            "examples": [
+                "The bray woke everyone up.",
+                "We heard a bray from down the road."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make the loud harsh sound of a donkey",
+            "synonyms": [
+                "donkey bray",
+                "cry out",
+                "call"
+            ],
+            "examples": [
+                "The donkey brayed at dawn.",
+                "The animal brayed loudly in the yard."
+            ]
+        }
+    ],
+    "blabbermouth": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who talks too much and often reveals secrets",
+            "synonyms": [
+                "gossip",
+                "chatty person",
+                "tale-teller",
+                "loose-lipped person"
+            ],
+            "examples": [
+                "He called his coworker a blabbermouth after she shared private details.",
+                "Stop being a blabbermouth and keep the secret."
+            ]
+        }
+    ],
+    "braise": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to cook food slowly in a small amount of liquid at a low temperature",
+            "synonyms": [
+                "stew",
+                "slow-cook",
+                "cook gently"
+            ],
+            "examples": [
+                "She braised the chicken until it was tender.",
+                "Braising helps meat stay juicy."
+            ]
+        }
+    ],
+    "brag": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to talk too proudly about your achievements or possessions",
+            "synonyms": [
+                "boast",
+                "show off",
+                "talk big",
+                "swagger"
+            ],
+            "examples": [
+                "He bragged about his new car.",
+                "Stop bragging and just explain what happened."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "proud talk about your achievements or possessions",
+            "synonyms": [
+                "boast",
+                "bragging",
+                "self-praise"
+            ],
+            "examples": [
+                "Her brag sounded annoying.",
+                "There was too much brag in his story."
+            ]
+        }
+    ],
+    "bier": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a frame or platform used to carry a dead body to a funeral",
+            "synonyms": [
+                "catafalque",
+                "funeral stand"
+            ],
+            "examples": [
+                "The bier was carried into the church.",
+                "Flowers covered the bier."
+            ]
+        }
+    ],
+    "bollocking": [
+        {
+            "part_of_speech": "noun",
+            "definition": "rough, insulting slang for strong verbal criticism or punishment",
+            "synonyms": [
+                "scolding",
+                "beating (slang)",
+                "lashing (slang)"
+            ],
+            "examples": [
+                "He got a bollocking from his boss for being late.",
+                "After the mistake, she gave him a bollocking."
+            ]
+        }
+    ],
+    "blaze": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a large, bright fire",
+            "synonyms": [
+                "fire",
+                "flame",
+                "inferno",
+                "wildfire"
+            ],
+            "examples": [
+                "The building caught fire in a blaze.",
+                "A blaze destroyed the warehouse overnight."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to burn brightly, often with flames and smoke",
+            "synonyms": [
+                "burn",
+                "flare",
+                "ignite",
+                "burst into flames"
+            ],
+            "examples": [
+                "The fire blazed for hours.",
+                "A torch blazed in the dark."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to shine or glow brightly",
+            "synonyms": [
+                "shine",
+                "glow",
+                "flare"
+            ],
+            "examples": [
+                "The sun blazed through the clouds.",
+                "Her smile blazed with confidence."
+            ]
+        }
     ]
 }
