@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-11",
+    "groups": [
+        {
+            "id": "2026-11-11-g1",
+            "type": "etymological_relation",
+            "difficulty": "easy",
+            "title": "lead root",
+            "words": [
+                "duct",
+                "induce",
+                "deduce",
+                "conduct"
+            ]
+        },
+        {
+            "id": "2026-11-11-g2",
+            "type": "thematic_association",
+            "difficulty": "medium",
+            "title": "stagecraft",
+            "words": [
+                "prop",
+                "cue",
+                "scrim",
+                "blocking"
+            ]
+        },
+        {
+            "id": "2026-11-11-g3",
+            "type": "semantic_field",
+            "difficulty": "hard",
+            "title": "wetlands",
+            "words": [
+                "fen",
+                "bog",
+                "marsh",
+                "morass"
+            ]
+        },
+        {
+            "id": "2026-11-11-g4",
+            "type": "literary_register",
+            "difficulty": "very_hard",
+            "title": "poetic sorrow",
+            "words": [
+                "dolour",
+                "woe",
+                "rue",
+                "threnody"
+            ]
+        }
+    ]
+}

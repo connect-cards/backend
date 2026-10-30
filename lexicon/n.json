@@ -899,5 +899,80 @@
                 "The character is a noctambule in the story."
             ]
         }
+    ],
+    "nacreous": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having the smooth, shiny look of mother-of-pearl",
+            "synonyms": [
+                "pearly",
+                "iridescent",
+                "luster-like"
+            ],
+            "examples": [
+                "The shell had a nacreous shine.",
+                "The paint gave the car a nacreous color under the light."
+            ]
+        }
+    ],
+    "night": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the dark part of a day when the sun is not visible",
+            "synonyms": [
+                "darkness",
+                "evening",
+                "nighttime"
+            ],
+            "examples": [
+                "We went for a walk at night.",
+                "The sky cleared during the night."
+            ]
+        }
+    ],
+    "novice": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who is new to an activity and has little experience",
+            "synonyms": [
+                "beginner",
+                "learner",
+                "rookie",
+                "neophyte"
+            ],
+            "examples": [
+                "She is a novice at coding, but she learns quickly.",
+                "The club welcomes novices who want to try the sport."
+            ]
+        }
+    ],
+    "nasal": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "related to the nose, or pronounced through the nose",
+            "synonyms": [
+                "nose-related",
+                "through the nose"
+            ],
+            "examples": [
+                "He has a nasal voice when he’s congested.",
+                "Some words have nasal sounds in French."
+            ]
+        }
+    ],
+    "novitiate": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the period when someone is new to a religious life before they fully commit",
+            "synonyms": [
+                "training period",
+                "initiation period",
+                "probationary period"
+            ],
+            "examples": [
+                "She studied for a year as a novitiate.",
+                "The novitiate included simple duties and instruction."
+            ]
+        }
     ]
 }

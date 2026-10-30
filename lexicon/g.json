@@ -2224,5 +2224,257 @@
                 "Don’t gibe him; focus on the task."
             ]
         }
+    ],
+    "graphic": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "showing details clearly, often in a way that is easy to see or understand",
+            "synonyms": [
+                "visual",
+                "illustrative",
+                "clear",
+                "detailed"
+            ],
+            "examples": [
+                "The graphic showed how the system worked.",
+                "Her report included a graphic of the results."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "about something violent or shocking, described in an explicit and detailed way",
+            "synonyms": [
+                "explicit",
+                "gory",
+                "brutal",
+                "violent"
+            ],
+            "examples": [
+                "The movie includes graphic scenes that some viewers find disturbing.",
+                "The article was criticized for graphic descriptions."
+            ]
+        }
+    ],
+    "grapheme": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a written symbol or letter used to represent a sound in a language",
+            "synonyms": [
+                "letter",
+                "character",
+                "writing symbol"
+            ],
+            "examples": [
+                "In English, the letter a can represent different sounds, depending on the word. ",
+                "The word knife contains more than one grapheme."
+            ]
+        }
+    ],
+    "graphite": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a soft dark form of carbon used in pencil leads and in some industrial uses",
+            "synonyms": [
+                "carbon",
+                "pencil lead"
+            ],
+            "examples": [
+                "Graphite conducts electricity, unlike many plastics.",
+                "The pencil lead was made of graphite."
+            ]
+        }
+    ],
+    "glint": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a brief flash of light",
+            "synonyms": [
+                "flash",
+                "spark",
+                "gleam",
+                "twinkle"
+            ],
+            "examples": [
+                "A glint of sunlight appeared on the water.",
+                "She noticed a glint in his eyes."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to shine with a brief or small flash",
+            "synonyms": [
+                "gleam",
+                "sparkle",
+                "flash",
+                "twinkle"
+            ],
+            "examples": [
+                "His watch glinted as he moved.",
+                "The wet road glinted under the streetlights."
+            ]
+        }
+    ],
+    "gassy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "producing or having a lot of gas in the stomach or intestines",
+            "synonyms": [
+                "bloated",
+                "farty",
+                "windy",
+                "gassiness-related"
+            ],
+            "examples": [
+                "Some foods make me feel gassy.",
+                "He avoided the gassy meal before the meeting."
+            ]
+        }
+    ],
+    "grubby": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "dirty and not cared for; slightly unpleasant",
+            "synonyms": [
+                "dirty",
+                "filthy",
+                "messy",
+                "unwashed"
+            ],
+            "examples": [
+                "The kids made the kitchen look grubby.",
+                "He left a grubby stain on the carpet."
+            ]
+        }
+    ],
+    "gloss": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a smooth shiny surface or finish",
+            "synonyms": [
+                "shine",
+                "sheen",
+                "glossiness"
+            ],
+            "examples": [
+                "The poster has a gloss finish.",
+                "Use gloss paint for easier cleaning."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a brief explanation of a word or phrase, often in a book or notes",
+            "synonyms": [
+                "explanation",
+                "note",
+                "annotation"
+            ],
+            "examples": [
+                "In the glossary, each difficult term has a gloss.",
+                "The teacher added a gloss under the sentence."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make something smooth and shiny, or to add a shiny coating",
+            "synonyms": [
+                "shine",
+                "coat",
+                "polish"
+            ],
+            "examples": [
+                "They glossed the cover with varnish.",
+                "The magazine page was glossed to resist smudges."
+            ]
+        }
+    ],
+    "glossary": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a list of terms with their meanings, usually at the end of a book or document",
+            "synonyms": [
+                "word list",
+                "terms list",
+                "index of terms"
+            ],
+            "examples": [
+                "The glossary defines key technical words.",
+                "Check the glossary if you don’t understand a term."
+            ]
+        }
+    ],
+    "glossolalia": [
+        {
+            "part_of_speech": "noun",
+            "definition": "speech that uses made-up or unclear words, often as a religious practice",
+            "synonyms": [
+                "speaking in tongues",
+                "unintelligible speech",
+                "ritual speech"
+            ],
+            "examples": [
+                "During the service, some people described glossolalia as a spiritual gift.",
+                "The recording includes a short example of glossolalia."
+            ]
+        }
+    ],
+    "gibber": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to speak in a confused way with meaningless or unclear words",
+            "synonyms": [
+                "babble",
+                "stammer",
+                "jabber",
+                "talk nonsense"
+            ],
+            "examples": [
+                "He gibbered after waking up too quickly.",
+                "The crowd began to gibber when they were confused."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "meaningless or confused speech",
+            "synonyms": [
+                "nonsense",
+                "babble",
+                "jabber",
+                "rambling"
+            ],
+            "examples": [
+                "What he said sounded like gibber.",
+                "She complained about his gibber during the meeting."
+            ]
+        }
+    ],
+    "gizzard": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a bird’s muscular stomach that grinds food",
+            "synonyms": [
+                "stomach",
+                "bird stomach"
+            ],
+            "examples": [
+                "The chicken’s gizzard contains strong muscles for grinding.",
+                "Gizzards help birds digest seeds and grains."
+            ]
+        }
+    ],
+    "grove": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small group of trees growing close together",
+            "synonyms": [
+                "small wood",
+                "cluster of trees",
+                "woodland stand",
+                "tree grove"
+            ],
+            "examples": [
+                "We walked through a grove of olive trees.",
+                "A quiet grove behind the school is where they study."
+            ]
+        }
     ]
 }

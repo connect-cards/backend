@@ -1928,5 +1928,34 @@
                 "Stop acting like a wally and help me."
             ]
         }
+    ],
+    "woodlot": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small area of land with trees, often privately owned",
+            "synonyms": [
+                "small forest",
+                "tree plot",
+                "wooded area"
+            ],
+            "examples": [
+                "The family uses the woodlot for firewood.",
+                "Birds nest in the woodlot near the creek."
+            ]
+        }
+    ],
+    "widow": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person whose spouse has died and who has not remarried",
+            "synonyms": [
+                "widower (male)",
+                "surviving spouse"
+            ],
+            "examples": [
+                "The widow moved closer to her family.",
+                "He became a widower after losing his wife."
+            ]
+        }
     ]
 }

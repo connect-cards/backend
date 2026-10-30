@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-04",
+    "groups": [
+        {
+            "id": "2026-11-04-g1",
+            "type": "sound_association",
+            "difficulty": "easy",
+            "title": "low sounds",
+            "words": [
+                "drone",
+                "hum",
+                "murmur",
+                "thrum"
+            ]
+        },
+        {
+            "id": "2026-11-04-g2",
+            "type": "semantic_field",
+            "difficulty": "medium",
+            "title": "stinginess",
+            "words": [
+                "frugality",
+                "meanness",
+                "parsimony",
+                "thrift"
+            ]
+        },
+        {
+            "id": "2026-11-04-g3",
+            "type": "etymological_relation",
+            "difficulty": "hard",
+            "title": "from write",
+            "words": [
+                "grammar",
+                "graphic",
+                "grapheme",
+                "graphite"
+            ]
+        },
+        {
+            "id": "2026-11-04-g4",
+            "type": "literary_register",
+            "difficulty": "very_hard",
+            "title": "nightfall",
+            "words": [
+                "eventide",
+                "gloaming",
+                "night",
+                "twilight"
+            ]
+        }
+    ]
+}

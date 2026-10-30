@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-14",
+    "groups": [
+        {
+            "id": "2026-11-14-g1",
+            "type": "semantic_field",
+            "difficulty": "easy",
+            "title": "light phenomena",
+            "words": [
+                "glare",
+                "gleam",
+                "glint",
+                "radiance"
+            ]
+        },
+        {
+            "id": "2026-11-14-g2",
+            "type": "profession_domain",
+            "difficulty": "medium",
+            "title": "legal latin",
+            "words": [
+                "tort",
+                "estoppel",
+                "demurrer",
+                "voirdire"
+            ]
+        },
+        {
+            "id": "2026-11-14-g3",
+            "type": "morphological_family",
+            "difficulty": "hard",
+            "title": "break forms",
+            "words": [
+                "fracture",
+                "fraction",
+                "refractory",
+                "infringe"
+            ]
+        },
+        {
+            "id": "2026-11-14-g4",
+            "type": "emotional_tone",
+            "difficulty": "very_hard",
+            "title": "sour moods",
+            "words": [
+                "petulant",
+                "bilious",
+                "splenetic",
+                "atrabilious"
+            ]
+        }
+    ]
+}

@@ -1942,5 +1942,99 @@
                 "The equinoctial period marks the equinoxes."
             ]
         }
+    ],
+    "eventide": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the time in the evening, especially late afternoon or early evening",
+            "synonyms": [
+                "evening",
+                "nightfall",
+                "dusk"
+            ],
+            "examples": [
+                "They arrived at eventide.",
+                "Eventide brought a cool breeze."
+            ]
+        }
+    ],
+    "encomize": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to praise or speak highly of someone or something",
+            "synonyms": [
+                "praise",
+                "commend",
+                "extol",
+                "laud"
+            ],
+            "examples": [
+                "She wrote an essay to encomize her teacher’s work.",
+                "The speech was meant to encomize the team’s efforts."
+            ]
+        }
+    ],
+    "ennui": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a feeling of boredom and lack of interest",
+            "synonyms": [
+                "boredom",
+                "boredomness",
+                "listlessness",
+                "weariness"
+            ],
+            "examples": [
+                "After a week in the same routine, she felt ennui.",
+                "He struggled with ennui during the long trip."
+            ]
+        }
+    ],
+    "epilogue": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a short section at the end of a book or play that gives extra information about what happens later",
+            "synonyms": [
+                "afterword",
+                "ending section",
+                "conclusion"
+            ],
+            "examples": [
+                "The epilogue showed how the characters’ lives changed.",
+                "In the epilogue, the author explained the final outcome."
+            ]
+        }
+    ],
+    "evoke": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to bring a feeling, memory, or idea to mind",
+            "synonyms": [
+                "call up",
+                "trigger",
+                "bring about",
+                "arouse"
+            ],
+            "examples": [
+                "The smell evoked memories of childhood.",
+                "That song can evoke strong emotions."
+            ]
+        }
+    ],
+    "emaciate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make someone or something become thin and weak, usually because of illness or lack of food",
+            "synonyms": [
+                "thin",
+                "starve",
+                "waste away",
+                "weaken"
+            ],
+            "examples": [
+                "Illness emaciated him over a few months.",
+                "The disease can emaciate the body."
+            ]
+        }
     ]
 }

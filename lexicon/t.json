@@ -3400,5 +3400,189 @@
                 "A skilled typesetter can make pages look neat."
             ]
         }
+    ],
+    "tirade": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a long angry speech or complaint",
+            "synonyms": [
+                "rant",
+                "outburst",
+                "scolding",
+                "diatribe"
+            ],
+            "examples": [
+                "He went on a tirade about the noise.",
+                "The manager’s tirade ended after ten minutes."
+            ]
+        }
+    ],
+    "thrum": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to produce a low continuous sound",
+            "synonyms": [
+                "hum",
+                "buzz",
+                "ring",
+                "tremble"
+            ],
+            "examples": [
+                "The engine thrum could be heard through the wall.",
+                "A distant train thrum filled the evening."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a low continuous sound",
+            "synonyms": [
+                "hum",
+                "buzz",
+                "rumble",
+                "vibration"
+            ],
+            "examples": [
+                "There was a soft thrum in the wires.",
+                "The thrum of the air conditioner never fully stopped."
+            ]
+        }
+    ],
+    "thrift": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the habit of saving money and using resources carefully",
+            "synonyms": [
+                "economy",
+                "savings",
+                "frugality",
+                "prudence"
+            ],
+            "examples": [
+                "Thrift helped her pay off her debts.",
+                "He practiced thrift by cooking at home."
+            ]
+        }
+    ],
+    "twilight": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the soft light between daylight and night",
+            "synonyms": [
+                "dusk",
+                "evening light",
+                "daybreak-adjacent light",
+                "gloaming"
+            ],
+            "examples": [
+                "Twilight made the buildings look warmer.",
+                "She met him in the twilight after work."
+            ]
+        }
+    ],
+    "telegram": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a short written message sent by telegraph service in the past",
+            "synonyms": [
+                "message",
+                "wire",
+                "telex message"
+            ],
+            "examples": [
+                "The telegram arrived in the morning.",
+                "She found an old telegram among her papers."
+            ]
+        }
+    ],
+    "topology": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a branch of mathematics that studies properties of shapes that stay the same when the shape is bent or stretched",
+            "synonyms": [
+                "math field",
+                "study of shapes"
+            ],
+            "examples": [
+                "Topology is about how spaces connect and change.",
+                "Her research focuses on topology."
+            ]
+        }
+    ],
+    "terrace": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a flat paved area outside a building, often raised and used for sitting or dining",
+            "synonyms": [
+                "patio",
+                "balcony",
+                "raised platform"
+            ],
+            "examples": [
+                "We ate breakfast on the terrace.",
+                "The hotel has a terrace with a view of the sea."
+            ]
+        }
+    ],
+    "terrain": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the type of land in an area, including hills, valleys, and ground surfaces",
+            "synonyms": [
+                "landscape",
+                "ground",
+                "topography",
+                "surface"
+            ],
+            "examples": [
+                "The terrain made the hike slow.",
+                "Engineers studied the terrain before building the road."
+            ]
+        }
+    ],
+    "terrene": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "relating to the land; of the earth rather than the sea or the sky",
+            "synonyms": [
+                "earthly",
+                "land-based",
+                "of the land"
+            ],
+            "examples": [
+                "The trail follows terrene paths through the valley.",
+                "They discussed terrene conditions for the project."
+            ]
+        }
+    ],
+    "tipsy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "slightly drunk",
+            "synonyms": [
+                "slightly drunk",
+                "in a tipsy state",
+                "lightly intoxicated"
+            ],
+            "examples": [
+                "He got tipsy after two beers and stopped driving.",
+                "She felt tipsy but still knew what she was doing."
+            ]
+        }
+    ],
+    "thicket": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a dense group of bushes or small trees that is hard to move through",
+            "synonyms": [
+                "brush",
+                "bushes",
+                "woodland growth",
+                "cover"
+            ],
+            "examples": [
+                "We had to push through a thicket to reach the path.",
+                "The deer hid in the thicket near the fence."
+            ]
+        }
     ]
 }

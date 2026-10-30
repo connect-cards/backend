@@ -500,5 +500,21 @@
                 "He cut his hand on a jagged piece of metal."
             ]
         }
+    ],
+    "jeremiad": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a long complaint or speech about problems and decline",
+            "synonyms": [
+                "rant",
+                "complaint",
+                "lament",
+                "grievance"
+            ],
+            "examples": [
+                "The speech turned into a jeremiad about taxes.",
+                "He wrote a jeremiad describing the city’s troubles."
+            ]
+        }
     ]
 }

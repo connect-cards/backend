@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-07",
+    "groups": [
+        {
+            "id": "2026-11-07-g1",
+            "type": "morphological_family",
+            "difficulty": "easy",
+            "title": "out prefixes",
+            "words": [
+                "outbid",
+                "outgrow",
+                "outlast",
+                "outwit"
+            ]
+        },
+        {
+            "id": "2026-11-07-g2",
+            "type": "physical_trait",
+            "difficulty": "medium",
+            "title": "curly hair",
+            "words": [
+                "coily",
+                "crisp",
+                "frizzy",
+                "wavy"
+            ]
+        },
+        {
+            "id": "2026-11-07-g3",
+            "type": "thematic_association",
+            "difficulty": "hard",
+            "title": "monastery life",
+            "words": [
+                "abbey",
+                "cowl",
+                "novice",
+                "prior"
+            ]
+        },
+        {
+            "id": "2026-11-07-g4",
+            "type": "synonym",
+            "difficulty": "very_hard",
+            "title": "obstinate",
+            "words": [
+                "contumacious",
+                "mulish",
+                "obdurate",
+                "refractory"
+            ]
+        }
+    ]
+}

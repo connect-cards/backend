@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-25",
+    "groups": [
+        {
+            "id": "2026-11-25-g1",
+            "type": "physical_trait",
+            "difficulty": "easy",
+            "title": "rough surfaces",
+            "words": [
+                "coarse",
+                "jagged",
+                "gritty",
+                "knobbly"
+            ]
+        },
+        {
+            "id": "2026-11-25-g2",
+            "type": "etymological_relation",
+            "difficulty": "medium",
+            "title": "from latin speak",
+            "words": [
+                "vocal",
+                "evoke",
+                "advocate",
+                "equivocate"
+            ]
+        },
+        {
+            "id": "2026-11-25-g3",
+            "type": "thematic_association",
+            "difficulty": "hard",
+            "title": "monastery life",
+            "words": [
+                "cloister",
+                "tonsure",
+                "novitiate",
+                "refectory"
+            ]
+        },
+        {
+            "id": "2026-11-25-g4",
+            "type": "morphological_family",
+            "difficulty": "very_hard",
+            "title": "abl roots",
+            "words": [
+                "ablate",
+                "ablation",
+                "ablative",
+                "ablator"
+            ]
+        }
+    ]
+}

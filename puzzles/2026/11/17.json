@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-17",
+    "groups": [
+        {
+            "id": "2026-11-17-g1",
+            "type": "emotional_tone",
+            "difficulty": "easy",
+            "title": "irritable moods",
+            "words": [
+                "testy",
+                "snappish",
+                "sullen",
+                "peevish"
+            ]
+        },
+        {
+            "id": "2026-11-17-g2",
+            "type": "semantic_field",
+            "difficulty": "medium",
+            "title": "stage speech",
+            "words": [
+                "aside",
+                "soliloquy",
+                "monologue",
+                "epilogue"
+            ]
+        },
+        {
+            "id": "2026-11-17-g3",
+            "type": "thematic_association",
+            "difficulty": "hard",
+            "title": "sea voyage",
+            "words": [
+                "keel",
+                "mast",
+                "stern",
+                "bilge"
+            ]
+        },
+        {
+            "id": "2026-11-17-g4",
+            "type": "literary_register",
+            "difficulty": "very_hard",
+            "title": "archaic speech",
+            "words": [
+                "yclept",
+                "forsooth",
+                "perchance",
+                "anon"
+            ]
+        }
+    ]
+}

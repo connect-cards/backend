@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-30",
+    "groups": [
+        {
+            "id": "2026-11-30-g1",
+            "type": "etymological_relation",
+            "difficulty": "easy",
+            "title": "water roots",
+            "words": [
+                "aquatic",
+                "aqueous",
+                "aquifer",
+                "aquiline"
+            ]
+        },
+        {
+            "id": "2026-11-30-g2",
+            "type": "emotional_tone",
+            "difficulty": "medium",
+            "title": "scornful tones",
+            "words": [
+                "snide",
+                "arch",
+                "supercilious",
+                "acidulous"
+            ]
+        },
+        {
+            "id": "2026-11-30-g3",
+            "type": "informal_register",
+            "difficulty": "hard",
+            "title": "idle chatter",
+            "words": [
+                "banter",
+                "gab",
+                "prattle",
+                "natter"
+            ]
+        },
+        {
+            "id": "2026-11-30-g4",
+            "type": "literary_register",
+            "difficulty": "very_hard",
+            "title": "poetic dawn",
+            "words": [
+                "morrow",
+                "aurora",
+                "cockcrow",
+                "daybreak"
+            ]
+        }
+    ]
+}

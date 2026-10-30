@@ -3457,5 +3457,109 @@
                 "He realized he’d been fooled by a boobish scam."
             ]
         }
+    ],
+    "bowed": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "bent forward or downward",
+            "synonyms": [
+                "bent",
+                "curved",
+                "arched"
+            ],
+            "examples": [
+                "He stood bowed under the heavy bag.",
+                "The branch was bowed by the weight of fruit."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "having an arched shape",
+            "synonyms": [
+                "arched",
+                "curved",
+                "vaulted"
+            ],
+            "examples": [
+                "The ceiling is bowed in the center.",
+                "Her back looked bowed in the photo."
+            ]
+        }
+    ],
+    "blocking": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the act of stopping something’s movement, progress, or access",
+            "synonyms": [
+                "obstruction",
+                "hindrance",
+                "stoppage",
+                "barrier"
+            ],
+            "examples": [
+                "The blocking of the road caused a traffic jam.",
+                "They blamed the delay on blocking in the system."
+            ]
+        }
+    ],
+    "bouquet": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a group of flowers given or used for decoration, especially cut flowers",
+            "synonyms": [
+                "floral arrangement",
+                "flower bunch",
+                "flower arrangement"
+            ],
+            "examples": [
+                "She received a bouquet of roses.",
+                "He carried a bouquet for the wedding."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a pleasant smell, especially of wine or perfume",
+            "synonyms": [
+                "scent",
+                "aroma",
+                "fragrance"
+            ],
+            "examples": [
+                "The wine has a rich bouquet.",
+                "The candle released a sweet bouquet."
+            ]
+        }
+    ],
+    "bilious": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "feeling or showing illness connected with bile, or having a bitter, unpleasant quality",
+            "synonyms": [
+                "nauseous",
+                "sick",
+                "bitter-tasting",
+                "greenish-yellow"
+            ],
+            "examples": [
+                "He felt bilious after eating the wrong food.",
+                "The bilious smell in the room made her step outside."
+            ]
+        }
+    ],
+    "braggy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "talking too proudly about yourself or your achievements",
+            "synonyms": [
+                "boastful",
+                "showy",
+                "self-satisfied",
+                "vain"
+            ],
+            "examples": [
+                "He was braggy about his new car.",
+                "Stop being braggy and just tell us the facts."
+            ]
+        }
     ]
 }

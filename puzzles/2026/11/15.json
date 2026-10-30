@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-15",
+    "groups": [
+        {
+            "id": "2026-11-15-g1",
+            "type": "literary_register",
+            "difficulty": "easy",
+            "title": "old-time speech",
+            "words": [
+                "alas",
+                "hark",
+                "ere",
+                "whilst"
+            ]
+        },
+        {
+            "id": "2026-11-15-g2",
+            "type": "profession_domain",
+            "difficulty": "medium",
+            "title": "sailing gear",
+            "words": [
+                "hawser",
+                "capstan",
+                "mizzen",
+                "gunwale"
+            ]
+        },
+        {
+            "id": "2026-11-15-g3",
+            "type": "etymological_relation",
+            "difficulty": "hard",
+            "title": "lead words",
+            "words": [
+                "ductile",
+                "aqueduct",
+                "viaduct",
+                "abduct"
+            ]
+        },
+        {
+            "id": "2026-11-15-g4",
+            "type": "physical_trait",
+            "difficulty": "very_hard",
+            "title": "skin textures",
+            "words": [
+                "sallow",
+                "piebald",
+                "hirsute",
+                "rugose"
+            ]
+        }
+    ]
+}

@@ -2882,5 +2882,153 @@
                 "He received a bronze medal at the competition."
             ]
         }
+    ],
+    "mere": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a large area of still water such as a lake, especially in low land",
+            "synonyms": [
+                "lake",
+                "inland lake",
+                "pool"
+            ],
+            "examples": [
+                "The birds nested near the mere.",
+                "The path led from the village to the mere."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "only; used to say something is not more than a small or limited amount",
+            "synonyms": [
+                "only",
+                "nothing more than",
+                "simply",
+                "bare"
+            ],
+            "examples": [
+                "It costs a mere ten dollars.",
+                "She waited for a mere moment before answering."
+            ]
+        }
+    ],
+    "meridian": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an imaginary line on earth used for measuring longitude, running from north to south",
+            "synonyms": [
+                "longitude line",
+                "line of longitude"
+            ],
+            "examples": [
+                "The meridian helps locate places east or west of the prime meridian.",
+                "Maps often show several meridians."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "the time of day when the sun is at its highest point in the sky",
+            "synonyms": [
+                "solar noon",
+                "midday"
+            ],
+            "examples": [
+                "Noon occurs near the meridian crossing.",
+                "At meridian, the shadow becomes shortest."
+            ]
+        }
+    ],
+    "miasma": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a harmful or unpleasant atmosphere, often described as if it causes illness",
+            "synonyms": [
+                "bad air",
+                "stink",
+                "foul atmosphere",
+                "pollution"
+            ],
+            "examples": [
+                "The town complained about a miasma near the river.",
+                "Old stories blamed sickness on a miasma in the air."
+            ]
+        }
+    ],
+    "mouthy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "talking back in a rude or disrespectful way",
+            "synonyms": [
+                "impertinent",
+                "rude",
+                "disrespectful",
+                "talkative in an annoying way"
+            ],
+            "examples": [
+                "The teacher told him not to be mouthy.",
+                "She became mouthy when she didn’t get her way."
+            ]
+        }
+    ],
+    "mending": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the act of repairing something or making it work again",
+            "synonyms": [
+                "repair",
+                "fix",
+                "restoration"
+            ],
+            "examples": [
+                "The mending took only a few minutes.",
+                "She started mending her jacket after work."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to repair or improve something that is broken or not working well",
+            "synonyms": [
+                "repair",
+                "fix",
+                "restore",
+                "patch"
+            ],
+            "examples": [
+                "I’m mending the torn shirt.",
+                "They mended the window before winter."
+            ]
+        }
+    ],
+    "mendable": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "able to be repaired",
+            "synonyms": [
+                "repairable",
+                "fixable",
+                "restorable",
+                "capable of being mended"
+            ],
+            "examples": [
+                "The technician said the phone is mendable.",
+                "The damage was small and mendable."
+            ]
+        }
+    ],
+    "mixture": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a combination of two or more things that are not chemically joined",
+            "synonyms": [
+                "blend",
+                "combination",
+                "mix",
+                "mixture substance"
+            ],
+            "examples": [
+                "The mixture needs to be stirred well.",
+                "Add sugar to the mixture slowly."
+            ]
+        }
     ]
 }

@@ -2003,5 +2003,90 @@
                 "The boat stayed in the lee to avoid the waves."
             ]
         }
+    ],
+    "lip": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the soft outside part around the mouth",
+            "synonyms": [
+                "mouth lip",
+                "lip edge",
+                "labrum"
+            ],
+            "examples": [
+                "He bit his lip before speaking.",
+                "Her lips turned down when she heard the news."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "the edge of a container or opening",
+            "synonyms": [
+                "rim",
+                "edge",
+                "border"
+            ],
+            "examples": [
+                "There was a crack along the lip of the cup.",
+                "Hold the box by the lip."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to speak back in an impolite or disrespectful way",
+            "synonyms": [
+                "talk back",
+                "answer rudely",
+                "speak insolently"
+            ],
+            "examples": [
+                "Don’t lip your teacher.",
+                "The child lipped her parents when she was told to stop."
+            ]
+        }
+    ],
+    "legend": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a traditional story about events or people, often not fully proven",
+            "synonyms": [
+                "myth",
+                "tale",
+                "folklore story",
+                "traditional story"
+            ],
+            "examples": [
+                "The legend said a hidden treasure was buried nearby.",
+                "They told a legend about a lost kingdom."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a short explanation shown on a map or chart to explain symbols",
+            "synonyms": [
+                "key",
+                "explanation",
+                "guide"
+            ],
+            "examples": [
+                "Use the legend to understand the map symbols.",
+                "The legend shows what the colors mean."
+            ]
+        }
+    ],
+    "legless": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "unable to move or act because of a lack of ability or energy",
+            "synonyms": [
+                "exhausted",
+                "unable to move",
+                "immobilized"
+            ],
+            "examples": [
+                "After the long walk, I felt legless.",
+                "She looked legless from lack of sleep."
+            ]
+        }
     ]
 }

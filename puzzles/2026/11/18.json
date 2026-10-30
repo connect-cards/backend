@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-18",
+    "groups": [
+        {
+            "id": "2026-11-18-g1",
+            "type": "profession_domain",
+            "difficulty": "easy",
+            "title": "law practice",
+            "words": [
+                "tort",
+                "statute",
+                "deposition",
+                "plaintiff"
+            ]
+        },
+        {
+            "id": "2026-11-18-g2",
+            "type": "literary_register",
+            "difficulty": "medium",
+            "title": "poetic sorrow",
+            "words": [
+                "dolorous",
+                "plaintive",
+                "lachrymose",
+                "woebegone"
+            ]
+        },
+        {
+            "id": "2026-11-18-g3",
+            "type": "etymological_relation",
+            "difficulty": "hard",
+            "title": "from tooth",
+            "words": [
+                "dentist",
+                "denture",
+                "indent",
+                "dental"
+            ]
+        },
+        {
+            "id": "2026-11-18-g4",
+            "type": "morphological_family",
+            "difficulty": "very_hard",
+            "title": "root cred",
+            "words": [
+                "credence",
+                "credulous",
+                "discredit",
+                "credo"
+            ]
+        }
+    ]
+}

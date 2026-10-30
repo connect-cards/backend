@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-28",
+    "groups": [
+        {
+            "id": "2026-11-28-g1",
+            "type": "morphological_family",
+            "difficulty": "easy",
+            "title": "mend forms",
+            "words": [
+                "mend",
+                "mender",
+                "mending",
+                "mendable"
+            ]
+        },
+        {
+            "id": "2026-11-28-g2",
+            "type": "sound_association",
+            "difficulty": "medium",
+            "title": "long o start",
+            "words": [
+                "opal",
+                "ovine",
+                "odium",
+                "okra"
+            ]
+        },
+        {
+            "id": "2026-11-28-g3",
+            "type": "profession_domain",
+            "difficulty": "hard",
+            "title": "typesetter's marks",
+            "words": [
+                "kerning",
+                "leading",
+                "ligature",
+                "widow"
+            ]
+        },
+        {
+            "id": "2026-11-28-g4",
+            "type": "thematic_association",
+            "difficulty": "very_hard",
+            "title": "falconry gear",
+            "words": [
+                "jess",
+                "lure",
+                "creance",
+                "mews"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-20",
+    "groups": [
+        {
+            "id": "2026-11-20-g1",
+            "type": "informal_register",
+            "difficulty": "easy",
+            "title": "shabby slang",
+            "words": [
+                "ratty",
+                "grubby",
+                "tatty",
+                "scuzzy"
+            ]
+        },
+        {
+            "id": "2026-11-20-g2",
+            "type": "literary_register",
+            "difficulty": "medium",
+            "title": "gloomy style",
+            "words": [
+                "tenebrous",
+                "eerie",
+                "bleak",
+                "sepulchral"
+            ]
+        },
+        {
+            "id": "2026-11-20-g3",
+            "type": "physical_trait",
+            "difficulty": "hard",
+            "title": "gaunt bodies",
+            "words": [
+                "cadaverous",
+                "rangy",
+                "bony",
+                "lank"
+            ]
+        },
+        {
+            "id": "2026-11-20-g4",
+            "type": "etymological_relation",
+            "difficulty": "very_hard",
+            "title": "from earth",
+            "words": [
+                "terrace",
+                "terrain",
+                "terrene",
+                "subterranean"
+            ]
+        }
+    ]
+}

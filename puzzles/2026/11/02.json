@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-02",
+    "groups": [
+        {
+            "id": "2026-11-02-g1",
+            "type": "literary_register",
+            "difficulty": "easy",
+            "title": "sorrow",
+            "words": [
+                "dolor",
+                "grief",
+                "rue",
+                "woe"
+            ]
+        },
+        {
+            "id": "2026-11-02-g2",
+            "type": "physical_trait",
+            "difficulty": "medium",
+            "title": "curved shapes",
+            "words": [
+                "arced",
+                "bowed",
+                "crooked",
+                "sinuous"
+            ]
+        },
+        {
+            "id": "2026-11-02-g3",
+            "type": "thematic_association",
+            "difficulty": "hard",
+            "title": "ship parts",
+            "words": [
+                "bilge",
+                "keel",
+                "prow",
+                "scupper"
+            ]
+        },
+        {
+            "id": "2026-11-02-g4",
+            "type": "informal_register",
+            "difficulty": "very_hard",
+            "title": "nonsense",
+            "words": [
+                "balderdash",
+                "drivel",
+                "hokum",
+                "tripe"
+            ]
+        }
+    ]
+}

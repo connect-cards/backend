@@ -805,5 +805,98 @@
                 "They kept the urn after the ceremony."
             ]
         }
+    ],
+    "underbid": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to bid a lower price than someone else, usually in a competition",
+            "synonyms": [
+                "outprice",
+                "bid lower",
+                "offer less"
+            ],
+            "examples": [
+                "They underbid the other contractors and won the job.",
+                "He underbid his rival to secure the contract."
+            ]
+        }
+    ],
+    "undercut": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to sell, offer, or charge at a lower price than someone else",
+            "synonyms": [
+                "undermine",
+                "undercut prices",
+                "underprice",
+                "beat on price"
+            ],
+            "examples": [
+                "A new store opened and started to undercut the local prices.",
+                "Competitors tried to undercut our supplier."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a plan or advantage weaker by attacking it at a key point",
+            "synonyms": [
+                "undermine",
+                "weaken",
+                "sabotage",
+                "erode"
+            ],
+            "examples": [
+                "The report undercut his claim of success.",
+                "Her argument undercut the decision."
+            ]
+        }
+    ],
+    "underlie": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to be the main or basic cause, basis, or foundation of something",
+            "synonyms": [
+                "form the basis of",
+                "underpin",
+                "lie beneath",
+                "support"
+            ],
+            "examples": [
+                "Fear may underlie many of his reactions.",
+                "Stress can underlie long-term problems."
+            ]
+        }
+    ],
+    "underrate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to judge something as less important, less valuable, or less effective than it really is",
+            "synonyms": [
+                "underestimate",
+                "devalue",
+                "discount",
+                "belittle"
+            ],
+            "examples": [
+                "People often underrate how difficult the task is.",
+                "Don’t underrate her experience."
+            ]
+        }
+    ],
+    "ululate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to cry out with a loud, high sound like a wolf",
+            "synonyms": [
+                "howl",
+                "wail",
+                "cry out",
+                "scream"
+            ],
+            "examples": [
+                "The wind made the animals ululate at night.",
+                "People described hearing a ululating sound in the distance."
+            ]
+        }
     ]
 }

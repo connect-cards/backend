@@ -3754,5 +3754,252 @@
                 "A friendly message can assuage anxiety."
             ]
         }
+    ],
+    "arced": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "shaped like an arc; curving upward or outward",
+            "synonyms": [
+                "arched",
+                "curved",
+                "bowed"
+            ],
+            "examples": [
+                "The bridge has arced supports under the deck.",
+                "Her handwriting formed an arced line at the top."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "formed or made in the shape of an arc",
+            "synonyms": [
+                "arched",
+                "curved",
+                "rounded"
+            ],
+            "examples": [
+                "The metal rod was arced to fit the frame.",
+                "The wire was arced to guide the cable."
+            ]
+        }
+    ],
+    "abbey": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a monastery, or a church with a community of monks or nuns",
+            "synonyms": [
+                "monastery",
+                "convent",
+                "religious house"
+            ],
+            "examples": [
+                "They visited an old abbey in the countryside.",
+                "The abbey was built in the Middle Ages."
+            ]
+        }
+    ],
+    "aroma": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a pleasant, noticeable smell",
+            "synonyms": [
+                "scent",
+                "smell",
+                "fragrance",
+                "odor"
+            ],
+            "examples": [
+                "The aroma of fresh bread filled the room.",
+                "Coffee has a strong aroma when it’s brewed."
+            ]
+        }
+    ],
+    "atrabilious": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having a bitter, gloomy, or bad-tempered attitude",
+            "synonyms": [
+                "gloomy",
+                "bitter",
+                "cranky",
+                "ill-tempered"
+            ],
+            "examples": [
+                "He became atrabilious when the plan changed again.",
+                "Her atrabilious mood made the meeting tense."
+            ]
+        }
+    ],
+    "alas": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "used to show sadness, disappointment, or regret",
+            "synonyms": [
+                "unfortunately",
+                "sadly",
+                "regretfully",
+                "oh no"
+            ],
+            "examples": [
+                "Alas, we missed the last train.",
+                "She couldn’t come, alas."
+            ]
+        }
+    ],
+    "aside": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "to one side, or away from the main topic",
+            "synonyms": [
+                "away",
+                "to the side",
+                "separately"
+            ],
+            "examples": [
+                "She paused aside while the others discussed the plan.",
+                "I want to focus on the main issue, but aside, the budget matters too."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a short remark said quietly, usually to the audience or another person",
+            "synonyms": [
+                "comment",
+                "brief remark",
+                "asides"
+            ],
+            "examples": [
+                "In the play, he made an aside to the audience.",
+                "She whispered an aside to her friend."
+            ]
+        }
+    ],
+    "anneal": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to heat a material and then cool it slowly to make it less hard and more workable",
+            "synonyms": [
+                "heat-treat",
+                "temper",
+                "soften",
+                "relieve stress"
+            ],
+            "examples": [
+                "The metal was annealed to prevent cracking.",
+                "They annealed the wire before bending it."
+            ]
+        }
+    ],
+    "ablation": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the process of removing material from something, often by melting, erosion, or ice loss",
+            "synonyms": [
+                "removal",
+                "erosion",
+                "loss of material"
+            ],
+            "examples": [
+                "Glaciers shrink through ablation in summer.",
+                "The researchers studied ablation rates on the ice sheet."
+            ]
+        }
+    ],
+    "ablative": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "of a grammatical case used in some languages to show meanings like separation or source",
+            "synonyms": [
+                "case-related",
+                "grammar-related"
+            ],
+            "examples": [
+                "Latin has an ablative case.",
+                "The sentence uses an ablative construction."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "relating to the removal of material, especially from a surface",
+            "synonyms": [
+                "erosion-related",
+                "removal-related",
+                "material-loss-related"
+            ],
+            "examples": [
+                "Ablative materials protect a spacecraft by burning away."
+            ]
+        }
+    ],
+    "ablator": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a substance that removes or burns away to protect a surface from heat or damage",
+            "synonyms": [
+                "heat-shield material",
+                "protective ablation material"
+            ],
+            "examples": [
+                "The heat shield used an ablator to reduce temperature.",
+                "Ablators are common in spacecraft thermal protection."
+            ]
+        }
+    ],
+    "arch": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "mainly used for things that are shaped like a curve",
+            "synonyms": [
+                "arched",
+                "curved",
+                "bowed"
+            ],
+            "examples": [
+                "There was an arch opening in the wall.",
+                "The arch bridge spans the river."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a curved structure, usually spanning an opening and supporting weight",
+            "synonyms": [
+                "arc",
+                "arched structure",
+                "curved bridge"
+            ],
+            "examples": [
+                "The arch held the roof up.",
+                "They walked under the stone arch."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to bend upward or outward into a curve",
+            "synonyms": [
+                "curve",
+                "bend",
+                "arch upward"
+            ],
+            "examples": [
+                "Her back arched as she stretched.",
+                "The road arches over the valley."
+            ]
+        }
+    ],
+    "acidulous": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "slightly sour or having a sharp, tart taste; also used for a sharp, slightly critical attitude",
+            "synonyms": [
+                "tart",
+                "sour",
+                "sharp",
+                "tangy"
+            ],
+            "examples": [
+                "The sauce was acidulous and refreshing.",
+                "She made an acidulous remark during the meeting."
+            ]
+        }
     ]
 }

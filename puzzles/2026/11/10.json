@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-10",
+    "groups": [
+        {
+            "id": "2026-11-10-g1",
+            "type": "etymological_relation",
+            "difficulty": "easy",
+            "title": "heart root",
+            "words": [
+                "cordial",
+                "discord",
+                "concord",
+                "record"
+            ]
+        },
+        {
+            "id": "2026-11-10-g2",
+            "type": "literary_register",
+            "difficulty": "medium",
+            "title": "old pronouns",
+            "words": [
+                "thou",
+                "thee",
+                "thy",
+                "thine"
+            ]
+        },
+        {
+            "id": "2026-11-10-g3",
+            "type": "synonym",
+            "difficulty": "hard",
+            "title": "praise",
+            "words": [
+                "extol",
+                "laud",
+                "encomize",
+                "panegyrize"
+            ]
+        },
+        {
+            "id": "2026-11-10-g4",
+            "type": "profession_domain",
+            "difficulty": "very_hard",
+            "title": "jurisprudence",
+            "words": [
+                "tort",
+                "estoppel",
+                "voirdire",
+                "demurrer"
+            ]
+        }
+    ]
+}

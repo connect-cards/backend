@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-09",
+    "groups": [
+        {
+            "id": "2026-11-09-g1",
+            "type": "physical_trait",
+            "difficulty": "easy",
+            "title": "hair textures",
+            "words": [
+                "curly",
+                "wavy",
+                "coarse",
+                "silky"
+            ]
+        },
+        {
+            "id": "2026-11-09-g2",
+            "type": "synonym",
+            "difficulty": "medium",
+            "title": "brief",
+            "words": [
+                "terse",
+                "succinct",
+                "laconic",
+                "pithy"
+            ]
+        },
+        {
+            "id": "2026-11-09-g3",
+            "type": "morphological_family",
+            "difficulty": "hard",
+            "title": "root forms",
+            "words": [
+                "scribe",
+                "script",
+                "scriven",
+                "scrivener"
+            ]
+        },
+        {
+            "id": "2026-11-09-g4",
+            "type": "profession_domain",
+            "difficulty": "very_hard",
+            "title": "mapmaking",
+            "words": [
+                "contour",
+                "legend",
+                "meridian",
+                "topology"
+            ]
+        }
+    ]
+}

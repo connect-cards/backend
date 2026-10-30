@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-21",
+    "groups": [
+        {
+            "id": "2026-11-21-easy",
+            "type": "informal_register",
+            "difficulty": "easy",
+            "title": "drunk",
+            "words": [
+                "tipsy",
+                "sloshed",
+                "plastered",
+                "legless"
+            ]
+        },
+        {
+            "id": "2026-11-21-medium",
+            "type": "profession_domain",
+            "difficulty": "medium",
+            "title": "law",
+            "words": [
+                "tort",
+                "lien",
+                "estoppel",
+                "caveat"
+            ]
+        },
+        {
+            "id": "2026-11-21-hard",
+            "type": "etymological_relation",
+            "difficulty": "hard",
+            "title": "tongue roots",
+            "words": [
+                "gloss",
+                "glossary",
+                "glossolalia",
+                "polyglot"
+            ]
+        },
+        {
+            "id": "2026-11-21-very_hard",
+            "type": "morphological_family",
+            "difficulty": "very_hard",
+            "title": "star forms",
+            "words": [
+                "aster",
+                "astral",
+                "disaster",
+                "asterisk"
+            ]
+        }
+    ]
+}

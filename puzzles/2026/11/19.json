@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-19",
+    "groups": [
+        {
+            "id": "2026-11-19-g1",
+            "type": "thematic_association",
+            "difficulty": "easy",
+            "title": "winter weather",
+            "words": [
+                "sleet",
+                "slush",
+                "gale",
+                "rime"
+            ]
+        },
+        {
+            "id": "2026-11-19-g2",
+            "type": "etymological_relation",
+            "difficulty": "medium",
+            "title": "from writing",
+            "words": [
+                "scribe",
+                "script",
+                "inscription",
+                "scribble"
+            ]
+        },
+        {
+            "id": "2026-11-19-g3",
+            "type": "morphological_family",
+            "difficulty": "hard",
+            "title": "root fer",
+            "words": [
+                "confer",
+                "defer",
+                "infer",
+                "prefer"
+            ]
+        },
+        {
+            "id": "2026-11-19-g4",
+            "type": "informal_register",
+            "difficulty": "very_hard",
+            "title": "boastful slang",
+            "words": [
+                "gassy",
+                "mouthy",
+                "cocky",
+                "braggy"
+            ]
+        }
+    ]
+}
