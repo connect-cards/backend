@@ -1063,5 +1063,34 @@
                 "They built a viaduct to carry the highway over the river."
             ]
         }
+    ],
+    "vocal": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "relating to the voice, speaking, or singing",
+            "synonyms": [
+                "voice-related",
+                "spoken",
+                "song-related"
+            ],
+            "examples": [
+                "The role needs strong vocal training.",
+                "She developed her vocal range over time."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "expressed publicly and strongly, especially an opinion",
+            "synonyms": [
+                "outspoken",
+                "expressed publicly",
+                "public",
+                "strongly stated"
+            ],
+            "examples": [
+                "He was vocal about the need for change.",
+                "The group is vocal in its criticism."
+            ]
+        }
     ]
 }

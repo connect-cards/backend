@@ -1567,5 +1567,64 @@
                 "She spoke with heaviness rather than excitement."
             ]
         }
+    ],
+    "heat": [
+        {
+            "part_of_speech": "noun",
+            "definition": "energy that makes something warmer, causing temperature to rise",
+            "synonyms": [
+                "warmth",
+                "temperature increase",
+                "thermal energy"
+            ],
+            "examples": [
+                "The heat from the stove warmed the kitchen.",
+                "Turn off the heat before the soup boils."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make something warmer by using energy",
+            "synonyms": [
+                "warm",
+                "raise temperature",
+                "increase temperature"
+            ],
+            "examples": [
+                "Heat the milk gently before adding the chocolate.",
+                "She heated the leftovers in the microwave."
+            ]
+        }
+    ],
+    "hogwash": [
+        {
+            "part_of_speech": "noun",
+            "definition": "nonsense; information that is not true or not reasonable",
+            "synonyms": [
+                "nonsense",
+                "baloney",
+                "rubbish",
+                "nonsense talk"
+            ],
+            "examples": [
+                "That explanation is hogwash.",
+                "Stop spreading hogwash about the project."
+            ]
+        }
+    ],
+    "husky": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having a rough, thick voice, often because of illness",
+            "synonyms": [
+                "rough",
+                "hoarse",
+                "raspy"
+            ],
+            "examples": [
+                "He sounded husky after the cold.",
+                "Her husky voice made it hard to hear the words clearly."
+            ]
+        }
     ]
 }

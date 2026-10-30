@@ -242,5 +242,19 @@
                 "Yahoo offers news and search services."
             ]
         }
+    ],
+    "yclept": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "called by; named",
+            "synonyms": [
+                "named",
+                "called"
+            ],
+            "examples": [
+                "The yclept leader was introduced at the start of the speech.",
+                "They spoke of the yclept city in older records."
+            ]
+        }
     ]
 }

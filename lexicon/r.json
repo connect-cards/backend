@@ -3650,5 +3650,197 @@
                 "The song is written for recorder and piano."
             ]
         }
+    ],
+    "rubicund": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having a healthy red or pink color in the face or skin",
+            "synonyms": [
+                "red",
+                "rosy",
+                "healthy",
+                "ruddy"
+            ],
+            "examples": [
+                "The old man was rubicund after the walk.",
+                "He looked rubicund after a warm bath."
+            ]
+        }
+    ],
+    "redolence": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a strong, noticeable smell",
+            "synonyms": [
+                "scent",
+                "odor",
+                "aroma",
+                "smell"
+            ],
+            "examples": [
+                "There was a redolence of citrus in the kitchen.",
+                "The redolence of smoke lingered after the fire."
+            ]
+        }
+    ],
+    "rhyme": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a word pattern where sounds at the end are similar",
+            "synonyms": [
+                "sound match",
+                "end rhyme"
+            ],
+            "examples": [
+                "The poem uses rhyme in every other line.",
+                "His speech ended with a clear rhyme."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to have similar sounds at the end, especially in poetry",
+            "synonyms": [
+                "match sounds",
+                "sound alike",
+                "end with similar sounds"
+            ],
+            "examples": [
+                "Cat and hat rhyme in English.",
+                "The two lines rhyme well together."
+            ]
+        }
+    ],
+    "rhinal": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "related to the nose or nose-related structures",
+            "synonyms": [
+                "nasal",
+                "nose-related",
+                "olfactory-related"
+            ],
+            "examples": [
+                "The doctor explained the rhinal passages and how they work.",
+                "Rhinal symptoms often include congestion."
+            ]
+        }
+    ],
+    "rhomb": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a geometric shape with four equal sides and opposite sides that are parallel",
+            "synonyms": [
+                "rhombus",
+                "diamond shape"
+            ],
+            "examples": [
+                "A rhomb has four sides of equal length.",
+                "They drew a rhomb on the worksheet."
+            ]
+        }
+    ],
+    "refectory": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a dining hall in a monastery or school where people eat meals together",
+            "synonyms": [
+                "dining hall",
+                "mess hall",
+                "eating hall"
+            ],
+            "examples": [
+                "The monks ate in the refectory every evening.",
+                "They served lunch in the refectory."
+            ]
+        }
+    ],
+    "rag": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a piece of old cloth used for cleaning or wiping",
+            "synonyms": [
+                "cloth",
+                "scrap",
+                "old cloth",
+                "tatter"
+            ],
+            "examples": [
+                "He wiped the table with a rag.",
+                "I found a rag in the toolbox."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a poor-quality newspaper or magazine, especially one considered low quality",
+            "synonyms": [
+                "paper",
+                "tabloid",
+                "low-quality magazine"
+            ],
+            "examples": [
+                "They dismissed the article as a rag.",
+                "The local rag reported the rumor as fact."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to tear or wear clothing so it becomes in poor condition",
+            "synonyms": [
+                "tear",
+                "wear",
+                "fray",
+                "damage"
+            ],
+            "examples": [
+                "The storm rags the sails.",
+                "Her jeans got ragged after years of use."
+            ]
+        }
+    ],
+    "roundshouldered": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having shoulders that curve forward rather than sit straight",
+            "synonyms": [
+                "hunched-shouldered",
+                "stooped",
+                "rounded"
+            ],
+            "examples": [
+                "After months of desk work, she developed a roundshouldered posture.",
+                "The doctor recommended exercises for a roundshouldered stance."
+            ]
+        }
+    ],
+    "rapture": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a very strong feeling of happiness or excitement",
+            "synonyms": [
+                "joy",
+                "ecstasy",
+                "delight",
+                "thrill"
+            ],
+            "examples": [
+                "She watched the parade in rapture.",
+                "He was in rapture when he heard the news."
+            ]
+        }
+    ],
+    "reedy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having a sound like reeds, often thin and sharp",
+            "synonyms": [
+                "thin-sounding",
+                "raspy",
+                "reedlike"
+            ],
+            "examples": [
+                "His reedy voice carried through the room.",
+                "The instrument sounded reedy in the recording."
+            ]
+        }
     ]
 }

@@ -3504,5 +3504,175 @@
                 "Despite setbacks, she stayed dogged."
             ]
         }
+    ],
+    "dint": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small hollow or mark made by pressure or impact",
+            "synonyms": [
+                "dent",
+                "impression",
+                "groove",
+                "indentation"
+            ],
+            "examples": [
+                "A falling key left a small dint on the table.",
+                "The boot heel made a dint in the mud."
+            ]
+        }
+    ],
+    "denture": [
+        {
+            "part_of_speech": "noun",
+            "definition": "false teeth that replace missing natural teeth",
+            "synonyms": [
+                "false teeth",
+                "prosthetic teeth",
+                "dentures",
+                "plate"
+            ],
+            "examples": [
+                "She got new dentures after her dentist checked her gums.",
+                "The dentures felt loose at first, but they later fit well."
+            ]
+        }
+    ],
+    "decision": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a choice made after thinking or considering options",
+            "synonyms": [
+                "choice",
+                "selection",
+                "determination",
+                "decision-making"
+            ],
+            "examples": [
+                "Making a decision took longer than expected.",
+                "They postponed their decision until next week."
+            ]
+        }
+    ],
+    "dolour": [
+        {
+            "part_of_speech": "noun",
+            "definition": "deep sadness or distress, especially when it lasts a long time",
+            "synonyms": [
+                "sorrow",
+                "sadness",
+                "misery",
+                "grief"
+            ],
+            "examples": [
+                "His paintings express dolour and loneliness.",
+                "The news brought dolour to the community."
+            ]
+        }
+    ],
+    "desolation": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a state of loneliness, emptiness, or sadness",
+            "synonyms": [
+                "emptiness",
+                "loneliness",
+                "ruin",
+                "despair"
+            ],
+            "examples": [
+                "The abandoned house looked like desolation.",
+                "The storm left the area in desolation."
+            ]
+        }
+    ],
+    "discredit": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make someone or something seem less trustworthy or less believable",
+            "synonyms": [
+                "undermine",
+                "damage",
+                "disprove",
+                "weaken"
+            ],
+            "examples": [
+                "The new evidence could discredit the witness.",
+                "Their actions discredited the organization."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "loss of respect or trust caused by bad information or behavior",
+            "synonyms": [
+                "loss of reputation",
+                "stigma",
+                "bad name",
+                "reputation damage"
+            ],
+            "examples": [
+                "The scandal brought discredit to the company.",
+                "The report caused discredit for the official."
+            ]
+        }
+    ],
+    "duplicate": [
+        {
+            "part_of_speech": "noun",
+            "definition": "an extra copy of something",
+            "synonyms": [
+                "copy",
+                "duplicate copy",
+                "replica",
+                "twin"
+            ],
+            "examples": [
+                "I printed a duplicate of the document.",
+                "The box contained the original and a duplicate."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make an exact copy of something",
+            "synonyms": [
+                "copy",
+                "replicate",
+                "reproduce",
+                "duplicate"
+            ],
+            "examples": [
+                "They duplicated the file for safety.",
+                "The printer can duplicate cards quickly."
+            ]
+        }
+    ],
+    "duchy": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a territory ruled by a duke or duchess",
+            "synonyms": [
+                "kingdom ruled by a duke",
+                "region",
+                "dukedom"
+            ],
+            "examples": [
+                "The duchy changed hands after the war.",
+                "He inherited a small duchy."
+            ]
+        }
+    ],
+    "decurve": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to remove a curve or make something less curved",
+            "synonyms": [
+                "straighten",
+                "flatten",
+                "reduce the curve"
+            ],
+            "examples": [
+                "Heat can decurve the wire and make it straight again.",
+                "After molding, the mold will decurve slightly."
+            ]
+        }
     ]
 }

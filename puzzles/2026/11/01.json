@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-01",
+    "groups": [
+        {
+            "id": "2026-11-01-g1",
+            "type": "synonym",
+            "difficulty": "easy",
+            "title": "thinness",
+            "words": [
+                "gaunt",
+                "haggard",
+                "meager",
+                "spare"
+            ]
+        },
+        {
+            "id": "2026-11-01-g2",
+            "type": "morphological_family",
+            "difficulty": "medium",
+            "title": "from bind",
+            "words": [
+                "band",
+                "bond",
+                "bundle",
+                "bundle"
+            ]
+        },
+        {
+            "id": "2026-11-01-g3",
+            "type": "etymological_relation",
+            "difficulty": "hard",
+            "title": "from tooth",
+            "words": [
+                "dent",
+                "dint",
+                "indent",
+                "denture"
+            ]
+        },
+        {
+            "id": "2026-11-01-g4",
+            "type": "physical_trait",
+            "difficulty": "very_hard",
+            "title": "surface textures",
+            "words": [
+                "nacreous",
+                "rugose",
+                "scabrous",
+                "sleek"
+            ]
+        }
+    ]
+}

@@ -2452,5 +2452,50 @@
                 "The printer hired an impositor for the job."
             ]
         }
+    ],
+    "infringe": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to break a law or rule, especially one that protects rights such as copyright",
+            "synonyms": [
+                "violate",
+                "break",
+                "trespass on",
+                "encroach on"
+            ],
+            "examples": [
+                "The company was accused of infringing copyright.",
+                "They changed the design to avoid infringing the patent."
+            ]
+        }
+    ],
+    "incurvate": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to curve inward or make less straight",
+            "synonyms": [
+                "curve inward",
+                "bend inward"
+            ],
+            "examples": [
+                "The hinge action can incurvate the panel slightly.",
+                "They adjusted the frame to incurvate its edge."
+            ]
+        }
+    ],
+    "interment": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the burial of a body in a grave",
+            "synonyms": [
+                "burial",
+                "inurnment",
+                "entombment"
+            ],
+            "examples": [
+                "The interment took place the following week.",
+                "They arranged the interment with the cemetery office."
+            ]
+        }
     ]
 }

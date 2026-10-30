@@ -449,5 +449,49 @@
                 "A quarto edition was released in the 1800s."
             ]
         }
+    ],
+    "quench": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to put out a fire or reduce something burning",
+            "synonyms": [
+                "extinguish",
+                "put out",
+                "suppress",
+                "stop"
+            ],
+            "examples": [
+                "Water was used to quench the fire.",
+                "The team worked to quench the flames quickly."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to satisfy thirst or dryness",
+            "synonyms": [
+                "satisfy",
+                "cool",
+                "relieve",
+                "ease"
+            ],
+            "examples": [
+                "Drink some water to quench your thirst.",
+                "A cold shower can quench the heat after exercise."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to stop a feeling or desire, especially strongly",
+            "synonyms": [
+                "suppress",
+                "reduce",
+                "restrain",
+                "calm"
+            ],
+            "examples": [
+                "Good news helped quench their worries.",
+                "He tried to quench the anger before it grew."
+            ]
+        }
     ]
 }

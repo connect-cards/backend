@@ -1089,5 +1089,109 @@
                 "He climbed oer the wall."
             ]
         }
+    ],
+    "outbid": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to offer a higher bid than someone else in an auction or bidding process",
+            "synonyms": [
+                "bid higher",
+                "top a bid",
+                "surpass"
+            ],
+            "examples": [
+                "Another buyer outbid us in the last minute.",
+                "She outbid him for the apartment."
+            ]
+        }
+    ],
+    "outgrow": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to become too old or too big for something you used in the past",
+            "synonyms": [
+                "grow out of",
+                "surpass",
+                "become too big for"
+            ],
+            "examples": [
+                "The children quickly outgrew their old shoes.",
+                "He outgrew his interest in video games."
+            ]
+        }
+    ],
+    "outlast": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to live longer than something or someone; to last for a longer time",
+            "synonyms": [
+                "survive",
+                "last longer than",
+                "outperform in duration"
+            ],
+            "examples": [
+                "The software might outlast the old computer.",
+                "Her strength outlasted the illness."
+            ]
+        }
+    ],
+    "outwit": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to defeat someone using clever thinking; to manage better than them",
+            "synonyms": [
+                "trick",
+                "manage better",
+                "beat",
+                "get the better of"
+            ],
+            "examples": [
+                "He outwitted the customer service system.",
+                "The team outwitted their opponents near the end."
+            ]
+        }
+    ],
+    "opal": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a gemstone known for its changing colors and milky appearance",
+            "synonyms": [
+                "gem",
+                "precious stone"
+            ],
+            "examples": [
+                "She wore an opal necklace to the event.",
+                "Opals can show different colors as the light changes."
+            ]
+        }
+    ],
+    "ovine": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "related to sheep or sheep meat",
+            "synonyms": [
+                "sheep-like",
+                "of sheep",
+                "sheep-related"
+            ],
+            "examples": [
+                "Ovine farmers often raise wool and lambs.",
+                "Ovine products require careful handling."
+            ]
+        }
+    ],
+    "okra": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a vegetable with long pods that are often used in cooking",
+            "synonyms": [
+                "okra plant",
+                "lady’s fingers"
+            ],
+            "examples": [
+                "They added okra to the stew.",
+                "Okra can be boiled, fried, or roasted."
+            ]
+        }
     ]
 }

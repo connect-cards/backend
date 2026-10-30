@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-05",
+    "groups": [
+        {
+            "id": "2026-11-05-g1",
+            "type": "physical_trait",
+            "difficulty": "easy",
+            "title": "thinness",
+            "words": [
+                "gaunt",
+                "lanky",
+                "sinewy",
+                "spare"
+            ]
+        },
+        {
+            "id": "2026-11-05-g2",
+            "type": "literary_register",
+            "difficulty": "medium",
+            "title": "old-fashioned words",
+            "words": [
+                "ere",
+                "hence",
+                "oft",
+                "whilst"
+            ]
+        },
+        {
+            "id": "2026-11-05-g3",
+            "type": "semantic_field",
+            "difficulty": "hard",
+            "title": "swamp landforms",
+            "words": [
+                "bog",
+                "fen",
+                "marsh",
+                "mere"
+            ]
+        },
+        {
+            "id": "2026-11-05-g4",
+            "type": "profession_domain",
+            "difficulty": "very_hard",
+            "title": "law practice",
+            "words": [
+                "tort",
+                "lien",
+                "estoppel",
+                "demurrer"
+            ]
+        }
+    ]
+}

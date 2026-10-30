@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-29",
+    "groups": [
+        {
+            "id": "2026-11-29-g1",
+            "type": "emotional_tone",
+            "difficulty": "easy",
+            "title": "sullen moods",
+            "words": [
+                "morose",
+                "glum",
+                "testy",
+                "wistful"
+            ]
+        },
+        {
+            "id": "2026-11-29-g2",
+            "type": "morphological_family",
+            "difficulty": "medium",
+            "title": "same ending",
+            "words": [
+                "fracture",
+                "mixture",
+                "posture",
+                "rapture"
+            ]
+        },
+        {
+            "id": "2026-11-29-g3",
+            "type": "physical_trait",
+            "difficulty": "hard",
+            "title": "thin textures",
+            "words": [
+                "gauzy",
+                "wiry",
+                "spindly",
+                "reedy"
+            ]
+        },
+        {
+            "id": "2026-11-29-g4",
+            "type": "sound_association",
+            "difficulty": "very_hard",
+            "title": "harsh cries",
+            "words": [
+                "skirl",
+                "screech",
+                "yowl",
+                "ululate"
+            ]
+        }
+    ]
+}

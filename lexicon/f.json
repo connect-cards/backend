@@ -2396,5 +2396,111 @@
                 "Handle the box carefully; the contents are frail."
             ]
         }
+    ],
+    "florid": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having an elaborate, colorful style or language",
+            "synonyms": [
+                "ornate",
+                "flowery",
+                "elaborate",
+                "showy"
+            ],
+            "examples": [
+                "His florid language made the speech hard to summarize.",
+                "The author uses florid descriptions of the city."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "having a red or pink color to the skin, often in a healthy way",
+            "synonyms": [
+                "rubicund",
+                "red",
+                "rosy",
+                "healthy-looking"
+            ],
+            "examples": [
+                "After the run, he looked florid and bright.",
+                "Her cheeks turned florid in the cold weather."
+            ]
+        }
+    ],
+    "flak": [
+        {
+            "part_of_speech": "noun",
+            "definition": "strong criticism or negative reactions",
+            "synonyms": [
+                "criticism",
+                "backlash",
+                "opposition",
+                "verbal attack"
+            ],
+            "examples": [
+                "She received flak for her decision.",
+                "The plan caused flak from local groups."
+            ]
+        }
+    ],
+    "funereal": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "connected with a funeral or death; showing a sad and serious mood",
+            "synonyms": [
+                "mourning",
+                "solemn",
+                "grief-stricken",
+                "funeral-like"
+            ],
+            "examples": [
+                "They wore funereal black for the service.",
+                "The news cast a funereal mood over the town."
+            ]
+        }
+    ],
+    "forsooth": [
+        {
+            "part_of_speech": "adverb",
+            "definition": "used to show surprise or to emphasize that something is true, often in a formal or old-fashioned way",
+            "synonyms": [
+                "indeed",
+                "certainly",
+                "truly",
+                "in fact"
+            ],
+            "examples": [
+                "Forsooth, the plan worked after all.",
+                "He said forsooth that he had never agreed."
+            ]
+        }
+    ],
+    "flux": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a substance that helps metals flow and join during soldering or welding",
+            "synonyms": [
+                "fluxing agent",
+                "soldering agent"
+            ],
+            "examples": [
+                "The technician applied flux before soldering.",
+                "Without flux, the metal would not bond easily."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a continual change or movement",
+            "synonyms": [
+                "change",
+                "variation",
+                "flow",
+                "movement"
+            ],
+            "examples": [
+                "The market is in constant flux.",
+                "The project is still in a state of flux."
+            ]
+        }
     ]
 }

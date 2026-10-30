@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-24",
+    "groups": [
+        {
+            "id": "2026-11-24-easy",
+            "type": "semantic_field",
+            "difficulty": "easy",
+            "title": "thinness",
+            "words": [
+                "gaunt",
+                "meager",
+                "scant",
+                "spare"
+            ]
+        },
+        {
+            "id": "2026-11-24-medium",
+            "type": "sound_association",
+            "difficulty": "medium",
+            "title": "initial rh",
+            "words": [
+                "rhyme",
+                "rheum",
+                "rhinal",
+                "rhomb"
+            ]
+        },
+        {
+            "id": "2026-11-24-hard",
+            "type": "thematic_association",
+            "difficulty": "hard",
+            "title": "monastery life",
+            "words": [
+                "tonsure",
+                "novitiate",
+                "cloister",
+                "refectory"
+            ]
+        },
+        {
+            "id": "2026-11-24-very_hard",
+            "type": "profession_domain",
+            "difficulty": "very_hard",
+            "title": "metalworking",
+            "words": [
+                "anneal",
+                "quench",
+                "flux",
+                "swage"
+            ]
+        }
+    ]
+}

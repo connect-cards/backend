@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-12",
+    "groups": [
+        {
+            "id": "2026-11-12-g1",
+            "type": "informal_register",
+            "difficulty": "easy",
+            "title": "reprimands",
+            "words": [
+                "flak",
+                "grief",
+                "static",
+                "heat"
+            ]
+        },
+        {
+            "id": "2026-11-12-g2",
+            "type": "semantic_field",
+            "difficulty": "medium",
+            "title": "smells",
+            "words": [
+                "aroma",
+                "bouquet",
+                "redolence",
+                "miasma"
+            ]
+        },
+        {
+            "id": "2026-11-12-g3",
+            "type": "synonym",
+            "difficulty": "hard",
+            "title": "stingy",
+            "words": [
+                "mean",
+                "niggardly",
+                "miserly",
+                "penurious"
+            ]
+        },
+        {
+            "id": "2026-11-12-g4",
+            "type": "literary_register",
+            "difficulty": "very_hard",
+            "title": "poetic dawn",
+            "words": [
+                "morn",
+                "aurora",
+                "daybreak",
+                "cockcrow"
+            ]
+        }
+    ]
+}

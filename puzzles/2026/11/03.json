@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-03",
+    "groups": [
+        {
+            "id": "2026-11-03-g1",
+            "type": "profession_domain",
+            "difficulty": "easy",
+            "title": "law",
+            "words": [
+                "brief",
+                "clerk",
+                "statute",
+                "tort"
+            ]
+        },
+        {
+            "id": "2026-11-03-g2",
+            "type": "morphological_family",
+            "difficulty": "medium",
+            "title": "from cut",
+            "words": [
+                "cinder",
+                "decision",
+                "incise",
+                "scissor"
+            ]
+        },
+        {
+            "id": "2026-11-03-g3",
+            "type": "etymological_relation",
+            "difficulty": "hard",
+            "title": "from carry",
+            "words": [
+                "car",
+                "charge",
+                "chariot",
+                "cargo"
+            ]
+        },
+        {
+            "id": "2026-11-03-g4",
+            "type": "semantic_field",
+            "difficulty": "very_hard",
+            "title": "harsh criticism",
+            "words": [
+                "diatribe",
+                "jeremiad",
+                "philippic",
+                "tirade"
+            ]
+        }
+    ]
+}

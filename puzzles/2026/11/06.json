@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-06",
+    "groups": [
+        {
+            "id": "2026-11-06-g1",
+            "type": "thematic_association",
+            "difficulty": "easy",
+            "title": "funeral items",
+            "words": [
+                "bier",
+                "coffin",
+                "shroud",
+                "urn"
+            ]
+        },
+        {
+            "id": "2026-11-06-g2",
+            "type": "physical_trait",
+            "difficulty": "medium",
+            "title": "reddish complexion",
+            "words": [
+                "florid",
+                "ruddy",
+                "rubicund",
+                "sanguine"
+            ]
+        },
+        {
+            "id": "2026-11-06-g3",
+            "type": "morphological_family",
+            "difficulty": "hard",
+            "title": "under prefixes",
+            "words": [
+                "underbid",
+                "undercut",
+                "underlie",
+                "underrate"
+            ]
+        },
+        {
+            "id": "2026-11-06-g4",
+            "type": "etymological_relation",
+            "difficulty": "very_hard",
+            "title": "from latin carry",
+            "words": [
+                "confer",
+                "defer",
+                "offer",
+                "suffer"
+            ]
+        }
+    ]
+}

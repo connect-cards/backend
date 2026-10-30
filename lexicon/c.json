@@ -6623,5 +6623,205 @@
                 "In the old shop, a compositor set the type by hand."
             ]
         }
+    ],
+    "cargo": [
+        {
+            "part_of_speech": "noun",
+            "definition": "goods or material being transported by ship, plane, or truck",
+            "synonyms": [
+                "freight",
+                "load",
+                "goods",
+                "shipment"
+            ],
+            "examples": [
+                "The ship carried food cargo.",
+                "Customs inspected the cargo before it was unloaded."
+            ]
+        }
+    ],
+    "coffin": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a box or case where a dead body is placed before burial",
+            "synonyms": [
+                "casket",
+                "tomb box",
+                "grave case"
+            ],
+            "examples": [
+                "They carried the coffin into the church.",
+                "The coffin was made of polished wood."
+            ]
+        }
+    ],
+    "coily": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "having tight coils or being shaped like coils",
+            "synonyms": [
+                "curly",
+                "coiled",
+                "winding"
+            ],
+            "examples": [
+                "The snake’s coily body moved quickly.",
+                "Her hair is naturally coily and thick."
+            ]
+        }
+    ],
+    "contumacious": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "refusing to obey rules or commands, especially in a stubborn way",
+            "synonyms": [
+                "disobedient",
+                "defiant",
+                "stubborn",
+                "rebellious"
+            ],
+            "examples": [
+                "The contumacious student refused to follow the rules.",
+                "The court found him contumacious."
+            ]
+        }
+    ],
+    "contour": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the outline or shape of something, especially the lines you can see from the outside",
+            "synonyms": [
+                "outline",
+                "shape",
+                "contour line",
+                "profile"
+            ],
+            "examples": [
+                "The contour of the hill was clearly visible.",
+                "The artist drew the contour of the face first."
+            ]
+        }
+    ],
+    "carping": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "constantly finding faults or making small negative comments",
+            "synonyms": [
+                "critical",
+                "fault-finding",
+                "nitpicking",
+                "picky"
+            ],
+            "examples": [
+                "Her carping remarks upset the team.",
+                "He was tired of carping about minor mistakes."
+            ]
+        }
+    ],
+    "catty": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "mean in a joking way, often speaking harshly about other people",
+            "synonyms": [
+                "spiteful",
+                "snide",
+                "mean",
+                "derisive"
+            ],
+            "examples": [
+                "She made catty comments about their clothes.",
+                "Don’t be catty just because you disagree."
+            ]
+        }
+    ],
+    "credo": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a set of beliefs or principles, especially in religion",
+            "synonyms": [
+                "belief system",
+                "doctrine",
+                "creed",
+                "principles"
+            ],
+            "examples": [
+                "Her credo is based on honesty and responsibility.",
+                "The book explains the author’s credo."
+            ]
+        }
+    ],
+    "cocky": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "too confident in a way that can seem rude or arrogant",
+            "synonyms": [
+                "arrogant",
+                "overconfident",
+                "conceited",
+                "uppity"
+            ],
+            "examples": [
+                "He sounded cocky after winning once.",
+                "Don’t be cocky about the results."
+            ]
+        }
+    ],
+    "creasy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "slightly wrinkled or creased; having small folds",
+            "synonyms": [
+                "creased",
+                "wrinkled",
+                "crumpled"
+            ],
+            "examples": [
+                "Her shirt looked creasy after travel.",
+                "The paper was creasy from being folded too many times."
+            ]
+        }
+    ],
+    "camber": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a slight upward curve or bend in something, such as a road or a beam",
+            "synonyms": [
+                "curve",
+                "bend",
+                "contour"
+            ],
+            "examples": [
+                "The camber of the road helps water run off.",
+                "Engineers measured the camber on the bridge."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to curve or shape slightly, especially to create an upward tilt",
+            "synonyms": [
+                "curve",
+                "bend",
+                "shape"
+            ],
+            "examples": [
+                "The designer cambered the beam to improve stability."
+            ]
+        }
+    ],
+    "copse": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small group of trees, especially one that grows densely",
+            "synonyms": [
+                "small wood",
+                "woodland",
+                "tree grove",
+                "stand of trees"
+            ],
+            "examples": [
+                "The trail went through a copse of birch trees.",
+                "They heard birds singing in the copse."
+            ]
+        }
     ]
 }

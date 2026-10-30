@@ -4114,5 +4114,224 @@
                 "My grandfather worked as a papermaker."
             ]
         }
+    ],
+    "philippic": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a strongly critical speech or writing against someone or something",
+            "synonyms": [
+                "attack",
+                "criticism",
+                "reproach",
+                "scathing speech"
+            ],
+            "examples": [
+                "The article was a philippic against corruption.",
+                "Her speech sounded like a philippic to the committee."
+            ]
+        }
+    ],
+    "prior": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "existing or happening before something else",
+            "synonyms": [
+                "previous",
+                "earlier",
+                "foregoing",
+                "former"
+            ],
+            "examples": [
+                "Please check the prior email for details.",
+                "He took prior experience into account."
+            ]
+        }
+    ],
+    "paragraph": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a distinct section of writing that deals with one topic, separated from other sections",
+            "synonyms": [
+                "section",
+                "piece of writing",
+                "chunk"
+            ],
+            "examples": [
+                "Write your name at the top of the first paragraph.",
+                "That paragraph explains the main idea clearly."
+            ]
+        }
+    ],
+    "plaintive": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "showing sadness in a worried or requesting way; sounding sorrowful",
+            "synonyms": [
+                "sad",
+                "sorrowful",
+                "mournful",
+                "yearning"
+            ],
+            "examples": [
+                "She made a plaintive call for help.",
+                "His plaintive voice made people listen."
+            ]
+        }
+    ],
+    "prefer": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to like one option more than another; to choose something instead",
+            "synonyms": [
+                "choose",
+                "favor",
+                "opt for",
+                "select"
+            ],
+            "examples": [
+                "I prefer tea to coffee.",
+                "We prefer to meet in the afternoon."
+            ]
+        }
+    ],
+    "plastered": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "covered with plaster or attached with plaster",
+            "synonyms": [
+                "covered with plaster",
+                "coated with plaster"
+            ],
+            "examples": [
+                "The wall was plastered with new paint after repair.",
+                "His ankle was plastered after the injury."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "very drunk",
+            "synonyms": [
+                "drunk",
+                "intoxicated",
+                "sloppy drunk"
+            ],
+            "examples": [
+                "She was plastered by midnight and couldn’t drive home. ",
+                "He got plastered at the celebration."
+            ]
+        }
+    ],
+    "polyglot": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a person who knows and uses several languages",
+            "synonyms": [
+                "multilingual person",
+                "language learner",
+                "polylingual speaker"
+            ],
+            "examples": [
+                "She is a polyglot who can speak five languages.",
+                "The polyglot worked as a translator."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "able to use several languages",
+            "synonyms": [
+                "multilingual",
+                "many-languaged",
+                "polylingual"
+            ],
+            "examples": [
+                "He found a polyglot guide for the trip.",
+                "They hired a polyglot teacher."
+            ]
+        }
+    ],
+    "plait": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a braid made by crossing strands of hair, rope, or yarn",
+            "synonyms": [
+                "braid",
+                "braiding",
+                "tress"
+            ],
+            "examples": [
+                "Her hair was in a plait.",
+                "The sailor tied a plait of rope around the pole."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a plait or braid by crossing strands",
+            "synonyms": [
+                "braid",
+                "weave",
+                "interlace"
+            ],
+            "examples": [
+                "She plaited her hair for the day.",
+                "The craft requires you to plait three cords together."
+            ]
+        }
+    ],
+    "pliant": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "easy to bend or adjust; not stiff or resistant",
+            "synonyms": [
+                "flexible",
+                "adaptable",
+                "bendable",
+                "malleable"
+            ],
+            "examples": [
+                "The plant has pliant stems that bend in the wind.",
+                "You can make the wire more pliant by heating it."
+            ]
+        }
+    ],
+    "posture": [
+        {
+            "part_of_speech": "noun",
+            "definition": "the position of your body or how you stand or sit",
+            "synonyms": [
+                "stance",
+                "position",
+                "body position"
+            ],
+            "examples": [
+                "Good posture can reduce back pain.",
+                "He changed his posture after the long drive."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "an attitude or way of presenting yourself, especially to suggest a certain belief or mood",
+            "synonyms": [
+                "stance",
+                "attitude",
+                "positioning"
+            ],
+            "examples": [
+                "She adopted a confident posture in the interview.",
+                "The company’s public posture changed after the scandal."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to hold or arrange your body in a certain way",
+            "synonyms": [
+                "pose",
+                "position",
+                "adopt a stance"
+            ],
+            "examples": [
+                "He posed for the photo and adjusted his posture.",
+                "She postured like she was ready to argue."
+            ]
+        }
     ]
 }

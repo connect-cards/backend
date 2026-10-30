@@ -7828,5 +7828,251 @@
                 "She met her solicitor to discuss the case."
             ]
         }
+    ],
+    "sinuous": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "curving and twisting in a smooth way",
+            "synonyms": [
+                "curving",
+                "winding",
+                "meandering",
+                "snakelike"
+            ],
+            "examples": [
+                "The sinuous road followed the river.",
+                "In the map, the coast looked sinuous."
+            ]
+        }
+    ],
+    "sanguine": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "confident and hopeful about the future, especially in a difficult situation",
+            "synonyms": [
+                "optimistic",
+                "hopeful",
+                "positive",
+                "cheerful"
+            ],
+            "examples": [
+                "She stayed sanguine even after the bad news.",
+                "He was sanguine that the plan would work."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "marked by or having the color of blood; red",
+            "synonyms": [
+                "blood-red",
+                "red",
+                "ruddy"
+            ],
+            "examples": [
+                "The painting used sanguine tones.",
+                "Her dress was a sanguine red."
+            ]
+        }
+    ],
+    "static": [
+        {
+            "part_of_speech": "noun",
+            "definition": "unwanted electrical noise that interferes with radio or audio signals",
+            "synonyms": [
+                "interference",
+                "noise",
+                "hiss",
+                "crackling"
+            ],
+            "examples": [
+                "There was static on the radio so we couldn’t hear clearly.",
+                "The call cut out because of static."
+            ]
+        },
+        {
+            "part_of_speech": "adjective",
+            "definition": "not changing; fixed in position or form",
+            "synonyms": [
+                "unchanging",
+                "fixed",
+                "still",
+                "motionless"
+            ],
+            "examples": [
+                "The camera showed a static image.",
+                "The diagram is static and has no animation."
+            ]
+        }
+    ],
+    "shrill": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "high-pitched and unpleasant to hear",
+            "synonyms": [
+                "screeching",
+                "piercing",
+                "sharp",
+                "high-pitched"
+            ],
+            "examples": [
+                "The alarm sounded shrill and loud.",
+                "He complained about the shrill whistle."
+            ]
+        }
+    ],
+    "sarky": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "using sarcasm, often in a mocking or teasing way",
+            "synonyms": [
+                "sarcastic",
+                "snide",
+                "witty but mocking"
+            ],
+            "examples": [
+                "He gave a sarky reply when they asked for help.",
+                "Her sarky tone made the conversation uncomfortable."
+            ]
+        }
+    ],
+    "soliloquy": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a speech in a play where a character talks to themselves, usually to show their thoughts",
+            "synonyms": [
+                "speech",
+                "monologue",
+                "inner speech"
+            ],
+            "examples": [
+                "The actor delivered a soliloquy before making his decision.",
+                "Her soliloquy revealed her fears."
+            ]
+        }
+    ],
+    "scuzzy": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "dirty, unpleasant, and in a run-down condition",
+            "synonyms": [
+                "filthy",
+                "sloppy",
+                "seedy",
+                "grubby"
+            ],
+            "examples": [
+                "The hallway looked scuzzy after the rain.",
+                "They moved out because the apartment was too scuzzy."
+            ]
+        }
+    ],
+    "subterranean": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "located, happening, or operating underground",
+            "synonyms": [
+                "underground",
+                "below ground",
+                "subsurface"
+            ],
+            "examples": [
+                "They built a subterranean parking garage.",
+                "The museum has subterranean rooms for storage."
+            ]
+        }
+    ],
+    "sloshed": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "drunk in a way that makes you unsteady",
+            "synonyms": [
+                "drunk",
+                "intoxicated",
+                "boozed-up",
+                "wasted"
+            ],
+            "examples": [
+                "He came home sloshed and fell asleep early.",
+                "They were sloshed after the party."
+            ]
+        }
+    ],
+    "succumb": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to fail to resist something, or to be defeated by it",
+            "synonyms": [
+                "yield",
+                "give in",
+                "capitulate",
+                "fall to"
+            ],
+            "examples": [
+                "She succumbed to the pressure and agreed.",
+                "Many people succumbed to the illness during the outbreak."
+            ]
+        }
+    ],
+    "swage": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to shape metal by pressing it into a die or form",
+            "synonyms": [
+                "shape",
+                "press",
+                "mould",
+                "form"
+            ],
+            "examples": [
+                "They swaged the rod to fit the connector.",
+                "A machine swaged the wire into a stronger shape."
+            ]
+        }
+    ],
+    "squawk": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a loud, harsh sound, like a bird",
+            "synonyms": [
+                "screech",
+                "squall",
+                "chirp loudly",
+                "cry out"
+            ],
+            "examples": [
+                "The parrot squawked when the door opened.",
+                "She squawked in surprise."
+            ]
+        },
+        {
+            "part_of_speech": "noun",
+            "definition": "a loud, harsh cry or sound",
+            "synonyms": [
+                "screech",
+                "cry",
+                "squall",
+                "harsh call"
+            ],
+            "examples": [
+                "We heard a squawk from outside.",
+                "The dog’s squawk lasted only a few seconds."
+            ]
+        }
+    ],
+    "smug": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "self-satisfied in a way that can seem unpleasant or unfair",
+            "synonyms": [
+                "self-satisfied",
+                "pleased with oneself",
+                "arrogant",
+                "conceited"
+            ],
+            "examples": [
+                "He looked smug after the argument.",
+                "Don’t be smug just because you got the answer first."
+            ]
+        }
     ]
 }

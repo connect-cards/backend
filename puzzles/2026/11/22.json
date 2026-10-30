@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-22",
+    "groups": [
+        {
+            "id": "2026-11-22-easy",
+            "type": "thematic_association",
+            "difficulty": "easy",
+            "title": "ship parts",
+            "words": [
+                "keel",
+                "mast",
+                "prow",
+                "stern"
+            ]
+        },
+        {
+            "id": "2026-11-22-medium",
+            "type": "morphological_family",
+            "difficulty": "medium",
+            "title": "fold forms",
+            "words": [
+                "plait",
+                "pliant",
+                "comply",
+                "duplicate"
+            ]
+        },
+        {
+            "id": "2026-11-22-hard",
+            "type": "etymological_relation",
+            "difficulty": "hard",
+            "title": "lead roots",
+            "words": [
+                "duct",
+                "aqueduct",
+                "induct",
+                "duchy"
+            ]
+        },
+        {
+            "id": "2026-11-22-very_hard",
+            "type": "sound_association",
+            "difficulty": "very_hard",
+            "title": "initial ps",
+            "words": [
+                "psalm",
+                "pshaw",
+                "psyche",
+                "ptisan"
+            ]
+        }
+    ]
+}

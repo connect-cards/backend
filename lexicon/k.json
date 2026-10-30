@@ -434,5 +434,137 @@
                 "He heard a keen whistle in the distance."
             ]
         }
+    ],
+    "knell": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a sound of a bell, especially one rung for a death or a serious warning",
+            "synonyms": [
+                "bell sound",
+                "death bell",
+                "warning bell"
+            ],
+            "examples": [
+                "The knell rang as the service began.",
+                "The knell of the church bell could be heard across the town."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to mark or signal the end or destruction of something, often in a serious way",
+            "synonyms": [
+                "signal the end",
+                "mark the end",
+                "doom",
+                "end"
+            ],
+            "examples": [
+                "The scandal began to knell his career.",
+                "The announcement knelled any chance of recovery."
+            ]
+        }
+    ],
+    "knead": [
+        {
+            "part_of_speech": "verb",
+            "definition": "to press and fold dough or another soft mixture repeatedly",
+            "synonyms": [
+                "work",
+                "press",
+                "massage",
+                "mix thoroughly"
+            ],
+            "examples": [
+                "Knead the dough for ten minutes.",
+                "She kneaded the bread until it became smooth."
+            ]
+        }
+    ],
+    "knurl": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a small pattern of rough ridges on a surface, often to help gripping",
+            "synonyms": [
+                "groove pattern",
+                "textured ridges",
+                "grip pattern"
+            ],
+            "examples": [
+                "The handle has a knurl for better grip.",
+                "He turned the tool until the knurl caught the light."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to make a knurled, ridged grip on a metal surface",
+            "synonyms": [
+                "texture",
+                "engrave ridges",
+                "machine ridges"
+            ],
+            "examples": [
+                "They knurled the metal knob to make it easier to hold.",
+                "The worker knurled the shaft before attaching the handle."
+            ]
+        }
+    ],
+    "knout": [
+        {
+            "part_of_speech": "noun",
+            "definition": "a whip, especially one used as punishment",
+            "synonyms": [
+                "whip",
+                "lash",
+                "scourge"
+            ],
+            "examples": [
+                "In the story, the old law allowed a knout.",
+                "The knout was described as a brutal form of punishment."
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "definition": "to whip or punish with a knout",
+            "synonyms": [
+                "whip",
+                "lash",
+                "scourge"
+            ],
+            "examples": [
+                "The cruel official threatened to knout anyone who disobeyed."
+            ]
+        }
+    ],
+    "knobbly": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "rough with small bumps or irregular lumps",
+            "synonyms": [
+                "bumpy",
+                "lumpy",
+                "knotted",
+                "rough"
+            ],
+            "examples": [
+                "The road became knobbly after the rain.",
+                "He felt knobbly parts on the surface."
+            ]
+        }
+    ],
+    "knowing": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "showing that you understand something, often in a quiet or private way",
+            "synonyms": [
+                "aware",
+                "understanding",
+                "perceptive",
+                "witty"
+            ],
+            "examples": [
+                "He gave a knowing smile when she mentioned the plan.",
+                "I didn’t expect such a knowing comment from him."
+            ]
+        }
     ]
 }

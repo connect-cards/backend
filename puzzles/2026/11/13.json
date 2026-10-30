@@ -1,0 +1,53 @@
+{
+    "date": "2026-11-13",
+    "groups": [
+        {
+            "id": "2026-11-13-g1",
+            "type": "physical_trait",
+            "difficulty": "easy",
+            "title": "body builds",
+            "words": [
+                "gaunt",
+                "burly",
+                "lithe",
+                "stooped"
+            ]
+        },
+        {
+            "id": "2026-11-13-g2",
+            "type": "informal_register",
+            "difficulty": "medium",
+            "title": "casual rebukes",
+            "words": [
+                "baloney",
+                "nonsense",
+                "hogwash",
+                "rot"
+            ]
+        },
+        {
+            "id": "2026-11-13-g3",
+            "type": "literary_register",
+            "difficulty": "hard",
+            "title": "poetic sadness",
+            "words": [
+                "dolor",
+                "ennui",
+                "weltschmerz",
+                "desolation"
+            ]
+        },
+        {
+            "id": "2026-11-13-g4",
+            "type": "etymological_relation",
+            "difficulty": "very_hard",
+            "title": "born words",
+            "words": [
+                "natal",
+                "nascent",
+                "nation",
+                "innate"
+            ]
+        }
+    ]
+}
