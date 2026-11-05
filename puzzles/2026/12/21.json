@@ -1,0 +1,53 @@
+{
+    "date": "2026-12-21",
+    "groups": [
+        {
+            "id": "2026-12-21-g1",
+            "type": "etymological_relation",
+            "difficulty": "easy",
+            "title": "river mouths",
+            "words": [
+                "delta",
+                "estuary",
+                "mouth",
+                "outlet"
+            ]
+        },
+        {
+            "id": "2026-12-21-g2",
+            "type": "informal_register",
+            "difficulty": "medium",
+            "title": "criticize harshly",
+            "words": [
+                "slam",
+                "trash",
+                "torch",
+                "roast"
+            ]
+        },
+        {
+            "id": "2026-12-21-g3",
+            "type": "thematic_association",
+            "difficulty": "hard",
+            "title": "rhetorical devices",
+            "words": [
+                "irony",
+                "litotes",
+                "metaphor",
+                "zeugma"
+            ]
+        },
+        {
+            "id": "2026-12-21-g4",
+            "type": "sound_association",
+            "difficulty": "very_hard",
+            "title": "start with gl",
+            "words": [
+                "glaive",
+                "glans",
+                "glebe",
+                "gloze"
+            ]
+        }
+    ]
+}

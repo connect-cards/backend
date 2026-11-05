@@ -1,0 +1,53 @@
+{
+    "date": "2026-12-09",
+    "groups": [
+        {
+            "id": "2026-12-09-g1",
+            "type": "emotional_tone",
+            "difficulty": "easy",
+            "title": "gloomy moods",
+            "words": [
+                "bleak",
+                "sullen",
+                "morose",
+                "glum"
+            ]
+        },
+        {
+            "id": "2026-12-09-g2",
+            "type": "sound_association",
+            "difficulty": "medium",
+            "title": "harsh sounds",
+            "words": [
+                "clang",
+                "clatter",
+                "racket",
+                "din"
+            ]
+        },
+        {
+            "id": "2026-12-09-g3",
+            "type": "informal_register",
+            "difficulty": "hard",
+            "title": "worthless stuff",
+            "words": [
+                "junk",
+                "tat",
+                "dreck",
+                "dross"
+            ]
+        },
+        {
+            "id": "2026-12-09-g4",
+            "type": "profession_domain",
+            "difficulty": "very_hard",
+            "title": "printer's marks",
+            "words": [
+                "serif",
+                "kern",
+                "leading",
+                "ligature"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "date": "2026-12-15",
+    "groups": [
+        {
+            "id": "2026-12-15-g1",
+            "type": "synonym",
+            "difficulty": "easy",
+            "title": "briefly visible",
+            "words": [
+                "fleeting",
+                "evanescent",
+                "momentary",
+                "transient"
+            ]
+        },
+        {
+            "id": "2026-12-15-g2",
+            "type": "literary_register",
+            "difficulty": "medium",
+            "title": "lament words",
+            "words": [
+                "alas",
+                "alack",
+                "woe",
+                "forlorn"
+            ]
+        },
+        {
+            "id": "2026-12-15-g3",
+            "type": "morphological_family",
+            "difficulty": "hard",
+            "title": "root write",
+            "words": [
+                "scribe",
+                "inscribe",
+                "script",
+                "scrivener"
+            ]
+        },
+        {
+            "id": "2026-12-15-g4",
+            "type": "profession_domain",
+            "difficulty": "very_hard",
+            "title": "falconry gear",
+            "words": [
+                "jess",
+                "lure",
+                "creance",
+                "mews"
+            ]
+        }
+    ]
+}

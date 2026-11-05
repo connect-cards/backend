@@ -1,0 +1,53 @@
+{
+    "date": "2026-12-25",
+    "groups": [
+        {
+            "id": "2026-12-25-g1",
+            "type": "profession_domain",
+            "difficulty": "easy",
+            "title": "stage work",
+            "words": [
+                "rehearsal",
+                "audition",
+                "costume",
+                "prop"
+            ]
+        },
+        {
+            "id": "2026-12-25-g2",
+            "type": "sound_association",
+            "difficulty": "medium",
+            "title": "harsh noises",
+            "words": [
+                "clang",
+                "clatter",
+                "scrape",
+                "rattle"
+            ]
+        },
+        {
+            "id": "2026-12-25-g3",
+            "type": "synonym",
+            "difficulty": "hard",
+            "title": "stinginess",
+            "words": [
+                "frugality",
+                "parsimony",
+                "niggardliness",
+                "thrift"
+            ]
+        },
+        {
+            "id": "2026-12-25-g4",
+            "type": "semantic_field",
+            "difficulty": "very_hard",
+            "title": "ancient writing",
+            "words": [
+                "stylus",
+                "papyrus",
+                "codex",
+                "vellum"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "date": "2026-12-01",
+    "groups": [
+        {
+            "id": "2026-12-01-g1",
+            "type": "sound_association",
+            "difficulty": "easy",
+            "title": "bell sounds",
+            "words": [
+                "clang",
+                "peal",
+                "toll",
+                "chime"
+            ]
+        },
+        {
+            "id": "2026-12-01-g2",
+            "type": "physical_trait",
+            "difficulty": "medium",
+            "title": "surface textures",
+            "words": [
+                "sleek",
+                "coarse",
+                "supple",
+                "gritty"
+            ]
+        },
+        {
+            "id": "2026-12-01-g3",
+            "type": "thematic_association",
+            "difficulty": "hard",
+            "title": "monastic life",
+            "words": [
+                "abbey",
+                "cloister",
+                "novitiate",
+                "tonsure"
+            ]
+        },
+        {
+            "id": "2026-12-01-g4",
+            "type": "profession_domain",
+            "difficulty": "very_hard",
+            "title": "heraldry",
+            "words": [
+                "blazon",
+                "escutcheon",
+                "gules",
+                "bend"
+            ]
+        }
+    ]
+}

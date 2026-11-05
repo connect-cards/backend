@@ -1,0 +1,53 @@
+{
+    "date": "2026-12-13",
+    "groups": [
+        {
+            "id": "2026-12-13-g1",
+            "type": "etymological_relation",
+            "difficulty": "easy",
+            "title": "flower words",
+            "words": [
+                "flourish",
+                "effloresce",
+                "blossom",
+                "deflower"
+            ]
+        },
+        {
+            "id": "2026-12-13-g2",
+            "type": "literary_register",
+            "difficulty": "medium",
+            "title": "old pronouns",
+            "words": [
+                "thou",
+                "thee",
+                "thy",
+                "thine"
+            ]
+        },
+        {
+            "id": "2026-12-13-g3",
+            "type": "profession_domain",
+            "difficulty": "hard",
+            "title": "seamstress tools",
+            "words": [
+                "thimble",
+                "bodkin",
+                "selvedge",
+                "basting"
+            ]
+        },
+        {
+            "id": "2026-12-13-g4",
+            "type": "physical_trait",
+            "difficulty": "very_hard",
+            "title": "sunken eyes",
+            "words": [
+                "hollow",
+                "hagard",
+                "cadaverous",
+                "sunk"
+            ]
+        }
+    ]
+}

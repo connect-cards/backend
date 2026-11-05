@@ -1,0 +1,53 @@
+{
+    "date": "2026-12-29",
+    "groups": [
+        {
+            "id": "2026-12-29-g1",
+            "type": "physical_trait",
+            "difficulty": "easy",
+            "title": "hair textures",
+            "words": [
+                "curly",
+                "wavy",
+                "coarse",
+                "silky"
+            ]
+        },
+        {
+            "id": "2026-12-29-g2",
+            "type": "semantic_field",
+            "difficulty": "medium",
+            "title": "marsh plants",
+            "words": [
+                "reed",
+                "sedge",
+                "rush",
+                "bulrush"
+            ]
+        },
+        {
+            "id": "2026-12-29-g3",
+            "type": "informal_register",
+            "difficulty": "hard",
+            "title": "petty theft",
+            "words": [
+                "swipe",
+                "filch",
+                "snitch",
+                "nab"
+            ]
+        },
+        {
+            "id": "2026-12-29-g4",
+            "type": "profession_domain",
+            "difficulty": "very_hard",
+            "title": "printing type",
+            "words": [
+                "serif",
+                "ligature",
+                "kerning",
+                "ascender"
+            ]
+        }
+    ]
+}

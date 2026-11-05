@@ -1,0 +1,53 @@
+{
+    "date": "2026-12-24",
+    "groups": [
+        {
+            "id": "2026-12-24-g1",
+            "type": "thematic_association",
+            "difficulty": "easy",
+            "title": "sewing tools",
+            "words": [
+                "bobbin",
+                "thimble",
+                "needle",
+                "shears"
+            ]
+        },
+        {
+            "id": "2026-12-24-g2",
+            "type": "synonym",
+            "difficulty": "medium",
+            "title": "gloomy",
+            "words": [
+                "bleak",
+                "dour",
+                "morose",
+                "sullen"
+            ]
+        },
+        {
+            "id": "2026-12-24-g3",
+            "type": "etymological_relation",
+            "difficulty": "hard",
+            "title": "greek prefixes",
+            "words": [
+                "apogee",
+                "aporia",
+                "apostate",
+                "apothegm"
+            ]
+        },
+        {
+            "id": "2026-12-24-g4",
+            "type": "sound_association",
+            "difficulty": "very_hard",
+            "title": "end with ne",
+            "words": [
+                "amine",
+                "bovine",
+                "gamine",
+                "ravine"
+            ]
+        }
+    ]
+}

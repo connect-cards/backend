@@ -1,0 +1,53 @@
+{
+    "date": "2026-12-11",
+    "groups": [
+        {
+            "id": "2026-12-11-g1",
+            "type": "sound_association",
+            "difficulty": "easy",
+            "title": "soft sounds",
+            "words": [
+                "murmur",
+                "rustle",
+                "whisper",
+                "susurrus"
+            ]
+        },
+        {
+            "id": "2026-12-11-g2",
+            "type": "literary_register",
+            "difficulty": "medium",
+            "title": "old pronouns",
+            "words": [
+                "thou",
+                "thee",
+                "thy",
+                "thine"
+            ]
+        },
+        {
+            "id": "2026-12-11-g3",
+            "type": "morphological_family",
+            "difficulty": "hard",
+            "title": "see forms",
+            "words": [
+                "see",
+                "saw",
+                "seen",
+                "seeing"
+            ]
+        },
+        {
+            "id": "2026-12-11-g4",
+            "type": "thematic_association",
+            "difficulty": "very_hard",
+            "title": "ancient writing",
+            "words": [
+                "stylus",
+                "tablet",
+                "papyrus",
+                "vellum"
+            ]
+        }
+    ]
+}
