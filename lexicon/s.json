@@ -8074,5 +8074,21 @@
                 "Don’t be smug just because you got the answer first."
             ]
         }
+    ],
+    "supple": [
+        {
+            "part_of_speech": "adjective",
+            "definition": "able to bend easily without breaking; flexible and not stiff",
+            "synonyms": [
+                "flexible",
+                "pliable",
+                "limber",
+                "elastic"
+            ],
+            "examples": [
+                "The young willow tree is very supple.",
+                "After stretching, my back feels more supple."
+            ]
+        }
     ]
 }

@@ -1,0 +1,53 @@
+{
+    "date": "2026-12-30",
+    "groups": [
+        {
+            "id": "2026-12-30-g1",
+            "type": "literary_register",
+            "difficulty": "easy",
+            "title": "poetic dawn",
+            "words": [
+                "morn",
+                "aurora",
+                "daybreak",
+                "sunrise"
+            ]
+        },
+        {
+            "id": "2026-12-30-g2",
+            "type": "thematic_association",
+            "difficulty": "medium",
+            "title": "shipwreck imagery",
+            "words": [
+                "flotsam",
+                "jetsam",
+                "wreckage",
+                "driftwood"
+            ]
+        },
+        {
+            "id": "2026-12-30-g3",
+            "type": "sound_association",
+            "difficulty": "hard",
+            "title": "harsh cries",
+            "words": [
+                "screech",
+                "shriek",
+                "skirl",
+                "squall"
+            ]
+        },
+        {
+            "id": "2026-12-30-g4",
+            "type": "emotional_tone",
+            "difficulty": "very_hard",
+            "title": "brooding mood",
+            "words": [
+                "lugubrious",
+                "morose",
+                "sullen",
+                "saturnine"
+            ]
+        }
+    ]
+}

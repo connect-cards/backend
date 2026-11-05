@@ -1,0 +1,53 @@
+{
+    "date": "2026-12-17",
+    "groups": [
+        {
+            "id": "2026-12-17-g1",
+            "type": "informal_register",
+            "difficulty": "easy",
+            "title": "drunks",
+            "words": [
+                "souse",
+                "lush",
+                "wino",
+                "soak"
+            ]
+        },
+        {
+            "id": "2026-12-17-g2",
+            "type": "synonym",
+            "difficulty": "medium",
+            "title": "harshness",
+            "words": [
+                "austerity",
+                "rigor",
+                "severity",
+                "stringency"
+            ]
+        },
+        {
+            "id": "2026-12-17-g3",
+            "type": "etymological_relation",
+            "difficulty": "hard",
+            "title": "born words",
+            "words": [
+                "nascent",
+                "native",
+                "nation",
+                "natal"
+            ]
+        },
+        {
+            "id": "2026-12-17-g4",
+            "type": "sound_association",
+            "difficulty": "very_hard",
+            "title": "silent initial letters",
+            "words": [
+                "gnomon",
+                "psalm",
+                "ptarmigan",
+                "wrack"
+            ]
+        }
+    ]
+}

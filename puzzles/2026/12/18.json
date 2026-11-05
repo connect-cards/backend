@@ -1,0 +1,53 @@
+{
+    "date": "2026-12-18",
+    "groups": [
+        {
+            "id": "2026-12-18-g1",
+            "type": "synonym",
+            "difficulty": "easy",
+            "title": "refuse",
+            "words": [
+                "decline",
+                "rebuff",
+                "spurn",
+                "reject"
+            ]
+        },
+        {
+            "id": "2026-12-18-g2",
+            "type": "semantic_field",
+            "difficulty": "medium",
+            "title": "stage speech",
+            "words": [
+                "aside",
+                "soliloquy",
+                "cue",
+                "prompt"
+            ]
+        },
+        {
+            "id": "2026-12-18-g3",
+            "type": "morphological_family",
+            "difficulty": "hard",
+            "title": "able forms",
+            "words": [
+                "mutable",
+                "tractable",
+                "tenable",
+                "friable"
+            ]
+        },
+        {
+            "id": "2026-12-18-g4",
+            "type": "etymological_relation",
+            "difficulty": "very_hard",
+            "title": "carry roots",
+            "words": [
+                "metaphor",
+                "anaphora",
+                "diaphanous",
+                "semaphore"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "date": "2026-12-22",
+    "groups": [
+        {
+            "id": "2026-12-22-g1",
+            "type": "physical_trait",
+            "difficulty": "easy",
+            "title": "rough texture",
+            "words": [
+                "coarse",
+                "gritty",
+                "jagged",
+                "scratchy"
+            ]
+        },
+        {
+            "id": "2026-12-22-g2",
+            "type": "thematic_association",
+            "difficulty": "medium",
+            "title": "candle parts",
+            "words": [
+                "tallow",
+                "wick",
+                "flame",
+                "sconce"
+            ]
+        },
+        {
+            "id": "2026-12-22-g3",
+            "type": "etymological_relation",
+            "difficulty": "hard",
+            "title": "latin borrowings",
+            "words": [
+                "sinecure",
+                "votary",
+                "pulchritude",
+                "querulous"
+            ]
+        },
+        {
+            "id": "2026-12-22-g4",
+            "type": "sound_association",
+            "difficulty": "very_hard",
+            "title": "end with x",
+            "words": [
+                "calix",
+                "cervix",
+                "fornix",
+                "thorax"
+            ]
+        }
+    ]
+}

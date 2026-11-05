@@ -1,0 +1,53 @@
+{
+    "date": "2026-12-16",
+    "groups": [
+        {
+            "id": "2026-12-16-g1",
+            "type": "physical_trait",
+            "difficulty": "easy",
+            "title": "rough skin",
+            "words": [
+                "calloused",
+                "chapped",
+                "scaly",
+                "weathered"
+            ]
+        },
+        {
+            "id": "2026-12-16-g2",
+            "type": "synonym",
+            "difficulty": "medium",
+            "title": "careful",
+            "words": [
+                "wary",
+                "circumspect",
+                "heedful",
+                "chary"
+            ]
+        },
+        {
+            "id": "2026-12-16-g3",
+            "type": "thematic_association",
+            "difficulty": "hard",
+            "title": "monastery life",
+            "words": [
+                "cloister",
+                "tonsure",
+                "novitiate",
+                "matins"
+            ]
+        },
+        {
+            "id": "2026-12-16-g4",
+            "type": "emotional_tone",
+            "difficulty": "very_hard",
+            "title": "mocking tone",
+            "words": [
+                "arch",
+                "sardonic",
+                "wry",
+                "supercilious"
+            ]
+        }
+    ]
+}

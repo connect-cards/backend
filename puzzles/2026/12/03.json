@@ -1,0 +1,53 @@
+{
+    "date": "2026-12-03",
+    "groups": [
+        {
+            "id": "2026-12-03-g1",
+            "type": "literary_register",
+            "difficulty": "easy",
+            "title": "poetic contractions",
+            "words": [
+                "oer",
+                "neer",
+                "tis",
+                "twas"
+            ]
+        },
+        {
+            "id": "2026-12-03-g2",
+            "type": "morphological_family",
+            "difficulty": "medium",
+            "title": "carry forms",
+            "words": [
+                "bear",
+                "borne",
+                "birth",
+                "burden"
+            ]
+        },
+        {
+            "id": "2026-12-03-g3",
+            "type": "synonym",
+            "difficulty": "hard",
+            "title": "briefly visible",
+            "words": [
+                "fleeting",
+                "evanescent",
+                "transient",
+                "fugitive"
+            ]
+        },
+        {
+            "id": "2026-12-03-g4",
+            "type": "physical_trait",
+            "difficulty": "very_hard",
+            "title": "hooked shapes",
+            "words": [
+                "uncinate",
+                "falcate",
+                "hamate",
+                "arcuate"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "date": "2026-12-10",
+    "groups": [
+        {
+            "id": "2026-12-10-g1",
+            "type": "morphological_family",
+            "difficulty": "easy",
+            "title": "carry forms",
+            "words": [
+                "bear",
+                "bore",
+                "borne",
+                "bearing"
+            ]
+        },
+        {
+            "id": "2026-12-10-g2",
+            "type": "informal_register",
+            "difficulty": "medium",
+            "title": "boast",
+            "words": [
+                "crow",
+                "brag",
+                "bluster",
+                "gasconade"
+            ]
+        },
+        {
+            "id": "2026-12-10-g3",
+            "type": "profession_domain",
+            "difficulty": "hard",
+            "title": "surgery tools",
+            "words": [
+                "scalpel",
+                "forceps",
+                "retractor",
+                "trocar"
+            ]
+        },
+        {
+            "id": "2026-12-10-g4",
+            "type": "thematic_association",
+            "difficulty": "very_hard",
+            "title": "swamp landforms",
+            "words": [
+                "bog",
+                "fen",
+                "mire",
+                "morass"
+            ]
+        }
+    ]
+}

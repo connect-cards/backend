@@ -1,0 +1,53 @@
+{
+    "date": "2026-12-28",
+    "groups": [
+        {
+            "id": "2026-12-28-g1",
+            "type": "literary_register",
+            "difficulty": "easy",
+            "title": "poetic dawn",
+            "words": [
+                "morn",
+                "aurora",
+                "daybreak",
+                "sunrise"
+            ]
+        },
+        {
+            "id": "2026-12-28-g2",
+            "type": "physical_trait",
+            "difficulty": "medium",
+            "title": "gauntness",
+            "words": [
+                "lean",
+                "scrawny",
+                "rangy",
+                "cadaverous"
+            ]
+        },
+        {
+            "id": "2026-12-28-g3",
+            "type": "thematic_association",
+            "difficulty": "hard",
+            "title": "alchemy",
+            "words": [
+                "retort",
+                "crucible",
+                "elixir",
+                "athanor"
+            ]
+        },
+        {
+            "id": "2026-12-28-g4",
+            "type": "emotional_tone",
+            "difficulty": "very_hard",
+            "title": "gloom",
+            "words": [
+                "doleful",
+                "morose",
+                "lugubrious",
+                "sullen"
+            ]
+        }
+    ]
+}

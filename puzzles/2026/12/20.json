@@ -1,0 +1,53 @@
+{
+    "date": "2026-12-20",
+    "groups": [
+        {
+            "id": "2026-12-20-g1",
+            "type": "semantic_field",
+            "difficulty": "easy",
+            "title": "bog landforms",
+            "words": [
+                "mire",
+                "fen",
+                "moor",
+                "quagmire"
+            ]
+        },
+        {
+            "id": "2026-12-20-g2",
+            "type": "informal_register",
+            "difficulty": "medium",
+            "title": "money",
+            "words": [
+                "dosh",
+                "spondulix",
+                "gelt",
+                "wad"
+            ]
+        },
+        {
+            "id": "2026-12-20-g3",
+            "type": "sound_association",
+            "difficulty": "hard",
+            "title": "long o sounds",
+            "words": [
+                "goad",
+                "yolk",
+                "sew",
+                "ode"
+            ]
+        },
+        {
+            "id": "2026-12-20-g4",
+            "type": "etymological_relation",
+            "difficulty": "very_hard",
+            "title": "light roots",
+            "words": [
+                "lucid",
+                "translucent",
+                "pellucid",
+                "elucidate"
+            ]
+        }
+    ]
+}

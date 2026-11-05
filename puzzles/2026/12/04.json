@@ -1,0 +1,53 @@
+{
+    "date": "2026-12-04",
+    "groups": [
+        {
+            "id": "2026-12-04-g1",
+            "type": "thematic_association",
+            "difficulty": "easy",
+            "title": "stage illusion",
+            "words": [
+                "trapdoor",
+                "curtain",
+                "applause",
+                "encore"
+            ]
+        },
+        {
+            "id": "2026-12-04-g2",
+            "type": "emotional_tone",
+            "difficulty": "medium",
+            "title": "sullen moods",
+            "words": [
+                "morose",
+                "sulky",
+                "glum",
+                "peevish"
+            ]
+        },
+        {
+            "id": "2026-12-04-g3",
+            "type": "morphological_family",
+            "difficulty": "hard",
+            "title": "speak forms",
+            "words": [
+                "fable",
+                "fate",
+                "infant",
+                "preface"
+            ]
+        },
+        {
+            "id": "2026-12-04-g4",
+            "type": "informal_register",
+            "difficulty": "very_hard",
+            "title": "money slang",
+            "words": [
+                "gelt",
+                "brass",
+                "scrip",
+                "wonga"
+            ]
+        }
+    ]
+}

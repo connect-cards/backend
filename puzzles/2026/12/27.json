@@ -1,0 +1,53 @@
+{
+    "date": "2026-12-27",
+    "groups": [
+        {
+            "id": "2026-12-27-g1",
+            "type": "thematic_association",
+            "difficulty": "easy",
+            "title": "funeral rites",
+            "words": [
+                "bier",
+                "dirge",
+                "urn",
+                "wreath"
+            ]
+        },
+        {
+            "id": "2026-12-27-g2",
+            "type": "semantic_field",
+            "difficulty": "medium",
+            "title": "mountain landforms",
+            "words": [
+                "ridge",
+                "scree",
+                "crag",
+                "gully"
+            ]
+        },
+        {
+            "id": "2026-12-27-g3",
+            "type": "synonym",
+            "difficulty": "hard",
+            "title": "briefness",
+            "words": [
+                "brevity",
+                "succinctness",
+                "concision",
+                "pith"
+            ]
+        },
+        {
+            "id": "2026-12-27-g4",
+            "type": "literary_register",
+            "difficulty": "very_hard",
+            "title": "archaic pronouns",
+            "words": [
+                "thou",
+                "thee",
+                "thy",
+                "thine"
+            ]
+        }
+    ]
+}

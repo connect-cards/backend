@@ -1,0 +1,53 @@
+{
+    "date": "2026-12-12",
+    "groups": [
+        {
+            "id": "2026-12-12-g1",
+            "type": "morphological_family",
+            "difficulty": "easy",
+            "title": "write forms",
+            "words": [
+                "write",
+                "wrote",
+                "written",
+                "writing"
+            ]
+        },
+        {
+            "id": "2026-12-12-g2",
+            "type": "synonym",
+            "difficulty": "medium",
+            "title": "brief",
+            "words": [
+                "terse",
+                "succinct",
+                "laconic",
+                "pithy"
+            ]
+        },
+        {
+            "id": "2026-12-12-g3",
+            "type": "thematic_association",
+            "difficulty": "hard",
+            "title": "winter weather",
+            "words": [
+                "sleet",
+                "rime",
+                "slush",
+                "flurry"
+            ]
+        },
+        {
+            "id": "2026-12-12-g4",
+            "type": "profession_domain",
+            "difficulty": "very_hard",
+            "title": "masonry tools",
+            "words": [
+                "trowel",
+                "plumb",
+                "hod",
+                "float"
+            ]
+        }
+    ]
+}

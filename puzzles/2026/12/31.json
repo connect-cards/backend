@@ -1,0 +1,53 @@
+{
+    "date": "2026-12-31",
+    "groups": [
+        {
+            "id": "2026-12-31-g1",
+            "type": "etymological_relation",
+            "difficulty": "easy",
+            "title": "water roots",
+            "words": [
+                "aquatic",
+                "aquifer",
+                "aqueduct",
+                "aqueous"
+            ]
+        },
+        {
+            "id": "2026-12-31-g2",
+            "type": "physical_trait",
+            "difficulty": "medium",
+            "title": "thin build",
+            "words": [
+                "gaunt",
+                "lanky",
+                "spare",
+                "rangy"
+            ]
+        },
+        {
+            "id": "2026-12-31-g3",
+            "type": "synonym",
+            "difficulty": "hard",
+            "title": "bother",
+            "words": [
+                "irk",
+                "vex",
+                "peeve",
+                "gall"
+            ]
+        },
+        {
+            "id": "2026-12-31-g4",
+            "type": "literary_register",
+            "difficulty": "very_hard",
+            "title": "old insults",
+            "words": [
+                "cur",
+                "knave",
+                "wretch",
+                "miscreant"
+            ]
+        }
+    ]
+}

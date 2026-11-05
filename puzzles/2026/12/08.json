@@ -1,0 +1,53 @@
+{
+    "date": "2026-12-08",
+    "groups": [
+        {
+            "id": "2026-12-08-g1",
+            "type": "sound_association",
+            "difficulty": "easy",
+            "title": "sudden noises",
+            "words": [
+                "clang",
+                "thud",
+                "snap",
+                "crash"
+            ]
+        },
+        {
+            "id": "2026-12-08-g2",
+            "type": "literary_register",
+            "difficulty": "medium",
+            "title": "story beginnings",
+            "words": [
+                "once",
+                "when",
+                "ere",
+                "anon"
+            ]
+        },
+        {
+            "id": "2026-12-08-g3",
+            "type": "profession_domain",
+            "difficulty": "hard",
+            "title": "law practice",
+            "words": [
+                "tort",
+                "estoppel",
+                "affidavit",
+                "lien"
+            ]
+        },
+        {
+            "id": "2026-12-08-g4",
+            "type": "synonym",
+            "difficulty": "very_hard",
+            "title": "brief",
+            "words": [
+                "terse",
+                "laconic",
+                "pithy",
+                "succinct"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "date": "2026-12-26",
+    "groups": [
+        {
+            "id": "2026-12-26-g1",
+            "type": "informal_register",
+            "difficulty": "easy",
+            "title": "criticize casually",
+            "words": [
+                "bash",
+                "dump",
+                "rag",
+                "slam"
+            ]
+        },
+        {
+            "id": "2026-12-26-g2",
+            "type": "profession_domain",
+            "difficulty": "medium",
+            "title": "sailing",
+            "words": [
+                "keel",
+                "mast",
+                "rudder",
+                "tiller"
+            ]
+        },
+        {
+            "id": "2026-12-26-g3",
+            "type": "sound_association",
+            "difficulty": "hard",
+            "title": "murmuring sounds",
+            "words": [
+                "susurrus",
+                "whisper",
+                "rustle",
+                "murmur"
+            ]
+        },
+        {
+            "id": "2026-12-26-g4",
+            "type": "synonym",
+            "difficulty": "very_hard",
+            "title": "darken",
+            "words": [
+                "benight",
+                "obscure",
+                "occlude",
+                "eclipse"
+            ]
+        }
+    ]
+}

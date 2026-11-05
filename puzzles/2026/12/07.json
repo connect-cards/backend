@@ -1,0 +1,53 @@
+{
+    "date": "2026-12-07",
+    "groups": [
+        {
+            "id": "2026-12-07-g1",
+            "type": "informal_register",
+            "difficulty": "easy",
+            "title": "annoying people",
+            "words": [
+                "jerk",
+                "creep",
+                "dork",
+                "twit"
+            ]
+        },
+        {
+            "id": "2026-12-07-g2",
+            "type": "literary_register",
+            "difficulty": "medium",
+            "title": "ancient pronouns",
+            "words": [
+                "thou",
+                "thee",
+                "thy",
+                "thine"
+            ]
+        },
+        {
+            "id": "2026-12-07-g3",
+            "type": "physical_trait",
+            "difficulty": "hard",
+            "title": "skin textures",
+            "words": [
+                "calloused",
+                "sallow",
+                "downy",
+                "leathery"
+            ]
+        },
+        {
+            "id": "2026-12-07-g4",
+            "type": "sound_association",
+            "difficulty": "very_hard",
+            "title": "soft speech sounds",
+            "words": [
+                "murmur",
+                "susurrus",
+                "whisper",
+                "rustle"
+            ]
+        }
+    ]
+}

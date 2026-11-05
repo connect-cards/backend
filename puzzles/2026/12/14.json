@@ -1,0 +1,53 @@
+{
+    "date": "2026-12-14",
+    "groups": [
+        {
+            "id": "2026-12-14-g1",
+            "type": "synonym",
+            "difficulty": "easy",
+            "title": "harsh speech",
+            "words": [
+                "acerbic",
+                "caustic",
+                "mordant",
+                "trenchant"
+            ]
+        },
+        {
+            "id": "2026-12-14-g2",
+            "type": "profession_domain",
+            "difficulty": "medium",
+            "title": "mason items",
+            "words": [
+                "trowel",
+                "plumb",
+                "mortar",
+                "grout"
+            ]
+        },
+        {
+            "id": "2026-12-14-g3",
+            "type": "etymological_relation",
+            "difficulty": "hard",
+            "title": "led words",
+            "words": [
+                "ductile",
+                "aqueduct",
+                "abduction",
+                "viaduct"
+            ]
+        },
+        {
+            "id": "2026-12-14-g4",
+            "type": "morphological_family",
+            "difficulty": "very_hard",
+            "title": "root take",
+            "words": [
+                "prehensile",
+                "apprehend",
+                "comprehend",
+                "reprehend"
+            ]
+        }
+    ]
+}
